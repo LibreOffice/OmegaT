@@ -1352,14 +1352,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>&lt;/f2&gt;&lt;a4&gt;&lt;f5&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f5&gt;&lt;/a4&gt;</seg>
-      </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20150222T181137Z" creationid="milos" creationdate="20150222T181137Z">
-        <seg>&lt;/f2&gt;&lt;a4&gt;&lt;f5&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f5&gt;&lt;/a4&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>&lt;/f3&gt;&lt;a5&gt;&lt;f6&gt;https://wiki.documentfoundation.org/Documentation/Publications&lt;/f6&gt;&lt;/a5&gt;</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140613T134628Z" creationid="milos" creationdate="20140613T134628Z">
@@ -1402,8 +1394,8 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;f1&gt;http://www.libreoffice.org/get-help/documentation/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt;&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20150222T181130Z" creationid="milos" creationdate="20150222T181130Z">
-        <seg>&lt;a0&gt;&lt;f1&gt;http://www.libreoffice.org/get-help/documentation/&lt;/f1&gt;&lt;/a0&gt;&lt;f2&gt;&lt;br3/&gt;</seg>
+      <tuv lang="SK" changeid="milos" changedate="20150222T181155Z" creationid="milos" creationdate="20150222T181130Z">
+        <seg>&lt;a0&gt;&lt;f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46725,6 +46717,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some Linux operating systems include LibreOffice as part of the installation but may not include the Tango set of icons.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150222T181318Z" creationid="milos" creationdate="20150222T181318Z">
+        <seg>V niektorých distribúciách operačného systému Linux, ako napríklad v Ubuntu, je LibreOffice dostupný v úložisku softvéru, odkiaľ je aj nainštalovaný. Sada ikon Tango pritom nie je štandardne nainštalovaná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some Linux operating systems, for example Ubuntu, include LibreOffice as part of the installation and may not include the Galaxy set of icons.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131104T085523Z" creationid="milos" creationdate="20131104T085433Z">
@@ -67242,6 +67242,14 @@
         <seg>You should be able to download the Galaxy icon set from the software repository for your Linux operating system.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140615T192924Z" creationid="milos" creationdate="20131104T085501Z">
+        <seg>Z tohto úložiska si ju však môžeme nainštalovať.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should be able to download the Tango icon set from the software repository for your Linux operating system.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150222T181323Z" creationid="milos" creationdate="20150222T181323Z">
         <seg>Z tohto úložiska si ju však môžeme nainštalovať.</seg>
       </tuv>
     </tu>
