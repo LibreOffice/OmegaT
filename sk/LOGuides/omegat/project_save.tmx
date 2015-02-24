@@ -1640,6 +1640,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt; | &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;What is LibreOffice?&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085204Z" creationid="milos" creationdate="20150224T085204Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt; | &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt;&lt;t7&gt;Čo je LibreOffice??&lt;/t7&gt;&lt;/f6&gt;&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;s1/&gt;MsgBox &lt;/f0&gt;&lt;f2&gt;"This macro only works with a text document"&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131215T100152Z" creationid="milos" creationdate="20131011T134801Z">
@@ -1684,6 +1692,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131011T134759Z" creationid="milos" creationdate="20131011T134759Z">
         <seg>&lt;f0&gt;&lt;s1/&gt;sTextService &lt;/f0&gt;&lt;f2&gt;=&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;"com.sun.star.text.TextDocument"&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Introducing LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085300Z" creationid="milos" creationdate="20150224T085300Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Úvod do programu LibreOffice&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5008,6 +5024,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;20&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;Closing LibreOffice&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085214Z" creationid="milos" creationdate="20150224T085214Z">
+        <seg>&lt;t0&gt;20&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;Zatvorenie aplikácie LibreOffice&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Figure 10&lt;/t0&gt; shows the Elements window after clicking the Relations button.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140214T170938Z" creationid="milos" creationdate="20140214T143554Z">
@@ -5064,10 +5088,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Introducing LibreOffice&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085227Z" creationid="milos" creationdate="20150224T085227Z">
+        <seg>&lt;t0&gt;Úvod do programu LibreOffice&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Listing 2&lt;/t0&gt; shows the new macro has been added before Sub Main.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140529T091852Z" creationid="milos" creationdate="20131127T154941Z">
         <seg>Výpis &lt;t0&gt;2&lt;/t0&gt; zobrazuje makro, ktoré bolo pridané pred Sub Main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Undoing and redoing changes&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;19&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085142Z" creationid="milos" creationdate="20150224T085142Z">
+        <seg>&lt;t0&gt;Vrátenie a zopakovanie vrátených zmien&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;19&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14030,6 +14070,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140305T080709Z" creationid="milos" creationdate="20140305T080709Z">
         <seg>Klikneme na malý trojuholník vpravo vedľa ikony &lt;f0&gt;Otvoriť&lt;/f0&gt;, čím otvoríme zoznam všetkých nedávno otvorených dokumentov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the small triangle to the right of the &lt;f5&gt;Undo&lt;/f5&gt; icon to get a list of all the changes that can be undone.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085050Z" creationid="milos" creationdate="20150224T085050Z">
+        <seg>Kliknutím na malý trojuholník vpravo vedľa ikony &lt;f5&gt;Späť&lt;/f5&gt; otvoríme zoznam všetkých zmien, ktoré možno vrátiť.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58498,6 +58546,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To open the Navigator, click the &lt;f0&gt;Navigator&lt;/f0&gt; icon on the Standard toolbar, or press the &lt;f1&gt;F5&lt;/f1&gt; key, or go to &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085008Z" creationid="milos" creationdate="20150224T085008Z">
+        <seg>Navigátor môžeme otvoriť kliknutím na ikonu &lt;f0&gt;Navigátor&lt;/f0&gt; na paneli nástrojov Štandardný, stlačením klávesu &lt;f1&gt;F5&lt;/f1&gt; alebo zvolením položky &lt;f2&gt;Zobraziť &gt; Navigátor&lt;/f2&gt; v hlavnej ponuke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To open the table wizard, begin in the main database window.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141013T155130Z" creationid="milos" creationdate="20140805T203541Z">
@@ -58686,6 +58742,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141016T104624Z" creationid="milos" creationdate="20141016T104624Z">
         <seg>Zmeny môžeme zopakovať pomocou klávesovej skratky &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, kliknutím na ikonu &lt;f1&gt;Znovu&lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; na paneli nástrojov Štandardný alebo zvolením &lt;f5&gt;Upraviť &gt; Znova&lt;/f5&gt; v hlavnej ponuke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To redo a change use the keyboard shortcut &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, or click the &lt;f1&gt;Redo&lt;/f1&gt; icon, or go to &lt;f2&gt;Edit &gt; Redo&lt;/f2&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085116Z" creationid="milos" creationdate="20150224T085116Z">
+        <seg>Zmeny môžeme zopakovať pomocou klávesovej skratky &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, kliknutím na ikonu &lt;f1&gt;Znovu&lt;/f1&gt; na paneli nástrojov Štandardný alebo zvolením &lt;f2&gt;Upraviť &gt; Znova&lt;/f2&gt; v hlavnej ponuke.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59423,6 +59487,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141016T104613Z" creationid="milos" creationdate="20141016T104613Z">
         <seg>Keď chceme vrátiť poslednú &lt;i0/&gt;zmenu v dokumente, stlačíme &lt;f1&gt;Ctrl+Z&lt;/f1&gt;, klikneme na ikonu &lt;i2/&gt;&lt;f3&gt;Späť&lt;/f3&gt; &lt;f4&gt;&lt;df5&gt;&lt;di6/&gt; &lt;/df5&gt;&lt;/f4&gt; na paneli nástrojov Štandardný alebo v hlavnej ponuke zvolíme &lt;f7&gt;Upraviť &gt; Späť&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To undo the most recent &lt;i0/&gt;change in a document, use the keyboard shortcut &lt;f1&gt;Ctrl+Z,&lt;/f1&gt; or click the &lt;i2/&gt;&lt;f3&gt;Undo&lt;/f3&gt; icon on the Standard toolbar, or go to &lt;f4&gt;Edit &gt; Undo&lt;/f4&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20150224T085040Z" creationid="milos" creationdate="20150224T085040Z">
+        <seg>Keď chceme vrátiť poslednú &lt;i0/&gt;zmenu v dokumente, stlačíme &lt;f1&gt;Ctrl+Z&lt;/f1&gt;, klikneme na ikonu &lt;i2/&gt;&lt;f3&gt;Späť&lt;/f3&gt; na paneli nástrojov Štandardný alebo v hlavnej ponuke zvolíme &lt;f4&gt;Upraviť &gt; Späť&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
