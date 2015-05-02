@@ -2144,8 +2144,8 @@
       <tuv lang="EN">
         <seg>&lt;f1&gt;By default, t&lt;/f1&gt;he tools are separated into the following three panels for text editing:</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20141219T194248Z" creationid="standa" creationdate="20141219T194248Z">
-        <seg>Nástroje jsou ve výchozím nastavení rozděleny do následujících tří panelů:</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203349Z" creationid="standa" creationdate="20141219T194248Z">
+        <seg>Nástroje jsou &lt;f1&gt;ve výchozím nastavení&lt;/f1&gt; rozděleny do následujících tří panelů:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2232,8 +2232,8 @@
       <tuv lang="EN">
         <seg>&lt;f4&gt;In contrast, t&lt;/f4&gt;he Sidebar Navigator does not contain a &lt;f5&gt;List Box On/Off&lt;/f5&gt; button.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20141219T201731Z" creationid="standa" creationdate="20141219T201731Z">
-        <seg>Navigátor v postranní liště však neobsahuje tlačítko &lt;f5&gt;Seznam zap/vyp&lt;/f5&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203830Z" creationid="standa" creationdate="20141219T201731Z">
+        <seg>&lt;f4&gt;&lt;/f4&gt;Navigátor v postranní liště však neobsahuje tlačítko &lt;f5&gt;Seznam zap/vyp&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2774,6 +2774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A particular cell is identified by its row number and column letter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205630Z" creationid="standa" creationdate="20150326T205630Z">
+        <seg>Určitá buňka se dá identifikovat podle čísla řádku a písmene sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A permanent grouping of objects is created after you have selected your objects and then going to &lt;f0&gt;Modify &gt; Group&lt;/f0&gt; on the main menu bar, or right clicking on the selection and select &lt;f1&gt;Group&lt;/f1&gt; from the context menu, or using the keyboard shortcut &lt;f2&gt;Ctrl+Shift+G&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T205007Z" creationid="standa" creationdate="20140218T203550Z">
@@ -2930,6 +2938,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T204629Z" creationid="standa" creationdate="20140321T204601Z">
         <seg>U objektu se zobrazí také žlutá tečka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ability to open, edit, and save Microsoft Excel spreadsheets.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205121Z" creationid="standa" creationdate="20150326T205121Z">
+        <seg>Schopnost otevírat, upravovat a ukládat sešity programu Microsoft Excel,</seg>
       </tuv>
     </tu>
     <tu>
@@ -3410,6 +3426,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T204529Z" creationid="standa" creationdate="20141226T204529Z">
         <seg>Druhou možností je použít tlačítka na nástrojové liště &lt;f3&gt;Standardní&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, you can enter data and then use Calc in a ‘What if...’ manner by changing some of the data and observing the results without having to retype the entire spreadsheet or sheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204724Z" creationid="standa" creationdate="20150326T204724Z">
+        <seg>Je také možné zadat data a pak použít Calc pro úlohy typu „Co když…“: některé z údajů změníme a zkoumáme, jak se změní výsledky, aniž bychom museli vytvářet nový sešit nebo list.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4630,6 +4654,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc is the spreadsheet component of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204519Z" creationid="standa" creationdate="20150326T204519Z">
+        <seg>Calc je součást balíku LibreOffice určená pro práci s tabulkovými sešity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc main window</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203645Z" creationid="standa" creationdate="20150326T203645Z">
+        <seg>Calc main window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc spreadsheets</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140306T171526Z" creationid="standa" creationdate="20140306T171526Z">
@@ -4642,6 +4682,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140222T212336Z" creationid="standa" creationdate="20140222T212336Z">
         <seg>Program Calc vždy zobrazí absolutní hypertextový odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc works with elements called &lt;i0/&gt;&lt;f1&gt;spreadsheets&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205457Z" creationid="standa" creationdate="20150326T205457Z">
+        <seg>Calc pracuje s dokumenty označovanými jako &lt;i0/&gt;&lt;f1&gt;sešity&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4730,6 +4778,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140106T204459Z" creationid="standa" creationdate="20140106T204459Z">
         <seg>Buňka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cell navigation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204225Z" creationid="standa" creationdate="20150326T204225Z">
+        <seg>Cell navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cells hold the individual elements – text, numbers, formulas, and so on – that make up the data to display and manipulate.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150502T183648Z" creationid="standa" creationdate="20150502T183648Z">
+        <seg>V buňkách jsou uloženy jednotlivé prvky (text, čísla, vzorce atd), které umožňují zobrazovat a zpracovávat data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7470,6 +7534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizing the Enter key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204450Z" creationid="standa" creationdate="20150326T204450Z">
+        <seg>Customizing the Enter key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing toolbars</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T202047Z" creationid="standa" creationdate="20140417T202047Z">
@@ -7522,6 +7594,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T195826Z" creationid="standa" creationdate="20141012T195826Z">
         <seg>Zdroj dat připojený k dokumentu a jeho pohled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database functions, to arrange, store, and filter data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205001Z" creationid="standa" creationdate="20150326T205001Z">
+        <seg>Databázové funkce umožňující data řadit, ukládat a filtrovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8502,6 +8582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dynamic charts; a wide range of 2D and 3D charts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205017Z" creationid="standa" creationdate="20150326T205017Z">
+        <seg>Dynamické grafy: je možné použít široký rozsah 2D a 3D grafů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dynamic transparency &lt;is0/&gt;gradients</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T074645Z" creationid="standa" creationdate="20140218T074645Z">
@@ -8578,6 +8666,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T193029Z" creationid="standa" creationdate="20140131T082035Z">
         <seg>Každým klepnutím myší vložíme vrchol a můžeme pokračovat kreslením další čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each spreadsheet can have several sheets, and each sheet can have several individual cells.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150502T183720Z" creationid="standa" creationdate="20150502T183720Z">
+        <seg>Každý sešit může mít mnoho listů a každý list může mít mnoho buněk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12142,6 +12238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formula bar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203832Z" creationid="standa" creationdate="20150326T203832Z">
+        <seg>Formula bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Frame</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140106T204436Z" creationid="standa" creationdate="20140106T204436Z">
@@ -12266,6 +12370,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T194709Z" creationid="standa" creationdate="20141005T194709Z">
         <seg>Funkce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions, which can be used to create formulas to perform complex calculations on data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204911Z" creationid="standa" creationdate="20150326T204911Z">
+        <seg>Funkce, které lze použít k vytváření vzorců umožňujících provádět s daty komplexní výpočty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14824,8 +14936,8 @@
       <tuv lang="EN">
         <seg>If you use the default tab spacing and then send the document to someone else who has &lt;t0/&gt;chosen a different default tab spacing, tabbed material will change to use the other person’s settings.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150110T183327Z" creationid="standa" creationdate="20150110T183327Z">
-        <seg>Pokud použijeme výchozí kroky tabulátoru a pak dokument odešleme někomu, kdo používá jiné výchozí rozložení kroků tabulátoru, odsazení se změní podle jeho osobních nastavení.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203915Z" creationid="standa" creationdate="20150110T183327Z">
+        <seg>Pokud použijeme výchozí kroky tabulátoru a pak dokument odešleme někomu, kdo &lt;t0/&gt;používá jiné výchozí rozložení kroků tabulátoru, odsazení se změní podle jeho osobních nastavení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14866,6 +14978,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140306T170119Z" creationid="standa" creationdate="20140306T170119Z">
         <seg>Chceme-li mít v souboru HTML nebo na webové stránce mezery navíc, je nutné v LibreOffice vložit nezlomitelné mezery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use macros written in Microsoft Excel using the VBA macro code in LibreOffice, you must first edit the code in the LibreOffice Basic IDE editor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205255Z" creationid="standa" creationdate="20150326T205255Z">
+        <seg>Pokud chceme v LibreOffice používat makra vytvořená v jazyce VBA v programu Microsoft Excel, musíme nejprve v editoru LibreOffice Basic IDE upravit jejich kód.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14970,6 +15090,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T204428Z" creationid="standa" creationdate="20141022T204428Z">
         <seg>Import – Použít pro čísla nastavení 'Angličtina (USA)'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import and export of spreadsheets in multiple formats, including HTML, CSV, PDF, and PostScript.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205143Z" creationid="standa" creationdate="20150326T205143Z">
+        <seg>importovat a exportovat sešity v mnoha formátech včetně HTML, CSV, PDF a PostScriptu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16710,6 +16838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyboard navigation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204441Z" creationid="standa" creationdate="20150326T204441Z">
+        <seg>Keyboard navigation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140401T194237Z" creationid="standa" creationdate="20140401T194237Z">
@@ -17274,6 +17410,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T194745Z" creationid="standa" creationdate="20141008T194745Z">
         <seg>Zabezpečení maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macros, for recording and executing repetitive tasks; scripting languages supported include LibreOffice Basic, Python, BeanShell, and JavaScript.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205109Z" creationid="standa" creationdate="20150326T205109Z">
+        <seg>Makra pro zaznamenávání a spouštění často opakovaných úkolů. Mezi podporované skriptovací jazyky na tvorbu maker patří LibreOffice Basic, Python, BeanShell a JavaScript,</seg>
       </tuv>
     </tu>
     <tu>
@@ -17874,6 +18018,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T205043Z" creationid="standa" creationdate="20140112T205043Z">
         <seg>Přejdeme na šablonu, kterou chceme upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigating within spreadsheets</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204150Z" creationid="standa" creationdate="20150326T204150Z">
+        <seg>Navigating within spreadsheets</seg>
       </tuv>
     </tu>
     <tu>
@@ -18830,6 +18982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening a CSV file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203919Z" creationid="standa" creationdate="20150326T203919Z">
+        <seg>Opening a CSV file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening a window, switching between windows, and recording in a different window to that in which the recording began, is not supported.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141011T203517Z" creationid="standa" creationdate="20141011T203517Z">
@@ -18954,6 +19114,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222742Z" creationid="standa" creationdate="20140103T222742Z">
         <seg>Správa šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other features provided by Calc include:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204829Z" creationid="standa" creationdate="20150326T204829Z">
+        <seg>Program Calc nabízí mimo jiné následující funkce:</seg>
       </tuv>
     </tu>
     <tu>
@@ -20206,6 +20374,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving in other spreadsheet formats</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204116Z" creationid="standa" creationdate="20150326T204116Z">
+        <seg>Saving in other spreadsheet formats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saving spreadsheets</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203937Z" creationid="standa" creationdate="20150326T203937Z">
+        <seg>Saving spreadsheets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Screen only checkbox</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T191718Z" creationid="standa" creationdate="20141008T191718Z">
@@ -20250,6 +20434,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141219T190500Z" creationid="standa" creationdate="20141219T190500Z">
         <seg>Viz &lt;f0&gt;&lt;t1&gt;obrázek 4&lt;/t1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;f0&gt;Chapter 13 Getting Started with Macros&lt;/f0&gt; and &lt;f1&gt;Calc Guide Chapter 12 Calc Macros&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205342Z" creationid="standa" creationdate="20150326T205342Z">
+        <seg>Více informací se nachází v &lt;f0&gt;kapitole 13 Začínáme s makry&lt;/f0&gt; a &lt;f1&gt;kapitole 12 Calc Macros příručky Calc Guide&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20408,8 +20600,8 @@
       <tuv lang="EN">
         <seg>See Chapter 3, &lt;f0&gt;Using &lt;/f0&gt;Styles and Templates, for more about styles based on other styles.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150122T201456Z" creationid="standa" creationdate="20150122T201456Z">
-        <seg>Více informací o stylech založených na jiných stylech se nachází v kapitole 3 Používáme styly a šablony.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204135Z" creationid="standa" creationdate="20150122T201456Z">
+        <seg>Více informací o stylech založených na jiných stylech se nachází v kapitole 3 &lt;f0&gt;Používáme styly a šablony&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20776,8 +20968,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;if you do not want to apply the changed styles in the template to the document.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150326T203315Z" creationid="standa" creationdate="20140407T163051Z">
-        <seg>Pokud nechceme v dokumentu styly ze změněné šablony použít, vybereme &lt;f1&gt;Ponechat původní styly&lt;/f1&gt;&lt;f1&gt; &lt;/f1&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203640Z" creationid="standa" creationdate="20140407T163051Z">
+        <seg>Pokud nechceme v dokumentu styly ze změněné šablony použít, vybereme &lt;f0&gt;Ponechat původní styly&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21454,10 +21646,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting items in a spreadsheet</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150502T183545Z" creationid="standa" creationdate="20150502T183545Z">
+        <seg>Selecting items in a spreadsheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting items that are not &lt;be0/&gt;consecutive</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20141226T190751Z" creationid="standa" creationdate="20141226T190751Z">
-        <seg>Výběr nesouvislého textu</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203846Z" creationid="standa" creationdate="20141226T190751Z">
+        <seg>Výběr &lt;be0/&gt;nesouvislého textu</seg>
       </tuv>
     </tu>
     <tu>
@@ -21690,6 +21890,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T173011Z" creationid="standa" creationdate="20140317T173011Z">
         <seg>Stín</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sheet navigation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204241Z" creationid="standa" creationdate="20150326T204241Z">
+        <seg>Sheet navigation</seg>
       </tuv>
     </tu>
     <tu>
@@ -22130,6 +22338,30 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T170326Z" creationid="standa" creationdate="20150110T170326Z">
         <seg>Spencer E. Harpe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheet layout</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203850Z" creationid="standa" creationdate="20150326T203850Z">
+        <seg>Spreadsheet layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets consist of a number of individual &lt;i2/&gt;&lt;f3&gt;sheets&lt;/f3&gt;, each sheet containing cells arranged in rows and columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205617Z" creationid="standa" creationdate="20150326T205617Z">
+        <seg>Sešit se skládá z jednotlivých &lt;i2/&gt;&lt;f3&gt;listů&lt;/f3&gt;, každý list obsahuje buňky uspořádané v řádcích a sloupcích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spreadsheets, sheets and cells</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205413Z" creationid="standa" creationdate="20150326T203352Z">
+        <seg>Sešity, listy a buňky</seg>
       </tuv>
     </tu>
     <tu>
@@ -22720,8 +22952,8 @@
       <tuv lang="EN">
         <seg>The Bullets and Numbering features &lt;f0&gt;(drop-down palettes of tools) &lt;/f0&gt;o&lt;f1&gt;n&lt;/f1&gt; the Paragraph panel on the Properties deck of the Sidebar can also be used to create nested lists &lt;f2&gt;and access the Bullets and Numbering dialog&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150122T181743Z" creationid="standa" creationdate="20150122T181509Z">
-        <seg>K vytváření vnořených seznamů &lt;f2&gt;a k přístupu k dialogovému oknu Odrážky a číslování můžeme použít také vlastnosti Odrážky a číslování &lt;f0&gt;(rozbalovací seznamy nebo nástrojů) &lt;/f0&gt;na&lt;f1&gt;&lt;/f1&gt; panelu Odstavec části Vlastnosti postranní lišty.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204206Z" creationid="standa" creationdate="20150122T181509Z">
+        <seg>K vytváření vnořených seznamů a k přístupu k dialogovému oknu Odrážky a číslování můžeme použít také vlastnosti Odrážky a číslování &lt;f0&gt;(rozbalovací seznamy nebo nástrojů) &lt;/f0&gt;na&lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; panelu Odstavec karty Vlastnosti postranní lišty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23240,8 +23472,8 @@
       <tuv lang="EN">
         <seg>The best &lt;i0/&gt;layout method depends on what the final document should look like and what sort of information will be in the document.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150122T202759Z" creationid="standa" creationdate="20150122T202759Z">
-        <seg>&lt;I0/&gt;Způsob rozvržení je třeba zvolit podle toho, jak má výsledný dokument vypadat a jaký druh informací bude obsahovat.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204239Z" creationid="standa" creationdate="20150122T202759Z">
+        <seg>&lt;i0/&gt;Způsob rozvržení je třeba zvolit podle toho, jak má výsledný dokument vypadat a jaký druh informací bude obsahovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25942,6 +26174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Title bar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203811Z" creationid="standa" creationdate="20150326T203811Z">
+        <seg>Title bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;f0&gt;move&lt;/f0&gt; (cut and paste) selected text, use &lt;f1&gt;Ctrl+X&lt;/f1&gt; to cut the text, insert the cursor at the paste-in point and use &lt;f2&gt;Ctrl+V&lt;/f2&gt; to paste.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T204458Z" creationid="standa" creationdate="20141226T204458Z">
@@ -27000,8 +27240,8 @@
       <tuv lang="EN">
         <seg>To insert an image &lt;f2&gt;into a file&lt;/f2&gt;, or add a new image to the &lt;f3&gt;new category&lt;/f3&gt;, just drag and drop the selected image &lt;f4&gt;using the file manager&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20141219T201237Z" creationid="standa" creationdate="20141219T201237Z">
-        <seg>Chceme-li do nové kategorie přidat obrázek, přetáhneme ho tam myší pomocí správce souborů.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203755Z" creationid="standa" creationdate="20141219T201237Z">
+        <seg>Chceme-li do &lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;nové kategorie&lt;/f3&gt; přidat obrázek, přetáhneme ho tam myší &lt;f4&gt;pomocí správce souborů&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28184,8 +28424,8 @@
       <tuv lang="EN">
         <seg>Use &lt;f2&gt;View &gt; Toolbars &gt; Bullets and Numbering&lt;/f2&gt; to see the toolbar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150122T181238Z" creationid="standa" creationdate="20150122T181238Z">
-        <seg>Nástrojovou lištu zobrazíme pomocí &lt;f1&gt;Zobrazit &gt; Nástrojové lišty &gt; Odrážky a číslování&lt;/f1&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T203934Z" creationid="standa" creationdate="20150122T181238Z">
+        <seg>Nástrojovou lištu zobrazíme pomocí &lt;f2&gt;Zobrazit &gt; Nástrojové lišty &gt; Odrážky a číslování&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28584,8 +28824,8 @@
       <tuv lang="EN">
         <seg>Using Spreadsheets in LibreOffice</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150326T202825Z" creationid="standa" creationdate="20150326T202659Z">
-        <seg>Používáme tabulkové sešity v LibreOffice</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204431Z" creationid="standa" creationdate="20150326T202659Z">
+        <seg>Použití tabulkových sešitů v LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -29056,8 +29296,8 @@
       <tuv lang="EN">
         <seg>What is Calc?</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150326T203318Z" creationid="standa" creationdate="20150326T203318Z">
-        <seg>What is Calc?</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204444Z" creationid="standa" creationdate="20150326T203318Z">
+        <seg>Co je Calc?</seg>
       </tuv>
     </tu>
     <tu>
@@ -30974,6 +31214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can enter data (usually numerical) in a spreadsheet and then manipulate this data to produce certain results.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T204544Z" creationid="standa" creationdate="20150326T204544Z">
+        <seg>Do sešitů můžeme vkládat data (obvykle číselná) a pak s nimi pracovat tak, abychom získali určité výsledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can enter the path for the file’s directory in the &lt;f0&gt;Path&lt;/f0&gt; text box, or you can navigate to locate the file’s directory.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T095848Z" creationid="standa" creationdate="20140315T095848Z">
@@ -32130,6 +32378,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T190900Z" creationid="standa" creationdate="20150326T190900Z">
         <seg>záložky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cells</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150502T183552Z" creationid="standa" creationdate="20150502T183552Z">
+        <seg>buňky</seg>
       </tuv>
     </tu>
     <tu>
@@ -33782,6 +34038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sheets</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205420Z" creationid="standa" creationdate="20150326T205420Z">
+        <seg>listy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>show or hide icons</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T152441Z" creationid="standa" creationdate="20140501T152441Z">
@@ -33842,6 +34106,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T191627Z" creationid="standa" creationdate="20141018T191627Z">
         <seg>možnosti kontroly pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>spreadsheets</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150326T205348Z" creationid="standa" creationdate="20150326T205348Z">
+        <seg>sešity</seg>
       </tuv>
     </tu>
     <tu>
