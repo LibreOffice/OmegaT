@@ -1016,8 +1016,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Character Set&lt;/f0&gt; – specifies the character set to be used in the imported file.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T105425Z" creationid="install" creationdate="20150618T105425Z">
-        <seg>&lt;f0&gt;Znaková sada&lt;/f0&gt; – specifies the character set to be used in the imported file.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T110742Z" creationid="install" creationdate="20150618T105425Z">
+        <seg>&lt;f0&gt;Znaková sada&lt;/f0&gt; – určuje nastavenou znakovou sadu, použitou v importovaném souboru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1082,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T200553Z" creationid="standa" creationdate="20140321T200450Z">
         <seg>Záložka &lt;f0&gt;Barvu&lt;/f0&gt;: Změníme stávající barvy nebo přidáme nové barvy, které se zobrazí na záložce Oblast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T110156Z" creationid="install" creationdate="20150618T110156Z">
+        <seg>&lt;f0&gt;Typ sloupce&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1186,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T182232Z" creationid="standa" creationdate="20140526T182232Z">
         <seg>Podle velikosti prezentace a počtu obrázků, které obsahuje, se při exportu HTML vytvoří několik souborů HTML, JPG a GIF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – w&lt;f1&gt;hen this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T110022Z" creationid="install" creationdate="20150618T110022Z">
+        <seg>&lt;f0&gt;Detekovat speciální čísla&lt;/f0&gt; – w&lt;f1&gt;hen this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1314,6 +1330,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T185828Z" creationid="standa" creationdate="20140418T185828Z">
         <seg>&lt;f0&gt; Rozsáhlá&lt;/f0&gt; &lt;i1/&gt; &lt;f2&gt;podpora jazyků&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Fields&lt;/f0&gt; – shows how your data will look when it is separated into columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T110054Z" creationid="install" creationdate="20150618T110054Z">
+        <seg>&lt;f0&gt;Pole&lt;/f0&gt; – shows how your data will look when it is separated into columns.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1750,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Merge delimiters&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105823Z" creationid="install" creationdate="20150618T105823Z">
+        <seg>&lt;f0&gt;Sloučit oddělovače&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Method 1&lt;/f0&gt; (selecting a file)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T095435Z" creationid="standa" creationdate="20140315T095435Z">
@@ -1966,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Quoted fields as text&lt;/f0&gt; – when this option is enabled, fields or cells whose values are quoted in their entirety (the first and last characters of the value equal the text delimiter) are imported as text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105953Z" creationid="install" creationdate="20150618T105953Z">
+        <seg>&lt;f0&gt;Pole v uvozovkách jako text&lt;/f0&gt; – when this option is enabled, fields or cells whose values are quoted in their entirety (the first and last characters of the value equal the text delimiter) are imported as text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Rotate&lt;/f0&gt; icon: Rotate the selected object manually using the mouse to drag the object.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T201614Z" creationid="standa" creationdate="20140321T201614Z">
@@ -2134,6 +2174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Standard &lt;/f0&gt;– Calc determines the type of data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T110206Z" creationid="install" creationdate="20150618T110206Z">
+        <seg>&lt;f0&gt;Standardní &lt;/f0&gt;– Calc determines the type of data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Standard HTML format&lt;/f0&gt; – creates standard HTML pages from export pages.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T100407Z" creationid="standa" creationdate="20140309T100407Z">
@@ -2186,6 +2234,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T135006Z" creationid="standa" creationdate="20140501T135006Z">
         <seg>&lt;f0&gt;Tabulka&lt;/f0&gt; – obsahuje všechny příkazy pro vkládání a úpravu tabulek v textovém dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text delimiter&lt;/f0&gt; – select a character to delimit text data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105849Z" creationid="install" creationdate="20150618T105849Z">
+        <seg>&lt;f0&gt;Oddělovač textu&lt;/f0&gt; – select a character to delimit text data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2338,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T200345Z" creationid="standa" creationdate="20140321T200345Z">
         <seg>Záložka &lt;f0&gt;Průhlednost&lt;/f0&gt;: Nastavíme vlastnosti průhlednosti vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;US English&lt;/f0&gt; – numbers formatted in US English are searched for and included regardless of the system language.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T110511Z" creationid="install" creationdate="20150618T110511Z">
+        <seg> &lt;f0&gt;Anglicky (USA)&lt;/f0&gt; – numbers formatted in US English are searched for and included regardless of the system language.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11032,8 +11096,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Text Import dialog</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T104734Z" creationid="install" creationdate="20150618T104734Z">
-        <seg>Obrázek&lt;seq0&gt;6&lt;/seq0&gt;: Dialogové okno Import textu</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T110527Z" creationid="install" creationdate="20150618T104734Z">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Dialogové okno Import textu</seg>
       </tuv>
     </tu>
     <tu>
@@ -19674,6 +19738,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T185448Z" creationid="standa" creationdate="20150110T185448Z">
         <seg>Ostatní položky nabídky jsou popsány níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T110032Z" creationid="install" creationdate="20150618T110032Z">
+        <seg>Ostatní možnosti</seg>
       </tuv>
     </tu>
     <tu>
@@ -30690,6 +30762,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T184210Z" creationid="standa" creationdate="20150502T184210Z">
         <seg>Když sešit ukládáme poprvé, zobrazí se výzva k zadání názvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select &lt;f1&gt;Other&lt;/f1&gt;, you specify the character used to separate data into columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105748Z" creationid="install" creationdate="20150618T105748Z">
+        <seg>When you select &lt;f1&gt;Jiný&lt;/f1&gt;, you specify the character used to separate data into columns.</seg>
       </tuv>
     </tu>
     <tu>
