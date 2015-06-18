@@ -1776,8 +1776,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Merge delimiters&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T105823Z" creationid="install" creationdate="20150618T105823Z">
-        <seg>&lt;f0&gt;Sloučit oddělovače&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T115131Z" creationid="install" creationdate="20150618T105823Z">
+        <seg>&lt;f0&gt;Sloučit oddělovače&lt;/f0&gt; – spojuje po sobě jdoucí oddělovače a odstraní prázdná datová pole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2120,8 +2120,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in your data to delimit the data into columns.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T105709Z" creationid="install" creationdate="20150618T105709Z">
-        <seg>&lt;f0&gt;Odděleno pomocí&lt;/f0&gt; – select the separator used in your data to delimit the data into columns.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T114523Z" creationid="install" creationdate="20150618T105709Z">
+        <seg>&lt;f0&gt;Odděleno pomocí&lt;/f0&gt; – vyberte oddělovač použitý pro rozdělení do sloupců.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2240,8 +2240,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text delimiter&lt;/f0&gt; – select a character to delimit text data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T105849Z" creationid="install" creationdate="20150618T105849Z">
-        <seg>&lt;f0&gt;Oddělovač textu&lt;/f0&gt; – select a character to delimit text data.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T115257Z" creationid="install" creationdate="20150618T105849Z">
+        <seg>&lt;f0&gt;Oddělovač textu&lt;/f0&gt; – vyberte znak pro vymezení textových dat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26454,6 +26454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This custom separator must also be contained in your data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T115035Z" creationid="install" creationdate="20150618T115035Z">
+        <seg>Tento vlastní oddělovač musí být také obsažen v datech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This deck &lt;f1&gt;is similar to the floating&lt;/f1&gt; toolbar that can be accessed from &lt;f2&gt;View &gt; Navigator&lt;/f2&gt; or the &lt;f3&gt;Navigator&lt;/f3&gt; button on the Standard Toolbar.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141219T201643Z" creationid="standa" creationdate="20141219T201643Z">
@@ -30800,8 +30808,8 @@
       <tuv lang="EN">
         <seg>When you select &lt;f1&gt;Other&lt;/f1&gt;, you specify the character used to separate data into columns.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T105748Z" creationid="install" creationdate="20150618T105748Z">
-        <seg>When you select &lt;f1&gt;Jiný&lt;/f1&gt;, you specify the character used to separate data into columns.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T114941Z" creationid="install" creationdate="20150618T105748Z">
+        <seg>Jestliže zvolíte &lt;f1&gt;Jiný&lt;/f1&gt;, sami si určíte znak použitý pro oddělení dat do sloupců.</seg>
       </tuv>
     </tu>
     <tu>
