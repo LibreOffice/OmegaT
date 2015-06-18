@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Character Set&lt;/f0&gt; – specifies the character set to be used in the imported file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105425Z" creationid="install" creationdate="20150618T105425Z">
+        <seg>&lt;f0&gt;Znaková sada&lt;/f0&gt; – specifies the character set to be used in the imported file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Character styles&lt;/f0&gt; affect selected text within a paragraph, such as the font and size of text, or bold and italic formats.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T220232Z" creationid="standa" creationdate="20140105T220232Z">
@@ -1342,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Fixed width&lt;/f0&gt; – separates fixed-width data (equal number of characters) into columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105638Z" creationid="install" creationdate="20150618T105638Z">
+        <seg>&lt;f0&gt;Pevná šířka&lt;/f0&gt; – separates fixed-width data (equal number of characters) into columns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Form&lt;/f0&gt; specifies if the link is to be presented as text or as a button.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141023T195125Z" creationid="standa" creationdate="20141023T195125Z">
@@ -1418,6 +1434,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T205031Z" creationid="standa" creationdate="20140228T205031Z">
         <seg>Hodnota &lt;f0&gt;Rámec&lt;/f0&gt; určuje, jak se hypertextový odkaz otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;From Row&lt;/f0&gt; – specifies the row where you want to start the import.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105608Z" creationid="install" creationdate="20150618T105608Z">
+        <seg>&lt;f0&gt;Od řádku&lt;/f0&gt; – specifies the row where you want to start the import.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1626,6 +1650,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T203021Z" creationid="standa" creationdate="20140228T202712Z">
         <seg>&lt;f0&gt;Internet&lt;/f0&gt;: hypertextový odkaz odkazuje na webovou adresu, která běžně začíná na http://.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Language&lt;/f0&gt;&lt;f1&gt; – determines how the number strings are imported.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105530Z" creationid="install" creationdate="20150618T105530Z">
+        <seg>&lt;f0&gt;Jazyk&lt;/f0&gt;&lt;f1&gt; – determines how the number strings are imported.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,6 +2074,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T202006Z" creationid="standa" creationdate="20140321T202006Z">
         <seg>Ikona &lt;f0&gt;Odsunout do pozadí&lt;/f0&gt;: Přesuneme vybrané objekty za ostatní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in your data to delimit the data into columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105709Z" creationid="install" creationdate="20150618T105709Z">
+        <seg>&lt;f0&gt;Odděleno pomocí&lt;/f0&gt; – select the separator used in your data to delimit the data into columns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Separator Options&lt;/f0&gt; – specifies whether your data uses separators or fixed widths as delimiters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T105623Z" creationid="install" creationdate="20150618T105623Z">
+        <seg>&lt;f0&gt;Možnosti oddělovače&lt;/f0&gt; – specifies whether your data uses separators or fixed widths as delimiters.</seg>
       </tuv>
     </tu>
     <tu>
