@@ -1464,8 +1464,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;From Row&lt;/f0&gt; – specifies the row where you want to start the import.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T105608Z" creationid="install" creationdate="20150618T105608Z">
-        <seg>&lt;f0&gt;Od řádku&lt;/f0&gt; – specifies the row where you want to start the import.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T112451Z" creationid="install" creationdate="20150618T105608Z">
+        <seg>&lt;f0&gt;Od řádku&lt;/f0&gt; – určuje, od kterého řádku se započne import.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25522,6 +25522,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150616T214846Z" creationid="lenochod26" creationdate="20150616T214846Z">
         <seg>Záhlaví řádků používají číslo začínající jedničkou a pokračují dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The rows are visible in the preview window at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T112557Z" creationid="install" creationdate="20150618T112557Z">
+        <seg>Řádky jsou vidět uvnitř okna náhledu v dolní části dialogového okna.</seg>
       </tuv>
     </tu>
     <tu>
