@@ -1088,8 +1088,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Column type&lt;/f0&gt; – select a column in the preview window and select the data type to be applied the imported data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T123601Z" creationid="install" creationdate="20150618T110156Z">
-        <seg>&lt;f0&gt;Typ sloupce&lt;/f0&gt; – vyberte sloupec v okně náhledu a typ dat.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T123833Z" creationid="install" creationdate="20150618T110156Z">
+        <seg>&lt;f0&gt;Typ sloupce&lt;/f0&gt; – vyberte sloupec v okně náhledu a typ dat pro aplikaci u importovaného sloupce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2176,8 +2176,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Standard &lt;/f0&gt;– Calc determines the type of data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T110206Z" creationid="install" creationdate="20150618T110206Z">
-        <seg>&lt;f0&gt;Standardní &lt;/f0&gt;– Calc determines the type of data.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T123901Z" creationid="install" creationdate="20150618T110206Z">
+        <seg>&lt;f0&gt;Standardní &lt;/f0&gt;– Calc sám určí typ dat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2250,6 +2250,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T205255Z" creationid="standa" creationdate="20140228T205255Z">
         <seg>&lt;f0&gt;Text&lt;/f0&gt; stanovuje, jaký text se bude zobrazovat uživateli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; – imported data are treated as text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T123929Z" creationid="install" creationdate="20150618T123929Z">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; – importovaná data jsou považována za text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,8 +2352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;US English&lt;/f0&gt; – numbers formatted in US English are searched for and included regardless of the system language.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T110511Z" creationid="install" creationdate="20150618T110511Z">
-        <seg> &lt;f0&gt;Anglicky (USA)&lt;/f0&gt; – numbers formatted in US English are searched for and included regardless of the system language.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T124027Z" creationid="install" creationdate="20150618T110511Z">
+        <seg> &lt;f0&gt;Anglicky (USA)&lt;/f0&gt; – Čísla formátovaná v americké angličtině jsou vyhledány a jsou zahrnuty bez ohledu na jazyk systému.</seg>
       </tuv>
     </tu>
     <tu>
