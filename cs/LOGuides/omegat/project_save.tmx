@@ -1680,8 +1680,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Language&lt;/f0&gt;&lt;f1&gt; – determines how the number strings are imported.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T111012Z" creationid="install" creationdate="20150618T105530Z">
-        <seg>&lt;f0&gt;Jazyk&lt;/f0&gt;&lt;f1&gt; – určuje, jak jsou numerická řetězce importovány.&lt;br2/&gt;</seg>
+      <tuv lang="CS" changeid="install" changedate="20150618T111853Z" creationid="install" creationdate="20150618T105530Z">
+        <seg>&lt;f0&gt;Jazyk&lt;/f0&gt;&lt;f1&gt; – určuje, jak jsou numerické řetězce importovány.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14010,6 +14010,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T082820Z" creationid="standa" creationdate="20140131T082820Z">
         <seg>Pokud je vybrána Čára od ruky, vyplněná, koncový bod se automaticky spojí s počátečním a objekt se vyplní příslušnou barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Language is set to Default for CSV import, Calc will use the globally set language.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T112122Z" creationid="install" creationdate="20150618T112122Z">
+        <seg>Pokud je pro import CSV Jazyk nastaven na Výchozí, použije Calc globálně nastavený jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Language is set to a specific language, that language will be used when importing numbers.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150618T112306Z" creationid="install" creationdate="20150618T112306Z">
+        <seg>Pokud je Jazyk nastaven na nějaký specifický, bude tento použit pro import čísel.&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
