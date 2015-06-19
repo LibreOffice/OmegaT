@@ -5222,6 +5222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cell references are case-insensitive: for example, typing either a3 or A3 will move the focus to cell A3.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150619T114622Z" creationid="install" creationdate="20150619T114001Z">
+        <seg>Odkazy na buňky se zapisují bez roslišení velikosti písmen: například, napsané a3 nebo A3 přesune označení na buňku A3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cells hold the individual elements – text, numbers, formulas, and so on – that make up the data to display and manipulate.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T183648Z" creationid="standa" creationdate="20150502T183648Z">
@@ -29328,8 +29336,8 @@
       <tuv lang="EN">
         <seg>Type the new cell reference of the cell you want to move to and press &lt;f6&gt;Enter&lt;/f6&gt; key.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150619T113615Z" creationid="install" creationdate="20150619T113615Z">
-        <seg>Zadáme nový odkaz na buňku kam se chcete přesunout, a stiskneme klávesu&lt;f6&gt;Enter&lt;/f6&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150619T114524Z" creationid="install" creationdate="20150619T113615Z">
+        <seg>Zadáme nový odkaz ,podle toho kam se chceme přesunout, a stiskneme klávesu &lt;f6&gt;Enter&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
