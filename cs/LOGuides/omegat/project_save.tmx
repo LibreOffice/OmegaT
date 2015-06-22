@@ -18944,8 +18944,16 @@
       <tuv lang="EN">
         <seg>Moves cell focus to the last column on the right &lt;f0&gt;in the same range of occupied cells &lt;/f0&gt;in that row if cell focus is on a cell containing data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T055620Z" creationid="install" creationdate="20150622T055620Z">
-        <seg>Pokud výchozí označená buňka obsahuje data, přesune označení do posledního sloupce na pravé straně v daném řádku &lt;f0&gt;ve stejném rozsahu obsazených buněk&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150622T093922Z" creationid="install" creationdate="20150622T055620Z">
+        <seg>Pokud výchozí označená buňka obsahuje data, přesune označení do posledního sloupce na pravé straně v daném řádku &lt;f0&gt;při stejném rozsahu obsazených buněk&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the last column on the right in the spreadsheet if there are no more cells containing data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150622T093841Z" creationid="install" creationdate="20150622T093841Z">
+        <seg>Pokud žádné další buňky neobsahující data, přesune v sešitu označení buněk na poslední sloupec vpravo.</seg>
       </tuv>
     </tu>
     <tu>
