@@ -1496,8 +1496,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Function&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt; – clicking on the Function icon inserts an equals (=) sign into the selected cell and the &lt;f5&gt;Input line&lt;/f5&gt;, allowing a formula to be entered.</seg>
       </tuv>
-      <tuv lang="CS" changeid="lenochod26" changedate="20150616T211315Z" creationid="lenochod26" creationdate="20150616T211241Z">
-        <seg>&lt;f0&gt;Funkce&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt; – po klepnutí na ikonu Funkce,  vloží rovná se (=) do vybrané buňky a &lt;f5&gt;Vstupního řádku&lt;/f5&gt;, a poté umožňuje zadat třeba vzorec.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T193120Z" creationid="lenochod26" creationdate="20150616T211241Z">
+        <seg>&lt;f0&gt;Funkce&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt; – po klepnutí na ikonu Funkce se vloží do vybrané buňky a &lt;f5&gt;Vstupního řádku&lt;/f5&gt; znaménko rovná se (=) a poté je možné zadat vzorec.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1672,8 +1672,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Input line&lt;/f0&gt; – displays the contents of the selected cell (data, formula, or function) and allows you to edit the cell contents.</seg>
       </tuv>
-      <tuv lang="CS" changeid="lenochod26" changedate="20150616T211641Z" creationid="lenochod26" creationdate="20150616T211307Z">
-        <seg>&lt;f0&gt;Vstupní řádek&lt;/f0&gt; – zobrazuje obsah vybrané buňky (data, rovnice nebo funkce), a umožňuje jejich úpravu.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T193141Z" creationid="lenochod26" creationdate="20150616T211307Z">
+        <seg>&lt;f0&gt;Vstupní řádek&lt;/f0&gt; – zobrazuje obsah vybrané buňky (data, rovnice nebo funkce) a umožňuje jeho úpravu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15002,6 +15002,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T124433Z" creationid="install" creationdate="20150618T124433Z">
         <seg>Pokud nejsou dostupné žádné anglické (USA) položky, je aplikován &lt;f1&gt;Standardní&lt;/f1&gt; formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are no numbers above the selected cell, then the cells to the left are totaled.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150622T193005Z" creationid="standa" creationdate="20150622T193005Z">
+        <seg>Pokud v buňkách nad vybranou buňkou čísla nejsou, pak se sčítají čísla v buňkách nalevo od vybrané buňky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32304,8 +32312,8 @@
       <tuv lang="EN">
         <seg>You can also edit the contents of a cell directly in the cell itself by double-clicking on the cell.</seg>
       </tuv>
-      <tuv lang="CS" changeid="lenochod26" changedate="20150616T212100Z" creationid="lenochod26" creationdate="20150616T212100Z">
-        <seg>Můžete také upravit obsah buňky přímo v buňce samotné poklepáním na buňce.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T193219Z" creationid="lenochod26" creationdate="20150616T212100Z">
+        <seg>Obsah buňky můžeme upravit také přímo poklepáním na buňku.</seg>
       </tuv>
     </tu>
     <tu>
