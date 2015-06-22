@@ -1392,8 +1392,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fixed width&lt;/f0&gt; – separates fixed-width data (equal number of characters) into columns.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T113931Z" creationid="install" creationdate="20150618T105638Z">
-        <seg>&lt;f0&gt;Pevná šířka&lt;/f0&gt; – odděluje data pevné šířky (stejný počet znaků) ve sloupcích.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T202708Z" creationid="install" creationdate="20150618T105638Z">
+        <seg>&lt;f0&gt;Pevná šířka&lt;/f0&gt; – data se rozdělí do sloupců podle pevné šířky (stejný počet znaků).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1808,8 +1808,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Merge delimiters&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T115131Z" creationid="install" creationdate="20150618T105823Z">
-        <seg>&lt;f0&gt;Sloučit oddělovače&lt;/f0&gt; – spojuje po sobě jdoucí oddělovače a odstraní prázdná datová pole.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T202908Z" creationid="install" creationdate="20150618T105823Z">
+        <seg>&lt;f0&gt;Sloučit oddělovače&lt;/f0&gt; – spojí po sobě jdoucí oddělovače a odstraní prázdná datová pole.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2168,8 +2168,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in your data to delimit the data into columns.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150619T052106Z" creationid="install" creationdate="20150618T105709Z">
-        <seg>&lt;f0&gt;Odděleno pomocí&lt;/f0&gt; – vybereme oddělovač použitý pro rozdělení do sloupců.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T202808Z" creationid="install" creationdate="20150618T105709Z">
+        <seg>&lt;f0&gt;Odděleno pomocí&lt;/f0&gt; – vybereme oddělovač, podle kterého se data rozdělí do sloupců.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,8 +2288,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Text delimiter&lt;/f0&gt; – select a character to delimit text data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T115257Z" creationid="install" creationdate="20150618T105849Z">
-        <seg>&lt;f0&gt;Oddělovač textu&lt;/f0&gt; – vyberte znak pro vymezení textových dat.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T202930Z" creationid="install" creationdate="20150618T105849Z">
+        <seg>&lt;f0&gt;Oddělovač textu&lt;/f0&gt; – vybereme znak, který vymezuje textová data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6800,8 +6800,8 @@
       <tuv lang="EN">
         <seg>Click on the ruler in the preview window to set the width.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150619T052059Z" creationid="install" creationdate="20150618T114140Z">
-        <seg>Klepneme na pravítko v náhledovém okně pro nastavení šířky.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T202738Z" creationid="install" creationdate="20150618T114140Z">
+        <seg>Šířku nastavíme klepnutím na pravítko v okně náhledu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31592,8 +31592,8 @@
       <tuv lang="EN">
         <seg>When you select &lt;f1&gt;Other&lt;/f1&gt;, you specify the character used to separate data into columns.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150619T052122Z" creationid="install" creationdate="20150618T105748Z">
-        <seg>Jestliže zvolíme &lt;f1&gt;Jiný&lt;/f1&gt;, sami si určíme znak použitý pro oddělení dat do sloupců.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T202836Z" creationid="install" creationdate="20150618T105748Z">
+        <seg>Jestliže zvolíme &lt;f1&gt;Jiný&lt;/f1&gt;, znak použitý pro oddělení dat do sloupců určíme sami.</seg>
       </tuv>
     </tu>
     <tu>
