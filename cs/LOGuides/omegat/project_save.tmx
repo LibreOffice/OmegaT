@@ -1200,8 +1200,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – w&lt;f1&gt;hen this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150622T203301Z" creationid="install" creationdate="20150618T110022Z">
-        <seg>&lt;f0&gt;Detekovat speciální čísla&lt;/f0&gt; – &lt;f1&gt;je-li tato možnost povolena, bude Calc automaticky rozpoznávat všechny formáty čísla, včetně speciálních formátů jako jsou data, čas a vědecký zápis.&lt;br2/&gt;</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T203328Z" creationid="install" creationdate="20150618T110022Z">
+        <seg>&lt;f0&gt;Detekovat speciální čísla&lt;/f0&gt; – &lt;f1&gt;je-li tato možnost povolena, bude Calc automaticky detektovat všechny formáty čísla, včetně speciálních formátů jako jsou data, čas a vědecký zápis.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,8 +1352,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Fields&lt;/f0&gt; – shows how your data will look when it is separated into columns.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150619T115729Z" creationid="install" creationdate="20150618T110054Z">
-        <seg>&lt;f0&gt;Pole&lt;/f0&gt; – ukazuje, jak budou data vypadat po rozdělení do sloupců.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T203523Z" creationid="install" creationdate="20150618T110054Z">
+        <seg>&lt;f0&gt;Pole&lt;/f0&gt; – zobrazuje, jak budou data vypadat po rozdělení do sloupců.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26136,8 +26136,8 @@
       <tuv lang="EN">
         <seg>The rest, including numbers formatted in scientific notation, will be imported as text.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T122628Z" creationid="install" creationdate="20150618T121921Z">
-        <seg>Ostatní čísla, včetně matematického zápisu, budou importovány jako text.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T203440Z" creationid="install" creationdate="20150618T121921Z">
+        <seg>Ostatní čísla, včetně vědeckého zápisu, budou importována jako text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26256,8 +26256,8 @@
       <tuv lang="EN">
         <seg>The selected language &lt;/f1&gt;also &lt;f4&gt;influences how such special numbers are detected, since different languages and regions many have different conventions for such special numbers.&lt;br5/&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T120140Z" creationid="install" creationdate="20150618T120039Z">
-        <seg>Zvolený jazyk &lt;/f1&gt;také &lt;f4&gt;ovlivňuje, jak jsou detekovány speciální čísla, protože v různých jazycích a regionech mají mnoho rozdílných konvencí pro takováto speciální čísla.&lt;br5/&gt;</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150622T203509Z" creationid="install" creationdate="20150618T120039Z">
+        <seg>Zvolený jazyk &lt;/f1&gt;také &lt;f4&gt;ovlivňuje, jak jsou detekována speciální čísla, protože v různých jazycích a regionech se pro ně používají různé zvyklosti.&lt;br5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
