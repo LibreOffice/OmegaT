@@ -18918,6 +18918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus &lt;f0&gt;to the last row in the same range of occupied cells in that column if cell focus is on a cell containing data.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150622T102256Z" creationid="install" creationdate="20150622T102256Z">
+        <seg>Pokud označená buňka obsahuje data, přesune označení buňky &lt;f0&gt;na poslední řádek ve stejném rozsahu obsazených buněk.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus down one cell</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150622T051304Z" creationid="install" creationdate="20150622T051304Z">
@@ -18930,6 +18938,30 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150622T100728Z" creationid="install" creationdate="20150622T100728Z">
         <seg>Přesune označení z prázdné buňky na první buňku obsahující data ve stejném sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus from a blank cell to the first cell below containing data in the same column.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150622T101913Z" creationid="install" creationdate="20150622T101913Z">
+        <seg>Přesune označení z prázdné buňky na první buňku obsahující data ve stejném sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus from anywhere on the spreadsheet to Cell A1 on the same sheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150622T102448Z" creationid="install" creationdate="20150622T102448Z">
+        <seg>Přesune označení buňky z libovolného místa tabulku do buňky A1 na stejném listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus from the last cell containing data to the cell in the same column in the last row of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150622T101531Z" creationid="install" creationdate="20150622T101531Z">
+        <seg>Přesune označení z poslední buňky obsahující údaje do buňky ve stejném sloupci do posledního řádku tabulky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18992,8 +19024,8 @@
       <tuv lang="EN">
         <seg>Moves cell focus to the last column on the right in the spreadsheet if there are no more cells containing data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T093841Z" creationid="install" creationdate="20150622T093841Z">
-        <seg>Pokud žádné další buňky neobsahující data, přesune v sešitu označení buněk na poslední sloupec vpravo.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150622T101542Z" creationid="install" creationdate="20150622T093841Z">
+        <seg>Pokud žádné další buňky neobsahující data, přesune v tabulce označení buněk na poslední sloupec vpravo.</seg>
       </tuv>
     </tu>
     <tu>
