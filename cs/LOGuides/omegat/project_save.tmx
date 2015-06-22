@@ -18936,8 +18936,16 @@
       <tuv lang="EN">
         <seg>Moves cell focus to the first column on the right containing data in that row if cell focus is on a blank cell.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T054522Z" creationid="install" creationdate="20150622T051735Z">
-        <seg>Pokud je výchozí označená buňka prázdná, přesune označení do sloupce vpravo který obsahuje údaje v daném řádku.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150622T095326Z" creationid="install" creationdate="20150622T051735Z">
+        <seg>Pokud je výchozí označená buňka prázdná, přesune označení do sloupce vpravo který obsahuje data v daném řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the last column on the left containing data in that row if cell focus is on a blank cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150622T095424Z" creationid="install" creationdate="20150622T095318Z">
+        <seg>Pokud je výchozí označená buňka prázdná, přesune označení na první sloupec vlevo který obsahuje data v daném řádku.</seg>
       </tuv>
     </tu>
     <tu>
