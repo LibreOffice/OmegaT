@@ -19288,8 +19288,8 @@
       <tuv lang="EN">
         <seg>Moves cell focus from anywhere on the spreadsheet to the last cell in the lower right-hand corner of the rectangular area of cells containing data on the same sheet.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T103320Z" creationid="install" creationdate="20150622T103301Z">
-        <seg>Přesune označení buňky z libovolného místa tabulky do poslední buňky v pravém dolním rohu obsahující data na stejném listu.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201416Z" creationid="install" creationdate="20150622T103301Z">
+        <seg>Přesune zaměření buňky z libovolného místa sešitu na poslední buňku na stejném listu nacházející se v pravém dolním rohu obdélníkové oblasti buněk, které obsahuje data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19312,16 +19312,16 @@
       <tuv lang="EN">
         <seg>Moves cell focus one screen to the left (if possible).</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T103449Z" creationid="install" creationdate="20150622T103449Z">
-        <seg>Přesune označení buňky o jedno zabrazení doleva (pokud je to možné).</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201443Z" creationid="install" creationdate="20150622T103449Z">
+        <seg>Přesune zaměření buňky o jednu obrazovku doleva (pokud je to možné).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves cell focus one screen to the right (if possible).</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T103422Z" creationid="install" creationdate="20150622T103422Z">
-        <seg>Přesune označení buňky o jedno zabrazení doprava (pokud je to možné).</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201431Z" creationid="install" creationdate="20150622T103422Z">
+        <seg>Přesune zaměření buňky o jednu obrazovku doprava (pokud je to možné).</seg>
       </tuv>
     </tu>
     <tu>
@@ -19384,32 +19384,32 @@
       <tuv lang="EN">
         <seg>Moves cell focus to the next cell on the left</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T125221Z" creationid="install" creationdate="20150622T125221Z">
-        <seg>Přesune označení buňky na další buňku vlevo</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201639Z" creationid="install" creationdate="20150622T125221Z">
+        <seg>Přesune zaměření buňky na další buňku vlevo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves cell focus to the next cell on the right</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T125159Z" creationid="install" creationdate="20150622T125159Z">
-        <seg>Přesune označení buňky na další buňku vpravo</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201624Z" creationid="install" creationdate="20150622T125159Z">
+        <seg>Přesune zaměření buňky na další buňku vpravo</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves cell focus to the same cell on the next sheet to the left in sheet tabs if the spreadsheet has more than on sheet.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T104605Z" creationid="install" creationdate="20150622T104605Z">
-        <seg>Přesune označení buňky na stejnou buňku na list vlevo, pokud sešit má více než jeden list.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201609Z" creationid="install" creationdate="20150622T104605Z">
+        <seg>Pokud má sešit více než jeden list, přesune zaměření buňky na stejnou buňku na dalším listu vlevo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves cell focus to the same cell on the next sheet to the right in sheet tabs if the spreadsheet has more than on sheet.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T104255Z" creationid="install" creationdate="20150622T104255Z">
-        <seg>Přesune označení buňky na stejnou buňku dalšího listu vpravo v případě, že tabulkový procesor má více než jeden list.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201533Z" creationid="install" creationdate="20150622T104255Z">
+        <seg>Pokud má sešit více než jeden list, přesune zaměření buňky na stejnou buňku na dalším listu vpravo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23670,6 +23670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Tab</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201634Z" creationid="standa" creationdate="20150624T201634Z">
+        <seg>Shift+Tabulátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T195206Z" creationid="standa" creationdate="20150110T195206Z">
@@ -24442,6 +24450,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T190423Z" creationid="standa" creationdate="20140116T190423Z">
         <seg>Tvary symbolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150624T201615Z" creationid="standa" creationdate="20150624T201615Z">
+        <seg>Tabulátor</seg>
       </tuv>
     </tu>
     <tu>
