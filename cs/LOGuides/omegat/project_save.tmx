@@ -19344,8 +19344,8 @@
       <tuv lang="EN">
         <seg>Moves cell focus to the first column on the left &lt;f0&gt;in the same range of occupied cells in that row&lt;/f0&gt; if cell focus is on a cell containing data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T100518Z" creationid="install" creationdate="20150622T100243Z">
-        <seg>Pokud výchozí označená buňka obsahuje data, přesune označení do prvního sloupce na levé straně v daném řádku &lt;f0&gt;při stejném rozsahu obsazených buňek&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T200416Z" creationid="install" creationdate="20150622T100243Z">
+        <seg>Pokud výchozí zaměřená buňka obsahuje data, přesune zaměření doleva do prvního sloupce v daném řádku a &lt;f0&gt;v téže oblasti buněk&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19360,24 +19360,24 @@
       <tuv lang="EN">
         <seg>Moves cell focus to the last column on the left containing data in that row if cell focus is on a blank cell.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T095424Z" creationid="install" creationdate="20150622T095318Z">
-        <seg>Pokud je výchozí označená buňka prázdná, přesune označení na první sloupec vlevo který obsahuje data v daném řádku.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T200240Z" creationid="install" creationdate="20150622T095318Z">
+        <seg>Pokud je výchozí zaměřená buňka prázdná, přesune zaměření doleva do prvního sloupce, který obsahuje v daném řádku data.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves cell focus to the last column on the right &lt;f0&gt;in the same range of occupied cells &lt;/f0&gt;in that row if cell focus is on a cell containing data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150624T200012Z" creationid="install" creationdate="20150622T055620Z">
-        <seg>Pokud výchozí zaměřená buňka obsahuje data, přesune zaměření doprava do posledního sloupce &lt;f0&gt;v téže oblasti buněk&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T200422Z" creationid="install" creationdate="20150622T055620Z">
+        <seg>Pokud výchozí zaměřená buňka obsahuje data, přesune zaměření doprava do posledního sloupce v daném řádku a &lt;f0&gt;v téže oblasti buněk&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves cell focus to the last column on the right in the spreadsheet if there are no more cells containing data.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150622T101542Z" creationid="install" creationdate="20150622T093841Z">
-        <seg>Pokud žádné další buňky neobsahující data, přesune v tabulce označení buněk na poslední sloupec vpravo.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T200206Z" creationid="install" creationdate="20150622T093841Z">
+        <seg>Pokud žádné další buňky vpravo neobsahují data, přesune v sešitu zaměření buňky do posledního sloupce vpravo.</seg>
       </tuv>
     </tu>
     <tu>
