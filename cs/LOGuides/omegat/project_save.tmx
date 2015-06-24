@@ -12486,6 +12486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f4&gt;A3:C6&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150624T060930Z" creationid="install" creationdate="20150624T060641Z">
+        <seg>Například, vybereme-li oblast který bude od buňky A3 až po C6, měli by jsme zadat &lt;f4&gt;A3:C6&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, when the cursor is in a table, a &lt;f0&gt;Table toolbar&lt;/f0&gt; appears, and when the cursor is in a numbered or bullet list, the &lt;f1&gt;Bullets and Numbering&lt;/f1&gt; toolbar appears.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T152038Z" creationid="standa" creationdate="20140501T152038Z">
@@ -21192,8 +21200,16 @@
       <tuv lang="EN">
         <seg>Range of contiguous cells</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150624T053350Z" creationid="install" creationdate="20150624T053051Z">
-        <seg>Oblast sousedících buněk</seg>
+      <tuv lang="CS" changeid="install" changedate="20150624T060720Z" creationid="install" creationdate="20150624T053051Z">
+        <seg>Oblast souvislích buněk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Range of non-contiguous cells</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150624T060919Z" creationid="install" creationdate="20150624T060711Z">
+        <seg>Oblast nesouvislých buněk</seg>
       </tuv>
     </tu>
     <tu>
