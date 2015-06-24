@@ -2448,16 +2448,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using the Enter key&lt;/f0&gt; – pressing &lt;f1&gt;Enter&lt;/f1&gt; moves the cell focus down in a column to the next row.</seg>
       </tuv>
-      <tuv lang="CS" changeid="lenochod26" changedate="20150620T073540Z" creationid="lenochod26" creationdate="20150620T073259Z">
-        <seg>&lt;f0&gt;Použití klávesy Enter&lt;/f0&gt; – stisknutí tlačítka &lt;f1&gt;Enter&lt;/f1&gt; přesune označení buňky ve sloupci na další řádek.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T193534Z" creationid="lenochod26" creationdate="20150620T073259Z">
+        <seg>&lt;f0&gt;Pomocí klávesy Enter&lt;/f0&gt; – stisknutí tlačítka &lt;f1&gt;Enter&lt;/f1&gt; přesune zaměření buňky ve sloupci dolů na další řádek.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – click on &lt;i1/&gt;the &lt;f2&gt;Navigator&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; on the Standard toolbar or press the &lt;f6&gt;F5&lt;/f6&gt; key to open the &lt;f7&gt;Navigator&lt;/f7&gt; dialog (&lt;f8&gt;&lt;t9&gt;Figure 10&lt;/t9&gt;&lt;/f8&gt;) or click the &lt;f10&gt;Navigator Tab&lt;/f10&gt; button in the open Sidebar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150619T121206Z" creationid="install" creationdate="20150619T121206Z">
-        <seg>&lt;f0&gt;Použití Navigoru&lt;/f0&gt; – klepneme na ikonu &lt;i1/&gt;&lt;f2&gt;Navigátor&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; na Nástrojové liště Standardní nebo stiskneme klávesu &lt;f6&gt;F5&lt;/f6&gt; pro otevření dialogového okna &lt;f7&gt;Navigátor&lt;/f7&gt; (&lt;f8&gt;&lt;t9&gt;obrázek 10&lt;/t9&gt;&lt;/f8&gt;) nebo klepneme na tlačítko &lt;f10&gt;Navigátor&lt;/f10&gt; v Postranní liště.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T193429Z" creationid="install" creationdate="20150619T121206Z">
+        <seg>&lt;f0&gt;Pomocí Navigátoru&lt;/f0&gt; – klepneme na ikonu &lt;i1/&gt;&lt;f2&gt;Navigátor&lt;/f2&gt; &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt; na nástrojové liště Standardní nebo stiskneme klávesu &lt;f6&gt;F5&lt;/f6&gt;, čímž otevřeme dialogové okno &lt;f7&gt;Navigátor&lt;/f7&gt; (&lt;f8&gt;&lt;t9&gt;obrázek 10&lt;/t9&gt;&lt;/f8&gt;) nebo klepneme na tlačítko &lt;f10&gt;Navigátor&lt;/f10&gt; na postranní liště.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5376,8 +5376,8 @@
       <tuv lang="EN">
         <seg>Cell references are case-insensitive: for example, typing either a3 or A3 will move the focus to cell A3.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150619T114622Z" creationid="install" creationdate="20150619T114001Z">
-        <seg>Odkazy na buňky se zapisují bez roslišení velikosti písmen: například, napsané a3 nebo A3 přesune označení na buňku A3.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T193321Z" creationid="install" creationdate="20150619T114001Z">
+        <seg>V odkazech na buňky se nerozlišuje velikost písmen: například napsané a3 nebo A3 přesune zaměření na buňku A3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21216,8 +21216,8 @@
       <tuv lang="EN">
         <seg>Pressing &lt;f2&gt;Shift+Enter&lt;/f2&gt; moves the focus up in a column to the next row.</seg>
       </tuv>
-      <tuv lang="CS" changeid="lenochod26" changedate="20150620T073803Z" creationid="lenochod26" creationdate="20150620T073450Z">
-        <seg>Stisknutí &lt;f2&gt;Shift+Enter&lt;/f2&gt; přesune označení ve sloupci na předešlý řádek.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T193554Z" creationid="lenochod26" creationdate="20150620T073450Z">
+        <seg>Stisknutí &lt;f2&gt;Shift+Enter&lt;/f2&gt; přesune zaměření ve sloupci nahoru na předešlý řádek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30392,8 +30392,8 @@
       <tuv lang="EN">
         <seg>Type the cell reference into the Column and Row fields and press the &lt;f11&gt;Enter&lt;/f11&gt; key.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150619T132113Z" creationid="install" creationdate="20150619T131806Z">
-        <seg>Zadáme odkaz na buňku do pole Sloupec a Řádek, a stiskneme klávesu &lt;f11&gt;Enter&lt;/f11&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150624T193450Z" creationid="install" creationdate="20150619T131806Z">
+        <seg>Zadáme odkaz na buňku do polí Sloupec a Řádek a stiskneme klávesu &lt;f11&gt;Enter&lt;/f11&gt;.</seg>
       </tuv>
     </tu>
     <tu>
