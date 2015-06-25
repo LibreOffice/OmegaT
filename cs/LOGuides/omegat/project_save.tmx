@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -22742,6 +22742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a cell in the column or row you want to delete.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150625T053746Z" creationid="install" creationdate="20150625T053746Z">
+        <seg>Vybereme buňku ve sloupci nebo řádku, který chceme odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a cell, column, or row where you want the new column or row inserted.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150624T130528Z" creationid="install" creationdate="20150624T130528Z">
@@ -28930,6 +28938,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140415T182238Z" creationid="standa" creationdate="20140415T182238Z">
         <seg>Chceme-li objekty procházet v &lt;t1/&gt;opačném pořadí, stiskneme &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete a single column or row:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150625T053639Z" creationid="install" creationdate="20150625T053639Z">
+        <seg>Mazání jednoho sloupce nebo řádku:</seg>
       </tuv>
     </tu>
     <tu>
