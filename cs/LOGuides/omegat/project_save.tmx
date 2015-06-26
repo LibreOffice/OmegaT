@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2072,8 +2072,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Save As&lt;/f0&gt; command – use if you want to create a new document, or change the filename and/or file format, or save the file in a different location on your computer.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140503T174319Z" creationid="standa" creationdate="20140503T174319Z">
-        <seg>Příkaz &lt;f0&gt;Uložit jako&lt;/f0&gt; použijeme, pokud chceme vytvořit nový dokument, pokud chceme změnit jeho název nebo pokud ho chceme uložit na jiné umístění na počítači.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T054707Z" creationid="standa" creationdate="20140503T174319Z">
+        <seg>Příkaz &lt;f0&gt;Uložit jako&lt;/f0&gt; použijeme, chceme-li vytvořit nový dokument, změnit jeho název nebo uložit na jiné umístění v počítači.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +2742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Figure 18&lt;/t0&gt; shows some frozen rows and columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T181321Z" creationid="lenochod26" creationdate="20150626T181234Z">
+        <seg>&lt;t0&gt;Obrázek 18&lt;/t0&gt; zobrazuje ukotvené řádky a sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Figure 1&lt;/t0&gt; shows the window for Writer, with Paragraph Styles visible.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T200335Z" creationid="standa" creationdate="20140406T200335Z">
@@ -2864,8 +2872,8 @@
       <tuv lang="EN">
         <seg>A Mac operating system does not have this function; instead, you need to go to &lt;f0&gt;LibreOffice &gt; Quit LibreOffice&lt;/f0&gt; on the menu bar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T170743Z" creationid="standa" creationdate="20140504T170743Z">
-        <seg>V operačním systému Mac taková funkce není, místo ní je třeba zvolit &lt;f0&gt;LibreOffice &gt; Ukončit LibreOffice&lt;/f0&gt; v hlavní nabídce.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T060702Z" creationid="standa" creationdate="20140504T170743Z">
+        <seg>V operačním systému Mac taková funkce není, místo ní je třeba zvolit v hlavní nabídce &lt;f0&gt;LibreOffice &gt; Ukončit LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apart from the first character of the sheet name, permitted characters are letters, numbers, spaces, and the underscore character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T174944Z" creationid="lenochod26" creationdate="20150626T174944Z">
+        <seg>Ostatní znaky mohou být písmena, číslice, mezera nebo podtržítko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apostrophe</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T200336Z" creationid="standa" creationdate="20141022T200336Z">
@@ -4614,6 +4630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Attempting to rename a sheet with an invalid name will produce an error message.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T175711Z" creationid="lenochod26" creationdate="20150626T175711Z">
+        <seg>Při pokusu o přejmenování s neplatným názvem se zobrazí chybová zpráva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Authors and reviewers often use &lt;i0/&gt;comments to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T213038Z" creationid="standa" creationdate="20150209T213038Z">
@@ -4856,8 +4880,8 @@
       <tuv lang="EN">
         <seg>Be aware that asking LibreOffice to remember more changes consumes more computer memory.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T165714Z" creationid="standa" creationdate="20140504T165714Z">
-        <seg>Je však třeba pamatovat na to, že při větších hodnotách LibreOffice bude vyžadovat více paměti počítače.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T060429Z" creationid="standa" creationdate="20140504T165714Z">
+        <seg>Je však třeba pamatovat na to, že při větších hodnotách bude LibreOffice vyžadovat více paměti počítače.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5106,6 +5130,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T091858Z" creationid="standa" creationdate="20140315T091858Z">
         <seg>Ve výchozím nastavením je galerie ukotvena nad pracovní plochou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, the name for each new sheet added is &lt;f0&gt;Sheet&lt;/f0&gt;X, where &lt;f1&gt;X&lt;/f1&gt; is the number of the next sheet to be added.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T173858Z" creationid="lenochod26" creationdate="20150626T173858Z">
+        <seg>Výchozí název pro pro přidaný list je &lt;f0&gt;List&lt;/f0&gt;X, kde &lt;f1&gt;X&lt;/f1&gt; je číslo přidávaného listu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5506,6 +5538,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T221731Z" creationid="standa" creationdate="20140103T221731Z">
         <seg>Změna stylu pomocí dialogového okna Styl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing document view</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T180257Z" creationid="lenochod26" creationdate="20150626T180257Z">
+        <seg>Změna zobrazení dokumentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6056,8 +6096,8 @@
       <tuv lang="EN">
         <seg>Choose whether to save or discard your changes.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T170246Z" creationid="standa" creationdate="20140504T170246Z">
-        <seg>V něm zvolíme, zda chceme změny uložit, nebo zahodit:</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T060541Z" creationid="standa" creationdate="20140504T170246Z">
+        <seg>V něm zvolíme, zda chceme změny uložit, nebo zahodit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6502,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f2&gt;Yes&lt;/f2&gt; to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150626T132129Z" creationid="install" creationdate="20150626T132129Z">
+        <seg>Pro potvrzení smazání klepneme na tlačítko &lt;f2&gt;Ano&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f4&gt;Save.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T185711Z" creationid="standa" creationdate="20141226T185711Z">
@@ -6530,6 +6578,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181724Z" creationid="standa" creationdate="20140526T181724Z">
         <seg>Klikneme na ikonu &lt;f3&gt;Cíl v dokumentu&lt;/f3&gt; &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;, čímž otevřeme dialogové okno Cíl v dokumentu, ve kterém můžeme vybrat typ cíle; pokud známe název cíle, můžeme ho přímo zadat do pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f6&gt;Yes&lt;/f6&gt; to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T172430Z" creationid="lenochod26" creationdate="20150626T172430Z">
+        <seg>Pro potvrzení smazání klepneme na tlačítko &lt;f6&gt;Ano&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8966,6 +9022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on a sheet tab to open the &lt;f0&gt;Rename Sheet&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T174643Z" creationid="lenochod26" creationdate="20150626T174643Z">
+        <seg>Poklepáním na záložku listu, čímž otevřeme dialogové okno &lt;f0&gt;Přejmenovat list&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on the required template.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T220708Z" creationid="standa" creationdate="20140109T220708Z">
@@ -9762,6 +9826,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140301T194451Z" creationid="standa" creationdate="20140301T194451Z">
         <seg>Zadáme informace o tom, kde chceme nové webové stránky publikovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (&lt;t1&gt;Figure 16&lt;/t1&gt; on page &lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T174205Z" creationid="lenochod26" creationdate="20150626T174205Z">
+        <seg>Zadáme název do textového pole &lt;f0&gt;Název&lt;/f0&gt; při jeho vytváření pomocí dialogového okna Vložit list (obrázek &lt;t1&gt;16&lt;/t1&gt; na straně &lt;t2&gt;22&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12934,6 +13006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more about zoom, see &lt;f1&gt;Chapter 1 Introducing LibreOffice&lt;/f1&gt; in this guide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T180232Z" creationid="lenochod26" creationdate="20150626T180232Z">
+        <seg>Více informací se nachází v &lt;f1&gt;Kapitola 1 Představujeme LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more control, or to define new attributes, you can click on the &lt;f0&gt;Area&lt;/f0&gt; or &lt;f1&gt;Line&lt;/f1&gt; icons on the toolbar to display detailed dialogs.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T172911Z" creationid="standa" creationdate="20140317T172911Z">
@@ -13302,6 +13382,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Freezing locks a number of rows at the top of a spreadsheet or a number of columns on the left of a spreadsheet or both rows and columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T181340Z" creationid="lenochod26" creationdate="20150626T180630Z">
+        <seg>Ukotvení uzamkne určitý počet řádků v horní části listu, určitý počet sloupců v levé části nebo obě najednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Freezing&lt;i0/&gt; rows and columns</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T180502Z" creationid="lenochod26" creationdate="20150626T180502Z">
+        <seg>Ukotvení&lt;i0/&gt; řádků a sloupců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From File</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T170941Z" creationid="standa" creationdate="20140317T170941Z">
@@ -13480,8 +13576,8 @@
       <tuv lang="EN">
         <seg>Getting Started Guide</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140313T162927Z" creationid="standa" creationdate="20140103T210839Z">
-        <seg>Začínáme s programem LibreOffice</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T131318Z" creationid="standa" creationdate="20140103T210839Z">
+        <seg>Začínáme s programem LibreOfficeP</seg>
       </tuv>
     </tu>
     <tu>
@@ -13624,8 +13720,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt; on the menu bar and click the &lt;f1&gt;Change Password&lt;/f1&gt; button in the Properties dialog.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T155011Z" creationid="standa" creationdate="20140504T155011Z">
-        <seg>Zvolíme &lt;f0&gt;Soubor &gt; Vlastnosti &gt; Obecné&lt;/f0&gt; v hlavní nabídce a klepneme na tlačítko &lt;f1&gt;Změnit heslo&lt;/f1&gt; v dialogovém okně Vlastnosti.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T055320Z" creationid="standa" creationdate="20140504T155011Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Soubor &gt; Vlastnosti &gt; Obecné&lt;/f0&gt; a v dialogovém okně Vlastnosti klepneme na tlačítko &lt;f1&gt;Změnit heslo&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13728,8 +13824,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt; on the menu bar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T155315Z" creationid="standa" creationdate="20140504T155315Z">
-        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; Načítání/ukládání &gt; Obecné&lt;/f0&gt;,</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T055350Z" creationid="standa" creationdate="20140504T155315Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; Načítání/ukládání &gt; Obecné&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14920,8 +15016,8 @@
       <tuv lang="EN">
         <seg>If only one document is open and you want to &lt;i0/&gt;close that document, go to &lt;f1&gt;File &gt; Close&lt;/f1&gt; on the menu bar or click on the X on the right side of the menu bar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T165928Z" creationid="standa" creationdate="20140504T165928Z">
-        <seg>Pokud je otevřený jen jediný dokument a chceme jej &lt;i0/&gt; zavřít, zvolíme &lt;f1&gt;Soubor &gt; Zavřít&lt;/f1&gt; v hlavní nabídce nebo klepneme na X na pravé straně hlavní nabídky.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T060534Z" creationid="standa" creationdate="20140504T165928Z">
+        <seg>Pokud je otevřený jen jediný dokument a chceme jej &lt;i0/&gt; zavřít, zvolíme v hlavní nabídce &lt;f1&gt;Soubor &gt; Zavřít&lt;/f1&gt; nebo klepneme na X na pravé straně hlavní nabídky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16672,8 +16768,8 @@
       <tuv lang="EN">
         <seg>In a Mac operating system, go to &lt;f2&gt;LibreOffice &gt; Quit LibreOffice&lt;/f2&gt; on the menu bar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T170543Z" creationid="standa" creationdate="20140504T170543Z">
-        <seg>V operačním systému Mac zvolíme &lt;f2&gt;LibreOffice &gt; Ukončit LibreOffice&lt;/f2&gt; v hlavní nabídce.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T060638Z" creationid="standa" creationdate="20140504T170543Z">
+        <seg>V operačním systému Mac v hlavní nabídce zvolíme &lt;f2&gt;LibreOffice &gt; Ukončit LibreOffice&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19208,8 +19304,8 @@
       <tuv lang="EN">
         <seg>Most of the icons and most menu options are disabled on the toolbars.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T160740Z" creationid="standa" creationdate="20140504T160740Z">
-        <seg>Při tomto zobrazení je většina možností v nabídkách a nástrojů na lištách vypnuta.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T060029Z" creationid="standa" creationdate="20140504T160740Z">
+        <seg>Při tomto zobrazení je většina možností a tlačítek v nástrojových lištách vypnuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21008,8 +21104,8 @@
       <tuv lang="EN">
         <seg>Password protection – use if you want to restrict who can open and read the document, or open and edit the document.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140503T174345Z" creationid="standa" creationdate="20140503T174345Z">
-        <seg>Ochranu heslem použijeme, pokud chceme omezit, kdo může dokument otevírat a číst nebo kdo ho může otevírat a upravovat.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T054635Z" creationid="standa" creationdate="20140503T174345Z">
+        <seg>Ochranu heslem použijeme, jestli-že chceme omezit, kdo může dokument otevírat a číst nebo kdo ho může otevírat a upravovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21702,6 +21798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Renaming sheets</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T173631Z" creationid="lenochod26" creationdate="20150626T173631Z">
+        <seg>Přejmenování listů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeat as necessary.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150624T062229Z" creationid="install" creationdate="20150624T062229Z">
@@ -21898,6 +22002,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T214329Z" creationid="standa" creationdate="20150209T214329Z">
         <seg>Jestliže na komentář klepneme pravým tlačítkem myši, v místní nabídce budeme moci smazat daný komentář, smazat všechny komentáře od téhož autora nebo smazat všechny komentáře v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu to replace the existing name with a different one.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T174548Z" creationid="lenochod26" creationdate="20150626T174548Z">
+        <seg>Klepneme pravým tlačítkem myši na kartu listu, v místní nabídce zvolíme &lt;f0&gt;Přejmenovat list&lt;/f0&gt; a nahradíme současný název novým.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23862,6 +23974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sheet names must start with either a letter or a number; other characters including spaces are not allowed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T174916Z" creationid="lenochod26" creationdate="20150626T174852Z">
+        <seg>Název listu musí začínat písmenem nebo číslem, jiné znaky včetně mezery nejsou povoleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sheet navigation</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T194026Z" creationid="standa" creationdate="20150326T204241Z">
@@ -23896,8 +24016,8 @@
       <tuv lang="EN">
         <seg>Shows the current language of the whole document.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140501T155428Z" creationid="standa" creationdate="20140501T155428Z">
-        <seg>Zobrazuje aktuální jazyk celého dokumenty.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T044440Z" creationid="standa" creationdate="20140501T155428Z">
+        <seg>Zobrazuje aktuální jazyk celého dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24848,8 +24968,8 @@
       <tuv lang="EN">
         <seg>The &lt;f0&gt;Read-only&lt;/f0&gt; option on the Open dialog opens the file for reading and printing only.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T160701Z" creationid="standa" creationdate="20140504T160701Z">
-        <seg>Pomocí možnosti &lt;f0&gt;Jen pro čtení&lt;/f0&gt; v dialogovém okně Otevřít soubor otevřeme pouze pro čtení a pro tisk.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T055804Z" creationid="standa" creationdate="20140504T160701Z">
+        <seg>Pomocí možnosti &lt;f0&gt;Jen pro čtení&lt;/f0&gt; v dialogovém okně Otevřít otevřeme soubor pouze pro čtení a pro tisk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25840,8 +25960,8 @@
       <tuv lang="EN">
         <seg>The default names may not correspond to the actual position of the object in the document.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T164712Z" creationid="standa" creationdate="20140504T164712Z">
-        <seg>Výchozí názvy navíc nemusí odpovídat skutečné pozici objektů v dokumentu</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T060237Z" creationid="standa" creationdate="20140504T164712Z">
+        <seg>Výchozí názvy navíc nemusí odpovídat skutečné pozici objektů v dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27358,6 +27478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then, when moving around within a sheet, the cells in frozen rows and columns always remain in view.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T181145Z" creationid="lenochod26" creationdate="20150626T181145Z">
+        <seg>Když se potom pohybujeme v listu, ukotvené sloupce a řádky zůstanou stále zobrazené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are a number of different methods by which you can set paragraphs to be checked in a specific language (different from the rest of the document).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T190119Z" creationid="standa" creationdate="20150110T190119Z">
@@ -28656,8 +28784,8 @@
       <tuv lang="EN">
         <seg>To activate the Sidebar, select &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; from the Menu Bar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140501T164048Z" creationid="standa" creationdate="20140501T164048Z">
-        <seg>Postranní lištu aktivujeme v hlavní nabídce pomocí &lt;f0&gt;Zobrazit &gt; Postranní panel&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T044814Z" creationid="standa" creationdate="20140501T164048Z">
+        <seg>Postranní lištu aktivujeme v hlavní nabídce pomocí &lt;f0&gt;Zobrazit &gt; Postranní lišta&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29190,6 +29318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete a single sheet, right-click on the sheet tab you want to delete and select &lt;f0&gt;Delete Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Edit &gt; Sheet &gt; Delete&lt;/f1&gt; from on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150626T132033Z" creationid="install" creationdate="20150626T131659Z">
+        <seg>Pro smazání jednoho listu, klepněte pravým tlačítkem myši na kartu pro smazání a zvolte z místní nabídky &lt;f0&gt;Smazat list&lt;/f0&gt;, nebo vybereme z lišty nabídky &lt;f1&gt;Úpravy &gt; List &gt; Smazat&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To delete a template folder that you have created:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140115T211529Z" creationid="standa" creationdate="20140115T211529Z">
@@ -29234,6 +29370,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150625T055749Z" creationid="install" creationdate="20150625T055749Z">
         <seg>Pro mazání více sloupců nebo řádků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To delete multiple sheets, select the sheets (see “&lt;f0&gt;&lt;bf1&gt;Selecting sheets&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;19&lt;/bf3&gt;&lt;/f2&gt;), then right-click one of the sheet tabs and select &lt;f4&gt;Delete Sheet&lt;/f4&gt; from the context menu, or go to &lt;f5&gt;Edit &gt; Sheet &gt; Delete&lt;/f5&gt; from on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150626T132927Z" creationid="install" creationdate="20150626T132459Z">
+        <seg>Pokud chceme smazat více listů, vybereme listy (Více informací se nachází v části “&lt;f0&gt;&lt;bf1&gt;Výběr listů&lt;/bf1&gt;&lt;/f0&gt;” na straně &lt;f2&gt;&lt;bf3&gt;19&lt;/bf3&gt;&lt;/f2&gt;), klepneme pravým tlačítkem myši na jednu z karet a z místní nabídky zvolíme položku &lt;f4&gt;Smazat list &lt;/f4&gt;, nebo vybereme z lišty nabídky &lt;f5&gt;Úpravy &gt; List &gt; Smazat&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29768,8 +29912,8 @@
       <tuv lang="EN">
         <seg>To modify the number of changes LibreOffice remembers, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the menu bar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140504T165609Z" creationid="standa" creationdate="20140504T165609Z">
-        <seg>Pokud chceme upravit počet změn, které si program LibreOffice zapamatuje, zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Paměť&lt;/f0&gt; v hlavní nabídce.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T060406Z" creationid="standa" creationdate="20140504T165609Z">
+        <seg>Pokud chceme upravit počet změn, které si program LibreOffice zapamatuje,  zvolíme v hlavní nabídce &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Paměť&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30080,8 +30224,8 @@
       <tuv lang="EN">
         <seg>To save a document if you want to create a new document, or change the filename and/or file format, or save the file in a different location on your computer:</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140503T174939Z" creationid="standa" creationdate="20140503T174939Z">
-        <seg>Pokud chceme vytvořit nový dokument, pokud chceme změnit jeho název či formát nebo pokud ho chceme uložit na jiné místo na počítači:</seg>
+      <tuv lang="CS" changeid="install" changedate="20150626T055121Z" creationid="standa" creationdate="20140503T174939Z">
+        <seg>Pokud chceme vytvořit nový dokument, změnit jeho název či formát nebo uložit na jiné místo v počítači:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30974,6 +31118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;i0/&gt;the zoom function to show more or fewer cells in the window when you are working on a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T180306Z" creationid="lenochod26" creationdate="20150626T175926Z">
+        <seg>Funkci &lt;i0/&gt;lupy je možné použít pro změnu měřítka zobrazení, tedy na zobrazení většího či menšího počtu buněk v okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;is0/&gt;&lt;is1/&gt;Fill Format&lt;ie2/&gt;&lt;ie3/&gt; to apply a style to many different areas quickly without having to go back to the Styles and Formatting window and double-click every time.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140106T211559Z" creationid="standa" creationdate="20140106T211559Z">
@@ -31838,6 +31990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viewing Calc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T180338Z" creationid="lenochod26" creationdate="20150626T180338Z">
+        <seg>Zobrazení Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Visible icons on a toolbar are indicated by an outline around the icon (&lt;f1&gt;&lt;t2&gt;Figure 5&lt;/t2&gt;&lt;/f1&gt;) or by a check mark beside the icon, depending on your operating system.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T152559Z" creationid="standa" creationdate="20140501T152559Z">
@@ -32642,6 +32802,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T193219Z" creationid="standa" creationdate="20141015T193219Z">
         <seg>Ten na jedné straně nabízí lepší funkce, na druhé může způsobovat problémy se zpětnou kompatibilitou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While this works for a small spreadsheet with only a few sheets, it can become difficult to identify sheets when a spreadsheet contains many sheets.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T174034Z" creationid="lenochod26" creationdate="20150626T174034Z">
+        <seg>Takové názvy jsou vhodné pro malý počet listů, ale při velkých počtech jsou nepřehledné a je lepší listy pojmenovat jinak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34258,6 +34426,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T211152Z" creationid="standa" creationdate="20140228T211152Z">
         <seg>Z hypertextového odkazu můžeme odstranit odkaz a ponechat pouze text tím, že klepneme pravým tlačítkem na odkaz a vybereme &lt;f0&gt;Odebrat hypertextový odkaz&lt;/f0&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can rename a sheet using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T174100Z" creationid="lenochod26" creationdate="20150626T174100Z">
+        <seg>Když chceme list přejmenovat, můžeme použít jeden z následujících způsobů:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35982,6 +36158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>freezing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T180428Z" creationid="lenochod26" creationdate="20150626T180428Z">
+        <seg>ukotvení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gallery</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T195358Z" creationid="standa" creationdate="20140417T195358Z">
@@ -36798,6 +36982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>renaming</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T173617Z" creationid="lenochod26" creationdate="20150626T173606Z">
+        <seg>přejmenování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>renaming files</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T155520Z" creationid="standa" creationdate="20140504T155520Z">
@@ -37418,6 +37610,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140925T205007Z" creationid="standa" creationdate="20140925T205007Z">
         <seg>možnosti zobrazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150626T180315Z" creationid="lenochod26" creationdate="20150626T180315Z">
+        <seg>zobrazení</seg>
       </tuv>
     </tu>
     <tu>
