@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26298,6 +26298,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T213002Z" creationid="standa" creationdate="20140131T213002Z">
         <seg>Úchyty slouží k přesunu a změně tvaru objektu&lt;f0&gt;.&lt;/f0&gt; Záchytné body se používají pro upevnění či zachycení spojnice k objektu, takže spojnice poté zůstane k objektu přichycena i po jeho přemístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The heavier horizontal line between rows 3 and 23 and the heavier vertical line between columns F and Q indicate that rows 1 to 3 and columns A to F are frozen.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150627T062028Z" creationid="lenochod26" creationdate="20150627T062028Z">
+        <seg>Na obrázku vidíme silnější vodorovnou čáru mezi řádky 4 a 5 a svislou čáru mezi sloupci C a D, které vymezují ukotvené oblasti.</seg>
       </tuv>
     </tu>
     <tu>
