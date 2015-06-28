@@ -25488,8 +25488,8 @@
       <tuv lang="EN">
         <seg>The &lt;i0/&gt;main Impress window (&lt;t1&gt;Figure 1&lt;/t1&gt;) has three parts: the &lt;f2&gt;Slides pane&lt;/f2&gt;, &lt;f3&gt;Workspace&lt;/f3&gt;, and &lt;f4&gt;Sidebar&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150628T180630Z" creationid="standa" creationdate="20150628T180630Z">
-        <seg>&lt;I0 /&gt; Hlavní okno programu Impress (&lt;t1&gt;obrázek 1&lt;/t1&gt;) má tři části: &lt;f2&gt;panel snímků&lt;/f2&gt;, &lt;f3&gt;pracovní plochu&lt;/f3&gt; a &lt;f4&gt;postranní lištu&lt;/f4&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150628T181349Z" creationid="standa" creationdate="20150628T180630Z">
+        <seg>&lt;I0 /&gt; Hlavní okno programu Impress (&lt;t1&gt;obrázek 1&lt;/t1&gt;) má tři části: &lt;f2&gt;panel snímku&lt;/f2&gt;, &lt;f3&gt;pracovní plochu&lt;/f3&gt; a &lt;f4&gt;postranní lištu&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30566,6 +30566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To reopen a pane, go to &lt;f9&gt;View&lt;/f9&gt; on the &lt;f10&gt;M&lt;/f10&gt;enu bar and select &lt;f11&gt;Slide Pane&lt;/f11&gt; or &lt;f12&gt;Sidebar&lt;/f12&gt; again.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150628T181339Z" creationid="standa" creationdate="20150628T181339Z">
+        <seg>Chceme-li panel znovu otevřít, zvolíme v &lt;f10&gt;&lt;/f10&gt;hlavní nabídce &lt;f9&gt;Zobrazit&lt;/f9&gt;  a položku &lt;f11&gt;Panel snímku&lt;/f11&gt; nebo &lt;f12&gt;Postranní lišta&lt;/f12&gt; opět zaškrtneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To replace the found text, click &lt;f1&gt;Replace.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T171510Z" creationid="standa" creationdate="20150110T171435Z">
@@ -30594,6 +30602,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T171257Z" creationid="standa" creationdate="20140216T171257Z">
         <seg>Chceme-li změnit velikost objektu pouze v jedné ose, použijeme postranní úchyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To restore a pane, click again on its Hide/Show marker.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150628T181601Z" creationid="standa" creationdate="20150628T181601Z">
+        <seg>Zobrazíme je opětovným klepnutím na ovládací prvek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32242,6 +32258,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T205742Z" creationid="standa" creationdate="20140321T205742Z">
         <seg>Použití nástrojové lišty Formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the Hide/Show marker hides, but does not close, the Slide pane or Sidebar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150628T181518Z" creationid="standa" creationdate="20150628T181518Z">
+        <seg>Pomocí těchto ovládacích prvků se panel snímků nebo postranní lišta skryjí, ale nezavřou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33974,6 +33998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also maximize the &lt;f0&gt;Workspace&lt;/f0&gt; area by clicking on the Hide/Show marker in the middle of the vertical separator line (highlighted in &lt;f1&gt;&lt;t2&gt;Figure 1&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150628T181437Z" creationid="standa" creationdate="20150628T181437Z">
+        <seg>&lt;f0&gt; Pracovní plochu&lt;/f0&gt; můžeme zvětšit na celou plochu okna i tak, že klepneme na ovládací prvky uprostřed svislého oddělovače na jejích stranách (zvýrazněné na &lt;f1&gt;&lt;t2&gt;obrázku 1&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also navigate through the comments using the keyboard.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T214811Z" creationid="standa" creationdate="20150209T214811Z">
@@ -34320,8 +34352,8 @@
       <tuv lang="EN">
         <seg>You can close the &lt;f0&gt;Slides pane&lt;/f0&gt; or the &lt;f1&gt;Sidebar&lt;/f1&gt; by clicking the &lt;f2&gt;X&lt;/f2&gt; in the upper right corner of each pane or go to &lt;f3&gt;View &gt; Slide&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;s&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; Pane&lt;/f6&gt; or &lt;f7&gt;View &gt; Sidebar&lt;/f7&gt; on the &lt;f8&gt;M&lt;/f8&gt;enu bar to deselect the pane.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150628T181213Z" creationid="standa" creationdate="20150628T181213Z">
-        <seg>&lt;f0&gt;Panel snímků&lt;/f0&gt; nebo &lt;f1&gt;postranní lištu&lt;/f1&gt; lze zavřít klepnutím na &lt;f2&gt;X&lt;/f2&gt; v pravém horním rohu každého panelu nebo tím, že v hlavní nabídce zrušíme zaškrtnutí u položky &lt;f3&gt;Zobrazit &gt; Panel&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; snímků&lt;/f6&gt; nebo &lt;f7&gt;Zobrazit &gt; Postranní lišta&lt;/f7&gt; v&lt;f8&gt;&lt;/f8&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150628T181345Z" creationid="standa" creationdate="20150628T181213Z">
+        <seg>&lt;f0&gt;Panel snímků&lt;/f0&gt; nebo &lt;f1&gt;postranní lištu&lt;/f1&gt; lze zavřít klepnutím na &lt;f2&gt;X&lt;/f2&gt; v pravém horním rohu každého panelu nebo tím, že v hlavní nabídce zrušíme zaškrtnutí u položky &lt;f3&gt;Zobrazit &gt; Panel&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; snímku&lt;/f6&gt; nebo &lt;f7&gt;Zobrazit &gt; Postranní lišta&lt;/f7&gt; v&lt;f8&gt;&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
