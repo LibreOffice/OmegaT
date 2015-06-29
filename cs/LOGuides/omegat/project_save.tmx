@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Click &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T113512Z" creationid="install" creationdate="20150629T113512Z">
+        <seg>&lt;f0&gt;Klepneme na &lt;/f0&gt;&lt;f1&gt;OK&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Click on theNavigator icon &lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;, &lt;f4&gt;or go to&lt;/f4&gt; &lt;f5&gt;View &gt; Navigator&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;on the main menu bar&lt;/f8&gt;&lt;/f7&gt;&lt;f9&gt;&lt;f10&gt;,&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt; or&lt;/f11&gt; press &lt;f12&gt;the&lt;/f12&gt; &lt;f13&gt;F5&lt;/f13&gt;&lt;f14&gt; &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;key to open the Navigator dialog.&lt;/f16&gt;&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181337Z" creationid="standa" creationdate="20140526T181337Z">
@@ -4322,6 +4330,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T202621Z" creationid="standa" creationdate="20140218T202621Z">
         <seg>Jakákoliv úprava složeného objektu ovlivní všechny objekty, které byly při složení použity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any number less than four characters will have leading zeros added, for example 12 becomes 0012.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T113501Z" creationid="install" creationdate="20150629T113501Z">
+        <seg>Čísla s menším počtem znaků než 4 se potom zobrazí s úvodními nulami, například z 12 se stane 0012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12958,6 +12974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, for four characters, enter 4.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T113355Z" creationid="install" creationdate="20150629T113355Z">
+        <seg>Například, pokud požadujeme minimálně čtyři znaky, zadáme 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if Calc is open and active, a new spreadsheet is created.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140502T143130Z" creationid="standa" creationdate="20140502T143130Z">
@@ -17126,6 +17150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;f0&gt;Options &gt; Leading Zeros&lt;/f0&gt;, enter the minimum number of characters required.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T113332Z" creationid="install" creationdate="20150629T113332Z">
+        <seg>V &lt;f0&gt;Možnosti &gt; Uvozující nuly&lt;/f0&gt;, zadáme minimální požadovaný počet číselných znaků..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;f1&gt;Default file format&lt;/f1&gt; and&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;ODF settings &gt; Document type&lt;/f3&gt;, select &lt;f4&gt;Spreadsheet,&lt;/f4&gt; then in &lt;f5&gt;Always save as&lt;/f5&gt;, select your preferred file format.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T185455Z" creationid="install" creationdate="20150619T080904Z">
@@ -19738,6 +19770,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T210343Z" creationid="standa" creationdate="20150209T210343Z">
         <seg>Způsob 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Method 2</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T113650Z" creationid="install" creationdate="20150629T113650Z">
+        <seg>Metoda 2</seg>
       </tuv>
     </tu>
     <tu>
@@ -24054,6 +24094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T113719Z" creationid="install" creationdate="20150629T113719Z">
+        <seg>Vybereme buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the characters (from any font or mixture of fonts) you wish to insert, in order, then click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T181007Z" creationid="standa" creationdate="20150110T181007Z">
@@ -27666,6 +27714,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140123T205830Z" creationid="standa" creationdate="20140123T205830Z">
         <seg>Počet a umístění viditelných nástrojových lišt závisí na prováděné činnosti a na uživatelském nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number entered retains its number format and any formula used in the spreadsheet will treat the entry as a number in formula functions.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T113643Z" creationid="install" creationdate="20150629T113643Z">
+        <seg>Číslo si však interně zachová svůj běžný formát, a tak ho i bude program vyhodnocovat, pokud bude použito jako argument ve funkcích nebo vzorcích.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
