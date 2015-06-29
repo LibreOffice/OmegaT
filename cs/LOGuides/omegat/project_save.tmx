@@ -4342,6 +4342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Any numbers that have been formatted as text in a spreadsheet will be treated as a zero by any formulas used in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T131625Z" creationid="install" creationdate="20150629T131625Z">
+        <seg>Čísla, které byly převedeny na text, budou ve všech vzorcích v sešitě vyhodnoceny jako nula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any other selection is deselected.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141219T184559Z" creationid="standa" creationdate="20141219T184559Z">
@@ -5242,6 +5250,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T175509Z" creationid="standa" creationdate="20140407T175509Z">
         <seg>Jako výchozí se v obsahu použijí styly Nadpis, můžeme však použít libovolnou kombinaci stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, text is left-aligned in a cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T131804Z" creationid="install" creationdate="20150629T131804Z">
+        <seg>Text je standardně zarovnán na levou stranu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,6 +6910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click back on the cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T131157Z" creationid="install" creationdate="20150629T131157Z">
+        <seg>Klepneme zpět na buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in a cell.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150624T054056Z" creationid="install" creationdate="20150624T053448Z">
@@ -6930,6 +6954,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150629T083153Z" creationid="install" creationdate="20150629T083153Z">
         <seg>Klepneme na buňku a napíšeme číslo pomocí numerických kláves v hlavní nebo v numerické části klávesnice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the cell and type the text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T131748Z" creationid="install" creationdate="20150629T131733Z">
+        <seg>Klepneme na buňku a napíšeme text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8726,6 +8758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Date and time</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T131813Z" creationid="install" creationdate="20150629T131813Z">
+        <seg>Datum a čas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>David Michel&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T203045Z" creationid="standa" creationdate="20150326T203045Z">
@@ -10154,6 +10194,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141006T181424Z" creationid="standa" creationdate="20141006T181424Z">
         <seg>Zadáme nové hodnoty, které barvu definují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter the number and move focus from the cell to have the data formatted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T131508Z" creationid="install" creationdate="20150629T131431Z">
+        <seg>Vložíme číslo a přesuneme označení buňky jinam, aby se formátování provedlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13786,6 +13834,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T190436Z" creationid="standa" creationdate="20150326T203832Z">
         <seg>Lišta vzorců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formula functions will ignore text entries.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T131644Z" creationid="install" creationdate="20150629T131644Z">
+        <seg>Funkce ve vzorcích textové položky ignorují.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24182,6 +24238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the cell and type the date or time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T131844Z" creationid="install" creationdate="20150629T131844Z">
+        <seg>Vybereme buňku a zadáme datum nebo čas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the cell or range of cells using one of the methods above.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T203831Z" creationid="install" creationdate="20150624T061609Z">
@@ -26886,6 +26950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The date format automatically changes to the selected format used by Calc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T132117Z" creationid="install" creationdate="20150629T132039Z">
+        <seg>Formát datumu se po zadání automaticky změní na výchozí formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The decks are described below.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T195625Z" creationid="install" creationdate="20150617T085632Z">
@@ -28362,6 +28434,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T160110Z" creationid="standa" creationdate="20140504T160110Z">
         <seg>Tři ikony v pravé horní části dialogových oken LibreOffice Otevřít a Uložit jako znamenají:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The time format automatically changes to the selected format used by Calc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T132223Z" creationid="install" creationdate="20150629T132223Z">
+        <seg>Formát času se po zadání automaticky změní na výchozí formát.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30146,6 +30226,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140217T213629Z" creationid="standa" creationdate="20140217T213629Z">
         <seg>Chceme-li změnit barvu bodů mřížky, zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Vzhled&lt;/f0&gt; v hlavní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the date or time format used by Calc, use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T132309Z" creationid="install" creationdate="20150629T132309Z">
+        <seg>Pro změnu formátu data a času, který Calc používá, použijeme následující postup:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33486,6 +33574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When entering a time, separate time elements with colons, for example 10:43:45.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T132203Z" creationid="install" creationdate="20150629T132203Z">
+        <seg>Pokud vkládáme čas, oddělujeme ho dvojtečkou (13:45 nebo 13:45:20).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When files are added using drag and drop, they are copied into a folder (dragdrop) in the Gallery, and allocated a file name.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T131317Z" creationid="standa" creationdate="20140315T131317Z">
@@ -35874,6 +35970,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T171426Z" creationid="standa" creationdate="20150110T171426Z">
         <seg>Můžeme přitom nastavit několik různých možností, jako například rozlišování velikosti písmen, omezení hledání pouze na celá slova či hledání podobných slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can separate the date elements with a slash (/) or a hyphen (–) or use text, for example 10 Oct 2012.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150629T132111Z" creationid="install" creationdate="20150629T132027Z">
+        <seg>Jednotlivé části datumu je možné oddělovat tečkou (15.10.2013 nebo 15.10.13), spojovníkem (pouze 15-10) nebo lze použít text (15. říjen 2013).</seg>
       </tuv>
     </tu>
     <tu>
