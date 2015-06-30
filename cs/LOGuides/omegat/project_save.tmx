@@ -10086,6 +10086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edits the replacement table for automatically correcting or replacing words or abbreviations in your document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T113312Z" creationid="install" creationdate="20150630T113312Z">
+        <seg>Umožňuje upravit tabulku náhrad pro automatické opravy nebo nahrazování slov či zkratek v dokumentech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Effect</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T220508Z" creationid="standa" creationdate="20140103T220508Z">
@@ -10298,6 +10306,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T223012Z" creationid="standa" creationdate="20140103T223012Z">
         <seg>Příklady použití stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exceptions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T113337Z" creationid="install" creationdate="20150630T113337Z">
+        <seg>Výjimky</seg>
       </tuv>
     </tu>
     <tu>
@@ -11306,6 +11322,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T181745Z" creationid="standa" creationdate="20141016T181745Z">
         <seg>Obrázek &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: AutoCorrect dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T112758Z" creationid="install" creationdate="20150630T112758Z">
+        <seg>Obrázek &lt;seq0&gt;24&lt;/seq0&gt;: Okno Automatické opravy</seg>
       </tuv>
     </tu>
     <tu>
@@ -19646,6 +19670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localized options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T113413Z" creationid="install" creationdate="20150630T113413Z">
+        <seg>Místní možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location of the Gallery and the objects in it</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T103956Z" creationid="standa" creationdate="20140315T103956Z">
@@ -21616,8 +21648,8 @@
       <tuv lang="EN">
         <seg>Open the Sidebar (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;) and click the &lt;f1&gt;Open Panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) icon on the &lt;f3&gt;Number Format&lt;/f3&gt; panel to open it.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150629T202103Z" creationid="install" creationdate="20150629T115325Z">
-        <seg>Otevřeme postranní lištu (&lt;f0&gt;Zobrazit &gt; Postranní lišta&lt;/f0&gt;) a na ní otevřeme panel &lt;f3&gt;Formát čísla&lt;/f3&gt; klepnutím na ikonu &lt;f1&gt;Otevřít panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;).</seg>
+      <tuv lang="CS" changeid="install" changedate="20150630T112923Z" creationid="install" creationdate="20150629T115325Z">
+        <seg>Otevřeme postranní lištu (&lt;f0&gt;Zobrazit &gt; Postranní lišta&lt;/f0&gt;) a klepnutím na ikonu &lt;f1&gt;Otevřít panel&lt;/f1&gt; (&lt;f2&gt;+&lt;/f2&gt;) otevřeme panel &lt;f3&gt;Formát čísla&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21850,6 +21882,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181655Z" creationid="standa" creationdate="20140526T181655Z">
         <seg>Volitelně &lt;t2/&gt;určíme cíl v dokumentu (například určitý snímek).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T113348Z" creationid="install" creationdate="20150630T113348Z">
+        <seg>Možnosti</seg>
       </tuv>
     </tu>
     <tu>
@@ -22886,6 +22926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T113019Z" creationid="install" creationdate="20150630T113019Z">
+        <seg>Nahradit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace any typed &lt;i0/&gt;&lt;i1/&gt;cross-references with automatic ones and, when you update fields, all the references will update automatically to show the current wording or page numbers.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T191251Z" creationid="standa" creationdate="20150326T191251Z">
@@ -22922,6 +22970,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T200446Z" creationid="standa" creationdate="20141022T200446Z">
         <seg>Nahradí tři za sebou následující tečky typograficky správným symbolem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T113431Z" creationid="install" creationdate="20150630T113431Z">
+        <seg>Obnovit</seg>
       </tuv>
     </tu>
     <tu>
@@ -25570,6 +25626,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T100105Z" creationid="standa" creationdate="20140309T100105Z">
         <seg>Pro webové stránky určíme &lt;f0&gt;Druh publikace&lt;/f0&gt; (&lt;f1&gt;&lt;t2&gt;obrázek 12&lt;/t2&gt;&lt;/f1&gt;), poté klepneme na Další&gt;&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify the abbreviations or letter combinations that you do not want LibreOffice to correct automatically.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T113516Z" creationid="install" creationdate="20150630T113516Z">
+        <seg>Určíme zkratky nebo kombinace slov, které nemá LibreOffice automaticky nahrazovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30402,6 +30466,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140108T211003Z" creationid="standa" creationdate="20140108T211003Z">
         <seg>Pokud chceme změnit styly ve více dokumentech, je nutné změnit šablonu nebo zkopírovat styly z jiného dokumentu, jak je popsáno na stránce &lt;bf0&gt;9&lt;/bf0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the autocorrect options, go to &lt;f0&gt;Tools &gt; AutoCorrect Options&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;AutoCorrect&lt;/f1&gt; dialog (&lt;t2&gt;Figure 24&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150630T112732Z" creationid="install" creationdate="20150630T112732Z">
+        <seg>Pokud chceme změnit nastavení automatické opravy, zvolíme v liště nabídky &lt;f0&gt;Nástroje &gt; Nastavení automatických oprav&lt;/f0&gt;, čímž se otevře dialogové okno &lt;f1&gt;Automatické opravy&lt;/f1&gt;, (obrázek &lt;t2&gt;20&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
