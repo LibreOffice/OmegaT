@@ -944,8 +944,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;AutoFill&lt;/f0&gt; – forms a series directly in the sheet.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150701T113057Z" creationid="install" creationdate="20150701T113057Z">
-        <seg>&lt;f0&gt;Automatické vyplnění&lt;/f0&gt; – vytvoří série přímo v listu.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150701T162635Z" creationid="install" creationdate="20150701T113057Z">
+        <seg>&lt;f0&gt;Automatické vyplnění&lt;/f0&gt; – vytvoří posloupnost přímo v listu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1224,8 +1224,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Day&lt;/f0&gt; – use the Date series type and this option to create a series using seven days.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150701T120229Z" creationid="install" creationdate="20150701T120229Z">
-        <seg>&lt;f0&gt;Den&lt;/f0&gt; – použijeme pro vytvoření sedmidenní datové posloupnosti.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150701T162918Z" creationid="install" creationdate="20150701T120229Z">
+        <seg>&lt;f0&gt;Den&lt;/f0&gt; – použijeme spolu s typem Datum pro vytvoření sedmidenní datové posloupnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4976,8 +4976,8 @@
       <tuv lang="EN">
         <seg>AutoFill tries to complete a value series by using a defined pattern.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150701T115627Z" creationid="install" creationdate="20150701T115627Z">
-        <seg>Při Automatickém vyplňění se Calc snaží do posloupnosti doplnit hodnoty podle zadaného vzoru.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150701T162725Z" creationid="install" creationdate="20150701T115627Z">
+        <seg>Při Automatickém vyplnění se Calc pokusí do posloupnosti doplnit hodnoty podle zadaného vzoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13424,8 +13424,8 @@
       <tuv lang="EN">
         <seg>For example, a numerical series using 1,3,5 is automatically completed with 7,9,11,13; a date and time series using 01.01.99 and 15.01.99, an interval of fourteen days is used.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150701T115735Z" creationid="install" creationdate="20150701T115735Z">
-        <seg>Například, číselná posloupnost 1,3,5 se automaticky doplní čísly 7,9,11,13 a datumy 01.01.99 a 15.01.99 se doplní o data s dvoutýdenním odstupem.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150701T162831Z" creationid="install" creationdate="20150701T115735Z">
+        <seg>Například, číselná posloupnost 1,3,5 se automaticky doplní čísly 7,9,11,13 a data 01.01.99 a 15.01.99 se doplní o data s dvoutýdenním odstupem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13448,8 +13448,8 @@
       <tuv lang="EN">
         <seg>For example, by entering January in the first cell, the series is &lt;t1/&gt;completed using the list defined in &lt;f2&gt;LibreOffice &gt; Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150701T114549Z" creationid="install" creationdate="20150701T114549Z">
-        <seg>Například, pokud do první buňky zadáme 'leden', posloupnost se doplní podle seznamu, který je definován v &lt;f2&gt;LibreOffice &gt; Nástroje &gt; Možnosti &gt; LibreOffice Calc &gt; Řazené seznamy&lt;/f2&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150701T162630Z" creationid="install" creationdate="20150701T114549Z">
+        <seg>Pokud například do první buňky zadáme 'leden', posloupnost se doplní podle seznamu, který je definován v &lt;f2&gt;LibreOffice &gt; Nástroje &gt; Možnosti &gt; LibreOffice Calc &gt; Řazené seznamy&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29752,8 +29752,8 @@
       <tuv lang="EN">
         <seg>This area is only active if the Date option has been chosen in the Series type area.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150701T120105Z" creationid="install" creationdate="20150701T120105Z">
-        <seg>Tato část je aktivní pouze v případě, když je zvolena položka Datum v oblasti Typ posloupnosti.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150701T162852Z" creationid="install" creationdate="20150701T120105Z">
+        <seg>Tato část je aktivní pouze v případě, že je v oblasti Typ posloupnosti zvolena položka Datum.</seg>
       </tuv>
     </tu>
     <tu>
