@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;AutoFill&lt;/f0&gt; – forms a series directly in the sheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T113057Z" creationid="install" creationdate="20150701T113057Z">
+        <seg>&lt;f0&gt;Automatické vyplnění&lt;/f0&gt; – vytvoří série přímo v listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;AutoSpellcheck&lt;/f0&gt; checks each word as it is typed and displays a wavy red line under any unrecognized words.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T184923Z" creationid="standa" creationdate="20150110T184923Z">
@@ -1202,6 +1210,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T185632Z" creationid="standa" creationdate="20141018T185632Z">
         <seg>&lt;f0&gt;Masky pro rozpoznání data&lt;/f0&gt; určují, jak bude LibreOffice rozpoznávat vkládané datumy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Date&lt;/f0&gt; – creates a date series using the defined increment and end date.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T112949Z" creationid="install" creationdate="20150701T112949Z">
+        <seg>&lt;f0&gt;Datum&lt;/f0&gt; – vytvoří datovou posloupnost se zadaným přírůstkem a konečnou hodnotou datumu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Growth&lt;/f0&gt; – creates a growth series using the defined increment and end value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T112914Z" creationid="install" creationdate="20150701T112914Z">
+        <seg>&lt;f0&gt;Růst&lt;/f0&gt; – vytvoří geometrickou posloupnost se zadaným přírůstkem a konečnou hodnotou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hatching&lt;/f0&gt; tab: Modify the available hatching patterns or add new ones to appear on the Area tab.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T200816Z" creationid="standa" creationdate="20140321T200816Z">
@@ -1826,6 +1850,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T165928Z" creationid="standa" creationdate="20140318T165928Z">
         <seg>Ikona &lt;f0&gt;Čára&lt;/f0&gt;: Otevře dialogové okno se třemi záložkami: &lt;f1&gt;Čára&lt;/f1&gt;, &lt;f2&gt;Styly čar&lt;/f2&gt;, &lt;f3&gt;Styly šipek&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Linear&lt;/f0&gt; – creates a linear number series using the defined increment and end value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T112750Z" creationid="install" creationdate="20150701T112750Z">
+        <seg>&lt;f0&gt;Lineární&lt;/f0&gt; – vytvoří lineární posloupnost se zadaným přírůstkem a konečnou hodnotou.</seg>
       </tuv>
     </tu>
     <tu>
