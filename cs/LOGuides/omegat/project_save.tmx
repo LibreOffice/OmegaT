@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Direction&lt;/f0&gt; – determines the direction of series creation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T090958Z" creationid="install" creationdate="20150701T090958Z">
+        <seg>&lt;f0&gt;Směr&lt;/f0&gt; – určuje směr vytváření posloupnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Distort tool &lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt; &lt;/df2&gt;&lt;/f1&gt; distorts an object in perspective.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T074210Z" creationid="standa" creationdate="20140218T074210Z">
@@ -1258,6 +1266,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T184113Z" creationid="standa" creationdate="20140116T184113Z">
         <seg>&lt;f0&gt;Dokumentace pro balík LibreOffice je dostupná na &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/documentation&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Down&lt;/f0&gt; – creates a downward series in the selected cell range for the column using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T091125Z" creationid="install" creationdate="20150701T091012Z">
+        <seg>&lt;f0&gt;Dolů&lt;/f0&gt; – ve vybrané oblasti buněk vytvoří posloupnost směrem dolů s použitím zadaného přírůstku až po zadanou konečnou hodnotu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,6 +2706,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181727Z" creationid="standa" creationdate="20140526T181727Z">
         <seg>Zadáme název souboru a vybereme typ dokumentu, který se má vytvořit (textový, sešit apod.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Here &lt;/f3&gt;you &lt;f4&gt;can &lt;/f4&gt;select the type of series you want.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T090812Z" creationid="install" creationdate="20150701T090812Z">
+        <seg>&lt;f3&gt;Zde &lt;/f3&gt;&lt;f4&gt;můžeme &lt;/f4&gt;zvolit požadovaný typ posloupnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11442,6 +11466,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T191748Z" creationid="standa" creationdate="20141016T191748Z">
         <seg>Obrázek &lt;seq0&gt;26 &lt;/seq0&gt;: Volba jazykových možností</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Fill Series dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T090904Z" creationid="install" creationdate="20150701T090904Z">
+        <seg>Obrázek &lt;seq0&gt;26&lt;/seq0&gt;: Dialogové okno Vyplnit posloupnost</seg>
       </tuv>
     </tu>
     <tu>
@@ -33302,6 +33334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using a fill series</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T090338Z" creationid="install" creationdate="20150701T090338Z">
+        <seg>Vyplňování posloupností dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using a template to &lt;i0/&gt;&lt;i1/&gt;create a &lt;i2/&gt;document</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T215622Z" creationid="standa" creationdate="20140109T215622Z">
@@ -34538,6 +34578,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T204458Z" creationid="standa" creationdate="20140321T204458Z">
         <seg>Pokud vybereme objekt písmomalby, zobrazí se podél jeho okrajů osm barevných čtverečků (označovaných jako &lt;f0&gt;úchyty&lt;/f0&gt;), jak ukazuje obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select a series fill from &lt;f0&gt;Edit &gt; Fill &gt; Series&lt;/f0&gt;, the &lt;f1&gt;Fill Series&lt;/f1&gt; dialog (&lt;t2&gt;Figure 26&lt;/t2&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T090637Z" creationid="install" creationdate="20150701T090637Z">
+        <seg>Pokud v liště nabídky zvolíme &lt;f0&gt;Úpravy &gt; Vyplnit &gt; Posloupnosti&lt;/f0&gt;, otevře se dialogové okno &lt;f1&gt;Vyplnit posloupnost&lt;/f1&gt; (obrázek &lt;t2&gt;26&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
