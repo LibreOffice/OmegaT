@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Digital signature&lt;/f0&gt; – a flag indicating whether the document is digitally signed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150701T170312Z" creationid="standa" creationdate="20150701T170312Z">
+        <seg>&lt;f0&gt;Elektronický podpis&lt;/f0&gt; – příznak označující, zda je dokument elektronicky podepsán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Direction&lt;/f0&gt; – determines the direction of series creation.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150701T090958Z" creationid="install" creationdate="20150701T090958Z">
@@ -2598,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Unsaved changes&lt;/f0&gt; – a flag indicating that the file needs saving.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150701T170148Z" creationid="standa" creationdate="20150701T170148Z">
+        <seg>&lt;f0&gt;Neuložené změny&lt;/f0&gt; – příznak označující, že soubor je třeba uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Up One Level&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; – moves up one folder in the folder hierarchy.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T160321Z" creationid="standa" creationdate="20140504T160321Z">
@@ -3930,6 +3946,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T195756Z" creationid="standa" creationdate="20141018T195756Z">
         <seg>Aby se vybrané možnosti kontroly gramatiky uplatnily, je třeba buď restartovat LibreOffice, nebo znovu načíst aktuální dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the file has been saved, double clicking on this flag opens the digital signatures dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150701T170350Z" creationid="standa" creationdate="20150701T170350Z">
+        <seg>Pokud byl dokument uložen, poklepáním na toto pole otevřeme dialogové okno Elektronické podpisy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9642,6 +9666,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T193412Z" creationid="standa" creationdate="20141016T193412Z">
         <seg>Dokumenty, které byly uloženy s jednou výchozí měnou, budou mít po otevření novou výchozí měnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double clicking on this flag opens the file save dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150701T170246Z" creationid="standa" creationdate="20150701T170246Z">
+        <seg>Poklepáním na toto pole otevřeme dialogové okno pro uložení souboru.</seg>
       </tuv>
     </tu>
     <tu>
