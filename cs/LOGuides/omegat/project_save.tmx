@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Day&lt;/f0&gt; – use the Date series type and this option to create a series using seven days.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T120229Z" creationid="install" creationdate="20150701T120229Z">
+        <seg>&lt;f0&gt;Den&lt;/f0&gt; – použijeme pro vytvoření sedmidenní datové posloupnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Delete Selected Design&lt;/f0&gt; deletes the selected design from the design list.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T095830Z" creationid="standa" creationdate="20140309T095830Z">
@@ -1958,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Month&lt;/f0&gt; – use the Date series type and this option to form a series from the names or abbreviations of the months.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T120701Z" creationid="install" creationdate="20150701T120701Z">
+        <seg>&lt;f0&gt;Měsíc&lt;/f0&gt; – použijeme, pokud chceme vytvořit posloupnost z názvů měsíců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Name Box&lt;/f0&gt; – gives the cell reference using a combination of a letter and number, for example A1.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T190827Z" creationid="standa" creationdate="20150502T190827Z">
@@ -2366,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Start Value&lt;/f0&gt; – determines the start value for the series.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T120838Z" creationid="install" creationdate="20150701T120838Z">
+        <seg>&lt;f0&gt;Počáteční hodnota&lt;/f0&gt; – počáteční hodnota posloupnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Styles and Formatting:&lt;/f0&gt; This deck contains a single panel, which is the same as that opened by selecting the &lt;f1&gt;Styles and Formatting&lt;/f1&gt; button (&lt;f2&gt;F11&lt;/f2&gt;) from the Text Formatting toolbar.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T200235Z" creationid="install" creationdate="20150617T125122Z">
@@ -2542,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Unit of Time&lt;/f0&gt; – in this area you specify the desired unit of time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T115941Z" creationid="install" creationdate="20150701T115941Z">
+        <seg>&lt;f0&gt;Jednotka času&lt;/f0&gt; – v této části zvolíme požadovanou jednotku času.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Up One Level&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; – moves up one folder in the folder hierarchy.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T160321Z" creationid="standa" creationdate="20140504T160321Z">
@@ -2662,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Weekday&lt;/f0&gt; – use the Date series type and this option to create a series of five day sets.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T120609Z" creationid="install" creationdate="20150701T120609Z">
+        <seg>&lt;f0&gt;Den v týdnu&lt;/f0&gt; – použijeme, pokud chceme vytvořit datovou posloupnost pouze z pracovních dnů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Window&lt;/f0&gt; – contains commands for the display window.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T135107Z" creationid="standa" creationdate="20140501T135107Z">
@@ -2674,6 +2714,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T185637Z" creationid="standa" creationdate="20150502T185637Z">
         <seg>&lt;f0&gt;Okno&lt;/f0&gt; – obsahuje příkazy pro zobrazení okna, například &lt;f1&gt;Nové okno&lt;/f1&gt;, &lt;f2&gt;Rozdělit&lt;/f2&gt; a další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Year&lt;/f0&gt; – use the Date series type and this option to create a series of years.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T120748Z" creationid="install" creationdate="20150701T120748Z">
+        <seg>&lt;f0&gt;Rok&lt;/f0&gt; – použijeme, pokud chceme vytvořit posloupnost několika let.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29522,6 +29570,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T205747Z" creationid="standa" creationdate="20141029T205747Z">
         <seg>Pokud program je v režimu vkládání, je tato oblast prázdná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This area is only active if the Date option has been chosen in the Series type area.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T120105Z" creationid="install" creationdate="20150701T120105Z">
+        <seg>Tato část je aktivní pouze v případě, když je zvolena položka Datum v oblasti Typ posloupnosti.</seg>
       </tuv>
     </tu>
     <tu>
