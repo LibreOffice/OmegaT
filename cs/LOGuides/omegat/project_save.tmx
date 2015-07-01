@@ -1782,6 +1782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Left&lt;/f0&gt; – creates a series running from right to left in the selected cell range using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T112543Z" creationid="install" creationdate="20150701T112543Z">
+        <seg>&lt;f0&gt;vlevo&lt;/f0&gt; – ve vybrané oblasti buněk vytvoří posloupnost směrem doleva s použitím zadaného přírůstku až po zadanou konečnou hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;LibreOffice Draw&lt;/f0&gt; is &lt;i1/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T081827Z" creationid="standa" creationdate="20140407T180250Z">
@@ -2254,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Series Type&lt;/f0&gt; – defines the series type.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T112626Z" creationid="install" creationdate="20150701T112626Z">
+        <seg>&lt;f0&gt;Typ posloupnosti&lt;/f0&gt; – určuje typ posloupnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Set in Circle (perspective) &lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt; &lt;/df2&gt;&lt;/f1&gt; creates a pseudo three-dimensional effect.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T074308Z" creationid="standa" creationdate="20140218T074308Z">
@@ -2498,6 +2514,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T160321Z" creationid="standa" creationdate="20140504T160321Z">
         <seg>&lt;f0&gt; O úroveň výše&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; - přesune se v hierarchii složek o jednu složku nahoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Up&lt;/f0&gt; – creates an upward series in the cell range of the column using the defined increment to the end value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150701T112500Z" creationid="install" creationdate="20150701T112500Z">
+        <seg>&lt;f0&gt;Nahoru&lt;/f0&gt; – vytvoří směrem nahoru posloupnost v buňkách sloupce za použití definovaného přírůstku až po zadanou konečnou hodnotu.</seg>
       </tuv>
     </tu>
     <tu>
