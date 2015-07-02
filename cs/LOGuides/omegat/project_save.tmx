@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12938,6 +12938,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140608T153421Z" creationid="standa" creationdate="20140608T153421Z">
         <seg>Vyplníme formulář (není zobrazen) nebo doplníme či odstraníme stávající údaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fill series and selection lists can handle some types of data, but are limited to predefined information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T082638Z" creationid="install" creationdate="20150702T082638Z">
+        <seg>Posloupnosti a Seznamy výběru umožňují zpracovat určité typy dat, které jsou omezeny na předdefinované informace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32974,6 +32982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To validate new data entered by a user, select a cell and go to &lt;f0&gt;Data &gt; Validity&lt;/f0&gt; on the Menu bar to define the type of contents that can be entered in that cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T083040Z" creationid="install" creationdate="20150702T083040Z">
+        <seg>Pro ověření nových dat vložených uživatelem, vybereme buňku a zvolíme v liště nabídky &lt;f0&gt;Data &gt; Platnost&lt;/f0&gt; on the Menu bar to define the type of contents that can be entered in that cell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To view information held in a database or data source.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T195600Z" creationid="standa" creationdate="20150326T195600Z">
@@ -34342,6 +34358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Validating cell contents</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T082257Z" creationid="install" creationdate="20150702T082257Z">
+        <seg>Ověřování obsahu buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vector Drawing in LibreOffice</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T185344Z" creationid="standa" creationdate="20140116T185344Z">
@@ -34666,6 +34690,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140222T205820Z" creationid="standa" creationdate="20140222T205820Z">
         <seg>Když vytváříme dokument, který uložíme jako webovou stránku, je třeba mít na paměti následující skutečnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When creating spreadsheets for other people to use, validating cell contents ensures that they enter data that is valid and appropriate for the cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T082441Z" creationid="install" creationdate="20150702T082441Z">
+        <seg>Při vytváření sešitů, které budou používat jiní lidé, možná budeme chtít zajistit, aby byly jimi zadané údaje platné a aby byly zadány do správných buněk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36218,6 +36250,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T160456Z" creationid="install" creationdate="20150630T112046Z">
         <seg>Veškeré změny automatických oprav můžeme také vrátit zpět pomocí klávesové zkratky &lt;f0&gt; Ctrl + Z&lt;/f0&gt; anebo ručně prostým přepsáním opravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also use &lt;i0/&gt;validation in your own work as a guide to entering data that is either complex or rarely used.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T082525Z" creationid="install" creationdate="20150702T082525Z">
+        <seg>&lt;i0/&gt;Ověření platnosti můžeme použít i na svou vlastní práci jako pomůcku při zadávání složitých nebo méně často používaných dat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38398,6 +38438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data validity</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T082336Z" creationid="install" creationdate="20150702T082323Z">
+        <seg>ověření dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>decks</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T195318Z" creationid="standa" creationdate="20141219T192335Z">
@@ -40250,6 +40298,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T194736Z" creationid="standa" creationdate="20141012T194715Z">
         <seg>nastavení specifická pro uživatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>validating cell contents</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T082203Z" creationid="install" creationdate="20150702T082203Z">
+        <seg>ověřování obsahu buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>validating cell contents, Calc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T082212Z" creationid="install" creationdate="20150702T082212Z">
+        <seg>ověřování obsahu buňky, Calc</seg>
       </tuv>
     </tu>
     <tu>
