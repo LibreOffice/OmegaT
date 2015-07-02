@@ -9366,6 +9366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending on how validation is set up, validation can also define the range of contents that can be entered, provide help messages explaining the content rules set up for the cell and what users should do when they enter invalid content.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084145Z" creationid="install" creationdate="20150702T084145Z">
+        <seg>Podle toho, jakou platnost nastavíme můžeme také definovat rozsah obsahu který může být vložen, můžeme poskytnout pomocné informace na vysvětlení pravidel která jsou při dané buňce nastaveny, a může uvést co by měli uživatelé udělat když je obsah buňky neplatný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending on the file being used or the type of data being entered, setting a different direction can be useful.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T201957Z" creationid="install" creationdate="20150623T130626Z">
@@ -13570,6 +13578,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T215220Z" creationid="standa" creationdate="20140105T215220Z">
         <seg>Program Writer například pomocí stylů nadpisů (nebo jiných stanovených stylů) vytváří obsah dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, a cell may require a date or a whole number with no alphabetic characters or decimal points, or a cell may not be left empty.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T083813Z" creationid="install" creationdate="20150702T083813Z">
+        <seg>Buňka může například vyžadovat datum, celé číslo bez písmen nebo desetinné čárky, nebo že nesmí zůstat prázdná.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32984,8 +33000,8 @@
       <tuv lang="EN">
         <seg>To validate new data entered by a user, select a cell and go to &lt;f0&gt;Data &gt; Validity&lt;/f0&gt; on the Menu bar to define the type of contents that can be entered in that cell.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150702T083040Z" creationid="install" creationdate="20150702T083040Z">
-        <seg>Pro ověření nových dat vložených uživatelem, vybereme buňku a zvolíme v liště nabídky &lt;f0&gt;Data &gt; Platnost&lt;/f0&gt; on the Menu bar to define the type of contents that can be entered in that cell.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150702T083455Z" creationid="install" creationdate="20150702T083040Z">
+        <seg>Pro ověření nových dat vložených uživatelem, vybereme buňku a v liště nabídky zvolíme &lt;f0&gt;Data &gt; Platnost&lt;/f0&gt; pro stanovení typu obsahu buňky který může být vložen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38440,8 +38456,8 @@
       <tuv lang="EN">
         <seg>data validity</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150702T082336Z" creationid="install" creationdate="20150702T082323Z">
-        <seg>ověření dat</seg>
+      <tuv lang="CS" changeid="install" changedate="20150702T083113Z" creationid="install" creationdate="20150702T082323Z">
+        <seg>platnost dat</seg>
       </tuv>
     </tu>
     <tu>
