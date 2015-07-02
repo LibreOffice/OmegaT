@@ -7310,6 +7310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the cell to select it and then press the &lt;f0&gt;Delete&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084914Z" creationid="install" creationdate="20150702T084914Z">
+        <seg>Klepnutím vybereme buňku, a potom stiskneme klávesu &lt;f0&gt;Delete&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click in the cell which is to be one corner of the range of cells.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T202832Z" creationid="install" creationdate="20150624T053754Z">
@@ -9070,6 +9078,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Data and cell formatting can be deleted from a cell at the same time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T085106Z" creationid="install" creationdate="20150702T085106Z">
+        <seg>Data a formátování se dají z buňky smazat současně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data can be deleted from a cell without deleting any of the cell formatting.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084839Z" creationid="install" creationdate="20150702T084839Z">
+        <seg>Údaje lze smazat z buňky tak, aby v ní zůstalo formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Data entered into a Calc spreadsheet or a Writer table must be entered in a format defined by &lt;f0&gt;Local&lt;/f0&gt; in order to be recognized as dates.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T191446Z" creationid="standa" creationdate="20141018T190234Z">
@@ -9306,6 +9330,30 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150625T060630Z" creationid="install" creationdate="20150625T060630Z">
         <seg>Mazání sloupců a řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084656Z" creationid="install" creationdate="20150702T084656Z">
+        <seg>Smazání dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting data and formatting</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T085006Z" creationid="install" creationdate="20150702T085006Z">
+        <seg>Smazání a formátování dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deleting data only</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084759Z" creationid="install" creationdate="20150702T084759Z">
+        <seg>Smazání pouze dat</seg>
       </tuv>
     </tu>
     <tu>
@@ -10458,6 +10506,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222437Z" creationid="standa" creationdate="20140103T222437Z">
         <seg>Úprava šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084545Z" creationid="install" creationdate="20150702T084545Z">
+        <seg>Úprava dat</seg>
       </tuv>
     </tu>
     <tu>
@@ -24310,6 +24366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing and Formatting Data&lt;/f0&gt; for more information on validating cell contents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084443Z" creationid="install" creationdate="20150702T084443Z">
+        <seg>Více informací o ověřování obsahu buněk se nachází v kapitole &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing and Formatting Data&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; in for more information.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T193448Z" creationid="lenochod26" creationdate="20150616T213305Z">
@@ -36222,6 +36286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also set the cell to refuse invalid content, accept it with a warning, or start a macro when an error is entered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084249Z" creationid="install" creationdate="20150702T084249Z">
+        <seg>Můžeme také nastavit buňku tak, aby neplatný obsah odmítla, přijala ho s upozorněním, nebo spustila makro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also set the language for a paragraph or a group of characters as &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T190859Z" creationid="standa" creationdate="20150110T190859Z">
@@ -38446,6 +38518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>data editing, Calc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084640Z" creationid="install" creationdate="20150702T084640Z">
+        <seg>úprava dat, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>data entry, Calc</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150630T130604Z" creationid="install" creationdate="20150630T114736Z">
@@ -38698,6 +38778,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T162717Z" creationid="standa" creationdate="20140318T162717Z">
         <seg>úprava objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editing data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084520Z" creationid="install" creationdate="20150702T084520Z">
+        <seg>úprava dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editing data, Calc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084534Z" creationid="install" creationdate="20150702T084534Z">
+        <seg>úprava dat, Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -39674,6 +39770,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T210947Z" creationid="standa" creationdate="20140228T210947Z">
         <seg>odstranění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>removing data from a cell</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150702T084619Z" creationid="install" creationdate="20150702T084619Z">
+        <seg>odebrání dat z buňky</seg>
       </tuv>
     </tu>
     <tu>
