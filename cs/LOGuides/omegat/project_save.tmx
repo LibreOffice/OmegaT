@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7538,6 +7538,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T185713Z" creationid="install" creationdate="20150625T082501Z">
         <seg>Klepneme na ikonu &lt;f0&gt;Přidat list&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Alignment&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;tab (&lt;t2&gt;Figure 30&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150703T045028Z" creationid="install" creationdate="20150703T045028Z">
+        <seg>Klepněte na kartu &lt;f0&gt;Zarovnání&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;(&lt;t2&gt;obrázek 30&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24114,6 +24122,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T185249Z" creationid="standa" creationdate="20140425T185249Z">
         <seg>Klepneme pravým tlačítkem na ikonu &lt;f0&gt;Quickstarter&lt;/f0&gt; a v místní nabídce zrušíme zaškrtnutí pole &lt;f1&gt;Načíst LibreOffice během spuštění systému&lt;/f1&gt; (Windows) nebo vybereme &lt;f2&gt;Zakázat rychlé spouštění&lt;/f2&gt; (Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150703T044912Z" creationid="install" creationdate="20150703T044912Z">
+        <seg>Klepneme pravým tlačítkem myši na buňku a v místní nabídce zvolíme &lt;f0&gt;Formát Buněk&lt;/f0&gt;, nebo vybereme v liště nabídky &lt;f1&gt;Formát &gt; Buňky&lt;/f1&gt;, nebo zmáčkněte klávesovou zkratku &lt;f2&gt;Ctrl+1&lt;/f2&gt;, pro otevření dialogového okna Formát buněk.</seg>
       </tuv>
     </tu>
     <tu>
