@@ -4318,6 +4318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, right-click on the sheet tabs, row headers or column headers and select &lt;f0&gt;Show&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T084718Z" creationid="install" creationdate="20150707T084718Z">
+        <seg>Jinou možností je kliknout pravým tlačítkem myši na záhlaví řádku nebo sloupce a v místní nabídce zvolit &lt;f0&gt;Zobrazit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, right-click the object, select &lt;f3&gt;Arrange&lt;/f3&gt; from the context menu, then &lt;f4&gt;Bring Forward&lt;/f4&gt; or &lt;f5&gt;Send Backward&lt;/f5&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T164733Z" creationid="standa" creationdate="20140216T164733Z">
@@ -8008,8 +8016,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab (&lt;t1&gt;Figure 38&lt;/t1&gt;) and select an option to hide the cells.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T083659Z" creationid="install" creationdate="20150707T083659Z">
-        <seg>Klepnem na kartu &lt;f0&gt;Ochrana buňky&lt;/f0&gt;, (&lt;t1&gt;obrázek 38&lt;/t1&gt;), a vybereme  and select an option to hide the cells.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150707T083835Z" creationid="install" creationdate="20150707T083659Z">
+        <seg>Klepnem na kartu &lt;f0&gt;Ochrana buňky&lt;/f0&gt;, (&lt;t1&gt;obrázek 38&lt;/t1&gt;), a označíme možnosti na skrytí buňky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11054,6 +11062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the password to unprotect the sheet and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T084735Z" creationid="install" creationdate="20150707T084735Z">
+        <seg>Zadáme heslo k odemknutí listu a klikneme na &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the smallest font size to apply anti-aliasing.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140925T211106Z" creationid="standa" creationdate="20140925T211106Z">
@@ -12630,10 +12646,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Protect Sheet dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T083959Z" creationid="install" creationdate="20150707T083959Z">
+        <seg>Obrázek &lt;seq0&gt;37&lt;/seq0&gt;: Dialogové okno Uzamknout list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Arrowheads menu</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140217T170233Z" creationid="standa" creationdate="20140217T170233Z">
         <seg>Obrázek &lt;seq0&gt;38&lt;/seq0&gt;: Nabídka Styl šipky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Cell Protection page in Format Cells dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T084133Z" creationid="install" creationdate="20150707T084133Z">
+        <seg>Obrázek &lt;seq0&gt;38&lt;/seq0&gt;: Dialogové okno Farmát buněk na kartě Ochrana buňky</seg>
       </tuv>
     </tu>
     <tu>
@@ -25654,6 +25686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Show&lt;/f0&gt; from the menu and the sheet, row or column will be displayed and can be printed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T084653Z" creationid="install" creationdate="20150707T084653Z">
+        <seg>Vybereme z podnabídky &lt;f0&gt;Zobrazit&lt;/f0&gt; a list, řádek nebo sloupec budou zobrazeny a budou moci být vytištěny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Text&lt;/f0&gt; in the &lt;f1&gt;Category&lt;/f1&gt; list box.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150629T130004Z" creationid="install" creationdate="20150629T130004Z">
@@ -26278,6 +26318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the sheets, rows or columns each side of the hidden sheet, row or column.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T084246Z" creationid="install" creationdate="20150707T084246Z">
+        <seg>Vybereme list, sloupec nebo řádek z každé strany skrytého listu, sloupce nebo řádku, který chceme zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the slide to which you want to add notes.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T215315Z" creationid="standa" creationdate="20150702T215315Z">
@@ -26866,6 +26914,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T195206Z" creationid="standa" creationdate="20150110T195206Z">
         <seg>Zobrazení navrženého slova formou tipu (objeví se nad slovem) místo dokončování textu při psaní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Showing data</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T084139Z" creationid="install" creationdate="20150707T084139Z">
+        <seg>Zobrazení údajů</seg>
       </tuv>
     </tu>
     <tu>
@@ -28842,6 +28898,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T204239Z" creationid="standa" creationdate="20150122T202759Z">
         <seg>&lt;i0/&gt;Způsob rozvržení je třeba zvolit podle toho, jak má výsledný dokument vypadat a jaký druh informací bude obsahovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The blank cells remain visible in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T083919Z" creationid="install" creationdate="20150707T083919Z">
+        <seg>Na jejich místě jsou v listu zobrazeny prázdné buňky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34022,6 +34086,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To show hidden data in cells:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T084725Z" creationid="install" creationdate="20150707T084725Z">
+        <seg>Pokud chceme zobrazit skryté údaje v buňkách:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To show hidden sheets, rows, and columns:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T084210Z" creationid="install" creationdate="20150707T084210Z">
+        <seg>Pokud chceme zobrazit skryté listy, sloupce nebo řádky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To show or hide icons defined for the selected toolbar, click &lt;f0&gt;Visible Buttons&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T152522Z" creationid="standa" creationdate="20140501T152522Z">
@@ -36090,6 +36170,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T210027Z" creationid="install" creationdate="20150702T082441Z">
         <seg>Při vytváření sešitů, které budou používat jiní lidé, možná budeme chtít zajistit, aby byly jimi zadaná data platná a aby byly zadávána do správných buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When data in cells are hidden, it is only the data contained in the cells that are hidden and the protected cells cannot be modified.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T083857Z" creationid="install" creationdate="20150707T083857Z">
+        <seg>Skrytí údajů v buňkách znamená, že tyto nejsou zobrazeny a že chráněné buňky nelze upravit.</seg>
       </tuv>
     </tu>
     <tu>
