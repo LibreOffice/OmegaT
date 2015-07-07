@@ -4942,6 +4942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As soon as you select a theme, the theme styles are applied to the spreadsheet and are immediately visible.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T054850Z" creationid="install" creationdate="20150707T054850Z">
+        <seg>Ihned po výběru tématu se jsou styly použity a změny jsou tedy ihned patrné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As this is an experimental feature, it may not work reliably.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T164309Z" creationid="standa" creationdate="20140407T164309Z">
@@ -7986,6 +7994,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T174233Z" creationid="standa" creationdate="20140313T174233Z">
         <seg>Klepneme na tlačítko &lt;f0&gt;Rozpojit odkaz&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Choose Themes&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; in the &lt;f3&gt;Tools&lt;/f3&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T054336Z" creationid="install" creationdate="20150707T054336Z">
+        <seg>Klikneme na ikonu &lt;f0&gt;Výběr témat&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; na nástrojové liště &lt;f3&gt;Nástroje&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12554,6 +12570,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140415T184802Z" creationid="standa" creationdate="20140415T183312Z">
         <seg>Obrázek &lt;seq0&gt;36&lt;/seq0&gt;: Části ve vlastnostech na postranní liště</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Theme Selection dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T055147Z" creationid="install" creationdate="20150707T055147Z">
+        <seg>Obrázek &lt;seq0&gt;36&lt;/seq0&gt;: Dialogové okno Výběr tématu</seg>
       </tuv>
     </tu>
     <tu>
@@ -17430,6 +17454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this toolbar is not visible, go to &lt;f4&gt;View &gt; Toolbars&lt;/f4&gt; on the Menu bar and select &lt;f5&gt;Tools&lt;/f5&gt;, and the &lt;f6&gt;Theme Selection&lt;/f6&gt; dialog (&lt;t7&gt;Figure 36&lt;/t7&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T054644Z" creationid="install" creationdate="20150707T054644Z">
+        <seg>Pokud tato nástrojová lišta není zobrazena, v liště nabídky zvolíme &lt;f4&gt;Zobrazit &gt; Nástrojové lišty &gt; Nástroje&lt;/f4&gt; &lt;f5&gt;&lt;/f5&gt;. Pak v liště klikneme na ikonu &lt;f6&gt;Výběr témat&lt;/f6&gt;, otevře se odpovídající dialogové okno (obrázek &lt;t7&gt;36&lt;/t7&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you &lt;i0/&gt;link styles, then when you change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T211325Z" creationid="standa" creationdate="20140109T211325Z">
@@ -18210,6 +18242,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T220521Z" creationid="standa" creationdate="20140109T220521Z">
         <seg>Pokud si přejeme zobrazit vlastnosti šablony, klepneme na tlačítko &lt;f0&gt;Vlastnosti&lt;/f0&gt; nad seznamem šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish, you can now open the Styles and Formatting window to modify specific styles.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T055007Z" creationid="install" creationdate="20150707T055007Z">
+        <seg>Nyní můžeme jít do dialogového okna Styly a formátování, kde lze požadované styly upravit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26134,6 +26174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the theme that you want to apply.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T054815Z" creationid="install" creationdate="20150707T054815Z">
+        <seg>Označíme téma, které chceme použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the type of format and format color from the list.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T045317Z" creationid="install" creationdate="20150707T045317Z">
@@ -30750,6 +30798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These modifications do not modify the theme; they only change the appearance of the style in the specific spreadsheet you are creating.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T055103Z" creationid="install" creationdate="20150707T055103Z">
+        <seg>Tyto úpravy nezmění téma, ale jen vzhled otevřeného sešitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These notes are not seen when the presentation is shown.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T215111Z" creationid="standa" creationdate="20150702T215111Z">
@@ -31194,6 +31250,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T170412Z" creationid="standa" creationdate="20140414T170412Z">
         <seg>Toto dialogové okno umožňuje rychle zvolit barvu různých objektů (čar, oblastí a 3D efektů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog lists the available themes for the whole spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T054759Z" creationid="install" creationdate="20150707T054759Z">
+        <seg>Toto okno obsahuje seznam dostupných témat pro celý sešit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34914,6 +34978,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T202826Z" creationid="standa" creationdate="20140406T202826Z">
         <seg>Použití &lt;i0/&gt;automatické aktualizace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;i0/&gt;conditional formatting</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T055221Z" creationid="install" creationdate="20150707T055221Z">
+        <seg>Použití &lt;i0/&gt; podmíněného formátování</seg>
       </tuv>
     </tu>
     <tu>
@@ -39442,6 +39514,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T202545Z" creationid="standa" creationdate="20140417T202545Z">
         <seg>součásti balíku LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>conditional</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T055157Z" creationid="install" creationdate="20150707T055157Z">
+        <seg>podmíněné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>conditional formatting</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150707T055152Z" creationid="install" creationdate="20150707T055152Z">
+        <seg>podmíněné formátování</seg>
       </tuv>
     </tu>
     <tu>
