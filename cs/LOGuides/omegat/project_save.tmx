@@ -14350,6 +14350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if the top two rows of the sheet as well as column A need to be printed on all pages, do the following:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T053034Z" creationid="install" creationdate="20150708T053034Z">
+        <seg>Pokud například potřebujeme, aby první dva řádky listu byly vytištěny na každé tištěné straně, budeme postupovat následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140608T161325Z" creationid="standa" creationdate="20140608T161325Z">
@@ -15822,6 +15830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit on t&lt;/f0&gt;he Menu bar to open the &lt;f1&gt;Edit Print Ranges&lt;/f1&gt; dialog (&lt;t2&gt;Figure 41&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T053155Z" creationid="install" creationdate="20150708T053155Z">
+        <seg>V liště nabídky zvolíme &lt;f0&gt;Formát &gt; Oblasti tisku &gt; Upravit&lt;/f0&gt;, otevře se okno &lt;f1&gt;Upravit oblasti tisku&lt;/f1&gt; (obrázek &lt;t2&gt;41&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Edit Print Ranges&lt;/f1&gt; dialog where you can define the print range.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150708T051429Z" creationid="install" creationdate="20150708T051429Z">
@@ -17098,6 +17114,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T201531Z" creationid="install" creationdate="20150629T120325Z">
         <seg>Pokud číslo zadáme s úvodními nulami, například 01481, bez toho, aniž bychom nejprve nastavili parametr Úvodní nuly, tyto nuly LibreOffice ve výchozím nastavení automaticky odstraní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a sheet is printed on multiple pages, you can set up certain rows or columns to repeat on each printed page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T052920Z" creationid="install" creationdate="20150708T052920Z">
+        <seg>Pokud se list tiskne na více stran, je možné nastavit, aby se některé řádky nebo sloupce opakovali na každé straně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24722,6 +24746,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T202823Z" creationid="standa" creationdate="20141226T202823Z">
         <seg>Opakujeme tolikrát, kolikrát potřebujeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat printing &lt;i0/&gt;of rows or columns</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T052902Z" creationid="install" creationdate="20150708T052902Z">
+        <seg>Zopakování tisku &lt;i0/&gt;řádků a sloupců</seg>
       </tuv>
     </tu>
     <tu>
@@ -34528,8 +34560,8 @@
       <tuv lang="EN">
         <seg>To select the printing options for &lt;i0/&gt;page order, details, and scale to be used when printing a spreadsheet:</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150708T052221Z" creationid="install" creationdate="20150708T052221Z">
-        <seg>Když chceme nastavit možnosti související s &lt;i0/&gt;uspořádáním stránky a součástmi stran a jejich měřítkem:</seg>
+      <tuv lang="CS" changeid="install" changedate="20150708T052417Z" creationid="install" creationdate="20150708T052221Z">
+        <seg>Když chceme nastavit možnosti související s &lt;i0/&gt;uspořádáním a podrobnostmi stránky a jejich měřítkem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -35082,6 +35114,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T193225Z" creationid="install" creationdate="20150619T113615Z">
         <seg>Zadáme nový odkaz na buňku, na kterou se chceme přesunout, a stiskneme klávesu &lt;f6&gt;Enter&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the row identifiers in the &lt;f0&gt;Rows to repeat&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T053344Z" creationid="install" creationdate="20150708T053344Z">
+        <seg>Do pole &lt;f0&gt;Opakovat řádky&lt;/f0&gt; zadáme identifikátory řádku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41680,8 +41720,8 @@
       <tuv lang="EN">
         <seg>page order, details, scale, in Calc</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150708T052307Z" creationid="install" creationdate="20150708T052307Z">
-        <seg>uspořádání stránky, podrobnosti, měřítko, v Calc</seg>
+      <tuv lang="CS" changeid="install" changedate="20150708T052333Z" creationid="install" creationdate="20150708T052307Z">
+        <seg>uspořádání stránky, podrobnosti, měřítko, Calc</seg>
       </tuv>
     </tu>
     <tu>
