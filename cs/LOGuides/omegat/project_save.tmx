@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;After the print ranges have been removed, the default page break lines will appear on the screen.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T051035Z" creationid="install" creationdate="20150708T051035Z">
+        <seg>&lt;/f0&gt; Po odstranění oblasti tisku se na obrazovce zobrazí výchozí čáry, oddělující jednotlivé strany tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Getting Started with Calc</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T202652Z" creationid="standa" creationdate="20150326T202652Z">
@@ -5098,6 +5106,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222731Z" creationid="standa" creationdate="20140103T222731Z">
         <seg>Propojení dokumentu s jinou šablonou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At any time, you can directly edit the print range, for example to remove or resize part of the print range.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T051215Z" creationid="install" creationdate="20150708T051215Z">
+        <seg>Někdy je třeba oblast tisku upravit, například pokud ji chceme odstranit, nebo pokud chceme změnit velikost rozsahu tisku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10930,6 +10946,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T162732Z" creationid="standa" creationdate="20140318T162732Z">
         <seg>Úprava objektů písmomalby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing a print range</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T051057Z" creationid="install" creationdate="20150708T051057Z">
+        <seg>Úprava oblasti tisku</seg>
       </tuv>
     </tu>
     <tu>
@@ -20422,6 +20446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may become necessary to remove a defined print range, for example, if the whole sheet needs to be printed later.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T050812Z" creationid="install" creationdate="20150708T050812Z">
+        <seg>Může se stát, že je potřeba definovanou oblast tisku odstranit, například pokud chceme vytisknout celý list později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It moves with the paragraph but may be placed in the margin or another location.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T202539Z" creationid="standa" creationdate="20140321T202539Z">
@@ -20962,6 +20994,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150707T143934Z" creationid="lenochod26" creationdate="20150707T143934Z">
         <seg>LibreOffice zobrazí pouze ty buňky, které jsou definovány v oblasti pro tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice will display the print ranges as separate pages.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T050357Z" creationid="install" creationdate="20150708T050357Z">
+        <seg>LibreOffice jednotlivé oblasti tisku zobrazí jako nezávislé strany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24562,6 +24602,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T201125Z" creationid="standa" creationdate="20141008T201125Z">
         <seg>Odstranit při ukládání osobní informace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removing a print range</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T050649Z" creationid="install" creationdate="20150708T050649Z">
+        <seg>Odstranění oblasti tisku</seg>
       </tuv>
     </tu>
     <tu>
@@ -29094,6 +29142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The additional print range will print as a separate page, even if both ranges are on the same sheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T050637Z" creationid="install" creationdate="20150708T050637Z">
+        <seg>Přidaná oblast tisku se vytiskne jako samostatná strana, a to i v případě, pokud jsou obě oblasti na stejném listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The advantage is that the document containing the references can be moved to other directories or folders, and the references remain valid.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T192830Z" creationid="standa" creationdate="20141015T192830Z">
@@ -33038,6 +33094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To check the print ranges, go to &lt;f0&gt;File &gt; Page Preview&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Page Preview&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T050310Z" creationid="install" creationdate="20150708T050310Z">
+        <seg>Správnost určení oblasti tisku můžeme zkontrolovat v liště nabídky &lt;f0&gt;Soubor &gt; Náhled strany&lt;/f0&gt; nebo kliknutím na ikonu &lt;f1&gt;Náhled strany&lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To choose the options for checking spelling, click &lt;f0&gt;Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T191751Z" creationid="standa" creationdate="20141018T191751Z">
@@ -34106,6 +34170,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T200605Z" creationid="install" creationdate="20150629T082355Z">
         <seg>Rozdělení obrazovky odebereme jedním následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove all the defined print ranges, go to &lt;f0&gt;Format &gt; Print Ranges &gt; Remove on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T050949Z" creationid="install" creationdate="20150708T050949Z">
+        <seg>Všechny oblasti tisku odstraníme tak, že v liště nabídky zvolíme &lt;f0&gt;Formát &gt; Oblasti tisku &gt; Odstranit.</seg>
       </tuv>
     </tu>
     <tu>
