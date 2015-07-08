@@ -9750,6 +9750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting a page break</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055406Z" creationid="install" creationdate="20150708T055406Z">
+        <seg>Odstranění zalomení stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting a template</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222922Z" creationid="standa" creationdate="20140103T222922Z">
@@ -15702,6 +15710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Edit &gt; Delete Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055611Z" creationid="install" creationdate="20150708T055611Z">
+        <seg>V liště nabídky zvolíme &lt;f0&gt;Úpravy &gt; Smazat zalomení stránky&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Edit &gt; Fill&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Up&lt;/f1&gt;, &lt;f2&gt;Down&lt;/f2&gt;, &lt;f3&gt;Left&lt;/f3&gt; or &lt;f4&gt;Right&lt;/f4&gt;) or &lt;f5&gt;Series&lt;/f5&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T161614Z" creationid="install" creationdate="20150630T132850Z">
@@ -15914,6 +15930,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140220T210222Z" creationid="standa" creationdate="20140220T210222Z">
         <seg>Zvolíme &lt;f0&gt;Vložit &gt; Komentář&lt;/f0&gt; v hlavní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055258Z" creationid="install" creationdate="20150708T055258Z">
+        <seg>V liště nabídky zvolíme &lt;f0&gt;Vložit &gt; Zalomení stránky&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20086,6 +20110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inserting a &lt;i0/&gt;&lt;i1/&gt;break</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055101Z" creationid="install" creationdate="20150708T055101Z">
+        <seg>Vložení &lt;i0/&gt;&lt;i1/&gt;zalomení stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inserting a header or footer</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T205210Z" creationid="standa" creationdate="20150122T205210Z">
@@ -22466,6 +22498,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T195357Z" creationid="standa" creationdate="20141012T195357Z">
         <seg>Název faxu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to a cell that is next to the break you want to remove.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055452Z" creationid="install" creationdate="20150708T055452Z">
+        <seg>Přejdeme do buňky, která následuje za zalomením, které chceme odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to the cell where the page break will begin.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055139Z" creationid="install" creationdate="20150708T055139Z">
+        <seg>Přejdeme do buňky, od které má začít nová strana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25926,6 +25974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Column Break&lt;/f0&gt; to create a page break to the left of the selected cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055340Z" creationid="install" creationdate="20150708T055340Z">
+        <seg>Vybráním položky &lt;f0&gt;Zalomení sloupce&lt;/f0&gt; vytvoříme zalomení stránky vlevo od vybrané buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &lt;f0&gt;Cross-fading attributes&lt;/f0&gt; to apply a gradual change of line and fill properties between the two objects.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T080817Z" creationid="standa" creationdate="20140218T080817Z">
@@ -26090,6 +26146,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T082926Z" creationid="install" creationdate="20150707T082926Z">
         <seg>V něm zvolíme &lt;f0&gt;Uzamknout tento list a obsah uzamčených buněk&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; to create a page break above the selected cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055351Z" creationid="install" creationdate="20150708T055317Z">
+        <seg>Vybráním položky &lt;f0&gt;Zalomení řádku&lt;/f0&gt; vytvoříme zalomení stránky nad vybranou buňkou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33910,6 +33974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To insert a page break:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055114Z" creationid="install" creationdate="20150708T055114Z">
+        <seg>Když chceme vložit zalomení stránky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To insert a special character:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T180855Z" creationid="standa" creationdate="20150110T180855Z">
@@ -34322,6 +34394,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T165451Z" creationid="standa" creationdate="20140504T165451Z">
         <seg>Chceme-li změnu zopakovat, použijeme klávesovou zkratku &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, klepneme na ikonu &lt;f1&gt;Znovu&lt;/f1&gt; na &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; nástrojové liště Standardní nebo v hlavní nabídce zvolíme &lt;f5&gt;Úpravy &gt; Znovu&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a page break:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055431Z" creationid="install" creationdate="20150708T055431Z">
+        <seg>Když chceme zalomení strany odstranit:</seg>
       </tuv>
     </tu>
     <tu>
@@ -41778,6 +41858,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T135130Z" creationid="standa" creationdate="20140501T135130Z">
         <seg>přehled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>page break, Calc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150708T055003Z" creationid="install" creationdate="20150708T055003Z">
+        <seg>zalomení stránky, Calc</seg>
       </tuv>
     </tu>
     <tu>
