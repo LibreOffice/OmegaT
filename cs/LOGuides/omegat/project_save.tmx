@@ -5454,6 +5454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base can also be used to connect to other databases.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113458Z" creationid="install" creationdate="20150710T113321Z">
+        <seg>Base se však dokáže připojit i k jiným databázím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base incorporates HSQLDB as its default relational database engine.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T184936Z" creationid="standa" creationdate="20140418T184843Z">
@@ -5578,6 +5586,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140608T153343Z" creationid="standa" creationdate="20140608T153343Z">
         <seg>LibreOffice používá jméno a iniciály, které jsou zadané na stránce &lt;f0&gt;LibreOffice - Uživatelské údaje&lt;/f0&gt;, mimo jiné k určení vlastností dokumentu (položky Vytvořen a Změněn) nebo jako jméno autora komentářů a změn. Proto je důležité, aby tyto údaje byly správné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Because everything is included in one file, it is known as an embedded database.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113302Z" creationid="install" creationdate="20150710T113302Z">
+        <seg>Jelikož je vše zahrnuto v jednom souboru, mluvíme o vestavěné databázi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9618,6 +9634,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T202238Z" creationid="standa" creationdate="20141029T202238Z">
         <seg>propojení s databází, včetně seznamu použité literatury,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Database programs can do the same thing.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113014Z" creationid="install" creationdate="20150710T113014Z">
+        <seg>Databázové programy mohou dělat totéž.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20102,6 +20126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, Base creates a file to make the connection.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113409Z" creationid="install" creationdate="20150710T113409Z">
+        <seg>V takovém případě program Base vytvoří soubor pro připojení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case, it does not matter where the referenced directory structure is recorded.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T192206Z" creationid="standa" creationdate="20141015T192206Z">
@@ -26134,6 +26166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the Base Handbook and Base Guide for more information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113828Z" creationid="install" creationdate="20150710T113828Z">
+        <seg>Více informací se nachází v "Base Handbook" a "Base Guide".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the Help for more details.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T182413Z" creationid="standa" creationdate="20150110T182413Z">
@@ -31878,6 +31918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are not embedded databases since they exist outside the Base file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113448Z" creationid="install" creationdate="20150710T113448Z">
+        <seg>Toto není vestavěná databáze, protože existuje mimo soubor programu Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These are what will appear in your table of contents.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T215448Z" creationid="standa" creationdate="20150209T215448Z">
@@ -32082,6 +32130,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T214417Z" creationid="standa" creationdate="20140105T214406Z">
         <seg>Umožňují také rychle a snadno provést rozsáhlé změny formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are front end database documents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113636Z" creationid="install" creationdate="20150710T113636Z">
+        <seg>Jde o dokument, který představuje rozhraní s databází.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32610,6 +32666,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T165119Z" creationid="standa" creationdate="20140318T165119Z">
         <seg>Obrázek zobrazuje plovoucí nástrojovou lištu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This file contains the data and all of the structures you create to obtain information from the data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113219Z" creationid="install" creationdate="20150710T113219Z">
+        <seg>Tento soubor obsahuje data, jakož i struktury vytvořené k získání informací z těchto dat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35766,6 +35830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Types of database</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113944Z" creationid="install" creationdate="20150710T113944Z">
+        <seg>Typy databází</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Typically the reader may either edit everything or nothing in any way.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T195316Z" creationid="standa" creationdate="20150326T195316Z">
@@ -38050,6 +38122,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140115T214541Z" creationid="standa" creationdate="20140115T214541Z">
         <seg>V &lt;t0/&gt;LibreOffice můžeme pro první stránku definovat &lt;f1&gt;styl stránky&lt;/f1&gt; a pro ostatní stránky stanovit styl, který se použije automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With Base, you create a &lt;f0&gt;Database document file&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T113506Z" creationid="install" creationdate="20150710T113052Z">
+        <seg>Pomocí Base můžeme vytvořit &lt;f0&gt;databázový soubor&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
