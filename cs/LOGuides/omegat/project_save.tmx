@@ -3134,6 +3134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;relational database&lt;/f0&gt; contains one or more tables with one or more relationships defined between those tables; each relationship is defined by a pair of fields.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T115643Z" creationid="install" creationdate="20150710T115613Z">
+        <seg>&lt;f0&gt; Relační databáze&lt;/f0&gt; obsahuje jednu nebo více tabulek, které mají jeden nebo více relací, přičemž každá relace je definována párem polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard English keyboard.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T180810Z" creationid="standa" creationdate="20150110T171810Z">
@@ -3826,6 +3834,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T183326Z" creationid="standa" creationdate="20150628T183326Z">
         <seg>Ke zvýraznění nebo vylepšení různých prvků na snímku slouží celá řada animací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A well designed relational database requires the data to be entered only once, reducing possible errors.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T120042Z" creationid="install" creationdate="20150710T120042Z">
+        <seg>Správně navržená relační databáze já taková, do níž se údaj zadává pouze jednou, čímž se omezí vznik možné chyby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9046,6 +9062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consider an address book.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T120055Z" creationid="install" creationdate="20150710T120055Z">
+        <seg>Vezměme si adresář kontaktů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T221014Z" creationid="standa" creationdate="20140103T221014Z">
@@ -13858,6 +13882,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T205248Z" creationid="standa" creationdate="20141226T205248Z">
         <seg>Vyhledávání a nahrazování textu a formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Flat database</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T120047Z" creationid="install" creationdate="20150710T120047Z">
+        <seg>Plochá databáza</seg>
       </tuv>
     </tu>
     <tu>
@@ -20550,6 +20582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead the same data must be entered in both fields, making data entry errors more likely.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T115951Z" creationid="install" creationdate="20150710T115951Z">
+        <seg>Namísto toho se stejný data musí zadat do obou polí, což zvyšuje pravděpodobnost vzniku chyb při zadávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, use a conditional hyphen, which is visible only when required.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T202134Z" creationid="standa" creationdate="20150122T202134Z">
@@ -23658,6 +23698,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140210T201026Z" creationid="standa" creationdate="20140210T201026Z">
         <seg>Prvním klepnutím objekt vybereme, druhým klepnutím výběr zrušíme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One field of each pair belongs to one table and the second field belongs to the same or a different table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T115754Z" creationid="install" creationdate="20150710T115754Z">
+        <seg>Jedno pole z každého páru přísluší jedné tabulce a druhé pole přísluší téže nebo jiné tabulce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37126,6 +37174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usually, the data in an address book can be divided into groups based upon the relationships between the data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T120124Z" creationid="install" creationdate="20150710T120124Z">
+        <seg>Adresář kontaktů je obvykle rozdělen do skupin podle vztahu mezi údaji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VBA Properties</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T194350Z" creationid="standa" creationdate="20141015T194350Z">
@@ -38110,6 +38166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Where relationships exist between fields in the same or different tables, a flat database could still be used, but it provides no mechanism for defining the relationship.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T115922Z" creationid="install" creationdate="20150710T115922Z">
+        <seg>Plochou databázi můžeme požít i tehdy, když existuje relace mezi poli téže tabulky nebo různých tabulek, není však dostupný žádný mechanismus k definování vztahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whereas normally the code is preserved but rendered inactive (if you inspect it with the StarBasic IDE you will notice that it is all commented), with this option the code is ready to be executed.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T202531Z" creationid="standa" creationdate="20141015T202531Z">
@@ -38146,6 +38210,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T185129Z" creationid="standa" creationdate="20140418T185129Z">
         <seg>I přesto, že se tento program nejčastěji využívá k vytváření vzorců v dokumentech programů Writer a Impress, lze jej použít i jako samostatný nástroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While some contacts are contained in more than one table, different tables may not have the same information about the same person.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T115403Z" creationid="install" creationdate="20150710T115403Z">
+        <seg>I když jsou některé kontakty obsaženy ve více tabulkách, tabulky nemají stejné informace o téže osobě.</seg>
       </tuv>
     </tu>
     <tu>
