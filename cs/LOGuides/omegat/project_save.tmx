@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(A report can be created from a table as well.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T122129Z" creationid="install" creationdate="20150710T122129Z">
+        <seg>(Sestava se dá vytvořit i z tabulky.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Both remain active when the document is exported to PDF.)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T190353Z" creationid="standa" creationdate="20150326T190353Z">
@@ -10958,6 +10966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each column contains data with the same properties.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121332Z" creationid="install" creationdate="20150710T121332Z">
+        <seg>Každý sloupec (pole) obsahuje údaje se stejnými vlastnostmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each deck consists of a title bar and one or more content panels.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141219T193459Z" creationid="standa" creationdate="20141219T193459Z">
@@ -11026,6 +11042,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150617T123548Z" creationid="install" creationdate="20150617T123548Z">
         <seg>Každý z těchto panelů má tlačítko &lt;f0&gt;Další možnosti&lt;/f0&gt;, které otevře dialogové okno s větším počtem možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each row contains data that describes a specific entity or individual.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121441Z" creationid="install" creationdate="20150710T121441Z">
+        <seg>Každý řádek (záznam) zase obsahuje data, které popisují určitou entitu nebo jednotlivce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each row is called a &lt;f0&gt;record&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121501Z" creationid="install" creationdate="20150710T121501Z">
+        <seg>Každý řádek se nazývá &lt;f0&gt;záznam&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18214,6 +18246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If we want to give the information to someone else, we will give them a &lt;f1&gt;report&lt;/f1&gt; that is based upon a query we created.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T122053Z" creationid="install" creationdate="20150710T122053Z">
+        <seg>Pokud chceme poskytnout informace někomu jinému, vytvoříme pro něj &lt;f1&gt;sestavu&lt;/f1&gt;, která bude založena na dotazu, který jsme vytvořili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you &lt;i0/&gt;link styles, then when you change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T211325Z" creationid="standa" creationdate="20140109T211325Z">
@@ -23162,6 +23202,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T162811Z" creationid="standa" creationdate="20140318T162811Z">
         <seg>Jakmile je objekt písmomalby vytvořen, můžeme upravit některé jeho vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now with the table, we have a flat database we can use to obtain information from the data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121559Z" creationid="install" creationdate="20150710T121559Z">
+        <seg>Díky tabulce máme plochou databázi, kterou můžeme použít k získání informací z dat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28246,6 +28294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, a flat database consists of a &lt;f0&gt;table&lt;/f0&gt; whose columns are called &lt;f1&gt;fields&lt;/f1&gt; and whose rows are called &lt;f2&gt;records&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T122201Z" creationid="install" creationdate="20150710T122201Z">
+        <seg>Takže plochá databáze sestává z &lt;f0&gt;tabulky&lt;/f0&gt; jejíž sloupce nazýváme &lt;f1&gt;pole&lt;/f1&gt; a řádky nazýváme &lt;f2&gt;záznamy&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some AutoCorrect settings are applied when you press the spacebar after you enter data.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150630T114137Z" creationid="install" creationdate="20150630T114137Z">
@@ -30102,6 +30158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The collection of data we mentioned was a flat database without any structure.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121540Z" creationid="install" creationdate="20150710T121540Z">
+        <seg>Sbírka dat, kterou jsme představili, představuje plochou databázi bez jakékoliv struktury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The color field at the lower left shows the value of the selected color on the left and the currently set value from the color value fields on the right.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141006T182538Z" creationid="standa" creationdate="20141006T182538Z">
@@ -31670,6 +31734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The structure of rows and columns is called a &lt;f1&gt;table&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121514Z" creationid="install" creationdate="20150710T121514Z">
+        <seg>Struktura řádků a sloupců se zase nazývá &lt;f1&gt;tabulka&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The sub-sections are Insert Shapes, Character, Paragraph, Area, Line and Position and Size.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T164456Z" creationid="standa" creationdate="20140414T164456Z">
@@ -32738,6 +32810,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T163744Z" creationid="install" creationdate="20150701T122648Z">
         <seg>V tomto okně se na levé straně v poli &lt;f2&gt;Seznamy&lt;/f2&gt; zobrazují již definované seznamy, v poli &lt;f3&gt;Položky&lt;/f3&gt; pak jednotlivé prvky vybraného seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This divides the data into a table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121306Z" creationid="install" creationdate="20150710T121306Z">
+        <seg>Tímto se údaje uspořádají do tabulky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37334,6 +37414,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We use &lt;f0&gt;queries&lt;/f0&gt; to obtain the information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121709Z" creationid="install" creationdate="20150710T121709Z">
+        <seg>Pro získání informací použijeme &lt;f0&gt;dotazy&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We would rearrange the rows so that each contains information about an individual.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121252Z" creationid="install" creationdate="20150710T121252Z">
+        <seg>Řádky sešitu můžeme seřadit tak, že každý řádek obsahuje informace o jednotlivci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Web Layout</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141023T195533Z" creationid="standa" creationdate="20141023T195533Z">
@@ -40386,6 +40482,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T095128Z" creationid="standa" creationdate="20140315T095128Z">
         <seg>Později tak tyto obrázky můžeme velmi jednoduše vložit do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can think of queries as way to ask questions in Base and receive the answers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T121739Z" creationid="install" creationdate="20150710T121739Z">
+        <seg>Dotazy můžeme považovat za způsob, jakým můžeme programu Base klást otázky a získávat na ně odpovědi.</seg>
       </tuv>
     </tu>
     <tu>
