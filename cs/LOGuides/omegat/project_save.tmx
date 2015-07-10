@@ -3126,6 +3126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;flat database&lt;/f0&gt; contains one or more tables, each containing one or more fields.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T114358Z" creationid="install" creationdate="20150710T114358Z">
+        <seg>&lt;f0&gt;Plochá databáze&lt;/f0&gt; obsahuje jednu nebo více tabulek, z nichž každá obsahuje jedno nebo více polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;special character&lt;/f0&gt; is one not found on a standard English keyboard.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T180810Z" creationid="standa" creationdate="20150110T171810Z">
@@ -5458,6 +5466,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T113458Z" creationid="install" creationdate="20150710T113321Z">
         <seg>Base se však dokáže připojit i k jiným databázím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base can create and work with both types.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T114207Z" creationid="install" creationdate="20150710T114207Z">
+        <seg>Program Base dokáže vytvořit a pracovat s oběma typy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11014,6 +11030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each table is completely independent of all the other tables in the database.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T114418Z" creationid="install" creationdate="20150710T114418Z">
+        <seg>Každá tabulka je přitom zcela nezávislá na ostatních tabulkách v databázi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each time the &lt;f0&gt;Ins&lt;/f0&gt; key is pressed the mode toggles between Insert and Overwrite.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T155641Z" creationid="standa" creationdate="20140501T155641Z">
@@ -14794,6 +14818,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T214514Z" creationid="standa" creationdate="20140105T214514Z">
         <seg>Například se rozhodneme změnit odsazení všech odstavců nebo změnit písmo všech nadpisů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you might have an address database with several tables in it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T114433Z" creationid="install" creationdate="20150710T114433Z">
+        <seg>Například, můžeme mít databázi adres s několika tabulkami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23630,6 +23662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One might contain your family’s contacts, another your business contacts, and another your spouse’s family contacts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T114604Z" creationid="install" creationdate="20150710T114604Z">
+        <seg>Jedna může obsahovat soukromé kontakty, jiná pracovní kontakty a další manželčiny soukromé kontakty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One of the major advantages of using templates is the ease of updating styles in more than one document, as described on page &lt;bf0&gt;15&lt;/bf0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140113T203656Z" creationid="standa" creationdate="20140113T203656Z">
@@ -25050,6 +25090,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T082632Z" creationid="install" creationdate="20150710T082632Z">
         <seg>Reizinger Zoltán&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relational databases are covered in detail in the &lt;f2&gt;Base Handbook&lt;/f2&gt; and the &lt;f3&gt;Base Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T114325Z" creationid="install" creationdate="20150710T114325Z">
+        <seg>Relační databáze jsou podrobněji popsány v knihách &lt;f2&gt;Base Handbook&lt;/f2&gt; a &lt;f3&gt;Base Guide&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31710,6 +31758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The two types of database are known as &lt;f0&gt;flat&lt;/f0&gt; and &lt;f1&gt;relational&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T114132Z" creationid="install" creationdate="20150710T114132Z">
+        <seg>Rozpoznávame dva typy databází: &lt;f0&gt;plochá&lt;/f0&gt; a &lt;f1&gt;relační&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The type of document created depends on which LibreOffice component is open and active.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140502T143101Z" creationid="standa" creationdate="20140502T143101Z">
@@ -32362,6 +32418,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140222T205449Z" creationid="standa" creationdate="20140222T205449Z">
         <seg>Tato kapitola popisuje, jak v programech Writer, Calc, Impress a Draw:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter discusses flat databases.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150710T114221Z" creationid="install" creationdate="20150710T114221Z">
+        <seg>Tato kapitola hovoří o plochých databázích.</seg>
       </tuv>
     </tu>
     <tu>
