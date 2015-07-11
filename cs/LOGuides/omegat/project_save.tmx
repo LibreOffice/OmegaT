@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8418,6 +8418,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140115T210937Z" creationid="standa" creationdate="20140115T210937Z">
         <seg>Klepneme na tlačítko &lt;f0&gt;Přesunout do složky &lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;a z rozbalovací nabídky zvolíme &lt;f2&gt;Nová složka&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;New Database&lt;/f0&gt; icon on the splash screen if it appears when LibreOffice opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150711T071523Z" creationid="lenochod26" creationdate="20150711T071523Z">
+        <seg>Klikneme na ikonu &lt;f0&gt;Databáze&lt;/f0&gt; v úvodním okně LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
