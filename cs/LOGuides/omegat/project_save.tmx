@@ -7750,6 +7750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click any one of the tasks to see its description.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060931Z" creationid="install" creationdate="20150713T060931Z">
+        <seg>Přejeďte myší na některou z úloh pro zobrazení jejich popisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click anywhere in a free space or press &lt;f0&gt;Esc&lt;/f0&gt; to apply your changes.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T162658Z" creationid="standa" creationdate="20140318T162658Z">
@@ -29462,6 +29470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tasks section</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060145Z" creationid="install" creationdate="20150713T060145Z">
+        <seg>Oblast Úlohy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Templates and styles (see Chapter 3)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T201944Z" creationid="standa" creationdate="20141023T203719Z">
@@ -31998,6 +32014,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The right side of the Tasks section has the heading &lt;f0&gt;Description&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060631Z" creationid="install" creationdate="20150713T060631Z">
+        <seg>Na pravé straně části oblasti Úlohy se nachází nadpis &lt;f0&gt;Popis&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rotation point is normally located at the center of an object.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T173814Z" creationid="standa" creationdate="20140216T173814Z">
@@ -32958,6 +32982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This area gives you information about each of the tasks.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060707Z" creationid="install" creationdate="20150713T060707Z">
+        <seg>V části pod popisem se zobrazují informace o každé z úloh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This area is blank when in Insert mode.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T205747Z" creationid="standa" creationdate="20141029T205747Z">
@@ -33810,6 +33842,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T174134Z" creationid="standa" creationdate="20140216T174134Z">
         <seg>Bod otočení může být umístěn dokonce mimo objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This section contains a list of tasks that can be done related to the icon selected in the Database section.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060250Z" creationid="install" creationdate="20150713T060250Z">
+        <seg>Tato oblast obsahuje seznam úloh, které můžeme provést na základě toho, jakou ikonu jsme zvolili v oblasti Databáze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36494,6 +36534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two of them help you create a table, and one helps you create a view.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060330Z" creationid="install" creationdate="20150713T060330Z">
+        <seg>Dvě z nich slouží k vytvoření tabulky a jedna na vytvoření náhledu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a name for this bookmark in the top box, and then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T194238Z" creationid="standa" creationdate="20150326T194238Z">
@@ -38510,10 +38558,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the Forms icon is selected, two tasks appear to help you create a form.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060533Z" creationid="install" creationdate="20150713T060533Z">
+        <seg>Když je vybrána ikona Formuláře, objeví se tu dvě úlohy, které nám pomohou vytvořit formulář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the Queries icon is selected, three tasks appear to help you create a query.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060457Z" creationid="install" creationdate="20150713T060457Z">
+        <seg>Když je vybrána ikona Dotazy, tato část obsahuje tři úlohy, které nám pomohou vytvořit dotaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the Rectangle tool is selected, a square is drawn.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140126T153752Z" creationid="standa" creationdate="20140126T153752Z">
         <seg>Je-li vybrán nástroj Obdélník, nakreslí se čtverec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the Reports icon is selected, two tasks appear to help you create a report.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060555Z" creationid="install" creationdate="20150713T060555Z">
+        <seg>Když je vybrána ikona Sestavy, nacházejí se zde dvě úlohy, které nám pomohou vytvořit sestavu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the Tables icon is selected in the Database section, three tasks appear in this section.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150713T060301Z" creationid="install" creationdate="20150713T060301Z">
+        <seg>Když v oblasti Databáze zvolíme ikonu Tabulky, tato oblast bude obsahovat tři úkoly.</seg>
       </tuv>
     </tu>
     <tu>
