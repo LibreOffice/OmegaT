@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Select &lt;/f0&gt;&lt;f2&gt;HouseholdInventory &lt;/f2&gt;for the example.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T064744Z" creationid="install" creationdate="20150716T064744Z">
+        <seg>(Pro náš příklad zvolíme &lt;/f0&gt;&lt;f2&gt;Inventář&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Select Personal for the example.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T064353Z" creationid="install" creationdate="20150716T064353Z">
@@ -3018,6 +3026,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181935Z" creationid="standa" creationdate="20140526T181935Z">
         <seg>Pomocí Průvodce vytvořením WWW stránky Lze také vytvářet několik různých typů webových stránek, jak je popsáno v části „&lt;f0&gt;&lt;bf1&gt;Vytváření webových stránek pomocí Průvodce vytvořením WWW stránky&lt;/bf1&gt;&lt;/f0&gt;“ na stránce &lt;f2&gt;&lt;bf3&gt;8&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f3&gt;Available fields&lt;/f3&gt; contains a list of this table's fields.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T064826Z" creationid="install" creationdate="20150716T064826Z">
+        <seg>Seznam &lt;f3&gt;Dostupná pole&lt;/f3&gt; obsahuje seznam polí této tabulky.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33456,8 +33472,8 @@
       <tuv lang="EN">
         <seg>These will be applied to selecting &lt;f0&gt;HouseholdInventory&lt;/f0&gt; as the table and the fields in it in the example following these steps.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150716T063345Z" creationid="install" creationdate="20150716T063345Z">
-        <seg>Tyto kroky později použijeme pro případ tabulky &lt;f0&gt;InventářDomácnosti&lt;/f0&gt;, jejíž pole použijeme jako příklad.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150716T064754Z" creationid="install" creationdate="20150716T063345Z">
+        <seg>Tyto kroky později použijeme pro případ tabulky &lt;f0&gt;Inventář&lt;/f0&gt;, jejíž pole použijeme jako příklad.</seg>
       </tuv>
     </tu>
     <tu>
