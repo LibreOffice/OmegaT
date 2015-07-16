@@ -32174,6 +32174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The field, RoomID, needs to change its name, field type, and length.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T094734Z" creationid="install" creationdate="20150716T094734Z">
+        <seg>V případě pole MístnostID je třeba změnit jeho název, typ pole a délku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The fields are listed now in alphabetical order.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T073334Z" creationid="install" creationdate="20150716T073334Z">
@@ -37962,6 +37970,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T193635Z" creationid="standa" creationdate="20141015T193635Z">
         <seg>Dvěma nejvýznamnějšími příklady jsou křížové odkazy na záhlaví a formátování číslovaných seznamů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Two of the fields, &lt;f0&gt;AppraisedValue&lt;/f0&gt; and &lt;f1&gt;PurchasePrice&lt;/f1&gt;, require a change in the number of decimal places.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T094823Z" creationid="install" creationdate="20150716T094823Z">
+        <seg>V případě polí &lt;f0&gt;OdhadovanáCena&lt;/f0&gt; a &lt;f1&gt;NákupníCena&lt;/f1&gt;, je třeba změnit počet desetinných míst.</seg>
       </tuv>
     </tu>
     <tu>
