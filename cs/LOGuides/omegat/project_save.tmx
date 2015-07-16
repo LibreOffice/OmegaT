@@ -6214,6 +6214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CHAR stores entries in a fixed length.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083736Z" creationid="install" creationdate="20150716T083736Z">
+        <seg>Typ CHAR je určen pro položky s pevnou délkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>CSV file</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T095212Z" creationid="install" creationdate="20150618T095212Z">
@@ -15378,6 +15386,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140115T214339Z" creationid="standa" creationdate="20140115T214339Z">
         <seg>Například první stránka dopisu mívá odlišné záhlaví, první stránka zprávy nejspíš neobsahuje záhlaví a zápatí, zatímco ostatní stránky ano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the selected length is 10 and the values entered were cat, mouse, leather, and something.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083812Z" creationid="install" creationdate="20150716T083812Z">
+        <seg>Například můžeme zvolit délku 10 a do pole vložit hodnoty „kočka“, „myš“, „zajíc“ a „papoušek“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24902,6 +24918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the actual characters entered are stored up to the length selected.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083946Z" creationid="install" creationdate="20150716T083946Z">
+        <seg>Do pole se uloží pouze zadaný vstup po maximálně zadanou délku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the text contained in the default text boxes in each slide is shown, so if your slide includes other text boxes or drawing objects, the text in these objects is not displayed.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T214330Z" creationid="standa" creationdate="20150702T214330Z">
@@ -30414,6 +30438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text field types include CHAR, VARCHAR, VARCHAR_IGNORECASE, and MEMO.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083728Z" creationid="install" creationdate="20150716T083728Z">
+        <seg>Typy textových polí jsou CHAR, VARCHAR, VARCHAR_IGNORECASE a MEMO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text frames can also have fill colors, shadows, and other attributes, just like any other Draw object.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T195705Z" creationid="standa" creationdate="20140131T195705Z">
@@ -33582,6 +33614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The zeros are added to make the length of each one 10.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083905Z" creationid="install" creationdate="20150716T083905Z">
+        <seg>Na konec se vždy doplní nuly, aby délka každého vstupu byla 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then again, a field type that has a smaller length might be more appropriate.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T083710Z" creationid="install" creationdate="20150716T083710Z">
@@ -33994,6 +34034,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T064754Z" creationid="install" creationdate="20150716T063345Z">
         <seg>Tyto kroky později použijeme pro případ tabulky &lt;f0&gt;Inventář&lt;/f0&gt;, jejíž pole použijeme jako příklad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These would be stored as cat0000000, mouse00000, leather000, and something0.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083858Z" creationid="install" creationdate="20150716T083858Z">
+        <seg>Hodnoty budou uloženy ve tvaru kočka00000, myš0000000, zajíc00000 a papoušek00.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39206,6 +39254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VARCHAR is variable character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083926Z" creationid="install" creationdate="20150716T083926Z">
+        <seg>Typ VARCHAR je text s proměnnou délkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VBA Properties</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T194350Z" creationid="standa" creationdate="20141015T194350Z">
@@ -39962,6 +40018,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T185000Z" creationid="standa" creationdate="20150110T184930Z">
         <seg>Když slovo opravíme, vlnovka zmizí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this field is later read, the zeros are ignored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083916Z" creationid="install" creationdate="20150716T083916Z">
+        <seg>Když se budou později hodnoty zobrazovat, koncové nuly budou ignorovány.</seg>
       </tuv>
     </tu>
     <tu>
