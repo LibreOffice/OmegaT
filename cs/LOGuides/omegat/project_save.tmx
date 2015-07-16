@@ -4782,6 +4782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always be sure that an entry will always be required before selecting &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T082841Z" creationid="install" creationdate="20150716T082841Z">
+        <seg>Před přepnutím na &lt;f2&gt;Ano&lt;/f2&gt; si vždy dobře zvážíme, zda pole opravdu vždy musí obsahovat hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always checkbox</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141006T184705Z" creationid="standa" creationdate="20141006T184705Z">
@@ -19362,6 +19370,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T192743Z" creationid="standa" creationdate="20140131T074220Z">
         <seg>Pokud nejprve stiskneme a podržíme klávesu &lt;f0&gt;Ctrl&lt;/f0&gt; a poté klepneme na některou z ikon Čára, Obdélník, Elipsa nebo Text, v pracovní oblasti se automaticky nakreslí objekt standardní velikosti; jeho velikost, tvar a barva budou také standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a field that requires an entry, you will get an error message if you do not enter a value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T082928Z" creationid="install" creationdate="20150716T082928Z">
+        <seg>Pokud máme pole, které vyžaduje hodnotu, a do takového pole nebude hodnota zadána, zobrazí se chybové hlášení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38054,6 +38070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Entry required&lt;/f0&gt; for any field that must always have a value by selecting &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T082820Z" creationid="install" creationdate="20150716T082820Z">
+        <seg>Přepnutí hodnoty ve vlastnosti &lt;f0&gt;Požadované položka&lt;/f0&gt; na &lt;f1&gt;Ano&lt;/f1&gt; použijeme tehdy, pokud pole musí vždy obsahovat hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;File &gt; New &gt; Templates&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140113T204558Z" creationid="standa" creationdate="20140113T204558Z">
@@ -43108,6 +43132,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140123T210921Z" creationid="standa" creationdate="20140123T210921Z">
         <seg>&lt;is0/&gt;Pravítka&lt;ie1/&gt; (lišty s čísly) by se měla zobrazit na horní a levé straně pracovní plochy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be able add values to all the other fields once only before the error message, But you can not add any more values until you enter one in the field that requires one.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T083010Z" creationid="install" creationdate="20150716T083010Z">
+        <seg>Předtím, než se chybová zpráva zobrazí, můžeme vyplňovat ostatní pole, ale po jejím zobrazení nebude možné vyplnit žádné další pole dokud povinnou hodnotu nevložíte.</seg>
       </tuv>
     </tu>
     <tu>
