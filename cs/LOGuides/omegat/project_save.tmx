@@ -6630,6 +6630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the &lt;f0&gt;Field name&lt;/f0&gt; to &lt;f1&gt;Room&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T130038Z" creationid="install" creationdate="20150716T130038Z">
+        <seg>Položku &lt;f0&gt;Název pole&lt;/f0&gt; změníme na &lt;f1&gt;Místnost&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the key that accepts a suggested entry—the options are &lt;f0&gt;Right arrow&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt; key, &lt;f2&gt;Return&lt;/f2&gt; (&lt;f3&gt;Enter&lt;/f3&gt;), and &lt;f4&gt;Space bar&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T195607Z" creationid="standa" creationdate="20150110T195607Z">
@@ -8218,6 +8226,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T193326Z" creationid="lenochod26" creationdate="20150627T075004Z">
         <seg>Klepneme na buňku, která má být těsně pod vodorovným ukotvením a zároveň těsně za svislým ukotvením.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click its drop-down list to open it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T130137Z" creationid="install" creationdate="20150716T130137Z">
+        <seg>Kliknutím otevřeme rozbalovací seznam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14550,6 +14566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, for field, &lt;f3&gt;InventoryID&lt;/f3&gt;, Change &lt;f4&gt;Auto value&lt;/f4&gt; from &lt;f5&gt;No &lt;/f5&gt;to&lt;f6&gt; Yes.&lt;/f6&gt; After making the changes a particular field needs, use the &lt;f7&gt;Tab&lt;/f7&gt; key or click one of the other fields.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T125914Z" creationid="install" creationdate="20150716T125914Z">
+        <seg>A konečně, pro pole, &lt;f3&gt; InventoryID &lt;/f3&gt;, změníme &lt;f4&gt;Automatická hodnota&lt;/f4&gt; z &lt;f5&gt;Ne&lt;/f5&gt; na &lt;f6&gt;Ano&lt;/f6&gt;. Po provedení změn, použijeme klávesu &lt;f7&gt;Tab&lt;/f7&gt; nebo klepneme na jeden z dalších polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, you can choose whether to create a new document from your template immediately, or manually change the template by clicking &lt;f0&gt;Finish&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T210612Z" creationid="standa" creationdate="20140406T210612Z">
@@ -14626,6 +14650,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T205248Z" creationid="standa" creationdate="20141226T205248Z">
         <seg>Vyhledávání a nahrazování textu a formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>First click the field, RoomID.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T130017Z" creationid="install" creationdate="20150716T130017Z">
+        <seg>Nejdříve klikneme na pole MístnostID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24286,10 +24318,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now select &lt;f4&gt;Text[VARCHAR]&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T130210Z" creationid="install" creationdate="20150716T130210Z">
+        <seg>Zvolíme &lt;f4&gt;Text [ VARCHAR ]&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now that the Fontwork object is created, you can edit some of its attributes.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T162811Z" creationid="standa" creationdate="20140318T162811Z">
         <seg>Jakmile je objekt písmomalby vytvořen, můžeme upravit některé jeho vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now use the &lt;f2&gt;Tab&lt;/f2&gt; key to move to &lt;f3&gt;Field type&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T130104Z" creationid="install" creationdate="20150716T130104Z">
+        <seg>Pak stisknutím klávesy &lt;f2&gt;Tab&lt;/f2&gt; přejdeme na pole &lt;f3&gt;Typ pole&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35218,6 +35266,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T174134Z" creationid="standa" creationdate="20140216T174134Z">
         <seg>Bod otočení může být umístěn dokonce mimo objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This saves the values to memory.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T125926Z" creationid="install" creationdate="20150716T125926Z">
+        <seg>Tímto se hodnoty uloží do paměti.</seg>
       </tuv>
     </tu>
     <tu>
