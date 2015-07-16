@@ -1584,8 +1584,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;For this exercise, use these fields: &lt;s1/&gt;&lt;/f0&gt;AppraisedValue, DatePurchased, Description, Insured, Item, Manufacturer, ModelNumber, Notes, PlacePurchased, PurchasePrice, RoomID, SerialNumber, and InventoryID.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150716T071852Z" creationid="install" creationdate="20150716T071852Z">
-        <seg>&lt;f0&gt;Pro náš příklad použijeme tato pole: &lt;s1/&gt;&lt;/f0&gt;OdhadovanáCena, DatumZakoupení, Popis, Pojištěny, Položka, Výrobce, ČísloModelu, Poznámky, MiestoNákupu, NákupnáCena, IDMiestnosti, VýrobnéČíslo a IDInventára.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150716T072729Z" creationid="install" creationdate="20150716T071852Z">
+        <seg>&lt;f0&gt;Pro náš příklad použijeme tato pole: &lt;s1/&gt;&lt;/f0&gt;OdhadovanáCena, DatumZakoupení, Popis, Pojištěno, Předmět, Výrobce, ModelČíslo, Poznámky, MístoZakoupení, NákupníCena, MístnostID, VýrobníČíslo a InventářID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23378,6 +23378,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T214650Z" creationid="standa" creationdate="20150702T214650Z">
         <seg>Přesun odstavců textu na vybraném snímku směrem nahoru a dolů pomocí šipek (Přesunout nahoru nebo Přesunout dolů) na nástrojové liště Formátování textu (zvýrazněno na obrázku &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move these fields from the &lt;f0&gt;Available fields&lt;/f0&gt; to the &lt;f1&gt;Selected fields&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T072818Z" creationid="install" creationdate="20150716T072818Z">
+        <seg>Tato pole přesuneme ze seznamu &lt;f0&gt;Dostupná pole&lt;/f0&gt; do &lt;f1&gt;Vybraná pole&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
