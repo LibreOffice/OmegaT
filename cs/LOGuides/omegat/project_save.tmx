@@ -3174,10 +3174,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;field&lt;/f0&gt; is an attribute or characteristic that divides the data of a table into columns, one column for each attribute.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T051215Z" creationid="install" creationdate="20150716T051215Z">
+        <seg>&lt;f0&gt;Pole&lt;/f0&gt; vlastnost nebo charakteristika, která rozděluje data tabulky do sloupců, přičemž každý sloupec přísluší jedné vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;flat database&lt;/f0&gt; contains one or more tables, each containing one or more fields.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T114358Z" creationid="install" creationdate="20150710T114358Z">
         <seg>&lt;f0&gt;Plochá databáze&lt;/f0&gt; obsahuje jednu nebo více tabulek, z nichž každá obsahuje jedno nebo více polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;f0&gt;record&lt;/f0&gt; is a row of a table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T051232Z" creationid="install" creationdate="20150716T051232Z">
+        <seg>&lt;f0&gt;Záznam&lt;/f0&gt; je řádek tabulky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25778,6 +25794,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T201841Z" creationid="standa" creationdate="20140417T201841Z">
         <seg>Opětovné zapnutí Rychlého spuštění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Record</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T051220Z" creationid="install" creationdate="20150716T051220Z">
+        <seg>Záznam</seg>
       </tuv>
     </tu>
     <tu>
