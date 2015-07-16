@@ -18310,6 +18310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it also has a selected length of 10, the above examples are stored as cat, mouse, leather, and something.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T084053Z" creationid="install" creationdate="20150716T084053Z">
+        <seg>Pokud do takového pole zadáme stejné vstupy jako v předchozím případě, uložené budou jen znaky „kočka“, „myš“, „zajíc“ a „papoušek“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it has not been modified, there is no information.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T131708Z" creationid="install" creationdate="20150713T131708Z">
@@ -29518,6 +29526,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So less storage is needed when using VARCHAR instead of CHAR.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T084116Z" creationid="install" creationdate="20150716T084116Z">
+        <seg>To znamená, že pro uložení vstupů při použití typu VARCHAR bude zapotřebí méně místa než u typu CHAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So the suggested length of 50 can be used for VARCHAR as long as the longest entry is less than or equal to 50.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T084219Z" creationid="install" creationdate="20150716T084219Z">
+        <seg>Navrženou délku (například 50) tedy můžeme pro VARCHAR použít tehdy, jestliže nejdelší položka bude mít méně nebo právě 50 znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, a flat database consists of a &lt;f0&gt;table&lt;/f0&gt; whose columns are called &lt;f1&gt;fields&lt;/f1&gt; and whose rows are called &lt;f2&gt;records&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T122201Z" creationid="install" creationdate="20150710T122201Z">
@@ -34782,6 +34806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is especially useful when a field's values vary considerable in length.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T084152Z" creationid="install" creationdate="20150716T084152Z">
+        <seg>Toto je užitečné zejména tehdy, jestliže se délka jednotlivých vstupů výrazně odlišuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is important if you want to make the document available to other computers that may have a completely different directory structure, drive or volume names.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T192452Z" creationid="standa" creationdate="20141015T192452Z">
@@ -38510,6 +38542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use these steps to set the fields and their properties for your table:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T084311Z" creationid="install" creationdate="20150716T084311Z">
+        <seg>Pro nastavení polí a jejich vlastností v případě naší tabulky provedeme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use these to create a new field or delete an existing field.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T075416Z" creationid="install" creationdate="20150716T075416Z">
@@ -40540,6 +40580,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T220450Z" creationid="standa" creationdate="20140103T220450Z">
         <seg>Windows nebo Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With 50 as the selected length for VARCHAR with the examples above, the stored values are still cat, mouse, leather, and something.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150716T084300Z" creationid="install" creationdate="20150716T084300Z">
+        <seg>Například můžeme zvolit délku 10 a do pole vložit hodnoty „kočka“, „myš“, „zajíc“ a „papoušek“.</seg>
       </tuv>
     </tu>
     <tu>
