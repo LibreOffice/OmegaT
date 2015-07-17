@@ -6608,8 +6608,8 @@
       <tuv lang="EN">
         <seg>Change &lt;f2&gt;Decimal places&lt;/f2&gt; for &lt;f3&gt;PurchasePrice&lt;/f3&gt; the same way.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150716T130505Z" creationid="install" creationdate="20150716T130505Z">
-        <seg>&lt;f2&gt; Desetinná místa &lt;/​​f2&gt; v poli &lt;f3&gt;NákupníCena&lt;/f3&gt; změníme stejně.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150717T085839Z" creationid="install" creationdate="20150716T130505Z">
+        <seg>&lt;f2&gt;Desetinná místa&lt;/f2&gt; v poli &lt;f3&gt;NákupníCena&lt;/f3&gt; změníme stejně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9176,8 +9176,8 @@
       <tuv lang="EN">
         <seg>Click the field, &lt;f0&gt;AppraisedValue.&lt;/f0&gt; Change &lt;f1&gt;Decimal places&lt;/f1&gt; from 0 to 2.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150716T130417Z" creationid="install" creationdate="20150716T130417Z">
-        <seg>Klikneme na pole &lt;f0&gt;OdhadovanáCena.&lt;/f0&gt;, nastevení v &lt;f1&gt;Desetinná místa &lt;/​​f1&gt; změníme z 0 na 2.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150717T085724Z" creationid="install" creationdate="20150716T130417Z">
+        <seg>Klikneme na pole &lt;f0&gt;OdhadovanáCena.&lt;/f0&gt;, nastevení v &lt;f1&gt;Desetinná místa&lt;/f1&gt; změníme z 0 na 2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23698,6 +23698,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T194141Z" creationid="standa" creationdate="20141005T194119Z">
         <seg>Umístění myši</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &lt;f0&gt;FirstName&lt;/f0&gt; and &lt;f1&gt;LastName&lt;/f1&gt; from &lt;f2&gt;Available fields&lt;/f2&gt; to &lt;f3&gt;Primary key fields&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T085912Z" creationid="install" creationdate="20150717T085912Z">
+        <seg>Pole &lt;f0&gt;KřestníJméno&lt;/f0&gt; a &lt;f1&gt;Příjmení&lt;/f1&gt; přesuneme ze seznamu &lt;f2&gt;Dostupná pole&lt;/f2&gt; do seznamu &lt;f3&gt;Pole primárního klíče&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
