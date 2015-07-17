@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See &lt;f0&gt;&lt;rf1&gt;Forms&lt;/rf1&gt;&lt;/f0&gt;.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T124427Z" creationid="install" creationdate="20150717T124427Z">
+        <seg>(Více incormací v &lt;f0&gt;&lt;rf1&gt;Formuláře&lt;/rf1&gt;&lt;/f0&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See &lt;t0&gt;Figure 3&lt;/t0&gt;.)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140314T170209Z" creationid="standa" creationdate="20140314T170209Z">
@@ -134,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See Chapter 3, “Tables” in the &lt;f1&gt;Base Guide&lt;/f1&gt;.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T124207Z" creationid="install" creationdate="20150717T124207Z">
+        <seg>(Více informací nalezneme v kapitole 3, “Tables” příručky &lt;f1&gt;Base Guide&lt;/f1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See Figure &lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T084720Z" creationid="install" creationdate="20150716T084720Z">
         <seg>(Viz obrázek &lt;f1&gt;&lt;t2&gt; 5&lt;/t2&gt;&lt;/f1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(See Figure &lt;f1&gt;&lt;t2&gt;8&lt;/t2&gt;&lt;/f1&gt;.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T123902Z" creationid="install" creationdate="20150717T123902Z">
+        <seg>(Viz obrázek &lt;f1&gt;&lt;t2&gt; 8&lt;/t2&gt;&lt;/f1&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5552,8 +5576,8 @@
       <tuv lang="EN">
         <seg>At this point you can add information in this table.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150717T123819Z" creationid="install" creationdate="20150717T123819Z">
-        <seg>Na tomto místě můžeme začít se zadáváním údajů do tabulku.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150717T123854Z" creationid="install" creationdate="20150717T123819Z">
+        <seg>Na tomto místě můžeme začít se zadáváním dat do tabulky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40744,8 +40768,8 @@
       <tuv lang="EN">
         <seg>When the first option is selected and the table wizard is closed, the &lt;f0&gt;Table Data View &lt;/f0&gt;dialog opens.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150717T123639Z" creationid="install" creationdate="20150717T123639Z">
-        <seg>Pokud jsme zvolili druhou možnost, tak po ukončení průvodce se otevře okno &lt;f0&gt;Návrh tabulky&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150717T123826Z" creationid="install" creationdate="20150717T123639Z">
+        <seg>Pokud jsme zvolili první možnost, tak po ukončení průvodce se otevře okno &lt;f0&gt;Návrh tabulky&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40778,6 +40802,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T092057Z" creationid="standa" creationdate="20140315T092057Z">
         <seg>Až ukazatel změní podobu na rovnoběžné čáry se šipkami, klepneme a táhneme směrem dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the second option is selected and the table wizard is closed, the &lt;f0&gt;Table Design&lt;/f0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T123955Z" creationid="install" creationdate="20150717T123955Z">
+        <seg>Pokud jsme zvolili druhou možnost, tak po ukončení Průvodce tabulkou se otevře dialogové okno &lt;f0&gt;Návrh tabulky&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41444,6 +41476,30 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T192419Z" creationid="standa" creationdate="20140317T192419Z">
         <seg>S takto vybranými objekty přesuneme ukazatel myši na jeden z objektů a zvolíme &lt;f0&gt;Formát &gt; Seskupit &gt; Seskupit&lt;/f0&gt; v hlavní nabídce nebo klepneme pravým tlačítkem a zvolíme &lt;f1&gt;Seskupit &gt; Seskupit&lt;/f1&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the third option and the Table Wizard closed, the Form Wizard opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T124311Z" creationid="install" creationdate="20150717T124311Z">
+        <seg>Pokud jsme zvolili třetí možnost, tak po ukončení průvodce se otevře dialogové okno Průvodce formulářem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this you can create a form for the Household Inventory table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T124347Z" creationid="install" creationdate="20150717T124347Z">
+        <seg>Pomocí něj můžeme vytvořit formulář pro tabulku Inventáře domácnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this you can modify the fields of the table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T124101Z" creationid="install" creationdate="20150717T124101Z">
+        <seg>V něm můžeme upravovat pole tabulky.</seg>
       </tuv>
     </tu>
     <tu>
