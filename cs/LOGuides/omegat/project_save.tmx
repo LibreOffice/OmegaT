@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Use the &lt;f0&gt;Enter&lt;/f0&gt; or &lt;f1&gt;right arrow&lt;/f1&gt; key.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132118Z" creationid="install" creationdate="20150717T132118Z">
+        <seg>(Použijeme klávesu &lt;f0&gt;Enter&lt;/f0&gt; nebo &lt;f1&gt;šipku vpravo&lt;/f1&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(When in Full Screen view, press the &lt;f1&gt;Esc&lt;/f1&gt; key to return to either Print or Web Layout view.)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141219T202140Z" creationid="standa" creationdate="20141219T202140Z">
@@ -12318,6 +12326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Entering data into an empty table: (The cursor is located in the first column of the first row.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132046Z" creationid="install" creationdate="20150717T132046Z">
+        <seg>Zadávání dat do prázdné tabulky: (Kurzor se nachází v prvním sloupci prvního řádku.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entering data into the dialog is similar to entering data into the cells of a spreadsheet.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T131710Z" creationid="install" creationdate="20150717T131710Z">
@@ -14874,6 +14890,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T131420Z" creationid="install" creationdate="20150716T125914Z">
         <seg>A konečně, pro pole, &lt;f3&gt;InventářID&lt;/f3&gt;, změníme &lt;f4&gt;Automatická hodnota&lt;/f4&gt; z &lt;f5&gt;Ne&lt;/f5&gt; na &lt;f6&gt;Ano&lt;/f6&gt;. Po provedení změn, použijeme klávesu &lt;f7&gt;Tab&lt;/f7&gt; nebo klepneme na jeden z dalších polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Finally, using the &lt;f2&gt;Enter&lt;/f2&gt; key when the cursor is in the last column of a row moves the cursor to the first column of the next row.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132030Z" creationid="install" creationdate="20150717T132030Z">
+        <seg>Když se nacházíme v poslední buňce řádku, stiskem klávesy &lt;f2&gt;Enter&lt;/f2&gt; přesune kurzor na první sloupec následujícího řádku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24030,6 +24054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the cursor to the next cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132100Z" creationid="install" creationdate="20150717T132100Z">
+        <seg>Přesunu kurzor na následující buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the fields you want to use in your database to the &lt;f0&gt;Selected fields&lt;/f0&gt; list.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T065150Z" creationid="install" creationdate="20150716T065150Z">
@@ -27194,6 +27226,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T094545Z" creationid="install" creationdate="20150716T094545Z">
         <seg>Kroky 3a - b zopakujeme pro smazání nepotřebných polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repeat steps a) and b) until the cursor is in the last cell of the row.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132133Z" creationid="install" creationdate="20150717T132133Z">
+        <seg>Opakujeme kroky a) a b) dokud kurzor není v poslední buňce řádku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32542,6 +32582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data only appears in the cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T131907Z" creationid="install" creationdate="20150717T131907Z">
+        <seg>Data se objeví pouze v jedné buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The date format automatically changes to the selected format used by Calc.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T202404Z" creationid="install" creationdate="20150629T132039Z">
@@ -32946,6 +32994,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T074625Z" creationid="install" creationdate="20150716T074625Z">
         <seg>První část obsahuje stejný seznam, jako jsme vytvořili na první stránce průvodce, včetně pořadí, jaké jsme mu nastavili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first row:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132050Z" creationid="install" creationdate="20150717T132050Z">
+        <seg>První řádek:</seg>
       </tuv>
     </tu>
     <tu>
@@ -37398,6 +37454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To enter it into the cell, the cursor must be moved by either the &lt;f1&gt;Enter&lt;/f1&gt; or by an arrow key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132001Z" creationid="install" creationdate="20150717T132001Z">
+        <seg>Pokud ho chceme do buňky zadat, musíme kurzor posunout buď pomocí klávesy &lt;f1&gt;Enter&lt;/f1&gt; nebo pomocí šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To erase the link text or button from the document completely, select it and press the &lt;f0&gt;Backspace&lt;/f0&gt; or &lt;f1&gt;Delete&lt;/f1&gt; key.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T211640Z" creationid="standa" creationdate="20140228T211640Z">
@@ -38950,6 +39014,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type the data into the first cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132055Z" creationid="install" creationdate="20150717T132055Z">
+        <seg>Zadáme údaj do první buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the data into the last cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T132146Z" creationid="install" creationdate="20150717T132146Z">
+        <seg>Zadáme data do poslední buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the file name to save the pages under.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140306T170824Z" creationid="standa" creationdate="20140306T170824Z">
@@ -39026,6 +39106,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140220T211019Z" creationid="standa" creationdate="20140220T211019Z">
         <seg>Obvykle se bude jednat o místo poblíž objektu, kterého se komentář týká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typing data into a cell of a table does &lt;f0&gt;not &lt;/f0&gt;enter the data into the table as it does in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T131843Z" creationid="install" creationdate="20150717T131843Z">
+        <seg>Zadávaný údaj do buňky tabulky &lt;f0&gt;nepřesáhne&lt;/f0&gt; hranice buňky jako je tomu v tabulkovém sešitu.</seg>
       </tuv>
     </tu>
     <tu>
