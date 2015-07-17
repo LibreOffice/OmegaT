@@ -12390,6 +12390,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Field1</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T055015Z" creationid="install" creationdate="20150717T055015Z">
+        <seg>pole1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Field2</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T055019Z" creationid="install" creationdate="20150717T055019Z">
+        <seg>pole2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fields are covered in detail in Chapter 14, Working with Fields, in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T210626Z" creationid="standa" creationdate="20150122T210626Z">
@@ -29902,6 +29918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, it is best to have a primary key for every field unless you can &lt;f0&gt;always&lt;/f0&gt; remember whether a table type requires one or not.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T055122Z" creationid="install" creationdate="20150717T054947Z">
+        <seg>Pokud si nemůžeme &lt;f0&gt;vždy&lt;/f0&gt; vzpomenout jestli tabulka nějaký primární klíč vyžaduje nebo ne, je nejlepší ho mít pro každou oblast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, make these selections now.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T070653Z" creationid="install" creationdate="20150716T070653Z">
@@ -30706,6 +30730,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T221258Z" creationid="standa" creationdate="20140105T221258Z">
         <seg>Tabulka &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Example of values for a two-field primary key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T055006Z" creationid="install" creationdate="20150717T055006Z">
+        <seg>Tabulka &lt;seq0&gt;1 &lt;/seq0&gt;: Příklad hodnot pro primární klíč se dvěma poli</seg>
       </tuv>
     </tu>
     <tu>
@@ -40194,6 +40226,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T130158Z" creationid="install" creationdate="20150707T130158Z">
         <seg>Když je list dlouhý, je obvykle jednodušší přidat nové údaje na spodek listu, namísto toho abychom přidávali nové řádky přímo na správná místa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a table is created without a primary key and should have one, you will not be able to enter any data into the table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150717T055106Z" creationid="install" creationdate="20150717T055106Z">
+        <seg>Pokud se vytvoří tabulka bez primárního klíče, přičemž ji však potřebuje, nebudeme moci zadávat údaje do tabulky.</seg>
       </tuv>
     </tu>
     <tu>
