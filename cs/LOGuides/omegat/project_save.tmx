@@ -3758,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dialog appears labeled &lt;f1&gt;Do you want to delete the selected data?&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150721T081852Z" creationid="install" creationdate="20150721T081852Z">
+        <seg>Objeví se dialogové okno s dotazem &lt;f1&gt;Chcete smazat vybraná data?&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog opens, in which you can type a new name for the sheet.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T194547Z" creationid="install" creationdate="20150617T074631Z">
@@ -6214,6 +6222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be very careful when deleting a row of data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150721T082002Z" creationid="install" creationdate="20150721T082002Z">
+        <seg>Při mazání řádku dat bychom měli být velice opatrní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because LibreOffice can use the name or initials stored in the &lt;f0&gt;LibreOffice – User Data&lt;/f0&gt; page for several things, including document properties (created by and last edited by information) and the name of the author of comments and changes, you will want to ensure that the correct information appears here.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140608T153343Z" creationid="standa" creationdate="20140608T153343Z">
@@ -8150,6 +8166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; if that is the row of data you want to delete.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150721T081915Z" creationid="install" creationdate="20150721T081915Z">
+        <seg>Pokud chceme řádek s údaji smazat, klikneme na &lt;f0&gt;Ano&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to confirm the move or copy and close the dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T191508Z" creationid="install" creationdate="20150625T135041Z">
@@ -8314,6 +8338,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T210105Z" creationid="standa" creationdate="20140112T210105Z">
         <seg>Pokud nechceme v dokumentu změněné styly použít, klepneme na &lt;f1&gt;Ponechat původní styly&lt;/f1&gt; (je však třeba vzít v úvahu níže uvedené upozornění).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f1&gt;NO&lt;/f1&gt; if it is not.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150721T081920Z" creationid="install" creationdate="20150721T081920Z">
+        <seg>Pokud nechceme, klikneme na &lt;f1&gt;Ne&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9922,6 +9954,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T184131Z" creationid="standa" creationdate="20140425T184039Z">
         <seg>Aby se Quickstarter zapnul, ukončíme a restartujeme LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150721T081932Z" creationid="install" creationdate="20150721T081932Z">
+        <seg>Zavřeme ji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20134,6 +20174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you delete the wrong row, you will have to reenter the data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150721T082016Z" creationid="install" creationdate="20150721T082016Z">
+        <seg>Pokud smažeme špatný řádek, budeme muset údaje znovu ručně zadat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you deselect this option, the user’s personal settings do not overrule the settings in the document.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T195857Z" creationid="standa" creationdate="20141012T195857Z">
@@ -28002,6 +28050,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T210004Z" creationid="standa" creationdate="20150209T210004Z">
         <seg>Richard Holt&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right the gray box and select &lt;f0&gt;Delete Row&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150721T081804Z" creationid="install" creationdate="20150721T081804Z">
+        <seg>Klikneme pravým tlačítkem myši na šedé pole a z místní nabídky zvolíme &lt;f0&gt;Smazat řádky&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37042,6 +37098,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T154503Z" creationid="standa" creationdate="20140125T154503Z">
         <seg>Tato nástrojová lišta umožňuje rychle zvolit barvu různých objektů (čar, oblastí a 3D efektů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will take an unnecessary use of time but it may not be too much of a problem if you have a copy of the data somewhere.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150721T082039Z" creationid="install" creationdate="20150721T082039Z">
+        <seg>Může to být sice trochu zdlouhavé, ale pokud máme kopii dat na jiném místě, není to až tak velký problém.</seg>
       </tuv>
     </tu>
     <tu>
