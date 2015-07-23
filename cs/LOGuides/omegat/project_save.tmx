@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The record number becomes 1 or whatever is the smallest number.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123322Z" creationid="install" creationdate="20150723T123322Z">
+        <seg>(Číslo záznamu se změní na 1 nebo na nejmenší číslo záznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The rest of the tools on it are discussed in Chapter 4, Forms, in the &lt;f3&gt;Base Guide&lt;/f3&gt;.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T122111Z" creationid="install" creationdate="20150723T122111Z">
@@ -1950,6 +1958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;First record&lt;/f0&gt;: Click this arrow to go to the first record.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123255Z" creationid="install" creationdate="20150723T123255Z">
+        <seg>&lt;f0&gt;První záznam&lt;/f0&gt;: Kliknutím na tuto šipku přejdeme na první záznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Fixed width&lt;/f0&gt; – separates fixed-width data (equal number of characters) into columns.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T202708Z" creationid="install" creationdate="20150618T105638Z">
@@ -2714,6 +2730,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T220933Z" creationid="standa" creationdate="20140105T220933Z">
         <seg>&lt;f0&gt;Styly prezentace&lt;/f0&gt; zahrnují vlastnosti pro písmo, odsazení, rozestupy, zarovnání a tabulátory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Previous record&lt;/f0&gt;: Click this arrow to go to the previous record.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123501Z" creationid="install" creationdate="20150723T123501Z">
+        <seg>&lt;f0&gt;Předchozí záznam&lt;/f0&gt;: Kliknutím na tuto šipku přejdeme na předchozí záznam</seg>
       </tuv>
     </tu>
     <tu>
@@ -20130,6 +20154,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140503T180048Z" creationid="standa" creationdate="20140503T180048Z">
         <seg>Pokud se hesla shodují, dokument se uloží a bude chráněn heslem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the present record is the first record, this arrow is grayed out and not useable.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123439Z" creationid="install" creationdate="20150723T123439Z">
+        <seg>Pokud se právě nacházíme na prvním záznamu, tato šipka je deaktivována.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43796,6 +43828,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T075144Z" creationid="standa" creationdate="20140218T075144Z">
         <seg>V průhledném přechodu se v jeho směru mění míra průhlednosti barvy výplně objektu, a to od neprůhledné po průhlednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With larger tables, this shows only part of the total number.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123227Z" creationid="install" creationdate="20150723T123227Z">
+        <seg>V případě větších tabulek zobrazuje pouze část tohoto čísla.</seg>
       </tuv>
     </tu>
     <tu>
