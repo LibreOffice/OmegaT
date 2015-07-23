@@ -2518,6 +2518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;OR&lt;/f0&gt;, if you only want to move part of the fields, click the field you want to move and click the right arrow to move this field.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051146Z" creationid="install" creationdate="20150723T051146Z">
+        <seg>&lt;f0&gt;NEBO&lt;/f0&gt;, pokud chceme přesunout jen některé pole, klikneme na požadované pole, a pak jej přesuneme kliknutím na jednoduchou šipku vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Open source.&lt;/f0&gt; You can distribute, copy, and modify the software as much as you wish, in accordance with either of the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T185713Z" creationid="standa" creationdate="20140418T185657Z">
@@ -7798,6 +7806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose fields from the &lt;f0&gt;Household Inventory&lt;/f0&gt; table to be used in the form.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051007Z" creationid="install" creationdate="20150723T051007Z">
+        <seg>Z tabulky &lt;f0&gt;Inventář domácnosti&lt;/f0&gt; vybereme pole, které mají být použity ve formuláři (vybereme všechna pole).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T191638Z" creationid="standa" creationdate="20141016T185748Z">
@@ -8194,6 +8210,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150720T130947Z" creationid="install" creationdate="20150720T130947Z">
         <seg>Klikneme na tlačítko &lt;f0&gt;Dále&lt;/f0&gt;, čímž přejdeme na stránku 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051205Z" creationid="install" creationdate="20150723T051205Z">
+        <seg>Klikneme na tlačítko &lt;f0&gt;Dále&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20486,6 +20510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you had earlier clicked &lt;f0&gt;Use Wizard to create form&lt;/f0&gt;, select &lt;f1&gt;Table: Household Inventory&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T050926Z" creationid="install" creationdate="20150723T050926Z">
+        <seg>pokud jsme na začátku použili &lt;f0&gt;Použít průvodce pro vytvoření formuláře&lt;/f0&gt;, tak tabulku &lt;f1&gt;Inventář domácnosti&lt;/f1&gt; zvolíme až nyní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a field that requires an entry, you will get an error message if you do not enter a value.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T082928Z" creationid="install" creationdate="20150716T082928Z">
@@ -24742,6 +24774,54 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move all fields to the left</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051248Z" creationid="install" creationdate="20150723T051248Z">
+        <seg>Všechna pole přesunout doleva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move all fields to the right</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051225Z" creationid="install" creationdate="20150723T051225Z">
+        <seg>Všechna pole přesunout doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move selected field higher in list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051242Z" creationid="install" creationdate="20150723T051242Z">
+        <seg>Vybrané pole přesunout v seznamu nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move selected field lower in list</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051257Z" creationid="install" creationdate="20150723T051257Z">
+        <seg>Vybrané pole přesunout v seznamu dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move selected field to the left</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051220Z" creationid="install" creationdate="20150723T051220Z">
+        <seg>Vybrané pole přesunout doleva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move selected field to the right</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051214Z" creationid="install" creationdate="20150723T051214Z">
+        <seg>Vybrané pole přesunout doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move selected fields from left to right</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T062217Z" creationid="install" creationdate="20150716T062217Z">
@@ -28006,6 +28086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repeat for the rest of the fields to be moved.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051159Z" creationid="install" creationdate="20150723T051159Z">
+        <seg>Tento postup zopakujeme pro všechna požadovaná pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repeat printing &lt;i0/&gt;of rows or columns</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150708T052902Z" creationid="install" creationdate="20150708T052902Z">
@@ -31050,6 +31138,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T171649Z" creationid="standa" creationdate="20150110T171557Z">
         <seg>Obdobně platí, že pokud klepneme na &lt;f1&gt;Nahradit vše&lt;/f1&gt;, LibreOffice nahradí všechny odpovídající výskyty textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since we want to use all of the fields, click the right double arrow to move all the fields listed under &lt;f0&gt;Available fields &lt;/f0&gt;to the &lt;f1&gt;Fields in the form&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T051110Z" creationid="install" creationdate="20150723T051110Z">
+        <seg>Jelikož chceme použít všechna pole, klikneme na dvojitou šipku vpravo, čímž všechna pole ze seznamu &lt;f0&gt;Dostupná pole&lt;/f0&gt; přesuneme do seznamu &lt;f1&gt;Pole ve formuláři&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
