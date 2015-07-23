@@ -2894,6 +2894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Save record&lt;/f0&gt;: Click this icon to save data that has been typed into one or more controls.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124650Z" creationid="install" creationdate="20150723T124650Z">
+        <seg>&lt;f0&gt;Uložit záznam&lt;/f0&gt;: Kliknutím na tuto ikonu se uloží údaje, které byly vloženy pomocí jednoho nebo více ovládacích prvků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save&lt;/f0&gt; command – use if you are keeping the document, its current filename and location.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140503T174230Z" creationid="standa" creationdate="20140503T174230Z">
@@ -3258,6 +3266,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T203927Z" creationid="install" creationdate="20150618T110511Z">
         <seg> &lt;f0&gt;Anglicky (USA)&lt;/f0&gt; – budou vyhledána a importována čísla formátovaná v americké angličtině, bez ohledu na jazyk systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Undo data entry&lt;/f0&gt;: If you have made some entries but have not saved them, you can click this icon to remove all the entries you have made in the present record since the last time the record was saved.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124841Z" creationid="install" creationdate="20150723T124841Z">
+        <seg>&lt;f0&gt;Zpět zadání dat&lt;/f0&gt;: Pokud jsme jeden nebo více údajů vložili, ale záznam jsme ještě neuložili, kliknutím na tuto ikonu vložené hodnoty zrušíme a záznam vrátíme do stavu, v jakém byl po svém posledním uložení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20232,8 +20248,8 @@
       <tuv lang="EN">
         <seg>If the present record is the last one, no data will appear in this record with one exception: the form contains the table's primary key, and its field property, AutoValue, is set to &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150723T123818Z" creationid="install" creationdate="20150723T123818Z">
-        <seg>Pokud se právě nacházíme na posledním záznamu, na následující záznam nemůžeme projít, kromě případu, kdy formulář obsahuje primární klíče tabulky a vlastnost pole Automatická hodnota je nastavena na &lt;f1&gt;Ano&lt;/f1&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150723T124800Z" creationid="install" creationdate="20150723T123818Z">
+        <seg>Pokud se právě nacházíme na posledním záznamu, na následující záznam nemůžeme přejít, kromě případu, kdy formulář obsahuje primární klíče tabulky a vlastnost pole Automatická hodnota je nastavena na &lt;f1&gt;Ano&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25912,8 +25928,8 @@
       <tuv lang="EN">
         <seg>No data appears in the controls of this record except for a primary key control whose field property for AutoValue is &lt;f1&gt;Yes&lt;/f1&gt;.)</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150723T124531Z" creationid="install" creationdate="20150723T124531Z">
-        <seg>Řídící prvky nově vytvořeného záznamu nebudou vyplněny kromě primárního klíče tabulky, pokud jeho vlastnost Automatická hodnota je nastavena na &lt;f1&gt;Ano&lt;/f1&gt;).</seg>
+      <tuv lang="CS" changeid="install" changedate="20150723T124712Z" creationid="install" creationdate="20150723T124531Z">
+        <seg>Ovládací prvky nově vytvořeného záznamu nebudou vyplněny kromě primárního klíče tabulky, pokud jeho vlastnost Automatická hodnota je nastavena na &lt;f1&gt;Ano&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34334,6 +34350,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data entered is saved to the table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124807Z" creationid="install" creationdate="20150723T124807Z">
+        <seg>Vložené údaje se uloží do tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data for any of the fields in a given record can be entered, removed, or changed at the same time.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T121202Z" creationid="install" creationdate="20150723T121202Z">
@@ -41112,8 +41136,8 @@
       <tuv lang="EN">
         <seg>Undo: data entry</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150723T122453Z" creationid="install" creationdate="20150723T122453Z">
-        <seg>Zrušit: vkládání dat</seg>
+      <tuv lang="CS" changeid="install" changedate="20150723T124849Z" creationid="install" creationdate="20150723T122453Z">
+        <seg>Zpět zadání dat</seg>
       </tuv>
     </tu>
     <tu>
