@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The record number becomes the largest one.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124023Z" creationid="install" creationdate="20150723T124023Z">
+        <seg>(Číslo záznamu se sníží o 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The record number will be one larger than what it has been.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T123652Z" creationid="install" creationdate="20150723T123652Z">
@@ -2374,6 +2382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Last record&lt;/f0&gt;: Click this arrow to go to the last record.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124107Z" creationid="install" creationdate="20150723T124016Z">
+        <seg>&lt;f0&gt;Poslední záznam&lt;/f0&gt;: Kliknutím na tuto šipku přejdeme na poslední záznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Left&lt;/f0&gt; – creates a series running from right to left in the selected cell range using the defined increment to the end value.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T162233Z" creationid="install" creationdate="20150701T112543Z">
@@ -2578,6 +2594,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T202937Z" creationid="standa" creationdate="20140228T202937Z">
         <seg>&lt;f0&gt;Nový dokument&lt;/f0&gt;: hypertextový odkaz vytváří nový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;New record&lt;/f0&gt;: Click this icon if you want to create a new record becoming the last record.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124136Z" creationid="install" creationdate="20150723T124059Z">
+        <seg>&lt;f0&gt;Nový záznam&lt;/f0&gt;: Kliknutím na tuto šipku vytvoříme nový záznam, který bude posledním záznamem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20206,6 +20230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the present record is the last record, this arrow is grayed out and can not be used.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124049Z" creationid="install" creationdate="20150723T124049Z">
+        <seg>Pokud se právě nacházíme na posledním záznamu, tato šipka je deaktivována.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the resolution is 1 cm horizontal and 2 cm vertical, the grid consists of rectangles 2 cm high and 1 cm wide.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140217T213029Z" creationid="standa" creationdate="20140217T213029Z">
@@ -26890,6 +26922,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T214330Z" creationid="standa" creationdate="20150702T214330Z">
         <seg>Zobrazeny jsou pouze texty z výchozích textových polí. Pokud snímky obsahují další textová pole nebo objekty kresby, text z těchto objektů se nezobrazí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only then will the primary key show &lt;f2&gt;AutoValue&lt;/f2&gt;.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123915Z" creationid="install" creationdate="20150723T123915Z">
+        <seg>V tom případě se vytvoří nový záznam a jako hodnota primárního klíče se zobrazí &lt;f2&gt;Automatická hodnota&lt;/​​f2&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
