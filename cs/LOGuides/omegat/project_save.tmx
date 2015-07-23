@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The cursor appears in the first control.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T130236Z" creationid="install" creationdate="20150723T130236Z">
+        <seg>(Kurzor se umístí do prvního ovládacího prvku.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The objects are still in the file even if you cannot see them on screen.)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140925T204438Z" creationid="standa" creationdate="20140925T204438Z">
@@ -5982,6 +5990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As long as you are not entering a large quantity of data to your database between closing it, you should not have a problem.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T130045Z" creationid="install" creationdate="20150723T130045Z">
+        <seg>Neměl by to být problém, pokud před zavřením databáze nezadáváme velké množství dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As soon as you release the mouse button, a line between the first and second points is drawn.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T081939Z" creationid="standa" creationdate="20140131T081939Z">
@@ -9710,6 +9726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;New record&lt;/f0&gt; icon to create a new record.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T130210Z" creationid="install" creationdate="20150723T130210Z">
+        <seg>Nový záznam vytvoříme tak, že klikneme na ikonu &lt;f0&gt;Nový záznam&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Next &gt;&gt;&lt;/f0&gt; button at the bottom of the wizard.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150712T074931Z" creationid="lenochod26" creationdate="20150712T074931Z">
@@ -13194,6 +13218,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150720T205129Z" creationid="lenochod26" creationdate="20150720T205129Z">
         <seg>Zadejte tyto údaje do tabulky Inventář domácnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Entering data in a new record requires only a few individual steps.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T130138Z" creationid="install" creationdate="20150723T130138Z">
+        <seg>Zadávání dat do nového záznamu vyžaduje pouze několik jednotlivých kroků.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19346,6 +19378,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T185327Z" creationid="standa" creationdate="20150326T185327Z">
         <seg>Jsou mezi nimi však také zásadní rozdíly:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, this is done in the computer's memory (RAM).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T130000Z" creationid="install" creationdate="20150723T130000Z">
+        <seg>Zápis se však uskuteční pouze v operační paměti počítače (RAM).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26994,6 +27034,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T123915Z" creationid="install" creationdate="20150723T123915Z">
         <seg>V tom případě se vytvoří nový záznam a jako hodnota primárního klíče se zobrazí &lt;f2&gt;Automatická hodnota&lt;/​​f2&gt;.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only when the database is closed is the data written to the Base file (.odb).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T130024Z" creationid="install" creationdate="20150723T130024Z">
+        <seg>Do databázového souboru (.odb) se uloží až tehdy, když databázi zavřeme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39934,6 +39982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move to another control:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T130251Z" creationid="install" creationdate="20150723T130251Z">
+        <seg>Pokud chceme přejít na jiný ovládací prvek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To navigate from one comment to another, open the Navigator (&lt;f0&gt;F5&lt;/f0&gt;), expand the Comments section, and click on the comment text to move the cursor to the anchor point of the comment in the document.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T214719Z" creationid="standa" creationdate="20150209T214719Z">
@@ -41050,6 +41106,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T132055Z" creationid="install" creationdate="20150717T132055Z">
         <seg>Zadáme údaj do první buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the data into the first control.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T130243Z" creationid="install" creationdate="20150723T130243Z">
+        <seg>Zadejte údaje do prvního ovládacího prvku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43226,6 +43290,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T122318Z" creationid="install" creationdate="20150710T122318Z">
         <seg>Když chceme informace z dotazu poskytnout jiným, vytvoříme &lt;f3&gt;sestavu&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When records are saved, they are written to the underlying table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T125951Z" creationid="install" creationdate="20150723T125951Z">
+        <seg>Pokud jsou záznamy uloženy, jsou zapsány do příslušné tabulky.</seg>
       </tuv>
     </tu>
     <tu>
