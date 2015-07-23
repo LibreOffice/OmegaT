@@ -246,6 +246,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The record number becomes one less than what it had been.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123522Z" creationid="install" creationdate="20150723T123522Z">
+        <seg>(Číslo záznamu se sníží o 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(The record number will be one larger than what it has been.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123652Z" creationid="install" creationdate="20150723T123652Z">
+        <seg>(Číslo záznamu se zvýší o 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The rest of the tools on it are discussed in Chapter 4, Forms, in the &lt;f3&gt;Base Guide&lt;/f3&gt;.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T122111Z" creationid="install" creationdate="20150723T122111Z">
@@ -2566,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Next record&lt;/f0&gt;: Click this arrow to go to the next record.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123626Z" creationid="install" creationdate="20150723T123626Z">
+        <seg>&lt;f0&gt;Další záznam&lt;/f0&gt;: Kliknutím na tuto šipku přejdeme na následující záznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;No licensing fees&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T185406Z" creationid="standa" creationdate="20140418T185406Z">
@@ -2736,8 +2760,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Previous record&lt;/f0&gt;: Click this arrow to go to the previous record.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150723T123501Z" creationid="install" creationdate="20150723T123501Z">
-        <seg>&lt;f0&gt;Předchozí záznam&lt;/f0&gt;: Kliknutím na tuto šipku přejdeme na předchozí záznam</seg>
+      <tuv lang="CS" changeid="install" changedate="20150723T123633Z" creationid="install" creationdate="20150723T123501Z">
+        <seg>&lt;f0&gt;Předchozí záznam&lt;/f0&gt;: Kliknutím na tuto šipku přejdeme na předchozí záznam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20158,10 +20182,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the present record is the first record, this arrow is grayed out and can not be used.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123538Z" creationid="install" creationdate="20150723T123538Z">
+        <seg>Pokud se právě nacházíme na prvním záznamu, tato šipka je deaktivována.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the present record is the first record, this arrow is grayed out and not useable.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T123439Z" creationid="install" creationdate="20150723T123439Z">
         <seg>Pokud se právě nacházíme na prvním záznamu, tato šipka je deaktivována.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the present record is the last one, no data will appear in this record with one exception: the form contains the table's primary key, and its field property, AutoValue, is set to &lt;f1&gt;Yes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123818Z" creationid="install" creationdate="20150723T123818Z">
+        <seg>Pokud se právě nacházíme na posledním záznamu, na následující záznam nemůžeme projít, kromě případu, kdy formulář obsahuje primární klíče tabulky a vlastnost pole Automatická hodnota je nastavena na &lt;f1&gt;Ano&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
