@@ -2750,6 +2750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Record number&lt;/f0&gt;: The form numbers the rows of the underlying table from the top row to the bottom row.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T122637Z" creationid="install" creationdate="20150723T122637Z">
+        <seg>&lt;f0&gt;Číslo záznamu&lt;/f0&gt;: Ve formuláři jsou záznamy číslovány od horního řádku směrem dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Right&lt;/f0&gt; – creates a series running from left to right within the selected cell range using the defined increment to the end value.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T162143Z" creationid="install" creationdate="20150701T105316Z">
@@ -3146,6 +3154,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T185450Z" creationid="standa" creationdate="20150502T185450Z">
         <seg>&lt;f0&gt;Nástroje&lt;/f0&gt; – obsahuje různé funkce užitečné při kontrole a přizpůsobení sešitu, například &lt;f1&gt;Kontrola pravopisu&lt;/f1&gt;, &lt;f2&gt;Sdílet document&lt;/f2&gt;, &lt;f3&gt;Galerie&lt;/f3&gt;, &lt;f4&gt;Makra&lt;/f4&gt; a další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Total records&lt;/f0&gt;: This shows the total number of records of the underlying table when the number of rows is small.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T123055Z" creationid="install" creationdate="20150723T122827Z">
+        <seg>&lt;f0&gt;Celkový počet záznamů&lt;/f0&gt;: Zobrazuje celkový počet řádků v tabulce, pokud je malý.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35530,6 +35546,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T205119Z" creationid="standa" creationdate="20141226T205119Z">
         <seg>Množství voleb v nabídce Vložit jinak závisí na původu a formátování textu (nebo jiného objektu), který má být vložen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The record number shown is the number of the row that appears on the form.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T122701Z" creationid="install" creationdate="20150723T122701Z">
+        <seg>Zobrazené číslo záznamu je číslo řádku, které se zobrazí ve formuláři.</seg>
       </tuv>
     </tu>
     <tu>
