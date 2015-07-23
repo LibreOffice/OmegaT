@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The record number becomes one larger than the previous largest one.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124431Z" creationid="install" creationdate="20150723T124431Z">
+        <seg>(Číslo záznamu bude o 1 větší než předchozí největší číslo záznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The record number becomes one less than what it had been.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T123522Z" creationid="install" creationdate="20150723T123522Z">
@@ -25898,6 +25906,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T212617Z" creationid="standa" creationdate="20140105T212617Z">
         <seg>Pro kresby (Draw) a sešity (Calc) nejsou dodávány žádné šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No data appears in the controls of this record except for a primary key control whose field property for AutoValue is &lt;f1&gt;Yes&lt;/f1&gt;.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T124531Z" creationid="install" creationdate="20150723T124531Z">
+        <seg>Řídící prvky nově vytvořeného záznamu nebudou vyplněny kromě primárního klíče tabulky, pokud jeho vlastnost Automatická hodnota je nastavena na &lt;f1&gt;Ano&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
