@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(A window appears requiring you to verify that you want to delete the data from all the controls of the present record.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T125221Z" creationid="install" creationdate="20150723T125221Z">
+        <seg>(Následně se otevře dialogové okno, ve kterém úmysl záznam smazat musíme potvrdit.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Both remain active when the document is exported to PDF.)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T190353Z" creationid="standa" creationdate="20150326T190353Z">
@@ -1742,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Delete record&lt;/f0&gt;: Click this icon if you want to delete the data from all of the controls in the present record.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T125010Z" creationid="install" creationdate="20150723T125010Z">
+        <seg>&lt;f0&gt;Smazat záznam&lt;/f0&gt;: Kliknutím na tuto ikonu se smažou všechna data aktuálního záznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Depending on the size of your presentation and the number of graphics it contains, the HTML export function create&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;several&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; HTML, JPG, and GIF files.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T182232Z" creationid="standa" creationdate="20140526T182232Z">
@@ -3272,8 +3288,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Undo data entry&lt;/f0&gt;: If you have made some entries but have not saved them, you can click this icon to remove all the entries you have made in the present record since the last time the record was saved.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150723T124841Z" creationid="install" creationdate="20150723T124841Z">
-        <seg>&lt;f0&gt;Zpět zadání dat&lt;/f0&gt;: Pokud jsme jeden nebo více údajů vložili, ale záznam jsme ještě neuložili, kliknutím na tuto ikonu vložené hodnoty zrušíme a záznam vrátíme do stavu, v jakém byl po svém posledním uložení.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150723T124941Z" creationid="install" creationdate="20150723T124841Z">
+        <seg>&lt;f0&gt;Zpět zadání dat&lt;/f0&gt;: Pokud jsme již jeden nebo více údajů vložili, ale záznam jsme ještě neuložili, kliknutím na tuto ikonu vložené hodnoty zrušíme a záznam vrátíme do stavu, v jakém byl po svém posledním uložení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11488,8 +11504,8 @@
       <tuv lang="EN">
         <seg>Delete record</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150723T122432Z" creationid="install" creationdate="20150723T122432Z">
-        <seg>Odstranit záznam</seg>
+      <tuv lang="CS" changeid="install" changedate="20150723T125017Z" creationid="install" creationdate="20150723T122432Z">
+        <seg>Smazat záznam</seg>
       </tuv>
     </tu>
     <tu>
@@ -38186,6 +38202,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T154503Z" creationid="standa" creationdate="20140125T154503Z">
         <seg>Tato nástrojová lišta umožňuje rychle zvolit barvu různých objektů (čar, oblastí a 3D efektů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will remove data that you just entered as well as the data that had been saved earlier.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150723T125135Z" creationid="install" creationdate="20150723T125135Z">
+        <seg>Následně se z tabulky odstraní celý záznam, a to i tehdy, když byl dříve vytvořen a uložen.</seg>
       </tuv>
     </tu>
     <tu>
