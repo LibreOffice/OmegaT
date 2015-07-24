@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;This produces a single cell containing the total appraised value of the inventory.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084640Z" creationid="install" creationdate="20150724T084640Z">
+        <seg>&lt;/f0&gt;Výstupem takového dotazu bude jeden údaj o celkové odhadované ceně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;Usually, if you change an option, it affects all components.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T190537Z" creationid="standa" creationdate="20140418T190537Z">
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T052737Z" creationid="install" creationdate="20150723T052737Z">
         <seg>&lt;f0&gt;Ovládací prvek&lt;/f0&gt; je obsaženo z popisu a pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;A query can also manipulate the data to obtain desirable information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084307Z" creationid="install" creationdate="20150724T084307Z">
+        <seg>&lt;f0&gt;Součástí dotazu může být i zpracování dat, které se v databáze nacházejí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,6 +3882,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T124930Z" creationid="install" creationdate="20150717T124930Z">
         <seg>&lt;s0/&gt;Další podrobnosti najdeme v kapitolách 3 a 4 příručky &lt;f1&gt;Base Guide&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s1/&gt;For example: Based upon the appraised values of the individual items, what is the total appraised value of the entire inventory?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084517Z" creationid="install" creationdate="20150724T084342Z">
+        <seg>&lt;s1/&gt;Například na základě skutečné ceny jednotlivých kusů vybavení můžeme zjistit jejich celkovou cenu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43368,8 +43392,8 @@
       <tuv lang="EN">
         <seg>We may want to know the appraised value of the items in the Living Room.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150724T084238Z" creationid="install" creationdate="20150724T084238Z">
-        <seg>Můžeme například chtít zjistit zůstatkovou cenu jednotlivých kusů vybavení obývacího pokoje.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150724T084544Z" creationid="install" creationdate="20150724T084238Z">
+        <seg>Můžeme například chtít zjistit skutečnou cenu jednotlivých kusů vybavení obývacího pokoje.</seg>
       </tuv>
     </tu>
     <tu>
