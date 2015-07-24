@@ -7742,6 +7742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the order of the fields in the &lt;f0&gt;Fields in the Query.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T101722Z" creationid="install" creationdate="20150724T101722Z">
+        <seg>Pořadí polí v seznamu &lt;f0&gt;Pole v dotazu&lt;/f0&gt; můžeme změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the order of the fields.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T065540Z" creationid="install" creationdate="20150716T065540Z">
@@ -8968,8 +8976,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Tables: &lt;/f0&gt;Select the table or query to be used from the Table list.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150724T101423Z" creationid="install" creationdate="20150724T101423Z">
-        <seg>V rozbalovacím seznamu &lt;f0&gt;Tabulky&lt;/f0&gt; vybereme jednu z položek, čímž vybereme tabulku nebo existující dotaz na vytvoření nového dotazu</seg>
+      <tuv lang="CS" changeid="install" changedate="20150724T101534Z" creationid="install" creationdate="20150724T101423Z">
+        <seg>V rozbalovacím seznamu &lt;f0&gt;Tabulky&lt;/f0&gt; vybereme jednu z položek, čímž vybereme tabulku nebo existující dotaz na vytvoření nového dotazu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click one that is in the Available fields list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T101623Z" creationid="install" creationdate="20150724T101623Z">
+        <seg>Klikneme na jednu z položek v seznamu Dostupná pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Apply&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt; &lt;/df1&gt; to apply the settings.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T133516Z" creationid="standa" creationdate="20140315T133516Z">
@@ -10398,10 +10414,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the name of the field you want to move.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T101733Z" creationid="install" creationdate="20150724T101733Z">
+        <seg>Klikneme na název pole, které chceme přesunout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the plus (&lt;f0&gt;+&lt;/f0&gt;) button.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T084710Z" creationid="install" creationdate="20150716T084710Z">
         <seg>Klikneme na tlačítko plus &lt;f0&gt;+&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the right arrow to move it to the &lt;f0&gt;Fields in the Query&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T101636Z" creationid="install" creationdate="20150724T101636Z">
+        <seg>Kliknutím na šipku vpravo ji přesuneme doprava do seznamu &lt;f0&gt;Pole v dotazu&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31598,6 +31630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the fields to be used from the Inventory table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T101504Z" creationid="install" creationdate="20150724T101504Z">
+        <seg>Vybereme pole, která se z tabulky Inventář domácnosti mají v dotazu použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the file and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150619T051842Z" creationid="install" creationdate="20150618T100619Z">
@@ -42906,6 +42946,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150711T141125Z" creationid="lenochod26" creationdate="20150711T141125Z">
         <seg>Pro vytvoření nové databáze použijeme horní část.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the up arrow to move it higher in the list, or the down arrow to move it lower.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T101741Z" creationid="install" creationdate="20150724T101741Z">
+        <seg>Klikneme na šipku nahoru, pokud chceme pole posunout výše nebo na šipku dolů, pokud ho chceme posunout níže.</seg>
       </tuv>
     </tu>
     <tu>
