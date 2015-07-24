@@ -118,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(No selections are available for this step.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095611Z" creationid="install" creationdate="20150724T095611Z">
+        <seg>(V tomto kroku nejsou žádná nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(No selections available for this step.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095645Z" creationid="install" creationdate="20150724T095645Z">
+        <seg>(V tomto kroku nejsou žádná nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140925T211041Z" creationid="standa" creationdate="20140925T211041Z">
@@ -12094,6 +12110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed or Summary:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095435Z" creationid="install" creationdate="20150724T095435Z">
+        <seg>Podrobnosti nebo souhrn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed query</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T084712Z" creationid="install" creationdate="20150724T084712Z">
@@ -12346,6 +12370,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T151405Z" creationid="install" creationdate="20150721T151020Z">
         <seg>Nepoužívejme obě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want the output to be a detailed list or a summary of selected database data?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095517Z" creationid="install" creationdate="20150724T095503Z">
+        <seg>Výstupem má být detailní seznam, nebo to má být souhrn vybraných dat z databáze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19070,10 +19102,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Grouped by:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095557Z" creationid="install" creationdate="20150724T095557Z">
+        <seg>Seskupení:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Grouping</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T191237Z" creationid="standa" creationdate="20140116T191237Z">
         <seg>Seskupení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Grouping conditions:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095640Z" creationid="install" creationdate="20150724T095640Z">
+        <seg>Podmínky seskupení:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23658,6 +23706,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T115951Z" creationid="install" creationdate="20150710T115951Z">
         <seg>Namísto toho se stejný data musí zadat do obou polí, což zvyšuje pravděpodobnost vzniku chyb při zadávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead the selection in Step 2 is used.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095620Z" creationid="install" creationdate="20150724T095620Z">
+        <seg>Namísto toho se použijí nastavení z Kroku 2.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead the selection in Step 3 is used.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095658Z" creationid="install" creationdate="20150724T095658Z">
+        <seg>Namísto toho se použijí nastavení z kroku 3.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33342,6 +33406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 4.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095351Z" creationid="install" creationdate="20150724T095351Z">
+        <seg>Krok 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 4: Create table</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T121803Z" creationid="install" creationdate="20150717T121803Z">
@@ -33350,10 +33422,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 5.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095520Z" creationid="install" creationdate="20150724T095520Z">
+        <seg>Krok 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 5: Arrange the controls on your form.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T052039Z" creationid="install" creationdate="20150723T052039Z">
         <seg>Krok 5: Uspořádání ovládacích prvků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 6.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095624Z" creationid="install" creationdate="20150724T095624Z">
+        <seg>Krok 6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43702,10 +43790,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>What are the specific conditions?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095349Z" creationid="install" creationdate="20150724T095349Z">
+        <seg>Které podmínky to jsou?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>What fields are needed?</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T094931Z" creationid="install" creationdate="20150724T094931Z">
         <seg>Která pole potřebujeme?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What fields need to have conditions added to them?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T095340Z" creationid="install" creationdate="20150724T095340Z">
+        <seg>Do kterých polí bude nutné přidat podmínky?</seg>
       </tuv>
     </tu>
     <tu>
