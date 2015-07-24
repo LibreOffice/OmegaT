@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The alias, Appraised Value, is used in place of the field name, AppraisedValue.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125135Z" creationid="install" creationdate="20150724T125135Z">
+        <seg>Alias ​​Odhadovaná cena je přitom použita místo názvu pole OdhadovanáCena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The cursor appears in the first control.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T130236Z" creationid="install" creationdate="20150723T130236Z">
@@ -3650,6 +3658,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T124155Z" creationid="install" creationdate="20150724T124155Z">
         <seg>&lt;f0&gt;Ověření&lt;/f0&gt;: Inventář domácnosti je správně zadána tabulka, vypsané pole jsou správné a aliasy jsou také správné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Verification&lt;/f0&gt;: This is the correct field, and the sorting is in the correct direction.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125153Z" creationid="install" creationdate="20150724T125153Z">
+        <seg>&lt;f0&gt;Ověření&lt;/f0&gt;: Toto je správné pole a řazení je ve správném směru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21374,6 +21390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this were a query that we wanted to use, we would click the &lt;f0&gt;Finish&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125043Z" creationid="install" creationdate="20150724T125043Z">
+        <seg>Pokud nyní tento dotaz chceme použít, klikneme na tlačítko &lt;f0&gt;Dokončit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If we had to enter all of our data directly into our table, it would be more time consuming than it needs to be.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T082504Z" creationid="install" creationdate="20150721T082504Z">
@@ -37430,6 +37454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search condition applies only to Appraised Value and it restricts its values to $50 or more.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125240Z" creationid="install" creationdate="20150724T125240Z">
+        <seg>Podmínka vyhledávání se týká pouze odhadované ceny a je omezena na 100 Kč a více.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second box specifies the icon style (theme); here the Automatic option uses an icon set compatible with your operating system and choice of desktop: for example, KDE or Gnome on Linux.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140925T210425Z" creationid="standa" creationdate="20140925T210425Z">
@@ -39314,6 +39346,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T131137Z" creationid="install" creationdate="20150716T131137Z">
         <seg>Uděláme tak proto, že toto pole použijeme jako primární klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is correct.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125037Z" creationid="install" creationdate="20150724T125037Z">
+        <seg>To je správné.</seg>
       </tuv>
     </tu>
     <tu>
