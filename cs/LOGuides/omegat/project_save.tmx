@@ -6926,6 +6926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Because tables and queries can be used when creating queries, forms, and reports, a name for a table or query can be used only one time to prevent selecting the wrong one if duplicate names are allowed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T122930Z" creationid="install" creationdate="20150724T122930Z">
+        <seg>Je to tak proto, že při vytváření dotazů lze použít tabulky, stejně jako i jiné dotazy. Proto lze použít pouze jednou jeden název pro tabulku nebo dotaz, abychom se vyhnuli chybě při výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because the page style is affected, the changed margins apply to &lt;f0&gt;all&lt;/f0&gt; pages using that style.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T211710Z" creationid="standa" creationdate="20150209T211710Z">
@@ -14722,6 +14730,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150625T135507Z" creationid="install" creationdate="20150625T135507Z">
         <seg>Obrázek &lt;seq0&gt;17&lt;/seq0&gt;: Dialogové okno Přesunout/kopírovat list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Overview of a query</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T122944Z" creationid="install" creationdate="20150724T122944Z">
+        <seg>Obrázek &lt;seq0&gt;17 &lt;/seq0&gt;: Přehled dotazu</seg>
       </tuv>
     </tu>
     <tu>
