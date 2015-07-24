@@ -926,6 +926,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>41</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125543Z" creationid="install" creationdate="20150724T125543Z">
+        <seg>41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>42</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125551Z" creationid="install" creationdate="20150724T125551Z">
+        <seg>42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>44</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T082226Z" creationid="install" creationdate="20150721T082226Z">
@@ -3662,6 +3678,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Verification&lt;/f0&gt;: Since none of the fields are manipulated, we have a detailed query.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125353Z" creationid="install" creationdate="20150724T125353Z">
+        <seg>&lt;f0&gt;Ověření&lt;/f0&gt;: Jelikož neupravujeme žádné pole, jde o detailní dotaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Verification&lt;/f0&gt;: This is the correct field, and the search condition is also correct.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125320Z" creationid="install" creationdate="20150724T125320Z">
+        <seg>&lt;f0&gt;Ověření&lt;/f0&gt;: Je to správné pole a podmínka vyhledávání je také správná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Verification&lt;/f0&gt;: This is the correct field, and the sorting is in the correct direction.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T125153Z" creationid="install" creationdate="20150724T125153Z">
@@ -6018,6 +6050,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T202621Z" creationid="standa" creationdate="20140218T202621Z">
         <seg>Jakákoliv úprava složeného objektu ovlivní všechny objekty, které byly při složení použity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any items worth less than or equal to $50 will not be shown when the query is run.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125302Z" creationid="install" creationdate="20150724T125302Z">
+        <seg>Položky se zbytkovou cenou pod 100 Kč při spuštění dotazu nebudou zobrazeny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29950,6 +29990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reports: use wizard to create reports</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125538Z" creationid="install" creationdate="20150724T125538Z">
+        <seg>Sestavy: Vytváření sestav pomocí průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reposition the cursor to where you want to start entering the new data in the cell.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T213408Z" creationid="standa" creationdate="20150702T213313Z">
@@ -37266,6 +37314,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T082725Z" creationid="install" creationdate="20150724T082725Z">
         <seg>Pomocí dotazu vybíráme z databáze informace a prezentujeme je v užitečné formě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The query wizard would close, and a Table Data View dialog would open with the query output.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T125500Z" creationid="install" creationdate="20150724T125500Z">
+        <seg>Průvodce se ukončí a otevře se dialogové okno Zobrazení dat tabulky (Table Data View) s výsledkem dotazu.</seg>
       </tuv>
     </tu>
     <tu>
