@@ -18102,6 +18102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the second row, select &lt;f6&gt;Last Name&lt;/f6&gt; in &lt;f7&gt;Fields; &lt;/f7&gt;for &lt;t8/&gt;&lt;f9&gt;Condition&lt;/f9&gt;, select &lt;f10&gt;is equal to&lt;/f10&gt;; and enter &lt;f11&gt;Jones&lt;/f11&gt; in &lt;f12&gt;Value.&lt;/f12&gt; With this query, the only rows in the output will be those containing either &lt;f13&gt;Smith&lt;/f13&gt; or &lt;f14&gt;Jones&lt;/f14&gt; in the &lt;f15&gt;Last Name &lt;/f15&gt;field.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T115524Z" creationid="install" creationdate="20150724T115440Z">
+        <seg>Na druhém řádku, vybereme položku &lt;f6&gt;Příjmení&lt;/f6&gt; v seznamu &lt;f7&gt;Pole&lt;/f7&gt;; pro&lt;t8/&gt; &lt;f9&gt;Podmínka&lt;/f9&gt; vybereme &lt;f10&gt;je rovna&lt;/f10&gt;; a zadáme &lt;f11&gt;Kováč&lt;/f11&gt; v poli &lt;f12&gt;Hodnota&lt;/f12&gt;. S tímto dotazem, budou ve výstupu pouze ty řádky, které obsahují v poli &lt;f15&gt;Příjmení&lt;/f15&gt; buď &lt;f13&gt;Novák&lt;/f13&gt; nebo &lt;f14&gt;Kováč&lt;/f14&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, those used in Base are discussed in Appendix I of the Base Guide, &lt;f0&gt;Field Information for Base&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T081520Z" creationid="install" creationdate="20150716T081520Z">
@@ -33758,6 +33766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 4: Detailed or Summary</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T115616Z" creationid="install" creationdate="20150724T115616Z">
+        <seg>Krok 4: Podrobnosti nebo souhrn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 5.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T095520Z" creationid="install" creationdate="20150724T095520Z">
@@ -39146,6 +39162,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T052817Z" creationid="install" creationdate="20150717T052817Z">
         <seg>To je to, co potřebujeme, pokud chceme vyhledat konkrétní informaci, kterou tabulka obsahuje: způsob, jak určit, který řádek a sloupec chceme použít v našem hledání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is where you define whether the query is detailed or summary.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T115709Z" creationid="install" creationdate="20150724T115626Z">
+        <seg>Zde určíme, zda chceme vytvořit podrobný nebo sumární dotaz.</seg>
       </tuv>
     </tu>
     <tu>
