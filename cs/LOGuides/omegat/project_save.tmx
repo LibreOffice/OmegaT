@@ -18086,6 +18086,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the second example, you also need two rows.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T114422Z" creationid="install" creationdate="20150724T114422Z">
+        <seg>Pro druhý příklad je třeba zadat také dvě podmínky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the second row, enter &lt;f6&gt;City&lt;/f6&gt; in &lt;f7&gt;Fields&lt;/f7&gt;; for &lt;f8&gt;Condition&lt;/f8&gt;, select &lt;f9&gt;is equal to&lt;/f9&gt;; and enter &lt;f10&gt;Selma&lt;/f10&gt; in &lt;f11&gt;Value&lt;/f11&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T114358Z" creationid="install" creationdate="20150724T114358Z">
+        <seg>Ve druhém řádku v seznamu &lt;f6&gt;Pole&lt;/f6&gt; zvolíme &lt;f7&gt;Město&lt;/f7&gt;, &lt;f8&gt;Podmínka&lt;/f8&gt; nastavíme na &lt;f9&gt;je rovno&lt;/f9&gt; a do &lt;f10&gt;Hodnota&lt;/f10&gt; napíšeme &lt;f11&gt;Brno&lt;/f11&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, those used in Base are discussed in Appendix I of the Base Guide, &lt;f0&gt;Field Information for Base&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T081520Z" creationid="install" creationdate="20150716T081520Z">
@@ -44930,6 +44946,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140608T155312Z" creationid="standa" creationdate="20140608T155312Z">
         <seg>Je-li tato možnost vybrána, použijí se dialogová okna Otevřít a Uložit, která jsou součástí balíku LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this query is run, the only rows in the output will be those containing Smith in the Last Name field and Selma in the City field.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T114417Z" creationid="install" creationdate="20150724T114417Z">
+        <seg>Když tento dotaz použijeme, ve výstupu budou pouze záznamy, ve kterých je příjmení Novák a město je Brno.</seg>
       </tuv>
     </tu>
     <tu>
