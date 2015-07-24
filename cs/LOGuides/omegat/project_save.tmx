@@ -1104,8 +1104,8 @@
       <tuv lang="EN">
         <seg>&lt;/f0&gt;This produces a single cell containing the total appraised value of the inventory.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150724T084640Z" creationid="install" creationdate="20150724T084640Z">
-        <seg>&lt;/f0&gt;Výstupem takového dotazu bude jeden údaj o celkové odhadované ceně.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150724T084707Z" creationid="install" creationdate="20150724T084640Z">
+        <seg>&lt;/f0&gt;Výstupem takového dotazu bude jeden údaj o celkové skutečné ceně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4618,6 +4618,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T084147Z" creationid="install" creationdate="20150724T084147Z">
         <seg>Dotaz je prohledávání databáze, jehož cílem je najít určitý typ informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A query that manipulates database data to produce its output.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084915Z" creationid="install" creationdate="20150724T084915Z">
+        <seg>Výstup souhrnného dotazu se získá zpracováním údajů z databáze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A query that produces a detailed list as its output.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084739Z" creationid="install" creationdate="20150724T084739Z">
+        <seg>Výstupem detailního dotazu je seznam položek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12050,6 +12066,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T195923Z" creationid="standa" creationdate="20141005T195923Z">
         <seg>Zrušením výběru této volby se stane výchozím tiskovým formátem opět Postscript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detailed query</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084712Z" creationid="install" creationdate="20150724T084712Z">
+        <seg>Podrobný dotaz</seg>
       </tuv>
     </tu>
     <tu>
@@ -33374,6 +33398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summary query</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084847Z" creationid="install" creationdate="20150724T084847Z">
+        <seg>Souhrný dotaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Superscript</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T175218Z" creationid="standa" creationdate="20150122T175218Z">
@@ -35014,6 +35046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data in this list are part of the data contained in the database.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084807Z" creationid="install" creationdate="20150724T084807Z">
+        <seg>Data v tomto seznamu jsou získány přímo z databáze - byly v ní uloženy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data of a given table of a database share one or more common characteristic.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T050942Z" creationid="install" creationdate="20150716T050942Z">
@@ -35826,6 +35866,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T182108Z" creationid="standa" creationdate="20140526T182108Z">
         <seg>V poli se seznamem se zobrazí všechny existující návrhy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The list consists of one or more rows.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T084828Z" creationid="install" creationdate="20150724T084828Z">
+        <seg>Tento seznam se může skládat z jednoho nebo více řádků.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41930,6 +41978,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T191300Z" creationid="standa" creationdate="20140116T191300Z">
         <seg>Zrušení seskupení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unless the summary query is group, its output will contain only one row and each column will contain manipulated data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150724T085017Z" creationid="install" creationdate="20150724T085017Z">
+        <seg>Pokud nebylo použito seskupování jeho výstupem je pouze jeden řádek, přičemž se v jeho každé položce nacházejí zpracované údaje.</seg>
       </tuv>
     </tu>
     <tu>
