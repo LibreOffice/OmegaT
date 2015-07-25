@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See Figure &lt;f2&gt;&lt;t3&gt;18&lt;/t3&gt;&lt;/f2&gt;.) All of the items have an appraised value greater than $50.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150725T071535Z" creationid="lenochod26" creationdate="20150725T071535Z">
+        <seg>(Obrázek &lt;f2&gt;&lt;t3&gt; 18&lt;/t3&gt;&lt;/f2&gt;). Zůstatková cena všech položek je větší než 50 Kč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See Step 3 below for more information about primary keys.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T131155Z" creationid="install" creationdate="20150716T131155Z">
@@ -20654,6 +20662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an item in the inventory had an appraised value of $50, it would not be in the output either.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150725T071644Z" creationid="lenochod26" creationdate="20150725T071644Z">
+        <seg>Pokud by položka inventáře měla zůstatkovou cenu právě 50 Kč, také by se ve výstupu nenacházela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If an unwanted style is in use, you can replace it with a substitute style.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T204645Z" creationid="standa" creationdate="20140406T204645Z">
@@ -35474,6 +35490,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181851Z" creationid="standa" creationdate="20140526T181851Z">
         <seg>Průvodce vytvořením WWW stránky se vztahuje k programu Writer a je jím běžně používán k vytváření webových stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The WiFi modem is not part of the output because its appraised value is less than $50.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150725T071620Z" creationid="lenochod26" creationdate="20150725T071620Z">
+        <seg>Proto se například WiFi modem ve výstupu nenachází, neboť jeho zůstatková cena je menší než 50 Kč.</seg>
       </tuv>
     </tu>
     <tu>
