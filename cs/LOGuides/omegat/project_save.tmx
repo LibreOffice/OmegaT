@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(&lt;/f1&gt;&lt;f2&gt;Correct&lt;/f2&gt;)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T063002Z" creationid="lenochod26" creationdate="20150726T062952Z">
+        <seg>(&lt;/f1&gt;&lt;f2&gt;Správně&lt;/f2&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;f0&gt;802.11g&lt;/f0&gt; is not needed.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T081914Z" creationid="install" creationdate="20150724T081914Z">
         <seg>(Údaj &lt;f0&gt;802.11g&lt;/f0&gt; není zapotřebí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(&lt;f2&gt;Correct&lt;/f2&gt;) (This is really the grouping condition because of the limitations of the wizard.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064206Z" creationid="lenochod26" creationdate="20150726T064206Z">
+        <seg>(&lt;f2&gt;Správné&lt;/f2&gt;) (Kvůli omezením průvodce je toto ve skutečnosti podmínka seskupení.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(&lt;f3&gt;Correct&lt;/f3&gt;)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T063643Z" creationid="lenochod26" creationdate="20150726T063643Z">
+        <seg>(&lt;f3&gt;Správné&lt;/f3&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +122,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T131803Z" creationid="install" creationdate="20150717T131803Z">
         <seg>(V tabulkovém sešitu je třeba někdy použít klávesu &lt;f0&gt;Enter&lt;/f0&gt;.) Zadávaný údaj se umístí pouze do té buňky, ve které se nachází kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(It is very unlikely that the data for 2008 will change.) But a similar report for your insurance agent for updating your policy needs to be a dynamic report.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065354Z" creationid="lenochod26" creationdate="20150726T065354Z">
+        <seg>(Je velmi málo pravděpodobné, že údaje za rok 2012 by se změnily.) Podobná sestava, určená pro pojišťovnu na aktualizaci pojistky, však má být dynamická.</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The Report Wizard opens with the Report Builder opening in the background.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070633Z" creationid="lenochod26" creationdate="20150726T070633Z">
+        <seg>Otevře se dialogové okno Průvodce sestavou, přičemž v pozadí se otevře okno Návrhář sestav Oracle (Oracle Report Builder).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The alias, Appraised Value, is used in place of the field name, AppraisedValue.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T125135Z" creationid="install" creationdate="20150724T125135Z">
@@ -394,6 +434,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T055700Z" creationid="install" creationdate="20150723T055700Z">
         <seg>(Zvolenou barvu, můžeme později změnit při úpravě formuláře.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(This is really the field by which the data will be grouped because we are creating a summary query.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T063944Z" creationid="lenochod26" creationdate="20150726T063944Z">
+        <seg>(Je to opravdu pole, podle kterého budou data seskupena, neboť jsme vytvořili souhrnný dotaz.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1162,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150720T205412Z" creationid="lenochod26" creationdate="20150720T205412Z">
         <seg>900W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f0&gt;(See Figure &lt;f1&gt;&lt;t2&gt;19&lt;/t2&gt;&lt;/f1&gt;.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065657Z" creationid="lenochod26" creationdate="20150726T065657Z">
+        <seg>&lt;/f0&gt;(Obrázek &lt;f1&gt;&lt;t2&gt; 19&lt;/t2&gt;&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3374,10 +3430,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Step 1: Open the Report Wizard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065637Z" creationid="lenochod26" creationdate="20150726T065637Z">
+        <seg>&lt;f0&gt; Krok 1: Spuštění průvodce pro vytvoření sestavy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Step 4: Detailed or Summary&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150726T055114Z" creationid="lenochod26" creationdate="20150726T055114Z">
         <seg>&lt;f0&gt; Krok 4: Podrobnosti nebo souhrn&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Steps 5 and 6.&lt;/f0&gt; (These are not used by the wizard, which uses Steps 2 and 3 instead.)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062036Z" creationid="lenochod26" creationdate="20150726T062018Z">
+        <seg>&lt;f0&gt;Kroky 5 a 6&lt;/f0&gt;. (Tyto průvodce nepoužívá, místo nich používá kroky 2 a 3.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4794,6 +4866,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140222T211604Z" creationid="standa" creationdate="20140222T211022Z">
         <seg>Relativní odkaz přestane fungovat, když se změní umístění počátku vzhledem k cíli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A report of your inventory’s total appraised value for the year 2008 is an example of a static report.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065310Z" creationid="lenochod26" creationdate="20150726T065310Z">
+        <seg>Příkladem statické sestavy může být sestava, která obsahuje hodnoty Odhadované ceny inventáře v roce 2012.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6462,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you go through the steps of the Report Wizard, use the mouse to move it so that you can see what effects your selections in the wizard have on the Report Builder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070724Z" creationid="lenochod26" creationdate="20150726T070724Z">
+        <seg>Během provádění jednotlivých kroků průvodce můžeme okno Průvodce sestavou myší odsunout, abychom viděli, jaký účinek měly nastavení v průvodci na zobrazení v okně Návrhář sestav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you move the mouse cursor over the handles the cursor changes shape.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T173134Z" creationid="standa" creationdate="20140216T173134Z">
@@ -7806,6 +7894,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change AppraisedValue to Appraised Value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062246Z" creationid="lenochod26" creationdate="20150726T062246Z">
+        <seg>OdhadovanáCena změníme na Odhadovaná cena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change PurchasePrice to Purchase Price.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062213Z" creationid="lenochod26" creationdate="20150726T062213Z">
+        <seg>NákupníCena změníme na Nákupní cena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change a style using the Style dialog</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T202240Z" creationid="standa" creationdate="20140406T202240Z">
@@ -7826,6 +7930,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T215608Z" creationid="standa" creationdate="20150209T215608Z">
         <seg>Dialogové okno Vložit rejstřík/obsah ponecháme beze změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change order of report fields</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070818Z" creationid="lenochod26" creationdate="20150726T070818Z">
+        <seg>Změnit pořadí polí sestavy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7954,6 +8066,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T182431Z" creationid="standa" creationdate="20150628T182431Z">
         <seg>Změnit typ přechodu mezi snímky následující za vybraným snímkem nebo za každým snímkem ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change them if you think your name is better.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072701Z" creationid="lenochod26" creationdate="20150726T072701Z">
+        <seg>Pokud máme lepší názvy, použijeme je.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8282,6 +8402,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T084404Z" creationid="install" creationdate="20150717T084404Z">
         <seg>Zaškrtneme pole Automatická hodnota, aby Base sám vytvářel hodnoty primárního klíče.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the Overview:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062838Z" creationid="lenochod26" creationdate="20150726T062838Z">
+        <seg>Kontrola pomocí přehledu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8854,6 +8982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Date Purchased &lt;/f0&gt;in the Fields list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T073141Z" creationid="lenochod26" creationdate="20150726T073141Z">
+        <seg>V seznamu Pole kliknutím vybereme položku &lt;f0&gt;Datum nákupu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Delete&lt;/f0&gt; in the context menu.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T102530Z" creationid="standa" creationdate="20140315T102530Z">
@@ -8978,6 +9114,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T120129Z" creationid="install" creationdate="20150724T112511Z">
         <seg>Klikneme na tlačítko &lt;f0&gt;Další&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Next&lt;/f0&gt; in Step 5 and then in Step 6.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062104Z" creationid="lenochod26" creationdate="20150726T062104Z">
+        <seg>V obou krocích 5 a 6 klikneme na &lt;f0&gt;Další&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9998,6 +10142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click one of the arrows (#3 above) to move the field up or down to where you want it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T071331Z" creationid="lenochod26" creationdate="20150726T071331Z">
+        <seg>Potom klikneme na jednu ze šipek nahoru nebo dolů (číslo 3 výše), čímž ji přesuneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click one of the icons to open a new document of that type, or click the &lt;f4&gt;Templates&lt;/f4&gt; icon to start a new document using a template.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140502T142923Z" creationid="standa" creationdate="20140502T142923Z">
@@ -10610,6 +10762,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T101733Z" creationid="install" creationdate="20150724T101733Z">
         <seg>Klikneme na název pole, které chceme přesunout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the plus (&lt;f0&gt;+&lt;/f0&gt;) button to reveal a second row of drop-down lists.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T061403Z" creationid="lenochod26" creationdate="20150726T061403Z">
+        <seg>Klikneme na tlačítko (&lt;f0&gt;+&lt;/f0&gt;), čímž přidáme další řádek s rozbalovacím seznamem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12574,6 +12734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display the query after closing the query (Default selection).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062827Z" creationid="lenochod26" creationdate="20150726T062827Z">
+        <seg>Zobrazit dotaz po zavření Průvodce dotazem (výchozů výběr).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displaying different headers on right and left pages</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140401T193002Z" creationid="standa" creationdate="20140401T193002Z">
@@ -13330,6 +13498,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T205017Z" creationid="standa" creationdate="20150326T205017Z">
         <seg>Dynamické grafy: je možné použít široký rozsah 2D a 3D grafů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dynamic reports can be updated to show the latest data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065042Z" creationid="lenochod26" creationdate="20150726T065042Z">
+        <seg>Dynamické sestavy jsou aktualizovány a zobrazují nejnovější data databáze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14970,6 +15146,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T191634Z" creationid="standa" creationdate="20140414T191634Z">
         <seg>Obrázek &lt;seq0&gt;19&lt;/seq0&gt;: Záchytné body a dostupné nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Report Wizard &lt;f1&gt;f&lt;/f1&gt;ield &lt;f2&gt;s&lt;/f2&gt;election</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070910Z" creationid="lenochod26" creationdate="20150726T070910Z">
+        <seg>Obrázek &lt;seq0&gt;19 &lt;/seq0&gt;: Výběr polí Průvodce sestavou &lt;f1&gt;&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16814,6 +16998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Follow these steps to create a report.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065626Z" creationid="lenochod26" creationdate="20150726T065626Z">
+        <seg>Sestavu vytvoříme následujícím postupem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Follow these steps:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T214037Z" creationid="standa" creationdate="20140112T214037Z">
@@ -18606,6 +18798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From &lt;f0&gt;the Fields&lt;/f0&gt; dropdown list, select &lt;f1&gt;Household Inventory.AppraisedValue&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T061943Z" creationid="lenochod26" creationdate="20150726T061943Z">
+        <seg>V rozbalovacím seznamu &lt;f0&gt;Pole&lt;/f0&gt; vybereme &lt;f1&gt;Inventář domácnosti.Nákupní Cena&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From File</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T170941Z" creationid="standa" creationdate="20140317T170941Z">
@@ -18626,6 +18826,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T204009Z" creationid="standa" creationdate="20150629T204009Z">
         <seg>Zleva doprava se na stavovém řádku nachází:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the &lt;f0&gt;Aggregate functions&lt;/f0&gt; drop-down list, select &lt;f1&gt;get the sum of.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T061540Z" creationid="lenochod26" creationdate="20150726T061540Z">
+        <seg>v rozbalovacím seznamu &lt;f0&gt;Agregační funkce&lt;/f0&gt;, vybereme &lt;f1&gt;součet z&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19850,6 +20058,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T164541Z" creationid="standa" creationdate="20140414T164541Z">
         <seg>V této části můžeme upravit a na objekty kresby použít styly obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can give aliases to one or more fields.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072530Z" creationid="lenochod26" creationdate="20150726T072530Z">
+        <seg>V tomto kroku můžeme jednomu nebo více polí přiřadit aliasy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21582,6 +21798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are &lt;t0/&gt;sure that data for your report does not change with time, creating a static report is a good choice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065202Z" creationid="lenochod26" creationdate="20150726T065202Z">
+        <seg>Pokud jste &lt;t0/&gt; si jisti, že se data časem nezmění, vytváření statické sestavy je dobrá volba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are a system administrator, programmer, or other person who customizes JRE installations, you can use the Parameters and Class Path pages (reached from the Java page) to specify this information.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141011T202454Z" creationid="standa" creationdate="20141011T202454Z">
@@ -21994,6 +22218,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T194927Z" creationid="standa" creationdate="20150627T194927Z">
         <seg>Uživatelům se zkušenostmi s tvorbou prezentací doporučujeme, aby jako zdroj informací použili právě příručku &lt;f1&gt;Impress Guide&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have added the aliases you wanted when creating the query, you will not have to make any changes in this step.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072619Z" creationid="lenochod26" creationdate="20150726T072619Z">
+        <seg>Pokud jsme aliasy definovali již při vytváření dotazu, nemusíme tak nyní učinit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22430,6 +22662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to change the order of the fields in the &lt;f0&gt;Fields in report &lt;/f0&gt;list, click the field you want to move up or down in this list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T071248Z" creationid="lenochod26" creationdate="20150726T071248Z">
+        <seg>Pokud chceme změnit pořadí položek v seznamu &lt;f0&gt;Pole v sestavě&lt;/f0&gt;, nejdříve kliknutím vybereme položku, kterou chceme přemístit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to create a table with the wizard immediately after creating a new database, select &lt;f0&gt;Create tables using the table wizard&lt;/f0&gt; in addition to &lt;f1&gt;Open the database for editing&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150712T083859Z" creationid="lenochod26" creationdate="20150712T083859Z">
@@ -22570,6 +22810,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T194544Z" creationid="lenochod26" creationdate="20150621T204712Z">
         <seg>Pokud sešit obsahuje velké množství listů, některé z karet mohou být skryty za vodorovným posuvníkem v dolní části obrazovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, however, you want to make some changes, now is the time to make them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072640Z" creationid="lenochod26" creationdate="20150726T072640Z">
+        <seg>Pokud bychom přesto chtěli něco změnit, uděláme tak v tomto kroku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23574,6 +23822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Task section, click Use&lt;f0&gt; Wizard to Create Report&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070519Z" creationid="lenochod26" creationdate="20150726T070519Z">
+        <seg>V oblasti Úlohy klikneme na &lt;f0&gt;Použít průvodce pro vytvoření sestavy&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Template Manager dialog, click the &lt;f0&gt;Action Menu&lt;/f0&gt; icon on the right</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140113T202638Z" creationid="standa" creationdate="20140113T202638Z">
@@ -23750,6 +24006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the main database window, click the Report icon in the Database section.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070426Z" creationid="lenochod26" creationdate="20150726T070426Z">
+        <seg>V hlavním okně databáze klikneme v oblasti Databáze na ikonu Sestavy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the pop-up dialog, type a name for the new folder and click &lt;f0&gt;Accept&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140115T211035Z" creationid="standa" creationdate="20140115T211035Z">
@@ -23866,6 +24130,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140111T215511Z" creationid="standa" creationdate="20140111T215511Z">
         <seg>V tomto vydání LibreOffice klepnutí na &lt;f0&gt;Dokončit&lt;/f0&gt; znovu otevře dialogové okno Uložit jako, v němž byl zadán název souboru již v kroku 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this respect they are similar to queries.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064616Z" creationid="lenochod26" creationdate="20150726T064616Z">
+        <seg>V tomto smyslu jsou podobné s dotazy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26470,6 +26742,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move available fields to the right</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070811Z" creationid="lenochod26" creationdate="20150726T070811Z">
+        <seg>Dostupná pole přesunout doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move report fields to the left</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070838Z" creationid="lenochod26" creationdate="20150726T070838Z">
+        <seg>Pole sestavy přesunout doleva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move selected field down</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T100813Z" creationid="install" creationdate="20150724T100813Z">
@@ -26610,6 +26898,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T065150Z" creationid="install" creationdate="20150716T065150Z">
         <seg>Přesuneme pole, které chceme použít v naší databázi, do seznamu &lt;f0&gt;Vybraná pole&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the list of &lt;f0&gt;Available fields&lt;/f0&gt; to the list of &lt;f1&gt;Fields in report &lt;/f1&gt;using the double right arrow button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T071226Z" creationid="lenochod26" creationdate="20150726T071226Z">
+        <seg>Položky ze seznamu &lt;f0&gt;Dostupná pole&lt;/f0&gt; kliknutím na dvojitou šipku vpravo přeneseme do seznamu &lt;f1&gt;Pole v sestavě&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27034,6 +27330,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T195357Z" creationid="standa" creationdate="20141012T195357Z">
         <seg>Název faxu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name the query &lt;f0&gt;Household Inventory Summary&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062412Z" creationid="lenochod26" creationdate="20150726T062412Z">
+        <seg>Název dotazu změníme na &lt;f0&gt;Souhrnný přehled inventáře domácnosti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29870,6 +30174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remember to use the vertical scrollbar if all of the fields are not visible, and then review the rest of the suggested labels.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072717Z" creationid="lenochod26" creationdate="20150726T072717Z">
+        <seg>Pokud nejsou viditelné všechna pole, tak je zobrazíme pomocí svislého posuvníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove personal information on saving</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T201125Z" creationid="standa" creationdate="20141008T201125Z">
@@ -30102,6 +30414,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reports are generated from the database’s tables or queries.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064738Z" creationid="lenochod26" creationdate="20150726T064738Z">
+        <seg>Sestavy se vytvářejí z tabulek databáze nebo z dotazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reports can be static or dynamic.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064948Z" creationid="lenochod26" creationdate="20150726T064948Z">
+        <seg>Sestava může být statická nebo dynamická.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reports present information found in the database in a useful way.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064606Z" creationid="lenochod26" creationdate="20150726T064606Z">
+        <seg>Pomocí sestav prezentujeme informace získané z databáze v přehledné formě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reports: use wizard to create reports</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T125538Z" creationid="install" creationdate="20150724T125538Z">
@@ -30162,6 +30498,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T211552Z" creationid="standa" creationdate="20150122T211552Z">
         <seg>Restartování číslování stránek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review the suggested labels for the fields.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072651Z" creationid="lenochod26" creationdate="20150726T072651Z">
+        <seg>Prohlédneme si navrhované pojmenování polí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31634,6 +31978,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150720T130935Z" creationid="install" creationdate="20150720T130935Z">
         <seg>Jako primární klíč pro tabulku zvolíme InventářID a přiřadíme mu vlastnost Automatická hodnota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Query_Household Inventory from the &lt;f0&gt;Tables or queries&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T071129Z" creationid="lenochod26" creationdate="20150726T071129Z">
+        <seg>V rozbalovacím seznamu &lt;f0&gt;Tabulky nebo dotazy&lt;/f0&gt; zvolíme Dotaz_Inventář domácnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33190,6 +33542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since the data that concerns us is contained in a query, we will use that.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064930Z" creationid="lenochod26" creationdate="20150726T064831Z">
+        <seg>Jelikož data, které nás zajímají, můžeme získat pomocí vytvořené shody, použijeme ho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since there is only one condition, &lt;f0&gt;Match all of the following&lt;/f0&gt; (Default) is appropriate.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150726T055028Z" creationid="lenochod26" creationdate="20150726T055028Z">
@@ -33450,6 +33810,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T053747Z" creationid="install" creationdate="20150723T053747Z">
         <seg>První ovládací prvek se tedy nachází v prvním řádku vlevo a poslední v posledním řádku vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So, the report will use the aliases of the query instead: Appraised Value, Date Purchased, and Purchase Price respectively.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T073041Z" creationid="lenochod26" creationdate="20150726T073041Z">
+        <seg>Takže bude používat aliasy dotazu namísto: Odhadovaná cena, Datum zakoupení, a Nákupní cena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34030,6 +34398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Static reports contain the data from the selected fields at the time the report was created.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065021Z" creationid="lenochod26" creationdate="20150726T065021Z">
+        <seg>Statické sestavy obsahují data, které se v databázi nacházely v okamžiku vytvoření sestavy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Status Bar</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T202757Z" creationid="standa" creationdate="20141029T202757Z">
@@ -34110,6 +34486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 2: Select the table and its field for the report.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T071034Z" creationid="lenochod26" creationdate="20150726T071034Z">
+        <seg>Krok 2: Výběr tabulky a její polí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 2: Set types and formats</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T074441Z" creationid="install" creationdate="20150716T074441Z">
@@ -34154,6 +34538,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T095103Z" creationid="install" creationdate="20150724T095103Z">
         <seg>Krok 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: Labeling fields.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072521Z" creationid="lenochod26" creationdate="20150726T072521Z">
+        <seg>Krok 3: Pojmenování polí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34206,6 +34598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 4: Grouping.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T073101Z" creationid="lenochod26" creationdate="20150726T073101Z">
+        <seg>Krok 4: Seskupení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 5.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T095520Z" creationid="install" creationdate="20150724T095520Z">
@@ -34246,6 +34646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 7: Aliases.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062140Z" creationid="lenochod26" creationdate="20150726T062140Z">
+        <seg>Krok 7: Aliasy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 7: Apply the style of your form.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T055239Z" creationid="install" creationdate="20150723T055239Z">
@@ -34266,6 +34674,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T122528Z" creationid="install" creationdate="20150724T122528Z">
         <seg>Krok 8: Přehled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 8: Overview.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062339Z" creationid="lenochod26" creationdate="20150726T062339Z">
+        <seg>Krok 8: Přehled.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34926,6 +35342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Searching conditions&lt;/f0&gt; is &lt;f1&gt;Room is greater than 500&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064106Z" creationid="lenochod26" creationdate="20150726T064106Z">
+        <seg>&lt;f0&gt;Vyhledávací podmínky&lt;/f0&gt; je &lt;f1&gt;Místnost je větší než 500&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Sidebar&lt;/f0&gt; has four main sections.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T181134Z" creationid="standa" creationdate="20140407T181134Z">
@@ -34946,6 +35370,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T181819Z" creationid="standa" creationdate="20150628T181819Z">
         <seg>&lt;f0&gt;Panel snímků&lt;/f0&gt; obsahuje náhledy snímků prezentace v pořadí, v jakém se budou zobrazovat (pokud pořadí zobrazování nezměníme).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Sorting order&lt;/f0&gt; is &lt;f1&gt;Room&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T063733Z" creationid="lenochod26" creationdate="20150726T063733Z">
+        <seg>&lt;f0&gt; Pořadí řazení&lt;/f0&gt; je určeno polem &lt;f1&gt;Místnost&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35002,6 +35434,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T203128Z" creationid="standa" creationdate="20150629T203128Z">
         <seg>&lt;f0&gt;Pracovní plocha&lt;/f0&gt; (obvykle se nachází ve středu hlavního okna) má pět karet: &lt;f1&gt;Běžné&lt;/f1&gt;, &lt;f2&gt;Osnova&lt;/f2&gt;, &lt;f3&gt;Poznámky&lt;/f3&gt;, &lt;f4&gt;Podklady&lt;/f4&gt; a &lt;f5&gt;Pořadač snímků&lt;/f5&gt; (obrázek &lt;t6&gt;2&lt;/t6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;fields&lt;/f0&gt; used are &lt;f1&gt;Room, PurchasePrice, &lt;/f1&gt;and&lt;f2&gt; AppraisedValue&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T063634Z" creationid="lenochod26" creationdate="20150726T063634Z">
+        <seg>Použité &lt;f0&gt;pole v dotazu&lt;/f0&gt; jsou &lt;f1&gt;Místnost, NákupníCena,&lt;/f1&gt; a &lt;f2&gt;OdhadovanáCena&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;table&lt;/f0&gt; used is &lt;f1&gt;Household Inventory.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T062933Z" creationid="lenochod26" creationdate="20150726T062933Z">
+        <seg>Použitá &lt;f0&gt;tabulka&lt;/f0&gt; je &lt;f1&gt;Inventář domácnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36526,6 +36974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The fields in your report should match the ones in the figure below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T071854Z" creationid="lenochod26" creationdate="20150726T071854Z">
+        <seg>Pole v sestavě by měly odpovídat obrázku níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file selector dialog asks you to choose one of the standard LibreOffice palettes (files with the file extension&lt;f4&gt; *.soc&lt;/f4&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T155443Z" creationid="standa" creationdate="20140125T155443Z">
@@ -37570,6 +38026,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140126T154859Z" creationid="standa" creationdate="20140126T154859Z">
         <seg>Počáteční bod (kam jsme poprvé klepli tlačítkem myši) poté bude středem obdélníku nebo čtverce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The report suggests using the name of the fields of the query.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072540Z" creationid="lenochod26" creationdate="20150726T072540Z">
+        <seg>Výchozí jsou názvy, které jsou shodné s názvy polí dotazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The report that we will create, is based upon &lt;f0&gt;Query_Household Inventory&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065546Z" creationid="lenochod26" creationdate="20150726T065546Z">
+        <seg>Sestava, kterou vytvoříme, bude založena na dotazu &lt;f0&gt;Dotaz_Inventář domácnosti&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38894,6 +39366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can contain all of the fields of the table or query or just a selected group of fields.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064939Z" creationid="lenochod26" creationdate="20150726T064811Z">
+        <seg>Mohou obsahovat všechna pole tabulky nebo dotazu nebo jen vybrané skupiny polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They include the fill tool, selection lists, and the ability to input information into multiple sheets of the same document.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150630T130744Z" creationid="install" creationdate="20150630T130349Z">
@@ -39998,6 +40478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This report needs to contain any purchases made since the last report was made.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065427Z" creationid="lenochod26" creationdate="20150726T065427Z">
+        <seg>V této sestavě má ​​být uvedeno i zařízení, které bylo zakoupeno po roce 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This requires grouping the values for these two fields by room.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150725T073442Z" creationid="lenochod26" creationdate="20150725T073442Z">
@@ -40914,6 +41402,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T140339Z" creationid="standa" creationdate="20140501T140339Z">
         <seg>Chceme-li nástrojovou lištu zavřít, klepneme na X napravo od názvu lišty nebo zvolíme &lt;f0&gt;Zobrazit &gt; Nástrojové lišty&lt;/f0&gt; v hlavní nabídce a zrušíme zaškrtnutí u lišty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To close the wizard and display the query in a Table Data View dialog, click &lt;f0&gt;Finish&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064259Z" creationid="lenochod26" creationdate="20150726T064259Z">
+        <seg>Kliknutím na &lt;f0&gt;Dokončit&lt;/f0&gt; průvodce ukončíme. Výsledek dotazu se zobrazí v okně Náhled dat tabulky (Table Data View).</seg>
       </tuv>
     </tu>
     <tu>
@@ -43158,6 +43654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Under &lt;f0&gt;Tables or queries, &lt;/f0&gt;a drop-down list contains the tables and queries you have created.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T070753Z" creationid="lenochod26" creationdate="20150726T070753Z">
+        <seg>V rozbalovacím seznamu &lt;f0&gt;Tabulky nebo dotazy&lt;/f0&gt; jsou uvedeny vytvořené tabulky a dotazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under Hyphenation, select or deselect the &lt;f0&gt;Automatically&lt;/f0&gt; option.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T201244Z" creationid="standa" creationdate="20150122T201244Z">
@@ -44702,6 +45206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We added aliases for these fields in the query earlier: AppraisedValue, DatePurchased, and PurchasePrice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T072831Z" creationid="lenochod26" creationdate="20150726T072831Z">
+        <seg>Při vytváření dotazu jsme přiřadili aliasy k polím: OdhadovanáCena, DatumZakoupení a NákupníCena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We also want the information to be sorted using the appraised values of the items.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150725T070154Z" creationid="lenochod26" creationdate="20150725T070154Z">
@@ -44762,6 +45274,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T051442Z" creationid="install" creationdate="20150713T051213Z">
         <seg>Jelikož nejdříve budeme hovořit o hlavním okně až potom o Průvodci tabulkou, tak v našem příkladu tuto volbu nezaškrtneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will look for all items listed in this query.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065609Z" creationid="lenochod26" creationdate="20150726T065609Z">
+        <seg>Vyhledáme vśechny položky, které jsou součástí výstupu tohoto dotazu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45742,6 +46262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you click the &lt;f0&gt;Finish&lt;/f0&gt; button, the query wizard closes and the &lt;f1&gt;Query_Household Inventory-Inventory-LibreOffice Base: Table Data View &lt;/f1&gt;dialog opens with the output for the query.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T064504Z" creationid="lenochod26" creationdate="20150726T064504Z">
+        <seg>Když klikneme na tlačítko &lt;f0&gt;Dokončit&lt;/f0&gt;, průvodce se ukončí a otevře se dialogové okno z názvem &lt;f1&gt;Dotaz_InventářDomácnosti-NázevSouboru-LibreOffice Base: Náhled údajů tabulky&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you close the last document using the X on the Title bar of the window, then LibreOffice will close completely.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T170724Z" creationid="standa" creationdate="20140504T170724Z">
@@ -45922,6 +46450,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T191905Z" creationid="install" creationdate="20150625T135420Z">
         <seg>Pokud přesouváme nebo kopírujeme do jiného nebo nového sešitu, může nastat konflikt se vzorci odkazujícími na jiné listy z původního umístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you purchase or replace an item, this report can tell you whether you even need to contact your agent or not.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150726T065525Z" creationid="lenochod26" creationdate="20150726T065525Z">
+        <seg>Pokud zakoupíme nová nebo jestliže vyměníme staré zařízení, taková dynamická sestava nás může upozornit na to, že je třeba se obrátit na pojišťovnu a aktualizovat pojistku.</seg>
       </tuv>
     </tu>
     <tu>
