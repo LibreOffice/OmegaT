@@ -36822,6 +36822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The data format might be changed as well, and this might require a change in the length of this field.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T132553Z" creationid="install" creationdate="20150727T132553Z">
+        <seg>Změna formátu datum by také mohla vyvolat potřebu upravit šířku tohoto pole v sestavě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data in this list are part of the data contained in the database.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T084807Z" creationid="install" creationdate="20150724T084807Z">
@@ -37650,6 +37658,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T121357Z" creationid="install" creationdate="20150723T121357Z">
         <seg>Odstraňování celého záznamu - řádku - je podobné, jako odstranění řádku z tabulky, a má stejné důsledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The layout did not allow enough room for the word &lt;f2&gt;Refrigerator&lt;/f2&gt;, and the space allowed for the field label &lt;f3&gt;Item&lt;/f3&gt; is wider than it needs to be.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T132346Z" creationid="install" creationdate="20150727T132346Z">
+        <seg>V tomto příkladu položky &lt;f2&gt;Myčka a Chladnička&lt;/f2&gt; nemají dost místa a současně sloupec pole &lt;f3&gt;Předmět&lt;/f3&gt; je zbytečně široký.</seg>
       </tuv>
     </tu>
     <tu>
