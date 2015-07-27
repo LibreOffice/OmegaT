@@ -4494,6 +4494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dynamic report is much more flexible.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125411Z" creationid="install" creationdate="20150727T125411Z">
+        <seg>Dynamická sestava je mnohem flexibilnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A faint vertical line marks where the image will be dropped.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T165142Z" creationid="standa" creationdate="20140313T165142Z">
@@ -4962,6 +4970,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T195117Z" creationid="standa" creationdate="20150326T195117Z">
         <seg>Běžný textový dokument zobrazuje informace. Mezi ně patří například dopis, zpráva nebo brožura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A static report is a Writer document which can be modified like any text document, but any changes in the data in the underlying query will not change the report.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125352Z" creationid="install" creationdate="20150727T125352Z">
+        <seg>Statická zpráva je dokument aplikace Writer, kterou lze upravit jako běžný textový dokument. Změny údajů v databázi se však ve statické sestavě neprojeví.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8098,6 +8114,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T202214Z" creationid="standa" creationdate="20141029T202214Z">
         <seg>sledování změn při úpravách dokumentu,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes in the data of the database will change the report the next time the report is run.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125444Z" creationid="install" creationdate="20150727T125444Z">
+        <seg>Změny dat v databázi se v sestavě projeví po jejím příštím spuštění (otevření).</seg>
       </tuv>
     </tu>
     <tu>
@@ -17834,6 +17858,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140502T142654Z" creationid="standa" creationdate="20140501T165407Z">
         <seg>Například tlačítka pro tučný text se nacházejí na nástrojové liště Formátování a současně v části Vlastnosti postranní lišty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the date format for the Date Purchased can be changed and the Report saved.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125708Z" creationid="install" creationdate="20150727T125708Z">
+        <seg>Například, můžeme změnit formát dat pole DatumZakoupení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36102,6 +36134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Report Builder can also be used to modify the fields of the report.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125608Z" creationid="install" creationdate="20150727T125608Z">
+        <seg>Návrhář sestav můžeme také použít pro úpravu polí sestavy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Scenario Manager provides “what if” analysis.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T183159Z" creationid="standa" creationdate="20140418T183159Z">
@@ -48308,6 +48348,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T194534Z" creationid="standa" creationdate="20150627T194534Z">
         <seg>Můžeme pomocí něj vytvářet snímky, které obsahují mnoho různých prvků, včetně textu, odrážek a číslování, tabulek, grafů, obrázků, kreseb a fotografií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create two types of report: static or dynamic.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125328Z" creationid="install" creationdate="20150727T125328Z">
+        <seg>Můžeme vytvořit dva typy sestavy: statickou nebo dynamickou.</seg>
       </tuv>
     </tu>
     <tu>
