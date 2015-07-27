@@ -12120,8 +12120,16 @@
       <tuv lang="EN">
         <seg>Data and column names can be copied from the data source to the spreadsheet that is open in Calc.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150727T135501Z" creationid="install" creationdate="20150727T135501Z">
-        <seg>Data a text záhlaví sloupců můžeme odsud ze zdroje dat zkopírovat do tabulkového sešitu, kteří je právě otevřený.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150727T135916Z" creationid="install" creationdate="20150727T135501Z">
+        <seg>Data a text záhlaví sloupců můžeme odsud ze zdroje dat zkopírovat do tabulkového sešitu, který je právě otevřený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data can also be copied from the spreadsheet to the data source.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T135944Z" creationid="install" creationdate="20150727T135944Z">
+        <seg>Data můžeme kopírovat i ze sešitu do zdroje dat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44882,6 +44890,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T201120Z" creationid="standa" creationdate="20141012T201120Z">
         <seg>Použije se přitom stejný časový interval jako při ukládání informací pro obnovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;f0&gt;F4&lt;/f0&gt; or &lt;f1&gt;View Data Sources&lt;/f1&gt; in Calc opens the Data window.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T135848Z" creationid="install" creationdate="20150727T135848Z">
+        <seg>Použítím klávesové zkratky &lt;f0&gt;F4&lt;/f0&gt; nebo &lt;f1&gt;Zobrazit &gt; Zdroje dat&lt;/f1&gt; se otevře okno dat v programu Calc.</seg>
       </tuv>
     </tu>
     <tu>
