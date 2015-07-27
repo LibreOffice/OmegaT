@@ -5718,6 +5718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also included are the data sources which Base can access using JDBC (java database connectivity or ODBC (open database connectivity).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T141009Z" creationid="install" creationdate="20150727T141009Z">
+        <seg>Požívat dokáže i zdroje dat, ke kterým dokážeme přistupovat pomocí JDBC (Java database connectivity) nebo ODBC (open database connectivity).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also note the category of the table (Business or Personal).</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T070342Z" creationid="install" creationdate="20150716T070342Z">
@@ -6978,6 +6986,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T133801Z" creationid="install" creationdate="20150727T133801Z">
         <seg>Base můžeme používat samostatně, nebo prostřednictvím dalších programů LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base can be used with a variety of data sources, including Oracle, Groupwise, Evolution (LDAP and Local), KDE Address Book, Thunderbird/Icedove Address Book, Spreadsheet, dBASE, Text, MySQL, and Postgresql.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T140940Z" creationid="install" creationdate="20150727T140940Z">
+        <seg>Base lze použít s mnoha dalšími zdroji dat, včetně Oracle, GroupWise, Evolution (LDAP a lokální), Adresář KDE, Thunderbird/Icedove adresář, Sešit Calc, dBASE, Text, MySQL a PostgreSQL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8410,6 +8426,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140220T211429Z" creationid="standa" creationdate="20140220T211429Z">
         <seg>Kapitola 7 Začínáme s programem Draw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 7 of the &lt;f0&gt;Base Guide&lt;/f0&gt; contains instructions for how to work with these data sources.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T141124Z" creationid="install" creationdate="20150727T141124Z">
+        <seg>Návod o práci s těmito zdroji se nachází v kapitole 7 příručky &lt;f0&gt;Base Guide&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40654,6 +40678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is discussed in Chapter 7, Inserting Spreadsheets, Charts, and Other Objects, in the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T140807Z" creationid="install" creationdate="20150727T140807Z">
+        <seg>Detaily jsou uvedeny v kapitole 7, Inserting Spreadsheets, Charts, and Other Objects, v příručce &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is done using the Area dialog by selecting &lt;f1&gt;Format &gt; Area&lt;/f1&gt; on the main menu bar or clicking the &lt;f2&gt;Area&lt;/f2&gt; icon &lt;df3&gt;&lt;di4/&gt; &lt;/df3&gt; on the Line and Filling toolbar, then selecting the &lt;f5&gt;Colors&lt;/f5&gt; tab &lt;f6&gt;(&lt;/f6&gt;&lt;f7&gt;&lt;f8&gt;&lt;t9&gt;Figure 11&lt;/t9&gt;&lt;/f8&gt;&lt;/f7&gt;&lt;f10&gt;).&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T170656Z" creationid="standa" creationdate="20140414T170656Z">
@@ -45086,6 +45118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Base with other data sources</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T140813Z" creationid="install" creationdate="20150727T140813Z">
+        <seg>Použití programu Base s jinými zdroji dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Draw, you can group or combine objects together allowing you to treat multiple objects as one unit, or to merge objects to form a new shape.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T201827Z" creationid="standa" creationdate="20140218T201544Z">
@@ -48596,6 +48636,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T181345Z" creationid="standa" creationdate="20150628T181213Z">
         <seg>&lt;f0&gt;Panel snímků&lt;/f0&gt; nebo &lt;f1&gt;postranní lištu&lt;/f1&gt; lze zavřít klepnutím na &lt;f2&gt;X&lt;/f2&gt; v pravém horním rohu každého panelu nebo tím, že v hlavní nabídce zrušíme zaškrtnutí u položky &lt;f3&gt;Zobrazit &gt; Panel&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt; snímku&lt;/f6&gt; nebo &lt;f7&gt;Zobrazit &gt; Postranní lišta&lt;/f7&gt; v&lt;f8&gt;&lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can connect Base directly to some of these data sources (text files and spreadsheets) by making only a few selections in the Base Wizard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T141053Z" creationid="install" creationdate="20150727T141053Z">
+        <seg>K některým z těchto zdrojů (textové soubory a tabulkové sešity) Base připojíme prostřednictvím několika nastavení v průvodci Base.</seg>
       </tuv>
     </tu>
     <tu>
