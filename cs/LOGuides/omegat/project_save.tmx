@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(See Chapter 6 for how to use the Report Builder.) So, use the Default choice, &lt;f1&gt;Create report now&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T130157Z" creationid="install" creationdate="20150727T130157Z">
+        <seg>(Více informací o použití Návrháře setavy nalezneme v kapitole 6.) Takže, použijte výchozí volbu, &lt;f1&gt;Vytvořit sestavu nyní&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(See Figure &lt;f1&gt;&lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T084720Z" creationid="install" creationdate="20150716T084720Z">
@@ -9054,6 +9062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Finish.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T130228Z" creationid="install" creationdate="20150727T130228Z">
+        <seg>Klikneme na tlačítko &lt;f0&gt;Dokončit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Finish&lt;/f0&gt; to save the file and close the Web Wizard.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140301T194526Z" creationid="standa" creationdate="20140301T194526Z">
@@ -15338,6 +15354,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T200543Z" creationid="install" creationdate="20150629T082006Z">
         <seg>Obrázek &lt;seq0&gt;20&lt;/seq0&gt;: Okraje označující rozdělení obrazovky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: &lt;f1&gt;Top portion of the report&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T130247Z" creationid="install" creationdate="20150727T130247Z">
+        <seg>Obrázek &lt;seq0&gt;21 &lt;/seq0&gt;: &lt;f1&gt;Horní část sestavy&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23482,6 +23506,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150720T125757Z" creationid="install" creationdate="20150720T125757Z">
         <seg>V tabulkovém sešitu by takové informace o jednotlivci byly uloženy v řádcích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a static report, you would have to change the date format for each place this field appears in the report.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125805Z" creationid="install" creationdate="20150727T125805Z">
+        <seg>V statické sestavě bychom tuto změnu museli udělat ručně na každém místě, kde se datum vyskytuje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33110,6 +33142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting &lt;f0&gt;Modify report layout &lt;/f0&gt;will open the Report Builder so that the report can be edited.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125910Z" creationid="install" creationdate="20150727T125910Z">
+        <seg>Pokud zvolíme &lt;f0&gt;Upravit formát sestavy&lt;/f0&gt;, tak se otevře okno Návrhář sestav, ve kterém můžeme sestavu upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting &lt;f0&gt;None&lt;/f0&gt; leaves the Document view window blank.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T131023Z" creationid="install" creationdate="20150713T131023Z">
@@ -37206,6 +37246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The final selection involves what should happen next.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125819Z" creationid="install" creationdate="20150727T125819Z">
+        <seg>Poslední volba souvisí s tím, co má následovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first box in the panel corresponds to invisible (no color).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T154622Z" creationid="standa" creationdate="20140125T154622Z">
@@ -37986,6 +38034,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140113T202126Z" creationid="standa" creationdate="20140113T202126Z">
         <seg>Až budeme příště vytvářet dokument volbou &lt;f0&gt;Soubor &gt; Nový,&lt;/f0&gt; dokument se vytvoří z této šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next time the Report is run, the data in this field will have the changed format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125735Z" creationid="install" creationdate="20150727T125735Z">
+        <seg>Když sestavu po úpravě otevřeme, datum v tomto poli bude mít jiný formát.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40346,6 +40402,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T131137Z" creationid="install" creationdate="20150716T131137Z">
         <seg>Uděláme tak proto, že toto pole použijeme jako primární klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is beyond the scope of this chapter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T125920Z" creationid="install" creationdate="20150727T125920Z">
+        <seg>Toto téma však přesahuje rozsah této kapitoly.</seg>
       </tuv>
     </tu>
     <tu>
