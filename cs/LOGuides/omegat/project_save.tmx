@@ -6958,6 +6958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Base and Impress are not directly used together, but they can be used together in an indirect way.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T140504Z" creationid="install" creationdate="20150727T140504Z">
+        <seg>V programu Impress nelze Base používat přímo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Base can also be used to connect to other databases.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T113458Z" creationid="install" creationdate="20150710T113321Z">
@@ -7026,6 +7034,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T134417Z" creationid="install" creationdate="20150727T134417Z">
         <seg>Base se dokáže spojit s více typy adresářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Base will open this file format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T140433Z" creationid="install" creationdate="20150727T140433Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -7770,6 +7786,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140306T171526Z" creationid="standa" creationdate="20140306T171526Z">
         <seg>Sešity programu Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc spreadsheets can be inserted into slides.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T140514Z" creationid="install" creationdate="20150727T140514Z">
+        <seg>Do snímků prezentace lze vkládat tabulky aplikace Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34110,6 +34134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So when you want to use data from a database in a slide, you first copy the data into a spreadsheet and then insert this spreadsheet into the slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150727T140551Z" creationid="install" creationdate="20150727T140551Z">
+        <seg>Pokud tedy chceme v prezentaci použít údaje z databáze, nejdříve je musíme přenést do tabulkového listu, který pak vložíme do snímku prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, a flat database consists of a &lt;f0&gt;table&lt;/f0&gt; whose columns are called &lt;f1&gt;fields&lt;/f1&gt; and whose rows are called &lt;f2&gt;records&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T122201Z" creationid="install" creationdate="20150710T122201Z">
@@ -40728,8 +40760,8 @@
       <tuv lang="EN">
         <seg>This is the file format used by dBase.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150727T140346Z" creationid="install" creationdate="20150727T140346Z">
-        <seg>Je to formát, který používá program Base.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150727T140414Z" creationid="install" creationdate="20150727T140346Z">
+        <seg>Je to formát, který používá i program Base.</seg>
       </tuv>
     </tu>
     <tu>
