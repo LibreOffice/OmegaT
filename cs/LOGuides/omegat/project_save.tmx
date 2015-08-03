@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cut&lt;/f0&gt; – removes the selected slide and saves it to the clipboard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202331Z" creationid="standa" creationdate="20150803T202306Z">
+        <seg>&lt;f0&gt;Vyjmout&lt;/f0&gt; – odstraní vybraný snímek a vloží jej do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data&lt;/f0&gt; – contains commands for manipulating data in your spreadsheet; for example &lt;f1&gt;Define&lt;/f1&gt; &lt;f2&gt;Range&lt;/f2&gt;, &lt;f3&gt;Sort&lt;/f3&gt;, &lt;f4&gt;Consolidate&lt;/f4&gt; and so on.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T185558Z" creationid="standa" creationdate="20150502T185558Z">
@@ -2066,6 +2074,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T095830Z" creationid="standa" creationdate="20140309T095830Z">
         <seg>&lt;f0&gt;Smazat vybraný návrh&lt;/f0&gt; smaže vybraný návrh ze seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Delete Slide&lt;/f0&gt; – deletes the selected slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202653Z" creationid="standa" creationdate="20150803T201921Z">
+        <seg>&lt;f0&gt;Smazat snímek&lt;/f0&gt; – smaže vybraný snímek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2178,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T191829Z" creationid="standa" creationdate="20140116T191829Z">
         <seg>&lt;f0&gt;Draw&lt;/f0&gt; je program pro vytváření a úpravu &lt;is1/&gt;vektorové grafiky&lt;ie2/&gt;, ačkoliv může být použit také k provádění určitých operací na rastrové grafice (bodové).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Duplicate Slide&lt;/f0&gt; – creates a duplicate of the selected slide and places the new slide immediately after the selected slide (see “&lt;f1&gt;&lt;bf2&gt;Duplicate slide&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;17&lt;/bf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201910Z" creationid="standa" creationdate="20150803T201910Z">
+        <seg>&lt;f0&gt;Duplikovat snímek&lt;/f0&gt; – vytvoří kopii vybraného snímku a umístí ji hned za vybraný snímek (viz „&lt;f1&gt;&lt;bf2&gt;Duplikovat snímek&lt;/bf2&gt;&lt;/f1&gt;“ na stránce &lt;f3&gt;&lt;bf4&gt;17&lt;/bf4&gt;&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide Slide&lt;/f0&gt; – any slides that are hidden are not shown in the slide show.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202322Z" creationid="standa" creationdate="20150803T202251Z">
+        <seg>&lt;f0&gt; Skrýt snímek&lt;/f0&gt; – skryté snímky se během prezentace nezobrazují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hide&lt;/f0&gt; – the data in the column are not imported.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T124635Z" creationid="install" creationdate="20150618T124635Z">
@@ -2934,6 +2966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;New Slide&lt;/f0&gt; – adds a new slide after the selected slide (see “&lt;f1&gt;&lt;bf2&gt;New slide&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;16&lt;/bf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201808Z" creationid="standa" creationdate="20150803T201808Z">
+        <seg>&lt;f0&gt;Nový snímek&lt;/f0&gt; – přidá nový snímek za vybraný snímek (viz „&lt;f1&gt;&lt;bf2&gt;Nový snímek&lt;/bf2&gt;&lt;/f1&gt;“ na stránce &lt;f3&gt;&lt;bf4&gt;16&lt;/bf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;New design&lt;/f0&gt; – creates a new design in the next pages of the Wizard.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T095635Z" creationid="standa" creationdate="20140309T095635Z">
@@ -3126,6 +3166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Paste&lt;/f0&gt; – inserts a slide from the clipboard after the selected slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202646Z" creationid="standa" creationdate="20150803T202646Z">
+        <seg>&lt;f0&gt;Paste&lt;/f0&gt; – inserts a slide from the clipboard after the selected slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Presentation styles&lt;/f0&gt; include attributes for font, indents, spacing, alignment, and tabs.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T220933Z" creationid="standa" creationdate="20140105T220933Z">
@@ -3178,6 +3226,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T122637Z" creationid="install" creationdate="20150723T122637Z">
         <seg>&lt;f0&gt;Číslo záznamu&lt;/f0&gt;: Ve formuláři jsou záznamy číslovány od horního řádku směrem dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Rename Slide&lt;/f0&gt; – allows you to rename the selected slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202313Z" creationid="standa" creationdate="20150803T202006Z">
+        <seg>&lt;f0&gt; Přejmenovat snímek&lt;/f0&gt; – umožňuje přejmenovat vybraný snímek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,10 +3446,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide Layout&lt;/f0&gt; – allows you to change the layout of the selected slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202317Z" creationid="standa" creationdate="20150803T202054Z">
+        <seg>&lt;f0&gt; Rozvržení snímku&lt;/f0&gt; – umožňuje změnit rozvržení vybraného snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Slide Sorter&lt;/f0&gt; view (&lt;t1&gt;Figure 9&lt;/t1&gt;) contains all of the slide thumbnails.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150803T195251Z" creationid="standa" creationdate="20150803T195251Z">
         <seg>Zobrazení &lt;f0&gt;Pořadač snímků&lt;/f0&gt; (obrázek &lt;t1&gt;9&lt;/t1&gt;) obsahuje náhledy všech snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide Transition&lt;/f0&gt; – allows you to change the transition of the selected slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202119Z" creationid="standa" creationdate="20150803T202119Z">
+        <seg>&lt;f0&gt;Přechod snímku&lt;/f0&gt; – umožňuje změnit přechod vybraného snímku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11718,6 +11790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy – copies the selected slide to the clipboard without removing it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202410Z" creationid="standa" creationdate="20150803T202410Z">
+        <seg>Kopírovat – zkopíruje vybraný snímek do schránky bez odstranění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copying a graphic object from the Gallery into a document (the Hide/Show button for the Gallery &lt;f1&gt;is indicated by the ellipse&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140314T170816Z" creationid="standa" creationdate="20140314T170816Z">
@@ -13370,6 +13450,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T164736Z" creationid="standa" creationdate="20140313T164736Z">
         <seg>Přetažení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag and drop the group to their new location.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201609Z" creationid="standa" creationdate="20150803T201609Z">
+        <seg>Přetáhneme skupinu na nové místo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18822,6 +18910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more than one slide, select a group of slides and add the desired transition.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202230Z" creationid="standa" creationdate="20150803T202230Z">
+        <seg>Chceme-li upravit více než jeden snímek, vybereme skupinu snímků a přidáme požadovaný přechod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more uses of the Navigator in Writer, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T184944Z" creationid="standa" creationdate="20141226T184944Z">
@@ -18834,6 +18930,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140210T200833Z" creationid="standa" creationdate="20140210T200833Z">
         <seg>Objekty, které nejsou vyplněné, vybereme tím, že klepneme na jejich obrys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For one slide, select a slide and add the desired transition.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T202210Z" creationid="standa" creationdate="20150803T202210Z">
+        <seg>Chceme-li upravit jeden snímek, vybereme jej a přidáme požadovaný přechod.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20594,6 +20698,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150624T112701Z" creationid="install" creationdate="20150624T112701Z">
         <seg>Podržíme klávesu &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hold down the left mouse button and drag the cursor until all of the slides you want selected are highlighted.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201542Z" creationid="standa" creationdate="20150803T201542Z">
+        <seg>Podržíme levé tlačítko myši a táhneme ukazatelem myši, dokud nejsou vybrány všechny požadované snímky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32558,6 +32670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a group of slides.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201600Z" creationid="standa" creationdate="20150803T201600Z">
+        <seg>Vybereme skupinu snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a line and click on the &lt;f0&gt;Arrow Style&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt; &lt;/df1&gt; from the Line and Filling toolbar to open the &lt;f3&gt;Arrowheads&lt;/f3&gt; menu (&lt;t4&gt;Figure 38&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140217T165943Z" creationid="standa" creationdate="20140217T165943Z">
@@ -43038,6 +43158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make changes, right-click a slide and choose any of the following from the context menu:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201714Z" creationid="standa" creationdate="20150803T201714Z">
+        <seg>Chceme-li provést změny, klepneme pravým tlačítkem na snímek a zvolíme některou z následujících položek místní nabídky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make changes, select an item in the list shown in &lt;t0&gt;Figure 7&lt;/t0&gt; and click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141006T180435Z" creationid="standa" creationdate="20141006T180435Z">
@@ -43098,6 +43226,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T145552Z" creationid="standa" creationdate="20140501T145552Z">
         <seg>Chceme-li přesunout plovoucí nástrojovou lištu, klepneme na lištu s jejím názvem a přesuneme ji na nové místo, nebo ji ukotvíme v hlavním okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To move a group of slides:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201553Z" creationid="standa" creationdate="20150803T201553Z">
+        <seg>Chceme-li přesunout skupinu snímků:</seg>
       </tuv>
     </tu>
     <tu>
@@ -45864,8 +46000,8 @@
       <tuv lang="EN">
         <seg>Using the mouse – click slightly to one side (left or right) of the first slide to be selected.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150803T201402Z" creationid="standa" creationdate="20150803T201402Z">
-        <seg>Using the mouse – click slightly to one side (left or right) of the first slide to be selected.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201506Z" creationid="standa" creationdate="20150803T201402Z">
+        <seg>Pomocí myši – klepneme vedle (vpravo nebo vlevo) prvního snímku, který chceme vybrat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47828,6 +47964,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T191805Z" creationid="standa" creationdate="20140417T191805Z">
         <seg>Práce &lt;i0/&gt;&lt;i1/&gt;s 3D objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working in Slide Sorter view</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201619Z" creationid="standa" creationdate="20150803T201619Z">
+        <seg>Práce v zobrazení Pořadač snímků</seg>
       </tuv>
     </tu>
     <tu>
@@ -50052,6 +50196,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T202610Z" creationid="install" creationdate="20150624T053013Z">
         <seg>Výběr můžeme ověřit v poli názvu na liště vzorců (&lt;f0&gt;&lt;t1&gt;obrázek 2&lt;/t1&gt;&lt;/f0&gt; na stránce &lt;f2&gt;&lt;t3&gt;7&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can work with slides in the Slide Sorter view just as you can in the Slide pane.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150803T201645Z" creationid="standa" creationdate="20150803T201645Z">
+        <seg>V zobrazení Pořadač snímků můžeme se snímky pracovat stejně jako na panelu snímků.</seg>
       </tuv>
     </tu>
     <tu>
