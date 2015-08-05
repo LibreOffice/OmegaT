@@ -2246,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Empty presentation&lt;/f0&gt; creates a blank presentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212151Z" creationid="standa" creationdate="20150805T212151Z">
+        <seg>&lt;f0&gt; Prázdná prezentace&lt;/f0&gt; vytvoří prázdnou prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Empty presentation&lt;/f0&gt; gives you a blank document</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T180143Z" creationid="standa" creationdate="20150628T180143Z">
@@ -2474,6 +2482,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T180205Z" creationid="standa" creationdate="20150628T180205Z">
         <seg>&lt;f0&gt; Ze šablony&lt;/f0&gt; vytvoří prezentaci na základě vybrané šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;From template&lt;/f0&gt; uses a template design already created as the basis for a new presentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212237Z" creationid="standa" creationdate="20150805T212237Z">
+        <seg>&lt;f0&gt;Ze šablony&lt;/f0&gt; použije jako základ pro novou prezentaci již vytvořenou šablonu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,6 +3098,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T051146Z" creationid="install" creationdate="20150723T051146Z">
         <seg>&lt;f0&gt;NEBO&lt;/f0&gt;, pokud chceme přesunout jen některé pole, klikneme na požadované pole, a pak jej přesuneme kliknutím na jednoduchou šipku vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Open existing presentation&lt;/f0&gt; continues work on a previously created presentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212402Z" creationid="standa" creationdate="20150805T212402Z">
+        <seg>&lt;f0&gt;Otevřít existující prezentaci&lt;/f0&gt; umožňuje pokračovat v práci na již vytvořené prezentaci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4258,6 +4282,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141023T193652Z" creationid="standa" creationdate="20141023T193652Z">
         <seg>&lt;t1/&gt;Tento formát má oproti Postscriptu řadu výhod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t1&gt;Figure 12&lt;/t1&gt; shows the &lt;f2&gt;Presentation&lt;/f2&gt; Wizard step 2 as it appears if you selected Empty Presentation at step 1.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212603Z" creationid="standa" creationdate="20150805T212603Z">
+        <seg>Obrázek &lt;t1&gt;12&lt;/t1&gt; zobrazuje druhý krok Průvodce prezentací poté, co jsme v prvním kroku vybrali prázdnou prezentaci.&lt;f2&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9006,6 +9038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose a design under &lt;f0&gt;Select a slide design&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212834Z" creationid="standa" creationdate="20150805T212834Z">
+        <seg>Zvolíme vzhled snímku v části &lt;f0&gt;Vyberte návrh snímku&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose any properties, as required.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T190948Z" creationid="standa" creationdate="20140317T190948Z">
@@ -9046,10 +9086,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the presentation you want.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212429Z" creationid="standa" creationdate="20150805T212429Z">
+        <seg>Zvolíme požadovanou prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose the required page &lt;f0&gt;Style&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T211132Z" creationid="standa" creationdate="20150209T211132Z">
         <seg>Zvolíme požadovaný &lt;f0&gt;Styl&lt;/f0&gt; stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose the template you want.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212329Z" creationid="standa" creationdate="20150805T212329Z">
+        <seg>V seznamu zvolíme požadovanou šablonu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9480,8 +9536,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150724T120113Z" creationid="install" creationdate="20150723T051205Z">
-        <seg>Klikneme na tlačítko &lt;f0&gt;Další&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20150805T213122Z" creationid="install" creationdate="20150723T051205Z">
+        <seg>Klepneme na tlačítko &lt;f0&gt;Další&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14150,6 +14206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each one has a list of choices for slide designs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T213040Z" creationid="standa" creationdate="20150805T213040Z">
+        <seg>Každý obsahuje možnosti vzhledu snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each row contains data that describes a specific entity or individual.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T121441Z" creationid="install" creationdate="20150710T121441Z">
@@ -15046,6 +15110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Choosing the type of presentation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212706Z" creationid="standa" creationdate="20150805T212706Z">
+        <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;: Volba typu prezentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Creating a new folder</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T170206Z" creationid="standa" creationdate="20140407T170206Z">
@@ -15146,6 +15218,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150623T132006Z" creationid="lenochod26" creationdate="20150621T210234Z">
         <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Klepnutí pravým tlačítkem myši na některé z tlačítek šipky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Selecting a slide design</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212755Z" creationid="standa" creationdate="20150805T212755Z">
+        <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Výběr návrhu snímku</seg>
       </tuv>
     </tu>
     <tu>
@@ -23198,6 +23278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you selected &lt;f3&gt;From template&lt;/f3&gt;, an example slide is shown in the Preview box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212652Z" creationid="standa" creationdate="20150805T212652Z">
+        <seg>Pokud vybereme &lt;f3&gt;Ze šablony&lt;/f3&gt;, v poli náhledu se zobrazí ukázka snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you specify a high resolution, then a viewer with a medium-resolution monitor will have to scroll sideways to see the entire slide, which is probably not desirable.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T105004Z" creationid="standa" creationdate="20140309T105004Z">
@@ -23394,6 +23482,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T205255Z" creationid="standa" creationdate="20150326T205255Z">
         <seg>Pokud chceme v LibreOffice používat makra vytvořená v jazyce VBA v programu Microsoft Excel, musíme nejprve v editoru LibreOffice Basic IDE upravit jejich kód.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use one of these other than &lt;Original&gt;, click it to select it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T213117Z" creationid="standa" creationdate="20150805T213117Z">
+        <seg>Chceme-li použít jiný návrh než ten, který je označen slovem &lt;Původní&gt;, vybereme jej klepnutím.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39366,6 +39462,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The slide design section gives you two main choices: &lt;f1&gt;Presentation Backgrounds&lt;/f1&gt; and &lt;f2&gt;Presentations&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T213006Z" creationid="standa" creationdate="20150805T213006Z">
+        <seg>V této části můžeme vybírat ve dvou seznamech: &lt;f1&gt;Pozadí prezentace&lt;/f1&gt; a &lt;f2&gt;Prezentace&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The small arrowheads on the ruler (the gray triangles) are used for indenting paragraphs.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T212013Z" creationid="standa" creationdate="20150209T212013Z">
@@ -39702,6 +39806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The types of Presentation Backgrounds are shown in &lt;t0&gt;Figure 12&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T213141Z" creationid="standa" creationdate="20150805T213141Z">
+        <seg>Typy pozadí prezentace jsou zobrazeny na obrázku &lt;t0&gt;12&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The units of measurement are those selected in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; General&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T165941Z" creationid="standa" creationdate="20140216T165941Z">
@@ -39770,6 +39882,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T131547Z" creationid="install" creationdate="20150710T131547Z">
         <seg>Průvodce také obsahuje seznam polí pro každou z ukázkových tabulek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The wizard changes to show a list of available templates.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212308Z" creationid="standa" creationdate="20150805T212308Z">
+        <seg>Průvodce se změní a zobrazí se v něm seznam dostupných šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The wizard changes to show a list of existing presentations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212424Z" creationid="standa" creationdate="20150805T212424Z">
+        <seg>Průvodce se změní a zobrazí se v něm seznam existujících prezentaci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40330,6 +40458,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T195852Z" creationid="standa" creationdate="20140131T195852Z">
         <seg>Tyto možnosti jsou dostupné po klepnutí pravým tlačítkem na vlastní textový rámec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These options are covered in the I&lt;f1&gt;mpress Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212128Z" creationid="standa" creationdate="20150805T212128Z">
+        <seg>Podrobně jsou popsány v příručce &lt;f1&gt;Impress Guide&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44910,6 +45046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Under &lt;f0&gt;Type&lt;/f0&gt;, choose one of the options.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212111Z" creationid="standa" creationdate="20150805T212111Z">
+        <seg>V části &lt;f0&gt;Typ&lt;/f0&gt; zvolíme jednu z možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Under Hyphenation, select or deselect the &lt;f0&gt;Automatically&lt;/f0&gt; option.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T201244Z" creationid="standa" creationdate="20150122T201244Z">
@@ -47854,6 +47998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you select a presentation background, you will see a preview of the slide design in the Preview window.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T213604Z" creationid="standa" creationdate="20150805T213358Z">
+        <seg>Jakmile pozadí prezentace vybereme, zobrazí se v okně Náhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you select a series fill from &lt;f0&gt;Edit &gt; Fill &gt; Series&lt;/f0&gt;, the &lt;f1&gt;Fill Series&lt;/f1&gt; dialog (&lt;t2&gt;Figure 26&lt;/t2&gt;) opens.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T161958Z" creationid="install" creationdate="20150701T090637Z">
@@ -47898,6 +48050,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T180130Z" creationid="standa" creationdate="20150628T180130Z">
         <seg>Když Impress spustíme poprvé, zobrazí se Průvodce prezentací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you start Impress, &lt;i0/&gt;the &lt;i1/&gt;Presentation Wizard appears (&lt;t2&gt;Figure 11&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150805T212024Z" creationid="standa" creationdate="20150805T212024Z">
+        <seg>Když spustíme Impress, &lt;i0/&gt;zobrazí se &lt;i1/&gt;Průvodce prezentací (obrázek &lt;t2&gt;11&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
