@@ -16616,8 +16616,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: &lt;f1&gt;Selecting the multiplication symbol&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="lenochod26" changedate="20150815T133358Z" creationid="lenochod26" creationdate="20150815T133358Z">
-        <seg>Obrázek &lt;seq0&gt;3 &lt;/seq0&gt;: Výběr symbolu násobení</seg>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150815T142433Z" creationid="lenochod26" creationdate="20150815T133358Z">
+        <seg>Obrázek &lt;seq0&gt;3 &lt;/seq0&gt;: &lt;f1&gt;Výběr symbolu násobení&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16914,6 +16914,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T214351Z" creationid="standa" creationdate="20150702T214351Z">
         <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Zobrazení osnovy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Result of selecting the multiplication symbol</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150815T142254Z" creationid="lenochod26" creationdate="20150815T142254Z">
+        <seg>Obrázek &lt;seq0&gt;4 &lt;/seq0&gt;: Výsledek výběru symbolu násobení</seg>
       </tuv>
     </tu>
     <tu>
@@ -36462,6 +36470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;&lt;?&gt;&lt;/f0&gt; symbols shown in &lt;t1&gt;Figure 4&lt;/t1&gt; are placeholders that you can replace by other text, for example &lt;f2&gt;5&lt;/f2&gt; and &lt;f3&gt;4&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150815T142344Z" creationid="lenochod26" creationdate="20150815T142344Z">
+        <seg>Symboly &lt;f0&gt;&lt;?&gt;&lt;/f0&gt;, zobrazené na obrázku &lt;t1&gt;5&lt;/t1&gt; jsou zástupné znaky, které můžeme nahradit jiným textem, například čísly &lt;f2&gt;5&lt;/f2&gt; a &lt;f3&gt;4&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Base Guide&lt;/f0&gt; discusses the rest of the tasks, their principles, and an example of their uses.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T110358Z" creationid="install" creationdate="20150713T110358Z">
@@ -37598,6 +37614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The body of the document shows a gray box like this:&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150815T142244Z" creationid="lenochod26" creationdate="20150815T142207Z">
+        <seg>V těle dokumentu se zobrazí šedé pole, zhruba takové: &lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;vzorec&lt;/s3&gt; &lt;/df0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The border of the control labels could be changed then as well if you so desire.)</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T084218Z" creationid="install" creationdate="20150723T084218Z">
@@ -38214,10 +38238,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The equation editor shows the markup:&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150815T142106Z" creationid="lenochod26" creationdate="20150815T142106Z">
+        <seg>Editor vzorců zobrazí značkování: &lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;vzorec&lt;/s3&gt; &lt;/df0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The equation editor uses a markup language to represent formulas.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150813T135146Z" creationid="install" creationdate="20150813T135146Z">
         <seg>Editor vzorců používá k reprezentaci vzorců značkovací jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The equation will update automatically, as shown in &lt;t4&gt;Figure 5&lt;/t4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150815T142403Z" creationid="lenochod26" creationdate="20150815T142403Z">
+        <seg>Vzorec se přitom bude automaticky aktualizovat, jak je zobrazeno na obrázku &lt;t4&gt;5&lt;/t4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48354,6 +48394,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T180917Z" creationid="standa" creationdate="20140216T180917Z">
         <seg>Kdykoliv vybereme text, nástrojová lišta Čára a výplň se automaticky změní na nástrojovou lištu &lt;f0&gt;Formátování textu&lt;/f0&gt; (&lt;f1&gt;&lt;t2&gt;obrázek 35&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select the multiplication symbol, two things happen:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150815T141645Z" creationid="lenochod26" creationdate="20150815T141645Z">
+        <seg>Poté, co vybereme symbol násobení, se stanou dvě věci:</seg>
       </tuv>
     </tu>
     <tu>
