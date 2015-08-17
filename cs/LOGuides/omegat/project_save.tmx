@@ -6,6 +6,38 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>%ALPHA</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111254Z" creationid="install" creationdate="20150817T111254Z">
+        <seg>%ALPHA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%BETA</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111247Z" creationid="install" creationdate="20150817T111247Z">
+        <seg>%BETA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%alpha</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111251Z" creationid="install" creationdate="20150817T111251Z">
+        <seg>%alpha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%beta</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111243Z" creationid="install" creationdate="20150817T111243Z">
+        <seg>%beta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(&lt;/f1&gt;&lt;f2&gt;Correct&lt;/f2&gt;)</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150726T063002Z" creationid="lenochod26" creationdate="20150726T062952Z">
@@ -1386,6 +1418,30 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T192307Z" creationid="standa" creationdate="20150622T192307Z">
         <seg>&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;%iALPHA&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111237Z" creationid="install" creationdate="20150817T111237Z">
+        <seg>&lt;f0&gt;%iALPHA&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;vzorec&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;%ialpha&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111230Z" creationid="install" creationdate="20150817T111230Z">
+        <seg>&lt;f0&gt;%ialpha&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;vzorec&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;%ibeta &lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111309Z" creationid="install" creationdate="20150817T111309Z">
+        <seg>&lt;f0&gt;%ibeta &lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;vzorec&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26214,6 +26270,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Italic lowercase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111146Z" creationid="install" creationdate="20150817T111146Z">
+        <seg>Malá písmena, kurzíva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Italic uppercase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111150Z" creationid="install" creationdate="20150817T111150Z">
+        <seg>Velká písmena, kurzíva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T072446Z" creationid="install" creationdate="20150720T125935Z">
@@ -27114,6 +27186,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T103956Z" creationid="standa" creationdate="20140315T103956Z">
         <seg>Umístění galerie a jejích objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lowercase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111139Z" creationid="install" creationdate="20150817T111139Z">
+        <seg>Malá písmena</seg>
       </tuv>
     </tu>
     <tu>
@@ -32882,6 +32962,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T185756Z" creationid="standa" creationdate="20140425T185756Z">
         <seg>Popis těchto podrobností se nachází v této příručce v kapitolách pojednávajících o programech Writer, Calc, Draw a Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the table below for some examples.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111135Z" creationid="install" creationdate="20150817T111135Z">
+        <seg>Několik příkladů je uvedeno v následující tabulce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45826,6 +45914,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T221859Z" creationid="standa" creationdate="20140103T221859Z">
         <seg>Aktualizace stylů z dokumentu nebo šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uppercase</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150817T111142Z" creationid="install" creationdate="20150817T111142Z">
+        <seg>Velká písmena</seg>
       </tuv>
     </tu>
     <tu>
