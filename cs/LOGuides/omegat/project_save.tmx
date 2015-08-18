@@ -12094,6 +12094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Combine this with either the letter &lt;f1&gt;d&lt;/f1&gt; (for a total derivative) or the &lt;f2&gt;partial&lt;/f2&gt; command (for a partial derivative) to achieve the effect of a derivative.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083121Z" creationid="install" creationdate="20150818T083121Z">
+        <seg>Abychom získali výraz pro derivaci, zkombinujeme ho buď s písmenem &lt;f1&gt;d&lt;/f1&gt; (pro úplnou derivaci), nebo s příkazem &lt;f2&gt;partial&lt;/f2&gt; (pro parciální derivaci).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Combining multiple objects</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140218T201551Z" creationid="standa" creationdate="20140116T191222Z">
@@ -25310,6 +25318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, you have to use the &lt;f0&gt;over&lt;/f0&gt; command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083033Z" creationid="install" creationdate="20150818T083033Z">
+        <seg>Jinými slovy, použijeme příkaz &lt;f0&gt;over&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In step 3, you delete the data that you no longer want.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T081427Z" creationid="install" creationdate="20150721T081427Z">
@@ -29570,6 +29586,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T051544Z" creationid="install" creationdate="20150723T051544Z">
         <seg>Všimněme si, že rozbalovací seznam, který jsme použili na výběr tabulky Inventář domácnosti, má název &lt;f0&gt;Tabulky nebo dotazy&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notice that we have to use braces (squiggly brackets) to make the derivative.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083209Z" creationid="install" creationdate="20150818T083209Z">
+        <seg>Všimněme si, že pro vytvoření derivace musíme použít závorky (složené závorky).</seg>
       </tuv>
     </tu>
     <tu>
@@ -46254,6 +46278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To write function names with primes, as is usual in school notation, you must first add the signs to the catalog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083243Z" creationid="install" creationdate="20150818T083243Z">
+        <seg>Pokud chceme derivaci napsat pouze pomocí názvu funkce s čárkou, tak jak je to obvyklé ve školním zápisu, musíme nejprve jejich značky přidat do katalogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To write in italic, just add an &lt;f0&gt;i&lt;/f0&gt; between &lt;f1&gt;the&lt;/f1&gt; &lt;f2&gt;%&lt;/f2&gt; sign and the name of the character.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T115213Z" creationid="install" creationdate="20150817T110830Z">
@@ -47778,6 +47810,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150708T075128Z" creationid="install" creationdate="20150708T075128Z">
         <seg>Použití seznamů výběru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using single and double quotes is typographically ugly.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083305Z" creationid="install" creationdate="20150818T083305Z">
+        <seg>Použití jednoduchých a dvojitých uvozovek pro tento účel vede k typograficky nevhodnému výsledku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50420,6 +50460,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T214936Z" creationid="standa" creationdate="20150209T214936Z">
         <seg>Program Writer umožňuje automaticky vytvářet &lt;i0/&gt;obsah z nadpisů v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writing derivatives essentially comes down to one trick: &lt;f0&gt;Tell LibreOffice it’s a fraction&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083018Z" creationid="install" creationdate="20150818T083018Z">
+        <seg>Psaní derivací je založeno na triku, který spočívá v tom, že &lt;f0&gt;programu LibreOffice řekneme, že je to jen zlomek&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56164,6 +56212,30 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141219T190505Z" creationid="standa" creationdate="20141219T190505Z">
         <seg>přiblížení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{df} over {dx}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083127Z" creationid="install" creationdate="20150818T083127Z">
+        <seg>{df} over {dx}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{partial f} over {partial y}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083132Z" creationid="install" creationdate="20150818T083132Z">
+        <seg>{partial f} over {partial y}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{partial^2 f} over {partial t^2}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083135Z" creationid="install" creationdate="20150818T083135Z">
+        <seg>{partial^2 f} over {partial t^2}</seg>
       </tuv>
     </tu>
     <tu>
