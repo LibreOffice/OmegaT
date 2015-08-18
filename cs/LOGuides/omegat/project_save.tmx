@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Additionally&lt;/f0&gt;, spacing between elements in formulas are not set by space characters in the code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081843Z" creationid="install" creationdate="20150818T081843Z">
+        <seg>&lt;f0&gt;Podobně&lt;/f0&gt; ani vzdálenosti mezi prvky ve vzorcích nejsou určeny znaky mezera, vloženými v kódu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Address:&lt;/f0&gt; the address pointed to by the hyperlink.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T134811Z" creationid="standa" creationdate="20140315T134811Z">
@@ -12302,6 +12310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continuing the calculation on a new line without writing a complete new equation is not directly possible, because Math expects a term on the left hand side of an equals sign.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081632Z" creationid="install" creationdate="20150818T081632Z">
+        <seg>V případě rovnice, která má pokračovat na novém řádku, je zvykem, že znaménko = na pokračujícím řádku zopakujeme. To však není přímo možné, protože Math na levé straně znaménka = vždy očekává výraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributors</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T211256Z" creationid="standa" creationdate="20140103T211256Z">
@@ -14970,6 +14986,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T202049Z" creationid="standa" creationdate="20141029T202049Z">
         <seg>obrázky, sešity a další objekty vložené přímo nebo jako odkaz,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty braces &lt;f0&gt;{ }&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081706Z" creationid="install" creationdate="20150818T081706Z">
+        <seg>Prázdné závorky &lt;f0&gt;{}&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Empty quotes &lt;f0&gt;""&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081652Z" creationid="install" creationdate="20150818T081652Z">
+        <seg>Prázdné uvozovky &lt;f0&gt;„“&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36230,6 +36262,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spaces characters &lt;f0&gt;`&lt;/f0&gt; or &lt;f1&gt;~&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081727Z" creationid="install" creationdate="20150818T081727Z">
+        <seg>Znaky &lt;f0&gt;`&lt;/f0&gt; nebo &lt;f1&gt;~&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spacing options for paragraphs before text tables</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T195437Z" creationid="standa" creationdate="20141012T195437Z">
@@ -38398,6 +38438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alignment of equals signs under each other is described on page &lt;f0&gt;&lt;bf1&gt;17&lt;/bf1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081805Z" creationid="install" creationdate="20150818T081805Z">
+        <seg>Zarovnání znamének = pod sebou je popsáno na straně &lt;f0&gt;&lt;bf1&gt;18&lt;/bf1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The anchor point of the comment is connected by a dotted line to a box on the right-hand side of the page where you can type the text of the comment.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T213353Z" creationid="standa" creationdate="20150209T213353Z">
@@ -39430,6 +39478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following line will then be centered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081718Z" creationid="install" creationdate="20150818T081718Z">
+        <seg>Následující řádek pak bude centrovaný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following methods open the &lt;f5&gt;Insert Sheet&lt;/f5&gt; dialog (&lt;f6&gt;&lt;t7&gt;Figure 16&lt;/t7&gt;&lt;/f6&gt;) where you can position the new sheet, create more than one sheet, name the new sheet, or select a sheet from a file.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T190123Z" creationid="install" creationdate="20150625T084649Z">
@@ -39778,6 +39834,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T180124Z" creationid="standa" creationdate="20150122T180124Z">
         <seg>Vytvořená čára je dolním ohraničením předchozího odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The line will be centered with the spaces.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081735Z" creationid="install" creationdate="20150818T081735Z">
+        <seg>Řádek bude vycentrován s mezerami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43370,6 +43434,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T154503Z" creationid="standa" creationdate="20140125T154503Z">
         <seg>Tato nástrojová lišta umožňuje rychle zvolit barvu různých objektů (čar, oblastí a 3D efektů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will automatically cause the line to be left-justified.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081659Z" creationid="install" creationdate="20150818T081659Z">
+        <seg>Tím se automaticky zajistí zarovnání řádku vlevo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52080,6 +52152,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can substitute:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081639Z" creationid="install" creationdate="20150818T081639Z">
+        <seg>Mohou jej nahradit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can surround the drawing area with toolbars and information areas.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140123T211859Z" creationid="standa" creationdate="20140123T205729Z">
@@ -52732,6 +52812,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T132226Z" creationid="install" creationdate="20150710T132226Z">
         <seg>Proto předtím, než začneme vytvářet vlastní databázi, potřebujeme získat nějakou praxi s vytvářením objektů databáze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to use special markup to add spaces: &lt;f1&gt;`&lt;/f1&gt; (grave) for a small space, &lt;f2&gt;~ &lt;/f2&gt;(tilde) for a large space.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T081913Z" creationid="install" creationdate="20150818T081913Z">
+        <seg>Mezeru přidáme pomocí značek: znak &lt;f0&gt;`&lt;/f0&gt; (zpětná uvozovka) vytvoří úzkou mezeru a znak &lt;f1&gt;~&lt;/f1&gt; (vlnovka) širokou mezeru.</seg>
       </tuv>
     </tu>
     <tu>
