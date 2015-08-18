@@ -37718,6 +37718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;sum&lt;/f0&gt; and &lt;f1&gt;int&lt;/f1&gt; commands (see complete list in the appendix of the &lt;f2&gt;Math Guide&lt;/f2&gt;) can (optionally) take the parameters &lt;f3&gt;from&lt;/f3&gt; and &lt;f4&gt;to&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082351Z" creationid="install" creationdate="20150818T082351Z">
+        <seg>Příkazy &lt;f0&gt;sum&lt;/f0&gt; a &lt;f1&gt;int&lt;/f1&gt; (viz kompletní seznam v dodatku příručky &lt;f2&gt;Math Guide&lt;/f2&gt;) mohou mít (volitelné) parametry &lt;f3&gt;from&lt;/f3&gt; a &lt;f4&gt;to&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;table&lt;/f0&gt; used is &lt;f1&gt;Household Inventory.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150726T062933Z" creationid="lenochod26" creationdate="20150726T062933Z">
@@ -41686,6 +41694,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are used for lower and upper limits respectively.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082510Z" creationid="install" creationdate="20150818T082510Z">
+        <seg>Tyto se používají k určení dolní a horní hranice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These are what will appear in your table of contents.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T215448Z" creationid="standa" creationdate="20150209T215448Z">
@@ -41890,6 +41906,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T200118Z" creationid="standa" creationdate="20141022T200118Z">
         <seg>Tyto možnosti změní dlouhou pomlčku (em dash) bez mezer na krátkou (en dash) s mezerami, resp. krátkou s mezerami na dlouhou bez mezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These parameters can be used &lt;f5&gt;individually&lt;/f5&gt; or &lt;f6&gt;can be combined&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082559Z" creationid="install" creationdate="20150818T082559Z">
+        <seg>Mohou být použity &lt;f5&gt;samostatně&lt;/f5&gt; nebo &lt;f6&gt;společně&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52842,8 +52866,8 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       <tuv lang="EN">
         <seg>You need to use special markup to add spaces: &lt;f1&gt;`&lt;/f1&gt; (grave) for a small space, &lt;f2&gt;~ &lt;/f2&gt;(tilde) for a large space.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150818T081913Z" creationid="install" creationdate="20150818T081913Z">
-        <seg>Mezeru přidáme pomocí značek: znak &lt;f0&gt;`&lt;/f0&gt; (zpětná uvozovka) vytvoří úzkou mezeru a znak &lt;f1&gt;~&lt;/f1&gt; (vlnovka) širokou mezeru.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150818T082447Z" creationid="install" creationdate="20150818T081913Z">
+        <seg>Mezeru přidáme pomocí značek: znak &lt;f1&gt;`&lt;/f1&gt; (zpětná uvozovka) vytvoří úzkou mezeru a znak &lt;f2&gt;~&lt;/f2&gt; (vlnovka) širokou mezeru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54456,6 +54480,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>int from 0 to x f(t) dt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082619Z" creationid="install" creationdate="20150818T082619Z">
+        <seg>int from 0 to x f(t) dt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>int_0^x f(t) dt</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082625Z" creationid="install" creationdate="20150818T082625Z">
+        <seg>int_0^x f(t) dt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>is an &lt;i0/&gt;en-dash; that is, a dash the width of the letter “n” in the font you are using.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T182227Z" creationid="standa" creationdate="20150110T181858Z">
@@ -55684,6 +55724,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T105521Z" creationid="install" creationdate="20150817T105521Z">
         <seg>sum a_n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sum from k = 1 to n a_k</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082613Z" creationid="install" creationdate="20150818T082613Z">
+        <seg>sum from k = 1 to n a_k</seg>
       </tuv>
     </tu>
     <tu>
