@@ -15102,6 +15102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the markup code &lt;f1&gt;func&lt;/f1&gt; before the function, and the text &lt;f2&gt;that follows&lt;/f2&gt; will be recognized as a function.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T080648Z" creationid="install" creationdate="20150818T080648Z">
+        <seg>Pokud před názvem funkce zadáme značku &lt;f1&gt;func&lt;/f1&gt;, &lt;f2&gt;následující&lt;/f2&gt; text bude rozpoznán jako funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (&lt;t1&gt;Figure 16&lt;/t1&gt; on page &lt;t2&gt;21&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T192420Z" creationid="lenochod26" creationdate="20150626T174205Z">
@@ -35800,8 +35808,8 @@
       <tuv lang="EN">
         <seg>So the half-open interval &lt;f0&gt;[a;b[&lt;/f0&gt; is represented by &lt;f1&gt;\[a;b\[&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;— try comparing this with &lt;f3&gt;[a;b[&lt;/f3&gt;</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150818T075444Z" creationid="install" creationdate="20150818T075444Z">
-        <seg>Takže polootevřený interval &lt;f0&gt;[a,b[&lt;/f0&gt; zadáme jako &lt;f1&gt;\ [a,b\[&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt; - zkuste si to porovnat se zadáním &lt;f2&gt;[a,b[&lt;/f2&gt; (pozn. překladatele: v češtině intervaly zadáváme pomocí znaků „(“, „)“, „&lt;“ a „&gt;")</seg>
+      <tuv lang="CS" changeid="install" changedate="20150818T080724Z" creationid="install" creationdate="20150818T075444Z">
+        <seg>Takže polootevřený interval &lt;f0&gt;[a,b[&lt;/f0&gt; zadáme jako &lt;f1&gt;\ [a,b\[&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt; - zkuste si to porovnat se zadáním &lt;f3&gt;[a,b[&lt;/f3&gt; (pozn. překladatele: v češtině intervaly zadáváme pomocí znaků „(“, „)“, „&lt;“ a „&gt;")</seg>
       </tuv>
     </tu>
     <tu>
@@ -35978,6 +35986,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T192556Z" creationid="install" creationdate="20150617T120601Z">
         <seg>Některé ovládací prvky, jako je například horní index, se stanou aktivní pouze tehdy, když je ve Vstupním řádku Lišty vzorců nebo v buňce textový kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some functions recognized by Math need to be followed by numbers or variables.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T080800Z" creationid="install" creationdate="20150818T080800Z">
+        <seg>Některé funkce, které program sám rozpozná, vyžadují, aby za jejich názvem následovalo číslo nebo proměnná.</seg>
       </tuv>
     </tu>
     <tu>
