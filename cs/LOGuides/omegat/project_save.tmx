@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;This is not possible for the double-quote character itself.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083851Z" creationid="install" creationdate="20150818T083851Z">
+        <seg>&lt;/f0&gt; Toto však není možné pro samotný znak dvojité uvozovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;This produces a single cell containing the total appraised value of the inventory.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T084707Z" creationid="install" creationdate="20150724T084640Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T182045Z" creationid="standa" creationdate="20140526T182045Z">
         <seg>Určíme Nový návrh nebo Existující návrh a klepneme na &lt;f1&gt;Další&gt;&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;/f11&gt;Two methods are available to overcome this limitation:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083801Z" creationid="install" creationdate="20150818T083801Z">
+        <seg>&lt;/f11&gt; Toto omezení lze překonat dvěma způsoby:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1890,6 +1906,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T134509Z" creationid="standa" creationdate="20140315T134509Z">
         <seg>Ikona &lt;f0&gt;Aktivní&lt;/f0&gt;: přepíná stav vybrané aktivní oblasti mezi aktivní a neaktivní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Add the character to the catalog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083910Z" creationid="install" creationdate="20150818T083910Z">
+        <seg>&lt;f0&gt; Přidáme znak do katalogu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36006,6 +36030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So, for example, you cannot write &lt;f10&gt;2% = 0.02 &lt;/f10&gt;or &lt;f11&gt;1" = 2.56cm.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083742Z" creationid="install" creationdate="20150818T083742Z">
+        <seg>Například, nemůžeme napsat &lt;f10&gt;2% = 0,02&lt;/f10&gt; nebo &lt;f11&gt;1" = 2,56 cm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So, it is best to have a primary key for every field unless you can &lt;f0&gt;always&lt;/f0&gt; remember whether a table type requires one or not.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T055122Z" creationid="install" creationdate="20150717T054947Z">
@@ -47082,6 +47114,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T180527Z" creationid="standa" creationdate="20150122T180527Z">
         <seg>Pomocí automatického formátování popsaného výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use double quotes to mark the character as text, for example &lt;f0&gt;2"%"= 0.02.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T083830Z" creationid="install" creationdate="20150818T083830Z">
+        <seg>Pomocí dvojitých uvozovek tyto znaky označíme jako text, například &lt;f0&gt;2 „%“ = 0,02.</seg>
       </tuv>
     </tu>
     <tu>
