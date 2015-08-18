@@ -21806,6 +21806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, an unpaired bracket is sometimes necessary.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075235Z" creationid="install" creationdate="20150818T075235Z">
+        <seg>Nepárové závorky jsou však někdy potřeba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, check the &lt;f0&gt;Decimal places&lt;/f0&gt; value for currency fields as the wizard suggests using 0.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T131803Z" creationid="install" creationdate="20150716T131803Z">
@@ -23662,6 +23670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you forget a bracket, Math places an inverted question mark by the corresponding bracket.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075143Z" creationid="install" creationdate="20150818T075143Z">
+        <seg>Pokud jednu ze závorek zapomeneme zadat, Math při nepárové závorce zobrazí znak obrácený otazník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you frequently need to insert formulas, &lt;f0&gt;you may wish&lt;/f0&gt; to add the Formula button to the Standard toolbar or create a keyboard shortcut.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150813T140039Z" creationid="install" creationdate="20150813T135046Z">
@@ -25178,6 +25194,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T081427Z" creationid="install" creationdate="20150721T081427Z">
         <seg>Ve třetím kroku však data místo úpravy smažeme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In such cases, you have two options:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075242Z" creationid="install" creationdate="20150818T075242Z">
+        <seg>V takovém případě máme dvě možnosti:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36038,6 +36062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes forgetting a bracket causes the whole structure of the formula to fall apart.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075224Z" creationid="install" creationdate="20150818T075224Z">
+        <seg>Pokud omylem zadáme nepárové závorku, může se stát, že celá struktura vzorce se rozpadne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes it is necessary to edit the contents of cell without removing all of the data from the cell.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T212148Z" creationid="install" creationdate="20150702T113217Z">
@@ -42282,6 +42314,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T163744Z" creationid="install" creationdate="20150701T122648Z">
         <seg>V tomto okně se na levé straně v poli &lt;f2&gt;Seznamy&lt;/f2&gt; zobrazují již definované seznamy, v poli &lt;f3&gt;Položky&lt;/f3&gt; pak jednotlivé prvky vybraného seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This disappears when all brackets are matched.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075159Z" creationid="install" creationdate="20150818T075159Z">
+        <seg>Ten se nezobrazí, pokud jsou všechny závorky uzavřeny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49716,6 +49756,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T123227Z" creationid="install" creationdate="20150723T123227Z">
         <seg>V případě větších tabulek zobrazuje pouze část tohoto čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With non-scalable brackets, use a preceding backslash \ to indicate that the following character should not be regarded as a bracket but as a literal character.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075322Z" creationid="install" creationdate="20150818T075322Z">
+        <seg>V případě neškálovatelných závorek před znak závorky zadáme zpětné lomítko \, což znamená, že následující znak nemá být považován za značku, ale za obyčejný znak.</seg>
       </tuv>
     </tu>
     <tu>
