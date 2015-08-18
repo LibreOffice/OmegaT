@@ -6174,6 +6174,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All characters except double quotes are permissible in text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T084548Z" creationid="install" creationdate="20150818T084548Z">
+        <seg>V textu jsou přípustné všechny znaky kromě uvozovek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All components contain the Properties, Styles and Formatting, Gallery, and Navigator decks.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T164917Z" creationid="standa" creationdate="20140501T164917Z">
@@ -15950,6 +15958,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Smart quotes included by copy and paste from Writer</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T084722Z" creationid="install" creationdate="20150818T084722Z">
+        <seg>Obrázek &lt;seq0&gt;12 &lt;/seq0&gt;: Typografické uvozovky vložené kopírováním z programu Writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Template file handling icons</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140115T210604Z" creationid="standa" creationdate="20140115T210604Z">
@@ -22742,6 +22758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If necessary, you can write the text in a text document and copy it into the equation editor via the clipboard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T084654Z" creationid="install" creationdate="20150818T084654Z">
+        <seg>Pokud je to nutné, požadovaný text můžeme napsat v textovém dokumentu, odkud jej do editoru vzorců zkopírujeme pomocí schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If no JRE is already installed, you will need to download and install one.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T111326Z" creationid="install" creationdate="20150710T111326Z">
@@ -25978,6 +26002,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T183830Z" creationid="standa" creationdate="20141226T183659Z">
         <seg>V tomto zobrazení můžeme měnit přiblížení pomocí posuvníku a ikon režimu zobrazení ve stavovém řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this way smart quotes can be inserted, as shown below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T084704Z" creationid="install" creationdate="20150818T084704Z">
+        <seg>Tímto způsobem můžeme vložit i typografické uvozovky, a to tak, jak je uvedeno níže.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45078,6 +45110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To include text in a formula, enclose it in straight double-quotes:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T084442Z" creationid="install" creationdate="20150818T084442Z">
+        <seg>Pokud chceme do vzorce vložit text, uzavřeme jej do dvojitých uvozovek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To include the total number of pages (as in “page 1 of 12”):</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T211148Z" creationid="standa" creationdate="20150122T211148Z">
@@ -46858,6 +46898,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T164802Z" creationid="standa" creationdate="20140417T202313Z">
         <seg>Vracení a opakování vrácených změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unfortunately the Special characters dialog is not available.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T084617Z" creationid="install" creationdate="20150818T084617Z">
+        <seg>Bohužel, dialogové okno Speciální znaky není v programu Math k dispozici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53256,6 +53304,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>abs x = left lbrace matrix {x # "for " x &gt;= 0 ## -x # "for " x &lt; 0} right none</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T084447Z" creationid="install" creationdate="20150818T084447Z">
+        <seg>abs x = left lbrace matrix {x # "for " x &gt;= 0 ## -x # "for " x &lt; 0} right none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>abs x = left lbrace stack {x "for" x &gt;= 0 # -x "for" x &lt; 0} right none</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T080038Z" creationid="install" creationdate="20150818T080038Z">
@@ -54378,8 +54434,8 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       <tuv lang="EN">
         <seg>formula</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150804T130449Z" creationid="install" creationdate="20150804T130449Z">
-        <seg>ukázka</seg>
+      <tuv lang="CS" changeid="install" changedate="20150818T084505Z" creationid="install" creationdate="20150804T130449Z">
+        <seg>vzorec</seg>
       </tuv>
     </tu>
     <tu>
