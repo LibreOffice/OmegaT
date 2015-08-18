@@ -12126,6 +12126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compare the following examples:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T060151Z" creationid="install" creationdate="20150818T060151Z">
+        <seg>Příklady pro srovnání:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compiling an automatic table of contents</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T223305Z" creationid="standa" creationdate="20140103T223305Z">
@@ -24258,6 +24266,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T120837Z" creationid="install" creationdate="20150710T120837Z">
         <seg>Pokud bychom tyto informace ukládali v tabulkovém sešitu, použili bychom jeden sloupec pro každou z těchto skupin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to show that the whole thing is negative, with the minus sign in front of the fraction, you must put the fraction in brackets in order to signify to Math that the characters belong together.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T060017Z" creationid="install" creationdate="20150818T060017Z">
+        <seg>Pokud chceme znaménko minus uvést před zlomek, musíme ho celý uvést v závorkách, čímž programu Math naznačíme, že příslušné části patří k sobě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to use braces in the formula, use the commands &lt;f0&gt;lbrace&lt;/f0&gt; and &lt;f1&gt;rbrace&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T060146Z" creationid="install" creationdate="20150818T060146Z">
+        <seg>Pokud chceme ve vzorci použít závorky, použijeme příkazy &lt;f0&gt;lbrace&lt;/f0&gt; a &lt;f1&gt;rbrace&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38338,6 +38362,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T091349Z" creationid="standa" creationdate="20140315T091349Z">
         <seg>V poli na levé straně galerie se zobrazuje seznam dostupných motivů vzhledu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The braces belong solely to the layout of the markup code and are not printed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T060034Z" creationid="install" creationdate="20150818T060034Z">
+        <seg>Tyto závorky jsou součástí značkovacího kódu a nebudou zobrazeny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55500,6 +55532,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T105559Z" creationid="install" creationdate="20150817T105559Z">
         <seg>x cdot y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>x over lbrace –x + 1 rbrace</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T060202Z" creationid="install" creationdate="20150818T060202Z">
+        <seg>x over lbrace –x + 1 rbrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>x over {–x + 1}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T060157Z" creationid="install" creationdate="20150818T060157Z">
+        <seg>x over {–x + 1}</seg>
       </tuv>
     </tu>
     <tu>
