@@ -32942,6 +32942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scalable brackets can also be unpaired.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075453Z" creationid="install" creationdate="20150818T075453Z">
+        <seg>Škálovatelné závorky mohou být i nepárové.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Screen only checkbox</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T191718Z" creationid="standa" creationdate="20141008T191718Z">
@@ -35746,6 +35754,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T084116Z" creationid="install" creationdate="20150716T084116Z">
         <seg>To znamená, že pro uložení vstupů při použití typu VARCHAR bude zapotřebí méně místa než u typu CHAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So the half-open interval &lt;f0&gt;[a;b[&lt;/f0&gt; is represented by &lt;f1&gt;\[a;b\[&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;— try comparing this with &lt;f3&gt;[a;b[&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075444Z" creationid="install" creationdate="20150818T075444Z">
+        <seg>Takže polootevřený interval &lt;f0&gt;[a,b[&lt;/f0&gt; zadáme jako &lt;f1&gt;\ [a,b\[&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt; - zkuste si to porovnat se zadáním &lt;f2&gt;[a,b[&lt;/f2&gt; (pozn. překladatele: v češtině intervaly zadáváme pomocí znaků „(“, „)“, „&lt;“ a „&gt;")</seg>
       </tuv>
     </tu>
     <tu>
@@ -40506,6 +40522,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140123T211113Z" creationid="standa" creationdate="20140123T211113Z">
         <seg>Velikost vybraného objektu je na pravítkách zobrazena pomocí dvojité čáry (zvýrazněna na &lt;t3&gt;obrázku 2&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same half-open interval is represented by</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075504Z" creationid="install" creationdate="20150818T075504Z">
+        <seg>Stejný polootevřený interval můžeme zadat i jako</seg>
       </tuv>
     </tu>
     <tu>
@@ -54236,6 +54260,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T202720Z" creationid="standa" creationdate="20150122T202720Z">
         <seg>způsoby rozvržení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>left [ a; b right [</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T075509Z" creationid="install" creationdate="20150818T075509Z">
+        <seg>left [ a; b right [</seg>
       </tuv>
     </tu>
     <tu>
