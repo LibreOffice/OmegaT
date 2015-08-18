@@ -1510,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt; or &lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082649Z" creationid="install" creationdate="20150818T082649Z">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;vzorec&lt;/s3&gt;&lt;/df0&gt; nebo &lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;vzorec&lt;/s7&gt;&lt;/df4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;%iALPHA&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T111237Z" creationid="install" creationdate="20150817T111237Z">
@@ -21818,6 +21826,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T082241Z" creationid="install" creationdate="20150818T082224Z">
         <seg>Jak přidat &lt;i0/&gt;&lt;i1/&gt;hranice v součtech a integrálech?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How do I write a &lt;i0/&gt;&lt;i1/&gt;derivative?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082945Z" creationid="install" creationdate="20150818T082945Z">
+        <seg>Jak zapsat &lt;i0/&gt;&lt;i1/&gt;derivaci?</seg>
       </tuv>
     </tu>
     <tu>
@@ -53832,6 +53848,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>derivative markup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082759Z" creationid="install" creationdate="20150818T082759Z">
+        <seg>derivace, značky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>derivative markup (Math)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082755Z" creationid="install" creationdate="20150818T082755Z">
+        <seg>značky pro derivace (Math)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>description</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140108T204415Z" creationid="standa" creationdate="20140108T204415Z">
@@ -54484,6 +54516,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T082619Z" creationid="install" creationdate="20150818T082619Z">
         <seg>int from 0 to x f(t) dt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>int from Re f</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082655Z" creationid="install" creationdate="20150818T082655Z">
+        <seg>int from Re f</seg>
       </tuv>
     </tu>
     <tu>
@@ -55732,6 +55772,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T082613Z" creationid="install" creationdate="20150818T082613Z">
         <seg>sum from k = 1 to n a_k</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sum to infinity 2^{-n}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150818T082716Z" creationid="install" creationdate="20150818T082716Z">
+        <seg>sum to infinity 2^{-n}</seg>
       </tuv>
     </tu>
     <tu>
