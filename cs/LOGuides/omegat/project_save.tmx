@@ -28310,6 +28310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Math does not have a command for aligning equations on a particular character, but you can use a matrix to do this, as shown below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150820T091215Z" creationid="install" creationdate="20150820T091215Z">
+        <seg>Math sice nemá příkaz pro zarovnání rovnic na konkrétní znak, můžeme však na to použít matici, a to tak, jak je uvedeno níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Math expects that for every opening bracket there will be a closing one.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T062831Z" creationid="install" creationdate="20150818T062831Z">
@@ -53440,6 +53448,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>alignr x &lt;s0/&gt;# {}={} # alignl 2-y</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150820T091228Z" creationid="install" creationdate="20150820T091228Z">
+        <seg>alignr x &lt;s0/&gt;# {}={} # alignl 2-y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>alignr x+y # {}={} # alignl 2 ##</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150820T091226Z" creationid="install" creationdate="20150820T091226Z">
+        <seg>alignr x+y # {}={} # alignl 2 ##</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>anchoring</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T202012Z" creationid="standa" creationdate="20140321T202012Z">
@@ -55056,6 +55080,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>matrix{</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150820T091224Z" creationid="install" creationdate="20150820T091224Z">
+        <seg>matrix{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>measurement unit</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T184330Z" creationid="standa" creationdate="20150110T184330Z">
@@ -56468,6 +56500,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T083135Z" creationid="install" creationdate="20150818T083135Z">
         <seg>{partial^2 f} over {partial t^2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>}</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150820T091232Z" creationid="install" creationdate="20150820T091232Z">
+        <seg>}</seg>
       </tuv>
     </tu>
     <tu>
