@@ -39470,6 +39470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The empty braces around = are necessary because = is a binary operator and thus needs an expression on each side.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150820T101659Z" creationid="install" creationdate="20150820T101659Z">
+        <seg>Prázdné závorky kolem = jsou nezbytné, protože = je binární operátor a vyžaduje výraz na každé straně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The equation editor is for writing equations in symbolic form, as in equation &lt;f0&gt;&lt;t1&gt;1&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;, &lt;/f2&gt;&lt;f3&gt;below&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150811T055929Z" creationid="install" creationdate="20150804T130403Z">
@@ -52172,6 +52180,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T180413Z" creationid="standa" creationdate="20140425T180413Z">
         <seg>Více informací o balíku LibreOffice a organizaci The Document Foundation se nachází na webových stránkách &lt;a0&gt;http://www.libreoffice.org/&lt;/a0&gt; a &lt;a1&gt;http://www.documentfoundation.org/&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can reduce the spacing around = if you change the inter-column spacing of the matrix:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150820T101719Z" creationid="install" creationdate="20150820T101719Z">
+        <seg>Mezery kolem znaku = můžeme upravit tak, že změníme velikost mezer mezi sloupci matice:</seg>
       </tuv>
     </tu>
     <tu>
