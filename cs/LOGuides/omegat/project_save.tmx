@@ -9654,6 +9654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose from 8 colors: &lt;f6&gt;white&lt;/f6&gt;, &lt;f7&gt;black&lt;/f7&gt;, &lt;f8&gt;cyan&lt;/f8&gt;, &lt;f9&gt;magenta&lt;/f9&gt;, &lt;f10&gt;red&lt;/f10&gt;, &lt;f11&gt;blue&lt;/f11&gt;, &lt;f12&gt;green&lt;/f12&gt;, &lt;f13&gt;yellow&lt;/f13&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T045628Z" creationid="install" creationdate="20150821T045628Z">
+        <seg>Můžeme si vybrat z osmi barev: &lt;f6&gt;white&lt;/f6&gt;, &lt;f7&gt;black&lt;/f7&gt;, &lt;f8&gt;cyan&lt;/f8&gt;, &lt;f9&gt;magenta&lt;/f9&gt;, &lt;f10&gt;red&lt;/f10&gt; , &lt;f11&gt;blue&lt;/f11&gt;, &lt;f12&gt;green&lt;/f12&gt;, &lt;f13&gt;yellow&lt;/f13&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose spelling options</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T191638Z" creationid="standa" creationdate="20141016T185748Z">
@@ -47742,6 +47750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the command &lt;f0&gt;color&lt;/f0&gt; to change the color of a subset of a formula: &lt;f1&gt;color red ABC&lt;/f1&gt; gives &lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T045458Z" creationid="install" creationdate="20150821T045458Z">
+        <seg>Pomocí příkazu &lt;f0&gt;color&lt;/f0&gt; změníme barvu vzorce: &lt;f1&gt;color red ABC&lt;/f1&gt; vytvoří &lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;vzorec&lt;/s5&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the commands &lt;f0&gt;left(&lt;/f0&gt; and &lt;f1&gt;right)&lt;/f1&gt; to make scalable brackets.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T062452Z" creationid="install" creationdate="20150818T062452Z">
@@ -53404,6 +53420,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T170016Z" creationid="standa" creationdate="20140407T170016Z">
         <seg>Případně můžeme uložit nový soubor pod novým názvem, a zachovat tak starý soubor pod původním názvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may set a color for a subset of a formula if it is enclosed between &lt;f0&gt;{ }&lt;/f0&gt; or other parentheses.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T045724Z" creationid="install" creationdate="20150821T045724Z">
+        <seg>Barvu můžeme nastavit i pro část vzorce, která je uzavřena mezi &lt;f0&gt;{ }&lt;/f0&gt; nebo jinými závorkami.</seg>
       </tuv>
     </tu>
     <tu>
