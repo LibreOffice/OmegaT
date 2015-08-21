@@ -12214,6 +12214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Color commands can be nested in subsets of formulas as shown in this example : &lt;f0&gt;color blue {A B color yellow C D}&lt;/f0&gt; gives &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T050054Z" creationid="install" creationdate="20150821T050002Z">
+        <seg>Příkazy na změnu barvy mohou být vnořené do podskupin, jak je ukázáno v tomto příkladu: &lt;f0&gt;color blue {A B color yellow C D}&lt;/f0&gt; vytvoří &lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;vzorec&lt;/s4&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Color options</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141006T181105Z" creationid="standa" creationdate="20141006T181105Z">
@@ -19694,6 +19702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance: &lt;f1&gt;A B color green {C D} E&lt;/f1&gt; gives &lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T045800Z" creationid="install" creationdate="20150821T045800Z">
+        <seg>Například: &lt;f1&gt;AB color green {CD} E&lt;/f1&gt; vytvoří &lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;vzorec&lt;/s5&gt;&lt;/df2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instructions on the purpose of each of these choices, see Chapter 3 of the Base Guide.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T055204Z" creationid="install" creationdate="20150723T055204Z">
@@ -26954,6 +26970,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T053753Z" creationid="install" creationdate="20150707T053753Z">
         <seg>Přidávání témat do programu Calc není možné a nedají se ani upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is not possible to select a background color: it is always transparent in Math.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T050112Z" creationid="install" creationdate="20150821T050112Z">
+        <seg>Barvu pozadí nelze změnit: v programu Math je vždy transparentní.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41378,6 +41402,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T181139Z" creationid="standa" creationdate="20140425T181056Z">
         <seg>LibreOffice je možné stáhnout na adrese &lt;a0&gt;&lt;f1&gt;http://www.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt; download&lt;/f3&gt;&lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The space between C and D limits the color to the variable following the command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T050033Z" creationid="install" creationdate="20150821T050033Z">
+        <seg>Mezera mezi C a D přitom způsobí, že změna barvy se vztahuje pouze na proměnnou C.</seg>
       </tuv>
     </tu>
     <tu>
