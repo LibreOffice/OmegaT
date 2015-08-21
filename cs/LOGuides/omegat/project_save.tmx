@@ -3238,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Math&lt;/f0&gt; was designed to build mathematical formulas, but it can also be used to write chemical formulas.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T132741Z" creationid="install" creationdate="20150821T132741Z">
+        <seg>Program &lt;f0&gt;Math&lt;/f0&gt; byl navržen pro vytváření matematických vzorců, může být však použit i pro napsání chemických vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Merge delimiters&lt;/f0&gt; – combines consecutive delimiters and removes blank data fields.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T202908Z" creationid="install" creationdate="20150618T105823Z">
@@ -4066,6 +4074,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140113T203059Z" creationid="standa" creationdate="20140113T203059Z">
         <seg>&lt;f0&gt;Až budeme příště vytvářet dokument volbou &lt;/f0&gt;&lt;f1&gt;Soubor &gt; Nový&lt;/f1&gt;,&lt;f2&gt; dokument se vytvoří z původní výchozí šablony pro daný typ dokumentu.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;The next time that you create a document by choosing &lt;/f0&gt;&lt;f1&gt;File &gt; New&lt;/f1&gt;,&lt;f2&gt; the document will be created from the new default template.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T132415Z" creationid="install" creationdate="20150821T132415Z">
+        <seg>&lt;f0&gt;Později, když vytvoříme dokument pomocí&lt;/f0&gt; &lt;f1&gt;Soubor &gt; Nový&lt;/f1&gt;, &lt;f2&gt;se použije tato nová šablona. &lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7010,6 +7026,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141009T201428Z" creationid="standa" creationdate="20141009T201428Z">
         <seg>Možnosti vzhledu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Application to &lt;is0/&gt;chemical formulas</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T132500Z" creationid="install" creationdate="20150821T132500Z">
+        <seg>Použití v chemických vzorcích</seg>
       </tuv>
     </tu>
     <tu>
@@ -20254,6 +20278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on the Template Manager, see Chapter 9, Styles and Templates.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150821T132451Z" creationid="install" creationdate="20150821T132451Z">
+        <seg>Více informací o stylech stránky nalezneme v kapitole 4 Using Styles and Templates příručky Calc Guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on the options available for this page of the HTML Export dialog, click&lt;f0&gt; Help&lt;/f0&gt; to open the help pages.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T101400Z" creationid="standa" creationdate="20140309T101400Z">
@@ -25088,8 +25120,8 @@
       <tuv lang="EN">
         <seg>If you wish to return to the default template given at installation, open the Template Manager &lt;f9&gt;(&lt;/f9&gt;&lt;f10&gt;File &gt; Templates &gt; Manage&lt;/f10&gt;&lt;f11&gt;)&lt;/f11&gt;, click on the &lt;f12&gt;Action Menu&lt;/f12&gt; and point to &lt;f13&gt;Reset Default Template&lt;/f13&gt;, &lt;f14&gt;on&lt;/f14&gt; the drop-down menu, &lt;f15&gt;and click &lt;/f15&gt;&lt;f16&gt;Text Document&lt;/f16&gt;&lt;f17&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150821T131631Z" creationid="install" creationdate="20150821T131631Z">
-        <seg>Pokud se později chceme vrátit k původní šabloně z instalace, otevřeme správce šablon &lt;f9&gt;(&lt;/f9&gt;&lt;f10&gt;Soubor &gt; Šablony &gt; Spravovat&lt;/f10&gt;&lt;f11&gt;)&lt;/f11&gt;, klikneme na tlačítko &lt;f12&gt;Nabídka akcí&lt;/f12&gt;, v rozbalovací nabídce zvolíme &lt;f13&gt;Obnovit výchozí šablonu&lt;/f13&gt; &lt;f15&gt;a klikneme&lt;/f15&gt; &lt;f14&gt;na&lt;/f14&gt; &lt;f16&gt;Textový dokument&lt;f16&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150821T131921Z" creationid="install" creationdate="20150821T131631Z">
+        <seg>Pokud se později chceme vrátit k původní šabloně z instalace, otevřeme správce šablon &lt;f9&gt;(&lt;/f9&gt;&lt;f10&gt;Soubor &gt; Šablony &gt; Spravovat&lt;/f10&gt;&lt;f11&gt;)&lt;/f11&gt;, klikneme na tlačítko &lt;f12&gt;Nabídka akcí&lt;/f12&gt;, v rozbalovací nabídce zvolíme &lt;f13&gt;Obnovit výchozí šablonu&lt;/f13&gt; &lt;f15&gt;a klikneme&lt;/f15&gt; &lt;f14&gt;na&lt;/f14&gt; &lt;f16&gt;Textový dokument&lt;/f16&gt;&lt;f17&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33944,8 +33976,8 @@
       <tuv lang="EN">
         <seg>Save the document using &lt;f3&gt;File &gt; Save as Template&lt;/f3&gt;&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;and save it into &lt;/f5&gt;&lt;f6&gt;My Templates&lt;/f6&gt;&lt;f7&gt; with a name of your choice.&lt;/f7&gt; To define this template as your default template, select the template you just created and choose &lt;f8&gt;Set as default&lt;/f8&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150821T131751Z" creationid="install" creationdate="20150821T131101Z">
-        <seg>Dokument &lt;f5&gt;uložíme&lt;/f5&gt; pomocí &lt;f3&gt;Soubor &gt; Šablony &gt; Uložit jako šablonu&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt; do složky Moje šablony &lt;f7&gt;s libovolným názvem&lt;/f7&gt;. Chcete-li definovat tuto šablonu jako výchozí, vyberte ji, a zvolte &lt;f8&gt;Nastavit jako výchozí&lt;/f8&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20150821T131820Z" creationid="install" creationdate="20150821T131101Z">
+        <seg>Dokument &lt;f5&gt;uložíme&lt;/f5&gt; pomocí &lt;f3&gt;Soubor &gt; Šablony &gt; Uložit jako šablonu&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt; do složky &lt;f6&gt;Moje šablony&lt;/f6&gt; &lt;f7&gt;s libovolným názvem&lt;/f7&gt;. Chcete-li definovat tuto šablonu jako výchozí, vyberte ji, a zvolte &lt;f8&gt;Nastavit jako výchozí&lt;/f8&gt;.</seg>
       </tuv>
     </tu>
     <tu>
