@@ -1526,6 +1526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;http://dev.w3.org/html5/html-author/charref&lt;/a0&gt; from character x021C4, or here: &lt;a1&gt;&lt;f2&gt;http://www.unicode.org/charts/PDF/U2190.pdf&lt;/f2&gt;&lt;/a1&gt;, which is a subset of this location: http://www.unicode.org/charts/#symbols</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T050135Z" creationid="lenochod26" creationdate="20150822T045805Z">
+        <seg>&lt;a0&gt; http://dev.w3.org/html5/html-author/charref&lt;/a0&gt; počínaje znakem x021C4, nebo na &lt;a1&gt;&lt;f2&gt; http://www.unicode.org/charts/PDF/U2190.pdf&lt;/f2&gt;&lt;/a1&gt;, která je součástí webu http://www.unicode.org/charts/#symbols</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T064658Z" creationid="install" creationdate="20150716T064658Z">
@@ -1744,8 +1752,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;f1&gt;H_2 SO_4&lt;/f1&gt;&lt;/f0&gt; (please note the space!)</seg>
       </tuv>
-      <tuv lang="CS" changeid="lenochod26" changedate="20150821T184929Z" creationid="lenochod26" creationdate="20150821T184929Z">
-        <seg>&lt;f0&gt; H_2 SO_4&lt;/f0&gt; (všimněte si použité mezery)</seg>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T050115Z" creationid="lenochod26" creationdate="20150821T184929Z">
+        <seg>&lt;f0&gt;&lt;f1&gt;H_2 SO_4&lt;/f1&gt;&lt;/f0&gt; (všimněte si použité mezery)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3426,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140401T192434Z" creationid="standa" creationdate="20140401T192434Z">
         <seg>&lt;f0&gt;Poznámka:&lt;/f0&gt; Všechno, co do e-mailové konference pošlete, včetně e-mailové adresy a dalších osobních informací uvedených ve zprávě, bude veřejně viditelné bez možnosti smazání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Notes&lt;/f0&gt;: &lt;f1&gt;lsub&lt;/f1&gt; or &lt;f2&gt;lsup&lt;/f2&gt; are a&lt;f3&gt;b&lt;/f3&gt;breviations for &lt;f4&gt;left subscript&lt;/f4&gt; and &lt;f5&gt;left superscript&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045414Z" creationid="lenochod26" creationdate="20150822T045414Z">
+        <seg>&lt;f0&gt;Poznámky&lt;/f0&gt;: &lt;f1&gt;lsub&lt;/f1&gt; nebo &lt;f2&gt;lsup&lt;/f2&gt; jsou &lt;f3&gt;z&lt;/f3&gt;kratky pro &lt;f4&gt;levý dolní index&lt;/f4&gt; a &lt;f5&gt;levý horní index&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6510,6 +6526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, if you find a special character in a document you can copy it, for example here in this formula: &lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt; "⇌".</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045709Z" creationid="lenochod26" creationdate="20150822T045709Z">
+        <seg>Případně, pokud požadovaný speciální znak najdeme v otevřeném dokumentu, můžeme ho zkopírovat, jako například v tomto vzorci: &lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;vzorec&lt;/s3&gt;&lt;/df0&gt; „⇌“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, right-click on the sheet tab, row header or column header and select &lt;f0&gt;Hide&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T082404Z" creationid="install" creationdate="20150707T082404Z">
@@ -7048,8 +7072,8 @@
       <tuv lang="EN">
         <seg>Application to &lt;is0/&gt;chemical formulas</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150821T132500Z" creationid="install" creationdate="20150821T132500Z">
-        <seg>Použití v chemických vzorcích</seg>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T050050Z" creationid="install" creationdate="20150821T132500Z">
+        <seg>Použití v &lt;is0/&gt;chemických vzorcích</seg>
       </tuv>
     </tu>
     <tu>
@@ -7482,6 +7506,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T192552Z" creationid="lenochod26" creationdate="20150626T175711Z">
         <seg>Při pokusu o přejmenování na neplatný název se zobrazí chybová zpráva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attributes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045938Z" creationid="lenochod26" creationdate="20150822T045938Z">
+        <seg>Atributy</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,6 +9466,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140106T204428Z" creationid="standa" creationdate="20140106T204428Z">
         <seg>Znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters – Greek</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045946Z" creationid="lenochod26" creationdate="20150822T045946Z">
+        <seg>Znaky - řecké</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Characters – Special</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045949Z" creationid="lenochod26" creationdate="20150822T045949Z">
+        <seg>Znaky - speciální</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,6 +15478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty braces after &lt;f6&gt;2-&lt;/f6&gt; are necessary to avoid errors as there is no right member after the minus sign.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045457Z" creationid="lenochod26" creationdate="20150822T045457Z">
+        <seg>Prázdné závorky za &lt;f6&gt;2 -&lt;/f6&gt; jsou nezbytné, aby se zabránilo vzniku chyby, protože za znaménkem mínus nenásleduje pravý člen, který tento operátor vyžaduje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Empty quotes &lt;f0&gt;""&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T081652Z" creationid="install" creationdate="20150818T081652Z">
@@ -20054,6 +20110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, DejaVu fonts have these double arrows ⇄ ⇆ ⇋ ⇌.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045627Z" creationid="lenochod26" creationdate="20150822T045627Z">
+        <seg>Například, v písmu DejaVu se nacházejí tyto dvojité šipky: ⇄ ⇆ ⇋ ⇌.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, if you have two spreadsheets in the same folder linked to each other and you move the entire folder to a new location, an absolute hyperlink will break but a relative one will not.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140222T211224Z" creationid="standa" creationdate="20140222T211224Z">
@@ -20502,6 +20566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For reversible reactions, there is no satisfactory double arrow in &lt;f0&gt;Math&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045517Z" creationid="lenochod26" creationdate="20150822T045517Z">
+        <seg>Pro vratné reakce v programu &lt;f0&gt;Math&lt;/f0&gt; neexistuje žádná uspokojivá dvojitá šipka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For scalable brackets, you can also use the command none to replace a non-existent paired bracket.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T080012Z" creationid="install" creationdate="20150818T080012Z">
@@ -20618,6 +20690,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T053021Z" creationid="install" creationdate="20150707T053021Z">
         <seg>Můžeme přitom zvolit typ dat a písma, velikost písma, ohraničení buněk, pozadí a další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formats</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045942Z" creationid="lenochod26" creationdate="20150822T045942Z">
+        <seg>Formáty</seg>
       </tuv>
     </tu>
     <tu>
@@ -21090,6 +21170,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T190853Z" creationid="standa" creationdate="20150502T190853Z">
         <seg>Průvodce funkcí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Functions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045926Z" creationid="lenochod26" creationdate="20150822T045926Z">
+        <seg>Funkce</seg>
       </tuv>
     </tu>
     <tu>
@@ -24546,6 +24634,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T082928Z" creationid="install" creationdate="20150716T082928Z">
         <seg>Pokud máme pole, které vyžaduje hodnotu, a do takového pole nebude hodnota zadána, zobrazí se chybové hlášení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have a font with a suitable symbol, you may use the method described in “&lt;bf1&gt;Customizing the catalog&lt;/bf1&gt;” on page &lt;bf2&gt;23&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045613Z" creationid="lenochod26" creationdate="20150822T045613Z">
+        <seg>Pokud máme k dispozici písmo s vhodným symbolem, můžeme použít postup popsaný v části „&lt;bf1&gt;Přizpůsobení katalogu symbolů&lt;/bf1&gt;“ na straně &lt;bf2&gt;25&lt;/bf2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29118,6 +29214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Math commands – Reference</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045812Z" creationid="lenochod26" creationdate="20150822T045812Z">
+        <seg>Přehled příkazů programu Math</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Math does not have a command for aligning equations on a particular character, but you can use a matrix to do this, as shown below.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150820T091215Z" creationid="install" creationdate="20150820T091215Z">
@@ -31934,6 +32038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Operators</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045933Z" creationid="lenochod26" creationdate="20150822T045933Z">
+        <seg>Operátory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optional (unstable) options</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141011T203013Z" creationid="standa" creationdate="20141011T203013Z">
@@ -32010,6 +32122,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222742Z" creationid="standa" creationdate="20140103T222742Z">
         <seg>Správa šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other double arrows can be found here:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045721Z" creationid="lenochod26" creationdate="20150822T045721Z">
+        <seg>Další dvojité šipky lze nalézt na následujících adresách:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33254,6 +33374,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Relations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045901Z" creationid="lenochod26" creationdate="20150822T045901Z">
+        <seg>Relace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Relative addressing is only possible if the source document and the referenced document are both on the same drive.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T191604Z" creationid="standa" creationdate="20141015T191604Z">
@@ -33578,6 +33706,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T213408Z" creationid="standa" creationdate="20150702T213313Z">
         <seg>Kurzor přemístíme v buňce tam, kam chceme začít zadávat nová data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reserved words in alphabetic order</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045954Z" creationid="lenochod26" creationdate="20150822T045954Z">
+        <seg>Rezervované slova v abecedním pořadí</seg>
       </tuv>
     </tu>
     <tu>
@@ -36466,6 +36602,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T052811Z" creationid="install" creationdate="20150721T052811Z">
         <seg>Servis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set operations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045916Z" creationid="lenochod26" creationdate="20150822T045916Z">
+        <seg>Množinové operace</seg>
       </tuv>
     </tu>
     <tu>
@@ -40114,6 +40258,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T193712Z" creationid="lenochod26" creationdate="20150616T214636Z">
         <seg>Záhlaví sloupců používají písmena začínající od A a pokračují doprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The complete list of commands and reserved words used by Math is available in the &lt;f0&gt;Math Guide&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045845Z" creationid="lenochod26" creationdate="20150822T045845Z">
+        <seg>Kompletní seznam příkazů a vyhrazených slov používaných v programu Math najdeme v příručce &lt;f0&gt;Math Guide&lt;/f0&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -48258,6 +48410,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141023T194518Z" creationid="standa" creationdate="20141023T194518Z">
         <seg>Rozpoznání URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unary / binary operators</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenochod26" changedate="20150822T045852Z" creationid="lenochod26" creationdate="20150822T045852Z">
+        <seg>Unární / binární operátory</seg>
       </tuv>
     </tu>
     <tu>
