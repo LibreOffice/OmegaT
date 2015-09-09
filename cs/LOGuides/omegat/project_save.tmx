@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1522,6 +1522,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181918Z" creationid="standa" creationdate="20140526T181918Z">
         <seg>V dialozích otevíraných tlačítky Zvolit můžeme vybrat z Galerie obrázek na pozadí a sadu ikon (&lt;f1&gt;&lt;f2&gt;&lt;t3&gt;obrázek 7&lt;/t3&gt;&lt;/f2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;Original&gt; is for a blank presentation slide design.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150909T162048Z" creationid="standa" creationdate="20150909T160408Z">
+        <seg>&lt;Původní&gt; je for a blank presentation slide design.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20742,6 +20750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting a presentation</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150909T161948Z" creationid="standa" creationdate="20150909T161948Z">
+        <seg>Formatting a presentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting area fill</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T190923Z" creationid="standa" creationdate="20140116T190923Z">
@@ -28950,6 +28966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Majority of presentations are created for computer screen display.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150909T161957Z" creationid="standa" creationdate="20150909T161957Z">
+        <seg>ajority of presentations are created for computer screen display.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make a note of any tables that you may find useful.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T070323Z" creationid="install" creationdate="20150716T070323Z">
@@ -35618,6 +35642,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T164640Z" creationid="standa" creationdate="20140318T164640Z">
         <seg>Vybereme z voleb rozbalovacího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select how the presentation will be used under &lt;f0&gt;Select an output medium&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20150909T160412Z" creationid="standa" creationdate="20150909T160412Z">
+        <seg>Select how the presentation will be used under &lt;f0&gt;Select an output medium&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
