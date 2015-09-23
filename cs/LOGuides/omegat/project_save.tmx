@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4870,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Listing 2&lt;/t0&gt; shows the new macro has been added before Sub Main.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082408Z" creationid="install" creationdate="20150923T082408Z">
+        <seg>Výpis &lt;t0&gt;2&lt;/t0&gt; zobrazuje makro, které bylo přidáno před Sub Main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t1/&gt;This format has a number of advantages over Postscript.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141023T193652Z" creationid="standa" creationdate="20141023T193652Z">
@@ -5494,6 +5502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A module named Module1 already exists and can contain your macro.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082024Z" creationid="install" creationdate="20150923T082024Z">
+        <seg>V ní již existuje položka Module1, kam můžeme makro uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A more complex example would be: &lt;f3&gt;Title&lt;/f3&gt; followed by &lt;f4&gt;Author&lt;/f4&gt; followed by &lt;f5&gt;Abstract&lt;/f5&gt; followed by &lt;f6&gt;Heading 1&lt;/f6&gt; followed by &lt;f7&gt;Text Body&lt;/f7&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T183941Z" creationid="standa" creationdate="20140116T183941Z">
@@ -5978,6 +5994,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140111T211713Z" creationid="standa" creationdate="20140111T211713Z">
         <seg>Přidáme požadovaný obsah a styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the new macro either before Sub Main or after End Sub.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082344Z" creationid="install" creationdate="20150923T082344Z">
+        <seg>Nové makro přidáme buď před Sub Main nebo za End Sub.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10414,6 +10438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; to open the New Library dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T081759Z" creationid="install" creationdate="20150923T081759Z">
+        <seg>Kliknutím na &lt;f0&gt;Nový&lt;/f0&gt; otevřeme okno Nová knihovna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Next &gt;&lt;/f0&gt; and enter general information for the web site such as Title and HTML Metadata information (&lt;f1&gt;&lt;t2&gt;Figure 8&lt;/t2&gt;&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140301T194051Z" creationid="standa" creationdate="20140301T193949Z">
@@ -10666,6 +10698,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T170140Z" creationid="standa" creationdate="20140313T170140Z">
         <seg>Klepneme na &lt;f0&gt;Otevřít&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the Basic Macro Organizer dialog (&lt;t1&gt;Figure 2&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T081455Z" creationid="install" creationdate="20150923T081455Z">
+        <seg>Klikneme na &lt;f0&gt;Organizátor&lt;/f0&gt;, čímž otevřeme okno Organizátor maker LibreOffice Basic (obrázek &lt;t1&gt;2&lt;/t1&gt;). V něm zvolíme kartu &lt;f2&gt;Knihovny&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11682,6 +11722,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T054336Z" creationid="install" creationdate="20150707T054336Z">
         <seg>Klikneme na ikonu &lt;f0&gt;Výběr témat&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; na nástrojové liště &lt;f3&gt;Nástroje&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Compile&lt;/f0&gt; icon &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; on the Macro toolbar to compile the macro.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082543Z" creationid="install" creationdate="20150923T082543Z">
+        <seg>Klikneme na ikonu &lt;f0&gt;Zkompilovat&lt;/f0&gt;, &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; která se nachází na panelu nástrojů Makro, čímž makro přeložíme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15818,6 +15866,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150703T054305Z" creationid="install" creationdate="20150703T054230Z">
         <seg>Můžeme zadat vlastní Formátovací kód.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a library name, for example TestLibrary, and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T081850Z" creationid="install" creationdate="20150923T081850Z">
+        <seg>Zadáme název knihovny, například KnihovnaTest a klikneme na &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25726,6 +25782,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish, you can click &lt;f2&gt;New&lt;/f2&gt; to create another module in the library.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082111Z" creationid="install" creationdate="20150923T082111Z">
+        <seg>Případně můžeme stiskem &lt;f2&gt;Nový&lt;/f2&gt; vytvořit v knihovně jiný modul.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish, you can close it now and reopen it later.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T051918Z" creationid="install" creationdate="20150713T051918Z">
@@ -26650,6 +26714,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T075242Z" creationid="install" creationdate="20150818T075242Z">
         <seg>V takovém případě máme dvě možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Module&lt;/f0&gt; list, expand &lt;f1&gt;My Macros&lt;/f1&gt; and select, for example TestLibrary.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082005Z" creationid="install" creationdate="20150923T082005Z">
+        <seg>V seznamu &lt;f0&gt;Modul&lt;/f0&gt; otevřeme položku &lt;f1&gt;Moje makra&lt;/f1&gt; a v ní právě vytvořenou knihovnu KnihovnaTest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33094,6 +33166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place the cursor in the HelloMacro subroutine and click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Macro toolbar, or press the &lt;f3&gt;F5&lt;/f3&gt; key, to run the HelloMacro in the module.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082705Z" creationid="install" creationdate="20150923T082705Z">
+        <seg>Pak makro MakroAhoj spustíme tak, že do něj umístíme textový kurzor a následně buď na panelu Makro klikneme na ikonu &lt;f0&gt;Spustit BASIC&lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; nebo stiskneme klávesu &lt;f3&gt;F5&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the cursor in the first paragraph of the new page.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T210444Z" creationid="standa" creationdate="20150209T210444Z">
@@ -36054,6 +36134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Module1, or the new module that you created, and click &lt;f0&gt;Edit&lt;/f0&gt; to open the Integrated Debugging Environment (IDE) (&lt;f1&gt;&lt;t2&gt;Figure 3&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082204Z" creationid="install" creationdate="20150923T082204Z">
+        <seg>Zvolíme Module1 nebo nově vytvořený modul a klikneme na &lt;f0&gt;Upravit&lt;/f0&gt;, čímž se otevře okno integrovaného vývojového prostředí (angl. Integrated Development Environment, IDE) (&lt;f1&gt;obrázek &lt;t2&gt;3&lt;/t2&gt; &lt;/f1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Query_Household Inventory from the &lt;f0&gt;Tables or queries&lt;/f0&gt; drop-down list.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150726T071129Z" creationid="lenochod26" creationdate="20150726T071129Z">
@@ -36402,6 +36490,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T124736Z" creationid="install" creationdate="20150727T124736Z">
         <seg>V seznamu &lt;f0&gt;Rozvržení dat&lt;/f0&gt; zvolíme to, které vyhovuje našim potřebám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the &lt;f0&gt;Modules&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T081918Z" creationid="install" creationdate="20150923T081918Z">
+        <seg>Zvolíme kartu &lt;f0&gt;Moduly&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37410,6 +37506,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T201436Z" creationid="install" creationdate="20150629T115827Z">
         <seg>Nastavíme hodnotu pole &lt;f0&gt;Úvodní nuly&lt;/f0&gt; na &lt;f1&gt;4&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set the &lt;f0&gt;Location&lt;/f0&gt; to &lt;f1&gt;My Macros &amp; Dialogs&lt;/f1&gt;, which is the default location.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T081603Z" creationid="install" creationdate="20150923T081603Z">
+        <seg>V seznamu &lt;f0&gt;Lokalita&lt;/f0&gt; zvolíme položku &lt;f1&gt;Moje makra a dialogová okna&lt;/f1&gt;, což je standardní místo pro ukládání maker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40362,6 +40466,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T210355Z" creationid="standa" creationdate="20140228T210355Z">
         <seg>Dialogové okno Hypertextový odkaz zůstane otevřeno a můžeme v úpravě hypertextových odkazů pokračovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The IDE is a text editor included with LibreOffice that allows you to create and edit macros.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082220Z" creationid="install" creationdate="20150923T082220Z">
+        <seg>IDE je textový editor začleněn do LibreOffice, který umožňuje vytváření a úpravu maker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51570,6 +51682,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150714T141942Z" creationid="install" creationdate="20150714T141942Z">
         <seg>Když vytvoříme novou databázi, je třeba vytvořit i tyto objekty, aby byly údaje databáze užitečné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a new module is created, it contains a comment and an empty macro named Main, which does nothing.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150923T082312Z" creationid="install" creationdate="20150923T082312Z">
+        <seg>Nový modul po vytvoření obsahuje pouze poznámku a jedno prázdné makro s názvem Main, které nic nedělá.</seg>
       </tuv>
     </tu>
     <tu>
