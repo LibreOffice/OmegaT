@@ -6670,6 +6670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T141423Z" creationid="install" creationdate="20150924T141423Z">
+        <seg>Alternativní možností je otevření okna Makra LibreOffice Basic zvolením &lt;f0&gt;Nástroje &gt; Makra &gt; Správce maker &gt; LibreOffice Basic&lt;/f0&gt; v hlavní nabídce, ve kterém makro vybereme a klikneme na &lt;f1&gt;Spustit&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, go to &lt;f5&gt;View &gt; Toolbars &gt; Arrows&lt;/f5&gt; to open the Arrows toolbar as a floating toolbar (&lt;f6&gt;&lt;t7&gt;Figure 15&lt;/t7&gt;&lt;/f6&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T190211Z" creationid="standa" creationdate="20140414T190211Z">
@@ -10778,6 +10786,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140306T171338Z" creationid="standa" creationdate="20140306T171338Z">
         <seg>Klepnutím na &lt;f0&gt;Uložit&lt;/f0&gt; vytvoříme vícestránkový dokument HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt; to save the macro and close the LibreOffice Basic Macros dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T140847Z" creationid="install" creationdate="20150924T140847Z">
+        <seg>Kliknutím na &lt;f0&gt;Uložit&lt;/f0&gt; nové makro uložíme a okno zavřeme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18558,6 +18574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;Macro Selector dialog&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T141428Z" creationid="install" creationdate="20150924T141428Z">
+        <seg>Obrázek &lt;seq0&gt;5 &lt;/seq0&gt;: &lt;f1&gt;Dialogové okno Výběr maker &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: &lt;f1&gt;Main layout&lt;/f1&gt; page of Web Wizard dialog</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140301T192918Z" creationid="standa" creationdate="20140301T192918Z">
@@ -20202,6 +20226,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T172835Z" creationid="standa" creationdate="20150122T172724Z">
         <seg>Například místo psaní fráze „vrcholový management“ můžeme nastavit položku automatického textu, který tato slova vloží, když napíšeme „vm“ a stiskneme klávesu &lt;f0&gt;F3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, select your newly created macro EnterMyName and click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T141243Z" creationid="install" creationdate="20150924T141243Z">
+        <seg>Například vybereme nově vytvořené makro VlozitMojeJmeno a klikneme na tlačítko &lt;f0&gt;Spustit&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22234,6 +22266,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150924T131813Z" creationid="install" creationdate="20150924T131813Z">
         <seg>Záznam makra spustíme zvolením &lt;f0&gt;Nástroje &gt; Makra &gt; Zaznamenat makro&lt;/f0&gt; v hlavní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; on the main menu bar to open the Macro Selector dialog (&lt;f1&gt;&lt;t2&gt;Figure 5&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T141155Z" creationid="install" creationdate="20150924T141155Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Nástroje &gt; Makra &gt; Spustit makro&lt;/f0&gt;, čímž otevřeme okno Výběr maker (&lt;f1&gt;obrázek &lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25186,6 +25226,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T192743Z" creationid="standa" creationdate="20140131T074220Z">
         <seg>Pokud nejprve stiskneme a podržíme klávesu &lt;f0&gt;Ctrl&lt;/f0&gt; a poté klepneme na některou z ikon Čára, Obdélník, Elipsa nebo Text, v pracovní oblasti se automaticky nakreslí objekt standardní velikosti; jeho velikost, tvar a barva budou také standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you followed all of the above steps, the Standard library now contains a module named Recorded and this module contains the EnterMyName macro.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T140940Z" creationid="install" creationdate="20150924T140940Z">
+        <seg>Pokud jsme podrobně postupovali podle výše uvedeného postupu, v knihovně Standard nyní máme modul se jménem zaznamenala, který obsahuje makro VlozitMojeJmeno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35066,6 +35114,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T185808Z" creationid="standa" creationdate="20140116T185808Z">
         <seg>Pravítka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running a macro</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T141102Z" creationid="install" creationdate="20150924T141102Z">
+        <seg>Spuštění makra</seg>
       </tuv>
     </tu>
     <tu>
@@ -51398,6 +51454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viewing &lt;i0/&gt;and editing macros</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T141450Z" creationid="install" creationdate="20150924T141450Z">
+        <seg>Zobrazení a &lt;i0 /&gt; úprava maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Viewing Calc</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T192621Z" creationid="lenochod26" creationdate="20150626T180338Z">
@@ -51818,6 +51882,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T130941Z" creationid="install" creationdate="20150713T130941Z">
         <seg>Když zvolíme Formuláře nebo Sestavy, jsou dostupné všechny tři volby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When LibreOffice creates a new module, it automatically adds the macro named Main.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T141054Z" creationid="install" creationdate="20150924T141054Z">
+        <seg>Při vytvoření nového modulu do něj LibreOffice automaticky vloží makro s názvem Main.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58892,6 +58964,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T165327Z" creationid="standa" creationdate="20140414T165327Z">
         <seg>pravítka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>running</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150924T141057Z" creationid="install" creationdate="20150924T141057Z">
+        <seg>spouštění</seg>
       </tuv>
     </tu>
     <tu>
