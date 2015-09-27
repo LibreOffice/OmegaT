@@ -4534,6 +4534,78 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"Your name"&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T153044Z" creationid="Admin" creationdate="20150927T153044Z">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"Your name"&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).Name&lt;/f3&gt; &lt;f4&gt;=&lt;/f4&gt; &lt;f5&gt;"Text"&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T153040Z" creationid="Admin" creationdate="20150927T153040Z">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).Name&lt;/f3&gt; &lt;f4&gt;=&lt;/f4&gt; &lt;f5&gt;"Text"&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args1&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;0&lt;/f3&gt;&lt;f4&gt;)&lt;/f4&gt; &lt;f5&gt;as&lt;/f5&gt; &lt;f6&gt;new&lt;/f6&gt; &lt;f7&gt;com&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;star&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt;beans&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;PropertyValue&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T153028Z" creationid="Admin" creationdate="20150927T153028Z">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args1&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;0&lt;/f3&gt;&lt;f4&gt;)&lt;/f4&gt; &lt;f5&gt;as&lt;/f5&gt; &lt;f6&gt;new&lt;/f6&gt; &lt;f7&gt;com&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;star&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt;beans&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;PropertyValue&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;dispatcher&lt;/f1&gt; &lt;f2&gt;as&lt;/f2&gt; &lt;f3&gt;object&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T152852Z" creationid="Admin" creationdate="20150927T152852Z">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;dispatcher&lt;/f1&gt; &lt;f2&gt;as&lt;/f2&gt; &lt;f3&gt;object&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;document&lt;/f1&gt; &lt;s2/&gt;&lt;f3&gt;as&lt;/f3&gt; &lt;f4&gt;object&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T152847Z" creationid="Admin" creationdate="20150927T152847Z">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;document&lt;/f1&gt; &lt;s2/&gt;&lt;f3&gt;as&lt;/f3&gt; &lt;f4&gt;object&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt; &lt;f1&gt;=&lt;/f1&gt; &lt;f2&gt;createUnoService&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;"com.sun.star.frame.DispatchHelper"&lt;/f4&gt;&lt;f5&gt;)&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T153008Z" creationid="Admin" creationdate="20150927T153008Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt; &lt;f1&gt;=&lt;/f1&gt; &lt;f2&gt;createUnoService&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;"com.sun.star.frame.DispatchHelper"&lt;/f4&gt;&lt;f5&gt;)&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args1&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T153047Z" creationid="Admin" creationdate="20150927T153047Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args1&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;document&lt;/f0&gt; &lt;s1/&gt;&lt;f2&gt;=&lt;/f2&gt; &lt;f3&gt;ThisComponent&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;f5&gt;CurrentController&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;f7&gt;Frame&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T152954Z" creationid="Admin" creationdate="20150927T152954Z">
+        <seg>&lt;f0&gt;document&lt;/f0&gt; &lt;s1/&gt;&lt;f2&gt;=&lt;/f2&gt; &lt;f3&gt;ThisComponent&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;f5&gt;CurrentController&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;f7&gt;Frame&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;end&lt;/f0&gt; &lt;f1&gt;sub&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T153053Z" creationid="Admin" creationdate="20150927T153053Z">
+        <seg>&lt;f0&gt;end&lt;/f0&gt; &lt;f1&gt;sub&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;lbrace&lt;/f0&gt; and &lt;f1&gt;rbrace&lt;/f1&gt; give you literal braces &lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T084211Z" creationid="install" creationdate="20150818T084211Z">
@@ -59140,6 +59212,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T151509Z" creationid="Admin" creationdate="20150927T151501Z">
         <seg>rem define variables (překl. definice proměnných)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem get access to the document</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T152927Z" creationid="Admin" creationdate="20150927T152927Z">
+        <seg>rem get access to the document</seg>
       </tuv>
     </tu>
     <tu>
