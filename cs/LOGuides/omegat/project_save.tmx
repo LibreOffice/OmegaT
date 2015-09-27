@@ -2614,6 +2614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;End&lt;/f0&gt; &lt;f1&gt;Sub&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T151410Z" creationid="Admin" creationdate="20150927T151410Z">
+        <seg>&lt;f0&gt;End&lt;/f0&gt; &lt;f1&gt;Sub&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;End&lt;/f0&gt; moves the cell focus to the last cell on the right in the row that contains data.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T193859Z" creationid="lenochod26" creationdate="20150620T075507Z">
@@ -4530,6 +4538,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T084211Z" creationid="install" creationdate="20150818T084211Z">
         <seg>&lt;f0&gt;lbrace&lt;/f0&gt; a &lt;f1&gt;rbrace&lt;/f1&gt; vytvoří složené závorky &lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;vzorec&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;sub&lt;/f0&gt; &lt;f1&gt;EnterMyName&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T151438Z" creationid="Admin" creationdate="20150927T151438Z">
+        <seg>&lt;f0&gt;sub&lt;/f0&gt; &lt;f1&gt;VlozitMojeJmeno&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29582,6 +29598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;3&lt;/seq0&gt;: Generated “EnterMyname” macro</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T151404Z" creationid="Admin" creationdate="20150927T151404Z">
+        <seg>Výpis &lt;seq0&gt;3&lt;/seq0&gt; Vytvořeno makro „VlozitMojeJmeno"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listings in the Gallery show the location of each object.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T193701Z" creationid="standa" creationdate="20140417T193701Z">
@@ -42042,6 +42066,14 @@
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20150923T051304Z" creationid="GRB" creationdate="20150923T051304Z">
         <seg>Jednotlivé součásti LibreOffice mají k dispozici různá nastavení tisku, jak je shrnuto v tabulce &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The discussion starts with features near the top of the macro listing and describes them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T151347Z" creationid="Admin" creationdate="20150927T151347Z">
+        <seg>Začneme popisem prvků, které se nacházejí v horní části výpisu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59092,6 +59124,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140222T210407Z" creationid="standa" creationdate="20140222T210407Z">
         <seg>relativní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem -------------------------------------------------------------</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T151444Z" creationid="Admin" creationdate="20150927T151444Z">
+        <seg>rem -------------------------------------------------------------</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem define variables</seg>
+      </tuv>
+      <tuv lang="CS" changeid="Admin" changedate="20150927T151509Z" creationid="Admin" creationdate="20150927T151501Z">
+        <seg>rem define variables (překl. definice proměnných)</seg>
       </tuv>
     </tu>
     <tu>
