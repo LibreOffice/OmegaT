@@ -6542,6 +6542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All comments in macro coding begin with REM, which stands for remark.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T081617Z" creationid="install" creationdate="20150929T081617Z">
+        <seg>Poznámky v jazyce Basic začínají klíčovým slovem REM, což je zkratka slova remark (poznámka).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All components contain the Properties, Styles and Formatting, Gallery, and Navigator decks.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T164917Z" creationid="standa" creationdate="20140501T164917Z">
@@ -6586,6 +6594,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T180737Z" creationid="install" creationdate="20150624T120243Z">
         <seg>Všechny karty mezi těmito dvěma výběry zbělají (ve výchozím nastavení Calcu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All text after REM and on the same line is ignored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T081624Z" creationid="install" creationdate="20150929T081624Z">
+        <seg>Veškerý text za REM na daném řádku je ignorován.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7594,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T131712Z" creationid="install" creationdate="20150710T131712Z">
         <seg>Díky tomu průvodce udělá většinu návrhu za nás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a short cut, the single quote character (') can also be used to start a comment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T081723Z" creationid="install" creationdate="20150929T081723Z">
+        <seg>Alternativně můžeme poznámku začít i znakem apostrof (').</seg>
       </tuv>
     </tu>
     <tu>
@@ -14186,6 +14210,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T223319Z" creationid="standa" creationdate="20140103T223319Z">
         <seg>Definování posloupnosti stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining subroutines with &lt;is0/&gt;SUB</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082112Z" creationid="install" creationdate="20150929T082112Z">
+        <seg>Definování podprogramů pomocí &lt;is0/&gt;SUB</seg>
       </tuv>
     </tu>
     <tu>
@@ -25878,6 +25910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you use symbolic constants defined by the Application Programming Interface (API), it is safer to assume that the names are case-sensitive.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T081758Z" creationid="install" creationdate="20150929T081758Z">
+        <seg>Pokud však využíváme symbolické konstanty definované aplikačním rozhraním (angl. Application Programming Interface, API), je lepší předpokládat, že se v jejich názvech malá a velká písmena rozlišují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you use the default tab spacing and then send the document to someone else who has &lt;t0/&gt;chosen a different default tab spacing, tabbed material will change to use the other person’s settings.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T203915Z" creationid="standa" creationdate="20150110T183327Z">
@@ -27814,6 +27854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual macros are stored in subroutines and these subroutines begin with the keyword SUB.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082150Z" creationid="install" creationdate="20150929T082136Z">
+        <seg>Jednotlivé makra jsou uloženy jako podprogramy jazyka Basic, které začínají klíčovým slovem SUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information &lt;i0/&gt;on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a1&gt;&lt;f2&gt;http://www.libreoffice.org/get-help/installation/&lt;/f2&gt;&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T181426Z" creationid="standa" creationdate="20140425T181426Z">
@@ -29166,6 +29214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice Basic is not case-sensitive for keywords, so REM, Rem, and rem can all start a comment.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T081736Z" creationid="install" creationdate="20150929T081736Z">
+        <seg>LibreOffice Basic nerozlišuje malá a velká písmena, a tak poznámku můžeme začít stejně pomocí REM, Rem, nebo rem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice Basic macros must be located in the header of the HTML document.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T183923Z" creationid="standa" creationdate="20141016T183923Z">
@@ -29186,6 +29242,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T190104Z" creationid="standa" creationdate="20140418T190104Z">
         <seg>LibreOffice také poskytuje podporu pro jazyky, jako jsou například urdština, hebrejština a arabština, a to díky podpoře pro &lt;i3/&gt; komplexní rozvržení textu (CTL) a psaní &lt;i4/&gt; zprava doleva (RTL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice always creates an empty subroutine named Main when it creates a module.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082259Z" creationid="install" creationdate="20150929T082259Z">
+        <seg>LibreOffice při vytváření nového modulu vždy vytvoří prázdný podprogram Main.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39934,6 +39998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Symbolic constants are an advanced topic not covered by this user guide and are not required when using the macro recorder in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T081837Z" creationid="install" creationdate="20150929T081837Z">
+        <seg>Symbolické konstanty jsou pokročilejší téma a v tomto návodu se jim nevěnujeme, protože při záznamu maker v LibreOffice se s nimi nesetkáme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Symbols (Greek or Special), in contrast to commands, are case sensitive (lowercase/uppercase).</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T124743Z" creationid="install" creationdate="20150821T124743Z">
@@ -41694,6 +41766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The code starts by defining the subroutine named Main, which is empty and does nothing.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082213Z" creationid="install" creationdate="20150929T082213Z">
+        <seg>Kód začíná definicí podprogramu (makra) s názvem Main (překl. Hlavní), který je prázdný a nedělá nic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collection of data we mentioned was a flat database without any structure.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T121540Z" creationid="install" creationdate="20150710T121540Z">
@@ -42258,6 +42338,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150820T101659Z" creationid="install" creationdate="20150820T101659Z">
         <seg>Prázdné závorky kolem = jsou nezbytné, protože = je binární operátor a vyžaduje výraz na každé straně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The end of a subroutine is indicated by the words END SUB.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082147Z" creationid="install" creationdate="20150929T082147Z">
+        <seg>a končí klíčovým slovem END SUB.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43346,6 +43434,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T203422Z" creationid="standa" creationdate="20141022T203422Z">
         <seg>Nová barva se zobrazí v dolním z dvojice polí s náhledy barev v horní části okna, jak je znázorněno na &lt;t1&gt;obrázku 9&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next subroutine, EnterMyName, contains the generated code for your macro.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082231Z" creationid="install" creationdate="20150929T082231Z">
+        <seg>Za ním následuje podprogram (makro) VlozitMojeJmeno, který obsahuje námi vytvořený kód.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44738,6 +44834,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T190119Z" creationid="standa" creationdate="20150110T190119Z">
         <seg>To, aby byl odstavec byl kontrolován v určitém jazyce (odlišném, než je zbytek dokumentu), můžeme nastavit několika způsoby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are advanced topics that are beyond the scope of this user guide, but knowing about them might be of interest:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082334Z" creationid="install" creationdate="20150929T082334Z">
+        <seg>Některá pokročilé témata o programování v jazyce Basic jsou sice mimo rozsah tohoto manuálu, nemusí však být na závadu, pokud o nich budeme vědět:</seg>
       </tuv>
     </tu>
     <tu>
@@ -59756,6 +59860,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140108T204427Z" creationid="standa" creationdate="20140108T204427Z">
         <seg>styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>subroutines</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082049Z" creationid="install" creationdate="20150929T082049Z">
+        <seg>podprogramy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>subroutines in macros</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T082057Z" creationid="install" creationdate="20150929T082057Z">
+        <seg>podprogramy v makrech</seg>
       </tuv>
     </tu>
     <tu>
