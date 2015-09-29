@@ -5958,10 +5958,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A third variable, named &lt;f6&gt;args1&lt;/f6&gt;, is an array of property values.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T085144Z" creationid="install" creationdate="20150929T085144Z">
+        <seg>Třetí proměnná se jménem &lt;f6&gt;args1&lt;/f6&gt; je pole prvků, které představují hodnoty vlastností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A typical use is for chapter titles to always start on a new right-hand (odd-numbered) page.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T182703Z" creationid="standa" creationdate="20140116T182703Z">
         <seg>Často se to používá pro názvy kapitol, které mají začínat na nové pravé (liché) stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A variable of type &lt;f7&gt;array&lt;/f7&gt; allows a single variable to contain multiple values, similar to storing multiple pages in a single book.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T085239Z" creationid="install" creationdate="20150929T085239Z">
+        <seg>Proměnná typu &lt;f7&gt;array&lt;/f7&gt; (pole) může uchovávat více hodnot, které bychom mohli přirovnat více stranám v jedné knize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A variable, like a piece of paper, contains information that can be changed and read.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084707Z" creationid="install" creationdate="20150929T084707Z">
+        <seg>Proměnná, podobně jako tento kus papíru, obsahuje informaci, kterou můžeme později změnit nebo si ji přečíst.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7186,6 +7210,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T090004Z" creationid="install" creationdate="20150724T090004Z">
         <seg>Dalším nástrojem je Dotaz, pomocí kterého můžeme data zobrazit a zpracovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another kind of subroutine is called a function, which is a subroutine that returns a value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084411Z" creationid="install" creationdate="20150929T084411Z">
+        <seg>Jiným typem podprogramů jsou funkce. Funkce je takový podprogram, který vrací hodnotu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14154,6 +14186,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T175117Z" creationid="standa" creationdate="20140407T175117Z">
         <seg>Definování &lt;i0/&gt;odlišné první stránky dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining &lt;i0/&gt;variables using &lt;is1/&gt;&lt;is2/&gt;Dim</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084601Z" creationid="install" creationdate="20150929T084601Z">
+        <seg>Definování&lt;i0/&gt; proměnných pomocí &lt;is1/&gt;&lt;is2/&gt;Dim</seg>
       </tuv>
     </tu>
     <tu>
@@ -21886,6 +21926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Functions are defined by the keyword FUNCTION at the beginning.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084421Z" creationid="install" creationdate="20150929T084421Z">
+        <seg>Funkce definujeme pomocí klíčového slova FUNCTION na jejím začátku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Functions help you create the formulas required to get the results that you are looking for.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T131327Z" creationid="install" creationdate="20150707T131327Z">
@@ -23594,6 +23642,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T190958Z" creationid="standa" creationdate="20140417T190958Z">
         <seg>Zrcadlení objektu ale může být dosaženo pomocí nástroje &lt;f0&gt;Překlopit&lt;/f0&gt;, jak je popsáno v &lt;f1&gt;kapitole 4 Changing Object Attributes příručky Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, recorded macros in LibreOffice always create subroutines, not functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084439Z" creationid="install" creationdate="20150929T084439Z">
+        <seg>Zaznamenané makra vytvářejí podprogramy, které nejsou funkcemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, recorded macros in LibreOffice do not accept arguments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084349Z" creationid="install" creationdate="20150929T084349Z">
+        <seg>Zaznamenaná makra však žádné argumenty nepřijímají.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27210,6 +27274,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T211956Z" creationid="standa" creationdate="20140109T211956Z">
         <seg>V dialogovém okně Vytvořit styl zadáme název nového stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the EnterMyName macro, the variables &lt;f0&gt;document&lt;/f0&gt; and &lt;f1&gt;dispatcher&lt;/f1&gt; are defined as the type &lt;f2&gt;object&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084852Z" creationid="install" creationdate="20150929T084852Z">
+        <seg>V makru VlozitMojeJmeno jsou proměnné &lt;f0&gt;document&lt;/f0&gt; (dokument) a &lt;f1&gt;dispatcher&lt;/f1&gt; (dispečer) definovány jako proměnné typu &lt;f2&gt;object&lt;/f2&gt; (objekt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -33258,6 +33330,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222742Z" creationid="standa" creationdate="20140103T222742Z">
         <seg>Správa šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other common variable types include &lt;f3&gt;string&lt;/f3&gt;, &lt;f4&gt;integer&lt;/f4&gt;, and &lt;f5&gt;date&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T085130Z" creationid="install" creationdate="20150929T085130Z">
+        <seg>Jiné obvyklé typy proměnných jsou &lt;f3&gt;string&lt;/f3&gt; (textový řetězec), &lt;f4&gt;integer&lt;/f4&gt; (celé číslo) a &lt;f5&gt;date&lt;/f5&gt; (datum).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40894,6 +40974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Dim keyword originally stood for Dimension and was used to define the dimensions of an array.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084744Z" creationid="install" creationdate="20150929T084744Z">
+        <seg>Proměnné v jazyku Basic definujeme pomocí klíčového slova Dim. Dim původně znamenalo Dimension (rozměr) a používalo se pro zadávání počtu prvků pole (proměnné s více prvky). Dnes se však používá také k definování proměnných s jedinou hodnotou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Draw Gallery; see &lt;f0&gt;Chapter 11 Graphics, the Gallery, and Fontwork&lt;/f0&gt; in this guide for more information.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140220T075751Z" creationid="standa" creationdate="20140220T075751Z">
@@ -44538,6 +44626,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150820T104343Z" creationid="install" creationdate="20150820T104343Z">
         <seg>Hodnota uvedená po příkazu &lt;f13&gt;size&lt;/f13&gt; může být absolutní (číselná hodnota), nebo vztažena na kontext (základní velikost ve výchozím nastavení). Příklady: &lt;f14&gt;+6&lt;/f14&gt;, &lt;f15&gt;-3&lt;/f15&gt;, &lt;f16&gt;/ 2&lt;/f16&gt; nebo &lt;f17&gt;* 2&lt;/f17&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The values are called arguments.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084331Z" creationid="install" creationdate="20150929T084331Z">
+        <seg>Tyto parametry se nazývají argumenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56344,6 +56440,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can write a macro so that values can be passed to the subroutine.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084321Z" creationid="install" creationdate="20150929T084321Z">
+        <seg>Makro lze napsat i tak, že podprogramu, který ho definuje, předáme požadované parametry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can write information on a piece of paper so that you can look at it later.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084655Z" creationid="install" creationdate="20150929T084655Z">
+        <seg>Pokud to potřebujeme, informaci si můžeme zapsat na kus papíru, abychom se na něj mohli později podívat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can, as with any other OLE object, change the anchor and make the formula floating.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150813T134953Z" creationid="install" creationdate="20150813T134953Z">
@@ -60132,6 +60244,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150702T082212Z" creationid="install" creationdate="20150702T082212Z">
         <seg>ověřování obsahu buňky, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>variables</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084514Z" creationid="install" creationdate="20150929T084514Z">
+        <seg>proměnné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>variables in macros</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T084525Z" creationid="install" creationdate="20150929T084525Z">
+        <seg>proměnné v makrech</seg>
       </tuv>
     </tu>
     <tu>
