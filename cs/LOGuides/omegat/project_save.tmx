@@ -4534,6 +4534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value &lt;/f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;"Your name"&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115535Z" creationid="install" creationdate="20150929T115535Z">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value &lt;/f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;"Zadané jméno autora"&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"Your name"&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T153044Z" creationid="Admin" creationdate="20150927T153044Z">
@@ -4554,6 +4562,14 @@
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T153028Z" creationid="Admin" creationdate="20150927T153028Z">
         <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args1&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;0&lt;/f3&gt;&lt;f4&gt;)&lt;/f4&gt; &lt;f5&gt;as&lt;/f5&gt; &lt;f6&gt;new&lt;/f6&gt; &lt;f7&gt;com&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;star&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt;beans&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;PropertyValue&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args1&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;0&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; &lt;f6&gt;as&lt;/f6&gt; &lt;f7&gt;new&lt;/f7&gt; &lt;f8&gt;com&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;f10&gt;sun&lt;/f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;f12&gt;star&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;f14&gt;beans&lt;/f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;f16&gt;PropertyValue&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115329Z" creationid="install" creationdate="20150929T115329Z">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args1&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;0&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; &lt;f6&gt;as&lt;/f6&gt; &lt;f7&gt;new&lt;/f7&gt; &lt;f8&gt;com&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;f10&gt;sun&lt;/f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;f12&gt;star&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;f14&gt;beans&lt;/f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;f16&gt;PropertyValue&lt;/f16&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,6 +4602,22 @@
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T153047Z" creationid="Admin" creationdate="20150927T153047Z">
         <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args1&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt;&lt;f6&gt; ".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;f10&gt; 0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;args1&lt;/f13&gt;&lt;f14&gt;())&lt;/f14&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115918Z" creationid="install" creationdate="20150929T115918Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt;&lt;f6&gt; ".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;f10&gt; 0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt;&lt;f12&gt; &lt;/f12&gt;&lt;f13&gt;args1&lt;/f13&gt;&lt;f14&gt;())&lt;/f14&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;document&lt;/f0&gt; &lt;f1&gt;=&lt;/f1&gt; &lt;f2&gt;ThisComponent&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;CurrentController&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;f6&gt;Frame&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114710Z" creationid="install" creationdate="20150929T114710Z">
+        <seg>&lt;f0&gt;document&lt;/f0&gt; &lt;f1&gt;=&lt;/f1&gt; &lt;f2&gt;ThisComponent&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;&lt;f4&gt;CurrentController&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;&lt;f6&gt;Frame&lt;/f6&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13838,6 +13870,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CurrentController is a property referring to a service that controls the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114744Z" creationid="install" creationdate="20150929T114744Z">
+        <seg>CurrentController (překl. Aktuální ovladač) je prvek, který zpřístupňuje službu, která řídí práci s dokumentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CurrentController then dispatches the changes to the document frame.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114831Z" creationid="install" creationdate="20150929T114831Z">
+        <seg>CurrentController pak změny odesílá do rámce (angl. Frame) dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Curve</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T170812Z" creationid="standa" creationdate="20140317T170812Z">
@@ -14118,6 +14166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Declares an array of properties.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115348Z" creationid="install" creationdate="20150929T115348Z">
+        <seg>Deklaruje pole vlastností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Decrease Indent</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T174543Z" creationid="standa" creationdate="20150122T174543Z">
@@ -14170,6 +14226,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T112722Z" creationid="install" creationdate="20150724T112722Z">
         <seg>Zde definujeme podmínky, které se použijí při vyhledávání v databázi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defined as a variable</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114002Z" creationid="install" creationdate="20150929T114002Z">
+        <seg>Definuje proměnné</seg>
       </tuv>
     </tu>
     <tu>
@@ -15786,6 +15850,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150805T213040Z" creationid="standa" creationdate="20150805T213040Z">
         <seg>Každý obsahuje možnosti vzhledu snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each property has a name and a value.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115355Z" creationid="install" creationdate="20150929T115355Z">
+        <seg>Každá vlastnost má název a hodnotu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20614,6 +20686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, when you type, it is the current controller that takes note of what you type.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114808Z" creationid="install" creationdate="20150929T114808Z">
+        <seg>Například, pokud píšeme, ovladač CurrentController zaznamenává znaky, které zadáváme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can also save printer settings, and general behaviors set from &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, such as &lt;f1&gt;Paths&lt;/f1&gt; and &lt;f2&gt;Colors&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T210424Z" creationid="standa" creationdate="20140406T210424Z">
@@ -21678,6 +21758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Frame is a controller property that returns the main frame for a document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114845Z" creationid="install" creationdate="20150929T114845Z">
+        <seg>Frame je vlastnost ovladače, která zpřístupňuje hlavní rámec (zobrazenou část) dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Freeform lines</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T190331Z" creationid="standa" creationdate="20140116T190331Z">
@@ -22138,6 +22226,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150804T123519Z" creationid="install" creationdate="20150804T123519Z">
         <seg>Gisbert Friege (Dmaths)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Gives the property the name “Text” and the value “Your name”, which is the text that is inserted when the macro is run.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115530Z" creationid="install" creationdate="20150929T115530Z">
+        <seg>Vlastnosti přiřazuje název „Text“ a hodnotu „Zadané jméno autora“, což je text, který byl zadán během záznamu makra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27118,6 +27214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, it is a name/value pair.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115406Z" creationid="install" creationdate="20150929T115406Z">
+        <seg>Jinými slovy, je to pár název / hodnota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, styles means that you shift the emphasis from what the text (or page, or other element) looks like, to what the text &lt;f1&gt;is&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T214236Z" creationid="standa" creationdate="20140105T214236Z">
@@ -29470,6 +29574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice includes&lt;i0/&gt; &lt;i1/&gt;a dispatch helper service, which does most of the work when using dispatches in macros.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115049Z" creationid="install" creationdate="20150929T115049Z">
+        <seg>&lt;i0/&gt;&lt;i1/&gt;Odesílací služba (dispatch helper) LibreOffice provede většinu práce v makrech, související s odesíláním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice is a freely available, fully-featured office productivity suite.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T202343Z" creationid="standa" creationdate="20140417T202343Z">
@@ -30818,6 +30930,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T200106Z" creationid="standa" creationdate="20141008T200106Z">
         <seg>Většina operačních systémů umožňuje vygenerování certifikátu s vlastním podpisem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most tasks in LibreOffice are accomplished by dispatching a command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115015Z" creationid="install" creationdate="20150929T115015Z">
+        <seg>Většina úloh se v LibreOffice provádí prostřednictvím odesílání (angl. Dispatching) příkazů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32258,6 +32378,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140210T202919Z" creationid="standa" creationdate="20140210T202919Z">
         <seg>Na počítačích s operačním systémem LInux je nutné použít dále popsaný způsob využívající klávesu &lt;f1&gt;Tab&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On completion, the dispatcher variable contains a reference to a DispatchHelper.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115324Z" creationid="install" creationdate="20150929T115324Z">
+        <seg>Po provedení proměnná dispatcher obsahuje referenci na DispatchHelper.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42030,6 +42158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The created array has one property at index zero.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115430Z" creationid="install" creationdate="20150929T115430Z">
+        <seg>Toto vytvořené pole má jen jednu vlastnost s indexem 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The creation of flowcharts, organization charts, and similar planning tools are further described in the &lt;f5&gt;Draw Guide Chapter 8 Connections, Flowcharts and Organization Charts.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140210T200153Z" creationid="standa" creationdate="20140210T200153Z">
@@ -42346,6 +42482,14 @@
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T151347Z" creationid="Admin" creationdate="20150927T151347Z">
         <seg>Začneme popisem prvků, které se nacházejí v horní části výpisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dispatch helper sends a dispatch to the document frame (stored in the variable named document) with the command .uno:InsertText.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T120006Z" creationid="install" creationdate="20150929T120006Z">
+        <seg>Odesílací služba (dispatch helper) pošle odesílané údaje rámci dokumentu (uloženém v proměnné se jménem document) pomocí příkazu uno: InsertText.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43394,6 +43538,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T170911Z" creationid="standa" creationdate="20140313T170911Z">
         <seg>Ve zprávě se spolu s informací, že obrázek nebude v dokumentu uložen a že na něj bude pouze odkazováno, obrazí dotaz, zda místo toho chceme obrázek vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The method CreateUnoService accepts the name of a service and it tries to create an instance of that service.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115304Z" creationid="install" creationdate="20150929T115304Z">
+        <seg>Metoda CreateUnoService přijímá název této služby a snaží se vytvořit její instanci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45102,6 +45254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, the variable named document refers to a document’s frame, which receives dispatched commands.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114901Z" creationid="install" creationdate="20150929T114901Z">
+        <seg>Proto proměnná se jménem document odkazuje na rámec dokumentu, který přijímá odeslané příkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, you need to understand what you are doing as you do it.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T132037Z" creationid="install" creationdate="20150710T132037Z">
@@ -46454,6 +46614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is where the magic happens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T115558Z" creationid="install" creationdate="20150929T115558Z">
+        <seg>Zde se provede vlastní vkládání textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is where you define whether the query is detailed or summary.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T115709Z" creationid="install" creationdate="20150724T115626Z">
@@ -47042,6 +47210,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140222T212607Z" creationid="standa" creationdate="20140222T212607Z">
         <seg>Taková „absolutní“ adresa cíle se změní, když soubor přesuneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ThisComponent refers to the current document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114724Z" creationid="install" creationdate="20150929T114724Z">
+        <seg>Objekt ThisComponent zpřístupňuje aktuální dokument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58036,6 +58212,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T181022Z" creationid="standa" creationdate="20140116T181022Z">
         <seg>rozdílné na pravých a levých stránkách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dispatch helper</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20150929T114912Z" creationid="install" creationdate="20150929T114912Z">
+        <seg>odesílací služba</seg>
       </tuv>
     </tu>
     <tu>
