@@ -4678,6 +4678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:GoToStartOfLine"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T075537Z" creationid="install" creationdate="20151002T075537Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:GoToStartOfLine"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args1&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T153047Z" creationid="Admin" creationdate="20150927T153047Z">
@@ -4698,6 +4706,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T060208Z" creationid="install" creationdate="20151002T060208Z">
         <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args6&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:Paste"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T075619Z" creationid="install" creationdate="20151002T075619Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:Paste"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4770,6 +4786,30 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T060521Z" creationid="install" creationdate="20151002T060521Z">
         <seg>&lt;f0&gt; rem (11) Dvakrát stiskneme&lt;/f0&gt; &lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt;, čímž smažeme dvě mezery na konci. &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (12) Press &lt;/f0&gt;&lt;f1&gt;Home&lt;/f1&gt;&lt;f2&gt; to move the cursor to the start of the line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T075521Z" creationid="install" creationdate="20151002T075521Z">
+        <seg>&lt;f0&gt; rem (12) Stiskem&lt;/f0&gt; &lt;f1&gt;Home&lt;/f1&gt; &lt;f2&gt;kurzor přesuneme na začátek řádku.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (13) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+V&lt;/f1&gt;&lt;f2&gt; to paste the selected number to the start of the line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T075613Z" creationid="install" creationdate="20151002T075613Z">
+        <seg>&lt;f0&gt; rem (13) Stiskem&lt;/f0&gt; &lt;f1&gt;Ctrl+V&lt;/f1&gt; &lt;f2&gt;vložíme vybrané číslo na začátek řádku.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (14) Press &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; to remove the extra space.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T075651Z" creationid="install" creationdate="20151002T075651Z">
+        <seg>&lt;f0&gt; rem (14) Stiskem&lt;/f0&gt; &lt;f1&gt;Backspace&lt;/f1&gt; &lt;f2&gt;smažeme zbytečnou mezeru. &lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
