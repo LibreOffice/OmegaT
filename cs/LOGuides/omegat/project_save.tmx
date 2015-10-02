@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>".uno:OptionsTreeDialog", "", 0, Array())</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T085139Z" creationid="install" creationdate="20151002T085139Z">
+        <seg>".uno:OptionsTreeDialog", "", 0, Array())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"In " color blue bold "isosceles" " triangles, the base angles are equal"</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150820T091018Z" creationid="install" creationdate="20150820T090912Z">
@@ -24670,6 +24678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a dialog is opened, a command to open the dialog is likely to be generated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T085218Z" creationid="install" creationdate="20151002T085218Z">
+        <seg>Pokud se otevře dialogové okno, obvykle se zaznamená pouze příkaz k jeho otevření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a document is already open in LibreOffice, click on the small triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon on the Standard toolbar and select the type of document from the context menu that opens.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140502T143446Z" creationid="standa" creationdate="20140502T143446Z">
@@ -27682,6 +27698,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140126T143316Z" creationid="standa" creationdate="20140126T143316Z">
         <seg>Ve skutečnosti jsou v programu Draw &lt;is0/&gt;&lt;f1&gt;šipky&lt;/f1&gt;&lt;ie2/&gt; považovány za druh čar: čáry se šipkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In fact, the generated code is commented so it will not even be run.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T085129Z" creationid="install" creationdate="20151002T085129Z">
+        <seg>Ve skutečnosti je vygenerovaný kód v záznamu vypoznámkovaný, a tak ho vůbec nelze spustit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35554,6 +35578,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150923T085113Z" creationid="install" creationdate="20150923T085113Z">
         <seg>Záznam makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recording a macro and using &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the main menu bar to open and modify configuration items, the generated macro does not record any configuration changes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T085112Z" creationid="install" creationdate="20151002T085112Z">
+        <seg>Pokud při záznamu makra zvolíme &lt;f0&gt;Nástroje &gt; Možnosti&lt;/f0&gt; v hlavní nabídce na otevření a konfiguraci různých položek a nastavení, zaznamenané makro je nezaznamená.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60740,6 +60772,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T055833Z" creationid="Admin" creationdate="20150927T151501Z">
         <seg>rem Definice proměnných</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem dispatcher.executeDispatch(document,</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T085134Z" creationid="install" creationdate="20151002T085134Z">
+        <seg>rem dispatcher.executeDispatch(document,</seg>
       </tuv>
     </tu>
     <tu>
