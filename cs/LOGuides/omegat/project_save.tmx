@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;http://www.paolo-mantovani.org/downloads/&lt;/a0&gt;&lt;a1&gt;DispatchToApiRecorder/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130458Z" creationid="install" creationdate="20151002T130458Z">
+        <seg>&lt;a0&gt;http://www.paolo-mantovani.org/downloads/&lt;/a0&gt;&lt;a1&gt;DispatchToApiRecorder/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T064658Z" creationid="install" creationdate="20150716T064658Z">
@@ -5414,6 +5422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t8&gt;Figure 7&lt;/t8&gt; shows an example of the hierarchical structure of macro libraries in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T131120Z" creationid="install" creationdate="20151002T131120Z">
+        <seg>Na obrázku &lt;t8&gt;7&lt;/t8&gt; je uveden příklad hierarchické struktury knihoven maker v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;f0&gt;field&lt;/f0&gt; is an attribute or characteristic that divides the data of a table into columns, one column for each attribute.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T051215Z" creationid="install" creationdate="20150716T051215Z">
@@ -5922,6 +5938,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T195620Z" creationid="standa" creationdate="20150326T195620Z">
         <seg>Například knihovník takto může získávat informace o knihách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A library is usually used as a major grouping for either an entire category of macros, or for an entire application.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130923Z" creationid="install" creationdate="20151002T130923Z">
+        <seg>Knihovna se obvykle používá jako hlavní uskupení, a to buď pro celou kategorii maker, nebo pro celou aplikaci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6974,6 +6998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All available library containers are shown in the &lt;f5&gt;Macro from&lt;/f5&gt; list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T131511Z" creationid="install" creationdate="20151002T131443Z">
+        <seg>V seznamu &lt;f5&gt;Makro z&lt;/f5&gt; jsou uvedeny všechny dostupné kontejnery knihoven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All characters except double quotes are permissible in text.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T084548Z" creationid="install" creationdate="20150818T084548Z">
@@ -7802,6 +7834,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T203845Z" creationid="standa" creationdate="20141029T203845Z">
         <seg>Pokud v dokumentu vybereme část textu, místo celkových počtů se zobrazí počet vybraných slov a znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any work done inside the dialog is not usually recorded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T125835Z" creationid="install" creationdate="20151002T125835Z">
+        <seg>Činnost vykonaná v okně, se obvykle nezaznamená.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9474,6 +9514,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T204519Z" creationid="standa" creationdate="20150326T204519Z">
         <seg>Calc je součást balíku LibreOffice určená pro práci s tabulkovými sešity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc macros</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130239Z" creationid="install" creationdate="20151002T130239Z">
+        <seg>makra programu Calc</seg>
       </tuv>
     </tu>
     <tu>
@@ -17030,6 +17078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Examples of this include macro organization dialogs, inserting special characters, and similar types of dialogs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T125849Z" creationid="install" creationdate="20151002T125849Z">
+        <seg>Příkladem jsou okna, ve kterých se upravují makra, okno pro vkládání speciálních znaků a podobné typy oken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exceptions</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150630T113337Z" creationid="install" creationdate="20150630T113337Z">
@@ -21054,6 +21110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, the actions from the search dialog are properly captured.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130055Z" creationid="install" creationdate="20151002T130055Z">
+        <seg>Například, akce související s vyhledáváním se zaznamenávají správně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, the buttons for making text bold or italic exist in both the Formatting toolbar and the Character panel of the Properties deck.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141219T193613Z" creationid="standa" creationdate="20141219T193613Z">
@@ -23106,6 +23170,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T083440Z" creationid="install" creationdate="20151002T083440Z">
         <seg>Vejdeme v hlavním menu do &lt;f0&gt;Nástroje &gt; Makra &gt; Správce maker &gt; LibreOffice Basic&lt;/f0&gt;, čímž otevřeme okno Makra LibreOffice Basic (&lt;f1&gt;obrázek &lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt; na straně &lt;f3&gt;&lt;t4&gt;4&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog (&lt;f1&gt;&lt;t2&gt;Figure 1&lt;/t2&gt;&lt;/f1&gt; on page &lt;f3&gt;&lt;t4&gt;4&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T131453Z" creationid="install" creationdate="20151002T131235Z">
+        <seg>Prostřednictvím &lt;f0&gt;Nástroje &gt; Makra &gt; Správce maker &gt; LibreOffice Basic&lt;/f0&gt; v hlavní nabídce můžeme otevřít okno Makra v LibreOffice Basic (&lt;f1&gt;obrázek &lt;t2&gt;1&lt;/t2&gt; &lt;/f1&gt;na straně&lt;f3&gt;&lt;t4&gt; 4&lt;/t4&gt;&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26502,6 +26574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you record Calc macros, and the recorder can correctly generate a macro, there is an add-in available which &lt;i0/&gt;converts &lt;i1/&gt;Calc macros when they are recorded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130326Z" creationid="install" creationdate="20151002T130326Z">
+        <seg>Jako pomůcku můžeme použít rozšíření, které konvertuje &lt;i0/&gt;makra programu Calc &lt;i1/&gt; během záznamu na objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you record changes, save multiple versions, or include hidden information or notes in your documents, and you do not want some of the recipients to see that information, you can set warnings to remind you to remove it, or you can have LibreOffice remove some of it automatically.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T193311Z" creationid="standa" creationdate="20141008T193311Z">
@@ -27354,6 +27434,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140217T164444Z" creationid="standa" creationdate="20140217T164444Z">
         <seg>V programu LibreOffice může pojem &lt;f0&gt;čára&lt;/f0&gt; znamenat samostatnou část kresby (čára), vnější stranu tvaru (ohraničení) nebo šipku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice, macros are &lt;i0/&gt;grouped in modules, modules are grouped in &lt;i1/&gt;libraries, and libraries are grouped &lt;i2/&gt;in&lt;i3/&gt; library containers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130904Z" creationid="install" creationdate="20151002T130904Z">
+        <seg>V LibreOffice jsou makra &lt;i0/&gt;sdružená v modulech, moduly v &lt;i1/&gt; knihovnách a knihovny &lt;i2/&gt;v &lt;i3/&gt; kontejnerech knihoven.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28614,6 +28702,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual &lt;i4/&gt;macros&lt;i5/&gt; &lt;i6/&gt;are&lt;i7/&gt; subroutines and functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T131055Z" creationid="install" creationdate="20151002T131055Z">
+        <seg>Jednotlivá &lt;i4/&gt;makra&lt;i5/&gt;&lt;i6/&gt; jsou&lt;i7/&gt; buď podprogramy nebo funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Individual cells</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150617T124130Z" creationid="install" creationdate="20150617T124130Z">
@@ -29494,6 +29590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is usually best to start with simple examples and then increase the scope of macros as you learn more.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130213Z" creationid="install" creationdate="20151002T130213Z">
+        <seg>Tak jak je tomu při programování vždy, nejvhodnější je začít s jednoduchými příklady, které postupně rozšiřujeme na základě získaných zkušeností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is your choice.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T053508Z" creationid="install" creationdate="20150723T053508Z">
@@ -29954,6 +30058,14 @@
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T150410Z" creationid="Admin" creationdate="20150927T150410Z">
         <seg>Je však potřeba se pár věcí naučit, což hodně pomůže porozumění maker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learning to read generated macros is a good place to start.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130228Z" creationid="install" creationdate="20151002T130228Z">
+        <seg>Na začátku pomůže, pokud se naučíme číst makra vygenerované při záznamu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30702,6 +30814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macro organization</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130544Z" creationid="install" creationdate="20151002T130544Z">
+        <seg>Uspořádání maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macro recorder failures</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T084137Z" creationid="install" creationdate="20151002T084137Z">
@@ -31434,6 +31554,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T221649Z" creationid="standa" creationdate="20140103T221649Z">
         <seg>Úprava stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modules usually split functionality, such as user interaction and calculations.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130940Z" creationid="install" creationdate="20151002T130940Z">
+        <seg>Moduly obvykle obsahují makra s podobnou funkcionalitou, jako například makra na uživatelskou interakci nebo na výpočty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34186,6 +34314,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T110032Z" creationid="install" creationdate="20150618T110032Z">
         <seg>Ostatní možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other possible problems using the macro recorder include things such as inserting a formula, setting user data, setting filters in Calc, actions in database forms, and exporting a document to an encrypted PDF file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130004Z" creationid="install" creationdate="20151002T130004Z">
+        <seg>Další problémy při záznamu maker mohou souviset s vkládáním vzorců a dat, nastavováním filtrů v programu Calc, s činností ve formulářích databáze a exportem dokumentů do šifrovaného souboru ve formátu PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43638,6 +43774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The final code manipulates LibreOffice objects rather than generating dispatches.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130350Z" creationid="install" creationdate="20151002T130350Z">
+        <seg>Ve finálním kódu se tyto objekty použijí namísto odesílaných textových příkazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The final selection involves what should happen next.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T125819Z" creationid="install" creationdate="20150727T125819Z">
@@ -46810,6 +46954,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T192800Z" creationid="lenochod26" creationdate="20150616T203913Z">
         <seg>To může být také velmi užitečné pro zobrazení toho, jak jsou funkce definovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be very useful for learning the object model and can be downloaded directly from the web site:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130420Z" creationid="install" creationdate="20151002T130420Z">
+        <seg>Toto rozšíření lze využít, pokud se chceme naučit programovat pomocí objektového modelu LibreOffice. Můžeme jej stáhnout ze stránky:</seg>
       </tuv>
     </tu>
     <tu>
@@ -51606,6 +51758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unfortunately, there is a steep learning curve for these LibreOffice objects.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130154Z" creationid="install" creationdate="20151002T130154Z">
+        <seg>Bohužel, použití objektů LibreOffice není triviální.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unfortunately, this extension does not work in LibreOffice 4.0.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140113T204205Z" creationid="standa" creationdate="20140113T204205Z">
@@ -54202,6 +54362,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T164450Z" creationid="standa" creationdate="20140313T164450Z">
         <seg>Pokud máme soubor s obrázkem uložený na počítači, můžeme jej do programu LibreOffice vložit následujícími způsoby:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the macro recorder is not able to solve a specific problem, the usual solution is to write code using the LibreOffice objects.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130142Z" creationid="install" creationdate="20151002T130142Z">
+        <seg>Pokud danou úlohu nelze vyřešit prostřednictvím záznamu maker, obvyklým řešením je přímé napsání programu s použitím objektů LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58216,6 +58384,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You never know for certain what will work unless you try it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130046Z" creationid="install" creationdate="20151002T130046Z">
+        <seg>V podstatě nelze předem přesně vědět, co fungovat bude a co ne, pokud to nevyzkoušíme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You probably need to identify phone numbers based on their use (home, work, mobile).</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T120250Z" creationid="install" creationdate="20150710T120250Z">
@@ -59672,6 +59848,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>functions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130625Z" creationid="install" creationdate="20151002T130625Z">
+        <seg>funkce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gallery</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T195358Z" creationid="standa" creationdate="20140417T195358Z">
@@ -60040,10 +60224,26 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>libraries of macros</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130600Z" creationid="install" creationdate="20151002T130600Z">
+        <seg>knihovny s makry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>library container</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150924T135950Z" creationid="install" creationdate="20150924T135950Z">
         <seg>kontejner s knihovnami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>library containers</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130619Z" creationid="install" creationdate="20151002T130619Z">
+        <seg>kontejnery s knihovnami</seg>
       </tuv>
     </tu>
     <tu>
@@ -60280,6 +60480,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>modules</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130548Z" creationid="install" creationdate="20151002T130548Z">
+        <seg>moduly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mouse positioning</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T194123Z" creationid="standa" creationdate="20141005T194107Z">
@@ -60468,6 +60676,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T052223Z" creationid="install" creationdate="20150713T052223Z">
         <seg>nebo můžeme také klepnout pravým tlačítkem myši na ikonu souboru a vybrat Otevřít v LibreOffice Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>organization</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T130524Z" creationid="install" creationdate="20151002T130524Z">
+        <seg>uspořádání</seg>
       </tuv>
     </tu>
     <tu>
