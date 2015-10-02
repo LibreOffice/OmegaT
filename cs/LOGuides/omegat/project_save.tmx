@@ -4758,6 +4758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertObject"&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084920Z" creationid="install" creationdate="20151002T084920Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertObject"&lt;/f6&gt;&lt;f7&gt;, &lt;/f7&gt;&lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args17&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T081148Z" creationid="install" creationdate="20151002T081148Z">
@@ -5706,6 +5714,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T200002Z" creationid="standa" creationdate="20141008T200002Z">
         <seg>Elektronický podpis vyžaduje osobní podpisový certifikát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A dispatch command is text, for example .uno:InsertObject or .uno:GoToStartOfLine.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084602Z" creationid="install" creationdate="20151002T084602Z">
+        <seg>Příkazová infrastruktura odesílá příkazy ve formě textu, jako například .uno: InsertObject nebo .uno: GoToStartOfLine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8058,6 +8074,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T130045Z" creationid="install" creationdate="20150723T130045Z">
         <seg>Neměl by to být problém, pokud před zavřením databáze nezadáváme velké množství dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As soon as the document has been changed, the File Save command is enabled.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084541Z" creationid="install" creationdate="20151002T084541Z">
+        <seg>Jakmile dokument změníme, příkaz Soubor &gt; Uložit se opět aktivuje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12638,6 +12662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the Macro toolbar, or press the &lt;f3&gt;F5&lt;/f3&gt; key, to run the macro.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083717Z" creationid="install" creationdate="20151002T083717Z">
+        <seg>Makro spustíme buď kliknutím na ikonu &lt;f0&gt;Spustit BASIC&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; v nástrojové liště Makro nebo stisknutím klávesy &lt;f3&gt;F5&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Run BASIC&lt;/f0&gt; icon, then close the Basic window.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T212849Z" creationid="standa" creationdate="20140112T212849Z">
@@ -13842,6 +13874,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150803T202410Z" creationid="standa" creationdate="20150803T202410Z">
         <seg>Kopírovat – zkopíruje vybraný snímek do schránky bez odstranění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CopyNumToCol1</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084117Z" creationid="install" creationdate="20151002T084047Z">
+        <seg>KopirujCisloDoSloupce1</seg>
       </tuv>
     </tu>
     <tu>
@@ -15242,6 +15282,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T132602Z" creationid="install" creationdate="20150723T132602Z">
         <seg>Myčka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dispatch framework</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084237Z" creationid="install" creationdate="20151002T084237Z">
+        <seg>Příkazová infrastruktura</seg>
       </tuv>
     </tu>
     <tu>
@@ -20774,6 +20822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, after saving the document, the File Save command is disabled.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084520Z" creationid="install" creationdate="20151002T084520Z">
+        <seg>Nastane to například tehdy, když se po uložení dokumentu deaktivuje příkaz Soubor &gt; Uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, all the first names are put into one group.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T120154Z" creationid="install" creationdate="20150710T120154Z">
@@ -20946,6 +21002,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T055411Z" creationid="install" creationdate="20150707T055411Z">
         <seg>Například v tabulce čísel můžeme zobrazit všechny hodnoty nad průměrem zelenou barvou a pod průměrem červenou barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, inserting an object generates the following code:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084915Z" creationid="install" creationdate="20151002T084915Z">
+        <seg>Například, vkládání objektu vygeneruje následující kód:</seg>
       </tuv>
     </tu>
     <tu>
@@ -23030,6 +23094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the Basic Macro dialog (&lt;f1&gt;&lt;t2&gt;Figure 1&lt;/t2&gt;&lt;/f1&gt; on page &lt;f3&gt;&lt;t4&gt;4&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083440Z" creationid="install" creationdate="20151002T083440Z">
+        <seg>Vejdeme v hlavním menu do &lt;f0&gt;Nástroje &gt; Makra &gt; Správce maker &gt; LibreOffice Basic&lt;/f0&gt;, čímž otevřeme okno Makra LibreOffice Basic (&lt;f1&gt;obrázek &lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt; na straně &lt;f3&gt;&lt;t4&gt;4&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150924T144741Z" creationid="install" creationdate="20150924T144741Z">
@@ -23982,6 +24054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How the macro recorder uses the dispatch framework</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084731Z" creationid="install" creationdate="20151002T084731Z">
+        <seg>Jako záznamník maker využívá příkazovou infrastrukturu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to get the software</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T201629Z" creationid="standa" creationdate="20140417T201616Z">
@@ -24710,6 +24790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If an object is inserted from a file, you cannot specify which file to insert.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T085021Z" creationid="install" creationdate="20151002T085021Z">
+        <seg>Pokud je objekt vkládán ze souboru, nelze určit, který soubor je třeba vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If an unwanted style is in use, you can replace it with a substitute style.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T204645Z" creationid="standa" creationdate="20140406T204645Z">
@@ -24890,6 +24978,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150626T060534Z" creationid="standa" creationdate="20140504T165928Z">
         <seg>Pokud je otevřený jen jediný dokument a chceme jej &lt;i0/&gt; zavřít, zvolíme v hlavní nabídce &lt;f1&gt;Soubor &gt; Zavřít&lt;/f1&gt; nebo klepneme na X na pravé straně hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If run on the DONTKNOW line, the word &lt;f0&gt;weight&lt;/f0&gt; is moved to the front of the line, and the first “The” is changed to “She”.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T082947Z" creationid="install" creationdate="20151002T082947Z">
+        <seg>Pokud makro spustíme na řádku DONTKNOW, slovo &lt;f0&gt;weight&lt;/f0&gt; se přesune na začátek řádku a první „The“ se změní na „She“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29270,6 +29366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is not possible to specify what kind of object to create or insert.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084939Z" creationid="install" creationdate="20151002T084939Z">
+        <seg>V něm není možné určit, který typ objektu je třeba vytvořit nebo vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is not retained when you close the document or close Writer, and it does not apply to any other document you open.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T195335Z" creationid="standa" creationdate="20140317T190452Z">
@@ -29346,6 +29450,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T154547Z" creationid="standa" creationdate="20140501T154547Z">
         <seg>Je podobný v součástech Writer, Calc, Impress a Draw, ale každá součást obsahuje položky specifické pro danou součást balíku LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is tedious to repeatedly run the macro using &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; on the main menu bar when the macro can be run from the &lt;is1/&gt;IDE&lt;ie2/&gt; (&lt;f3&gt;&lt;t4&gt;Figure 3&lt;/t4&gt;&lt;/f3&gt; on page &lt;f5&gt;&lt;t6&gt;5&lt;/t6&gt;&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083221Z" creationid="install" creationdate="20151002T083221Z">
+        <seg>Opakované spouštění makra pomocí položky &lt;f0&gt;Nástroje &gt; Makra &gt; Spustit makro&lt;/f0&gt; je únavné, a to zejména při srovnání s tím, jak se spouští z &lt;is1/&gt;IDE&lt;ie2/&gt; (&lt;f3&gt;obrázek &lt;t4&gt;3&lt;/t4&gt;&lt;/f3&gt; na straně &lt;f5&gt;&lt;t6&gt;5&lt;/t6&gt;&lt;/f5&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30422,6 +30534,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;5&lt;/seq0&gt;: Modify Main to call CopyNumToCol1.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084042Z" creationid="install" creationdate="20151002T084042Z">
+        <seg>Výpis &lt;seq0&gt;5 &lt;/seq0&gt;: Úprava Main pro spouštění makra KopirujCisloDoSloupce1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Listings in the Gallery show the location of each object.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T193701Z" creationid="standa" creationdate="20140417T193701Z">
@@ -30554,6 +30674,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T202327Z" creationid="standa" creationdate="20141226T202327Z">
         <seg>Pro uživatele systému Macintosh: místo klávesy &lt;f0&gt;Ctrl&lt;/f0&gt; se používá klávesa &lt;f1&gt;Command&lt;/f1&gt;, platí to pro všechny návody v této kapitole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macro recorder failures</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084137Z" creationid="install" creationdate="20151002T084137Z">
+        <seg>Selhání záznamu maker</seg>
       </tuv>
     </tu>
     <tu>
@@ -31202,6 +31330,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150720T205214Z" creationid="lenochod26" creationdate="20150720T205214Z">
         <seg>Číslo modelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modify Main so that it reads as shown in &lt;t0&gt;Listing 5&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083813Z" creationid="install" creationdate="20151002T083813Z">
+        <seg>Upravme ho tak, aby odpovídalo výpisu &lt;t0&gt;5&lt;/t0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32626,6 +32762,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T202831Z" creationid="standa" creationdate="20141226T202831Z">
         <seg>Poté můžeme s vybraným textem pracovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Now, you can run CopyNumToCol1 by repeatedly clicking the &lt;f0&gt;Run Basic&lt;/f0&gt; icon in the toolbar of the IDE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083919Z" creationid="install" creationdate="20151002T083919Z">
+        <seg>Od tohoto okamžiku můžeme makro KopirujCisloDoSloupce1 opakovaně spouštět kliknutím na ikonu &lt;f0&gt;Spustit BASIC&lt;/f0&gt; v nástrojové liště IDE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36278,6 +36422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Running a macro quickly</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083030Z" creationid="install" creationdate="20151002T083030Z">
+        <seg>Rychlé spuštění makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SBS44588F1990</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T074700Z" creationid="install" creationdate="20150724T074700Z">
@@ -38638,6 +38790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select your macro and click &lt;f0&gt;Edit&lt;/f0&gt; to open the macro in the IDE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083324Z" creationid="install" creationdate="20151002T083324Z">
+        <seg>Vybereme požadované makro a klikneme na &lt;f0&gt;Upravit&lt;/f0&gt;, makro se otevře v IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select your new macro EnterMyName and click &lt;f0&gt;Edit&lt;/f0&gt; to open the macro in the Basic &lt;is1/&gt;&lt;is2/&gt;IDE&lt;ie3/&gt;&lt;ie4/&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T150019Z" creationid="Admin" creationdate="20150927T150019Z">
@@ -39898,6 +40058,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T125715Z" creationid="install" creationdate="20150821T125715Z">
         <seg>Někdy je proto užitečné vložit všechny uživatelem definované symboly, například tehdy, když se dokument bude dále upravovat jinou osobou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes the macro recorder has a failure and understanding LibreOffice internal workings helps to understand how and why the macro recorder sometimes fails.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084154Z" creationid="install" creationdate="20151002T084154Z">
+        <seg>Záznam makra může někdy selhat, a tak porozumění tomu, jak LibreOffice vnitřně pracuje může pomoci při porozumění, jak a proč se tak stane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42702,6 +42870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command is sent to the document frame and this passes on the command until an object is found that can handle the command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084715Z" creationid="install" creationdate="20151002T084715Z">
+        <seg>Tento příkaz je odeslán rámci dokumentu, který ho posílá dál, dokud se nenajde objekt, který ho dokáže zpracovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The complete list of commands and reserved words used by Math is available in the &lt;f0&gt;Math Guide&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150822T045845Z" creationid="lenochod26" creationdate="20150822T045845Z">
@@ -43130,6 +43306,14 @@
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T151347Z" creationid="Admin" creationdate="20150927T151347Z">
         <seg>Začneme popisem prvků, které se nacházejí v horní části výpisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dispatch framework can also be used to send “commands” back to the User Interface (UI).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084458Z" creationid="install" creationdate="20151002T084458Z">
+        <seg>Příkazová infrastruktura se však může použít i na odeslání „příkazu“ zpět uživatelskému rozhraní (angl. User interface, UI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44110,6 +44294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro recorder records the generated dispatches.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084753Z" creationid="install" creationdate="20151002T084753Z">
+        <seg>Záznamník maker zaznamenává odeslané textové příkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The macro recorder works by recording the commands that are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;&lt;f2&gt;” on page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;13&lt;/rf4&gt;&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150922T054354Z" creationid="install" creationdate="20150922T054354Z">
@@ -44678,6 +44870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The primary offender is related to the dispatch framework and its relationship to the macro recorder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084221Z" creationid="install" creationdate="20151002T084221Z">
+        <seg>Prvotní příčina je spojena s příkazovou infrastrukturou (angl. Dispatch framework) a jejím vztahem k záznamu maker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The principles used by the wizards are included.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150714T142028Z" creationid="install" creationdate="20150714T142028Z">
@@ -44686,10 +44886,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The problem is that not all dispatched commands are complete.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084904Z" creationid="install" creationdate="20151002T084904Z">
+        <seg>Problém spočívá v tom, že ne všechny odeslané příkazy jsou kompletní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The publication type defines the basic settings for the intended export.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T100311Z" creationid="standa" creationdate="20140309T100311Z">
         <seg>Druh publikace stanoví základní nastavení prováděného exportu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of &lt;i0/&gt;&lt;i1/&gt;the dispatch framework is to provide uniform access to components (documents) for commands that usually correspond to menu items.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084406Z" creationid="install" creationdate="20151002T084406Z">
+        <seg>První &lt;i0/&gt;&lt;i1/&gt;úloha příkazové infrastruktury je zajištění rovného přístupu příkazů ke komponentám (dokumentům). Tyto příkazy obvykle odpovídají položkám v nabídkách.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44730,6 +44946,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T122701Z" creationid="install" creationdate="20150723T122701Z">
         <seg>Zobrazené číslo záznamu je číslo řádku, které se zobrazí ve formuláři.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The recorder is relatively simple tool to use and the same commands that are issued are recorded for later use.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084853Z" creationid="install" creationdate="20151002T084853Z">
+        <seg>Záznamník je ve své podstatě jednoduchý nástroj, který vydané příkazy pouze ukládá na pozdější použití.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47254,6 +47478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is not perfect, but you should not run the macro on the lines that did not have the proper format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083014Z" creationid="install" creationdate="20151002T083014Z">
+        <seg>Toto není ideální, je to ale způsobeno tím, že tento řádek nemá očekávanou strukturu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is one of the most common questions people ask about LibreOffice Math.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150820T102145Z" creationid="install" creationdate="20150820T102145Z">
@@ -47322,6 +47554,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T140414Z" creationid="install" creationdate="20150727T140346Z">
         <seg>Je to formát, který používá i program Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is very fast and easy, especially for temporary macros that will be used a few times and then discarded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083957Z" creationid="install" creationdate="20151002T083957Z">
+        <seg>Je to rychlé a jednoduché, obzvlášť pro pomocná makra, která budou použita jen několikrát a poté budou vymazána.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51374,6 +51614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unless you change the first macro, it is the empty macro named Main.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083742Z" creationid="install" creationdate="20151002T083742Z">
+        <seg>Pokud jsme první makro nezměnili, je jím makro se jménem Main.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unless you select something else here, the locale of the operating system will be set as default.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T192755Z" creationid="standa" creationdate="20141016T192428Z">
@@ -52122,6 +52370,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T135848Z" creationid="install" creationdate="20150727T135848Z">
         <seg>Použítím klávesové zkratky &lt;f0&gt;F4&lt;/f0&gt; nebo &lt;f1&gt;Zobrazit &gt; Zdroje dat&lt;/f1&gt; se otevře okno dat v programu Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using &lt;f2&gt;File &gt; Save&lt;/f2&gt; from the main menu bar, the shortcut keys &lt;f3&gt;Ctrl+S&lt;/f3&gt;, or clicking the &lt;f4&gt;Save&lt;/f4&gt; icon are all of commands that are translated into the same “dispatch command”.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084439Z" creationid="install" creationdate="20151002T084439Z">
+        <seg>Použití &lt;f2&gt;Soubor &gt; Uložit&lt;/f2&gt; z hlavní nabídky, klávesová zkratka &lt;f3&gt;Ctrl+S&lt;/f3&gt; nebo kliknutí na ikonu &lt;f4&gt;Uložit&lt;/f4&gt; jsou příkazy, které se transformují na tentýž příkaz příkazové infrastruktury.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57888,6 +58144,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You need to do these manually.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T083024Z" creationid="install" creationdate="20151002T083024Z">
+        <seg>Takové řádky je třeba upravit ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You need to have an idea of what you want to do with the data that you have.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T125910Z" creationid="install" creationdate="20150710T125910Z">
@@ -58988,6 +59252,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T181022Z" creationid="standa" creationdate="20140116T181022Z">
         <seg>rozdílné na pravých a levých stránkách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dispatch framework</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T084240Z" creationid="install" creationdate="20151002T084240Z">
+        <seg>příkazová infrastruktura</seg>
       </tuv>
     </tu>
     <tu>
