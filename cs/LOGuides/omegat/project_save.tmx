@@ -4558,6 +4558,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;args4&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;CHR$&lt;/f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;f8&gt;9&lt;/f8&gt;&lt;f9&gt;)&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060036Z" creationid="install" creationdate="20151002T060036Z">
+        <seg>&lt;f0&gt;args4&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;CHR$&lt;/f6&gt;&lt;f7&gt;(&lt;/f7&gt;&lt;f8&gt;9&lt;/f8&gt;&lt;f9&gt;)&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;args4&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).Name&lt;/f3&gt; &lt;f4&gt;=&lt;/f4&gt; &lt;f5&gt;"Text"&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060032Z" creationid="install" creationdate="20151002T060032Z">
+        <seg>&lt;f0&gt;args4&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).Name&lt;/f3&gt; &lt;f4&gt;=&lt;/f4&gt; &lt;f5&gt;"Text"&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;args6&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"S"&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060203Z" creationid="install" creationdate="20151002T060203Z">
+        <seg>&lt;f0&gt;args6&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"S"&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;args6&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).Name&lt;/f3&gt; &lt;f4&gt;=&lt;/f4&gt; &lt;f5&gt;"Text"&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060158Z" creationid="install" creationdate="20151002T060158Z">
+        <seg>&lt;f0&gt;args6&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).Name&lt;/f3&gt; &lt;f4&gt;=&lt;/f4&gt; &lt;f5&gt;"Text"&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args1&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;0&lt;/f3&gt;&lt;f4&gt;)&lt;/f4&gt; &lt;f5&gt;as&lt;/f5&gt; &lt;f6&gt;new&lt;/f6&gt; &lt;f7&gt;com&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;star&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt;beans&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;PropertyValue&lt;/f15&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T153028Z" creationid="Admin" creationdate="20150927T153028Z">
@@ -4570,6 +4602,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150929T115329Z" creationid="install" creationdate="20150929T115329Z">
         <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args1&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;0&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;)&lt;/f5&gt; &lt;f6&gt;as&lt;/f6&gt; &lt;f7&gt;new&lt;/f7&gt; &lt;f8&gt;com&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;&lt;f10&gt;sun&lt;/f10&gt;&lt;f11&gt;.&lt;/f11&gt;&lt;f12&gt;star&lt;/f12&gt;&lt;f13&gt;.&lt;/f13&gt;&lt;f14&gt;beans&lt;/f14&gt;&lt;f15&gt;.&lt;/f15&gt;&lt;f16&gt;PropertyValue&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args4&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;0&lt;/f3&gt;&lt;f4&gt;)&lt;/f4&gt; &lt;f5&gt;as&lt;/f5&gt; &lt;f6&gt;new&lt;/f6&gt; &lt;f7&gt;com&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;star&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt;beans&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;PropertyValue&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060025Z" creationid="install" creationdate="20151002T060025Z">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args4&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;0&lt;/f3&gt;&lt;f4&gt;)&lt;/f4&gt; &lt;f5&gt;as&lt;/f5&gt; &lt;f6&gt;new&lt;/f6&gt; &lt;f7&gt;com&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;star&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt;beans&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;PropertyValue&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args6&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;0&lt;/f3&gt;&lt;f4&gt;)&lt;/f4&gt; &lt;f5&gt;as&lt;/f5&gt; &lt;f6&gt;new&lt;/f6&gt; &lt;f7&gt;com&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;star&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt;beans&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;PropertyValue&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060149Z" creationid="install" creationdate="20151002T060149Z">
+        <seg>&lt;f0&gt;dim&lt;/f0&gt; &lt;f1&gt;args6&lt;/f1&gt;&lt;f2&gt;(&lt;/f2&gt;&lt;f3&gt;0&lt;/f3&gt;&lt;f4&gt;)&lt;/f4&gt; &lt;f5&gt;as&lt;/f5&gt; &lt;f6&gt;new&lt;/f6&gt; &lt;f7&gt;com&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt;&lt;f9&gt;sun&lt;/f9&gt;&lt;f10&gt;.&lt;/f10&gt;&lt;f11&gt;star&lt;/f11&gt;&lt;f12&gt;.&lt;/f12&gt;&lt;f13&gt;beans&lt;/f13&gt;&lt;f14&gt;.&lt;/f14&gt;&lt;f15&gt;PropertyValue&lt;/f15&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,10 +4646,74 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:Copy"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060430Z" creationid="install" creationdate="20151002T060430Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:Copy"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:Delete"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060105Z" creationid="install" creationdate="20151002T060105Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:Delete"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:GoToEndOfLine"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060455Z" creationid="install" creationdate="20151002T060455Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:GoToEndOfLine"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:GoToNextWord"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T055856Z" creationid="install" creationdate="20151002T055856Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:GoToNextWord"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args1&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T153047Z" creationid="Admin" creationdate="20150927T153047Z">
         <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args1&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args4&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060040Z" creationid="install" creationdate="20151002T060040Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args4&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args6&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060208Z" creationid="install" creationdate="20151002T060208Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:InsertText"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;args6&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:SwBackspace"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T055935Z" creationid="install" creationdate="20151002T055935Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:SwBackspace"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:WordRightSel"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060404Z" creationid="install" creationdate="20151002T060404Z">
+        <seg>&lt;f0&gt;dispatcher&lt;/f0&gt;&lt;f1&gt;.&lt;/f1&gt;&lt;f2&gt;executeDispatch&lt;/f2&gt;&lt;f3&gt;(&lt;/f3&gt;&lt;f4&gt;document&lt;/f4&gt;&lt;f5&gt;,&lt;/f5&gt; &lt;f6&gt;".uno:WordRightSel"&lt;/f6&gt;&lt;f7&gt;,&lt;/f7&gt; &lt;f8&gt;""&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt; &lt;f10&gt;0&lt;/f10&gt;&lt;f11&gt;,&lt;/f11&gt; &lt;f12&gt;Array&lt;/f12&gt;&lt;f13&gt;())&lt;/f13&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,6 +4754,94 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T084211Z" creationid="install" creationdate="20150818T084211Z">
         <seg>&lt;f0&gt;lbrace&lt;/f0&gt; a &lt;f1&gt;rbrace&lt;/f1&gt; vytvoří složené závorky &lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;vzorec&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (10) Press &lt;/f0&gt;&lt;f1&gt;End&lt;/f1&gt;&lt;f2&gt; to move the cursor to the end of the line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060449Z" creationid="install" creationdate="20151002T060449Z">
+        <seg>&lt;f0&gt; rem (10) Stisknutím&lt;/f0&gt; &lt;f1&gt;End&lt;/f1&gt; &lt;f2&gt;kurzor přesuneme na konec řádku. &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (11) Press &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; twice to remove the two trailing spaces.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060521Z" creationid="install" creationdate="20151002T060521Z">
+        <seg>&lt;f0&gt; rem (11) Dvakrát stiskneme&lt;/f0&gt; &lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt;, čímž smažeme dvě mezery na konci. &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (3) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Right Arrow&lt;/f1&gt;&lt;f2&gt; to move the cursor to the start of “specifies”.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T055745Z" creationid="install" creationdate="20151002T055745Z">
+        <seg>&lt;f0&gt; rem (3) Stiskneme&lt;/f0&gt; &lt;f1&gt;Ctrl+šipka vpravo&lt;/f1&gt; &lt;f2&gt;, čímž se kurzor přesune na začátek slova „udává“. &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (4) Press &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt; twice to remove the tab and the space.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T055930Z" creationid="install" creationdate="20151002T055930Z">
+        <seg>&lt;f0&gt; rem (4) Dvakrát stiskneme &lt;/f0&gt;&lt;f1&gt;Backspace&lt;/f1&gt;&lt;f2&gt;, čímž odstraníme tabulátor a mezeru. &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (5) Press &lt;/f0&gt;&lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt; to add the tab without the space after the constant name.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060021Z" creationid="install" creationdate="20151002T060021Z">
+        <seg>&lt;f0&gt; rem (5) Stiskneme&lt;/f0&gt; &lt;f1&gt;Tab&lt;/f1&gt;&lt;f2&gt;, čímž za názvem konstanty přidáme tabulátor.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (6) ... and then press &lt;/f0&gt;&lt;f1&gt;Shift+S&lt;/f1&gt;&lt;f2&gt; to add an upper case S.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060144Z" creationid="install" creationdate="20151002T060144Z">
+        <seg>&lt;f0&gt; rem (6) ... a pak stiskneme&lt;/f0&gt; &lt;f1&gt;Shift+S&lt;/f1&gt;&lt;f2&gt;, čímž přidáme velké S. &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (6) Press &lt;/f0&gt;&lt;f1&gt;Delete&lt;/f1&gt;&lt;f2&gt; to delete the lower case s ....&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060115Z" creationid="install" creationdate="20151002T060101Z">
+        <seg>&lt;f0&gt;rem (6) Stiskneme&lt;/f0&gt;&lt;f1&gt; Delete&lt;/f1&gt;&lt;f2&gt;, čím zmažeme malé písmeno s....&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (7) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Right Arrow&lt;/f1&gt;&lt;f2&gt; twice to move the cursor to the number.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060257Z" creationid="install" creationdate="20151002T060257Z">
+        <seg>&lt;f0&gt; rem (7) Dvakrát stiskneme klávesu&lt;/f0&gt; &lt;f1&gt;Ctrl+šipka vpravo&lt;/f1&gt;&lt;f2&gt;, čímž kurzor přesuneme na začátek čísla.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (8) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Shift+Right Arrow&lt;/f1&gt;&lt;f2&gt; to select the number.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060359Z" creationid="install" creationdate="20151002T060359Z">
+        <seg>&lt;f0&gt; rem (8) Stiskneme&lt;/f0&gt; &lt;f1&gt;Ctrl+Shift+šipka vpravo&lt;/f1&gt; &lt;f2&gt;čím vybereme číslo.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (9) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+C&lt;/f1&gt;&lt;f2&gt; to copy the selected text to the clipboard.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T060426Z" creationid="install" creationdate="20151002T060426Z">
+        <seg>&lt;f0&gt;rem (9) Stlačíme &lt;/f0&gt;&lt;f1&gt;Ctrl+C&lt;/f1&gt;&lt;f2&gt;, čím vybraný text skopírujeme do schránky.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;sub&lt;/f0&gt; &lt;f1&gt;CopyNumToCol1&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054619Z" creationid="install" creationdate="20151002T054619Z">
+        <seg>&lt;f0&gt;sub&lt;/f0&gt; &lt;f1&gt;KopirujCisloDoSloupce1&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29086,6 +29286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It takes much longer to read and write the steps than to record the macro.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054434Z" creationid="install" creationdate="20151002T054434Z">
+        <seg>Přečtení těchto instrukcí, a zejména jejich psaní, trvalo určitě mnohem déle, než jeho zaznamenávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was developed specially for writing mathematical/technical texts.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T125501Z" creationid="install" creationdate="20150821T125501Z">
@@ -30050,6 +30258,14 @@
       </tuv>
       <tuv lang="CS" changeid="Admin" changedate="20150927T151404Z" creationid="Admin" creationdate="20150927T151404Z">
         <seg>Výpis &lt;seq0&gt;3&lt;/seq0&gt; Vytvořeno makro „VlozitMojeJmeno"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;4&lt;/seq0&gt;: Copying numeric value to start of the column</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054537Z" creationid="install" creationdate="20151002T054537Z">
+        <seg>Výpis &lt;seq0&gt;4 &lt;/seq0&gt;: Kopírování číselné hodnoty na začátek řádku</seg>
       </tuv>
     </tu>
     <tu>
@@ -33934,6 +34150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pasting the value also pasted an extra space, so press &lt;f0&gt;Backspace&lt;/f0&gt; to remove the extra space.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054302Z" creationid="install" creationdate="20151002T054302Z">
+        <seg>Vkládání hodnoty vloží i jednu nadbytečnou mezeru, proto stiskneme &lt;f0&gt;Backspace&lt;/f0&gt;, abychom ji vymazali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paths options</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T200551Z" creationid="standa" creationdate="20141005T200551Z">
@@ -34280,16 +34504,48 @@
       <tuv lang="EN">
         <seg>Press &lt;f0&gt;Backspace&lt;/f0&gt; twice to remove the tab and the space.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150929T123939Z" creationid="install" creationdate="20150929T123939Z">
-        <seg>Dvakrát stiskneme &lt;f0&gt;Backspace&lt;/f0&gt;, čímž odstraníme tabulátor a mezeru.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151002T053248Z" creationid="install" creationdate="20150929T123939Z">
+        <seg>Dvakrát stiskneme &lt;f0&gt;Backspace&lt;/f0&gt;, a tím se odstraní tabulátor a mezera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Backspace&lt;/f0&gt; twice to remove the two trailing spaces.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054235Z" creationid="install" creationdate="20151002T054235Z">
+        <seg>Dvakrát stiskneme &lt;f0&gt;Backspace&lt;/f0&gt;, čímž smažeme dvě mezery na konci řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+C&lt;/f0&gt; to copy the selected text to the clipboard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054217Z" creationid="install" creationdate="20151002T054217Z">
+        <seg>Stlačíme &lt;f0&gt;Ctrl+C&lt;/f0&gt;, čím skopírujeme text do schránky.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Press &lt;f0&gt;Ctrl+Right Arrow&lt;/f0&gt; to move the cursor to the start of “specifies”.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150929T123845Z" creationid="install" creationdate="20150929T123845Z">
-        <seg>Stiskneme &lt;f0&gt;Ctrl+šipka vpravo&lt;/f0&gt;, čímž se kurzor přesune na začátek slova „specifies“.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151002T053205Z" creationid="install" creationdate="20150929T123845Z">
+        <seg>Stiskneme &lt;f0&gt;Ctrl+šipka vpravo&lt;/f0&gt;, kurzor se přesune na začátek slova „specifies“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+Right Arrow&lt;/f0&gt; twice to move the cursor to the start of the number.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T053142Z" creationid="install" creationdate="20151002T053142Z">
+        <seg>Dvakrát stiskneme &lt;f0&gt;Ctrl+šipka vpravo&lt;/f0&gt; a kurzor se přesune na začátek čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+Shift+Right Arrow&lt;/f0&gt; to select and move the cursor before the % sign.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T053422Z" creationid="install" creationdate="20151002T053422Z">
+        <seg>Stiskneme &lt;f0&gt;Ctrl+Shift+šipka vpravo&lt;/f0&gt;, číslo se vyjme a kurzor přesuneme před znak%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34298,6 +34554,30 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140314T163816Z" creationid="standa" creationdate="20140314T163816Z">
         <seg>Obrázek vložíme stisknutím &lt;f0&gt;Ctrl+V&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+V&lt;/f0&gt; to paste the selected number to the start of the line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054252Z" creationid="install" creationdate="20151002T054252Z">
+        <seg>Stiskneme &lt;f0&gt;Ctrl+V&lt;/f0&gt;, čímž se obsah schránky vloží na začátek řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Delete&lt;/f0&gt; to delete the lower case s and then press &lt;f1&gt;Shift+S&lt;/f1&gt; to add an upper case S.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T053113Z" creationid="install" creationdate="20151002T053113Z">
+        <seg>Stiskneme &lt;f0&gt;Delete&lt;/f0&gt; a tím smažeme malé písmeno s, a pak stiskneme &lt;f1&gt;Shift+S&lt;/f1&gt;, čímž přidáme velké S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;End&lt;/f0&gt; to move the cursor to the end of the line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054223Z" creationid="install" creationdate="20151002T054223Z">
+        <seg>Stiskneme &lt;f0&gt;End&lt;/f0&gt;, abychom kurzor přesunuli na konec řádku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34326,6 +34606,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Home&lt;/f0&gt; to move the cursor to the start of the line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054241Z" creationid="install" creationdate="20151002T054241Z">
+        <seg>Stiskneme &lt;f0&gt;Home&lt;/f0&gt;, aby se kurzor přesunul na začátek řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Home&lt;/f0&gt; to move to the start of the line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054324Z" creationid="install" creationdate="20151002T054324Z">
+        <seg>Stiskneme &lt;f0&gt;Home&lt;/f0&gt;, čímž kurzor přesuneme na začátek řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt; to restore or refresh the view of the current document after changing the anti-aliasing settings, to see the effect.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T194058Z" creationid="standa" creationdate="20141005T194058Z">
@@ -34344,8 +34640,24 @@
       <tuv lang="EN">
         <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to add the tab without the space after the constant name.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150929T124001Z" creationid="install" creationdate="20150929T124001Z">
-        <seg>Stiskneme &lt;f0&gt;Tab&lt;/f0&gt;, čímž za názvem konstanty přidáme tabulátor.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151002T053318Z" creationid="install" creationdate="20150929T124001Z">
+        <seg>Stiskneme &lt;f0&gt;Tab&lt;/f0&gt;, a za názvem konstanty se přidá tabulátor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to insert a tab between the number and the name.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054315Z" creationid="install" creationdate="20151002T054315Z">
+        <seg>Stiskneme &lt;f0&gt;Tab&lt;/f0&gt;, čímž vložíme znak tabulátoru mezi číslo a název.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;down arrow&lt;/f0&gt; to move to the next line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054333Z" creationid="install" creationdate="20151002T054333Z">
+        <seg>Stiskneme &lt;f0&gt;šipku dolů&lt;/f0&gt;, abychom se přesunuli na další řádek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40158,6 +40470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stop recording the macro and save the macro, see “&lt;bf0&gt;Recording a macro&lt;/bf0&gt;” on page &lt;f1&gt;&lt;bf2&gt;6&lt;/bf2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054407Z" creationid="install" creationdate="20151002T054407Z">
+        <seg>Záznam makra ukončíme a makro uložíme dle popisu v části „&lt;bf0&gt;Záznam makra&lt;/bf0&gt;“ na straně &lt;f1&gt;&lt;bf2&gt; 6&lt;/bf2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stove</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T074705Z" creationid="install" creationdate="20150724T074705Z">
@@ -43226,6 +43546,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140123T204814Z" creationid="standa" creationdate="20140123T204814Z">
         <seg>Možnosti programu Draw jsou značné, a třebaže nebyl vytvořen jako náhrada pokročilých grafických programů, obsahuje více funkcí, než mají nástroje pro kresby, které jsou v kancelářských balících zpravidla integrovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The generated macro code in &lt;f0&gt;&lt;t1&gt;Listing 4&lt;/t1&gt;&lt;/f0&gt; has been modified to contain the step number in the comments to match the code to the step above.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054525Z" creationid="install" creationdate="20151002T054525Z">
+        <seg>V kódu vygenerovaného makra ve výpisu &lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt; jsme přidali číslo kroku podle jeho pořadí výše uvedeného postupu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54336,6 +54664,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With practice this becomes second nature.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054459Z" creationid="install" creationdate="20151002T054459Z">
+        <seg>Po čase se takový postup stane zcela přirozeným.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With regard to formatting, formulas are treated as objects of the &lt;f0&gt;Frame Style&lt;/f0&gt; type with the Formula frame style.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T075716Z" creationid="install" creationdate="20150821T075716Z">
@@ -54476,6 +54812,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T154906Z" creationid="standa" creationdate="20140501T154906Z">
         <seg>Slova a znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work slowly and think about the steps as you do them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151002T054448Z" creationid="install" creationdate="20151002T054448Z">
+        <seg>Pracujte pomalu a při provádění přemýšlejte nad jednotlivými kroky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59970,16 +60314,16 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       <tuv lang="EN">
         <seg>rem define variables</seg>
       </tuv>
-      <tuv lang="CS" changeid="Admin" changedate="20150927T151509Z" creationid="Admin" creationdate="20150927T151501Z">
-        <seg>rem define variables (překl. definice proměnných)</seg>
+      <tuv lang="CS" changeid="install" changedate="20151002T055833Z" creationid="Admin" creationdate="20150927T151501Z">
+        <seg>rem Definice proměnných</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>rem get access to the document</seg>
       </tuv>
-      <tuv lang="CS" changeid="Admin" changedate="20150927T152927Z" creationid="Admin" creationdate="20150927T152927Z">
-        <seg>rem get access to the document</seg>
+      <tuv lang="CS" changeid="install" changedate="20151002T055821Z" creationid="Admin" creationdate="20150927T152927Z">
+        <seg>rem Získání přístupu k dokumentu</seg>
       </tuv>
     </tu>
     <tu>
