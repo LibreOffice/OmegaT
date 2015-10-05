@@ -5990,6 +5990,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A loaded library is displayed differently from a library that is not loaded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132346Z" creationid="install" creationdate="20151005T132346Z">
+        <seg>Načtená knihovna se zobrazuje jinak než nenačtená.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150922T053647Z" creationid="install" creationdate="20150922T053647Z">
@@ -8186,6 +8194,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T171116Z" creationid="standa" creationdate="20140216T171116Z">
         <seg>Když změníme velikost objektu, zobrazí se méně výrazný obrys objektu (&lt;t0&gt;obrázek 31&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As you create your macros, you must decide where to store them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132204Z" creationid="install" creationdate="20151005T132204Z">
+        <seg>Při vytváření maker se musíme rozhodnout, kam je uložíme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23262,6 +23278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt; on the main menu bar to view where other configuration data are stored.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132859Z" creationid="install" creationdate="20151005T132859Z">
+        <seg>Místo uložení konfiguračních dat najdeme zvolením &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Cesty&lt;/f0&gt; v hlavní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to open the Sort Lists dialog (&lt;t1&gt;Figure 27&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T163540Z" creationid="install" creationdate="20150701T122115Z">
@@ -30422,6 +30446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice stores user-specific data in a directory in the home directory for each user.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132603Z" creationid="install" creationdate="20151005T132603Z">
+        <seg>LibreOffice ukládá údaje o uživateli ve složce, které se nachází v jeho domovském adresáři.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice supports the following types of styles:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T215424Z" creationid="standa" creationdate="20140105T215424Z">
@@ -30902,10 +30934,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macros are not available until the library that contains them is loaded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132320Z" creationid="install" creationdate="20151005T132320Z">
+        <seg>Makra nejsou dostupné, pokud knihovna není načtena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macros are very useful when you have to repeat the same task in the same way over and over again.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150922T053814Z" creationid="install" creationdate="20150922T053814Z">
         <seg>Makra jsou velmi užitečné tehdy, když potřebujeme stejnou roli stejným způsobem mnohokrát zopakovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macros stored in the application library container named My Macros, however, are globally available to all documents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132300Z" creationid="install" creationdate="20151005T132300Z">
+        <seg>Makra uložené v kontejneru Moje makra jsou dostupné pro všechny dokumenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41038,6 +41086,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Storing a macro in a document is useful if the document will be shared and you want the macro to be included with the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132225Z" creationid="install" creationdate="20151005T132225Z">
+        <seg>Uložení do dokumentu je vhodné tehdy, pokud plánujeme jeho odeslání jiným uživatelům, nebo jestliže jeho uložení v dokumentu má význam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Stove</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T074705Z" creationid="install" creationdate="20150724T074705Z">
@@ -42578,6 +42634,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T200752Z" creationid="lenochod26" creationdate="20150617T142421Z">
         <seg>Postranní lišta můžeme skrýt, nebo znovu zobrazit tím, že klepneme na okraj s tlačítkem Skrýt/Zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard library and Template library, however, are automatically loaded.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132330Z" creationid="install" creationdate="20151005T132330Z">
+        <seg>Knihovny Standard a Template se načítají automaticky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44522,6 +44586,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T192353Z" creationid="standa" creationdate="20141016T192353Z">
         <seg>Národní nastavení je základem pro mnoho dalších nastavení v LibreOffice, například pro výchozí číslování, měnu a měrné jednotky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location is operating system specific.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132615Z" creationid="install" creationdate="20151005T132615Z">
+        <seg>Jeho umístění je různé v různých operačních systémech.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50150,6 +50222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To load the library and the modules it contains, double-click on the library.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132421Z" creationid="install" creationdate="20151005T132421Z">
+        <seg>Knihovnu a její moduly načteme tak, že na její název poklepáme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To locate the object at its new location, release the mouse button.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T170626Z" creationid="standa" creationdate="20140216T170626Z">
@@ -55138,6 +55218,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140608T154958Z" creationid="standa" creationdate="20140608T154958Z">
         <seg>Pokud je zaškrtnuto pole &lt;f0&gt;&lt;/f0&gt; &lt;i1/&gt; &lt;f2&gt;Tipy&lt;/f2&gt;, nad ikonou nebo polem se zobrazí jedno nebo dvě vysvětlující slova, když nad nimi bez klepnutí podržíme ukazatel myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where are macros &lt;i0/&gt;stored?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132532Z" creationid="install" creationdate="20151005T132532Z">
+        <seg>Kde jsou makra &lt;i0/&gt; uložené?</seg>
       </tuv>
     </tu>
     <tu>
@@ -61716,6 +61804,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T154319Z" creationid="standa" creationdate="20140501T154319Z">
         <seg>stavový řádek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>storage</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T132424Z" creationid="install" creationdate="20151005T132424Z">
+        <seg>uložení</seg>
       </tuv>
     </tu>
     <tu>
