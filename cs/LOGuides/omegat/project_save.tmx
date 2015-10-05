@@ -9214,6 +9214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, LibreOffice uses names such as Module1, Module2 and so on.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T091519Z" creationid="install" creationdate="20151005T091519Z">
+        <seg>LibreOffice standardně používá názvy Module1, Module2 atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, a CSV file has the extension &lt;f1&gt;.csv&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T102235Z" creationid="install" creationdate="20150618T102235Z">
@@ -29918,6 +29926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just as it makes good sense to give your libraries meaningful names, it is prudent to use meaningful names for your modules.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T091351Z" creationid="install" creationdate="20151005T091351Z">
+        <seg>Tak jak je vhodné používání smysluplných názvů pro knihovny, tak je i stejně vhodné pro moduly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Justified</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T174521Z" creationid="standa" creationdate="20150122T174521Z">
@@ -30178,6 +30194,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T183923Z" creationid="standa" creationdate="20141016T183923Z">
         <seg>Makra LibreOffice Basic musí být umístěna v hlavičce HTML dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice allows you to import libraries into a library container, but it will not allow you to overwrite the library named Standard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T091239Z" creationid="install" creationdate="20151005T091239Z">
+        <seg>LibreOffice umožňuje importování knihoven do stávajících kontejnerů, neumožňuje však přepsat knihovnu Standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46434,6 +46458,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T112549Z" creationid="install" creationdate="20150710T112549Z">
         <seg>Z tohoto důvodu je třeba z dat vytvořit strukturu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, if you store your macros in the Standard library, you cannot import them into another library container.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151005T091300Z" creationid="install" creationdate="20151005T091300Z">
+        <seg>Pokud své makra uložíme do knihovny Standard, nemůžeme je importovat do jiného kontejneru.</seg>
       </tuv>
     </tu>
     <tu>
