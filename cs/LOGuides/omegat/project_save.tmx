@@ -1942,6 +1942,54 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;MsgBox &lt;/f0&gt;&lt;f2&gt;"This macro only works with a text document"&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111521Z" creationid="install" creationdate="20151006T111521Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;MsgBox &lt;/f0&gt;&lt;f2&gt;"This macro only works with a text document"&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oCurs &lt;/f0&gt;&lt;f2&gt;=&lt;/f2&gt;&lt;f3&gt; oDoc&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;f5&gt;currentController&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;f7&gt;getViewCursor&lt;/f7&gt;&lt;f8&gt;()&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111542Z" creationid="install" creationdate="20151006T111542Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oCurs &lt;/f0&gt;&lt;f2&gt;=&lt;/f2&gt;&lt;f3&gt; oDoc&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;f5&gt;currentController&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;&lt;f7&gt;getViewCursor&lt;/f7&gt;&lt;f8&gt;()&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oCurs&lt;/f0&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;f3&gt;gotoEnd&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;False&lt;/f5&gt;&lt;f6&gt;)&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111554Z" creationid="install" creationdate="20151006T111554Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oCurs&lt;/f0&gt;&lt;f2&gt;.&lt;/f2&gt;&lt;f3&gt;gotoEnd&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;False&lt;/f5&gt;&lt;f6&gt;)&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oCurs&lt;/f0&gt;&lt;f2&gt;.Text.&lt;/f2&gt;&lt;f3&gt;insertString&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;oCurs&lt;/f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;"Hello"&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;f10&gt; False&lt;/f10&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111624Z" creationid="install" creationdate="20151006T111624Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oCurs&lt;/f0&gt;&lt;f2&gt;.Text.&lt;/f2&gt;&lt;f3&gt;insertString&lt;/f3&gt;&lt;f4&gt;(&lt;/f4&gt;&lt;f5&gt;oCurs&lt;/f5&gt;&lt;f6&gt;,&lt;/f6&gt;&lt;f7&gt; &lt;/f7&gt;&lt;f8&gt;"Ahoj"&lt;/f8&gt;&lt;f9&gt;,&lt;/f9&gt;&lt;f10&gt; False&lt;/f10&gt;&lt;f11&gt;)&lt;/f11&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oDoc &lt;/f0&gt;&lt;f2&gt;=&lt;/f2&gt;&lt;f3&gt; ThisComponent&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111426Z" creationid="install" creationdate="20151006T111426Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;oDoc &lt;/f0&gt;&lt;f2&gt;=&lt;/f2&gt;&lt;f3&gt; ThisComponent&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;s1/&gt;sTextService &lt;/f0&gt;&lt;f2&gt;=&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;"com.sun.star.text.TextDocument"&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111441Z" creationid="install" creationdate="20151006T111441Z">
+        <seg>&lt;f0&gt;&lt;s1/&gt;sTextService &lt;/f0&gt;&lt;f2&gt;=&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;"com.sun.star.text.TextDocument"&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;t1&gt;Figure 17&lt;/t1&gt;&lt;/f0&gt; shows the overview of a query.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T122547Z" creationid="install" creationdate="20150724T122547Z">
@@ -2486,6 +2534,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Dim&lt;/f0&gt;&lt;f1&gt; oCurs&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111410Z" creationid="install" creationdate="20151006T111410Z">
+        <seg>&lt;f0&gt;Dim&lt;/f0&gt;&lt;f1&gt; oCurs&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Dim&lt;/f0&gt;&lt;f1&gt; oDoc&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111403Z" creationid="install" creationdate="20151006T111403Z">
+        <seg>&lt;f0&gt;Dim&lt;/f0&gt;&lt;f1&gt; oDoc&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Dim&lt;/f0&gt;&lt;f1&gt; sTextService$&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111407Z" creationid="install" creationdate="20151006T111407Z">
+        <seg>&lt;f0&gt;Dim&lt;/f0&gt;&lt;f1&gt; sTextService$&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Direction&lt;/f0&gt; – determines the direction of series creation.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150701T090958Z" creationid="install" creationdate="20150701T090958Z">
@@ -2654,6 +2726,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;End&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;If&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111528Z" creationid="install" creationdate="20151006T111528Z">
+        <seg>&lt;f0&gt;End&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;If&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;End&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Sub&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150923T085019Z" creationid="install" creationdate="20150923T085019Z">
@@ -2706,6 +2786,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T095741Z" creationid="standa" creationdate="20140309T095741Z">
         <seg>&lt;f0&gt;Existující návrh&lt;/f0&gt; – ze seznamu návrhů se načte existující návrh, který se použije v následujících krocích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Exit&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Sub&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111525Z" creationid="install" creationdate="20151006T111525Z">
+        <seg>&lt;f0&gt;Exit&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Sub&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3106,6 +3194,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181140Z" creationid="standa" creationdate="20140526T181140Z">
         <seg>Pokud nechceme, aby LibreOffice převedl určitý text URL na hypertextový odkaz, zvolíme &lt;f0&gt;Úpravy &gt; Zpět&lt;/f0&gt; v hlavní nabídce nebo okamžitě poté, co bylo použito formátování, stiskneme &lt;f1&gt;Ctrl+Z&lt;/f1&gt; nebo umístíme kurzor do hypertextového odkazu, klepneme pravým tlačítkem a v místní nabídce vybereme &lt;f2&gt;Odebrat hypertextový odkaz&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;If&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;NOT&lt;/f2&gt;&lt;f3&gt; oDoc&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;f5&gt;supportsService&lt;/f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;f7&gt;sTextService&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Then&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111454Z" creationid="install" creationdate="20151006T111454Z">
+        <seg>&lt;f0&gt;If&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;NOT&lt;/f2&gt;&lt;f3&gt; oDoc&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;&lt;f5&gt;supportsService&lt;/f5&gt;&lt;f6&gt;(&lt;/f6&gt;&lt;f7&gt;sTextService&lt;/f7&gt;&lt;f8&gt;)&lt;/f8&gt;&lt;f9&gt; &lt;/f9&gt;&lt;f10&gt;Then&lt;/f10&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4194,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150923T085016Z" creationid="install" creationdate="20150923T085016Z">
         <seg>&lt;f0&gt;Sub&lt;/f0&gt; &lt;f1&gt;Main&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Sub&lt;/f0&gt;&lt;f1&gt; AppendHello&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111355Z" creationid="install" creationdate="20151006T111355Z">
+        <seg>&lt;f0&gt;Sub&lt;/f0&gt;&lt;f1&gt; PridejAhoj&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,6 +6422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple example, however, demonstrates how this works.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111311Z" creationid="install" creationdate="20151006T111311Z">
+        <seg>Následující makro proto slouží pouze k ilustraci postupu, který se při přímé úpravě dokumentu používá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A small box containing your initials appears in the upper left-hand corner of your drawing with a larger text box beside it (&lt;t1&gt;Figure 47&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140220T210408Z" creationid="standa" creationdate="20140220T210408Z">
@@ -7406,6 +7518,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although individual extensions can be found in several places, there is currently an extension repository at: &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt; and some documentation at &lt;a1&gt;http://libreplanet.org/wiki/Group:OpenOfficeExtensions/List&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111041Z" creationid="install" creationdate="20151006T111041Z">
+        <seg>Rozšíření můžeme najít na více místech v internetu. Specializované úložiště se nachází na adrese &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt; a také na &lt;a1&gt;http://libreplanet.org/wiki/Group:OpenOfficeExtensions/List&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although many important settings can be changed in the &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; dialog (see Chapter 2) for the default template, for example default fonts and page size, more advanced settings (such as page margins) can be changed only by replacing the default template with a new one.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T165155Z" creationid="standa" creationdate="20140407T165155Z">
@@ -7498,6 +7618,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T193836Z" creationid="standa" creationdate="20141015T193836Z">
         <seg>Vždy ukládat jako</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;i0/&gt;extension is a package that can be installed into LibreOffice to add new functionality.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110414Z" creationid="install" creationdate="20151006T110414Z">
+        <seg>&lt;i0/&gt;Rozšíření je balík, který můžeme doinstalovat do LibreOffice, čímž přidáme novou funkcionalitu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9502,6 +9630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc Add-Ins, which provide new functionality for Calc, including new functions that act like normal built-in functions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110538Z" creationid="install" creationdate="20151006T110538Z">
+        <seg>Doplňky programu Calc s novými vlastnostmi, včetně funkcí, které lze použít stejně jako zabudované funkce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc also allows the insertion of links directly into the spreadsheet using the Hyperlink dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140306T172335Z" creationid="standa" creationdate="20140306T172335Z">
@@ -10474,6 +10610,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150822T045949Z" creationid="lenochod26" creationdate="20150822T045949Z">
         <seg>Znaky - speciální</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chart Add-Ins with new chart types</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110733Z" creationid="install" creationdate="20151006T110733Z">
+        <seg>Doplňky s novými typy grafů</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,6 +15574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Directly manipulating LibreOffice internal objects is an advanced topic that is beyond the scope of this chapter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111251Z" creationid="install" creationdate="20151006T111251Z">
+        <seg>Přímá úprava dokumentů je téma, která je mimo rámec této příručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directories and files with names beginning with a period may be hidden and not shown in a normal selection dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T081539Z" creationid="install" creationdate="20151006T081539Z">
@@ -15698,6 +15850,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140608T155535Z" creationid="standa" creationdate="20140608T155535Z">
         <seg>Stav dokumentu - Tisk nastaví stav "dokument změněn"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Document templates and images</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110946Z" creationid="install" creationdate="20151006T110946Z">
+        <seg>Šablony dokumentů a obrázky</seg>
       </tuv>
     </tu>
     <tu>
@@ -17142,6 +17302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Even double-clicking on a graphic opens a dialog with a Macros tab that allows you to assign a macro to an event.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110300Z" creationid="install" creationdate="20151006T110300Z">
+        <seg>Makro dokonce můžeme přiřadit k události pro každý grafický objekt, a to tak, že na objekt dvojklikem a v okně, které se tím otevře, ho přiřadíme na kartě Makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even if objects are located behind others and not visible, they can still be selected.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140210T202030Z" creationid="standa" creationdate="20140210T202030Z">
@@ -17406,6 +17574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Extensions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110306Z" creationid="install" creationdate="20151006T110306Z">
+        <seg>Rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Extensions and add-ons</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T201640Z" creationid="standa" creationdate="20140417T201640Z">
@@ -17418,6 +17594,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T181511Z" creationid="standa" creationdate="20140425T181511Z">
         <seg>Rozšíření a doplňky balík LibreOffice vylepšují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions can be grouped into types:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110442Z" creationid="install" creationdate="20151006T110442Z">
+        <seg>Rozšíření můžeme rozdělit do skupin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions can be written in almost any programming language and may be simple or sophisticated.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110434Z" creationid="install" creationdate="20151006T110434Z">
+        <seg>Rozšíření lze vytvářet v téměř libovolném programovacím jazyce, přičemž mohou být jednoduché, ale i složité.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17666,6 +17858,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T154639Z" creationid="standa" creationdate="20140125T154639Z">
         <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: &lt;f1&gt;Events page in &lt;/f1&gt;Customize dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110106Z" creationid="install" creationdate="20151006T110106Z">
+        <seg>Obrázek &lt;seq0&gt;11 &lt;/seq0&gt;: &lt;f1&gt;Karta Události&lt;/f1&gt; v dialogovém okně Upravit</seg>
       </tuv>
     </tu>
     <tu>
@@ -20366,6 +20566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finding more information</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111645Z" creationid="install" creationdate="20151006T111645Z">
+        <seg>Kde najdeme více informací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First click the field, RoomID.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T130017Z" creationid="install" creationdate="20150716T130017Z">
@@ -21794,6 +22002,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141011T203706Z" creationid="standa" creationdate="20141011T203706Z">
         <seg>Více informací o záznamu maker se nachází v kapitole 13 Začínáme s makry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more about obtaining and installing extensions, see &lt;f0&gt;Chapter 14 Customizing LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111105Z" creationid="install" creationdate="20151006T111105Z">
+        <seg>Více informací o získávání a instalaci rozšíření najdeme v &lt;f0&gt;kapitole 14, Customizing LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28262,6 +28478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, you can create a macro that directly manipulates a document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111241Z" creationid="install" creationdate="20151006T111241Z">
+        <seg>Jinými slovy, můžeme vytvořit makra, které modifikují dokument přímo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, you have to use the &lt;f0&gt;over&lt;/f0&gt; command.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T083033Z" creationid="install" creationdate="20150818T083033Z">
@@ -31014,6 +31238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linguistic components such as spell checkers</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110851Z" creationid="install" creationdate="20151006T110851Z">
+        <seg>Jazykové doplňky, jako například nástroje pro kontrolu pravopisu a gramatiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linking an image file</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T171337Z" creationid="standa" creationdate="20140313T171337Z">
@@ -31114,6 +31346,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T084042Z" creationid="install" creationdate="20151002T084042Z">
         <seg>Výpis &lt;seq0&gt;5 &lt;/seq0&gt;: Úprava Main pro spouštění makra KopirujCisloDoSloupce1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111323Z" creationid="install" creationdate="20151006T111323Z">
+        <seg>Výpis &lt;seq0&gt;6 &lt;/seq0&gt;: Připojení textu „Ahoj“ k aktuálnímu dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31586,6 +31826,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T185515Z" creationid="standa" creationdate="20140418T185515Z">
         <seg>Obsahuje mnoho funkcí, které lze do jiných balíků přidat pouze formou placených rozšíření (jako například export do PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many objects in a document can be set to call macros when events occur.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110137Z" creationid="install" creationdate="20151006T110137Z">
+        <seg>Spuštění makra můžeme spojit s událostmi generovanými různými objekty v dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33022,6 +33270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New components and functionality, which normally include some level of User Interface (UI) integration such as new menus or toolbars</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110652Z" creationid="install" creationdate="20151006T110652Z">
+        <seg>Nové funkce, jejichž součástí běžně bývají i nové prvky uživatelského rozhraní, jako například nabídky a nástrojové lišty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New documents created from this template will all have your company’s logo on the first page.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T223730Z" creationid="standa" creationdate="20140103T223730Z">
@@ -33530,6 +33786,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T125409Z" creationid="install" creationdate="20150821T125409Z">
         <seg>Další volně dostupná písma obsahují velké množství matematických symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Numerous resources are available that provide help with writing macros.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111713Z" creationid="install" creationdate="20151006T111713Z">
+        <seg>Informace o vytváření maker najdeme v různých zdrojích.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35230,6 +35494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pivot Tables that are used directly in Calc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110708Z" creationid="install" creationdate="20151006T110708Z">
+        <seg>Kontingenční tabulky na přímé požití v programu Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place Purchased</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T052156Z" creationid="install" creationdate="20150721T052156Z">
@@ -36186,6 +36458,46 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150923T085009Z" creationid="install" creationdate="20150923T085009Z">
         <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Get the view cursor from the current controller.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111539Z" creationid="install" creationdate="20151006T111539Z">
+        <seg>REM Získání informací o kurzoru v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Insert text "Hello" at the end of the document</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111614Z" creationid="install" creationdate="20151006T111614Z">
+        <seg>REM Vložení textu „Ahoj“ na konec dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Move the cursor to the end of the document</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111552Z" creationid="install" creationdate="20151006T111552Z">
+        <seg>REM Přesunutí kurzoru na konec dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM ThisComponent refers to the currently active document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111421Z" creationid="install" creationdate="20151006T111421Z">
+        <seg>REM ThisComponent reprezentuje aktuální otevřený dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM Verify that this is a text document</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111437Z" creationid="install" creationdate="20151006T111437Z">
+        <seg>REM Ověření, zda jde o textový dokument</seg>
       </tuv>
     </tu>
     <tu>
@@ -39114,6 +39426,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T105753Z" creationid="install" creationdate="20151006T105753Z">
         <seg>Zvolíme událost a klepnutím na &lt;f0&gt;Makro&lt;/f0&gt; otevřeme dialogové okno Výběr makra (obrázek &lt;t1&gt;5&lt;/t1&gt; na straně &lt;f2&gt;&lt;t3&gt;7&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the desired macro and click &lt;f0&gt;OK&lt;/f0&gt; to assign the macro to the event.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105836Z" creationid="install" creationdate="20151006T105836Z">
+        <seg>Vybereme požadované makro a klepnutím na &lt;f0&gt;OK&lt;/f0&gt; ho přiřadíme k události.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42870,6 +43190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Events page shows that the event has been assigned to a macro.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105914Z" creationid="install" creationdate="20151006T105914Z">
+        <seg>Následně se v seznamu na kartě Události toto přiřazení zobrazí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Extension Manager provides an easy way to install collections of templates that have been packaged as extensions.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T214024Z" creationid="standa" creationdate="20140112T214024Z">
@@ -44438,6 +44766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The examples covered in this chapter are created using the macro recorder and the dispatcher.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111211Z" creationid="install" creationdate="20151006T111211Z">
+        <seg>Příklady vytváření maker, uvedené v této kapitole, využívaly záznam maker a příkazovou infrastrukturu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exercise continues on page &lt;f1&gt;&lt;bf2&gt;16&lt;/bf2&gt;&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T073929Z" creationid="install" creationdate="20150716T073929Z">
@@ -45410,6 +45746,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T180559Z" creationid="standa" creationdate="20140216T180559Z">
         <seg>Pomocí této lišty můžeme upravit nejčastěji používané vlastnosti objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The most common use is to add a control, such as a button, into a document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110203Z" creationid="install" creationdate="20151006T110203Z">
+        <seg>Do dokumentu kvůli tomu častokrát přidáváme ovládací prvky, jako například tlačítka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52814,6 +53158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Help &gt; LibreOffice Help&lt;/f0&gt; to open the LibreOffice help pages.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111739Z" creationid="install" creationdate="20151006T111739Z">
+        <seg>Jsou jimi i stránky nápovědy, které otevřeme zvolením &lt;f0&gt;Nápověda &gt; Nápověda LibreOffice&lt;/f0&gt; v hlavní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;Replace All&lt;/f0&gt; with caution; otherwise, you may end up with some hilarious (and highly embarrassing) mistakes.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T171729Z" creationid="standa" creationdate="20150110T171729Z">
@@ -56624,6 +56976,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Writing macros without the recorder</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111138Z" creationid="install" creationdate="20151006T111138Z">
+        <seg>Vytváření maker bez použití záznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Writing, editing, and (especially) page layout are often easier when you can see the page margins (text boundaries), the boundaries of tables and sections (in Writer documents), page breaks in Calc, grid lines in Draw or Writer, and other features.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141009T201654Z" creationid="standa" creationdate="20141009T201654Z">
@@ -57276,6 +57636,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T192648Z" creationid="standa" creationdate="20140116T192648Z">
         <seg>S kresbami můžeme pracovat také přímo z programu Writer nebo Impress pomocí sady funkcí a nástrojů z &lt;f0&gt;Draw&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also write macros that directly access the objects that comprise LibreOffice if you are confident in writing computer code.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111229Z" creationid="install" creationdate="20151006T111229Z">
+        <seg>Zkušenější programátoři si však mohou vytvářet makra, které přímo využívají různé objekty, které poskytuje LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60624,6 +60992,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>extensions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T110310Z" creationid="install" creationdate="20151006T110310Z">
+        <seg>rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extensions and addons</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T181440Z" creationid="standa" creationdate="20140425T181440Z">
@@ -62040,6 +62416,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>resources</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111649Z" creationid="install" creationdate="20151006T111649Z">
+        <seg>zdroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>revision marks</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T183533Z" creationid="standa" creationdate="20150326T183533Z">
@@ -62956,6 +63340,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T180354Z" creationid="standa" creationdate="20140407T180354Z">
         <seg>pracovní plocha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>writing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T111117Z" creationid="install" creationdate="20151006T111117Z">
+        <seg>vytváření</seg>
       </tuv>
     </tu>
     <tu>
