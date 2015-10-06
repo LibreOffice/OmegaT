@@ -1552,8 +1552,8 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;f1&gt;http://ask.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt; (a Q &amp; A site where volunteers answer questions related to LibreOffice)</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151006T112355Z" creationid="install" creationdate="20151006T112355Z">
-        <seg>&lt;A0&gt; &lt;f1&gt;http://ask.libreoffice.org/&lt;/f1&gt; &lt;/a0&gt; (stránka s otázkami a odpověďmi, kde dobrovolníci odpovídají na otázky související s LibreOffice)</seg>
+      <tuv lang="CS" changeid="install" changedate="20151006T113534Z" creationid="install" creationdate="20151006T112355Z">
+        <seg>&lt;a0&gt; &lt;f1&gt;http://ask.libreoffice.org/&lt;/f1&gt; &lt;/a0&gt; (stránka s otázkami a odpověďmi, kde dobrovolníci odpovídají na otázky související s LibreOffice)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,32 +1600,32 @@
       <tuv lang="EN">
         <seg>&lt;a0&gt;http://www.pitonyak.org/AndrewMacro.odt&lt;/a0&gt; (numerous examples of working macros)</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151006T112736Z" creationid="install" creationdate="20151006T112736Z">
-        <seg>&lt;A0&gt; http://www.pitonyak.org/AndrewMacro.odt&lt;/a0&gt; (mnoho příkladů funkčních maker)</seg>
+      <tuv lang="CS" changeid="install" changedate="20151006T113541Z" creationid="install" creationdate="20151006T112736Z">
+        <seg>&lt;a0&gt; http://www.pitonyak.org/AndrewMacro.odt&lt;/a0&gt; (mnoho příkladů funkčních maker)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a0&gt;http://www.pitonyak.org/OOME_3_0.odt&lt;/a0&gt; (Andrew Pitonyak’s book on macros)</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151006T112748Z" creationid="install" creationdate="20151006T112748Z">
-        <seg>&lt;A0&gt; http://www.pitonyak.org/OOME_3_0.odt&lt;/a0&gt; (kniha Andrew Pitonyaka o makrech)</seg>
+      <tuv lang="CS" changeid="install" changedate="20151006T113543Z" creationid="install" creationdate="20151006T112748Z">
+        <seg>&lt;a0&gt; http://www.pitonyak.org/OOME_3_0.odt&lt;/a0&gt; (kniha Andrew Pitonyaka o makrech)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a0&gt;http://www.pitonyak.org/database/&lt;/a0&gt; (numerous macro examples using Base)</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151006T112811Z" creationid="install" creationdate="20151006T112811Z">
-        <seg>&lt;A0&gt; http://www.pitonyak.org/database/&lt;/a0&gt; (spousta příkladů maker souvisejících s Base).</seg>
+      <tuv lang="CS" changeid="install" changedate="20151006T113546Z" creationid="install" creationdate="20151006T112811Z">
+        <seg>&lt;a0&gt; http://www.pitonyak.org/database/&lt;/a0&gt; (spousta příkladů maker souvisejících s Base).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;a0&gt;http://www.pitonyak.org/oo.php&lt;/a0&gt; (macro page for Andrew Pitonyak)</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151006T112719Z" creationid="install" creationdate="20151006T112719Z">
-        <seg>&lt;A0&gt; http://www.pitonyak.org/oo.php&lt;/a0&gt; (stránka o programování pomocí maker, jejímž autorem je Andrew Pitonyak)</seg>
+      <tuv lang="CS" changeid="install" changedate="20151006T113538Z" creationid="install" creationdate="20151006T112719Z">
+        <seg>&lt;a0&gt; http://www.pitonyak.org/oo.php&lt;/a0&gt; (stránka o programování pomocí maker, jejímž autorem je Andrew Pitonyak)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6266,6 +6266,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T183941Z" creationid="standa" creationdate="20140116T183941Z">
         <seg>Složitějším příkladem může být &lt;f3&gt;Název&lt;/f3&gt;, za kterým následuje &lt;f4&gt;Autor&lt;/f4&gt;, za ním &lt;f5&gt;Abstrakt&lt;/f5&gt;, za ním&lt;f6&gt;Nadpis 1&lt;/f6&gt;a nakonec &lt;f7&gt;Tělo textu&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A more complicated example of a macro</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T113917Z" creationid="install" creationdate="20151006T113917Z">
+        <seg>Příklad složitějšího makra</seg>
       </tuv>
     </tu>
     <tu>
@@ -15190,6 +15198,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defining subroutines with SUB</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T113832Z" creationid="install" creationdate="20151006T113832Z">
+        <seg>Definování podprogramů pomocí SUB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining variables using Dim</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T113913Z" creationid="install" creationdate="20151006T113913Z">
+        <seg>Definování proměnných pomocí Dim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete a slide from the presentation if it is no longer needed.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T182141Z" creationid="standa" creationdate="20150628T182141Z">
@@ -21608,8 +21632,8 @@
       <tuv lang="EN">
         <seg>For example, on computer running Windows XP, this is &lt;f1&gt;C:\Documents and Settings\&lt;user name&gt;\Application Data&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151006T075556Z" creationid="install" creationdate="20151006T075556Z">
-        <seg>Například, na počítači s Windows XP je to složka &lt;f1&gt;C:\Documents and Settings\&lt;user name &gt;\Application Data&lt;/​​f1&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151006T113515Z" creationid="install" creationdate="20151006T075556Z">
+        <seg>Například, na počítači s Windows XP je to složka &lt;f1&gt;C:\Documents and Settings\&lt;user name&gt;\Application Data&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24754,6 +24778,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T201634Z" creationid="standa" creationdate="20140417T201634Z">
         <seg>Jak LibreOffice nainstalovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to run a macro</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T113956Z" creationid="install" creationdate="20151006T113956Z">
+        <seg>Jako makro spustit</seg>
       </tuv>
     </tu>
     <tu>
@@ -36626,6 +36658,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T111437Z" creationid="install" creationdate="20151006T111437Z">
         <seg>REM Ověření, zda jde o textový dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>REM comments</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T113819Z" creationid="install" creationdate="20151006T113819Z">
+        <seg>REM poznámky</seg>
       </tuv>
     </tu>
     <tu>
@@ -54830,6 +54870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viewing and editing macros</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T113759Z" creationid="install" creationdate="20151006T113759Z">
+        <seg>Zobrazení a úprava maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Views</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T132215Z" creationid="install" creationdate="20150713T132215Z">
@@ -56442,6 +56490,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151005T132532Z" creationid="install" creationdate="20151005T132532Z">
         <seg>Kde jsou makra &lt;i0/&gt; uložené?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where are macros stored?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T113943Z" creationid="install" creationdate="20151006T113943Z">
+        <seg>Kde jsou makra uložené?</seg>
       </tuv>
     </tu>
     <tu>
