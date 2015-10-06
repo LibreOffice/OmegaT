@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;http://&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;forum&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;.openoffice.org/&lt;/a3&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084448Z" creationid="install" creationdate="20151006T084448Z">
+        <seg>&lt;a0&gt;http://&lt;/a0&gt;&lt;a1&gt;&lt;f2&gt;forum&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;.openoffice.org/&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;http://dev.w3.org/html5/html-author/charref&lt;/a0&gt; from character x021C4, or here: &lt;a1&gt;&lt;f2&gt;http://www.unicode.org/charts/PDF/U2190.pdf&lt;/f2&gt;&lt;/a1&gt;, which is a subset of this location: http://www.unicode.org/charts/#symbols</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150822T050135Z" creationid="lenochod26" creationdate="20150822T045805Z">
@@ -5846,6 +5854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A forum, with many examples and help.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084546Z" creationid="install" creationdate="20151006T084546Z">
+        <seg>Fórum s mnoha příklady a pomocí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A full description of all the choices and their interactions is beyond the scope of this chapter.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T203542Z" creationid="standa" creationdate="20140228T203542Z">
@@ -6058,6 +6074,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150929T120345Z" creationid="install" creationdate="20150929T120345Z">
         <seg>Příklad&lt;i0/&gt; složitějšího makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A more common technique for frequently used macros is to assign the macro a toolbar icon, menu item, keyboard shortcut, or a button embedded in a document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084957Z" creationid="install" creationdate="20151006T084957Z">
+        <seg>V případě často používaných maker je vhodnější, pokud k nim přiřadíme ikonu na nástrojové liště, klávesovou zkratku nebo tlačítko, které umístíme do dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7430,6 +7454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although you can use &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; to run all macros, this is not efficient for frequently run macros.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084657Z" creationid="install" creationdate="20151006T084657Z">
+        <seg>Jakékoliv makro můžeme spustit zvolením &lt;f0&gt;Nástroje &gt; Makra &gt; Spustit makro&lt;/f0&gt; v hlavní nabídce. Tento postup však není na opakované spouštění moc praktické.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always be sure that an entry will always be required before selecting &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T082841Z" creationid="install" creationdate="20150716T082841Z">
@@ -7674,6 +7706,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150922T050909Z" creationid="install" creationdate="20150922T050909Z">
         <seg>Andrew Pitonyak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Another forum, with many examples and help.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084553Z" creationid="install" creationdate="20151006T084553Z">
+        <seg>Další fórum s mnoha příklady a pomocí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15794,6 +15834,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T213433Z" creationid="standa" creationdate="20140112T213433Z">
         <seg>Šablonu stáhneme a uložíme ji někam na počítač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloading macros to import</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T083943Z" creationid="install" creationdate="20151006T083943Z">
+        <seg>Stažení maker za účelem importu</seg>
       </tuv>
     </tu>
     <tu>
@@ -24254,10 +24302,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How frequently will the macro be used?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T085151Z" creationid="install" creationdate="20151006T085151Z">
+        <seg>Jak často budeme makro používat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How the macro recorder uses the dispatch framework</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T084731Z" creationid="install" creationdate="20151002T084731Z">
         <seg>Jako záznamník maker využívá příkazovou infrastrukturu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to &lt;i0/&gt;run a macro</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084606Z" creationid="install" creationdate="20151006T084606Z">
+        <seg>Jako makro &lt;i0/&gt; spustit</seg>
       </tuv>
     </tu>
     <tu>
@@ -29326,6 +29390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is the macro for a specific document type, such as a Calc document?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T085140Z" creationid="install" creationdate="20151006T085140Z">
+        <seg>Je makro určené pouze pro jeden typ dokumentů, jako například tabulkový sešit aplikace Calc?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Isolated and unpaired brackets</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T062804Z" creationid="install" creationdate="20150818T062804Z">
@@ -30958,10 +31030,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084420Z" creationid="install" creationdate="20151006T084420Z">
+        <seg>Umístění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location of the Gallery and the objects in it</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T103956Z" creationid="standa" creationdate="20140315T103956Z">
         <seg>Umístění galerie a jejích objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lots of links to everything.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084537Z" creationid="install" creationdate="20151006T084537Z">
+        <seg>Mnoho odkazů na ledacos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31038,6 +31126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macro examples</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084415Z" creationid="install" creationdate="20151006T084415Z">
+        <seg>Příklady maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macro organization</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T130544Z" creationid="install" creationdate="20151002T130544Z">
@@ -31058,6 +31154,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T194745Z" creationid="standa" creationdate="20141008T194745Z">
         <seg>Zabezpečení maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macros are available for download.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T083951Z" creationid="install" creationdate="20151006T083951Z">
+        <seg>Na internetu najdeme ke stažení spoustu maker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36046,6 +36150,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reference materials regarding database macros.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084524Z" creationid="install" creationdate="20151006T084524Z">
+        <seg>Příručky a další materiály související s databází.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reference materials regarding macros.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084516Z" creationid="install" creationdate="20151006T084516Z">
+        <seg>Příručky a další materiály související s makry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>References tab</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T193904Z" creationid="standa" creationdate="20150326T193847Z">
@@ -37686,6 +37806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See “&lt;bf0&gt;Adding a macro&lt;/bf0&gt;” on page &lt;bf1&gt;4&lt;/bf1&gt; on how to add macros to your macro library and “&lt;bf2&gt;Viewing and editing macros&lt;/bf2&gt;” on page &lt;bf3&gt;8&lt;/bf3&gt; on how to edit macros using the Basic IDE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084847Z" creationid="install" creationdate="20151006T084107Z">
+        <seg>Více informací o přidávání maker do knihovny maker najdeme v části „&lt;bf0&gt;Přidání makra&lt;/bf0&gt;“ na straně &lt;bf1&gt;4&lt;/bf1&gt; a o úpravě maker pomocí IDE najdeme v části „&lt;bf2&gt;Zobrazení a úprava maker&lt;/bf2&gt;“ na straně &lt;bf3&gt;8&lt;/bf3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See “&lt;bf0&gt;Copying styles from a template or document&lt;/bf0&gt;” on page &lt;bf1&gt;11&lt;/bf1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T210819Z" creationid="standa" creationdate="20140108T213605Z">
@@ -37738,6 +37866,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140503T175237Z" creationid="standa" creationdate="20140503T175237Z">
         <seg>Více informací se nachází v části „&lt;f1&gt;&lt;bf2&gt;Dialogová okna Otevřít a Uložit jako&lt;/bf2&gt;&lt;/f1&gt;“ na stránce &lt;f3&gt;&lt;bf4&gt; 18&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;f1&gt;&lt;bf2&gt;Running a macro&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;7&lt;/bf4&gt;&lt;/f3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084838Z" creationid="install" creationdate="20151006T084838Z">
+        <seg>Více se o takovémto spouštění dozvíme v části „&lt;f1&gt;&lt;bf2&gt;Spuštění makra&lt;/bf2&gt;&lt;/f1&gt;“ na straně &lt;f3&gt;&lt;bf4&gt; 7&lt;/bf4&gt;&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39846,6 +39982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should the macro be available for only one document, or globally for all documents?</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T085049Z" creationid="install" creationdate="20151006T085049Z">
+        <seg>Makro má být dostupné pouze pro jeden dokument nebo globálně dostupné pro všechny dokumenty?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T195206Z" creationid="standa" creationdate="20150110T195206Z">
@@ -40402,6 +40546,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150617T101344Z" creationid="standa" creationdate="20140103T220241Z">
         <seg>Některé klávesové zkratky a položky nabídek jsou v systému Mac jiné než v systémech Windows a Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some macros are available as free downloads on the Internet (see &lt;t0&gt;Table 1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084405Z" creationid="install" creationdate="20151006T084405Z">
+        <seg>Některá makra jsou volně stažitelná z internetu (více informací je dostupné v &lt;t0&gt;Tabulce 1&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some macros are contained in documents, some as regular files that you must select and import, and some as macro text that should be copied and pasted into the Basic IDE.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084025Z" creationid="install" creationdate="20151006T084025Z">
+        <seg>Některé jsou součástí dokumentů, některé jsou dostupné jako samostatné soubory, které je třeba importovat a některé jsou jen ve formě zdrojového textu, který je třeba zkopírovat a do LibreOffice vložit pomocí vývojového prostředí Basic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55528,6 +55688,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While choosing a method, it is also good to ask questions such as:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T085015Z" creationid="install" creationdate="20151006T085015Z">
+        <seg>Při výběru jedné z těchto metod je vhodné si nejprve položit několik otázek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>While defining a print range can be a powerful tool, it may sometimes be necessary to manually adjust the Calc printout manually using a &lt;f0&gt;manual or page break&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150708T054606Z" creationid="install" creationdate="20150708T054606Z">
@@ -60432,10 +60600,42 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://development.openoffice.org/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084436Z" creationid="install" creationdate="20151006T084436Z">
+        <seg>http://development.openoffice.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://myserver.com/work/images/img.jpg</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T191816Z" creationid="standa" creationdate="20141015T191816Z">
         <seg>http://mujserver.cz/pracovni/obrazky/obr.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.oooforum.org/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084440Z" creationid="install" creationdate="20151006T084440Z">
+        <seg>http://www.oooforum.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.pitonyak.org/database/</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084431Z" creationid="install" creationdate="20151006T084431Z">
+        <seg>http://www.pitonyak.org/database/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.pitonyak.org/oo.php</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T084426Z" creationid="install" creationdate="20151006T084426Z">
+        <seg>http://www.pitonyak.org/oo.php</seg>
       </tuv>
     </tu>
     <tu>
