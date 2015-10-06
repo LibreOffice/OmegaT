@@ -5662,6 +5662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A common use is to assign the Open Document event to call a specific macro.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105444Z" creationid="install" creationdate="20151006T105444Z">
+        <seg>Běžnou praxí je přiřazení spouštění makra k události Otevřít dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A complete list of commands can be found in &lt;f0&gt;the a&lt;/f0&gt;ppendix of the &lt;f1&gt;Math Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T104040Z" creationid="install" creationdate="20150817T104040Z">
@@ -8874,6 +8882,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T075459Z" creationid="install" creationdate="20150716T075459Z">
         <seg>Při odstraňování pole je třeba být opatrný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be careful when you configure an event handler.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T104555Z" creationid="install" creationdate="20151006T104555Z">
+        <seg>Při konfigurování obsluhy událostí je nutná opatrnost.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21110,6 +21126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, assume that you write an event handler that is called every time that a key is pressed, but you make a mistake so the event is not properly handled.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T104934Z" creationid="install" creationdate="20151006T104934Z">
+        <seg>Například, předpokládejme, že jsme vytvořili obslužné makro, které se spustí pokaždé, když se stiskne klávesa. Udělali jsme v něm však chybu a událost se neobsluhuje správně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, below are some of the settings (although not a full list) that can be included in a Writer document and then saved in the template for later use:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140111T212333Z" creationid="standa" creationdate="20140111T212333Z">
@@ -23394,6 +23418,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T055542Z" creationid="install" creationdate="20150707T055542Z">
         <seg>Tuto funkci aktivujeme tak, že v liště nabídky zvolíme &lt;f0&gt;Nástroje &gt; Obsah buněk &gt; Automatický výpočet&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the main menu bar to open the Customize dialog and select the Events tab (&lt;t1&gt;Figure 11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105055Z" creationid="install" creationdate="20151006T105055Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Nástroje &gt; Přizpůsobit&lt;/f0&gt; a v okně Přizpůsobit které se tím otevře, zvolíme kartu Události (obrázek &lt;t1&gt;11&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -27586,6 +27618,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T201005Z" creationid="install" creationdate="20150629T113332Z">
         <seg>V &lt;f0&gt;Možnosti &gt; Úvodní nuly&lt;/f0&gt; zadáme minimální požadovaný počet číselných znaků..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f0&gt;Save In&lt;/f0&gt;, select LibreOffice, or a specific document from the drop down menu to save your event.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105422Z" creationid="install" creationdate="20151006T105422Z">
+        <seg>Proto v rozbalovací nabídce &lt;f0&gt;Uložit do&lt;/f0&gt; zvolíme buď LibreOffice nebo konkrétní dokument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34198,6 +34238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One possible result is that your event handler will consume all key presses, forcing you to forcibly terminate LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105016Z" creationid="install" creationdate="20151006T105016Z">
+        <seg>Jeden z možných důsledků je, že makro zachytí všechny stisky kláves, nic nemůžeme psát, a tak LibreOffice musíme ukončit násilně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One very common database is the address book.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T134405Z" creationid="install" creationdate="20150727T134405Z">
@@ -39058,6 +39106,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150629T143906Z" creationid="lenochod26" creationdate="20150629T143906Z">
         <seg>Požadovaný formát zvolíme v seznamu &lt;f0&gt;Formát&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the desired event and click &lt;f0&gt;Macro&lt;/f0&gt; to open the Macro Selector dialog (&lt;t1&gt;Figure 5&lt;/t1&gt; on page &lt;f2&gt;&lt;t3&gt;7&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105753Z" creationid="install" creationdate="20151006T105753Z">
+        <seg>Zvolíme událost a klepnutím na &lt;f0&gt;Makro&lt;/f0&gt; otevřeme dialogové okno Výběr makra (obrázek &lt;t1&gt;5&lt;/t1&gt; na straně &lt;f2&gt;&lt;t3&gt;7&lt;/t3&gt;&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -44334,6 +44390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The events in the Customize dialog are related to the entire application and specific documents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105148Z" creationid="install" creationdate="20151006T105148Z">
+        <seg>Události, které zde lze modifikovat, souvisejí buď s celou aplikací nebo s vybraným dokumentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The exact list shown depends on the &lt;f1&gt;Enhanced language support&lt;/f1&gt; settings (see &lt;t2&gt;Figure 26&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T191142Z" creationid="standa" creationdate="20141016T191142Z">
@@ -45178,6 +45242,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150922T054354Z" creationid="install" creationdate="20150922T054354Z">
         <seg>Záznam maker pracuje na základě zaznamenávání odeslaných příkazů (viz část „&lt;f0&gt;&lt;rf1&gt;Příkazová infrastruktura&lt;/rf1&gt;&lt;/f0&gt;&lt;f2&gt;“ na straně&lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt; 13&lt;/rf4&gt; &lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The macro then performs certain setup tasks for the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151006T105559Z" creationid="install" creationdate="20151006T105559Z">
+        <seg>Takové makro pak po otevření provede pro dokument požadovaná nastavení.</seg>
       </tuv>
     </tu>
     <tu>
