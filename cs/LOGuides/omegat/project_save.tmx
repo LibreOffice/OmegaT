@@ -12456,8 +12456,8 @@
       <tuv lang="EN">
         <seg>Click on the Properties icon &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt; at the side of the Sidebar to open &lt;f3&gt;Layouts&lt;/f3&gt; section and display the available layouts (&lt;t4&gt;Figure 16&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T175121Z" creationid="standa" creationdate="20151007T174254Z">
-        <seg>Na straně postranního panelu Klepneme na ikonu Vlastnosti &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;, čímž otevřeme oblast &lt;f3&gt;Rozvržení&lt;/f3&gt; a zobrazíme tím dostupná rozvržení (obrázek &lt;t4&gt;obrázek 16&lt;/t4&gt;).</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151007T180357Z" creationid="standa" creationdate="20151007T174254Z">
+        <seg>Na straně postranního panelu Klepneme na ikonu Vlastnosti &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;, čímž otevřeme oblast &lt;f3&gt;Rozvržení&lt;/f3&gt; a zobrazíme tím dostupná rozvržení (obrázek &lt;t4&gt;16&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -26466,6 +26466,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T125043Z" creationid="install" creationdate="20150724T125043Z">
         <seg>Pokud nyní tento dotaz chceme použít, klikneme na tlačítko &lt;f0&gt;Dokončit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If tooltips &lt;i0/&gt;are not enabled, choose &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; General &gt; Help&lt;/f1&gt; and select the &lt;f2&gt;Tips&lt;/f2&gt; option.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T181308Z" creationid="standa" creationdate="20151007T181240Z">
+        <seg>Pokud &lt;i0/&gt;tipy nejsou povoleny, v hlavní nabídce zvolíme &lt;f1&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Obecné&lt;/f1&gt; a zaškrtneme možnost &lt;f2&gt;Tipy&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42782,6 +42790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text and graphic elements can be readjusted at any time during the preparation of the presentation, but changing the layout of a slide that already contains some contents can have an effect on the content format .</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T180936Z" creationid="standa" creationdate="20151007T180936Z">
+        <seg>Vzhled textu a grafických prvků můžeme upravit kdykoliv během přípravy prezentace. Úprava rozvržení snímků, které již mají nějaký obsah, však může tento obsah ovlivnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text area</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T165614Z" creationid="standa" creationdate="20150701T165614Z">
@@ -47862,6 +47878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, it is recommended that you pay particular attention to the layout you select to prevent any loss of content.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T181046Z" creationid="standa" creationdate="20151007T181046Z">
+        <seg>Proto je vhodné, abychom na začátku věnovali výběru rozvržení snímku dostatečnou pozornost a tím předešli pozdějšímu případnému narušení obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, the variable named document refers to a document’s frame, which receives dispatched commands.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150929T114901Z" creationid="install" creationdate="20150929T114901Z">
@@ -50166,6 +50190,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add text content, depending on the slide layout selected, click on &lt;f1&gt;Click to add text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T180623Z" creationid="standa" creationdate="20151007T180623Z">
+        <seg>Chceme-li přidat textový obsah, v závislosti na vybraném rovzržení snímku klepneme na &lt;f1&gt;Klikněte pro vložení textu&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To adjust the formatting of the title, subtitle or content modify the presentation style; see the &lt;f2&gt;Impress Guide Chapter 2 Using Slide Masters, Styles, and Templates&lt;/f2&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T180735Z" creationid="standa" creationdate="20151007T180735Z">
+        <seg>Formátování nadpisu, podnadpisu a textu snímků upravíme pomocí stylu prezentace. Více informací nalezneme v &lt;f2&gt;kapitole 2 Using Slide Masters, Styles, and Templates příručky Impress Guide&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To align the formula manually, go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f1&gt; and uncheck the option &lt;f2&gt;Math baseline alignment&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T071119Z" creationid="install" creationdate="20150821T071119Z">
@@ -50760,8 +50800,8 @@
       <tuv lang="EN">
         <seg>To create a title, if one of the title layouts has been selected, click on &lt;f0&gt;Click to add title &lt;/f0&gt;and then type the title text.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T175343Z" creationid="standa" creationdate="20151007T175343Z">
-        <seg>To create a title, if one of the title layouts has been selected, click on &lt;f0&gt;Click to add title &lt;/f0&gt;and then type the title text.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151007T180539Z" creationid="standa" creationdate="20151007T175343Z">
+        <seg>Chceme-li zadat nadpis a zvolili jsme některé z rozvržení s nadpisem, klepneme na &lt;f0&gt;Klikněte pro vložení nadpisu&lt;/f0&gt; a poté zadáme text nadpisu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52738,6 +52778,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T112017Z" creationid="install" creationdate="20151006T112017Z">
         <seg>Pokud chceme pomoc s Basic, v seznamu zvolíme &lt;f1&gt;LibreOffice Basic&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To view the names for the included layouts, use the Tooltip feature: position the cursor on an icon in the Layout section (or on any toolbar icon) and its name will be displayed in a small rectangle.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T181237Z" creationid="standa" creationdate="20151007T181237Z">
+        <seg>Názvy jednotlivých rozvržení zobrazíme pomocí tipů: pokud kurzor umístíme nad ikonu v oblasti Rozvržení (stejně jako v případě jiných ikon), její název se zobrazí v malém obdélníku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63562,8 +63610,8 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       <tuv lang="EN">
         <seg>tooltips</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20140608T154852Z" creationid="standa" creationdate="20140608T154852Z">
-        <seg>bublinová nápověda</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151007T181247Z" creationid="standa" creationdate="20140608T154852Z">
+        <seg>tipy</seg>
       </tuv>
     </tu>
     <tu>
