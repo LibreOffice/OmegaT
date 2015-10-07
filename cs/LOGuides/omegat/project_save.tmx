@@ -5966,6 +5966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A duplicate slide is inserted after the selected slide in the presentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173843Z" creationid="standa" creationdate="20151007T173843Z">
+        <seg>Duplikovaný snímek se v prezentaci přidá za vybraný snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dynamic report is much more flexible.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T125411Z" creationid="install" creationdate="20150727T125411Z">
@@ -6320,8 +6328,16 @@
       <tuv lang="EN">
         <seg>A new slide can be inserted into a presentation as follows:.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150909T204147Z" creationid="standa" creationdate="20150909T204147Z">
-        <seg>Nový snímek můžeme do prezentace vložit následujícími způsoby:</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173420Z" creationid="standa" creationdate="20150909T204147Z">
+        <seg>Nový snímek můžeme do prezentace vložit následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A new slide is inserted after the selected slide in the presentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173223Z" creationid="standa" creationdate="20151007T173223Z">
+        <seg>Nový snímek se vloží za vybraný snímek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16534,6 +16550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate slide</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173230Z" creationid="standa" creationdate="20151007T173230Z">
+        <seg>Duplikovat snímek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplication</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T191146Z" creationid="standa" creationdate="20140116T191146Z">
@@ -23726,6 +23750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Insert&lt;/f0&gt; on the &lt;f1&gt;M&lt;/f1&gt;enu bar and select &lt;f2&gt;Duplicate Slide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173355Z" creationid="standa" creationdate="20151007T173355Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Vložit&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt; a vybereme &lt;f2&gt;Duplikovat snímek&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Insert&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert &gt; Columns &lt;/f1&gt;or&lt;f2&gt; Insert &gt; Rows.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T184829Z" creationid="install" creationdate="20150624T130921Z">
@@ -25906,6 +25938,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T181114Z" creationid="standa" creationdate="20140407T181114Z">
         <seg>Pokud není panel Stránky zobrazen, zvolíme &lt;f1&gt;Zobrazit&lt;/f1&gt; v hlavní nabídce a vybereme &lt;f2&gt;Panel stránek&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Presentation toolbar is not visible, go to &lt;f3&gt;View &gt; Toolbars&lt;/f3&gt; on the &lt;f4&gt;M&lt;/f4&gt;enu bar and select &lt;f5&gt;Presentation&lt;/f5&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173213Z" creationid="standa" creationdate="20151007T173213Z">
+        <seg>Pokud není lišta viditelná, v hlavní nabídce zvolíme &lt;f3&gt;Zobrazit &gt; Nástrojové lišty&lt;/f3&gt; a ze seznamu vybereme &lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;Prezentace&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Presentation toolbar is not visible, go to &lt;f7&gt;View &gt; Toolbars&lt;/f7&gt; on the &lt;f8&gt;M&lt;/f8&gt;enu bar and select &lt;f9&gt;Presentation&lt;/f9&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173826Z" creationid="standa" creationdate="20151007T173826Z">
+        <seg>Pokud není lišta viditelná, v hlavní nabídce zvolíme &lt;f7&gt;Zobrazit &gt; Nástrojové lišty&lt;/f7&gt; a ze seznamu vybereme &lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;Prezentace&lt;/f9&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35206,18 +35254,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Or click &lt;f0&gt;on the triangle to the right of &lt;/f0&gt;the &lt;f1&gt;Slide&lt;/f1&gt; icon &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; in the Presentation toolbar &lt;f4&gt;and select &lt;/f4&gt;&lt;f5&gt;Duplicate Slide&lt;/f5&gt;&lt;f6&gt; from the context menu&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173758Z" creationid="standa" creationdate="20151007T173758Z">
+        <seg>Nebo klepneme &lt;f0&gt;na trojúhelníček vpravo od ikony &lt;/f0&gt;&lt;f1&gt;Snímek&lt;/f1&gt; &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; na nástrojové liště Prezentace &lt;f4&gt;a z místní nabídky vybereme &lt;/f4&gt;&lt;f5&gt;Duplikovat snímek&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Or click the &lt;f0&gt;Slide&lt;/f0&gt; icon &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; in the Presentation toolbar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T172634Z" creationid="standa" creationdate="20151007T172634Z">
-        <seg>Klepneme na ikonu &lt;f0&gt;Snímek&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; na nástrojové liště Prezentace.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173441Z" creationid="standa" creationdate="20151007T172634Z">
+        <seg>Nebo klepneme na ikonu &lt;f0&gt;Snímek&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; na nástrojové liště Prezentace.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Or right-click on a slide in the Slides Pane or Slide Sorter view and select &lt;f0&gt;New Slide&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T172307Z" creationid="standa" creationdate="20151007T172032Z">
-        <seg>V panelu snímků nebo v zobrazení Pořadač snímků klepneme na snímek pravým tlačítkem myši a v místní nabídce zvolíme &lt;f0&gt;Nový snímek&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173426Z" creationid="standa" creationdate="20151007T172032Z">
+        <seg>Na panelu snímků nebo v zobrazení Pořadač snímků klepneme na snímek pravým tlačítkem myši a v místní nabídce zvolíme &lt;f0&gt;Nový snímek&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35248,8 +35304,24 @@
       <tuv lang="EN">
         <seg>Or, right click in am empty space in the Workspace and select &lt;f0&gt;Slide &gt; New Slide&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T172603Z" creationid="standa" creationdate="20151007T172603Z">
-        <seg>Klepneme pravým tlačítkem myši v prázdném prostoru pracovní plochy a z místní nabídky vybereme &lt;f0&gt;Snímek &gt; Nový snímek&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173431Z" creationid="standa" creationdate="20151007T172603Z">
+        <seg>Nebo klepneme pravým tlačítkem myši v prázdném prostoru pracovní plochy a z místní nabídky vybereme &lt;f0&gt;Snímek &gt; Nový snímek&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, right click on a slide in the Workspace and select &lt;f0&gt;Slide &gt; Duplicate Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173558Z" creationid="standa" creationdate="20151007T173558Z">
+        <seg>Nebo klepneme pravým tlačítkem myši v prázdném prostoru pracovní plochy a z místní nabídky vybereme &lt;f0&gt;Snímek &gt; Duplikovat snímek&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or, right click on the slide in the Slides Pane or Slide Sorter view and select &lt;f0&gt;Duplicate Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173515Z" creationid="standa" creationdate="20151007T173409Z">
+        <seg>Nebo v panelu snímků nebo v zobrazení Pořadač snímků na snímek klepneme pravým tlačítkem myši a v místní nabídce zvolíme &lt;f0&gt;Duplikovat snímek&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39934,6 +40006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the slide you want to duplicate from the Slides Pane.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173333Z" creationid="standa" creationdate="20151007T173333Z">
+        <seg>Vybereme požadovaný snímek na panelu snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the sort criteria from the drop down lists.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T130846Z" creationid="install" creationdate="20150707T130846Z">
@@ -40314,6 +40394,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150624T114815Z" creationid="install" creationdate="20150624T114815Z">
         <seg>Výběr listů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting slide layout</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173853Z" creationid="standa" creationdate="20151007T173853Z">
+        <seg>Výběr rozvržení snímku</seg>
       </tuv>
     </tu>
     <tu>
@@ -41466,6 +41554,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T211445Z" creationid="standa" creationdate="20140109T211445Z">
         <seg>Někdy přesně toto chceme; jindy si zase nepřejeme, aby se změny projevily ve všech propojených stylech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes, rather than starting from a new slide you may want to duplicate a slide already included in your presentation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173302Z" creationid="standa" creationdate="20151007T173302Z">
+        <seg>Někdy je vhodné místo nového snímku vytvořit kopii již existujícího snímku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50982,6 +51078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To duplicate a slide:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173316Z" creationid="standa" creationdate="20151007T173316Z">
+        <seg>Chceme-li snímek duplikovat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To edit a template:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T205019Z" creationid="standa" creationdate="20140112T205019Z">
@@ -55558,6 +55662,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When creating a presentation, the first slide is normally a title slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T173905Z" creationid="standa" creationdate="20151007T173905Z">
+        <seg>Když vytváříme prezentaci, první snímek obvykle obsahuje název prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When creating lists of the data that you want to enter into a table, you should consider the format of the list.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150720T073755Z" creationid="install" creationdate="20150720T073755Z">
@@ -59308,6 +59420,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T060134Z" creationid="install" creationdate="20150723T060134Z">
         <seg>V tomto dialogovém okně lze použít hodnoty RGB nebo CMYK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use either a blank layout or one of the title layouts as your title slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151007T174034Z" creationid="standa" creationdate="20151007T174034Z">
+        <seg>K tomu můžeme použít prázdné rozvržení nebo některé rozvržený s nadpisem.</seg>
       </tuv>
     </tu>
     <tu>
