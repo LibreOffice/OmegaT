@@ -11166,6 +11166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; from the menu bar and go to the &lt;f1&gt;Toolbars&lt;/f1&gt; page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T130155Z" creationid="install" creationdate="20151008T130155Z">
+        <seg>Vybereme &lt;f0&gt;Nástroje &gt; Přizpůsobit&lt;/f0&gt; v hlavní nabídce a v dialogovém okně Přizpůsobit zvolíme kartu &lt;f1&gt;Nástrojové lišty&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &gt; Gallery&lt;/f0&gt; and select a theme.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140314T170856Z" creationid="standa" creationdate="20140314T170856Z">
@@ -12642,6 +12650,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20151007T192102Z" creationid="standa" creationdate="20151007T192102Z">
         <seg>Klepneme na ikonu &lt;f0&gt;Text&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt; &lt;di3/&gt;&lt;/df2&gt; &lt;/f1&gt; na nástrojových lištách Kresba nebo Text nebo použijeme klávesovou zkratku &lt;f4&gt;F2&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the &lt;f0&gt;Toolbar&lt;/f0&gt; or &lt;f1&gt;Modify&lt;/f1&gt; buttons, and add commands to a toolbar by clicking on the &lt;f2&gt;Add&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T131110Z" creationid="install" creationdate="20151008T131110Z">
+        <seg>Lištu můžeme upravit pomocí tlačítek &lt;f0&gt;Nástrojová lišta&lt;/f0&gt; nebo &lt;f1&gt;Změnit&lt;/f1&gt; (vpravo), přičemž nové příkazy do panelu přidáme klepnutím na tlačítko &lt;f2&gt;Přidat&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20318,6 +20334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: The Toolbars page of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T130247Z" creationid="install" creationdate="20151008T130247Z">
+        <seg>Obrázek &lt;seq0&gt;4&lt;/seq0&gt;: Karta Nástrojové lišty v dialogovém okně Přizpůsobit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Toolbar handles</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T145605Z" creationid="standa" creationdate="20140501T145605Z">
@@ -21448,8 +21472,8 @@
       <tuv lang="EN">
         <seg>For &lt;t3/&gt;example, in addition to &lt;f4&gt;File&lt;/f4&gt;, &lt;f5&gt;Edit&lt;/f5&gt;, &lt;f6&gt;View&lt;/f6&gt;, and so on, there is &lt;f7&gt;File &lt;/f7&gt;|&lt;f8&gt; Send&lt;/f8&gt; and &lt;f9&gt;Edit &lt;/f9&gt;| &lt;f10&gt;Changes&lt;/f10&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151008T053402Z" creationid="install" creationdate="20151008T053402Z">
-        <seg>&lt;t3/&gt;Například kromě nabídek &lt;f4&gt;Soubor&lt;/f4&gt;, &lt;f5&gt;Upravit&lt;/f5&gt;, &lt;f6&gt;Zobrazit&lt;/f6&gt; atd., máme i &lt;f7&gt;Soubor&lt;/f7&gt; | &lt;f8 &gt; Odeslat&lt;/f8&gt; a &lt;f9&gt;Úpravy&lt;/f9&gt; | &lt;f10&gt;Sledování změn&lt;/f10&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151008T131454Z" creationid="install" creationdate="20151008T053402Z">
+        <seg>&lt;t3/&gt;Například kromě nabídek &lt;f4&gt;Soubor&lt;/f4&gt;, &lt;f5&gt;Upravit&lt;/f5&gt;, &lt;f6&gt;Zobrazit&lt;/f6&gt; atd., máme i &lt;f7&gt;Soubor&lt;/f7&gt; | &lt;f8&gt;Odeslat&lt;/f8&gt; a &lt;f9&gt;Úpravy&lt;/f9&gt; | &lt;f10&gt;Sledování změn&lt;/f10&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28968,8 +28992,8 @@
       <tuv lang="EN">
         <seg>In addition to renaming, you can allocate a letter in a custom menu’s name, which will become underlined, to be used as a keyboard shortcut, allow&lt;f0&gt;ing&lt;/f0&gt; you to select that menu &lt;f1&gt;by&lt;/f1&gt; press&lt;f2&gt;ing&lt;/f2&gt; &lt;f3&gt;Alt+&lt;/f3&gt; that letter.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151008T115428Z" creationid="install" creationdate="20151008T115428Z">
-        <seg>Kromě změny názvu můžeme v názvu přidané nabídky vybrat jedno písmeno, které bude podtrženo a které budeme moci použít jako klávesovou zkratku. Nabídku pak otevřeme tak, že stiskneme &lt;f0&gt;Alt +&lt;/f0&gt; podtržené písmeno.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151008T131855Z" creationid="install" creationdate="20151008T115428Z">
+        <seg>Kromě změny názvu můžeme v názvu přidané nabídky vybrat jedno písmeno, které bude podtrženo a které budeme moci použít jako klávesovou zkratku. Nabídku pak otevřeme tak, &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;že&lt;/f1&gt; stiskne&lt;f2&gt;me&lt;/f2&gt; &lt;f3&gt;Alt +&lt;/f3&gt; podtržené písmeno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29306,6 +29330,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T052833Z" creationid="install" creationdate="20151008T052833Z">
         <seg>V rozbalovacím seznamu &lt;f0&gt;Uložit do&lt;/f0&gt; zvolíme, zda chcete tuto změněnou nabídku uložit pro aplikaci (například, LibreOffice Writer), nebo pro vybraný dokument (například SampleDocument.odt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list, choose whether to save this changed toolbar for the application (for example, Writer) or for a selected document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T130623Z" creationid="install" creationdate="20151008T130457Z">
+        <seg>Na kartě Nástrojové lišty okna Přizpůsobit v rozbalovacím seznamu položky &lt;f0&gt;Uložit do&lt;/f0&gt; nejdříve zvolíme, zda chceme úpravu lišty uložit pro celou aplikaci (například Writer) nebo pouze pro vybraný dokument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29842,6 +29874,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T190243Z" creationid="standa" creationdate="20141226T190243Z">
         <seg>V části &lt;f1&gt;Výchozí formát souborů a nastavení ODF&lt;/f1&gt; zvolíme v položce &lt;f2&gt;Typ dokumentu&lt;/f2&gt; &lt;f3&gt;Textový dokument&lt;/f3&gt; a v položce &lt;f4&gt;Vždy ukládat jako&lt;/f4&gt; zvolíme svůj upřednostňovaný formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the section&lt;f0&gt; LibreOffice [name of the program&lt;/f0&gt; (example: Writer)&lt;f1&gt;] &gt; Toolbars&lt;/f1&gt;, select from the &lt;f2&gt;Toolbar&lt;/f2&gt; drop-down list the toolbar that you want to customize.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T132003Z" creationid="install" creationdate="20151008T131002Z">
+        <seg>V části &lt;f0&gt;Nástrojová lišta LibreOffice [název programu]&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt;(například Writer) z rozbalovacího seznamu &lt;f2&gt;Nástrojová lišta&lt;/f2&gt; zvolíme panel, který chceme upravit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33170,6 +33210,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T062020Z" creationid="install" creationdate="20151008T062020Z">
         <seg>Úprava stávajících nabídek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying existing toolbars</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T130507Z" creationid="install" creationdate="20151008T130307Z">
+        <seg>Úprava stávajících nástrojových lišt</seg>
       </tuv>
     </tu>
     <tu>
@@ -49440,8 +49488,8 @@
       <tuv lang="EN">
         <seg>This chapter describes some common customizations that you may wish to &lt;f0&gt;carry out&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151008T051227Z" creationid="install" creationdate="20151008T051227Z">
-        <seg>V této kapitole se seznámíme s několika běžnými úpravami LibreOffice, které nám mohou při práci pomoci.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151008T131415Z" creationid="install" creationdate="20151008T051227Z">
+        <seg>V této kapitole se seznámíme s několika běžnými &lt;f0&gt;úpravami&lt;/f0&gt; LibreOffice, které nám mohou při práci pomoci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52714,6 +52762,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141006T181344Z" creationid="standa" creationdate="20141006T181344Z">
         <seg>Pokud chceme barvu změnit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify an existing toolbar:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T130419Z" creationid="install" creationdate="20151008T130419Z">
+        <seg>Postup při úpravě stávajících nástrojových lišt:</seg>
       </tuv>
     </tu>
     <tu>
@@ -57582,6 +57638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you have finished making all your changes, click &lt;f0&gt;OK&lt;/f0&gt; to save them.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T131309Z" creationid="install" creationdate="20151008T131309Z">
+        <seg>Změny nakonec uložíme kliknutím na tlačítko &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you have finished typing text, click outside the text frame to cancel adding or editing text.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T194603Z" creationid="standa" creationdate="20140131T194603Z">
@@ -58836,6 +58900,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T204012Z" creationid="standa" creationdate="20141226T204012Z">
         <seg>Text je také možné zkopírovat z jiných zdrojů, jako jsou například webové stránky, a poté jej vložit do dokument aplikace Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also create a new toolbar by clicking on the &lt;f3&gt;New&lt;/f3&gt; button.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T131138Z" creationid="install" creationdate="20151008T131138Z">
+        <seg>Pomocí tlačítka &lt;f3&gt;Nový&lt;/f3&gt; můžeme přidat nový panel.</seg>
       </tuv>
     </tu>
     <tu>
