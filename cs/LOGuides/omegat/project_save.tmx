@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12704,8 +12704,8 @@
       <tuv lang="EN">
         <seg>Click on the Properties icon &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt; at the side of the Sidebar to open &lt;f3&gt;Layouts&lt;/f3&gt; section and display the available layouts (&lt;t4&gt;Figure 16&lt;/t4&gt;).</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T180357Z" creationid="standa" creationdate="20151007T174254Z">
-        <seg>Na straně postranního panelu Klepneme na ikonu Vlastnosti &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;, čímž otevřeme oblast &lt;f3&gt;Rozvržení&lt;/f3&gt; a zobrazíme tím dostupná rozvržení (obrázek &lt;t4&gt;16&lt;/t4&gt;).</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151008T191703Z" creationid="standa" creationdate="20151007T174254Z">
+        <seg>Na straně postranního panelu Klepneme na ikonu Vlastnosti &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;, čímž otevřeme část &lt;f3&gt;Rozvržení&lt;/f3&gt; a zobrazíme tím dostupná rozvržení (obrázek &lt;t4&gt;16&lt;/t4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -13450,6 +13450,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150703T054953Z" creationid="install" creationdate="20150703T054953Z">
         <seg>Pokud v něm klepneme na tlačítko &lt;f1&gt;Další možnosti&lt;/f1&gt;, otevře se dialogové okno Formát buněk které bylo popsáno výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the &lt;f1&gt;Vertical Text&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; in the Drawing toolbar or Text toolbar to create a vertical text box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192024Z" creationid="standa" creationdate="20151008T192024Z">
+        <seg>Pole se svislým textem vytvoříme tím, že klepneme na ikonu &lt;f1&gt;Svislý text&lt;/f1&gt; &lt;f2&gt;&lt;df3&gt; &lt;di4/&gt;&lt;/df3&gt; &lt;/f2&gt; na nástrojové liště Kresba nebo Text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19314,6 +19322,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T200918Z" creationid="install" creationdate="20150629T104016Z">
         <seg>Obrázek &lt;seq0&gt;21&lt;/seq0&gt;: Dialogové okno Formát buněk – karta Čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Quick font resizing on Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192334Z" creationid="standa" creationdate="20151008T192334Z">
+        <seg>Obrázek &lt;seq0&gt;21 &lt;/seq0&gt;: Rychlá změna velikosti písma na nástrojové liště Formátování textu</seg>
       </tuv>
     </tu>
     <tu>
@@ -28464,8 +28480,16 @@
       <tuv lang="EN">
         <seg>Impress has a range of slide masters and these are found in the &lt;f0&gt;Master Pages&lt;/f0&gt; section of the Sidebar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T185207Z" creationid="standa" creationdate="20151007T185207Z">
-        <seg>V programu Impress je k dispozici několik předloh, které nalezneme v části &lt;f0&gt;Předloha stránky&lt;/f0&gt; na postranní liště.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151008T191840Z" creationid="standa" creationdate="20151007T185207Z">
+        <seg>V programu Impress je k dispozici několik předloh, které nalezneme na kartě &lt;f0&gt;Předloha stránky&lt;/f0&gt; na postranní liště.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress has an &lt;f0&gt;Increase Font&lt;/f0&gt; icon and a &lt;f1&gt;Decrease Font&lt;/f1&gt; icon on the Text Formatting toolbar (highlighted in &lt;f2&gt;&lt;t3&gt;Figure 21&lt;/t3&gt;&lt;/f2&gt;) to increase or decrease font size of selected text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192150Z" creationid="standa" creationdate="20151008T192150Z">
+        <seg>V programu Impress se na nástrojové liště Formátování textu nacházejí ikony &lt;f0&gt;Zvětšit písmo&lt;/f0&gt; a &lt;f1&gt;Zmenšit písmo&lt;/f1&gt; (zvýrazněné na &lt;f2&gt;obrázku &lt;t3&gt;21&lt;/t3&gt;&lt;/f2&gt;), pomocí kterých můžeme písmo zmenšovat nebo zvětšovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29002,6 +29026,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T184236Z" creationid="standa" creationdate="20141226T184236Z">
         <seg>Kromě navigační funkce stavového řádku (popsané výše) můžeme pro rychlý pohyb mezi objekty dokumentu použít okno Navigátor nebo nástrojovou lištu Navigace, a to buď na liště Standardní, nebo v postranní liště, jak je to popsáno v kapitole 1 Představujeme LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to the normal text boxes where text is horizontally aligned, it is possible to insert text boxes where the text is aligned vertically.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T191908Z" creationid="standa" creationdate="20151008T191547Z">
+        <seg>Kromě běžných textových polí, ve kterých je text orientován vodorovně, můžeme vložit i pole s textem orientovaným svisle.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36462,6 +36494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pasting text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192338Z" creationid="standa" creationdate="20151008T192338Z">
+        <seg>Vkládání textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pasting the value also pasted an extra space, so press &lt;f0&gt;Backspace&lt;/f0&gt; to remove the extra space.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T054302Z" creationid="install" creationdate="20151002T054302Z">
@@ -37474,6 +37514,14 @@
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20150921T115015Z" creationid="GRB" creationdate="20150921T115015Z">
         <seg>Rychlý export do PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Quick font resizing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192117Z" creationid="standa" creationdate="20151008T192117Z">
+        <seg>Rychlá změna velikosti písma</seg>
       </tuv>
     </tu>
     <tu>
@@ -44990,6 +45038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The amount by which the font size changes depends on the standard sizes available for the font in use.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192320Z" creationid="standa" creationdate="20151008T192320Z">
+        <seg>Změna velikosti písma závisí na tom, jaké velikosti jsou pro dané písmo dostupné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The anchor point of the comment is connected by a dotted line to a box on the right-hand side of the page where you can type the text of the comment.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T213353Z" creationid="standa" creationdate="20150209T213353Z">
@@ -51208,8 +51264,8 @@
       <tuv lang="EN">
         <seg>To add text content, depending on the slide layout selected, click on &lt;f1&gt;Click to add text&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T180623Z" creationid="standa" creationdate="20151007T180623Z">
-        <seg>Chceme-li přidat textový obsah, v závislosti na vybraném rovzržení snímku klepneme na &lt;f1&gt;Klikněte pro vložení textu&lt;/f1&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151008T191720Z" creationid="standa" creationdate="20151007T180623Z">
+        <seg>Chceme-li přidat textový obsah, v závislosti na vybraném rozvržení snímku klepneme na &lt;f1&gt;Klikněte pro vložení textu&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53448,8 +53504,8 @@
       <tuv lang="EN">
         <seg>To select or change the layout of a slide, select the slide in the Slides Pane so that it appears in the Workspace and select the desired layout from the Layouts section in the Sidebar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151007T181636Z" creationid="standa" creationdate="20151007T181605Z">
-        <seg>Jestliže chceme rozvržení snímku vybrat nebo změnit, vybereme daný snímek na panelu snímků, čímž ho zobrazíme na pracovní ploše, a požadované rozvržení zvolíme v oblasti Rozvržení na postranní liště.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151008T191753Z" creationid="standa" creationdate="20151007T181605Z">
+        <seg>Jestliže chceme rozvržení snímku vybrat nebo změnit, vybereme daný snímek na panelu snímků, čímž ho zobrazíme na pracovní ploše, a požadované rozvržení zvolíme v části Rozvržení na postranní liště.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56226,6 +56282,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20151007T192525Z" creationid="standa" creationdate="20151007T192525Z">
         <seg>Svislý text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vertical text is available only when Asian languages are enabled in &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T191928Z" creationid="standa" creationdate="20151008T191928Z">
+        <seg>Svislý text je však dostupný pouze tehdy, když jsou zapnuty asijské jazyky v &lt;f0&gt;Nástroje &gt; Možnosti &gt; Jazyková nastavení &gt; Jazyky&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62872,6 +62936,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>font resizing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192113Z" creationid="standa" creationdate="20151008T192113Z">
+        <seg>změna velikosti písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>formatting pages</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T202301Z" creationid="standa" creationdate="20150122T202301Z">
@@ -63952,6 +64024,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>pasting</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192341Z" creationid="standa" creationdate="20151008T192341Z">
+        <seg>vkládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>path options</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T200544Z" creationid="standa" creationdate="20141005T200544Z">
@@ -64876,6 +64956,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140115T213046Z" creationid="standa" creationdate="20140115T213046Z">
         <seg>šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151008T192347Z" creationid="standa" creationdate="20151008T192347Z">
+        <seg>text</seg>
       </tuv>
     </tu>
     <tu>
