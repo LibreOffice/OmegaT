@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2370,6 +2370,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T192848Z" creationid="standa" creationdate="20141018T192848Z">
         <seg>Možnost &lt;f0&gt;Kontrolovat speciální oblasti&lt;/f0&gt; při kontrole zahrne záhlaví, zápatí, rámce a tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Choose Tools &gt; Customize&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T052200Z" creationid="install" creationdate="20151008T052200Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Nástroje &gt; Přizpůsobit&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10710,6 +10718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Chapter &lt;f0&gt;14 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T050925Z" creationid="install" creationdate="20151008T050925Z">
+        <seg>Kapitola &lt;f0&gt;14 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chapter &lt;f0&gt;2 &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T171430Z" creationid="standa" creationdate="20140504T171430Z">
@@ -14950,6 +14966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizations to menus and toolbars can be saved in a template.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051541Z" creationid="install" creationdate="20151008T051541Z">
+        <seg>Upravené nastavení nabídek a lišt můžeme uložit do šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customize dialog</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T092946Z" creationid="install" creationdate="20151006T092946Z">
@@ -14958,10 +14982,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customizing LibreOffice</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T050950Z" creationid="install" creationdate="20151008T050950Z">
+        <seg>Přizpůsobení LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customizing Slide Sorter view</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150803T195512Z" creationid="standa" creationdate="20150803T195512Z">
         <seg>Přizpůsobení zobrazení Pořadač snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customizing menu content</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051804Z" creationid="install" creationdate="20151008T051804Z">
+        <seg>Přizpůsobení obsahu nabídky</seg>
       </tuv>
     </tu>
     <tu>
@@ -19002,6 +19042,14 @@
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20150921T132150Z" creationid="GRB" creationdate="20150921T132150Z">
         <seg>Obrázek &lt;seq0&gt;1 &lt;/seq0&gt;: Dialogové okno &lt;is1 /&gt; Tisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Menus page of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T052421Z" creationid="install" creationdate="20151008T052421Z">
+        <seg>Obrázek &lt;seq0&gt;1&lt;/seq0&gt;: Karta Nabídky v dialogovém okně Přizpůsobit</seg>
       </tuv>
     </tu>
     <tu>
@@ -25462,6 +25510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you cannot customize context (right-click) menus.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051448Z" creationid="install" creationdate="20151008T051448Z">
+        <seg>Nemůžeme však upravovat místní nabídku, která se otevře, jestliže na vybraný objekt klikneme pravým tlačítkem myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you do need to make some decisions, for example whether to use all of the suggested fields.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T131811Z" creationid="install" creationdate="20150710T131811Z">
@@ -28710,6 +28766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to changing the menu font (described in Chapter 2, Setting up LibreOffice), you can add and rearrange categories on the menu bar, add commands to menus, and make other changes.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T052023Z" creationid="install" creationdate="20151008T052023Z">
+        <seg>Kromě změny písma nabídky (postup je popsán v kapitole 2, Nastavení LibreOffice) můžeme do nabídky přidat nové kategorie, můžeme změnit jejich uspořádání a můžeme do nich přidat nové příkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to formatting, any settings that can be added to or modified in a document can be saved within a template.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T210226Z" creationid="standa" creationdate="20140406T210226Z">
@@ -29042,6 +29106,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141006T184022Z" creationid="standa" creationdate="20141006T184022Z">
         <seg>V poli &lt;f0&gt;Nahradit za&lt;/f0&gt; vybereme vhodné písmo ze seznamu písem nainstalovaných na počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list, choose whether to save this changed menu for the application (for example, LibreOffice Writer) or for a selected document (for example, SampleDocument.odt).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T052833Z" creationid="install" creationdate="20151008T052833Z">
+        <seg>V rozbalovacím seznamu &lt;f0&gt;Uložit do&lt;/f0&gt; zvolíme, zda chcete tuto změněnou nabídku uložit pro aplikaci (například, LibreOffice Writer), nebo pro vybraný dokument (například SampleDocument.odt).</seg>
       </tuv>
     </tu>
     <tu>
@@ -29562,6 +29634,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T055851Z" creationid="install" creationdate="20150818T055851Z">
         <seg>Ve druhém příkladu Math rozpozná znaménko minus jako prefix pro &lt;f0&gt;1&lt;/f0&gt;, a proto ho umístí v čitateli zlomku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the section &lt;f0&gt;LibreOffice [name of the program&lt;/f0&gt; (example: Writer)&lt;f1&gt;] Menus&lt;/f1&gt;, select from the &lt;f2&gt;Menu&lt;/f2&gt; drop-down list the menu that you want to customize.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T052501Z" creationid="install" creationdate="20151008T052501Z">
+        <seg>V části &lt;f0&gt;Menu LibreOffice [název programu]&lt;/f0&gt; (například Writer) &lt;f1&gt;&lt;/f1&gt; v roletovém seznamu &lt;f2&gt;Menu&lt;/f2&gt; zvolíme nabídku, kterou chceme upravit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30954,6 +31034,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T195847Z" creationid="standa" creationdate="20150326T195847Z">
         <seg>Jean Hollis Weber&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean Hollis Weber&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051007Z" creationid="install" creationdate="20151008T051007Z">
+        <seg>Jean Hollis Weber&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34598,6 +34686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Customize&lt;/f0&gt; dialog (&lt;f1&gt;&lt;t2&gt;Figure 1&lt;/t2&gt;&lt;/f1&gt;), choose the &lt;f3&gt;Menus&lt;/f3&gt; page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T052341Z" creationid="install" creationdate="20151008T052341Z">
+        <seg>Otevře se okno &lt;f0&gt;Přizpůsobit&lt;/f0&gt; (&lt;f1&gt;obrázek &lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt;), v němž klikneme na kartu &lt;f3&gt;Nabídky&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;General&lt;/f0&gt; tab of the Print dialog, you can choose:</seg>
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20150925T090419Z" creationid="GRB" creationdate="20150925T090419Z">
@@ -35714,6 +35810,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150929T085130Z" creationid="install" creationdate="20150929T085130Z">
         <seg>Jiné obvyklé typy proměnných jsou &lt;f3&gt;string&lt;/f3&gt; (textový řetězec), &lt;f4&gt;integer&lt;/f4&gt; (celé číslo) a &lt;f5&gt;date&lt;/f5&gt; (datum).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other customizations are made easy by extensions that you can install from the LibreOffice website or from other providers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051507Z" creationid="install" creationdate="20151008T051507Z">
+        <seg>Další úpravy lze provést nainstalováním rozšíření, které získáme ze stránky LibreOffice nebo z jiných zdrojů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36902,6 +37006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Published 1&lt;f0&gt;3&lt;/f0&gt; June 2014.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051135Z" creationid="install" creationdate="20151008T051135Z">
+        <seg>Anglický originál byl vydán &lt;f0&gt;3&lt;/f0&gt;. června 2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Published 2 April 2014.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T162243Z" creationid="standa" creationdate="20140407T162243Z">
@@ -38074,6 +38186,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T170322Z" creationid="standa" creationdate="20150110T170322Z">
         <seg>Ron Faile Jr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ron Faile Jr.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T050957Z" creationid="install" creationdate="20151008T050957Z">
+        <seg>Ron Faile Jr.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -48998,6 +49118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This chapter describes some common customizations that you may wish to &lt;f0&gt;carry out&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051227Z" creationid="install" creationdate="20151008T051227Z">
+        <seg>V této kapitole se seznámíme s několika běžnými úpravami LibreOffice, které nám mohou při práci pomoci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This chapter discusses flat databases.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T114221Z" creationid="install" creationdate="20150710T114221Z">
@@ -49090,6 +49218,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150922T053604Z" creationid="install" creationdate="20150922T053604Z">
         <seg>Tato kapitola byla vytvořena na základě kapitoly 13 &lt;f0&gt;Začínáme s OpenOffice 3.3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This chapter is based on Chapter 14 of &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051036Z" creationid="install" creationdate="20151008T051036Z">
+        <seg>Tato kapitola byla vytvořena na základě kapitoly 14 knihy &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50470,6 +50606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;i0/&gt;customize menus&lt;i1/&gt;:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T052053Z" creationid="install" creationdate="20151008T052053Z">
+        <seg>Pokud chceme &lt;i0/&gt;nabídky&lt;i1/&gt; upravit:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;i0/&gt;define indents and tab settings for one or more selected paragraphs, double-click on a part of the ruler that is not between the left and right indent icons to open the &lt;f1&gt;Indents &amp; Spacing&lt;/f1&gt; page of the Paragraph dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T183610Z" creationid="standa" creationdate="20150110T183610Z">
@@ -51538,6 +51682,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T130453Z" creationid="install" creationdate="20150821T130453Z">
         <seg>Uděláme to tak, že vytvoříme nový dokument aplikace Writer a podle svých představ upravíme styl rámce &lt;f2&gt;Vzorec&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do so, first save them in a document and then save the document as a template as described in Chapter 3, Using Styles and Templates.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051756Z" creationid="install" creationdate="20151008T051756Z">
+        <seg>Provedeme to tak, že změnu nejdříve uložíme do dokumentu, kterou pak uložíme jako šablonu. Tento postup je popsán v kapitole 3, Používáme styly a šablony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59088,6 +59240,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can customize menus, toolbars, and keyboard shortcuts in LibreOffice, add new menus and toolbars, and assign macros to events.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T051420Z" creationid="install" creationdate="20151008T051420Z">
+        <seg>Upravit můžeme nabídky, nástrojové lišty a klávesové zkratky a pokud je potřeba, také nové nabídky a lišty přidat. Lze také přiřadit makra k událostem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can customize the direction in which the &lt;f0&gt;Enter&lt;/f0&gt; key moves the cell focus by going to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T201811Z" creationid="install" creationdate="20150622T130121Z">
@@ -62900,6 +63060,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T092848Z" creationid="install" creationdate="20151006T092848Z">
         <seg>položky nabídky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>menus</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151008T052027Z" creationid="install" creationdate="20151008T052027Z">
+        <seg>nabídky</seg>
       </tuv>
     </tu>
     <tu>
