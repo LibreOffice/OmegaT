@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6926,6 +6926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding a command to a toolbar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052825Z" creationid="install" creationdate="20151009T052825Z">
+        <seg>Přidávání příkazů do lišty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding a macro</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150922T054536Z" creationid="install" creationdate="20150922T054536Z">
@@ -7138,6 +7146,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T061952Z" creationid="install" creationdate="20151008T061952Z">
         <seg>Poté, co byla vytvořena nová nabídka, lze do ní přidat příkazy. Postup je popsán v části „&lt;bf0&gt;Přidávání příkazů do nabídky&lt;/bf0&gt;“ na straně &lt;bf1&gt;6&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After creating a new toolbar, you need to add some commands to it, as described below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052738Z" creationid="install" creationdate="20151009T052738Z">
+        <seg>Postup přidávání příkazů do nového panelu je popsán níže.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9008,8 +9024,8 @@
       <tuv lang="EN">
         <seg>Back on the Customize dialog, you can use the up and down arrow buttons to arrange the commands in your preferred sequence.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151008T124136Z" creationid="install" creationdate="20151008T124136Z">
-        <seg>V něm můžeme šipkami nahoru a dolů upravit pořadí příkazů v panelu.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151009T052755Z" creationid="install" creationdate="20151008T124136Z">
+        <seg>V něm můžeme šipkami nahoru a dolů upravit pořadí příkazů v liště.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11182,6 +11198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Customize &gt; Toolbars&lt;/f0&gt; from the menu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052152Z" creationid="install" creationdate="20151009T052152Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Nástroje &gt; Přizpůsobit &gt; Nástrojové lišty&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; from the menu bar and go to the &lt;f1&gt;Toolbars&lt;/f1&gt; page.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T130155Z" creationid="install" creationdate="20151008T130155Z">
@@ -11434,6 +11458,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T190105Z" creationid="standa" creationdate="20140116T190105Z">
         <seg>Volba a definování barev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing icons for toolbar commands</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053810Z" creationid="install" creationdate="20151009T053810Z">
+        <seg>Výběr ikon pro příkazy v liště</seg>
       </tuv>
     </tu>
     <tu>
@@ -11698,6 +11730,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150923T081759Z" creationid="install" creationdate="20150923T081759Z">
         <seg>Kliknutím na &lt;f0&gt;Nový&lt;/f0&gt; otevřeme okno Nová knihovna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052213Z" creationid="install" creationdate="20151009T052213Z">
+        <seg>Klikneme na &lt;f0&gt;Nová&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12162,6 +12202,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T192030Z" creationid="install" creationdate="20150626T132129Z">
         <seg>Smazání potvrdíme klepnutím na tlačítko &lt;f2&gt;Ano&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052433Z" creationid="install" creationdate="20151009T052433Z">
+        <seg>Klikneme na &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14826,6 +14874,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222017Z" creationid="standa" creationdate="20140103T222017Z">
         <seg>Vytvoření nového stylu pomocí dialogového okna Styl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new toolbar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052029Z" creationid="install" creationdate="20151009T052029Z">
+        <seg>Vytváření nových lišt</seg>
       </tuv>
     </tu>
     <tu>
@@ -26678,6 +26734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the list of available buttons for a toolbar does not include all the commands you want on that toolbar, you can add commands.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052849Z" creationid="install" creationdate="20151009T052849Z">
+        <seg>Pokud se v liště nenacházejí všechny příkazy, které bychom tam chtěli mít, můžeme je přidat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the locale setting is &lt;t2/&gt;changed, the default currency changes automatically.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T193239Z" creationid="standa" creationdate="20141016T193239Z">
@@ -27754,6 +27818,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T204855Z" creationid="standa" creationdate="20140321T204855Z">
         <seg>Přesuneme-li nad tuto žlutou tečku ukazatel, změní se na symbol ruky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you insert an item which does not have an associated icon, the toolbar will display the full name of the item: the next section describes how to choose an icon for a toolbar command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053459Z" creationid="install" creationdate="20151009T053459Z">
+        <seg>Pokud vložíme příkaz, který nemá přiřazenu ikonu, v liště se zobrazí jeho plný název (v následující sekci se dozvíme, jak lze vybrat ikonu pro příkaz nástrojová lišty).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35238,6 +35310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Toolbars&lt;/f0&gt; page of the Customize dialog, select the toolbar in the Toolbar list and click the &lt;f1&gt;Add&lt;/f1&gt; button in the Toolbar Content section of the dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053227Z" creationid="install" creationdate="20151009T053227Z">
+        <seg>Na kartě &lt;f0&gt;Nástrojové lišty&lt;/f0&gt; okna Přizpůsobit nejdříve vybereme lištu v seznamu Nástrojová lišta a pak klikneme na tlačítko &lt;f1&gt;Přidat&lt;/f1&gt;, které se nachází v části Obsah lišty vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the &lt;f0&gt;VBA Properties&lt;/f0&gt; page, you can choose whether to keep any macros in Microsoft Office documents that are opened in LibreOffice.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T204358Z" creationid="standa" creationdate="20141015T201706Z">
@@ -35250,6 +35330,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T193432Z" creationid="standa" creationdate="20150326T193432Z">
         <seg>Na kartě &lt;f1&gt;Křížové odkazy&lt;/f1&gt; (&lt;t2&gt;obrázek 31&lt;/t2&gt;) v seznamu &lt;f3&gt;Typ&lt;/f3&gt; zvolíme typ položky, na kterou chceme odkázat (například &lt;f4&gt;Nadpis&lt;/f4&gt; nebo &lt;f5&gt;obrázek&lt;/f5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f1&gt;Name&lt;/f1&gt; dialog, type the new toolbar's name and choose from the &lt;f2&gt;Save In&lt;/f2&gt; drop-down list where to save this changed menu: for the application (for example, Writer) or for a selected document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052428Z" creationid="install" creationdate="20151009T052428Z">
+        <seg>Otevře se nové okno &lt;f1&gt;Název&lt;/f1&gt;, ve kterém v poli Název nástrojové lišty nejdříve zadáme jeho název, a pak v rozbalovacím seznamu položky &lt;f2&gt;Uložit do&lt;/f2&gt; zvolíme, zda chceme úpravu panelu uložit pro celou aplikaci (například Writer) nebo pouze pro vybraný dokument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40190,6 +40278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a category and then the command, and click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053320Z" creationid="install" creationdate="20151009T053320Z">
+        <seg>Zvolíme kategorii a klikneme na &lt;f1&gt;Přidat&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a cell in the column or row you want to delete.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T185424Z" creationid="install" creationdate="20150625T053746Z">
@@ -44478,6 +44574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Add Commands dialog is the same as for adding commands to menus (&lt;t0&gt;Figure 3&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053302Z" creationid="install" creationdate="20151009T053302Z">
+        <seg>Dialogové okno Přidat příkazy je shodné s oknem na přidávání příkazů do nabídky (obrázek &lt;t0&gt;3&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The AutoFill function takes account of customized lists.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150701T114131Z" creationid="install" creationdate="20150701T114131Z">
@@ -47386,6 +47490,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T061851Z" creationid="install" creationdate="20151008T061851Z">
         <seg>Nová nabídka se objeví v okně Přizpůsobit v seznamu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new toolbar now appears on the list of toolbars in the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052705Z" creationid="install" creationdate="20151009T052705Z">
+        <seg>Nová lišta se v okně Přizpůsobit objeví v seznamu lišt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52094,6 +52206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a new toolbar:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052044Z" creationid="install" creationdate="20151009T052044Z">
+        <seg>Pokud chceme vytvořit novou lištu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create a simple document for the recipient to complete, such as a questionnaire sent out to a group of people who fill it in and return it.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T195515Z" creationid="standa" creationdate="20150326T195515Z">
@@ -54266,6 +54386,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T085656Z" creationid="install" creationdate="20151006T085656Z">
         <seg>Nástrojová lišta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toolbar buttons usually have icons, not words, on them, but not all of the commands have associated icons.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053837Z" creationid="install" creationdate="20151009T053837Z">
+        <seg>Příkazy v panelech obvykle mají přiřazenu ikonu; pokud ovšem ikona přiřazena není, zobrazuje se textový název příkazu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57758,6 +57886,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you &lt;f0&gt;hav&lt;/f0&gt;e &lt;f1&gt;finished &lt;/f1&gt;making changes, click &lt;f2&gt;OK&lt;/f2&gt; to save.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053747Z" creationid="install" creationdate="20151009T053747Z">
+        <seg>&lt;f0&gt;Po&lt;/f0&gt; &lt;f1&gt;ukončení &lt;/f1&gt;změn, klikneme na tlačířko &lt;f2&gt;OK&lt;/f2&gt; pro jejich uložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you &lt;i0/&gt;paste text, the result depends on the source of the text and how you paste it.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T204617Z" creationid="standa" creationdate="20141226T204617Z">
@@ -57858,6 +57994,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150712T075645Z" creationid="lenochod26" creationdate="20150712T075645Z">
         <seg>Při vytvoření nové databáze by jste ji měli zaregistrovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you create a new toolbar, you need to add commands to it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T052920Z" creationid="install" creationdate="20151009T052920Z">
+        <seg>Pokud jsme vytvořili nový panel, příkazy přidat musíme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62356,6 +62500,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T152024Z" creationid="standa" creationdate="20140125T152024Z">
         <seg>zvolíme &lt;f4&gt;Zobrazení &gt; Nástrojové lišty&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>choosing icons for commands</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053755Z" creationid="install" creationdate="20151009T053755Z">
+        <seg>výběr ikon pro příkazy</seg>
       </tuv>
     </tu>
     <tu>
