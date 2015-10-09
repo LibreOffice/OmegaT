@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6098,6 +6098,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140123T205249Z" creationid="standa" creationdate="20140123T205249Z">
         <seg>Několik příkladů funkcí pro kresby: správa vrstev, mřížka s přichytáváním, zobrazení kót a měřítka, spojnice pro vytváření organizačních grafů, funkce pro vytváření trojrozměrných kreseb (s texturou a světelnými efekty), integrace kresby a stylu stránky a Bézierovy křivky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A file browser window opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105513Z" creationid="install" creationdate="20151009T105513Z">
+        <seg>Otevře se okno správce souborů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18232,8 +18240,24 @@
       <tuv lang="EN">
         <seg>Example: Adding a &lt;i0/&gt;Fax icon to a toolbar</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151009T054425Z" creationid="install" creationdate="20151009T054344Z">
-        <seg>Příklad: Přidání &lt;i0/&gt;ikony faxu do panelu</seg>
+      <tuv lang="CS" changeid="install" changedate="20151009T110708Z" creationid="install" creationdate="20151009T054344Z">
+        <seg>Příklad: Přidání &lt;i0/&gt;ikony faxu do lišty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: Adding a Fax icon to a toolbar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T110631Z" creationid="install" creationdate="20151009T110631Z">
+        <seg>Příklad: Přidání ikony faxu do lišty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: Assigning styles to shortcut keys</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T110747Z" creationid="install" creationdate="20151009T110747Z">
+        <seg>Příklad: přiřazení stylu ke klávesové zkratce</seg>
       </tuv>
     </tu>
     <tu>
@@ -18662,6 +18686,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Installation warning dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104925Z" creationid="install" creationdate="20151009T104925Z">
+        <seg>Obrázek &lt;seq0&gt;10 &lt;/seq0&gt;: Dialogové okno s upozorněním o instalaci rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Navigator dialog in Calc</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T193815Z" creationid="lenochod26" creationdate="20150620T074951Z">
@@ -18754,6 +18786,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T170206Z" creationid="standa" creationdate="20140407T170206Z">
         <seg>Obrázek &lt;seq0&gt;11&lt;/seq0&gt;: Vytváření nové složky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Dialog showing the installation choices</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105752Z" creationid="install" creationdate="20151009T105752Z">
+        <seg>Obrázek &lt;seq0&gt;11 &lt;/seq0&gt;: Dialogové okno s možnostmi instalace</seg>
       </tuv>
     </tu>
     <tu>
@@ -21350,6 +21390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Using the Extension Manager</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104912Z" creationid="install" creationdate="20151009T104912Z">
+        <seg>Obrázek &lt;seq0&gt;9 &lt;/seq0&gt;: Použití Správce rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File size is usually not a problem on a modern computer with a reasonable amount of memory, unless the document includes many large graphics files; LibreOffice can handle quite large files.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T172322Z" creationid="standa" creationdate="20140313T172322Z">
@@ -21482,6 +21530,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T205436Z" creationid="standa" creationdate="20141226T205436Z">
         <seg>Vyhledávat a nahrazovat slova nebo fráze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Find and select the extension you want to install and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105526Z" creationid="install" creationdate="20151009T105526Z">
+        <seg>V něm najdeme a vybereme požadované rozšíření a klikneme na &lt;f0&gt;Otevřít&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29614,6 +29670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In all three cases, during the process you may be asked to accept a license agreement.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105809Z" creationid="install" creationdate="20151009T105809Z">
+        <seg>Ve všech třech případech nás možná program vyzve k přijetí licenčních podmínek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In an HTML document, hyperlinks are active (clickable), but other cross-references inserted by LibreOffice are not active links.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140222T205950Z" creationid="standa" creationdate="20140222T205950Z">
@@ -29634,6 +29698,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T052010Z" creationid="install" creationdate="20150713T052010Z">
         <seg>V libovolném správci souborů můžeme přejít na místo, kam jsme databázi uložili, a dvojklikem na ikonu souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both cases, after the Extension Manager opens, a warning dialog opens for you to verify the installation and then continue (&lt;f0&gt;&lt;t1&gt;Figure 10&lt;/t1&gt;&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104841Z" creationid="install" creationdate="20151009T104841Z">
+        <seg>V obou případech se po otevření okna Správce rozšíření, otevře okno s výzvou k ověření instalace. Po odsouhlasení pokračujeme (&lt;f0&gt;obrázek &lt;t1&gt;10&lt;/t1&gt;&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30010,6 +30082,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150929T084852Z" creationid="install" creationdate="20150929T084852Z">
         <seg>V makru VlozitMojeJmeno jsou proměnné &lt;f0&gt;document&lt;/f0&gt; (dokument) a &lt;f1&gt;dispatcher&lt;/f1&gt; (dispečer) definovány jako proměnné typu &lt;f2&gt;object&lt;/f2&gt; (objekt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Extension Manager dialog (&lt;t0&gt;Figure 9&lt;/t0&gt;), click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105456Z" creationid="install" creationdate="20151009T105456Z">
+        <seg>V okně Správce rozšíření (obrázek &lt;t0&gt;9&lt;/t0&gt;), klikneme na tlačítko &lt;f1&gt;Přidat&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35002,6 +35082,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T170852Z" creationid="standa" creationdate="20140407T170852Z">
         <seg>Nelze smazat ani šablony vytvořené při instalaci rozšíření, pokud nejprve nesmažeme rozšíření, které je nainstalovalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal users without those privileges can install, remove, or modify extensions only for their own use (&lt;f4&gt;user&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105735Z" creationid="install" creationdate="20151009T105735Z">
+        <seg>Běžný uživatel bez administrátorských práv může instalovat, odstraňovat a upravovat pouze rozšíření pro vlastní použití (&lt;f4&gt;uživatelské&lt;/f4&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -47054,6 +47142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The extension begins installing.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105800Z" creationid="install" creationdate="20151009T105800Z">
+        <seg>Instalace rozšíření se začne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The field name has been selected from the drop-down list of field names.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150717T084341Z" creationid="install" creationdate="20150717T084341Z">
@@ -47098,6 +47194,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150726T071854Z" creationid="lenochod26" creationdate="20150726T071854Z">
         <seg>Pole v sestavě by měly odpovídat obrázku níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file is installed as a “user only” file in a multi-user system.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104906Z" creationid="install" creationdate="20151009T104906Z">
+        <seg>Ve víceuživatelském prostředí se soubor nainstaluje pouze pro aktuálního uživatele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53534,6 +53638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To get extensions that are listed in the repository, you can open the Extension Manager and click the &lt;f0&gt;Get more extensions online&lt;/f0&gt; link.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105942Z" creationid="install" creationdate="20151009T105942Z">
+        <seg>Pokud chceme získat rozšíření z uložiště rozšíření, můžeme otevřít Správce rozšíření a v něm kliknout na odkaz &lt;f0&gt;Další rozšíření získáte na webu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get to the appropriate section in the markup code, do any one of the following:</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T131506Z" creationid="install" creationdate="20150817T131506Z">
@@ -53770,6 +53882,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T065440Z" creationid="install" creationdate="20150821T065440Z">
         <seg>Pokud chceme v křížovém odkazu vložit číslo vzorce bez závorek, v poli &lt;f2&gt;Vložit odkaz na&lt;/f2&gt; místo &lt;f1&gt;Odkaz&lt;/f1&gt; zvolíme &lt;f0&gt;Číslování&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install directly from Extension Manager:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104942Z" creationid="install" creationdate="20151009T104942Z">
+        <seg>Přímá instalace ze Správce rozšíření:</seg>
       </tuv>
     </tu>
     <tu>
@@ -56622,6 +56742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Users with administrator or root privileges will see a dialog (&lt;f0&gt;&lt;t1&gt;Figure 11&lt;/t1&gt;&lt;/f0&gt;) where they can choose to install extensions “for all users” (&lt;f2&gt;shared&lt;/f2&gt;) or “only for me” (&lt;f3&gt;user&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105745Z" creationid="install" creationdate="20151009T105712Z">
+        <seg>V případě uživatele s administrátorskými právy se zobrazí dialogové okno (&lt;f0&gt;obrázek &lt;t1&gt;11&lt;/t1&gt;&lt;/f0&gt;), ve kterém lze zvolit, zda má jít o instalaci „Pro všechny uživatele“ (&lt;f2&gt;sdílené &lt;/f2&gt;) nebo „Jen pro mě“ (&lt;f3&gt;uživatelské&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uses the same time interval as AutoRecovery does.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T201120Z" creationid="standa" creationdate="20141012T201120Z">
@@ -58498,6 +58626,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T164450Z" creationid="standa" creationdate="20140313T164450Z">
         <seg>Pokud máme soubor s obrázkem uložený na počítači, můžeme jej do programu LibreOffice vložit následujícími způsoby:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the installation is complete, the extension is listed in the Extension Manager dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105830Z" creationid="install" creationdate="20151009T105830Z">
+        <seg>Jakmile je instalace ukončena, rozšíření je uvedeno v seznamu okna Správce rozšíření.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62412,6 +62548,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T092635Z" creationid="install" creationdate="20150710T092635Z">
         <seg>Pro správu informací bychom mohli použít i tabulkový sešit, správa tabulkových sešitů v programu Calc je však obvykle složitější a časově náročnější než použití databáze a programu Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not need to download them separately.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T105955Z" creationid="install" creationdate="20151009T105955Z">
+        <seg>Netřeba je tedy nezávisle stahovat.</seg>
       </tuv>
     </tu>
     <tu>
