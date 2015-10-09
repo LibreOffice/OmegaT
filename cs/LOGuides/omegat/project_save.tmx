@@ -5910,6 +5910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A common use is to assign the “open document” event to run a macro that performs certain setup tasks for the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103411Z" creationid="install" creationdate="20151009T103411Z">
+        <seg>Běžným použitím je propojení události „otevřít dokument“ s makrem, které provede určité nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A complete list of commands can be found in &lt;f0&gt;the a&lt;/f0&gt;ppendix of the &lt;f1&gt;Math Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T104040Z" creationid="install" creationdate="20150817T104040Z">
@@ -5922,6 +5930,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T111020Z" creationid="install" creationdate="20150817T111020Z">
         <seg>Kompletní tabulka řeckých znaků je uvedena v&lt;f0&gt;&lt;/f0&gt; dodatku k příručce &lt;f1&gt;Math Guide&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T102815Z" creationid="install" creationdate="20151009T102815Z">
+        <seg>Pokud by se měl přepsat již existující soubor, otevře se okno s výzvou k potvrzení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6978,6 +6994,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T212829Z" creationid="standa" creationdate="20150209T212829Z">
         <seg>Přidávání komentářů do dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adding functionality with extensions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103844Z" creationid="install" creationdate="20151009T103844Z">
+        <seg>Rozšíření funkcionality pomocí rozšíření</seg>
       </tuv>
     </tu>
     <tu>
@@ -8706,6 +8730,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T190508Z" creationid="standa" creationdate="20141018T190508Z">
         <seg>podpora asijských jazyků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Assigning macros to events</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103231Z" creationid="install" creationdate="20151009T103231Z">
+        <seg>Přiřazení maker k událostem</seg>
       </tuv>
     </tu>
     <tu>
@@ -11018,6 +11050,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150726T062838Z" creationid="lenochod26" creationdate="20150726T062838Z">
         <seg>Kontrola pomocí přehledu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check the descriptions to see what licenses and fees apply to the ones that interest you.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104106Z" creationid="install" creationdate="20151009T104106Z">
+        <seg>Proto je třeba si prohlédnout popis rozšíření, kde se dozvíme, pod jakou licencí jsou šířeny, zda jsou placené a jaká je cena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16254,10 +16294,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Directly from &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; by clicking &lt;f1&gt;Add&lt;/f1&gt; (&lt;t2&gt;Figure 9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104240Z" creationid="install" creationdate="20151009T104240Z">
+        <seg>Přímo z &lt;f0&gt;Nástroje &gt; Správce rozšíření&lt;/f0&gt; kliknutím na &lt;f1&gt;Přidat&lt;/f1&gt; (obrázek &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Directly from a scanner (&lt;f0&gt;Insert &gt; Picture &gt; Scan&lt;/f0&gt;)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140220T075554Z" creationid="standa" creationdate="20140220T075554Z">
         <seg>Přímo ze skeneru (&lt;f0&gt;Vložit &gt; Obrázek &gt; Skenovat&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Directly from the *.oxt file in your system's file browser.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104143Z" creationid="install" creationdate="20151009T104143Z">
+        <seg>Přímo ze souboru * .oxt v systémovém správci souborů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18362,6 +18418,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T110442Z" creationid="install" creationdate="20151006T110442Z">
         <seg>Rozšíření můžeme rozdělit do skupin:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extensions can be installed in any of three ways.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104123Z" creationid="install" creationdate="20151009T104123Z">
+        <seg>Rozšíření je možné nainstalovat libovolným z následujících tří způsobů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22190,6 +22254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, a document was opened, a key was pressed, or the mouse moved.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103322Z" creationid="install" creationdate="20151009T103322Z">
+        <seg>Například, pokud se otevře dokument, stiskne se klávesa, nebo pokud pohneme myší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, a letter template may contain your name, address, and salutation.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140111T212800Z" creationid="standa" creationdate="20140111T212800Z">
@@ -23254,6 +23326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information, see Chapter 13, Getting Started with Macros.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103836Z" creationid="install" creationdate="20151009T103836Z">
+        <seg>Více informací nalezneme v kapitole 13, Začínáme s makry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information, see Chapter 4, Formatting Pages, in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T202443Z" creationid="standa" creationdate="20150122T202443Z">
@@ -24002,6 +24082,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T185814Z" creationid="standa" creationdate="20141226T185814Z">
         <seg>Od této chvíle se &lt;f0&gt;všechny změny, které provedeme, budou ukládat pouze v tomto novém dokumentu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From your web browser, if it can be configured to open this file type from a web page hyperlink.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104200Z" creationid="install" creationdate="20151009T104200Z">
+        <seg>Z webového prohlížeče, pokud jej lze nakonfigurovat tak, aby přímo tento typ souborů otvíral z odkazu na webové stránce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28158,6 +28246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to, browse to find a file from another location.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T102740Z" creationid="install" creationdate="20151009T102740Z">
+        <seg>Pokud je třeba, najdeme jiné než výchozí umístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you notice from your outline that another slide is needed, you can create it directly in the Outline view or you can return to the Normal view to create it.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T215014Z" creationid="standa" creationdate="20150702T215014Z">
@@ -29198,6 +29294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In LibreOffice, when something happens, we say that an event occurred.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103259Z" creationid="install" creationdate="20151009T103259Z">
+        <seg>Pokud se v LibreOffice něco stane, říkáme, že nastala událost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Mac OS X – &lt;f0&gt;Command ⌘+Q&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T170828Z" creationid="standa" creationdate="20140504T170828Z">
@@ -29962,6 +30066,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T103554Z" creationid="standa" creationdate="20140315T103554Z">
         <seg>V dialogovém okně Vlastnosti pro Nový motiv vzhledu klepneme na záložku &lt;f0&gt;Obecné&lt;/f0&gt; a zadáme název nového motivu vzhledu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Save Keyboard Configuration dialog, select &lt;f0&gt;All files&lt;/f0&gt; from the &lt;f1&gt;Save as Type&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T102702Z" creationid="install" creationdate="20151009T102702Z">
+        <seg>V okně Uložit konfiguraci klávesnice v seznamu &lt;f1&gt;Typ souboru&lt;/f1&gt; zvolíme možnost &lt;f0&gt;Všechny soubory&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30898,6 +31010,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222623Z" creationid="standa" creationdate="20140103T222623Z">
         <seg>Instalace více šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing extensions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104110Z" creationid="install" creationdate="20151009T104110Z">
+        <seg>Instalace rozšíření</seg>
       </tuv>
     </tu>
     <tu>
@@ -32746,6 +32866,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T193933Z" creationid="standa" creationdate="20141015T193933Z">
         <seg>Načítání/ukládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading a saved keyboard configuration</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T102824Z" creationid="install" creationdate="20151009T102824Z">
+        <seg>Načtení uložené konfigurace klávesnice</seg>
       </tuv>
     </tu>
     <tu>
@@ -34746,6 +34874,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150909T204133Z" creationid="standa" creationdate="20150909T204133Z">
         <seg>Nový snímek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next enter a name for the keyboard configuration file in the &lt;f0&gt;File name&lt;/f0&gt; box, or select an existing file from the list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T102728Z" creationid="install" creationdate="20151009T102728Z">
+        <seg>Do pole &lt;f0&gt;Název souboru&lt;/f0&gt; zadáme název souboru nebo v seznamu vybereme existující soubor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36790,6 +36926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Others can be downloaded from various websites.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104024Z" creationid="install" creationdate="20151009T104024Z">
+        <seg>Jiné lze stáhnout z různých webových stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Otherwise fonts are shown in alphabetical order.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T193140Z" creationid="standa" creationdate="20141005T193140Z">
@@ -38778,6 +38922,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222705Z" creationid="standa" creationdate="20140103T222705Z">
         <seg>Obnovení výchozí šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resetting the shortcut keys</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103022Z" creationid="install" creationdate="20151009T103022Z">
+        <seg>Obnovení klávesových zkratek</seg>
       </tuv>
     </tu>
     <tu>
@@ -42262,6 +42414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Several extensions are shipped bundled with LibreOffice and are installed with the program.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104013Z" creationid="install" creationdate="20151009T104013Z">
+        <seg>LibreOffice se dodává s několika nainstalovanými rozšířeními.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Several layouts contain one or more content boxes.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20151007T181653Z" creationid="standa" creationdate="20151007T181630Z">
@@ -42898,6 +43058,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T192556Z" creationid="install" creationdate="20150617T120601Z">
         <seg>Některé ovládací prvky, jako je například horní index, se stanou aktivní pouze tehdy, když je ve Vstupním řádku Lišty vzorců nebo v buňce textový kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some extensions from other sources are free of charge; others are available for a fee.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104049Z" creationid="install" creationdate="20151009T104049Z">
+        <seg>Některá rozšíření z jiných zdrojů jsou také zdarma, jiné jsou dostupné pouze za poplatek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48046,6 +48214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The official extension repository is located at &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104032Z" creationid="install" creationdate="20151009T104032Z">
+        <seg>Oficiální úložiště s rozšířeními se nachází na adrese &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The one or two hyphens will be replaced by an en-dash.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T182036Z" creationid="standa" creationdate="20150110T182036Z">
@@ -49746,6 +49922,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T200145Z" creationid="install" creationdate="20150617T123704Z">
         <seg>Tato dialogová okna uzamknou dokument pro úpravy, dokud nebudou uzavřena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These extensions are free of charge.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104038Z" creationid="install" creationdate="20151009T104038Z">
+        <seg>Tyto rozšíření jsou dostupné zdarma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51846,6 +52030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;i0/&gt;load a saved keyboard configuration file and replace your existing configuration, click the &lt;f1&gt;Load&lt;/f1&gt; button at the right of the Customize dialog, and then select the configuration file from the Load Keyboard Configuration dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103017Z" creationid="install" creationdate="20151009T103017Z">
+        <seg>Jestli-že chceme &lt;i0/&gt;načíst uloženou konfiguraci klávesových zkratek z konfiguračního souboru, čímž nahradíme existující konfiguraci, klikneme na tlačítko &lt;f1&gt;Otevřít&lt;/f1&gt; v pravé části okna Přizpůsobit a poté vybereme soubor v okně Načíst konfiguraci klávesnice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;i0/&gt;manually hyphenate words, do not use a normal hyphen, which will remain visible even if the word is no longer at the end of a line when you add or delete text or change margins or font size.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T202106Z" creationid="standa" creationdate="20150122T202106Z">
@@ -51858,6 +52050,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T112253Z" creationid="install" creationdate="20151008T112253Z">
         <seg>Pokud chceme &lt;i0/&gt;nabídku upravit, ať již zabudovanou nebo vytvořenou uživatelem, zvolíme ji v seznamu &lt;f1&gt;Nabídka&lt;/f1&gt; a následně klepnutím na tlačítko &lt;f2&gt;Nabídka&lt;/f2&gt; vpravo, zobrazíme rozbalovací nabídku s typy možných úprav: &lt;f3&gt;Přesunout&lt;/f3&gt;, &lt;f4&gt;Přejmenovat&lt;/f4&gt; a &lt;f5&gt;Smazat&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To &lt;i0/&gt;reset all of the keyboard shortcuts to their default values, click the &lt;f1&gt;Reset&lt;/f1&gt; button near the bottom right of the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103205Z" creationid="install" creationdate="20151009T103205Z">
+        <seg>Pokud se chceme &lt;i0/&gt; vrátit k původnímu nastavení klávesových zkratek, klikneme na tlačítko &lt;f1&gt;Obnovit&lt;/f1&gt; v pravé dolní části okna Přizpůsobit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52146,6 +52346,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T165525Z" creationid="standa" creationdate="20140407T165525Z">
         <seg>Chceme-li dokument propojit s jinou šablonou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To associate a macro with an event, use the Events page of the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103748Z" creationid="install" creationdate="20151009T103748Z">
+        <seg>Makra s událostmi propojíme na kartě Události v okně Přizpůsobit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53466,6 +53674,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T065440Z" creationid="install" creationdate="20150821T065440Z">
         <seg>Pokud chceme v křížovém odkazu vložit číslo vzorce bez závorek, v poli &lt;f2&gt;Vložit odkaz na&lt;/f2&gt; místo &lt;f1&gt;Odkaz&lt;/f1&gt; zvolíme &lt;f0&gt;Číslování&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install directly from a saved *.oxt file on your system, double-click the file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104322Z" creationid="install" creationdate="20151009T104322Z">
+        <seg>Pokud chceme rozšíření nainstalovat z uloženého souboru * .oxt, tak na něj ve správci souborů dvakrát kliknem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install from a suitably enabled web browser, select the hyperlink, and then select to Open the file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T104755Z" creationid="install" creationdate="20151009T104755Z">
+        <seg>Chceme-li instalovat z vhodně povoleného webového prohlížeče, vybereme hypertextový odkaz, a poté vybereme soubor k otevření.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56162,6 +56386,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T075416Z" creationid="install" creationdate="20150716T075416Z">
         <seg>Pomocí nich můžeme vytvořit nebo některé z polí odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use this feature with care as no confirmation dialog will be displayed; the defaults will be set without any further notice or user input.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103219Z" creationid="install" creationdate="20151009T103219Z">
+        <seg>Tuto možnost je třeba používat opatrně, protože po stisknutí se nezobrazí žádná výzva k potvrzení a původní nastavení se použijí bez dalšího varování.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60344,6 +60576,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can associate a macro with an event, so the macro is run when the event occurs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103341Z" creationid="install" creationdate="20151009T103341Z">
+        <seg>K události můžeme přiřadit makro, což znamená, že při této události se přiřazené makro spustí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change &lt;i0/&gt;the dictionary language (for example, Spanish, French or German) on the Spelling and Grammar dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T185632Z" creationid="standa" creationdate="20150110T185632Z">
@@ -62840,6 +63080,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>assigning to events</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103226Z" creationid="install" creationdate="20151009T103226Z">
+        <seg>přiřazení k událostem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>assigning to shortcut keys</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151009T064559Z" creationid="install" creationdate="20151009T064559Z">
@@ -64480,6 +64728,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>loading from a file</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T102829Z" creationid="install" creationdate="20151009T102829Z">
+        <seg>načtení ze souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>locale settings</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141016T190401Z" creationid="standa" creationdate="20141016T190401Z">
@@ -65292,6 +65548,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T211643Z" creationid="install" creationdate="20150702T101732Z">
         <seg>nahrazování všech dat v buňce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>resetting to default values</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T103103Z" creationid="install" creationdate="20151009T103103Z">
+        <seg>obnovení do výchozího nastavení</seg>
       </tuv>
     </tu>
     <tu>
