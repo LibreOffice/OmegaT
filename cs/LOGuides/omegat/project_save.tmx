@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7370,6 +7370,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T195837Z" creationid="standa" creationdate="20150326T195837Z">
         <seg>Alex Thurgood</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alexander Noël Dunne</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T121756Z" creationid="install" creationdate="20151009T121756Z">
+        <seg>Alexander Noël Dunne</seg>
       </tuv>
     </tu>
     <tu>
@@ -23582,6 +23590,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For shortcuts specific to Writer, Calc, Impress, Draw, or Base, read the relevant component guide or search the application Help.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T122012Z" creationid="install" creationdate="20151009T122012Z">
+        <seg>Klávesové zkratky, typické pro jednotlivé součásti Writer, Calc, Impress, Draw a Base, jsou uvedeny v příručkách k jednotlivým programům nebo je lze nalézt v nápovědě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For some seldom-used commands, you must always enter the markup.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T103825Z" creationid="install" creationdate="20150817T103825Z">
@@ -38286,6 +38302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Published 1&lt;f0&gt;3&lt;/f0&gt; June 2014 .</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T121837Z" creationid="install" creationdate="20151009T121837Z">
+        <seg>Anglický originál byl vydán &lt;f0&gt;3&lt;/f0&gt;. června 2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Published 1&lt;f0&gt;3&lt;/f0&gt; June 2014.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T051135Z" creationid="install" creationdate="20151008T051135Z">
@@ -43342,6 +43366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some keystrokes are different on a Mac from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T122151Z" creationid="install" creationdate="20151009T122151Z">
+        <seg>Některé klávesové zkratky a položky nabídky jsou v systému Mac jiné než v systémech Windows a Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some macros are available as free downloads on the Internet (see &lt;t0&gt;Table 1&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T084405Z" creationid="install" creationdate="20151006T084405Z">
@@ -43362,6 +43394,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150703T054814Z" creationid="install" creationdate="20150703T054814Z">
         <seg>Několik formátů čísel je k dispozici také v postranní liště v panelu &lt;f0&gt;Formát čísel&lt;/f0&gt; na kartě Vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of the shortcuts listed here may not work if your operating system uses the same shortcuts for other tasks.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T122044Z" creationid="install" creationdate="20151009T122044Z">
+        <seg>Některé zde uvedené klávesové zkratky nemusí fungovat, pokud je operační systém používá pro jiné účely.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46574,6 +46614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contributors to that appendix are:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T121744Z" creationid="install" creationdate="20151009T121744Z">
+        <seg>Přispěvatelé do této přílohy jsou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contributors to that book are:</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150804T123335Z" creationid="install" creationdate="20150804T123335Z">
@@ -47506,6 +47554,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T191656Z" creationid="standa" creationdate="20141015T191656Z">
         <seg>Následující tabulka ukazuje rozdíl v syntaxi mezi relativními a absolutními adresami:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following table gives some common substitutions for the instructions in this chapter.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T122203Z" creationid="install" creationdate="20151009T122203Z">
+        <seg>V následující tabulce se nacházejí některé nejdůležitější rozdíly, které se vztahují na informace v této příručce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50526,6 +50582,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This appendix is based on Appendix A of &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T121737Z" creationid="install" creationdate="20151009T121737Z">
+        <seg>Tato příloha byla vytvořena na základě přílohy A knihy &lt;f0&gt;Getting Started with OpenOffice.org 3.3&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This appendix lists some of the most common built-in keyboard shortcuts that apply to all components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T121954Z" creationid="install" creationdate="20151009T121954Z">
+        <seg>Tato příloha uvádí seznam některých nejčastěji používaných zabudovaných klávesových zkratek, které je možné používat ve všech programech balíku LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This applies only to the current session; the old font is not stored permanently.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T045056Z" creationid="install" creationdate="20150821T045056Z">
@@ -52210,6 +52282,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T170349Z" creationid="standa" creationdate="20150110T170349Z">
         <seg>Tip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tip for Macintosh users</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T122129Z" creationid="install" creationdate="20151009T122129Z">
+        <seg>Tip pro uživatele systému Macintosh</seg>
       </tuv>
     </tu>
     <tu>
@@ -54602,6 +54682,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T171257Z" creationid="standa" creationdate="20140216T171257Z">
         <seg>Chceme-li změnit velikost objektu pouze v jedné ose, použijeme postranní úchyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resolve any conflicts, assign different keys to these shortcuts by reconfiguring either LibreOffice (see Chapter 14) or your operating system (see system documentation).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T122122Z" creationid="install" creationdate="20151009T122122Z">
+        <seg>Takové konflikty můžeme vyřešit přiřazením jiné klávesové zkratky, a to buď změnou nastavení LibreOffice (kapitola 14) nebo operačního systému (informace je třeba vyhledat v jeho dokumentaci).</seg>
       </tuv>
     </tu>
     <tu>
@@ -62316,6 +62404,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T184155Z" creationid="standa" creationdate="20140418T184155Z">
         <seg>V programu Draw můžeme vytvářet kresby použitelné v dalších součástech LibreOffice, je také možné vytvářet vlastní ilustrační obrázky a přidávat je do galerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use LibreOffice without requiring a pointing device, such as a mouse or touchpad, by using its built-in keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T121904Z" creationid="install" creationdate="20151009T121904Z">
+        <seg>LibreOffice je možné používat i bez kurzorového zařízení, jako je například myš nebo touchpad, a to pomocí zabudovaných klávesových zkratek.</seg>
       </tuv>
     </tu>
     <tu>
