@@ -7798,6 +7798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although you can easily reset the shortcut key assignments to the LibreOffice defaults, changing some common shortcut keys can cause confusion, especially if other users share your computer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055854Z" creationid="install" creationdate="20151009T055854Z">
+        <seg>I když je resetování zkratek do původní konfigurace jednoduché, změna obvyklých zkratek může způsobit zmatek, a to zejména v případě, kdy počítač používá více uživatelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although you can learn Basic and write macros, there is a steep learning curve to writing macros from scratch.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150922T054053Z" creationid="install" creationdate="20150922T054053Z">
@@ -8670,6 +8678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Assigning shortcut keys</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055334Z" creationid="install" creationdate="20151009T055334Z">
+        <seg>Přiřazení klávesových zkratek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Associating a document with a different template</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T222731Z" creationid="standa" creationdate="20140103T222731Z">
@@ -9278,6 +9294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful when reassigning your operating system’s or LibreOffice’s predefined shortcut keys.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055809Z" creationid="install" creationdate="20151009T055809Z">
+        <seg>Při přiřazování nových klávesových zkratek je třeba dát pozor na již existující zkratky operačního systému a zabudované zkratky LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be careful when removing a field.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T075459Z" creationid="install" creationdate="20150716T075459Z">
@@ -9290,6 +9314,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T104555Z" creationid="install" creationdate="20151006T104555Z">
         <seg>Při konfigurování obsluhy událostí je nutná opatrnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be sure the fax driver is installed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054451Z" creationid="install" creationdate="20151009T054451Z">
+        <seg>Ovladač faxu musí být předem nainstalován.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11238,6 +11270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Print&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054608Z" creationid="install" creationdate="20151009T054608Z">
+        <seg>Zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Writer &gt; Tisk&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;View &gt; Toolbars &gt; Customize&lt;/f0&gt; from the menu bar.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T130047Z" creationid="install" creationdate="20151008T130047Z">
@@ -12166,6 +12206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; and then click &lt;f2&gt;Close&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055235Z" creationid="install" creationdate="20151009T055235Z">
+        <seg>Klikneme na &lt;f1&gt;OK&lt;/f1&gt; a pak na &lt;f2&gt;Zavřít&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to save.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T201255Z" creationid="standa" creationdate="20150122T201255Z">
@@ -12206,6 +12254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f3&gt;Add&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054926Z" creationid="install" creationdate="20151009T054926Z">
+        <seg>Klikneme na tlačítko &lt;f3&gt;Přidat&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151009T052433Z" creationid="install" creationdate="20151009T052433Z">
@@ -12242,6 +12298,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181724Z" creationid="standa" creationdate="20140526T181724Z">
         <seg>Klikneme na ikonu &lt;f3&gt;Cíl v dokumentu&lt;/f3&gt; &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;, čímž otevřeme dialogové okno Cíl v dokumentu, ve kterém můžeme vybrat typ cíle; pokud známe název cíle, můžeme ho přímo zadat do pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f5&gt;Add&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055109Z" creationid="install" creationdate="20151009T055109Z">
+        <seg>Klikneme na &lt;f5&gt;Přidat&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14430,6 +14494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consult the documentation for your fax modem for more information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054507Z" creationid="install" creationdate="20151009T054507Z">
+        <seg>Více informací o instalaci faxu najdeme v jeho dokumentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T221014Z" creationid="standa" creationdate="20140103T221014Z">
@@ -15162,6 +15234,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T183234Z" creationid="standa" creationdate="20150628T183234Z">
         <seg>Vlastní animace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom icons should be 16 x 16 pixels in size to achieve the best quality and should not contain more than 256 colors.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054251Z" creationid="install" creationdate="20151009T054251Z">
+        <seg>Ikony by pro kvalitu zobrazení měly mít velikost 16 x 16 pixelů, přičemž nesmějí mít více než 256 barev.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17982,6 +18062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: Adding a &lt;i0/&gt;Fax icon to a toolbar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054425Z" creationid="install" creationdate="20151009T054344Z">
+        <seg>Příklad: Přidání &lt;i0/&gt;ikony faxu do panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T191700Z" creationid="standa" creationdate="20141015T191700Z">
@@ -20510,6 +20598,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Change Icon dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054040Z" creationid="install" creationdate="20151009T054040Z">
+        <seg>Obrázek &lt;seq0&gt;5&lt;/seq0&gt;: Dialogové okno Změnit ikonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T202801Z" creationid="standa" creationdate="20141022T202801Z">
@@ -20670,6 +20766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Setting up LibreOffice for sending faxes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055251Z" creationid="install" creationdate="20151009T055251Z">
+        <seg>Obrázek &lt;seq0&gt;6 &lt;/seq0&gt;: Nastavování LibreOffice pro odesílání faxů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Template &lt;f1&gt;Manager&lt;/f1&gt; dialog</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T220427Z" creationid="standa" creationdate="20140109T220427Z">
@@ -20730,6 +20834,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T184341Z" creationid="standa" creationdate="20141226T184341Z">
         <seg>Obrázek &lt;seq0&gt;7 &lt;/seq0&gt;: &lt;i1/&gt; Tlačítka navigace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Adding a Send Fax command to a toolbar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055318Z" creationid="install" creationdate="20151009T055318Z">
+        <seg>Obrázek &lt;seq0&gt;7 &lt;/seq0&gt;: Přidávání příkazu k odeslání faxu do panelu</seg>
       </tuv>
     </tu>
     <tu>
@@ -29222,6 +29334,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to using the &lt;i0/&gt;built-in &lt;i1/&gt;keyboard shortcuts (listed in Appendix A), you can define your own.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055532Z" creationid="install" creationdate="20151009T055532Z">
+        <seg>Kromě zabudovaných &lt;i0/&gt;klávesových zkratek &lt;i1/&gt;(seznam se nachází v příloze A) můžeme definovat i vlastní klávesové zkratky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, many documents have the “front matter” (such as the table of contents) numbered with Roman numerals and the main body of the document numbered in Arabic numerals, starting with 1.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T210239Z" creationid="standa" creationdate="20150209T210239Z">
@@ -29474,6 +29594,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150818T075242Z" creationid="install" creationdate="20150818T075242Z">
         <seg>V takovém případě máme dvě možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Commands&lt;/f0&gt; list, click the up or down arrow button to position the new icon where you want it.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055204Z" creationid="install" creationdate="20151009T055204Z">
+        <seg>V seznamu &lt;f0&gt;Příkazy&lt;/f0&gt; klikáním na šipky nahoru nebo dolů ikonu umístíme na požadované místo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29962,6 +30090,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140109T211853Z" creationid="standa" creationdate="20140109T211853Z">
         <seg>V dokumentu vybereme položku, kterou chceme uložit jako styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the drop-down menu, choose &lt;f0&gt;Customize Toolbar&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054843Z" creationid="install" creationdate="20151009T054843Z">
+        <seg>V místní nabídce zvolíme &lt;f0&gt;Přizpůsobit lištu&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32926,6 +33062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many key assignments are universally understood shortcuts, such as &lt;f0&gt;F1&lt;/f0&gt; for Help, and are always expected to provide certain results.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055827Z" creationid="install" creationdate="20151009T055827Z">
+        <seg>Mnohé přiřazení kláves jsou obecně přijatými zkratkami, jako například &lt;f0&gt;F1&lt;/f0&gt; pro spuštění nápovědy, přičemž se při nich vždy předpokládá jistá akce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many objects in a document can be set to call macros when events occur.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T110137Z" creationid="install" creationdate="20151006T110137Z">
@@ -34862,6 +35006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now you can see the new icon in the Commands list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055150Z" creationid="install" creationdate="20151009T055150Z">
+        <seg>Poté se nová ikona zobrazí v seznamu Příkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Now you can work with the selected text (copy it, delete it, change the style, or whatever).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T202240Z" creationid="standa" creationdate="20141226T202240Z">
@@ -35346,6 +35498,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T124026Z" creationid="install" creationdate="20151008T124026Z">
         <seg>Otevře se okno Přidat příkazy (obrázek &lt;t0&gt;3&lt;/t0&gt;), ve kterém zvolíme kategorii a příkaz a klikneme na tlačítko &lt;f1&gt;Přidat &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Add Commands dialog (&lt;t0&gt;Figure 7&lt;/t0&gt;), select &lt;f1&gt;Documents&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list, then select &lt;f3&gt;Send Default Fax&lt;/f3&gt; in the &lt;f4&gt;Commands&lt;/f4&gt; list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055104Z" creationid="install" creationdate="20151009T055104Z">
+        <seg>Otevře se okno Přidat příkazy (obrázek &lt;t0&gt;7&lt;/t0&gt;), zde v seznamu &lt;f2&gt;Kategorie&lt;/f2&gt; zvolíme &lt;f1&gt;Dokumenty&lt;/f1&gt;, následně v seznamu &lt;f4&gt;Příkazy&lt;/f4&gt; zvolíme &lt;f3&gt;Poslat výchozí fax&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Change Icon dialog, you can scroll through the available icons, select one, and click &lt;f1&gt;OK&lt;/f1&gt; to assign it to the command (&lt;f2&gt;&lt;t3&gt;Figure 5&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054024Z" creationid="install" creationdate="20151009T054024Z">
+        <seg>Otevře se okno Změnit ikonu, kde můžeme ikonu vybrat ze seznamu dostupných ikon. Kliknutím na &lt;f1&gt;OK&lt;/f1&gt; pak ikonu přiřadíme k příkazu (&lt;f2&gt;obrázek &lt;t3&gt;5&lt;/t3&gt;&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38606,6 +38774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054805Z" creationid="install" creationdate="20151009T054805Z">
+        <seg>Pravým tlačítkem myši klikneme na nástrojovou lištu Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click in the empty space at the end of the sheet tabs and select &lt;f0&gt;Insert Sheet&lt;/f0&gt; from the context menu.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T190214Z" creationid="install" creationdate="20150625T102348Z">
@@ -40930,6 +41106,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140227T202757Z" creationid="standa" creationdate="20140227T202757Z">
         <seg>Z rozbalovacího seznamu v dolní části Navigátoru vybereme dokument, jenž obsahuje položky, na které chceme odkázat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the fax driver from the &lt;f0&gt;Fax&lt;/f0&gt; list and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054659Z" creationid="install" creationdate="20151009T054659Z">
+        <seg>Ze seznamu &lt;f0&gt;Fax&lt;/f0&gt; vybereme požadovaný fax a klikneme na tlačítko &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44430,6 +44614,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;Toolbars&lt;/f1&gt; page of the Customize dialog appears (&lt;t2&gt;Figure 4&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054910Z" creationid="install" creationdate="20151009T054910Z">
+        <seg>Otevře se karta &lt;f1&gt;Nástrojové lišty&lt;/f1&gt; okna Přizpůsobit (obrázek &lt;t2&gt;4&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;information for &lt;/f1&gt;&lt;f2&gt;Title&lt;/f2&gt;, &lt;f3&gt;Summary&lt;/f3&gt; and &lt;f4&gt;Author&lt;/f4&gt; is &lt;f5&gt;taken&lt;/f5&gt; from the document properties.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T181902Z" creationid="standa" creationdate="20140526T181902Z">
@@ -46090,6 +46282,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151008T124037Z" creationid="install" creationdate="20151008T124037Z">
         <seg>Okno zůstane otevřené, takže můžeme přidat více příkazů najednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog shown in &lt;t1&gt;Figure 6&lt;/t1&gt; opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054623Z" creationid="install" creationdate="20151009T054623Z">
+        <seg>Otevře se okno zobrazené na obrázku &lt;t1&gt;6&lt;/t1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51534,6 +51734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To adapt shortcut keys to your needs, use the &lt;i0/&gt;Customize dialog, as described below.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055922Z" creationid="install" creationdate="20151009T055922Z">
+        <seg>Klávesové zkratky přizpůsobíme &lt;i0 /&gt; svým potřebám tak, že</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add a &lt;i0/&gt;menu item, &lt;i1/&gt;keyboard shortcut, or &lt;i2/&gt;toolbar icon that calls a macro, use &lt;i3/&gt;the Customize dialog (&lt;t4&gt;Figure 10&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T093108Z" creationid="install" creationdate="20151006T093108Z">
@@ -52106,6 +52314,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150708T050310Z" creationid="install" creationdate="20150708T050310Z">
         <seg>Správnost určení oblasti tisku můžeme zkontrolovat v liště nabídky &lt;f0&gt;Soubor &gt; Náhled strany&lt;/f0&gt; nebo kliknutím na ikonu &lt;f1&gt;Náhled strany&lt;/f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To choose an icon for a command, select the command and click &lt;f0&gt;Modify &gt; Change icon&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T053951Z" creationid="install" creationdate="20151009T053951Z">
+        <seg>Ikony pro příkaz můžeme vybrat tak, že na kartě Nástrojové lišty klikneme na &lt;f0&gt;Změnit &gt; Změnit ikonu&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54202,6 +54418,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T155925Z" creationid="standa" creationdate="20140504T155925Z">
         <seg>Chceme-li používat dialogová okna LibreOffice, zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Obecné&lt;/f0&gt; a zaškrtneme možnost &lt;f1&gt;Použít dialogy LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use a custom icon, create it in a graphics program and import it into LibreOffice by clicking the &lt;f0&gt;Import&lt;/f0&gt; button on the Change Icon dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054239Z" creationid="install" creationdate="20151009T054239Z">
+        <seg>Pokud chceme použít vlastní ikonu, vytvoříme ji v editoru obrázků a v okně Změnit ikonu ji do LibreOffice vložíme kliknutím na tlačítko &lt;f0&gt;Importovat&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59856,6 +60080,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can assign shortcuts to standard LibreOffice functions or your own macros and save them for use with the entire LibreOffice suite.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055642Z" creationid="install" creationdate="20151009T055642Z">
+        <seg>Můžeme je přiřadit k zabudovaným funkcím, jako i k vlastním makrům a můžeme je uložit na použití ve všech částech balíku LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can change &lt;i0/&gt;the dictionary language (for example, Spanish, French or German) on the Spelling and Grammar dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T185632Z" creationid="standa" creationdate="20150110T185632Z">
@@ -60204,6 +60436,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T194058Z" creationid="standa" creationdate="20150326T194058Z">
         <seg>Na záložky můžeme odkazovat křížovými i hypertextovými odkazy, jak je popsáno výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can customize LibreOffice so that a single click on an icon automatically sends the current document as a fax.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054444Z" creationid="install" creationdate="20151009T054444Z">
+        <seg>LibreOffice můžeme upravit tak, že z něj jedním kliknutím na ikonu aktuální dokument odešleme jako fax.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62056,6 +62296,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your toolbar now has a new icon to send the current document as a fax.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055301Z" creationid="install" creationdate="20151009T055301Z">
+        <seg>V panelu se po této úpravě objeví nová ikona na odesílání faxů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Zoom</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141219T190511Z" creationid="standa" creationdate="20141219T190511Z">
@@ -62308,6 +62556,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T171306Z" creationid="standa" creationdate="20140414T171306Z">
         <seg>šipky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>assigning</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055341Z" creationid="install" creationdate="20151009T055341Z">
+        <seg>přiřazení</seg>
       </tuv>
     </tu>
     <tu>
@@ -63296,6 +63552,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>fax icon, adding to toolbar</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T054302Z" creationid="install" creationdate="20151009T054302Z">
+        <seg>ikona faxu, přidání do panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>features</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141023T203451Z" creationid="standa" creationdate="20141023T203451Z">
@@ -63787,6 +64051,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
         <seg>keyboard keys</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150620T074431Z" creationid="lenochod26" creationdate="20150620T074431Z">
+        <seg>klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T055337Z" creationid="install" creationdate="20151009T055337Z">
         <seg>klávesové zkratky</seg>
       </tuv>
     </tu>
