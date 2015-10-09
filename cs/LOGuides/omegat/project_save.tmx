@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8998,6 +8998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>AutoLayout text boxes included in the available layouts are already formatted as a bulleted list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T185612Z" creationid="standa" creationdate="20151009T185417Z">
+        <seg>Textová pole automatického rozvržení nacházející se v dostupných rozvrženích snímků jsou předem formátovány jako odrážkové seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>AutoRecovery</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141012T200816Z" creationid="standa" creationdate="20141012T200816Z">
@@ -14914,6 +14922,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T210854Z" creationid="standa" creationdate="20140103T210854Z">
         <seg>Autorská práva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a &lt;f0&gt;slide with a&lt;/f0&gt; bulleted list as follows:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T185532Z" creationid="standa" creationdate="20151009T185532Z">
+        <seg>&lt;f0&gt;Snímek s &lt;/f0&gt;odrážkovým seznamem vytvoříme následujícím postupem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24134,6 +24150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the Layout pane, choose a slide design that contains a text box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T185652Z" creationid="standa" creationdate="20151009T185652Z">
+        <seg>V panelu Rozvržení zvolíme návrh snímku, který obsahuje textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the LibreOffice Start Center, if no component is open, click on the Impress Presentation icon.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T174433Z" creationid="standa" creationdate="20150628T174433Z">
@@ -27154,6 +27178,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T164323Z" creationid="standa" creationdate="20140414T164323Z">
         <seg>Není-li postranní lišta zobrazena, zvolíme &lt;f1&gt;Zobrazit&lt;/f1&gt; v hlavní nabídce a vybereme &lt;f2&gt;Postranní lišta&lt;/f2&gt; z nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the Text Formatting toolbar is not displayed, go to &lt;f5&gt;View &gt; Toolbar &gt; Text Formatting&lt;/f5&gt; on the &lt;f6&gt;M&lt;/f6&gt;enu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T190320Z" creationid="standa" creationdate="20151009T190320Z">
+        <seg>Pokud není tato lišta zobrazena, zvolíme v hlavní nabídce v &lt;f5&gt;Zobrazit &gt; Nástrojové lišty &gt; Formátování textu&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30742,6 +30774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the text box, click on &lt;f0&gt;Click to add text.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T185711Z" creationid="standa" creationdate="20151009T185711Z">
+        <seg>V textovém poli klepneme na &lt;f0&gt;Klikněte pro vložení textu.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the theme’s Properties dialog, click the &lt;f0&gt;Files&lt;/f0&gt; tab and click the &lt;f1&gt;Find Files&lt;/f1&gt; button.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T193443Z" creationid="standa" creationdate="20140417T193443Z">
@@ -33898,6 +33938,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T211016Z" creationid="standa" creationdate="20150209T211016Z">
         <seg>Způsob 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Methods for changing the appearance of a list are explained in “&lt;bf0&gt;Changing list appearance&lt;/bf0&gt;” on page &lt;bf1&gt;24&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T185821Z" creationid="standa" creationdate="20151009T185821Z">
+        <seg>Postup pro změnu vzhledu seznamu je vysvětlen v části „&lt;bf0&gt;Změna vzhledu seznamu &lt;/bf0&gt;“ na stránce &lt;bf1&gt;24&lt;/bf1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38002,6 +38050,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T194058Z" creationid="standa" creationdate="20141005T194058Z">
         <seg>Vyhlazování se po změně nastavení uplatní, pokud stisknutím &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt; obnovíme zobrazení aktuálního dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Shift+Enter&lt;/f0&gt; to start a new line without creating a new bullet point.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T190144Z" creationid="standa" creationdate="20151009T190144Z">
+        <seg>Pokud stiskneme kombinaci kláves &lt;f0&gt;Shift+Enter&lt;/f0&gt;, v seznamu se vytvoří nový řádek bez odrážky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44926,6 +44982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text boxes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T190323Z" creationid="standa" creationdate="20151009T190323Z">
+        <seg>Textová pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text field types include CHAR, VARCHAR, VARCHAR_IGNORECASE, and MEMO.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T083728Z" creationid="install" creationdate="20150716T083728Z">
@@ -46990,6 +47054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default list type is a bulleted list.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T185757Z" creationid="standa" creationdate="20151009T185757Z">
+        <seg>Výchozím typem seznamu je odrážkový seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default locale is based on that of the computer's operating system.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T191511Z" creationid="standa" creationdate="20141018T191511Z">
@@ -48506,6 +48578,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T211959Z" creationid="install" creationdate="20150702T112010Z">
         <seg>Původní data buňky budou nahrazena novými, původní formátování se však zachová.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new line will have the same indentation as the previous line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T190149Z" creationid="standa" creationdate="20151009T190149Z">
+        <seg>Nový řádek bude mít stejné odsazení jako předchozí řádek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55278,6 +55358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To switch off bullets altogether, click the &lt;f1&gt;Bullets On/Off&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt; on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T190232Z" creationid="standa" creationdate="20151009T190232Z">
+        <seg>Chceme-li vytváření odrážek úplně vypnout, klepneme na ikonu &lt;f1&gt;Odrážky zap/vyp&lt;/f1&gt; &lt;f2&gt;&lt;df3&gt; &lt;di4/&gt;&lt;/df3&gt; &lt;/f2&gt; na nástrojové liště Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To temporarily close Quickstarter on a computer using a Windows operating system, right-click on the &lt;f0&gt;Quickstarter&lt;/f0&gt; icon in the system tray and select &lt;f1&gt;Exit Quickstarter&lt;/f1&gt; in the pop-up menu.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T184932Z" creationid="standa" creationdate="20140425T184932Z">
@@ -55986,6 +56074,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T211259Z" creationid="standa" creationdate="20150122T211259Z">
         <seg>Napíšeme slovo „stránka“ a mezeru, pak vložíme číslo stránky podle předchozího popisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type your text and press the &lt;f0&gt;Enter&lt;/f0&gt; key to start a new bulleted point.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151009T185743Z" creationid="standa" creationdate="20151009T185743Z">
+        <seg>Napíšeme svůj text a stiskneme klávesu &lt;f0&gt;Enter&lt;/f0&gt;, čímž vytvoříme v seznamu novou položku s odrážkou.</seg>
       </tuv>
     </tu>
     <tu>
