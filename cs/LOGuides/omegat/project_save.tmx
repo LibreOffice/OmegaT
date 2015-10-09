@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20962,6 +20962,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141005T200033Z" creationid="standa" creationdate="20141005T200033Z">
         <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Volba obecných možností tisku, platných pro všechny součásti balíku LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Choosing what to print in Calc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151009T114503Z" creationid="GRB" creationdate="20151009T114503Z">
+        <seg>Obrázek &lt;seq0&gt;6 &lt;/seq0&gt;: Výběr, co se bude v Calcu tisknout</seg>
       </tuv>
     </tu>
     <tu>
