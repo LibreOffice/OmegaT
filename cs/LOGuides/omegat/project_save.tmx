@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8362,6 +8362,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141009T201428Z" creationid="standa" creationdate="20141009T201428Z">
         <seg>Možnosti vzhledu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Appendix &lt;f0&gt;A &lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T113016Z" creationid="install" creationdate="20151009T113016Z">
+        <seg>Příloha &lt;f0&gt;A&lt;s1/&gt;&lt;/f0&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32146,6 +32154,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150720T204826Z" creationid="lenochod26" creationdate="20150720T204826Z">
         <seg>Klávesnice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151009T113019Z" creationid="install" creationdate="20151009T113019Z">
+        <seg>Klávesové zkratky</seg>
       </tuv>
     </tu>
     <tu>
