@@ -2550,6 +2550,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl+F4&lt;/f0&gt; or &lt;f1&gt;Alt+F4&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062328Z" creationid="install" creationdate="20151012T062328Z">
+        <seg>&lt;f0&gt;Ctrl+F4&lt;/f0&gt; nebo &lt;f1&gt;Alt+F4&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T170057Z" creationid="standa" creationdate="20150701T170057Z">
@@ -9350,6 +9358,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backspace</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062903Z" creationid="install" creationdate="20151012T062903Z">
+        <seg>Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Barbara M. Tobias</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T194311Z" creationid="standa" creationdate="20150627T194311Z">
@@ -14622,6 +14638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Closes LibreOffice when the last open document is closed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062428Z" creationid="install" creationdate="20151012T062428Z">
+        <seg>Pokud je zavřený poslední otevřený dokument, zavře se celý LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Closes an open menu.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151009T132550Z" creationid="install" creationdate="20151009T132550Z">
@@ -14634,6 +14658,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T060842Z" creationid="install" creationdate="20151012T060842Z">
         <seg>Dialogové okno se zavře bez uložení nebo použití změn provedených během jeho otevření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Closes the application.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062734Z" creationid="install" creationdate="20151012T062734Z">
+        <seg>Aplikace se zavře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Closes the current document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062404Z" creationid="install" creationdate="20151012T062404Z">
+        <seg>Aktuální dokument se zavře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15270,6 +15310,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creates a new document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062522Z" creationid="install" creationdate="20151012T062522Z">
+        <seg>Vytvoří nový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating &lt;i0/&gt;hyperlinks</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140226T202526Z" creationid="standa" creationdate="20140226T202526Z">
@@ -15634,6 +15682,46 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T054015Z" creationid="install" creationdate="20151012T054015Z">
         <seg>Ctrl+F6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+N</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062512Z" creationid="install" creationdate="20151012T062512Z">
+        <seg>Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+O</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062431Z" creationid="install" creationdate="20151012T062431Z">
+        <seg>Ctrl+O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+P</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062615Z" creationid="install" creationdate="20151012T062615Z">
+        <seg>Ctrl+P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062703Z" creationid="install" creationdate="20151012T062703Z">
+        <seg>Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+S</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062442Z" creationid="install" creationdate="20151012T062442Z">
+        <seg>Ctrl+S</seg>
       </tuv>
     </tu>
     <tu>
@@ -16194,6 +16282,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T113913Z" creationid="install" creationdate="20151006T113913Z">
         <seg>Definování proměnných pomocí Dim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Del</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062707Z" creationid="install" creationdate="20151012T062707Z">
+        <seg>Del</seg>
       </tuv>
     </tu>
     <tu>
@@ -17946,6 +18042,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T205354Z" creationid="standa" creationdate="20140112T205354Z">
         <seg>Upravíme šablonu, jako by se jednalo o jakýkoliv jiný dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062952Z" creationid="install" creationdate="20151012T062952Z">
+        <seg>Úprava dokumentů</seg>
       </tuv>
     </tu>
     <tu>
@@ -28334,6 +28438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are working on a previously unsaved file, the shortcut launches the Save As dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062508Z" creationid="install" creationdate="20151012T062508Z">
+        <seg>Pokud pracujeme na dokumentu, který ještě nebyl uložen, zobrazí se dialogové okno Uložit jako.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you cannot place the cursor in the table of contents, choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;, and then select &lt;f1&gt;Enable&lt;/f1&gt; in the &lt;f2&gt;Cursor in protected areas&lt;/f2&gt; section.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T215914Z" creationid="standa" creationdate="20150209T215914Z">
@@ -30014,6 +30126,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In LibreOffice Help: goes up one level.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062318Z" creationid="install" creationdate="20151012T062254Z">
+        <seg>V nápovědě LibreOffice: přejde se o úroveň výš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In LibreOffice Help: jumps to the first help page of the selected tab.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062130Z" creationid="install" creationdate="20151012T062130Z">
+        <seg>V nápovědě LibreOffice: přejde se na první stranu zvolené karty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In LibreOffice the term &lt;f0&gt;line&lt;/f0&gt; indicates both a freestanding segment (line), outer edge of a shape (border), or an arrow.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140217T164444Z" creationid="standa" creationdate="20140217T164444Z">
@@ -30906,6 +31034,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151009T102702Z" creationid="install" creationdate="20151009T102702Z">
         <seg>V okně Uložit konfiguraci klávesnice v seznamu &lt;f1&gt;Typ souboru&lt;/f1&gt; zvolíme možnost &lt;f0&gt;Všechny soubory&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Save and Open dialogs, deletes the selected files or folders.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062818Z" creationid="install" creationdate="20151012T062818Z">
+        <seg>V dialogových oknech Uložit a Otevřít se odstraní vybrané soubory a složky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Save and Open dialogs, shows contents of the current directory's parent folder.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062946Z" creationid="install" creationdate="20151012T062946Z">
+        <seg>V dialogových oknech Uložit a Otevřít se zobrazí obsah nadřazené (rodičovské) složky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32662,6 +32806,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Items are permanently deleted: they can not be retrieved from the Recycle Bin.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062850Z" creationid="install" creationdate="20151012T062850Z">
+        <seg>Položky jsou nenávratně odstraněny, nelze je nalézt ve složce Koš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Items can be retrieved from the Recycle Bin (Trash).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062835Z" creationid="install" creationdate="20151012T062835Z">
+        <seg>Odstraněné položky lze nalézt ve složce Koš.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its Length is less than &lt;f1&gt;INTEGER&lt;/f1&gt; and larger than &lt;f2&gt;SMALLINT&lt;/f2&gt; which Base uses.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T080617Z" creationid="install" creationdate="20150716T080617Z">
@@ -32986,6 +33146,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T183819Z" creationid="standa" creationdate="20150326T183819Z">
         <seg>Později může autor nebo jiná osoba udělat revizi a přijmout nebo zamítnout každou změnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launches the Open dialog to open a document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062440Z" creationid="install" creationdate="20151012T062440Z">
+        <seg>Otevře se dialogové okno Otevřít dokument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34162,6 +34330,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T214545Z" creationid="standa" creationdate="20150702T214545Z">
         <seg>Změny textu snímků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Managing documents</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062300Z" creationid="install" creationdate="20151012T062300Z">
+        <seg>Správa dokumentů</seg>
       </tuv>
     </tu>
     <tu>
@@ -37734,6 +37910,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the LibreOffice Help dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062110Z" creationid="install" creationdate="20151012T062110Z">
+        <seg>Otevře se dialogové okno nápovědy programu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the Navigator</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140103T220937Z" creationid="standa" creationdate="20140103T220937Z">
@@ -37742,10 +37926,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the Print dialog to print the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062701Z" creationid="install" creationdate="20151012T062701Z">
+        <seg>Otevře se dialogové okno Tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens the Styles and Formatting window</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T185700Z" creationid="standa" creationdate="20140116T185700Z">
         <seg>Otevře okno Styly a formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the Templates and Documents dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062611Z" creationid="install" creationdate="20151012T062611Z">
+        <seg>Otevře se dialogové okno Šablony a dokumenty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40754,6 +40954,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150619T052822Z" creationid="install" creationdate="20150618T131020Z">
         <seg>Uložíme sešit do souborového formátu Calc (&lt;f0&gt;*.ods&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Saves the current document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062447Z" creationid="install" creationdate="20151012T062447Z">
+        <seg>Uloží aktuální dokument.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43822,10 +44030,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062526Z" creationid="install" creationdate="20151012T062526Z">
+        <seg>Shift+Ctrl+N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+Q</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T061839Z" creationid="install" creationdate="20151012T061839Z">
         <seg>Shift+Ctrl+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Del</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062838Z" creationid="install" creationdate="20151012T062838Z">
+        <seg>Shift+Del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+F1</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062133Z" creationid="install" creationdate="20151012T062133Z">
+        <seg>Shift+F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+F2</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062232Z" creationid="install" creationdate="20151012T062232Z">
+        <seg>Shift+F2</seg>
       </tuv>
     </tu>
     <tu>
@@ -43966,6 +44206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the tip for an item underneath the cursor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062230Z" creationid="install" creationdate="20151012T062230Z">
+        <seg>Zobrazí se tip pro položku pod kurzorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shows the total number of words and characters in the document or in the selection.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T154918Z" creationid="standa" creationdate="20140501T154918Z">
@@ -43978,6 +44226,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T155555Z" creationid="standa" creationdate="20140501T155527Z">
         <seg>Zobrazuje typ režimu vkládání, ve kterém se program nachází.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows tip for a selected item.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062241Z" creationid="install" creationdate="20151012T062241Z">
+        <seg>Zobrazí se tip pro vybranou položku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56978,6 +57234,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T201358Z" creationid="standa" creationdate="20150122T201358Z">
         <seg>Zapnutí dělení slov ve stylu odstavce Výchozí styl se projeví ve všech odstavcích, které jsou na tomto stylu založeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Turns the cursor into the &lt;f0&gt;What’s This?&lt;/f0&gt; question mark.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T062207Z" creationid="install" creationdate="20151012T062207Z">
+        <seg>Kurzor se přepne do režimu &lt;f0&gt;Co je to?&lt;/f0&gt; se symbolem otazníku.</seg>
       </tuv>
     </tu>
     <tu>
