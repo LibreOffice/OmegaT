@@ -6966,6 +6966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Activates the Point Selection mode for the selected drawing object.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081425Z" creationid="install" creationdate="20151012T081425Z">
+        <seg>Aktivuje režim Výběr bodů pro vybraný objekt kresby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activating Quickstarter</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T201855Z" creationid="standa" creationdate="20140417T201752Z">
@@ -7794,6 +7802,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T061720Z" creationid="install" creationdate="20151012T061720Z">
         <seg>Alt+šipka dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt+Up/Down/Left/Right Arrow</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081133Z" creationid="install" creationdate="20151012T081133Z">
+        <seg>Alt+šipka nahoru/dolů/vlevo/vpravo</seg>
       </tuv>
     </tu>
     <tu>
@@ -35654,6 +35670,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the selected point (the snap-to-grid functions are temporarily disabled, but end points still snap to each other).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081105Z" creationid="install" creationdate="20151012T081105Z">
+        <seg>Přesune vybraný bod (funkce pro přichycení k mřížce jsou dočasně vypnuty, ale koncové body se i tak přichytávají k sobě).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move these fields from the &lt;f0&gt;Available fields&lt;/f0&gt; to the &lt;f1&gt;Selected fields&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T072818Z" creationid="install" creationdate="20150716T072818Z">
@@ -35954,6 +35978,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T055753Z" creationid="install" creationdate="20151012T055753Z">
         <seg>Přesune kurzor o řádek nahoru nebo dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the selected Drawing Object one pixel (in Selection Mode).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081152Z" creationid="install" creationdate="20151012T081152Z">
+        <seg>Vybraný objekt se posune o jeden pixel (v režimu výběru objektu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -38182,6 +38214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens the properties dialog for a Drawing Object.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081409Z" creationid="install" creationdate="20151012T081409Z">
+        <seg>Otevře se dialogové okno pro úpravu vlastností objektu kresby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Operators</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150822T045933Z" creationid="lenochod26" creationdate="20150822T045933Z">
@@ -40006,6 +40046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Re-sizes a Drawing Object (in Handle Selection Mode).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081344Z" creationid="install" creationdate="20151012T081344Z">
+        <seg>Změní velikost objektu kresby (v režimu ručního výběru)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reactivating Quickstarter</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T201841Z" creationid="standa" creationdate="20140417T201841Z">
@@ -40994,6 +41042,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150720T125939Z" creationid="install" creationdate="20150720T125939Z">
         <seg>Místnost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rotates a Drawing Object (in Rotation Mode).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081353Z" creationid="install" creationdate="20151012T081353Z">
+        <seg>Grafický objekt se otočí (v režimu rotace).</seg>
       </tuv>
     </tu>
     <tu>
@@ -42658,6 +42714,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150923T084851Z" creationid="install" creationdate="20150923T084851Z">
         <seg>Poté vybereme požadované makro a klikneme na &lt;f0&gt;Spustit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a point of a drawing object (in Point Selection mode) / Cancel selection.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081446Z" creationid="install" creationdate="20151012T081446Z">
+        <seg>Vybere bod objektu kresby (v režimu Výběr bodů) / Zruší výběr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50986,6 +51050,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T130900Z" creationid="install" creationdate="20150707T130900Z">
         <seg>Položky této nabídky závisejí na vybraných buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected point blinks once per second.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T081537Z" creationid="install" creationdate="20151012T081537Z">
+        <seg>Vybraný bod krátce blikne.</seg>
       </tuv>
     </tu>
     <tu>
