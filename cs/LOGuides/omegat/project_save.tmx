@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_1" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -138,6 +138,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150724T081914Z" creationid="install" creationdate="20150724T081914Z">
         <seg>(Údaj &lt;f0&gt;802.11g&lt;/f0&gt; není zapotřebí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(&lt;f0&gt;Ctrl+Alt&lt;/f0&gt;) Moves the current paragraph up or down.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055844Z" creationid="install" creationdate="20151012T055844Z">
+        <seg>(&lt;f0&gt;Ctrl+Alt&lt;/f0&gt;) Aktuální odstavec se přesune nahoru nebo dolů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2906,6 +2914,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T185828Z" creationid="standa" creationdate="20140418T185828Z">
         <seg>&lt;f0&gt; Rozsáhlá&lt;/f0&gt; &lt;i1/&gt; &lt;f2&gt;podpora jazyků&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;F10 &lt;/f0&gt;or&lt;f1&gt; Alt&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054108Z" creationid="install" creationdate="20151012T054108Z">
+        <seg>&lt;f0&gt;F10 &lt;/f0&gt;nebo&lt;f1&gt; Alt&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6078,6 +6094,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A draw object will be placed into the middle of the view, with a predefined size.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055037Z" creationid="install" creationdate="20151012T055037Z">
+        <seg>Objekt kresby se vloží do středu pohledu v přednastavené velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A drop-down list appears listing any cell in the same column that either has at least one text character or whose format is defined as text.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T164132Z" creationid="install" creationdate="20150701T125928Z">
@@ -6890,6 +6914,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141011T201104Z" creationid="standa" creationdate="20141011T200900Z">
         <seg>Podpora zpřístupnění využívá běhové prostředí jazyka Java, které umožňuje komunikaci s asistenčními nástroji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Accessing a menu command</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054147Z" creationid="install" creationdate="20151012T054147Z">
+        <seg>Přístup k příkazům hlavní nabídky</seg>
       </tuv>
     </tu>
     <tu>
@@ -8074,6 +8106,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T140109Z" creationid="standa" creationdate="20140501T140056Z">
         <seg>Aktivní nástrojové lišty mají vedle svého názvu symbol zaškrtnutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An additional &lt;f1&gt;down-arrow&lt;/f1&gt; &lt;f2&gt;or&lt;/f2&gt; &lt;f3&gt;up-arrow&lt;/f3&gt; moves the selection through the menu commands.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055413Z" creationid="install" creationdate="20151012T054458Z">
+        <seg>Dalším stisknutím &lt;f1&gt;šipky dolů&lt;/f1&gt; &lt;f2&gt;nebo&lt;/f2&gt; &lt;f3&gt;šipky nahoru&lt;/f3&gt; se výběr položky přesune mezi příkazy nabídky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15526,6 +15566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+F6</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054015Z" creationid="install" creationdate="20151012T054015Z">
+        <seg>Ctrl+F6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl-click required to follow hyperlinks</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141008T201308Z" creationid="standa" creationdate="20141008T201308Z">
@@ -18570,6 +18618,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150630T113337Z" creationid="install" creationdate="20150630T113337Z">
         <seg>Výjimky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Executing a toolbar command</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054640Z" creationid="install" creationdate="20151012T054640Z">
+        <seg>Provedení příkazu nástrojové lišty</seg>
       </tuv>
     </tu>
     <tu>
@@ -26110,6 +26166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055848Z" creationid="install" creationdate="20151012T055848Z">
+        <seg>Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Horizontal lines.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T175920Z" creationid="standa" creationdate="20150122T175920Z">
@@ -27758,6 +27822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the &lt;f1&gt;Enter&lt;/f1&gt; key is not sufficient: in these cases press &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054941Z" creationid="install" creationdate="20151012T054941Z">
+        <seg>Pokud vybraná ikona požaduje následné použití myši, například nakreslení čtverce nebo výběr objektu, potom stisk klávesy &lt;f1&gt;Enter&lt;/f1&gt; nepostačuje a je třeba stisknout &lt;f2&gt;Ctrl+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the selected object is text, the Line and Filling toolbar changes to the &lt;f0&gt;Text Formatting&lt;/f0&gt; toolbar, which is similar to the Formatting toolbar in Writer.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T153513Z" creationid="standa" creationdate="20140125T153513Z">
@@ -29170,6 +29242,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140131T194848Z" creationid="standa" creationdate="20140131T194848Z">
         <seg>Chceme-li text upravit, poklepeme na něj, tím se otevře nástrojová lišta Formátování textu a upravovaný text se zvýrazní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to edit, size, or move the selected draw object, first use &lt;f1&gt;Ctrl+F6&lt;/f1&gt; to move the focus into the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055302Z" creationid="install" creationdate="20151012T055302Z">
+        <seg>Pokud vybraný objekt chceme upravit nebo přesunout, musíme nejdříve stisknutím &lt;f1&gt;Ctrl+F6&lt;/f1&gt; aktivovat oblast dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32686,6 +32766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055608Z" creationid="install" creationdate="20151012T055608Z">
+        <seg>Klávesa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150720T204826Z" creationid="lenochod26" creationdate="20150720T204826Z">
@@ -35254,6 +35342,46 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves the cursor one character to the left or to the right.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055723Z" creationid="install" creationdate="20151012T055723Z">
+        <seg>Přesune kurzor o jeden znak vlevo nebo vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor one word to the left or to the right.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055734Z" creationid="install" creationdate="20151012T055734Z">
+        <seg>Přesune kurzor o jedno slovo vlevo nebo vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the beginning of the current line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055857Z" creationid="install" creationdate="20151012T055857Z">
+        <seg>Přesune kurzor na začátek aktuálního řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor to the beginning of the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055910Z" creationid="install" creationdate="20151012T055910Z">
+        <seg>Přesune kurzor na začátek dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves the cursor up or down one line.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055753Z" creationid="install" creationdate="20151012T055753Z">
+        <seg>Přesune kurzor o řádek nahoru nebo dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving a slide using Slide Sorter</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150803T195921Z" creationid="standa" creationdate="20150803T195921Z">
@@ -35490,6 +35618,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140112T205043Z" creationid="standa" creationdate="20140112T205043Z">
         <seg>Přejdeme na šablonu, kterou chceme upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigating and selecting with the keyboard</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055311Z" creationid="install" creationdate="20151012T055311Z">
+        <seg>Navigace a výběr pomocí klávesnice</seg>
       </tuv>
     </tu>
     <tu>
@@ -38166,6 +38302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Plus Ctrl key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055622Z" creationid="install" creationdate="20151012T055622Z">
+        <seg>S klávesou Ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Point to &lt;f0&gt;Reset Default Template&lt;/f0&gt; on the drop-down menu, and click &lt;f1&gt;Text Document&lt;/f1&gt; (or other template type).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140113T202833Z" creationid="standa" creationdate="20140113T202833Z">
@@ -38310,6 +38454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Alt&lt;/f0&gt; or &lt;f1&gt;F6&lt;/f1&gt; or &lt;f2&gt;F10&lt;/f2&gt; to select the first item on the menu bar (the &lt;f3&gt;File&lt;/f3&gt; menu).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054254Z" creationid="install" creationdate="20151012T054254Z">
+        <seg>Pokud stiskneme &lt;f0&gt;Alt&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt; nebo &lt;f2&gt;F10&lt;/f2&gt;, otevřeme první položku v hlavní nabídce (podnabídku &lt;f3&gt;Soubor&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;Backspace&lt;/f0&gt; twice to remove the tab and the space.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T053248Z" creationid="install" creationdate="20150929T123939Z">
@@ -38330,6 +38482,22 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151002T054217Z" creationid="install" creationdate="20151002T054217Z">
         <seg>Stlačíme &lt;f0&gt;Ctrl+C&lt;/f0&gt;, čím skopírujeme text do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; on an icon for creating a draw object.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055026Z" creationid="install" creationdate="20151012T055026Z">
+        <seg>Kombinaci &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; stiskneme na ikoně nástroje pro vytváření grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; on the Selection tool to select the first draw object in the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055231Z" creationid="install" creationdate="20151012T055231Z">
+        <seg>Kombinaci &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; stliskneme na ikoně nástroje pro výběr objektů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38390,6 +38558,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to execute the selected icon.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054854Z" creationid="install" creationdate="20151012T054854Z">
+        <seg>Stisknutím &lt;f0&gt;Enter&lt;/f0&gt; se vybraný příkaz přiřazený ikoně vykoná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt; to execute the selected menu command.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054551Z" creationid="install" creationdate="20151012T054551Z">
+        <seg>Stisknutím &lt;f0&gt;Enter&lt;/f0&gt; se vybraný příkaz provede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;Esc&lt;/f0&gt; to exit from this mode.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T202926Z" creationid="standa" creationdate="20141226T202926Z">
@@ -38410,6 +38594,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T071411Z" creationid="install" creationdate="20150821T071411Z">
         <seg>Stiskneme klávesu &lt;f0&gt;F11&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;F6&lt;/f0&gt; repeatedly until the first icon on the toolbar is selected.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054729Z" creationid="install" creationdate="20151012T054729Z">
+        <seg>Opakovaně stiskneme &lt;f0&gt;F6&lt;/f0&gt;, dokud se neaktivuje požadovaný panel nástrojů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39616,8 +39808,8 @@
       <tuv lang="EN">
         <seg>Repeatedly pressing &lt;f0&gt;F6&lt;/f0&gt; switches the focus and circles through the following objects:</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151009T132742Z" creationid="install" creationdate="20151009T132742Z">
-        <seg>Opakované stisknutí &lt;f0&gt;F6&lt;/f0&gt; opakovaně aktivuje následující objekty:</seg>
+      <tuv lang="CS" changeid="install" changedate="20151012T054005Z" creationid="install" creationdate="20151009T132742Z">
+        <seg>Opakované stisknutí &lt;f0&gt;F6&lt;/f0&gt; opětovně aktivuje následující objekty:</seg>
       </tuv>
     </tu>
     <tu>
@@ -39842,6 +40034,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T081804Z" creationid="install" creationdate="20150721T081804Z">
         <seg>Klikneme pravým tlačítkem myši na šedé pole a z místní nabídky zvolíme &lt;f0&gt;Smazat řádky&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right, left arrow keys</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055630Z" creationid="install" creationdate="20151012T055630Z">
+        <seg>Šipka vlevo, vpravo</seg>
       </tuv>
     </tu>
     <tu>
@@ -43574,6 +43774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Similarly, use the up and down arrows to select an icon on a vertical toolbar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054829Z" creationid="install" creationdate="20151012T054829Z">
+        <seg>Podobně, na svislé liště použijeme na výběr ikony šipku nahoru nebo dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since the data that concerns us is contained in a query, we will use that.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150726T064930Z" creationid="lenochod26" creationdate="20150726T064831Z">
@@ -45166,6 +45374,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Switches the focus to the document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054037Z" creationid="install" creationdate="20151012T054037Z">
+        <seg>Aktivuje se dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switches through objects in the opposite direction.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054012Z" creationid="install" creationdate="20151012T054012Z">
+        <seg>Objekty se aktivují v opačném pořadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switches to the Menu bar and back.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054130Z" creationid="install" creationdate="20151012T054130Z">
+        <seg>Přepíná do hlavní nabídky a zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Symbol Shapes</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T170755Z" creationid="standa" creationdate="20140317T170755Z">
@@ -45846,6 +46078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;down-arrow&lt;/f0&gt; opens a selected menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054417Z" creationid="install" creationdate="20151012T054417Z">
+        <seg>Klávesou &lt;f0&gt;šipka dolů&lt;/f0&gt; otevřeme vybranou podnabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;drop-down list at the top of the Dock &lt;/f0&gt;shows symbol categories.</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150815T060603Z" creationid="lenochod26" creationdate="20150815T060603Z">
@@ -45906,6 +46146,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T082502Z" creationid="install" creationdate="20150716T082502Z">
         <seg>Vlastnost &lt;f1&gt;Typ pole&lt;/f1&gt; určuje hlavní charakteristiku pole, tedy zda půjde o textové, číselné, datumové, časové, časový údaj, logické pole (například ano / ne, pravda / nepravda, muž / žena), nebo o velmi velké pole obsahující obrázky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f1&gt;Home&lt;/f1&gt; key selects the first icon on a toolbar and the &lt;f2&gt;End&lt;/f2&gt; key, the last.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054841Z" creationid="install" creationdate="20151012T054841Z">
+        <seg>Klávesa &lt;f1&gt;Home&lt;/f1&gt; aktivuje první ikonu panelu, zatímco klávesu &lt;f2&gt;End&lt;/f2&gt; vybere poslední.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45974,10 +46222,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f4&gt;right-arrow&lt;/f4&gt; opens any existing submenus.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054542Z" creationid="install" creationdate="20151012T054542Z">
+        <seg>&lt;f4&gt;Šipka vpravo&lt;/f4&gt; otevře existující podnabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f5&gt;Cell Appearance&lt;/f5&gt; panel of the &lt;f6&gt;Properties&lt;/f6&gt; deck in the Sidebar contains a &lt;f7&gt;Cell background&lt;/f7&gt; control with a color palette.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T043702Z" creationid="install" creationdate="20150707T043702Z">
         <seg>Panel &lt;f5&gt;Vzhled buňky&lt;/f5&gt; v kartě &lt;f6&gt;Vlastnosti&lt;/f6&gt; postranní lišty obsahuje &lt;f7&gt;Pozadí buňky&lt;/f7&gt; s paletou barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f6&gt;Home&lt;/f6&gt; and &lt;f7&gt;End&lt;/f7&gt; keys select the first and the last item on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054403Z" creationid="install" creationdate="20151012T054403Z">
+        <seg>Pomocí kláves &lt;f6&gt;Home&lt;/f6&gt; a &lt;f7&gt;End&lt;/f7&gt; přejdeme na první a poslední položku v hlavní nabídce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55174,6 +55438,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To move the cursor, press the key or key combination given in the following table.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055532Z" creationid="install" creationdate="20151012T055532Z">
+        <seg>Pro přesun kurzoru stiskněte klávesu nebo kombinaci kláves podle následující tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move the focus to another cell using the mouse, simply move the mouse pointer to the cell where you want the focus to be and click the left mouse button.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T193005Z" creationid="install" creationdate="20150619T111744Z">
@@ -55778,6 +56050,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140210T201102Z" creationid="standa" creationdate="20140210T201102Z">
         <seg>Chceme-li vybrat nebo zrušit výběr u více objektů, podržíme při klepnutí klávesu Shift.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To select the characters under the moving cursor, additionally hold down the &lt;f0&gt;Shift&lt;/f0&gt; key when you move the cursor.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055539Z" creationid="install" creationdate="20151012T055539Z">
+        <seg>Pokud chceme znaky pod kurzorem vybrat, během jeho posunu přidržíme i klávesu &lt;f0&gt;Shift&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56990,6 +57270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Up, down arrow keys</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055741Z" creationid="install" creationdate="20151012T055741Z">
+        <seg>Šipka nahoru, dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Update a style from a selection</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T202250Z" creationid="standa" creationdate="20140406T202250Z">
@@ -57554,6 +57842,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T075452Z" creationid="install" creationdate="20150716T075452Z">
         <seg>K přidání pole se používá plus a k odstranění mínus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the right and left arrows to select an icon on a horizontal toolbar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054810Z" creationid="install" creationdate="20151012T054810Z">
+        <seg>Na vodorovné liště použijeme pro výběr ikony šipku doprava nebo doleva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60672,6 +60968,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the &lt;f4&gt;right‑arrow&lt;/f4&gt;, the next menu to the right is selected; with the &lt;f5&gt;left-arrow&lt;/f5&gt;, the previous menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054343Z" creationid="install" creationdate="20151012T054343Z">
+        <seg>Pokud stiskneme &lt;f4&gt;šipku vpravo&lt;/f4&gt;, přejdeme na následující podnabídku, pokud stiskneme &lt;f5&gt;šipku vlevo&lt;/f5&gt;, přejdeme na předchozí podnabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the cell selected, right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt; to open the &lt;f3&gt;Format Cells&lt;/f3&gt; dialog (&lt;t4&gt;Figure 21&lt;/t4&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T201811Z" creationid="install" creationdate="20150629T125010Z">
@@ -62764,6 +63068,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20151007T192440Z" creationid="standa" creationdate="20151007T192440Z">
         <seg>Textová pole můžeme přesouvat, mazat a měnit jejich velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can navigate through a document and make selections with the keyboard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T055438Z" creationid="install" creationdate="20151012T055438Z">
+        <seg>Procházet dokument a provádět výběr je možné i pomocí klávesnice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67620,6 +67932,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140317T193329Z" creationid="standa" creationdate="20140317T193329Z">
         <seg>nástrojová lišta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolbar command</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151012T054610Z" creationid="install" creationdate="20151012T054610Z">
+        <seg>příkazy nástrojové lišty</seg>
       </tuv>
     </tu>
     <tu>
