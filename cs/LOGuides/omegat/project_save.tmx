@@ -6838,6 +6838,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A short history of LibreOffice</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151013T123017Z" creationid="install" creationdate="20151013T123017Z">
+        <seg>Krátká historie LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple example, however, demonstrates how this works.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T111311Z" creationid="install" creationdate="20151006T111311Z">
@@ -18008,8 +18016,8 @@
       <tuv lang="EN">
         <seg>Draw can only save in the OpenDocument Drawing formats (.odg, .otg, &lt;f0&gt;and .fodg&lt;/f0&gt;), the OpenOffice.org 1.x formats (.sxd and .std) and StarDraw format (.sda, .sdd, and .vor).</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151013T121600Z" creationid="install" creationdate="20151013T121600Z">
-        <seg>LibreOffice Draw dokáže ukládat pouze ve formátech OpenDocument Drawing (.odg a .otg), ve formátech OpenOffice 1.x (.sxd a .std) a ve formátu StarDraw (.sda, .sdd a .vor).</seg>
+      <tuv lang="CS" changeid="install" changedate="20151013T122554Z" creationid="install" creationdate="20151013T121600Z">
+        <seg>LibreOffice Draw dokáže ukládat pouze ve formátech OpenDocument Drawing (.odg &lt;f0&gt;a .otg&lt;/f0&gt;), ve formátech OpenOffice 1.x (.sxd a .std) a ve formátu StarDraw (.sda, .sdd a .vor).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31256,8 +31264,8 @@
       <tuv lang="EN">
         <seg>In addition to OpenDocument formats (.odt, .ott, .oth, .odm, and .fodt), Writer can &lt;i0/&gt;open the formats used by OpenOffice.org 1.x (.sxw, .stw, and .sxg), the following text document formats, &lt;f1&gt;and a variety of legacy formats not listed below&lt;/f1&gt;:</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151013T055520Z" creationid="install" creationdate="20151013T055520Z">
-        <seg>Kromě formátů OpenDocument (.odt, .ott, .oth, .odm a .fodt), &lt;i0/&gt;dokáže LibreOffice Writer&lt;i0/&gt; otevírat formáty používané balíkem OpenOffice.org 1.x (.sxw, .stw a .sxg), formáty textových dokumentů uvedeny v následujícím seznamu, ale i další, častokrát již nepoužívané formáty:</seg>
+      <tuv lang="CS" changeid="install" changedate="20151013T122411Z" creationid="install" creationdate="20151013T055520Z">
+        <seg>Kromě formátů OpenDocument (.odt, .ott, .oth, .odm a .fodt), dokáže LibreOffice Writer &lt;i0/&gt;otevírat formáty používané balíkem OpenOffice.org 1.x (.sxw, .stw a .sxg), &lt;f1&gt;formáty textových dokumentů uvedeny v následujícím seznamu, ale i další, častokrát již nepoužívané formáty&lt;/f1&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -33616,8 +33624,8 @@
       <tuv lang="EN">
         <seg>It is strongly recommended that you use &lt;f1&gt;OpenDocument&lt;/f1&gt; as the default file formats.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151013T115404Z" creationid="install" creationdate="20151013T115404Z">
-        <seg>Proto se velmi doporučuje používat ODF jako výchozí formát souborů.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151013T122458Z" creationid="install" creationdate="20151013T115404Z">
+        <seg>Proto se velmi doporučuje používat &lt;f1&gt;ODF&lt;/f1&gt; jako výchozí formát souborů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34360,16 +34368,16 @@
       <tuv lang="EN">
         <seg>LibreOffice can also open and save many other file formats; see “&lt;bf2&gt;File formats LibreOffice can open&lt;/bf2&gt;” on this page, “&lt;bf3&gt;File formats LibreOffice can save to&lt;/bf3&gt;” on page &lt;bf4&gt;8&lt;/bf4&gt;, and “&lt;bf5&gt;Exporting to other formats&lt;/bf5&gt;” on page &lt;bf6&gt;10&lt;/bf6&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151013T055003Z" creationid="install" creationdate="20151013T054816Z">
-        <seg>V LibreOffice je možné otevírat a ukládat do mnoha jiných formátů; více informací se nachází v části “&lt;bf2&gt;Formáty souborů, které LibreOffice dokáže otevírat&lt;/bf2&gt;” na této stránce, “&lt;bf3&gt;File formats LibreOffice can save to&lt;/bf3&gt;” na stránce &lt;bf4&gt;8&lt;/bf4&gt;, a “&lt;bf5&gt;Exporting to other formats&lt;/bf5&gt;” na stránce &lt;bf6&gt;10&lt;/bf6&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151013T122951Z" creationid="install" creationdate="20151013T054816Z">
+        <seg>V LibreOffice je možné otevírat a ukládat do mnoha jiných formátů; více informací se nachází v části “&lt;bf2&gt;Formáty souborů, které LibreOffice dokáže otevírat&lt;/bf2&gt;” na této stránce, “&lt;bf3&gt;Formáty souborů, které LibreOffice dokáže zapisovat&lt;/bf3&gt;” na stránce &lt;bf4&gt;8&lt;/bf4&gt;, a “&lt;bf5&gt;Export do jiných formátů&lt;/bf5&gt;” na stránce &lt;bf6&gt;10&lt;/bf6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LibreOffice can export files to &lt;f0&gt;HTML and &lt;/f0&gt;XHTML.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151013T121816Z" creationid="install" creationdate="20151013T121816Z">
-        <seg>LibreOffice dokáže exportovat soubory do formátů HTML a XHTML.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151013T122633Z" creationid="install" creationdate="20151013T121816Z">
+        <seg>LibreOffice dokáže exportovat soubory do formátů &lt;f0&gt;HTML a&lt;/f0&gt; XHTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34392,8 +34400,8 @@
       <tuv lang="EN">
         <seg>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF), if an ODF file is embedded in the PDF (see &lt;f0&gt;Chapter 10 &lt;/f0&gt;&lt;f1&gt;Printing, Exporting, and Emailing&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;for more information).</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151013T122145Z" creationid="install" creationdate="20151013T055233Z">
-        <seg>LibreOffice dokáže otevřít kromě formátů OpenDocument i velké množství dalších formátů, včetně formátu Portable Document Format (PDF), pokud je do formátu PDF začleněn soubor ODF (více informací se nachází v &lt;f0&gt;kapitole 10&lt;/f0&gt;, &lt;f1&gt;Tisk, exportování a odesílání&lt;/f1&gt;).</seg>
+      <tuv lang="CS" changeid="install" changedate="20151013T122239Z" creationid="install" creationdate="20151013T055233Z">
+        <seg>LibreOffice dokáže otevřít kromě formátů OpenDocument i velké množství dalších formátů, včetně formátu Portable Document Format (PDF), pokud je do formátu PDF začleněn soubor ODF (více informací se nachází v &lt;f0&gt;kapitole 10&lt;/f0&gt;, &lt;f1&gt;Tisk, exportování a odesílání&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -39334,6 +39342,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening formula files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151013T123137Z" creationid="install" creationdate="20151013T123137Z">
+        <seg>Otevírání souborů se vzorci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening graphic files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151013T123122Z" creationid="install" creationdate="20151013T123122Z">
+        <seg>Otevírání grafických souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening menus</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151009T131923Z" creationid="install" creationdate="20151009T131923Z">
@@ -39346,6 +39370,30 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151009T131918Z" creationid="install" creationdate="20151009T131918Z">
         <seg>Otevírání nabídky a položek nabídky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening presentations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151013T123119Z" creationid="install" creationdate="20151013T123119Z">
+        <seg>Otevírání prezentací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening spreadsheets</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151013T123050Z" creationid="install" creationdate="20151013T123050Z">
+        <seg>Otevírání tabulkových sešitů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opening text documents</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151013T123036Z" creationid="install" creationdate="20151013T123036Z">
+        <seg>Otevírání textových dokumentů</seg>
       </tuv>
     </tu>
     <tu>
@@ -40506,6 +40554,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T065907Z" creationid="install" creationdate="20150716T065907Z">
         <seg>Praktické cvičení: Vytvoření tabulky Inventář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151013T124627Z" creationid="install" creationdate="20151013T124627Z">
+        <seg>Úvod</seg>
       </tuv>
     </tu>
     <tu>
@@ -42872,8 +42928,8 @@
       <tuv lang="EN">
         <seg>Saving in an &lt;f0&gt;OpenDocument&lt;/f0&gt; format guarantees the correct rendering of the file when it is transferred to another person or when the file is re-opened with a later version of LibreOffice or with another program.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151013T115354Z" creationid="install" creationdate="20151013T115354Z">
-        <seg>Uložení ve formátu OpenDocument zaručuje správné zobrazení souboru po přenosu jiné osobě nebo při opětovném otevření pozdější verzí LibreOffice nebo jiným programem.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151013T122433Z" creationid="install" creationdate="20151013T115354Z">
+        <seg>Uložení ve formátu &lt;f0&gt;OpenDocument&lt;/f0&gt; zaručuje správné zobrazení souboru po přenosu jiné osobě nebo při opětovném otevření pozdější verzí LibreOffice nebo jiným programem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43064,8 +43120,8 @@
       <tuv lang="EN">
         <seg>See &lt;f0&gt;Chapter 10 Printing, Exporting, and E-Mailing&lt;/f0&gt; in this &lt;f1&gt;guide&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20151013T115813Z" creationid="install" creationdate="20151013T115813Z">
-        <seg>Více informací se nachází v této příručce, v &lt;f0&gt;kapitole 10 Tisk, exportování a e-mailování&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20151013T122527Z" creationid="install" creationdate="20151013T115813Z">
+        <seg>Více informací se nachází v této &lt;f1&gt;příručce&lt;/f1&gt;, v &lt;f0&gt;kapitole 10 Tisk, exportování a e-mailování&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55058,6 +55114,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T101210Z" creationid="install" creationdate="20151012T101210Z">
         <seg>Tento dokuemtn je duševním vlastnictvím skupiny LibreOffice Documentation Team &lt;f0&gt;©&lt;/f0&gt; 2010–201&lt;f1&gt;4&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This document is Copyright &lt;f0&gt;©&lt;/f0&gt; &lt;f1&gt;2012–2014&lt;/f1&gt; by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20151013T124640Z" creationid="install" creationdate="20151013T124640Z">
+        <seg>Tento dokument je duševním vlastnictvím dokumentačního týmu LibreOffice Copyright © 2012 - 2014.</seg>
       </tuv>
     </tu>
     <tu>
