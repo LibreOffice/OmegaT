@@ -7150,6 +7150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A slide master has a defined set of characteristics, including background colors, graphics, gradients; and other objects (such as logos, decorative lines and so on), headers and footers, placement and size of text frames, and text format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T200651Z" creationid="standa" creationdate="20151024T200651Z">
+        <seg>Předloha snímku určuje sadu vlastností včetně barvy pozadí, grafických prvků, přechodů a dalších objektů (například loga, dekorativní čáry a podobně), záhlaví a zápatí, polohy a velikosti rámců a formátu textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A slide master is a slide that is used as the starting point for other slides.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20151024T195528Z" creationid="standa" creationdate="20151024T195528Z">
@@ -8206,6 +8214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All of the characteristics of slide masters are controlled by styles.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T200719Z" creationid="standa" creationdate="20151024T200719Z">
+        <seg>Všechny charakteristiky předlohy snímku můžeme nastavit pomocí stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of these methods open the &lt;f6&gt;Line&lt;/f6&gt; dialog (&lt;f7&gt;&lt;t8&gt;Figure 14&lt;/t8&gt;&lt;/f7&gt; on page &lt;f9&gt;&lt;f10&gt;&lt;t11&gt;11&lt;/t11&gt;&lt;/f10&gt;&lt;/f9&gt;), where you can set line properties.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140217T165305Z" creationid="standa" creationdate="20140217T165305Z">
@@ -8650,6 +8666,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T111041Z" creationid="install" creationdate="20151006T111041Z">
         <seg>Rozšíření můžeme najít na více místech v internetu. Specializované úložiště se nachází na adrese &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt; a také na &lt;a1&gt;http://libreplanet.org/wiki/Group:OpenOfficeExtensions/List&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although it is highly recommended to use the slide masters whenever possible, there are occasions where manual changes are needed for a particular slide, for example to enlarge the chart area when the text and chart layout is used.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T201150Z" creationid="standa" creationdate="20151024T201150Z">
+        <seg>Ačkoliv je vhodné používat předlohy snímku co nejvíce, u určitých snímku se neobejdeme bez ručních úprav. Příkladem může být rozvržení s textem a grafem, v němž potřebujeme zvětšit plochu grafu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11682,6 +11706,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T131405Z" creationid="install" creationdate="20150817T131405Z">
         <seg>Úprava vzorců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing a style in a slide master results in changes to all slides based on that slide master, but you can modify individual slides without affecting the slide master.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T200955Z" creationid="standa" creationdate="20151024T200955Z">
+        <seg>Změna stylu v předloze proto způsobí odpovídající změnu ve všech snímcích, které z ní byly vytvořeny. Jednotlivé snímky však můžeme upravovat, aniž bychom ovlivnili předlohu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35742,6 +35774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice uses three terms for a slide that is used to create other slides: &lt;f0&gt;master slide&lt;/f0&gt;, &lt;f1&gt;slide master&lt;/f1&gt;, and &lt;f2&gt;master page&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T200655Z" creationid="standa" creationdate="20151024T200406Z">
+        <seg>LibreOffice používá pro označení snímku, který se používá při vytváření dalších snímků, dva termíny: &lt;f0&gt;předloha snímku&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; a &lt;f2&gt;předloha stránky&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice will always correctly interpret dates entered in ISO 8601 format as Y-M-D and YYYY-MM-DD.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141018T185947Z" creationid="standa" creationdate="20141018T185947Z">
@@ -38626,6 +38666,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150909T204133Z" creationid="standa" creationdate="20150909T204133Z">
         <seg>Nový snímek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New slides that you create using a slide master have styles that are inherited from the slide master from which was used.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T200924Z" creationid="standa" creationdate="20151024T200924Z">
+        <seg>Nové snímky, které vytvoříme pomocí předlohy snímku, zdědí styly z použité předlohy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47998,6 +48046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slide masters have two types of styles associated with them: &lt;f0&gt;presentation styles&lt;/f0&gt; and &lt;f1&gt;image styles&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T201244Z" creationid="standa" creationdate="20151024T201244Z">
+        <seg>K předlohám snímku jsou přiřazeny dva typy stylů: &lt;f0&gt;styly prezentace&lt;/f0&gt; a &lt;f1&gt;grafické styly&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slide names are also not included.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T214340Z" creationid="standa" creationdate="20150702T214340Z">
@@ -49386,6 +49442,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T202318Z" creationid="standa" creationdate="20140406T202318Z">
         <seg>dialogové okno Styl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T200658Z" creationid="standa" creationdate="20151024T200658Z">
+        <seg>Styly</seg>
       </tuv>
     </tu>
     <tu>
@@ -54182,6 +54246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The prepackaged presentation styles can be modified, but new presentation styles cannot be created.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T201259Z" creationid="standa" creationdate="20151024T201259Z">
+        <seg>Styly prezentace, které jsou součástí programu Impress, můžeme měnit, nemůžeme však vytvářet nové styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The present record no longer exist in the form, and the corresponding row of the underlying table also ceases to exist.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T125543Z" creationid="install" creationdate="20150723T125543Z">
@@ -56290,6 +56362,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151014T114859Z" creationid="install" creationdate="20151014T103019Z">
         <seg>Tato kniha byla &lt;f0&gt;napsána&lt;/f0&gt; na základě knihy &lt;f1&gt;Začínáme s LibreOffice 3.3&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This book uses the &lt;i3/&gt;term &lt;f4&gt;slide master,&lt;/f4&gt; except when describing the user interface.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151024T200459Z" creationid="standa" creationdate="20151024T200459Z">
+        <seg>V této příručce se používá pouze &lt;i3/&gt;termín &lt;f4&gt;předloha snímku&lt;/f4&gt; s výjimkou popisu uživatelského rozhraní.</seg>
       </tuv>
     </tu>
     <tu>
