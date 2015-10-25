@@ -14102,6 +14102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the Master Pages icon &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt; in the Sidebar to open the Master Pages section (&lt;t3&gt;Figure 26&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151025T200128Z" creationid="standa" creationdate="20151025T200128Z">
+        <seg>Klepnutím na ikonu Předloha stránky &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt; na postranní liště otevřeme kartu Předloha stránky (obrázek &lt;t3&gt;26&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the Navigator icon &lt;f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;/f0&gt;, or go to &lt;f3&gt;View &gt; Navigator&lt;/f3&gt; on the main menu bar, or press the &lt;f4&gt;F5&lt;/f4&gt; key to open the Navigator dialog.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141023T194810Z" creationid="standa" creationdate="20141023T194810Z">
@@ -32966,6 +32974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Master Pages section on the Sidebar, right-click on the slide master you want to apply to the selected slides, and select &lt;f0&gt;Apply to Selected Slides&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151025T200512Z" creationid="standa" creationdate="20151025T200512Z">
+        <seg>Na kartě Předloha stránky na postranní liště klepneme pravým tlačítkem na požadovanou předlohu a v místní nabídce zvolíme &lt;f0&gt;Aplikovat na vybrané snímky&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Navigator list, select the item that you want to insert as a hyperlink.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140227T202836Z" creationid="standa" creationdate="20140227T202836Z">
@@ -33082,6 +33098,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T062946Z" creationid="install" creationdate="20151012T062946Z">
         <seg>V dialogových oknech Uložit a Otevřít se zobrazí obsah nadřazené (rodičovské) složky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Slide Pane, select the slide or slides where you want to use a new slide master.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151025T200401Z" creationid="standa" creationdate="20151025T200401Z">
+        <seg>V panelu snímků vybereme snímek nebo snímky, pro které chceme novou předlohu použít.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36290,6 +36314,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151009T102824Z" creationid="install" creationdate="20151009T102824Z">
         <seg>Načtení uložené konfigurace klávesnice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Loading additional slide masters</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151025T200519Z" creationid="standa" creationdate="20151025T200519Z">
+        <seg>Načítání dalších předloh snímku</seg>
       </tuv>
     </tu>
     <tu>
@@ -58686,10 +58718,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To apply a different slide master to one or more selected slides:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151025T200345Z" creationid="standa" creationdate="20151025T200345Z">
+        <seg>Pokud chceme pro jeden či více snímků použít jinou předlohu než pro ostatní:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To apply a paragraph, page, or frame style, hover the mouse over the paragraph, page, or frame and click.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140106T212028Z" creationid="standa" creationdate="20140106T212028Z">
         <seg>Pokud chceme použít styl odstavce, stránky nebo rámce, nastavíme kurzor na daný prvek a klepneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply a slide master to all the slides in your presentation:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151025T195953Z" creationid="standa" creationdate="20151025T195953Z">
+        <seg>Chceme-li některou předlohu snímku použít pro všechny snímky v prezentaci:</seg>
       </tuv>
     </tu>
     <tu>
@@ -58722,6 +58770,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T200717Z" creationid="standa" creationdate="20140406T200717Z">
         <seg>Chceme-li stávající styl použít, umístíme kurzor do požadovaného odstavce, rámce, stránky nebo slova a poklepeme na název stylu v seznamu stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To apply one of the slide masters to &lt;f0&gt;all slides&lt;/f0&gt; in your presentation, right-click on it from the available selection and select &lt;f1&gt;Apply to All Slides&lt;/f1&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151025T200315Z" creationid="standa" creationdate="20151025T200315Z">
+        <seg>Pokud chceme jednu z předloh použít &lt;f0&gt;na všechny&lt;/f0&gt; snímky v prezentaci, klepneme na ni pravým tlačítkem myši a v místní nabídce zvolíme &lt;f1&gt;Aplikovat na všechny snímky&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
