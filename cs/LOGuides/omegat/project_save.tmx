@@ -13542,6 +13542,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Slide Show &gt; S&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;tart from first S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;lide&lt;/f3&gt; on the &lt;f4&gt;M&lt;/f4&gt;enu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175512Z" creationid="standa" creationdate="20151106T175512Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Prezentace &gt; &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Začít od prvního snímku&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;f0&gt;Stop Recording&lt;/f0&gt; on the small Recording dialog to stop recording &lt;i1/&gt;and the LibreOffice Basic Macros dialog opens (&lt;f2&gt;&lt;t3&gt;Figure 1&lt;/t3&gt;&lt;/f2&gt; on page &lt;f4&gt;&lt;t5&gt;4&lt;/t5&gt;&lt;/f4&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150924T135944Z" creationid="install" creationdate="20150924T135944Z">
@@ -15014,6 +15022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click the &lt;f0&gt;S&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;tart from first S&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;lide&lt;/f3&gt; icon &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt; on the Presentation toolbar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175601Z" creationid="standa" creationdate="20151106T175601Z">
+        <seg>Klepneme na ikonu &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;Začít od prvního snímku&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt; na nástrojové liště Prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f0&gt;Save icon&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the &lt;f3&gt;S&lt;/f3&gt;tandard toolbar.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140503T174821Z" creationid="standa" creationdate="20140503T174821Z">
@@ -15386,6 +15402,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T094501Z" creationid="install" creationdate="20150716T094501Z">
         <seg>Klikneme na tlačítko minus &lt;f0&gt;-&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the mouse to move to the next slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175818Z" creationid="standa" creationdate="20151106T175818Z">
+        <seg>Klepnutím myší přejdeme na následující snímek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22506,6 +22530,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150703T081637Z" creationid="install" creationdate="20150703T081637Z">
         <seg>Obrázek &lt;seq0&gt;34&lt;/seq0&gt;: Velikost a název písma v nástrojové liště Formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Impress Presenter Console</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175955Z" creationid="standa" creationdate="20151106T175955Z">
+        <seg>Obrázek &lt;seq0&gt;34&lt;/seq0&gt;: Obrazovka přednášejícího v programu Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -30274,6 +30306,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140125T153513Z" creationid="standa" creationdate="20140125T153513Z">
         <seg>Jestliže je vybrán text, lišta Čára a výplň se změní na nástrojovou lištu &lt;f0&gt;Formátování textu&lt;/f0&gt;, která se podobá nástrojové liště Formátování v programu Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the slide advance is set to &lt;f0&gt;Automatically after X sec&lt;/f0&gt;, let the slide show run by itself.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175705Z" creationid="standa" creationdate="20151106T175705Z">
+        <seg>Je-li u přechodu mezi snímky nastaveno &lt;f0&gt;Automaticky po X s&lt;/f0&gt;, snímky se budou měnit automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the slide advance is set to &lt;f0&gt;On mouse click&lt;/f0&gt;, do one of the following to move from one slide to the next:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175836Z" creationid="standa" creationdate="20151106T175744Z">
+        <seg>Je-li u přechodu mezi snímky nastaveno &lt;f0&gt;Při kliknutí myší&lt;/f0&gt;, na následující snímek předeme jedním z následujících způsobů:</seg>
       </tuv>
     </tu>
     <tu>
@@ -42918,6 +42966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;F5&lt;/f0&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175610Z" creationid="standa" creationdate="20151106T175610Z">
+        <seg>Stiskneme klávesu &lt;f0&gt;F5&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;F6&lt;/f0&gt; repeatedly until the first icon on the toolbar is selected.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T054729Z" creationid="install" creationdate="20151012T054729Z">
@@ -43058,6 +43114,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T211336Z" creationid="standa" creationdate="20150122T211336Z">
         <seg>Vložíme mezeru, napíšeme slovo „z“, mezeru zopakujeme a zvolíme &lt;f0&gt;Vložit &gt; Pole &gt; Počet stránek&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the spacebar on the keyboard to advance to the next slide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175828Z" creationid="standa" creationdate="20151106T175828Z">
+        <seg>Stisknutím mezerníku přejdeme na následující snímek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44666,6 +44730,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T212301Z" creationid="standa" creationdate="20150209T212301Z">
         <seg>Klepneme kdekoliv na stránce pravým tlačítkem myši a z místní nabídky vybereme &lt;f0&gt;Stránka&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click anywhere on the screen to open a context menu where you can navigate through the slides and set other options.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175937Z" creationid="standa" creationdate="20151106T175831Z">
+        <seg>Pokud na plochu snímku klepneme pravým tlačítkem, otevře se místní nabídka, pomocí které můžeme přejít na libovolný snímek nebo nastavit další možnosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60894,6 +60966,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175839Z" creationid="standa" creationdate="20151106T175839Z">
+        <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To expand a section you want to use, click on its icon or click on the small triangle at the top of the icons and select a section from the drop down list.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T164128Z" creationid="standa" creationdate="20140414T164128Z">
@@ -61994,6 +62074,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T172742Z" creationid="standa" creationdate="20140216T172742Z">
         <seg>Chceme-li otočit objekt (nebo skupinu objektů), vybereme jej a poté přejdeme pomocí některého z následujících způsobů do režimu otáčení:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To run a slide show, do one of the following:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175418Z" creationid="standa" creationdate="20151106T175418Z">
+        <seg>Prezentaci můžeme spustit jedním z následujících způsobů:</seg>
       </tuv>
     </tu>
     <tu>
@@ -64002,6 +64090,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T201011Z" creationid="standa" creationdate="20141022T201011Z">
         <seg>Stránku Proxy (pokud je dostupná) použijeme k uložení nastavení proxy serveru pro LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the arrow keys on the keyboard to go to the next slide or to go back to the previous one.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T175812Z" creationid="standa" creationdate="20151106T175812Z">
+        <seg>Pomocí kláves se šipkami přejdeme na následující nebo předchozí snímek.</seg>
       </tuv>
     </tu>
     <tu>
