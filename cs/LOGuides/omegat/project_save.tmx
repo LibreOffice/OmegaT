@@ -15536,8 +15536,8 @@
       <tuv lang="EN">
         <seg>Click the triangle to the right of the &lt;f0&gt;New&lt;/f0&gt; icon on the &lt;f1&gt;M&lt;/f1&gt;enu bar and select &lt;f2&gt;Presentation&lt;/f2&gt; from the drop-down menu or go to &lt;f3&gt;File &gt; New &gt; Presentation&lt;/f3&gt; on the &lt;f4&gt;M&lt;/f4&gt;enu bar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="GRB" changedate="20150914T092705Z" creationid="standa" creationdate="20150628T175930Z">
-        <seg>V hlavní &lt;f1&gt;n&lt;/f1&gt;ástrojové liště klepneme na trojúhelník vpravo u ikony &lt;f0&gt;Nový&lt;/f0&gt; a v rozbalovacím seznamu zvolíme &lt;f2&gt;Prezentace&lt;/f2&gt;, nebo v hlavní nabídce zvolíme &lt;f3&gt;Soubor &gt; Nový &gt; Prezentace&lt;/f3&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180757Z" creationid="standa" creationdate="20150628T175930Z">
+        <seg>V hlavní nástrojové liště klepneme na trojúhelník vpravo u ikony &lt;f0&gt;Nový&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; a v rozbalovacím seznamu zvolíme &lt;f2&gt;Prezentace&lt;/f2&gt;, nebo v hlavní nabídce zvolíme &lt;f3&gt;Soubor &gt; Nový &gt; Prezentace&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25630,6 +25630,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information and details about using the Presenter Console, see the &lt;f0&gt;Impress Guide Chapter 9 Slide Shows&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180457Z" creationid="standa" creationdate="20151106T180457Z">
+        <seg>Více informací o používání Obrazovky přednášejícího nalezneme v &lt;f0&gt;kapitole 9 Slide Shows příručky Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on Free and Open Source software, visit these websites:</seg>
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20151012T144958Z" creationid="lenochod26" creationdate="20151012T144958Z">
@@ -27384,8 +27392,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Insert &gt; Movie and Sound&lt;/f0&gt; on the &lt;f1&gt;M&lt;/f1&gt;enu bar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151024T193539Z" creationid="standa" creationdate="20151024T193539Z">
-        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Vložit &gt; Video a zvuk&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180827Z" creationid="standa" creationdate="20151024T193539Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Vložit &gt; Video a zvuk&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27400,8 +27408,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Insert &gt; Page Number&lt;/f0&gt; or &lt;f1&gt;Insert &gt; Date and Time&lt;/f1&gt; on the &lt;f2&gt;M&lt;/f2&gt;enu bar and the Header and Footer dialog opens.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150803T195007Z" creationid="standa" creationdate="20150803T194832Z">
-        <seg>Z hlavní nabídky zvolíme &lt;f0&gt;Vložit &gt; Číslo stránky&lt;/f0&gt; nebo &lt;f1&gt;Vložit &gt; Datum a čas&lt;/f1&gt;, čímž otevřeme dialogové okno Záhlaví a zápatí.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180739Z" creationid="standa" creationdate="20150803T194832Z">
+        <seg>Z hlavní nabídky zvolíme &lt;f0&gt;Vložit &gt; Číslo stránky&lt;/f0&gt; nebo &lt;f1&gt;Vložit &gt; Datum a čas&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, čímž otevřeme dialogové okno Záhlaví a zápatí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36190,6 +36198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice Impress has a Presenter Console function that can be used when an extra display for presentation has been connected to your computer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180159Z" creationid="standa" creationdate="20151106T180159Z">
+        <seg>Součástí programu LibreOffice Impress je Obrazovka přednášejícího, kterou lze použít poté, co bylo k počítači připojeno dodatečné zobrazovací zařízení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice allows events to cause a macro to be called; the macro is then called an event handler.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T093902Z" creationid="install" creationdate="20151006T093902Z">
@@ -42818,6 +42834,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T194152Z" creationid="standa" creationdate="20150627T194130Z">
         <seg>Prezentace v LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Presenter Console</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180047Z" creationid="standa" creationdate="20151106T180047Z">
+        <seg>Obrazovka přednášejícího</seg>
       </tuv>
     </tu>
     <tu>
@@ -52470,6 +52494,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Presenter Console (&lt;f0&gt;&lt;t1&gt;Figure 34&lt;/t1&gt;&lt;/f0&gt;) provides extra control over slide shows by using different views on your computer display and on the display that the audience sees.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180400Z" creationid="standa" creationdate="20151106T180400Z">
+        <seg>Obrazovka přednášejícího (&lt;f0&gt;obrázek &lt;t1&gt;34&lt;/t1&gt;&lt;/f0&gt;) nabízí další možnosti jak prezentaci ovládat. Používá jiné zobrazení na obrazovce počítače než to, které vidí posluchači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Print dialog has four pages, from which you can choose a range of options, as described in the following sections.</seg>
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20150923T051241Z" creationid="GRB" creationdate="20150923T051241Z">
@@ -56526,6 +56558,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The view you see on your computer display includes the current slide, the upcoming slide, any slide notes, and a presentation timer.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180424Z" creationid="standa" creationdate="20151106T180424Z">
+        <seg>Na obrazovce počítače se zobrazuje aktuální snímek, následující snímek, poznámky k aktuálnímu snímku a časomíra prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The web pages created will then use the default settings that you have not changed in any way.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140306T172808Z" creationid="standa" creationdate="20140306T172808Z">
@@ -57328,8 +57368,8 @@
       <tuv lang="EN">
         <seg>These toolbar sets can be customized by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the &lt;f1&gt;M&lt;/f1&gt;enu bar, then check or uncheck the toolbar you want to add or remove.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150701T171511Z" creationid="standa" creationdate="20150701T171511Z">
-        <seg>Tuto sadu lze upravit v hlavní nabídce volbou &lt;f0&gt;Zobrazit &gt; Nástrojové lišty&lt;/f0&gt; a následným zaškrtnutím či zrušením zaškrtnutí jednotlivých lišt, které chceme přidat nebo odstranit.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180714Z" creationid="standa" creationdate="20150701T171511Z">
+        <seg>Tuto sadu lze upravit v hlavní nabídce volbou &lt;f0&gt;Zobrazit &gt; Nástrojové lišty&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; a následným zaškrtnutím či zrušením zaškrtnutí jednotlivých lišt, které chceme přidat nebo odstranit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59414,6 +59454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;select&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; a font &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;for&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt; the lower window of the equation editor, set the attribute Serif, Sans or Fixed before &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;typing &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;the text.&lt;/f27&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180628Z" creationid="standa" creationdate="20151106T180628Z">
+        <seg>To &lt;/f18&gt;&lt;f19&gt;&lt;f20&gt;select&lt;/f20&gt;&lt;/f19&gt;&lt;f21&gt; a font &lt;/f21&gt;&lt;f22&gt;&lt;f23&gt;for&lt;/f23&gt;&lt;/f22&gt;&lt;f24&gt; the lower window of the equation editor, set the attribute Serif, Sans or Fixed before &lt;/f24&gt;&lt;f25&gt;&lt;f26&gt;typing &lt;/f26&gt;&lt;/f25&gt;&lt;f27&gt;the text.&lt;/f27&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To &lt;f0&gt;copy&lt;/f0&gt; a sheet within the same spreadsheet, hold down the &lt;f1&gt;Ctrl&lt;/f1&gt; key (&lt;f2&gt;Option&lt;/f2&gt; key on Mac) then click on the sheet tab and drag it to its new position before releasing the mouse button.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T190604Z" creationid="install" creationdate="20150625T104601Z">
@@ -60968,8 +61016,8 @@
       <tuv lang="EN">
         <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20151106T175839Z" creationid="standa" creationdate="20151106T175839Z">
-        <seg>To exit the slide show at any time including when the slide show has ended, press the &lt;f0&gt;Esc&lt;/f0&gt; key.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180042Z" creationid="standa" creationdate="20151106T175839Z">
+        <seg>Prezentaci můžeme kdykoliv v průběhu nebo po posledním snímku ukončit stisknutím klávesy &lt;f0&gt;Esc&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61984,8 +62032,8 @@
       <tuv lang="EN">
         <seg>To reopen a pane, go to &lt;f9&gt;View&lt;/f9&gt; on the &lt;f10&gt;M&lt;/f10&gt;enu bar and select &lt;f11&gt;Slide Pane&lt;/f11&gt; or &lt;f12&gt;Sidebar&lt;/f12&gt; again.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150628T181658Z" creationid="standa" creationdate="20150628T181339Z">
-        <seg>Chceme-li panel znovu otevřít, zvolíme v &lt;f10&gt;&lt;/f10&gt;hlavní nabídce &lt;f9&gt;Zobrazit&lt;/f9&gt;  a položku &lt;f11&gt;Panel snímků&lt;/f11&gt; nebo &lt;f12&gt;Postranní lišta&lt;/f12&gt; opět zaškrtneme.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180658Z" creationid="standa" creationdate="20150628T181339Z">
+        <seg>Chceme-li panel znovu otevřít, zvolíme v hlavní nabídce &lt;f9&gt;Zobrazit&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;  a položku &lt;f11&gt;Panel snímků&lt;/f11&gt; nebo &lt;f12&gt;Postranní lišta&lt;/f12&gt; opět zaškrtneme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -66718,6 +66766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When we click &lt;f0&gt;Create View&lt;/f0&gt; in the Tasks section, the &lt;f1&gt;View Design&lt;/f1&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180522Z" creationid="standa" creationdate="20151106T180522Z">
+        <seg>When we click &lt;f0&gt;Create View&lt;/f0&gt; in the Tasks section, the &lt;f1&gt;View Design&lt;/f1&gt; dialog opens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When we look at a table, we see many rows of data simultaneously.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150721T084054Z" creationid="install" creationdate="20150721T084054Z">
@@ -69634,8 +69690,8 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       <tuv lang="EN">
         <seg>You can hide the Status Bar and its information by going to &lt;f0&gt;View&lt;/f0&gt; on the &lt;f1&gt;M&lt;/f1&gt;enu bar and deselecting &lt;f2&gt;Status Bar&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150701T171243Z" creationid="standa" creationdate="20150701T171243Z">
-        <seg>Stavový řádek lze skrýt tak, že v hlavní nabídce zvolíme &lt;f0&gt;Zobrazit&lt;/f0&gt; a zrušíme zaškrtnutí položky &lt;f2&gt;Stavový řádek&lt;/f2&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20151106T180707Z" creationid="standa" creationdate="20150701T171243Z">
+        <seg>Stavový řádek lze skrýt tak, že v hlavní nabídce zvolíme &lt;f0&gt;Zobrazit&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; a zrušíme zaškrtnutí položky &lt;f2&gt;Stavový řádek&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
