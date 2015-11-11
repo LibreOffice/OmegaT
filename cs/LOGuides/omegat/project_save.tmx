@@ -4566,6 +4566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sign with Watermark:&lt;/f0&gt; When this option is selected, a transparent overlay of the text you enter into the &lt;f1&gt;Watermark Text&lt;/f1&gt; box will appear on each page of the PDF.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151111T154922Z" creationid="GRB" creationdate="20151111T154922Z">
+        <seg>&lt;f0&gt; Podepsat vodoznakem:&lt;/f0&gt; Když je tato volba zaškrtnuta, každá strana PDF souboru se překryje průhledným vodoznakem s textem, který zadáme do pole &lt;f1&gt;Text vodoznaku&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Slide Layout&lt;/f0&gt; – allows you to change the layout of the selected slide.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150803T202317Z" creationid="standa" creationdate="20150803T202054Z">
@@ -19466,6 +19474,38 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151013T090821Z" creationid="install" creationdate="20151013T090821Z">
         <seg>EPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EPS (Encapsulated PostScript) images with embedded previews are exported only as previews.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151111T154848Z" creationid="GRB" creationdate="20151111T154848Z">
+        <seg>Obrázky EPS (angl. Encapsulated PostScript, zapouzdřený PostScript) s vloženými náhledy jsou exportovány pouze jako náhledy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EPS image</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151111T154812Z" creationid="GRB" creationdate="20151111T154812Z">
+        <seg>EPS obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EPS images in PDF</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151111T154826Z" creationid="GRB" creationdate="20151111T154826Z">
+        <seg>EPS obrázky v PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>EPS images without embedded previews are exported as empty placeholders.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151111T154854Z" creationid="GRB" creationdate="20151111T154854Z">
+        <seg>EPS obrázky bez vložených náhledů se exportují jako prázdné zástupné soubory.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65962,6 +66002,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150820T103032Z" creationid="install" creationdate="20150820T103032Z">
         <seg>Upozornění: Tato změna upraví pouze aktuální vzorec a vzorce, které napíšeme později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Watermark section</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151111T154905Z" creationid="GRB" creationdate="20151111T154905Z">
+        <seg>Část Vodoznak</seg>
       </tuv>
     </tu>
     <tu>
