@@ -3062,6 +3062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Embed standard fonts:&lt;/f0&gt; Normally the 14 standard PostScript fonts were not embedded in a PDF file, because PDF readers already contained these fonts.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T122133Z" creationid="GRB" creationdate="20151112T122133Z">
+        <seg>&lt;f0&gt; Vložit standardní písma:&lt;/f0&gt; Za normálních okolností se 14 standardních písem PostScript do PDF souboru nevkládalo, neboť prohlížeče PDF souborů je obsahují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Empty presentation&lt;/f0&gt; creates a blank presentation.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150805T212151Z" creationid="standa" creationdate="20150805T212151Z">
@@ -29446,6 +29454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, you could choose to embed these fonts in all PDF documents created by LibreOffice to enhance display accuracy in PDF viewers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T122154Z" creationid="GRB" creationdate="20151112T122154Z">
+        <seg>Mohli jsme však zvolit tuto možnost, a tak vložit všechna písma, aby se zlepšila věrnost zobrazení PDF souborů vytvořených v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you do need to make some decisions, for example whether to use all of the suggested fields.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T131811Z" creationid="install" creationdate="20150710T131811Z">
@@ -52966,6 +52982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The PostScript fonts are now embedded by default.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T122203Z" creationid="GRB" creationdate="20151112T122203Z">
+        <seg>Písma PostScript se teď vkládají standardně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Presenter Console (&lt;f0&gt;&lt;t1&gt;Figure 34&lt;/t1&gt;&lt;/f0&gt;) provides extra control over slide shows by using different views on your computer display and on the display that the audience sees.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20151106T180400Z" creationid="standa" creationdate="20151106T180400Z">
@@ -73340,6 +73364,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150702T084534Z" creationid="install" creationdate="20150702T084534Z">
         <seg>úprava dat, Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>embed standard fonts</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T122111Z" creationid="GRB" creationdate="20151112T122111Z">
+        <seg>vložit standardní písma</seg>
       </tuv>
     </tu>
     <tu>
