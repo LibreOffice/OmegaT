@@ -4790,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Tagged PDF&lt;/f0&gt;: Tagged PDF contains information about the structure of the document’s contents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T115637Z" creationid="GRB" creationdate="20151112T115637Z">
+        <seg>&lt;f0&gt; Tagované PDF &lt;/f0&gt;: tagované PDF obsahuje dodatečné informace o struktuře obsahu dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Text delimiter&lt;/f0&gt; – select a character to delimit text data.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T202930Z" creationid="install" creationdate="20150618T105849Z">
@@ -31882,6 +31890,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T185301Z" creationid="install" creationdate="20150619T070541Z">
         <seg>Pokud je vybrán formát &lt;f0&gt;Text CSV&lt;/f0&gt; (&lt;f1&gt;*.csv&lt;/f1&gt;), otevře se dialogové okno &lt;f2&gt;Exportovat textový soubor&lt;/f2&gt; (&lt;f3&gt;&lt;t4&gt;obrázek 9&lt;/t4&gt;&lt;/f3&gt;) umožňující vybrat znakovou sadu, oddělovač, oddělovač textu a další volby, které mají být použity pro soubor CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select PDF/A-1a, the forbidden elements are grayed-out (not available).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T115537Z" creationid="GRB" creationdate="20151112T115537Z">
+        <seg>Pokud zaškrtneme PDF / A-1a, některé volby budou neaktivní (zobrazí se šedě).</seg>
       </tuv>
     </tu>
     <tu>
@@ -75564,6 +75580,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T214855Z" creationid="standa" creationdate="20150209T214855Z">
         <seg>obsah, automatický</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tagged</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T115600Z" creationid="GRB" creationdate="20151112T115600Z">
+        <seg>tagované</seg>
       </tuv>
     </tu>
     <tu>
