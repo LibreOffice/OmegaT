@@ -3630,6 +3630,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide toolbar.&lt;/f0&gt; Causes the PDF viewer to hide the toolbar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124724Z" creationid="GRB" creationdate="20151112T124724Z">
+        <seg>&lt;f0&gt; Skrýt panel nástrojů&lt;/f0&gt; způsobí, že v PDF prohlížeči se skryje panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide window controls.&lt;/f0&gt; Causes the PDF viewer to hide other window controls.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124750Z" creationid="GRB" creationdate="20151112T124750Z">
+        <seg>&lt;f0&gt; Skrýt ovládací prvky okna&lt;/f0&gt; způsobí, že v PDF prohlížeči se skryjí další ovládací prvky oken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hide&lt;/f0&gt; – the data in the column are not imported.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T124635Z" creationid="install" creationdate="20150618T124635Z">
@@ -10922,6 +10938,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150122T175300Z" creationid="standa" creationdate="20150122T175300Z">
         <seg>Tučné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bookmarks</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124824Z" creationid="GRB" creationdate="20151112T124824Z">
+        <seg>Záložky</seg>
       </tuv>
     </tu>
     <tu>
@@ -20790,6 +20814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export bookmarks as named destinations</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124953Z" creationid="GRB" creationdate="20151112T124953Z">
+        <seg>Exportovat záložky jako pojmenované cíle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export to PDF, including bookmarks (see Chapter 10)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T202250Z" creationid="standa" creationdate="20141029T202250Z">
@@ -21618,6 +21650,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140126T142957Z" creationid="standa" creationdate="20140126T142957Z">
         <seg>Obrázek &lt;seq0&gt;14&lt;/seq0&gt;: Dialogové okno Čára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Links page of PDF Options dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124927Z" creationid="GRB" creationdate="20151112T124927Z">
+        <seg>Obrázek &lt;seq0&gt;14 &lt;/seq0&gt;: Karta Odkazy dialogového okna Možnosti PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -32990,6 +33030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Impress, displays slide transition effects as their respective PDF effects.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124817Z" creationid="GRB" creationdate="20151112T124817Z">
+        <seg>V aplikaci Impress zobrazí přechody snímků jako jim odpovídající PDF efekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Insert mode, any text after the cursor position moves forward to make room for the text you type; in Overwrite mode, text after the cursor position is replaced by the text you type.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141029T205918Z" creationid="standa" creationdate="20141029T205918Z">
@@ -41086,6 +41134,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On the Links page, you can choose how links are exported to PDF.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124900Z" creationid="GRB" creationdate="20151112T124900Z">
+        <seg>Na kartě &lt;f0&gt;Odkazy&lt;/f0&gt; můžeme zvolit, jak se budou do PDF souboru exportovat odkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On the Load Styles dialog (&lt;t0&gt;Figure 5&lt;/t0&gt;), find either a template or an ordinary document from which to copy files from.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140406T203844Z" creationid="standa" creationdate="20140406T203844Z">
@@ -47490,6 +47546,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140318T164640Z" creationid="standa" creationdate="20140318T164640Z">
         <seg>Vybereme z voleb rozbalovacího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select how many heading levels are displayed as bookmarks, if &lt;f0&gt;Export bookmarks&lt;/f0&gt; is selected on the General page.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124844Z" creationid="GRB" creationdate="20151112T124844Z">
+        <seg>Zde můžeme zvolit, kolik úrovní nadpisů se má zobrazit jako záložky, pokud je zaškrtnuta položka &lt;f0&gt;Exportovat záložky&lt;/f0&gt; na kartě Obecné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63762,6 +63826,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150225T203116Z" creationid="standa" creationdate="20150225T203116Z">
         <seg>Sledování změn v dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Transitions</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124803Z" creationid="GRB" creationdate="20151112T124803Z">
+        <seg>Přechody</seg>
       </tuv>
     </tu>
     <tu>
