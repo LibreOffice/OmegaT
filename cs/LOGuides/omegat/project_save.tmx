@@ -2582,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Center window on screen.&lt;/f0&gt; Causes the PDF viewer window to be centered on the computer screen.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124511Z" creationid="GRB" creationdate="20151112T124511Z">
+        <seg>&lt;f0&gt; Zarovnat okno na střed obrazovky&lt;/f0&gt; způsobí, že okno prohlížeče PDF bude na obrazovce počítače vycentrované.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Change &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Anchor&lt;/f2&gt; icon: Choose between anchoring options:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140321T202054Z" creationid="standa" creationdate="20140321T202054Z">
@@ -2930,6 +2938,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150701T090958Z" creationid="install" creationdate="20150701T090958Z">
         <seg>&lt;f0&gt;Směr&lt;/f0&gt; – určuje směr vytváření posloupnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Display document title.&lt;/f0&gt; Causes the PDF viewer to display the document’s title in the title bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124619Z" creationid="GRB" creationdate="20151112T124619Z">
+        <seg>&lt;f0&gt; Zobrazit název dokumentu&lt;/f0&gt; způsobí, že prohlížeč PDF zobrazí název dokumentu v záhlaví.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,6 +3622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide menubar.&lt;/f0&gt; Causes the PDF viewer to hide the menu bar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124651Z" creationid="GRB" creationdate="20151112T124651Z">
+        <seg>&lt;f0&gt; Skrýt panel nabídky&lt;/f0&gt; způsobí, že v PDF prohlížeči se skryje panel nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Hide&lt;/f0&gt; – the data in the column are not imported.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T124635Z" creationid="install" creationdate="20150618T124635Z">
@@ -4166,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Open in full screen mode.&lt;/f0&gt; Causes the PDF viewer to open full-screen instead of in a smaller window.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124531Z" creationid="GRB" creationdate="20151112T124531Z">
+        <seg>&lt;f0&gt; Otevřít na celé obrazovce&lt;/f0&gt; způsobí, že prohlížeč stranu zobrazí na celou obrazovku namísto zobrazení v menším okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Open source.&lt;/f0&gt; You can distribute, copy, and modify the software as much as you wish, in accordance with either of the LibreOffice Open Source licenses.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T185713Z" creationid="standa" creationdate="20140418T185657Z">
@@ -4370,6 +4402,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150803T202313Z" creationid="standa" creationdate="20150803T202006Z">
         <seg>&lt;f0&gt; Přejmenovat snímek&lt;/f0&gt; – umožňuje přejmenovat vybraný snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Resize window to initial page.&lt;/f0&gt; Causes the PDF viewer window to resize to fit the first page of the PDF.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124454Z" creationid="GRB" creationdate="20151112T124454Z">
+        <seg>&lt;f0&gt; Změnit velikost okna podle úvodní stránky&lt;/f0&gt; způsobí, že velikost okna PDF prohlížeče se přizpůsobí velikosti strany PDF souboru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65206,6 +65246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User interface options section</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124637Z" creationid="GRB" creationdate="20151112T124637Z">
+        <seg>Část Možnosti uživatelského rozhraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User interface – &lt;i0/&gt;&lt;i1/&gt;Screen font anti-aliasing</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140925T210844Z" creationid="standa" creationdate="20140925T210844Z">
@@ -68260,6 +68308,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150710T131832Z" creationid="install" creationdate="20150710T131832Z">
         <seg>Chceme použít i další pole, které průvodce neobsahuje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Window options section</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151112T124435Z" creationid="GRB" creationdate="20151112T124435Z">
+        <seg>Část Možnosti okna</seg>
       </tuv>
     </tu>
     <tu>
