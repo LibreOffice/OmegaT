@@ -41414,6 +41414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T054911Z" creationid="GRB" creationdate="20151113T054911Z">
+        <seg>Po otevření souboru není uživatel nijak omezován v tom, co může s dokumentem udělat (například tisk, kopírování, nebo změna).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the data has been copied from the data source to the spreadsheet, you can apply all of the available Calc functions to the data, including creating charts from the data.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T140139Z" creationid="install" creationdate="20150727T140139Z">
@@ -42714,6 +42722,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T191826Z" creationid="standa" creationdate="20140417T191826Z">
         <seg>Export do PDF ze součástí balíku LibreOffice je popsán v této příručce v &lt;f0&gt;kapitole 10 Tisk, exportování a odesílání e-mailů&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF export includes options &lt;i0/&gt;to encrypt the PDF (so it cannot be opened without a password) and apply &lt;i1/&gt;&lt;i2/&gt;some digital rights management (DRM) features.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T054630Z" creationid="GRB" creationdate="20151113T054630Z">
+        <seg>Export ve formátu PDF zahrnuje i možnosti na šifrování &lt;i0 /&gt; dokumentu (bez hesla jej nelze otevřít), jakož i některé možnosti &lt;i1 /&gt; &lt;i2 /&gt; správy digitálních práv (DRM).</seg>
       </tuv>
     </tu>
     <tu>
@@ -68544,6 +68560,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With an &lt;f0&gt;open password&lt;/f0&gt; set, the PDF can only be opened with the &lt;i1/&gt;password&lt;i2/&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T054846Z" creationid="GRB" creationdate="20151113T054846Z">
+        <seg>Pokud do pole &lt;f0&gt;Zadat heslo pro otevírání&lt;/f0&gt; zadáme heslo, exportovaný soubor můžeme otevřít pouze pomocí tohoto &lt;i1 /&gt; hesla &lt;i2 /&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With its open source software licen&lt;f0&gt;s&lt;/f0&gt;e, LibreOffice is key in the drive to provide an office suite that is available to anyone, anywhere, for commercial or personal use.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T132314Z" creationid="install" creationdate="20151012T132314Z">
@@ -75084,6 +75108,22 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140503T175306Z" creationid="standa" creationdate="20140503T175306Z">
         <seg>ochrana heslem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>password-protect</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T054642Z" creationid="GRB" creationdate="20151113T054642Z">
+        <seg>chránit heslem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>password-protect PDF</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T054816Z" creationid="GRB" creationdate="20151113T054816Z">
+        <seg>heslem chráněné PDF</seg>
       </tuv>
     </tu>
     <tu>
