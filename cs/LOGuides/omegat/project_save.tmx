@@ -16566,6 +16566,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert document references to PDF targets</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053506Z" creationid="GRB" creationdate="20151113T053506Z">
+        <seg>Převést odkazy na dokumenty na odkazy na PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert to metric; Convert to non-metric</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T200620Z" creationid="standa" creationdate="20141022T200620Z">
@@ -31682,6 +31690,14 @@
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20151112T125043Z" creationid="GRB" creationdate="20151112T125043Z">
         <seg>Pokud jsme v dokumentu aplikace Writer definovali záložky, pokud jsme v dokumentu programů Impress a Draw zadali názvy snímků nebo pokud jsme v tabulkovém dokumentu zadali názvy archů, zvolením této možnosti se tyto exportují jako „pojmenované cíle“, na které mohou webové stránky nebo PDF dokumenty odkazovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have defined links to other documents with OpenDocument extensions (such as .odt, .ods, and .odp), this option converts the files' extensions to .pdf in the exported PDF document.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053544Z" creationid="GRB" creationdate="20151113T053544Z">
+        <seg>Pokud jsme definovali odkazy na jiné dokumenty s OpenDocument příponami (např. .odt, .ods., .odp), po zaškrtnutí této volby LibreOffice v exportovaném dokumentu zkonvertuje tyto přípony souborů na .pdf.</seg>
       </tuv>
     </tu>
     <tu>
