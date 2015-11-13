@@ -2854,6 +2854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Default mode&lt;/f0&gt;: The PDF links will be handled as specified in your operating system.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053821Z" creationid="GRB" creationdate="20151113T053821Z">
+        <seg>&lt;f0&gt; Výchozí mód &lt;/f0&gt;: S PDF odkazy bude zacházeno tak, jak je to specifikováno v operačním systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Delete Selected Design&lt;/f0&gt; deletes the selected design from the design list.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T095830Z" creationid="standa" creationdate="20140309T095830Z">
@@ -4218,6 +4226,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T185713Z" creationid="standa" creationdate="20140418T185657Z">
         <seg>&lt;f0&gt;Otevřený.&lt;/f0&gt; LibreOffice můžeme šířit, kopírovat a upravovat podle svých představ, a to v souladu s některou z licencí, pod kterými je distribuován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Open with Internet browser&lt;/f0&gt;: Use the default Internet browser to display linked PDF documents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053908Z" creationid="GRB" creationdate="20151113T053908Z">
+        <seg>&lt;f0&gt; Otevřít v internetovém prohlížeči&lt;/f0&gt; Na zobrazení odkazovaného dokumentu se použije výchozí webový prohlížeč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Open with PDF reader application&lt;/f0&gt;: Use the same application used to display the PDF document to open linked PDF documents.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053852Z" creationid="GRB" creationdate="20151113T053852Z">
+        <seg>&lt;f0&gt; Otevřít v aplikaci na čtení PDF &lt;/f0&gt;: Stejný program, jako ten, který byl použit k zobrazení dokumentu, bude použit i na zobrazení dokumentu, na který se odkazuje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17142,6 +17166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-document links</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053714Z" creationid="GRB" creationdate="20151113T053714Z">
+        <seg>Odkazy mezi dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cross-fading</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T191154Z" creationid="standa" creationdate="20140116T191154Z">
@@ -17930,6 +17962,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150929T114002Z" creationid="install" creationdate="20150929T114002Z">
         <seg>Definuje proměnné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defines the behavior of links clicked in PDF files.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053729Z" creationid="GRB" creationdate="20151113T053729Z">
+        <seg>Definuje, jak se v exportovaném dokumentu chovají odkazy po kliknutí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31698,6 +31738,14 @@
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20151113T053544Z" creationid="GRB" creationdate="20151113T053544Z">
         <seg>Pokud jsme definovali odkazy na jiné dokumenty s OpenDocument příponami (např. .odt, .ods., .odp), po zaškrtnutí této volby LibreOffice v exportovaném dokumentu zkonvertuje tyto přípony souborů na .pdf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have defined relative links in a document, this option exports those links to the PDF.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053649Z" creationid="GRB" creationdate="20151113T053649Z">
+        <seg>Jestliže jsme definovali v dokumentu relativní odkazy, tato volba exportuje tyto odkazy do PDF souboru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47602,6 +47650,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20151106T165940Z" creationid="standa" creationdate="20151106T165940Z">
         <seg>Pokud je zaškrtnuta a přechod mezi snímky upravíme, nový snímek se včetně přechodu zobrazí v části, kde se vytváří.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select one among the following alternatives:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="GRB" changedate="20151113T053742Z" creationid="GRB" creationdate="20151113T053742Z">
+        <seg>Můžeme si vybrat z těchto alternativ:</seg>
       </tuv>
     </tu>
     <tu>
