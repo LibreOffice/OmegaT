@@ -8872,8 +8872,8 @@
       <tuv lang="EN">
         <seg>Alternatively, right-click on the sheet tab, row header or column header and select &lt;f0&gt;Hide&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T082404Z" creationid="install" creationdate="20150707T082404Z">
-        <seg>Jinou možností je kliknout pravým tlačítkem myši na záhlaví řádku nebo sloupce a v místní nabídce zvolit &lt;f0&gt;Skrýt&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T205137Z" creationid="install" creationdate="20150707T082404Z">
+        <seg>Jinou možností je klepnout pravým tlačítkem myši na záhlaví řádku nebo sloupce a v místní nabídce zvolit &lt;f0&gt;Skrýt&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9976,8 +9976,8 @@
       <tuv lang="EN">
         <seg>As soon as you select a theme, the theme styles are applied to the spreadsheet and are immediately visible.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T054850Z" creationid="install" creationdate="20150707T054850Z">
-        <seg>Ihned po výběru tématu se jsou styly použity a změny jsou tedy ihned patrné.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T204408Z" creationid="install" creationdate="20150707T054850Z">
+        <seg>Ihned po výběru tématu se styly použijí, a změny jsou tedy okamžitě patrné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10330,6 +10330,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20151008T195156Z" creationid="standa" creationdate="20151008T195156Z">
         <seg>Textová pole &lt;i0/&gt; automatického rozvržení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>AutoLayout text boxes</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160127T205326Z" creationid="standa" creationdate="20160127T205326Z">
+        <seg>AutoLayout text boxes</seg>
       </tuv>
     </tu>
     <tu>
@@ -25544,8 +25552,8 @@
       <tuv lang="EN">
         <seg>For example, if column B is hidden, it is copied when you select columns A and C.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T055946Z" creationid="install" creationdate="20150707T055946Z">
-        <seg>Pokud například skryjeme sloupec B, bude se kopírovat, pokud vybereme sloupce A a C.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T204848Z" creationid="install" creationdate="20150707T055946Z">
+        <seg>Pokud například skryjeme sloupec B, bude se kopírovat, když vybereme sloupce A a C.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26360,8 +26368,8 @@
       <tuv lang="EN">
         <seg>For more information on how to hide and show data, including how to use outline groups and filtering, see the &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T060408Z" creationid="install" creationdate="20150707T060408Z">
-        <seg>Více informací o skrývání a zobrazování dat, včetně toho jak používat skupiny osnovy a filtrování se nachází v &lt;f0&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T205011Z" creationid="install" creationdate="20150707T060408Z">
+        <seg>Více informací o skrývání a zobrazování dat, včetně toho jak používat souhrny a filtrování, se nachází v &lt;f0&gt;kapitole 2 Entering, Editing, and Formatting Data příručky Calc Guide&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28032,8 +28040,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Sheet&lt;/f1&gt;, &lt;f2&gt;Row&lt;/f2&gt; or &lt;f3&gt;Column&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T081957Z" creationid="install" creationdate="20150707T081957Z">
-        <seg>V liště nabídky zvolíme &lt;f0&gt;Formát&lt;/f0&gt; &gt; &lt;f1&gt;List&lt;/f1&gt; &lt;f2&gt;Řádek&lt;/f2&gt; nebo &lt;f3&gt;Sloupec&lt;/f3&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T205045Z" creationid="install" creationdate="20150707T081957Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Formát&lt;/f0&gt; &gt; &lt;f1&gt;List&lt;/f1&gt;, &lt;f2&gt;Řádek&lt;/f2&gt; nebo &lt;f3&gt;Sloupec&lt;/f3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28176,8 +28184,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Cell Contents &gt; AutoCalculate&lt;/f0&gt; on the Menu bar to enable this feature.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T055542Z" creationid="install" creationdate="20150707T055542Z">
-        <seg>Tuto funkci aktivujeme tak, že v liště nabídky zvolíme &lt;f0&gt;Nástroje &gt; Obsah buněk &gt; Automatický výpočet&lt;/f0&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T204642Z" creationid="install" creationdate="20150707T055542Z">
+        <seg>Tuto funkci aktivujeme tak, že v hlavní nabídce zvolíme &lt;f0&gt;Nástroje &gt; Obsah buněk &gt; Automatický výpočet&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28328,8 +28336,8 @@
       <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Tools &gt; Protect Document&lt;/f0&gt; and select &lt;f1&gt;Sheet&lt;/f1&gt; from the menu options.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T082740Z" creationid="install" creationdate="20150707T082740Z">
-        <seg>V liště nabídky zvolíme &lt;f0&gt;Nástroje &gt; Zamknout dokument&lt;/f0&gt; a zde vybereme z možností &lt;f1&gt;List&lt;/f1&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T205227Z" creationid="install" creationdate="20150707T082740Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Nástroje &gt; Zamknout dokument&lt;/f0&gt; a zde vybereme z možností &lt;f1&gt;List&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29480,8 +29488,8 @@
       <tuv lang="EN">
         <seg>However, hidden elements can still be selected for copying if you select the elements around them.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T055921Z" creationid="install" creationdate="20150707T055921Z">
-        <seg>Skryté prvky však lze kopírovat tak, že vybereme prvky okolo nich.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T204821Z" creationid="install" creationdate="20150707T055921Z">
+        <seg>Skryté prvky však lze kopírovat, jestliže vybereme prvky okolo nich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32768,8 +32776,8 @@
       <tuv lang="EN">
         <seg>If you wish, you can now open the Styles and Formatting window to modify specific styles.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T055007Z" creationid="install" creationdate="20150707T055007Z">
-        <seg>Nyní můžeme jít do dialogového okna Styly a formátování, kde lze požadované styly upravit.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T204427Z" creationid="install" creationdate="20150707T055007Z">
+        <seg>Nyní můžeme přejít do dialogového okna Styly a formátování, kde lze požadované styly upravit.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33280,8 +33288,8 @@
       <tuv lang="EN">
         <seg>In Calc you can hide elements so that they are neither visible on a computer display nor printed when a spreadsheet is printed.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T055845Z" creationid="install" creationdate="20150707T055845Z">
-        <seg>V Calc můžeme skrýt různé prvky tak, že nejsou viditelné na obrazovce a ani se nevytisknou při tisku sešitu.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T204745Z" creationid="install" creationdate="20150707T055845Z">
+        <seg>V programu Calc můžeme skrýt různé prvky tak, že nebudou viditelné na obrazovce a ani se nevytisknou při tisku sešitu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47096,8 +47104,8 @@
       <tuv lang="EN">
         <seg>See the &lt;f1&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f1&gt; for more information.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T055631Z" creationid="install" creationdate="20150707T055631Z">
-        <seg>Více informací se nachází v části &lt;f1&gt;Calc Guide Chapter 2 Entering, Editing, and Formatting Data&lt;/f1&gt;.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T204700Z" creationid="install" creationdate="20150707T055631Z">
+        <seg>Více informací se nachází v &lt;f1&gt;kapitole 2 Entering, Editing, and Formatting Data příručky Calc Guide&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47512,8 +47520,8 @@
       <tuv lang="EN">
         <seg>Select &lt;f0&gt;Hide&lt;/f0&gt; from the menu and the sheet, row or column can no longer viewed or printed.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T082524Z" creationid="install" creationdate="20150707T082247Z">
-        <seg>Vybereme z podnabídky &lt;f0&gt;Skrýt&lt;/f0&gt; a list, řádek nebo sloupec již nelze prohlédnout nebo vytisknout.</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T205117Z" creationid="install" creationdate="20150707T082247Z">
+        <seg>Vybereme z podnabídky &lt;f0&gt;Skrýt&lt;/f0&gt;. List, řádek nebo sloupec se již nezobrazuje a nelze jej vytisknout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53008,8 +53016,8 @@
       <tuv lang="EN">
         <seg>The &lt;f2&gt;Protect Sheet&lt;/f2&gt; dialog dialog will open (&lt;t3&gt;Figure 37&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T082850Z" creationid="install" creationdate="20150707T082850Z">
-        <seg>Dialogové okno &lt;f2&gt;Uzamknout list&lt;/f2&gt; bude otevřeno, (&lt;t3&gt;obrázek 37&lt;/t3&gt;).</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T205245Z" creationid="install" creationdate="20150707T082850Z">
+        <seg>Otevře se dialogové okno &lt;f2&gt;Uzamknout list&lt;/f2&gt; (obrázek &lt;t3&gt;37&lt;/t3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -62632,8 +62640,8 @@
       <tuv lang="EN">
         <seg>To hide and protect data in selected cells:</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T082424Z" creationid="install" creationdate="20150707T082424Z">
-        <seg>Pokud chceme data současně skrýt a chránit vůči změně :</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T205154Z" creationid="install" creationdate="20150707T082424Z">
+        <seg>Pokud chceme data současně skrýt a chránit vůči změně:</seg>
       </tuv>
     </tu>
     <tu>
@@ -66152,8 +66160,8 @@
       <tuv lang="EN">
         <seg>Using &lt;i0/&gt;conditional formatting</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150707T055221Z" creationid="install" creationdate="20150707T055221Z">
-        <seg>Použití &lt;i0/&gt; podmíněného formátování</seg>
+      <tuv lang="CS" changeid="standa" changedate="20160127T204551Z" creationid="install" creationdate="20150707T055221Z">
+        <seg>Používání &lt;i0/&gt;podmíněného formátování</seg>
       </tuv>
     </tu>
     <tu>
