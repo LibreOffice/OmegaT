@@ -2275,6 +2275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20160318T152408Z" creationid="milos" creationdate="20160318T152408Z">
+        <seg>&lt;f0&gt;Rozpoznávať špeciálne čísla&lt;/f0&gt; – ak je zaškrtnutá táto možnosť, Calc bude automaticky rozpoznávať formát čísel, vrátane špeciálnych formátov, ako sú dátum, čas a vedecká notácia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Digital signature&lt;/f0&gt; – a flag indicating whether the document is digitally signed.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131217T081527Z" creationid="milos" creationdate="20131217T081527Z">
@@ -17907,6 +17915,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each cell is formed by the intersection of one column and one row in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20160318T152346Z" creationid="milos" creationdate="20160318T152346Z">
+        <seg>Každá bunka je vytvorená priesečníkom stĺpcov a riadkov v hárku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each cell is formed by the intersection of the columns and rows in the spreadsheet.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131008T152353Z" creationid="milos" creationdate="20131008T152353Z">
@@ -30697,6 +30713,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131024T071604Z" creationid="milos" creationdate="20131024T071604Z">
         <seg>V tabuľkových zošitoch pojem funkcia predstavuje oveľa viac, ako je bežná matematická funkcia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a spreadsheet the term “function” covers much more than just mathematical functions.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20160318T152155Z" creationid="milos" creationdate="20160318T152155Z">
+        <seg>In a spreadsheet the term “function” covers much more than just mathematical functions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44130,6 +44154,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20160318T152335Z" creationid="milos" creationdate="20160318T152335Z">
+        <seg>Viac informácií sa nachádza v &lt;f0&gt;kapitole 7, Použivanie vzorcov a funkcií v knihe Návod na používanie programu Calc (Calc Guide)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; in for more information.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131024T071740Z" creationid="milos" creationdate="20131024T071740Z">
@@ -53736,6 +53768,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected language also influences how such special numbers are detected, since different languages and regions many have different conventions for such special numbers.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20160318T152426Z" creationid="milos" creationdate="20160318T152426Z">
+        <seg>Vybraný jazyk tiež ovplyvňuje to, ako sú špeciálne čísla definované, lebo v rôznych jazykoch a jazykových regiónoch sa pre ne používajú rôzne konvencie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected lists are populated from the selected cells.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131101T111224Z" creationid="milos" creationdate="20131101T111224Z">
@@ -57041,6 +57081,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140327T162647Z" creationid="milos" creationdate="20140327T162647Z">
         <seg>Oddeľovače tisícov vo veľkých číslach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thousands separators and decimal separators may vary with the selected language and region.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20160318T152433Z" creationid="milos" creationdate="20160318T152433Z">
+        <seg>Oddeľovače tisícov a desatinný oddeľovač môžu byť v rôznych jazykoch a jazykových regiónoch rôzne.&lt;/f4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64321,8 +64369,8 @@
       <tuv lang="EN">
         <seg>When you enter new data into a cell, the Sum and Function icons change to &lt;f0&gt;Cancel&lt;/f0&gt; and &lt;f1&gt;Accept&lt;/f1&gt; icons &lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20160318T151913Z" creationid="milos" creationdate="20160318T151913Z">
-        <seg>Keď do bunky zapíšeme nový údaj, tlačidlá Celkom a Funkcia sa zmenia na &lt;f1&gt;Zrušiť&lt;/f1&gt; a &lt;f2&gt;Prijať&lt;/f2&gt; &lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;di6/&gt; &lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;</seg>
+      <tuv lang="SK" changeid="milos" changedate="20160318T152140Z" creationid="milos" creationdate="20160318T151913Z">
+        <seg>Keď do bunky zapíšeme nový údaj, tlačidlá Celkom a Funkcia sa zmenia na &lt;f0&gt;Zrušiť&lt;/f0&gt; a &lt;f1&gt;Prijať&lt;/f1&gt; &lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
