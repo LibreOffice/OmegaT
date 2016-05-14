@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;f0&gt;style&lt;/f0&gt; is a set of formats that you can apply to selected pages, text, frames, and other elements in your document to quickly change their appearance.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165541Z" creationid="ohallot" creationdate="20160514T165541Z">
+        <seg>Um &lt;f0&gt;estilo&lt;/f0&gt; é um conjunto de formatos para rapidamente aplicar às páginas, textos, quadros e outros elementos selecionados para alterar sua aparência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A &lt;i0/&gt;&lt;f1&gt;template&lt;/f1&gt; is a model document that you use to create other documents.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T161043Z" creationid="ohallot" creationdate="20160514T161043Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T154911Z" creationid="ohallot" creationdate="20160514T154911Z">
         <seg>Bruce Byfield</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By contrast, when you use styles, you only need to make a single change.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165813Z" creationid="ohallot" creationdate="20160514T165813Z">
+        <seg>Ao contrário, quando se utiliza estilos, só é preciso fazer as mudanças uma única vez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a long document, this simple task can require making individual changes in dozens of places.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165809Z" creationid="ohallot" creationdate="20160514T165809Z">
+        <seg>Para um documento muito longo, esta simples tarefa pode demandar mudanças individuais em dezenas de lugares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a more detailed list, see the application Help.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T155532Z" creationid="ohallot" creationdate="20160514T155532Z">
@@ -710,10 +734,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165822Z" creationid="ohallot" creationdate="20160514T165822Z">
+        <seg>Por exemplo, o Writer baseia-se nos estilos do cabeçalho (ou algum outro definido por você) quando compila uma tabela de conteúdo (Índice).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can create a template for business reports that has your company’s logo on the first page.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T161052Z" creationid="ohallot" creationdate="20160514T161052Z">
         <seg>Por exemplo, você pode criar um modelo para relatórios de negócios que tenha a logomarca da sua empresa na primeira página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you may decide to change the indentation of all paragraphs, or change the font of all titles.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165803Z" creationid="ohallot" creationdate="20160514T165803Z">
+        <seg>Por exemplo, você pode decidir alterar a identação de todos os parágrafos, ou mudar as fontes de todos os títulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you might specify the font family, font size, and any formatting such as bold or italic.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165651Z" creationid="ohallot" creationdate="20160514T165651Z">
+        <seg>Por exemplo, você pode especificar a família de fontes, o tamanho delas, e qualquer outra formatação como negrito, ou itálico.</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +846,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, styles are used by LibreOffice for many processes, even if you are not aware of them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165818Z" creationid="ohallot" creationdate="20160514T165818Z">
+        <seg>Além disso, os estilos são utilizados pelo LibreOffice para muitos processos, mesmo que você não tenha conhecimento deles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In other words, using styles means that you shift the emphasis from what the text (or page, or other element) looks like, to what the text &lt;f1&gt;is&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165734Z" creationid="ohallot" creationdate="20160514T165734Z">
+        <seg>Em outras palavras, utilizar estilos significa que você deixa enfatizar que o texto (ou página, ou qualquer outro elemento) aparenta para enfatizar o que o texto realmente &lt;f1&gt;é&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing collections of templates</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160810Z" creationid="ohallot" creationdate="20160514T160810Z">
@@ -862,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many people manually format paragraphs, words, tables, page layouts, and other parts of their documents without paying any attention to styles.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165611Z" creationid="ohallot" creationdate="20160514T165611Z">
+        <seg>Muitas pessoas formatam parágrafos, palavras, tabelas, layout de páginas, e outras partes de seus documentos manualmente, sem prestar atenção aos estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Martin Saffron</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T154904Z" creationid="ohallot" creationdate="20160514T154904Z">
@@ -922,6 +994,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T155510Z" creationid="ohallot" creationdate="20160514T155510Z">
         <seg>Nota para usuários de Mac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often applying a style means applying a whole group of formats at the same time.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165602Z" creationid="ohallot" creationdate="20160514T165602Z">
+        <seg>Aplicar um estilo também significa aplicar um grupo de formatos ao mesmo tempo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1115,6 +1195,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Styles are &lt;f0&gt;logical&lt;/f0&gt; attributes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165703Z" creationid="ohallot" creationdate="20160514T165703Z">
+        <seg>Os Estilos são atributos &lt;f0&gt;lógicos&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Styles help improve consistency in a document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165741Z" creationid="ohallot" creationdate="20160514T165741Z">
+        <seg>Os estilos ajudam a melhorar a consistência de um documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T161107Z" creationid="ohallot" creationdate="20160514T161107Z">
@@ -1167,6 +1263,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T155528Z" creationid="ohallot" creationdate="20160514T155528Z">
         <seg>A tabela abaixo apresenta uma lista comparativa de alguns caminhos e teclas utilizados neste capítulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They also make major formatting changes easy.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165758Z" creationid="ohallot" creationdate="20160514T165758Z">
+        <seg>Eles também facilitam alterações grandes nos formatos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are used to writing documents according to &lt;f0&gt;physical&lt;/f0&gt; attributes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165628Z" creationid="ohallot" creationdate="20160514T165628Z">
+        <seg>Eles costumam digitar documentos de acordo com seus atributos &lt;f0&gt;físicos&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,6 +1407,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160531Z" creationid="ohallot" creationdate="20160514T160531Z">
         <seg>Utilizando atalhos de teclado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165720Z" creationid="ohallot" creationdate="20160514T165720Z">
+        <seg>Utilizar estilos significa que você não diz mais "tamanho da fonte 14pt, Times New Roman, negrito, centralizado” e passa a dizer “Título” por que você definiu o estilo "Título" com tendo estas características.</seg>
       </tuv>
     </tu>
     <tu>
