@@ -256,8 +256,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Most default&lt;/f0&gt; settings, &lt;f1&gt;such as &lt;/f1&gt;page size &lt;f2&gt;and&lt;/f2&gt; page margins, can be changed &lt;f3&gt;in &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;Tools &gt; Options&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;, but those changes apply &lt;/f6&gt;only &lt;f7&gt;to the document you are working on.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T125704Z" creationid="ohallot" creationdate="20160516T124830Z">
-        <seg>&lt;f0&gt;&lt;/f0&gt;A maioria das configurações padrão, &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;tais como tamanho da página e margens da página, podem ser mudadas em Ferramentas &gt; Opções, porém estas mudanças se aplicam somente ao documento aberto para trabalho.</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T131710Z" creationid="ohallot" creationdate="20160516T124830Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;A maioria das configurações padrão, &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;tais como tamanho da página e margens da página, podem ser mudadas em &lt;f5&gt;Ferramentas &gt; Opções&lt;/f5&gt;, porém estas mudanças se aplicam somente ao documento aberto para trabalho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,6 +1386,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120603Z" creationid="ohallot" creationdate="20160516T120603Z">
         <seg>A partir da barra de menus, escolha &lt;f0&gt;Arquivo → Modelos → Gerenciar modelos&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt; ou pressione &lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Ctrl+Shift+N&lt;/f4&gt;. A caixa de diálogo do Gerenciador de Modelos é aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Manage&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T131851Z" creationid="ohallot" creationdate="20160516T131851Z">
+        <seg>A partir da barra de menus, escolha &lt;f0&gt;Arquivo → Modelos → Gerenciar&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2963,6 +2971,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make those changes the default settings for that document type, you need to&lt;/f7&gt; replac&lt;f8&gt;e&lt;/f8&gt; the default template with a new one.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T131809Z" creationid="ohallot" creationdate="20160516T131809Z">
+        <seg>&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;Para fazer com que estas alterações sejam as definições para este tipo de documento, você precisa substituir o modelo padrão por outro modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To quit Fill Format mode, click the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button again or press the &lt;f1&gt;Esc&lt;/f1&gt; key.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T222528Z" creationid="ohallot" creationdate="20160515T222528Z">
@@ -3447,6 +3463,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003510Z" creationid="ohallot" creationdate="20160516T003510Z">
         <seg>Você pode remover qualquer estilo definido por usuários (personalizados); mas, antes de fazê-lo, você precisa ter certeza de que não estão sendo utilizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can set any template displayed in the Template Manager dialog to be the default &lt;f0&gt;for that document type&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T131837Z" creationid="ohallot" creationdate="20160516T131837Z">
+        <seg>Você pode configurar qualquer modelo exibido no Gerenciador de modelos para ser o padrão &lt;f0&gt;para este tipo de documento correspondente&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
