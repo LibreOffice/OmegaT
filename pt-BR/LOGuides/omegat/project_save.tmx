@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you &lt;i0/&gt;link styles, then when you change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001526Z" creationid="ohallot" creationdate="20160516T001526Z">
+        <seg>Se você &lt;i0/&gt;vincular estilos, quando você alterar o estilo base (por exemplo, alterando a fonte de Times para Helvética), todos os estilos vinculados também serão alterados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are in the habit of manually overriding styles in your document, be sure that AutoUpdate is &lt;f0&gt;not &lt;/f0&gt;enabled.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T225317Z" creationid="ohallot" creationdate="20160515T225317Z">
@@ -1222,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Styles and Formatting window, select on the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001659Z" creationid="ohallot" creationdate="20160516T001659Z">
+        <seg>Na janela de Estilos e Formatação, clique no ícone Novo estilo a partir de seleção.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Styles and Formatting window, select the style to update, then click on the arrow next to the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon and click &lt;f1&gt;Update Style&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T224454Z" creationid="ohallot" creationdate="20160515T224454Z">
@@ -1238,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the document, select the item you want to save as a style.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001653Z" creationid="ohallot" creationdate="20160516T001653Z">
+        <seg>No documento, selecione o item que quer salvar como estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing collections of templates</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160810Z" creationid="ohallot" creationdate="20160514T160810Z">
@@ -1250,6 +1274,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160804Z" creationid="ohallot" creationdate="20160514T160804Z">
         <seg>Instalar modelos individuais</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It pays to plan ahead.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001548Z" creationid="ohallot" creationdate="20160516T001548Z">
+        <seg>Vale a pena planejar com antecedência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1490,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T155922Z" creationid="ohallot" creationdate="20160514T155922Z">
         <seg>Abra a janela de Estilos e Formatação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Styles and Formatting window and choose the type of style you want to create.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001649Z" creationid="ohallot" creationdate="20160516T001649Z">
+        <seg>Abra a janela de Estilos e Formatação e escolha o tipo de estilo que quer criar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1726,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes this is exactly what you want; other times you do not want the changes to apply to all the linked styles.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001540Z" creationid="ohallot" creationdate="20160516T001540Z">
+        <seg>Às vezes isso é exatamente o desejado; outras vezes, você pode não querer que essas mudanças sejam aplicadas a todos os estilos referenciados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source Text</seg>
       </tuv>
     </tu>
@@ -1883,6 +1931,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialogs and choices are the same for defining new styles and for modifying existing styles.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001552Z" creationid="ohallot" creationdate="20160516T001552Z">
+        <seg>As caixas de diálogo e opções são as mesmas para definir novos estilos ou para alterar estilos existentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The parts of this window are described below.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T160621Z" creationid="douglas" creationdate="20160514T160621Z">
@@ -1951,6 +2007,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T222347Z" creationid="ohallot" creationdate="20160515T222330Z">
         <seg>Esse método é muito útil quando é preciso formatar parágrafos dispersos, células, ou outros itens com o mesmo estilo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This new style applies only to this document; it will not be saved in the template.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001642Z" creationid="ohallot" creationdate="20160516T001642Z">
+        <seg>Esse novo estilo será aplicado apenas ao documento atual; ele não será salvo no modelo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2339,6 +2403,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can create a new style by copying an existing manual format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001634Z" creationid="ohallot" creationdate="20160516T001634Z">
+        <seg>Você pode criar um novo estilo copiando um formato existente manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a specific template for any document type (text, spreadsheet, drawing, presentation).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T161116Z" creationid="ohallot" creationdate="20160514T161116Z">
@@ -2447,6 +2519,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T224034Z" creationid="ohallot" creationdate="20160515T224034Z">
         <seg>alterando um estilo utilizando a caixa de diálogo Estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creating from selection</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001626Z" creationid="ohallot" creationdate="20160516T001626Z">
+        <seg>criar a partir de uma seleção</seg>
       </tuv>
     </tu>
     <tu>
