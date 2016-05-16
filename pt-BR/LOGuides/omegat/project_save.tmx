@@ -710,6 +710,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120637Z" creationid="ohallot" creationdate="20160516T120637Z">
+        <seg>Clique em &lt;f1&gt;Editar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click once on it to activate the file handling controls (see &lt;t0&gt;Figure 7&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120626Z" creationid="ohallot" creationdate="20160516T120626Z">
+        <seg>Clique uma vez sobe ele para ativar os controles de manipulação do arquivo (veja a Figura &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click the &lt;f2&gt;From File&lt;/f2&gt; button to open a window from which to select the required document.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T002856Z" creationid="ohallot" creationdate="20160516T002856Z">
@@ -1014,6 +1030,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit the template just as you would any other document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120643Z" creationid="ohallot" creationdate="20160516T120643Z">
+        <seg>Edite o modelo da mesma forma que faria em qualquer outro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing a template</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160749Z" creationid="ohallot" creationdate="20160514T160749Z">
@@ -1270,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Template&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;s &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&gt; Manage&lt;/f3&gt; or press &lt;f4&gt;Ctrl+Shift+N&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120603Z" creationid="ohallot" creationdate="20160516T120603Z">
+        <seg>A partir da barra de menus, escolha &lt;f0&gt;Arquivo → Modelos → Gerenciar modelos&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt; ou pressione &lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;Ctrl+Shift+N&lt;/f4&gt;. A caixa de diálogo do Gerenciador de Modelos é aberta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Save As Template&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T010113Z" creationid="ohallot" creationdate="20160516T010113Z">
@@ -1426,6 +1458,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T161204Z" creationid="ohallot" creationdate="20160514T161204Z">
         <seg>Se não especificar um modelo padrão, o LibreOffice utilizará um modelo em branco que é instalado com o programa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you make any changes to a template and its styles, the next time you open a document that was created &lt;f0&gt;from&lt;/f0&gt; the template before the changes, a confirmation message is displayed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120724Z" creationid="ohallot" creationdate="20160516T120724Z">
+        <seg>Se fizer alterações no modelo e nos estilos dele, então a próxima vez que você abrir um documento criado pelo modelo antes das modificações, será mostrada uma &lt;f0&gt;&lt;/f0&gt;mensagem de confirmação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1770,6 +1810,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160905Z" creationid="ohallot" creationdate="20160514T160905Z">
         <seg>Movendo um modelo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Navigate to the template that you want to edit.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120612Z" creationid="ohallot" creationdate="20160516T120612Z">
+        <seg>Navegue até o modelo que deseja editar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2459,6 +2507,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The template opens in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120640Z" creationid="ohallot" creationdate="20160516T120640Z">
+        <seg>O modelo abre no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The template the document is based upon is listed in &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T005704Z" creationid="ohallot" creationdate="20160516T005704Z">
@@ -2675,10 +2731,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To save your changes, choose &lt;f0&gt;File &gt; Save &lt;/f0&gt;from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120659Z" creationid="ohallot" creationdate="20160516T120659Z">
+        <seg>Para salvar suas alterações, clique em &lt;f0&gt;Arquivo → Salvar&lt;/f0&gt; a partir do menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To update a style from a selection:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T224328Z" creationid="ohallot" creationdate="20160515T224328Z">
         <seg>Para atualizar um estilo de uma seleção:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To update the document:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T120730Z" creationid="ohallot" creationdate="20160516T120730Z">
+        <seg>Para atualizar o documento:</seg>
       </tuv>
     </tu>
     <tu>
