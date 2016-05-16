@@ -848,8 +848,8 @@
       <tuv lang="EN">
         <seg>Deleting styles</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160709Z" creationid="ohallot" creationdate="20160514T160709Z">
-        <seg>Apagando estilos</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003437Z" creationid="ohallot" creationdate="20160514T160709Z">
+        <seg>Excluir estilos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1190,6 +1190,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the style is in use, you receive a warning message asking you to confirm deletion.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003606Z" creationid="ohallot" creationdate="20160516T003606Z">
+        <seg>Se o estilo estiver em uso, você verá uma mensagem de aviso pedindo confirmação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the style is not in use, it is deleted immediately without confirmation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003600Z" creationid="ohallot" creationdate="20160516T003600Z">
+        <seg>Se o estilo não estiver em uso, ele será excluído sem confirmação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this box is not selected, you will only copy styles whose names are not used in the original document.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T002948Z" creationid="ohallot" creationdate="20160516T002948Z">
@@ -1242,6 +1258,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T001028Z" creationid="ohallot" creationdate="20160516T001028Z">
         <seg>Se quiser que seu novo estilo seja referenciado a um estilo existente, primeiro selecione o estilo e, depois, clique com o botão direito selecionando &lt;f0&gt;Novo&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your document has a table of contents, and if you have used custom styles for headings, the heading levels associated with outline levels in &lt;f0&gt;Tools &gt; Outline Numbering&lt;/f0&gt; will revert to the defaults of Heading 1, Heading 2, and so on when you load Text &lt;f1&gt;S&lt;/f1&gt;tyles from a file that does not use the same custom styles.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003331Z" creationid="ohallot" creationdate="20160516T003331Z">
+        <seg>Se o seu documento possui um Índice, e se você tiver estilos personalizados para os Títulos, os níveis de títulos associados a níveis da estrutura de tópicos &lt;f0&gt;em Ferramentas → Numeração da estrutura de tópicos&lt;/f0&gt; serão revertidos para os padrões de Título 1, Título 2, e assim por diante, quando carregar Estilos de texto&lt;f1&gt;&lt;/f1&gt; de um arquivo que não utiliza os mesmos estilos personalizados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2251,6 +2275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To delete any unwanted styles, in the Styles and Formatting window select each one to be deleted (hold &lt;f0&gt;Ctrl&lt;/f0&gt; while selecting multiple styles), and then right-click on a selected style and select &lt;f1&gt;Delete&lt;/f1&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003553Z" creationid="ohallot" creationdate="20160516T003553Z">
+        <seg>Para excluir estilos indesejados, selecione cada um dos estilos a ser excluído (pressione &lt;f0&gt;Ctrl&lt;/f0&gt; enquanto seleciona vários estilos), e clique com o botão direito sobre um dos estilos selecionados na janela de Estilos e Formatação e selecione &lt;f1&gt;Excluir&lt;/f1&gt; no menu de contexto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To quit Fill Format mode, click the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button again or press the &lt;f1&gt;Esc&lt;/f1&gt; key.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T222528Z" creationid="ohallot" creationdate="20160515T222528Z">
@@ -2643,6 +2675,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use in the current document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003510Z" creationid="ohallot" creationdate="20160516T003510Z">
+        <seg>Você pode remover qualquer estilo definido por usuários (personalizados); mas, antes de fazê-lo, você precisa ter certeza de que não estão sendo utilizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can update styles by copying &lt;f0&gt;(&lt;/f0&gt;loading&lt;f1&gt;)&lt;/f1&gt; them from a template or another document.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T225340Z" creationid="ohallot" creationdate="20160515T225340Z">
@@ -2655,6 +2695,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T170841Z" creationid="ohallot" creationdate="20160514T170841Z">
         <seg>Você pode utilizar os estilos oferecidos, modificá-los, ou criar estilos, como descrito neste capítulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You cannot remove (delete) any of LibreOffice’s predefined styles from a document or template, even if they are not in use.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003503Z" creationid="ohallot" creationdate="20160516T003503Z">
+        <seg>Você não pode remover (excluir) nenhum dos estilos predefinidos do LibreOffice de um documento ou modelo, mesmo que não estejam sendo utilizados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2679,6 +2727,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T225715Z" creationid="ohallot" creationdate="20160515T225715Z">
         <seg>Você pode preferir adicionar novos estilos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to change these back to your custom heading styles.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003343Z" creationid="ohallot" creationdate="20160516T003343Z">
+        <seg>Você precisará alterar de novo esses estilos para voltar à sua formatação personalizada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2735,6 +2791,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T225533Z" creationid="ohallot" creationdate="20160515T225533Z">
         <seg>personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>deleting</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003353Z" creationid="ohallot" creationdate="20160516T003353Z">
+        <seg>excluir</seg>
       </tuv>
     </tu>
     <tu>
