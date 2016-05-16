@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt; – clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="douglas" changedate="20160516T230351Z" creationid="douglas" creationdate="20160516T230351Z">
+        <seg>&lt;f0&gt;Soma&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt; – clicando no ícone Soma, totaliza os números nas células acima da célula e então coloca o total na célula selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;The next time that you create a document by choosing &lt;/f0&gt;&lt;f1&gt;File &gt; New&lt;/f1&gt;,&lt;f2&gt; the document will be created from the &lt;/f2&gt;&lt;f3&gt;&lt;f4&gt;original &lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;default template for the document type.&lt;/f5&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T135612Z" creationid="ohallot" creationdate="20160516T135612Z">
@@ -1954,6 +1962,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003600Z" creationid="ohallot" creationdate="20160516T003600Z">
         <seg>Se o estilo não estiver em uso, ele será excluído sem confirmação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If there are no numbers above the selected cell, then the cells to the left are totaled.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="douglas" changedate="20160516T230504Z" creationid="douglas" creationdate="20160516T230504Z">
+        <seg>Se não houver números acima da célula selecionada, a soma será feita pelos valores das células à esquerda.</seg>
       </tuv>
     </tu>
     <tu>
