@@ -494,6 +494,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;20&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Chapter 3 Using Styles and Templates&lt;/t3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T100203Z" creationid="ohallot" creationdate="20160517T100203Z">
+        <seg>&lt;t0&gt;20&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Capítulo 3 Utilizando Estilos e Modelos&lt;/t3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Chapter 3 Using Styles and Templates&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T100216Z" creationid="ohallot" creationdate="20160517T100216Z">
+        <seg>&lt;t0&gt;Capítulo 3 Utilizando Estilos e Modelos&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Examples of style use&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T100129Z" creationid="ohallot" creationdate="20160517T100129Z">
+        <seg>&lt;t0&gt;Exemplos do uso de estilos&lt;/t0&gt;&lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t2&gt;Figure 14&lt;/t2&gt; shows what we want to happen: the first page is to be followed by the default page, and all the following pages are to be in the &lt;f3&gt;Default&lt;/f3&gt; page style.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T142720Z" creationid="ohallot" creationdate="20160516T142720Z">
@@ -552,8 +576,8 @@
       <tuv lang="EN">
         <seg>A more complex example would be: &lt;/f6&gt;&lt;f7&gt;Title&lt;/f7&gt;&lt;f8&gt; followed by &lt;/f8&gt;&lt;f9&gt;Author&lt;/f9&gt;&lt;f10&gt; followed by &lt;/f10&gt;&lt;f11&gt;Abstract&lt;/f11&gt;&lt;f12&gt; followed by &lt;/f12&gt;&lt;f13&gt;Heading 1&lt;/f13&gt;&lt;f14&gt; followed by &lt;/f14&gt;&lt;f15&gt;Text Body&lt;/f15&gt;&lt;f16&gt;.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T095810Z" creationid="ohallot" creationdate="20160517T095810Z">
-        <seg>Um exemplo mais complexo seria: Título seguido pelo Autor, seguido pelo Resumo, seguido pelo Título 1, seguido pelo Corpo de Texto.</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T100016Z" creationid="ohallot" creationdate="20160517T095810Z">
+        <seg>&lt;/f6&gt;Um exemplo mais complexo seria: &lt;f7&gt;Título&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt; seguido por &lt;f9&gt;Autor&lt;/f9&gt;&lt;f10&gt;&lt;/f10&gt;, seguido por &lt;f11&gt;Resumo&lt;/f11&gt;&lt;f12&gt;&lt;/f12&gt;, seguido pelo &lt;f13&gt;Título 1&lt;/f13&gt;, seguido por &lt;f14&gt;&lt;/f14&gt;&lt;f15&gt;Corpo de Texto&lt;/f15&gt;&lt;f16&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -850,6 +874,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T094719Z" creationid="ohallot" creationdate="20160517T094719Z">
         <seg>Normalmente, o índice utiliza os estilos de títulos, mas é possível utilizar qualquer combinação de estilos que desejar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By setting up these sequences, you can usually avoid having to apply styles manually.&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T100034Z" creationid="ohallot" creationdate="20160517T100034Z">
+        <seg>&lt;/f16&gt;Configurando essas sequências, você em geral evita ter de aplicar os estilos manualmente.</seg>
       </tuv>
     </tu>
     <tu>
