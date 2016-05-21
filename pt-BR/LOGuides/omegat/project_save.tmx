@@ -3006,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you find that objects seem to disappear from a document that contains a lot of them, increase the number of objects in the cache.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T203231Z" creationid="user" creationdate="20160521T203231Z">
+        <seg>Se você perceber que os objetos parecem desaparecer de um documento que contém muitos deles, aumente o número de objetos no cache.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have enabled experimental features in &lt;f0&gt;Tools &gt; Options &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&gt; LibreOffice &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;&gt; Advanced&lt;/f3&gt;, the Template Manager shows a &lt;f4&gt;Repository&lt;/f4&gt; button that you can use to add other template repositories.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T122716Z" creationid="ohallot" creationdate="20160516T122716Z">
@@ -3058,6 +3066,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T003331Z" creationid="ohallot" creationdate="20160516T003331Z">
         <seg>Se o seu documento possui um Índice, e se você tiver estilos personalizados para os Títulos, os níveis de títulos associados a níveis da estrutura de tópicos &lt;f0&gt;em Ferramentas → Numeração da estrutura de tópicos&lt;/f0&gt; serão revertidos para os padrões de Título 1, Título 2, e assim por diante, quando carregar Estilos de texto&lt;f1&gt;&lt;/f1&gt; de um arquivo que não utiliza os mesmos estilos personalizados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your documents contain a lot of objects such as images, or the objects are large, LibreOffice’s performance may improve if you increase the memory for LibreOffice or the memory per object.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T203059Z" creationid="user" creationdate="20160521T203059Z">
+        <seg>Se seus documentos contém muitos objetos como imagens, ou se eles são grandes, o desempenho do LibreOffice pode melhorar se você aumentar a memória disponível para ele, ou a memória por objeto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,6 +3666,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160538Z" creationid="ohallot" creationdate="20160514T160538Z">
         <seg>Modificando estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More memory can make LibreOffice faster and more convenient (for example, more undo steps require more memory); but the trade-off is less memory available for other applications and you could run out of memory altogether.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T203017Z" creationid="user" creationdate="20160521T203017Z">
+        <seg>Mais memória pode fazer com que o LibreOffice fique mais rápido e mais conveniente (por exemplo, mais passos de desfazer necessitam de mais memória); mas a contrapartida é menos memória disponível para as outras aplicações e você pode ficar sem espaço de memória.</seg>
       </tuv>
     </tu>
     <tu>
