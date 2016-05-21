@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T212748Z" creationid="user" creationdate="20160521T212748Z">
+        <seg>(Não disponível no Windows.) Selecione esta opção para suavizar a aparência do texto na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The objects are still in the file even if you cannot see them on screen.)</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T203248Z" creationid="user" creationdate="20160521T203248Z">
@@ -2070,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the smallest font size to apply anti-aliasing.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T212816Z" creationid="user" creationdate="20160521T212816Z">
+        <seg>Entre com o menor tamanho de fonte para aplicar o suavizador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example formulas are shown below.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T015214Z" creationid="ohallot" creationdate="20160521T015214Z">
@@ -2274,6 +2290,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T224520Z" creationid="ohallot" creationdate="20160515T224520Z">
         <seg>Figura &lt;seq0&gt;3&lt;/seq0&gt;: Atualizando um estilo de uma seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Choosing View options for LibreOffice applications</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T213010Z" creationid="user" creationdate="20160521T213010Z">
+        <seg>Figura &lt;seq0&gt;4&lt;/seq0&gt;: Escolhendo as opções de exibição para aplicações do LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,6 +3814,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Middle mouse button</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T213048Z" creationid="user" creationdate="20160521T213048Z">
+        <seg>Botão do meio do mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifying styles</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160538Z" creationid="ohallot" creationdate="20160514T160538Z">
@@ -3802,6 +3834,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T203017Z" creationid="user" creationdate="20160521T203017Z">
         <seg>Mais memória pode fazer com que o LibreOffice fique mais rápido e mais conveniente (por exemplo, mais passos de desfazer necessitam de mais memória); mas a contrapartida é menos memória disponível para as outras aplicações e você pode ficar sem espaço de memória.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mouse positioning</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T213027Z" creationid="user" creationdate="20160521T213027Z">
+        <seg>Posicionamento do Mouse</seg>
       </tuv>
     </tu>
     <tu>
@@ -4895,6 +4935,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T201746Z" creationid="user" creationdate="20160521T201746Z">
         <seg>Especifica &lt;i0/&gt;como anos com dois dígitos são interpretados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specifies if and how the mouse pointer will be positioned in newly opened dialogs.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T213040Z" creationid="user" creationdate="20160521T213040Z">
+        <seg>Especifica se e como o ponteiro do mouse será posicionado nas caixas de diálogo recém abertas</seg>
       </tuv>
     </tu>
     <tu>
@@ -6067,6 +6115,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User interface – &lt;i0/&gt;&lt;i1/&gt;Screen font anti-aliasing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T212545Z" creationid="user" creationdate="20160521T212545Z">
+        <seg>Interface do Usuário – &lt;i0/&gt;&lt;i1/&gt;Suavização de fonte de tela</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using &lt;f0&gt;C&lt;/f0&gt;onsistent &lt;f1&gt;F&lt;/f1&gt;ormatting in &lt;f2&gt;Y&lt;/f2&gt;our &lt;f3&gt;D&lt;/f3&gt;ocuments</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T153847Z" creationid="ohallot" creationdate="20160514T153847Z">
@@ -6747,6 +6803,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>antialiasing screen font</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T212531Z" creationid="user" creationdate="20160521T212531Z">
+        <seg>Suavização da fonte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cells</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160516T222638Z" creationid="douglas" creationdate="20160514T160128Z">
@@ -7043,10 +7107,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>middle mouse button function</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T213130Z" creationid="user" creationdate="20160521T213059Z">
+        <seg>função Botão do meio do mouse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>modifying</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T223742Z" creationid="ohallot" creationdate="20160515T223742Z">
         <seg>modificar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mouse positioning</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T213022Z" creationid="user" creationdate="20160521T213022Z">
+        <seg>Posicionamento do Mouse</seg>
       </tuv>
     </tu>
     <tu>
