@@ -1622,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking the middle mouse button pastes at the mouse pointer position.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221640Z" creationid="user" creationdate="20160521T221640Z">
+        <seg>Clicando o botão do meio do mouse na posição do seu ponteiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clipboard</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T221313Z" creationid="user" creationdate="20160521T221313Z">
@@ -1966,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T222103Z" creationid="user" creationdate="20160521T222103Z">
+        <seg>Acessa diretamente as funcionalidades da placa de vídeo para melhorar a exibição na tela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displaying different headers on right and left pages</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160947Z" creationid="ohallot" creationdate="20160514T160947Z">
@@ -2130,6 +2146,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="CMP" changedate="20160521T041303Z" creationid="ohallot" creationdate="20160514T155541Z">
         <seg>Efeito</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T222223Z" creationid="user" creationdate="20160521T222223Z">
+        <seg>Ativa e desativa a suavização, que faz com que a exibição da maioria dos objetos pareça mais suave, com menos detalhes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,6 +2962,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T172449Z" creationid="ohallot" creationdate="20160514T172449Z">
         <seg>Figuras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics output – Use anti-aliasing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T222149Z" creationid="user" creationdate="20160521T222149Z">
+        <seg>Saída gráfica - Utilizar suavização</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Graphics output – Use hardware acceleration</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221906Z" creationid="user" creationdate="20160521T221906Z">
+        <seg>Saída gráfica - Utilizar aceleração de hardware</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No effect on the clipboard contents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221726Z" creationid="user" creationdate="20160521T221726Z">
+        <seg>Não afeta o conteúdo da área de transferência.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nor can you delete any folders &lt;f0&gt;add&lt;/f0&gt;ed by the Extension Manager unless you first &lt;f1&gt;delete &lt;/f1&gt;the extension that installed them.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T141625Z" creationid="ohallot" creationdate="20160516T141625Z">
@@ -4026,6 +4074,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T201252Z" creationid="user" creationdate="20160521T201252Z">
         <seg>Normalmente quando um documento não é modificado, a &lt;f0&gt;opção do menu Arquivo &gt; Salvar&lt;/f0&gt; e o ícone Salvar na barra de ferramentas padrão ficam desabilitados e o atalho de teclado &lt;f1&gt;Ctrl+S&lt;/f1&gt; não tem efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not supported on all operating systems and LibreOffice distributions.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T222117Z" creationid="user" creationdate="20160521T222117Z">
+        <seg>Isso não é suportado por todos os sistemas operacionais e distribuições do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4290,6 +4346,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T221525Z" creationid="user" creationdate="20160521T221525Z">
         <seg>Colar conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pasting into another document</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221716Z" creationid="user" creationdate="20160521T221716Z">
+        <seg>Colar em outro documento</seg>
       </tuv>
     </tu>
     <tu>
@@ -5519,6 +5583,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T185144Z" creationid="user" creationdate="20160521T185144Z">
         <seg>As ilustrações neste capítulo exibem a lista como aparece quando um documento do Writer estiver aberto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last marked selection is the content of the selection clipboard.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221742Z" creationid="user" creationdate="20160521T221742Z">
+        <seg>A última seleção marcada é o conteúdo da área de transferência da seleção.</seg>
       </tuv>
     </tu>
     <tu>
