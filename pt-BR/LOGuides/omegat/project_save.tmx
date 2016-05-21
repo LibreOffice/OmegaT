@@ -358,6 +358,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; &lt;f1&gt;Ctrl+C&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221503Z" creationid="user" creationdate="20160521T221503Z">
+        <seg>&lt;f0&gt;Editar &gt; Copiar&lt;/f0&gt;&lt;f1&gt; Control+C&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit &gt; Paste&lt;/f0&gt; &lt;f1&gt;Ctrl+V&lt;/f1&gt; pastes at the cursor position.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221625Z" creationid="user" creationdate="20160521T221625Z">
+        <seg>&lt;f0&gt;Editar &gt; Colar&lt;/f0&gt;&lt;f1&gt; Control+V&lt;/f1&gt; cola na posição do cursor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example &lt;f1&gt;Undo&lt;/f1&gt;, &lt;f2&gt;Copy&lt;/f2&gt;, &lt;f3&gt;Changes&lt;/f3&gt;, &lt;f4&gt;Fill&lt;/f4&gt;, &lt;f5&gt;Plug-in&lt;/f5&gt; and so on.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T162923Z" creationid="douglas" creationdate="20160514T162923Z">
@@ -1606,6 +1622,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clipboard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221313Z" creationid="user" creationdate="20160521T221313Z">
+        <seg>Área de transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clipboard and “Selection clipboard” can contain different contents at the same time.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221253Z" creationid="user" creationdate="20160521T221253Z">
+        <seg>A Área de transferência e "Área de transferência da seleção" pode ter diferentes conteúdos ao mesmo tempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close the Template Manager dialog.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T010525Z" creationid="ohallot" creationdate="20160516T010525Z">
@@ -1706,6 +1738,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="CMP" changedate="20160521T042054Z" creationid="CMP" creationdate="20160521T042054Z">
         <seg>Controlando a impressão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copy content</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221430Z" creationid="user" creationdate="20160521T221430Z">
+        <seg>Copiar conteúdo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,6 +2794,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T005405Z" creationid="ohallot" creationdate="20160516T005405Z">
         <seg>Nas guias no topo da caixa, selecione a categoria do modelo desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221307Z" creationid="user" creationdate="20160521T221307Z">
+        <seg>Função</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4286,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paste content</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221525Z" creationid="user" creationdate="20160521T221525Z">
+        <seg>Colar conteúdo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Paths options</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T182003Z" creationid="user" creationdate="20160521T182003Z">
@@ -4814,6 +4870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select text, table, or object.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221512Z" creationid="user" creationdate="20160521T221512Z">
+        <seg>Seleciona texto, tabela ou objeto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; button.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T222415Z" creationid="ohallot" creationdate="20160515T222415Z">
@@ -4930,6 +4994,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T155602Z" creationid="CMP" creationdate="20160521T042639Z">
         <seg>Selecionando páginas/folhas/sides para imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selection clipboard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221421Z" creationid="user" creationdate="20160521T221421Z">
+        <seg>Área de transferência da seleção</seg>
       </tuv>
     </tu>
     <tu>
@@ -5231,6 +5303,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T160709Z" creationid="douglas" creationdate="20160514T160709Z">
         <seg>A &lt;i0/&gt;barra de título, localizada no alto da tela, mostra o nome da planilha atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;i0/&gt;“Selection clipboard” is independent of the normal clipboard that you use by &lt;f1&gt;Edit &gt; Copy/Cut/Paste&lt;/f1&gt; or their respective keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221129Z" creationid="user" creationdate="20160521T221129Z">
+        <seg>A &lt;i0/&gt;“Área de transferência da seleção” é independente da área de transferência normal utilizada pelo &lt;f1&gt;Editar &gt; Copiar/Recortar/Colar&lt;/f1&gt; ou seus respectivos atalhos de teclado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7327,6 +7407,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T204931Z" creationid="Xys" creationdate="20160521T204901Z">
         <seg>Selecionando o que imprimir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>selection clipboard</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160521T221013Z" creationid="user" creationdate="20160521T221013Z">
+        <seg>Área de transferência da seleção</seg>
       </tuv>
     </tu>
     <tu>
