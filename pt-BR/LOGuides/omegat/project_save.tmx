@@ -2526,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Viewing the paths of files used by LibreOffice</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T003918Z" creationid="user" creationdate="20160522T003918Z">
+        <seg>Figura &lt;seq0&gt;7&lt;/seq0&gt;: Vendo os caminhos dos arquivos utilizados pelo LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Template Manager dialog</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T010539Z" creationid="ohallot" creationdate="20160516T010539Z">
@@ -4270,6 +4278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that some items can have at least two paths listed: one to a shared folder (which might be on a network) and one to a user-specific folder (normally on the user’s personal computer).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T003457Z" creationid="user" creationdate="20160522T003457Z">
+        <seg>Note alguns itens podem ter pelo menos dois caminhos listados: um para uma pasta compartilhada (que pode estar numa rede) e outro para uma pasta específica do usuário (normalmente no seu computador pessoal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T014211Z" creationid="ohallot" creationdate="20160521T014211Z">
@@ -4306,6 +4322,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T151931Z" creationid="Xys" creationdate="20160521T151851Z">
         <seg>Na aba &lt;f0&gt;&lt;Geral&lt;/f0&gt; da janela Imprimir, pode-se escolher:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;LibreOffice – Colors&lt;/f0&gt; page, you can specify colors to use in LibreOffice documents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T004003Z" creationid="user" creationdate="20160522T004003Z">
+        <seg>Na &lt;f0&gt;página LibreOffice – Cores&lt;/f0&gt;, você pode especificar as cores que serão utilizadas nos documentos do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,8 +5901,8 @@
       <tuv lang="EN">
         <seg>The options on the &lt;f0&gt;LibreOffice – Memory&lt;/f0&gt; page control how LibreOffice uses your computer’s memory and how much memory it requires.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="user" changedate="20160521T202742Z" creationid="user" creationdate="20160521T202742Z">
-        <seg>As opções da &lt;f0&gt;página LibreOffice - Memória&lt;/f0&gt; controla como LibreOffice utiliza a memória do seu computador e quanta memória que ele requer. </seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T003729Z" creationid="user" creationdate="20160521T202742Z">
+        <seg>As opções da &lt;f0&gt;caixa de diálogo LibreOffice - Memória&lt;/f0&gt; controla como LibreOffice utiliza a memória do seu computador e quanta memória que ele requer. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6031,6 +6055,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T135454Z" creationid="ohallot" creationdate="20160516T135454Z">
         <seg>Estas escolhas só existem quando um modelo personalizado foi definido como padrão, como descrito na seção anterior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These colors are stored in your color palette and are then available in all components of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T004043Z" creationid="user" creationdate="20160522T004043Z">
+        <seg>Essas cores são armazenadas na sua paleta de cores e estarão disponíveis para todos os componentes do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6415,6 +6447,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T131809Z" creationid="ohallot" creationdate="20160516T131809Z">
         <seg>&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;Para fazer com que estas alterações sejam as definições para este tipo de documento, você precisa substituir o modelo padrão por outro modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify a color:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T004057Z" creationid="user" creationdate="20160522T004057Z">
+        <seg>Para alterar uma cor:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7187,6 +7227,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can select a color from a color table, edit an existing color, and define new colors.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T004021Z" creationid="user" creationdate="20160522T004021Z">
+        <seg>Você pode selecionar uma cor de uma tabela, editar uma cor existente e definir novas cores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can set any template displayed in the Template Manager dialog to be the default &lt;f0&gt;for that document type&lt;/f0&gt;:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T131837Z" creationid="ohallot" creationdate="20160516T131837Z">
@@ -7199,6 +7247,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T225340Z" creationid="ohallot" creationdate="20160515T225340Z">
         <seg>Você pode atualizar estilos copiando &lt;f0&gt;(&lt;/f0&gt;carregando-os&lt;f1&gt;)&lt;/f1&gt; de um modelo ou de outro documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use the entries on the &lt;f0&gt;LibreOffice – Paths&lt;/f0&gt; page to compile a list of files, such as those containing AutoText, that you need to back up or copy to another computer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T003850Z" creationid="user" creationdate="20160522T003622Z">
+        <seg>Você pode utilizar entradas na &lt;f0&gt;página LibreOffice – Caminhos&lt;/f0&gt; para compilar uma lista de arquivos, como os do Autotexto, que você precisa salvar separadamente ou fazer uma cópia para outro computador.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7351,6 +7407,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T215259Z" creationid="user" creationdate="20160521T215259Z">
         <seg>Área de transferência</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>color options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T003933Z" creationid="user" creationdate="20160522T003933Z">
+        <seg>Opções de cores</seg>
       </tuv>
     </tu>
     <tu>
