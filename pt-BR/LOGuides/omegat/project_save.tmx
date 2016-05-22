@@ -3422,6 +3422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a closing tag, an HTML_OFF will be created.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193453Z" creationid="user" creationdate="20160522T193453Z">
+        <seg>Para cada tag fechada, um campo HTML_OFF será criado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a long document, this simple task can require making individual changes in dozens of places.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165809Z" creationid="ohallot" creationdate="20160514T165809Z">
@@ -3434,6 +3442,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="CMP" changedate="20160521T041227Z" creationid="ohallot" creationdate="20160514T155532Z">
         <seg>Para uma lista mais detalhada, acesse o menu Ajuda do aplicativo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For an opening tag, an HTML_ON field will be created with the value of the tag name.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193438Z" creationid="user" creationdate="20160522T193438Z">
+        <seg>Para cada tag aberta, um campo HTML_ON será criado com o valor do nome da tag.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4158,6 +4174,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is &lt;f0&gt;not&lt;/f0&gt; selected, numbers will be interpreted according to the &lt;f1&gt;Locale setting&lt;/f1&gt; in &lt;f2&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f2&gt; (see page &lt;bf3&gt;24&lt;/bf3&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193127Z" creationid="user" creationdate="20160522T193016Z">
+        <seg>Se esta opção &lt;f0&gt;não&lt;/f0&gt; estiver selecionada, os números serão interpretados de acordo com o &lt;f1&gt;Idioma&lt;/f1&gt; – configuração regional em &lt;f2&gt;Ferramentas &gt; Opções &gt; Configurações de Idioma &gt; Idiomas&lt;/f2&gt; (veja a página &lt;bf3&gt;24&lt;/bf3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, numbers will be interpreted as for the English (USA) locale.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193400Z" creationid="user" creationdate="20160522T193159Z">
+        <seg>Se esta opção estiver selecionada, os números serão interpretados pela configuração Inglês (EUA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is selected, then the next time you close the document after printing, the print date is recorded in the document properties as a change and you will be prompted to save the document again, even if you did not make any other changes.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T200841Z" creationid="user" creationdate="20160521T200841Z">
@@ -4482,6 +4514,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T122930Z" creationid="ohallot" creationdate="20160516T122930Z">
         <seg>Importe o modelo para uma pasta de modelos seguindo as instruções em “&lt;bf0&gt;Importar um modelo&lt;/bf0&gt;” na página &lt;bf1&gt;20&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import – Ignore font settings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193523Z" creationid="user" creationdate="20160522T193523Z">
+        <seg>Importar - Ignorar configurações de fontes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import – Import unknown HTML tags as fields</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193420Z" creationid="user" creationdate="20160522T193420Z">
+        <seg>Importar - Importar tags HTML desconhecidas como campos</seg>
       </tuv>
     </tu>
     <tu>
@@ -6902,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option if you want tags that are not recognized by LibreOffice to be imported as fields.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193430Z" creationid="user" creationdate="20160522T193430Z">
+        <seg>Selecione esta opção se você quiser que as tags HTML que não forem reconhecidas pelo LibreOffice sejam importadas como campos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on your computer.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T165322Z" creationid="user" creationdate="20160522T165322Z">
@@ -8023,6 +8079,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T004043Z" creationid="user" creationdate="20160522T004043Z">
         <seg>Essas cores são armazenadas na sua paleta de cores e estarão disponíveis para todos os componentes do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These fields will be converted to tags in the HTML export.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193502Z" creationid="user" creationdate="20160522T193502Z">
+        <seg>Esses campos serão convertidos em tags, na exportação como HTML.</seg>
       </tuv>
     </tu>
     <tu>
