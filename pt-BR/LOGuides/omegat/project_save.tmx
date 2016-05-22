@@ -2366,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Default currency</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T201931Z" creationid="user" creationdate="20160522T201931Z">
+        <seg>Moeda padrão</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default file format and ODF settings</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T184630Z" creationid="user" creationdate="20160522T184630Z">
@@ -4190,6 +4198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f0&gt;Decimal separator key&lt;/f0&gt; option is selected, LibreOffice will use the character defined by the default locale.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T201821Z" creationid="user" creationdate="20160522T201821Z">
+        <seg>Se a opção &lt;f0&gt;Tecla separadora de decimais&lt;/f0&gt; é selecionado, o LibreOffice irá usar o caractere definido pela localidade padrão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;f3&gt;Display warning&lt;/f3&gt; option is selected, then when exporting to HTML a warning is shown that LibreOffice Basic macros will be lost.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T194633Z" creationid="user" creationdate="20160522T194633Z">
@@ -4290,6 +4306,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T193127Z" creationid="user" creationdate="20160522T193016Z">
         <seg>Se esta opção &lt;f0&gt;não&lt;/f0&gt; estiver selecionada, os números serão interpretados de acordo com o &lt;f1&gt;Idioma&lt;/f1&gt; – configuração regional em &lt;f2&gt;Ferramentas &gt; Opções &gt; Configurações de Idioma &gt; Idiomas&lt;/f2&gt; (veja a página &lt;bf3&gt;24&lt;/bf3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is not selected, the keyboard driver defines the character used.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T201847Z" creationid="user" creationdate="20160522T201847Z">
+        <seg>Se essa opção não for selecionada, o driver do teclado define o caractere usado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7595,6 +7619,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f0&gt;Default currency&lt;/f0&gt; is that used in the country entered as &lt;f1&gt;Locale&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T202106Z" creationid="user" creationdate="20160522T202106Z">
+        <seg>A &lt;f0&gt;Moeda padrão&lt;/f0&gt; e a utilizada no país inserido como &lt;f1&gt;Regional&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;Range and copies&lt;/f0&gt; section of the Print dialog now includes a &lt;f1&gt;Selection&lt;/f1&gt; option and the preview box shows the selected material.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T212001Z" creationid="Xys" creationdate="20160521T211510Z">
@@ -7903,6 +7935,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T145302Z" creationid="user" creationdate="20160522T145302Z">
         <seg>O comportamento padrão no LibreOffice é &lt;f0&gt;Ctrl+clique&lt;/f0&gt; sobre um hyperlink para abrir o documento vinculado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default currency determines the proper formatting of fields formatted as currency.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T202129Z" creationid="user" creationdate="20160522T202129Z">
+        <seg>A moeda padrão determina a formatação adequada de campos formatados como moeda.</seg>
       </tuv>
     </tu>
     <tu>
