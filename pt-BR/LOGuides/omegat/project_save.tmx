@@ -2998,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Choosing Load/Save VBA Properties</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185635Z" creationid="user" creationdate="20160522T185635Z">
+        <seg>Figura &lt;seq0&gt;22&lt;/seq0&gt;: Escolhendo as opções Carregar/Salvar das propriedades do VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Choosing whether and where to print comments</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T154205Z" creationid="Xys" creationdate="20160521T154205Z">
@@ -4110,6 +4118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are importing a Microsoft Word or Excel file containing VBA code, you can select the option &lt;f0&gt;Executable code&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T190203Z" creationid="user" creationdate="20160522T190203Z">
+        <seg>Se você está importando um arquivo do Microsoft Word ou Excel contendo código VBA, você pode selecionar a opção &lt;f0&gt;Código executável&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are in the habit of manually overriding styles in your document, be sure that AutoUpdate is &lt;f0&gt;not &lt;/f0&gt;enabled.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T225317Z" creationid="ohallot" creationdate="20160515T225317Z">
@@ -4130,6 +4146,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T121653Z" creationid="ohallot" creationdate="20160516T121653Z">
         <seg>Ao selecionar &lt;f0&gt;Manter os estilos antigos&lt;/f0&gt;, o documento não será mais vinculado ao modelo, mesmo que o modelo continue a ser listado em &lt;f1&gt;Arquivo &gt; Propriedades &gt; Geral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you choose &lt;i0/&gt;&lt;f1&gt;Load Basic code&lt;/f1&gt;, you can edit the macros in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185853Z" creationid="user" creationdate="20160522T185853Z">
+        <seg>Se você escolher &lt;i0/&gt;&lt;f1&gt;Carregar código Basic&lt;/f1&gt;, você pode editar macros no LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you choose &lt;i0/&gt;&lt;f1&gt;Save original Basic code&lt;/f1&gt;, the macros will not work in LibreOffice but are retained unchanged if you save the file into Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T190135Z" creationid="user" creationdate="20160522T190135Z">
+        <seg>Se você escolher &lt;i0/&gt;&lt;f1&gt;Salvar o códigoBasic original&lt;/f1&gt;, as macros não funcionarão no LibreOffice mas serão mantidas se você salvar o arquivo no formato do Microsoft Office.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7355,6 +7387,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changed code is saved in an ODF document but is not retained if you save into a Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185939Z" creationid="user" creationdate="20160522T185939Z">
+        <seg>O código alterado é salvo em um documento ODS, mas não é mantida se você salvar em um formato Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The changed color appears in the lower of the two color preview boxes at the top.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T004717Z" creationid="user" creationdate="20160522T004717Z">
@@ -9995,6 +10035,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>load Basic code to edit</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185733Z" creationid="user" creationdate="20160522T185733Z">
+        <seg>carregar código Basic para editar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>macro recording</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T154909Z" creationid="user" creationdate="20160522T154821Z">
@@ -10207,6 +10255,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T171259Z" creationid="user" creationdate="20160522T171217Z">
         <seg>Informação Salvar autorecuperação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>save original Basic code</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T190005Z" creationid="user" creationdate="20160522T190005Z">
+        <seg>Salvar código Basic originar</seg>
       </tuv>
     </tu>
     <tu>
