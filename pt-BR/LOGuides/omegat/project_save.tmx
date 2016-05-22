@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;ODF format version.&lt;/f0&gt; LibreOffice by default saves documents &lt;i1/&gt;in OpenDocument Format (ODF) version 1.2 Extended.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184855Z" creationid="user" creationdate="20160522T184855Z">
+        <seg>&lt;f0&gt;versão do formato ODF&lt;/f0&gt;. O LibreOffice por padrão salva documentos&lt;i1/&gt; no formato OpenDocument (ODF) versão 1.2 Extensão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Outline&lt;/f0&gt; prints the title and headings of each slide in outline format.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160522T030011Z" creationid="Xys" creationdate="20160522T030011Z">
@@ -2274,6 +2282,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T154807Z" creationid="douglas" creationdate="20160514T154807Z">
         <seg>Funções de banco de dados, para organizar, armazenas e filtrar dados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Default file format and ODF settings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184630Z" creationid="user" creationdate="20160522T184630Z">
+        <seg>Formato de arquivo padrão e configurações do ODF</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer absolute saving, all references to other files will also be defined as absolute, based on the respective drive, volume or root directory.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184510Z" creationid="user" creationdate="20160522T184510Z">
+        <seg>Se preferir a salvamento absoluto, todas as referências a outros arquivos também será definido como absoluto, com base no respectivo directório da unidade, volume ou raiz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer selected material to appear in reversed color (typically white text on a black background), deselect this option.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T232707Z" creationid="user" creationdate="20160521T232707Z">
@@ -4830,6 +4854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also recommended to save relatively if you want to create a directory structure on an Internet server.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184409Z" creationid="user" creationdate="20160522T184409Z">
+        <seg>Isso é recomendado para salvar o relacionamento caso você quiser criar uma estrutura de diretórios ou um servidor de Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is not available on Mac OS X or on systems where the Quickstarter module has not been installed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T205914Z" creationid="user" creationdate="20160521T205914Z">
@@ -5382,6 +5414,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODF format version, saving</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184649Z" creationid="user" creationdate="20160522T184649Z">
+        <seg>Versão do formato ODF, salvando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often applying a style means applying a whole group of formats at the same time.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165602Z" creationid="ohallot" creationdate="20160514T165602Z">
@@ -5626,6 +5666,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T200041Z" creationid="user" creationdate="20160521T200041Z">
         <seg>Caixa de diálogo Abrir/Salvar&lt;ie0/&gt; – Utilize as caixas de diálogo do LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument Format</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184707Z" creationid="user" creationdate="20160522T184707Z">
+        <seg>Formato OpenDocument</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,6 +7275,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The advantage is that the document containing the references can be moved to other directories or folders, and the references remain valid.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184536Z" creationid="user" creationdate="20160522T184536Z">
+        <seg>A vantagem é que o documento que contém as referências pode ser movido para outros diretórios ou pastas, e as referências permanecem válidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The available choices vary from one printer to another, but you should find options for the Color settings.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160522T120235Z" creationid="Xys" creationdate="20160522T120235Z">
@@ -7383,6 +7439,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T002233Z" creationid="ohallot" creationdate="20160516T002233Z">
         <seg>O elemento a arrastar depende da aplicação do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The files will be found regardless of location, as long as the reference remains on the same drive or volume.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184314Z" creationid="user" creationdate="20160522T184314Z">
+        <seg>Os arquivos serão encontrados, independentemente da localização, enquanto a referência permanece na mesma unidade ou volume.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7855,6 +7919,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T233155Z" creationid="user" creationdate="20160521T233155Z">
         <seg>Este formato tem um número de vantagens sobre postscript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is important if you want to make the document available to other computers that may have a completely different directory structure, drive or volume names.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184354Z" creationid="user" creationdate="20160522T184354Z">
+        <seg>Isto é importante se você quiser tornar o documento disponível para outros computadores que possam ter uma estrutura de diretório completamente diferente, movimentação ou nomes de volume.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8819,6 +8891,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While this allows for improved functionality, there may be backwards compatibility issues.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184905Z" creationid="user" creationdate="20160522T184905Z">
+        <seg> While this allows for improved functionality, there may be backwards compatibility issues.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows or Linux</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T155534Z" creationid="ohallot" creationdate="20160514T155534Z">
@@ -9543,6 +9623,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T225533Z" creationid="ohallot" creationdate="20160515T225533Z">
         <seg>personalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>default file format</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184623Z" creationid="user" creationdate="20160522T184623Z">
+        <seg>formato de arquivo padrão</seg>
       </tuv>
     </tu>
     <tu>
