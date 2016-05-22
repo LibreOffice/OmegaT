@@ -2806,6 +2806,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export – Character set</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194730Z" creationid="user" creationdate="20160522T194730Z">
+        <seg>Exportar – Conjunto de caracteres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export – Copy local graphics to Internet</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194717Z" creationid="user" creationdate="20160522T194717Z">
+        <seg>Exportar – Copiar figuras locais para a Internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Export – Display warning</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T194357Z" creationid="user" creationdate="20160522T194357Z">
@@ -2818,6 +2834,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T193924Z" creationid="user" creationdate="20160522T193924Z">
         <seg>Exportar - LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export – Print layout</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194641Z" creationid="user" creationdate="20160522T194641Z">
+        <seg>Exportar – Layout de Impressão</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,6 +4150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the &lt;f3&gt;Display warning&lt;/f3&gt; option is selected, then when exporting to HTML a warning is shown that LibreOffice Basic macros will be lost.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194633Z" creationid="user" creationdate="20160522T194633Z">
+        <seg>Se a opção &lt;f3&gt;Exibir aviso&lt;/f3&gt; for selecionada, quando você exportar como HTML, um aviso será exibido mostrando que as macros feitas no LibreOffice Basic serão perdidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the &lt;i0/&gt;&lt;f1&gt;Download updates automatically&lt;/f1&gt; option is selected, the download starts when you click the icon.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T164156Z" creationid="user" creationdate="20160522T164156Z">
@@ -5058,6 +5090,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T145148Z" creationid="Xys" creationdate="20160521T145148Z">
         <seg>Visualização inicial da janela de Opções do PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install the required &lt;i0/&gt;dictionaries</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194919Z" creationid="user" creationdate="20160522T194919Z">
+        <seg>Instale os &lt;i0/&gt;dicionários necessários</seg>
       </tuv>
     </tu>
     <tu>
@@ -6942,6 +6982,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the appropriate character set for the export.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194734Z" creationid="user" creationdate="20160522T194734Z">
+        <seg>Selecione o conjunto de caracteres apropriado para ser exportado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the color to modify from the list or the color table.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T004604Z" creationid="user" creationdate="20160522T004604Z">
@@ -7054,10 +7102,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select this option to automatically upload the embedded pictures to the Internet server when uploading using FTP.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194723Z" creationid="user" creationdate="20160522T194723Z">
+        <seg>Selecione esta opção para fazer o carregamento automático das figuras embutidas para o servidor na Internet quando utilizar o acesso por FTP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select this option to change the internal print job format from a Postscript document description to a PDF description.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T233116Z" creationid="user" creationdate="20160521T233116Z">
         <seg>Seleccione esta opção para alterar o formato de trabalho de impressão interna a partir de uma descrição do documento Postscript para uma descrição PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to export the print layout of the current document as well.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194655Z" creationid="user" creationdate="20160522T194655Z">
+        <seg>Selecione esta opção para exportar, também, o layout de impressão do documento atual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7559,6 +7623,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T015558Z" creationid="ohallot" creationdate="20160521T015508Z">
         <seg>O editor de fórmulas Math utiliza uma linguagem de marcação para representar fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The HTML filter supports CSS2 (Cascading Style Sheets Level 2) for printing documents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194702Z" creationid="user" creationdate="20160522T194702Z">
+        <seg>O filtro HTML suporta CSS2 (Cascading Style Sheets Nível 2) para a impressão de documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8155,6 +8227,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These capabilities are only effective if print layout export is activated.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194712Z" creationid="user" creationdate="20160522T194712Z">
+        <seg>Essas funcionalidades somente são efetivas se a exportação do layout de impressão está ativa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These choices do &lt;f0&gt;not&lt;/f0&gt; affect the default font for your documents.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T130017Z" creationid="user" creationdate="20160522T130017Z">
@@ -8535,6 +8615,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T011940Z" creationid="ohallot" creationdate="20160516T011940Z">
         <seg>Para criar um modelo utilizando um assistente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To customize the language settings in LibreOffice, you can do any of the following:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194828Z" creationid="user" creationdate="20160522T194828Z">
+        <seg>Para personalizar as configurações de idioma no LibreOffice, você pode fazer qualquer um dos seguintes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10131,6 +10219,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>dictionaries, installing</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194903Z" creationid="user" creationdate="20160522T194903Z">
+        <seg>dictionários, instalando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>different first page</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T142501Z" creationid="ohallot" creationdate="20160516T142501Z">
@@ -10399,6 +10495,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T093959Z" creationid="ohallot" creationdate="20160517T093959Z">
         <seg>páginas paisagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>language settings</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194751Z" creationid="user" creationdate="20160522T194751Z">
+        <seg>configurações de idioma</seg>
       </tuv>
     </tu>
     <tu>
