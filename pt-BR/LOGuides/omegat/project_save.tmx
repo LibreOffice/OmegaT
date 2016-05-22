@@ -2806,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Export – LibreOffice Basic</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193924Z" creationid="user" creationdate="20160522T193924Z">
+        <seg>Exportar - LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exporting a template</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T160921Z" creationid="ohallot" creationdate="20160514T160921Z">
@@ -4054,6 +4062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If LibreOffice Writer is selected, specific LibreOffice Writer instructions are exported.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193918Z" creationid="user" creationdate="20160522T193918Z">
+        <seg>Se for selecionado o LibreOffice Writer, instruções específicas do LibreOffice Writer serão exportadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If LibreOffice finds one or more JREs, it will display them there.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T154029Z" creationid="user" creationdate="20160522T154029Z">
@@ -5174,6 +5190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice Basic macros must be located in the header of the HTML document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194027Z" creationid="user" creationdate="20160522T194027Z">
+        <seg>As macros do LibreOffice Basic devem estar localizadas no cabeçalho (HEADER) do documento HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice can use only those templates that are in its template folders.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T141405Z" creationid="ohallot" creationdate="20160516T141405Z">
@@ -5818,6 +5842,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T022205Z" creationid="ohallot" creationdate="20160521T022205Z">
         <seg>A partir da barra de menus, escolha &lt;f0&gt;Arquivo → Novo → Fórmula&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have created the macro in the LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T194211Z" creationid="user" creationdate="20160522T194211Z">
+        <seg>Uma vez criada a macro na IDE Basic do LibreOffice, ela aparece no  código fonte do documento HTML, entre as tags &lt;HEADER&gt; e &lt;/HEADER&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7010,6 +7042,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T193659Z" creationid="user" creationdate="20160522T193659Z">
         <seg>Selecione esta opção para que o LibreOffice &lt;i0/&gt;&lt;i1/&gt;ignore todas as configurações de fontes na importação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option to include LibreOffice Basic macros (scripts) when exporting to HTML format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193933Z" creationid="user" creationdate="20160522T193933Z">
+        <seg>Selecione esta opção para incluir macros do LibreOffice Basic (scripts) quando exportar no formato HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9783,6 +9823,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T125853Z" creationid="user" creationdate="20160522T125853Z">
         <seg>Você pode querer definir uma fonte diferente da que o programa escolhe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must activate this option &lt;f0&gt;before&lt;/f0&gt; you create the LibreOffice Basic macro; otherwise the script will not be inserted.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T193958Z" creationid="user" creationdate="20160522T193958Z">
+        <seg>Você deve ativar esta opção &lt;f0&gt;antes&lt;/f0&gt; de criar uma macro do LibreOffice Basic; caso contrário o script não será inserido.</seg>
       </tuv>
     </tu>
     <tu>
