@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Many pages no longer use these tags.)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192547Z" creationid="user" creationdate="20160522T192547Z">
+        <seg>(Muitas páginas não utilizam mais essas tags.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Not available in Windows.) Select this option to smooth the screen appearance of text.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T212748Z" creationid="user" creationdate="20160521T212748Z">
@@ -586,6 +594,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T170347Z" creationid="ohallot" creationdate="20160514T170347Z">
         <seg>&lt;f0&gt;Estilos de apresentação&lt;/f0&gt; incluem atributos das fontes, identações, espaçamento, alinhamento, e tabulações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Save original Basic code&lt;/f0&gt; takes precedence over &lt;f1&gt;Load Basic code&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T191730Z" creationid="user" creationdate="20160522T191730Z">
+        <seg>&lt;f0&gt;Salvar código Basic original&lt;/f0&gt; tem precedência sobre &lt;f1&gt;Carregar código Basic&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choices made on the &lt;f0&gt;Load/Save – HTML Compatibility&lt;/f0&gt; page affect HTML pages imported into LibreOffice and those exported from LibreOffice.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192313Z" creationid="user" creationdate="20160522T192313Z">
+        <seg>As escolhas feitas na página &lt;f0&gt;Carregar/Salvar – Compatibilidade com HTML&lt;/f0&gt; afetam páginas HTML importadas para o LibreOffice e as exportadas por ele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt; from the Menu bar, or press &lt;f1&gt;Ctrl+P&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T210951Z" creationid="Xys" creationdate="20160521T205521Z">
@@ -1714,6 +1738,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T184916Z" creationid="user" creationdate="20160521T184916Z">
         <seg>Escolhendo &lt;i0/&gt;opções para todo o LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choosing HTML compatibility options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192421Z" creationid="user" creationdate="20160522T192421Z">
+        <seg>Escolhendo as opções de compatibilidade com HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -3006,6 +3038,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Choosing Load/Save Microsoft Office options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192148Z" creationid="user" creationdate="20160522T192148Z">
+        <seg>Figura &lt;seq0&gt;23&lt;/seq0&gt;: Escolhendo as opções de carregar/salvar Microsoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192402Z" creationid="user" creationdate="20160522T192402Z">
+        <seg>FigurA &lt;seq0&gt;24&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Choosing whether and where to print comments</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T154205Z" creationid="Xys" creationdate="20160521T154205Z">
@@ -3330,6 +3378,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T135046Z" creationid="user" creationdate="20160522T135046Z">
         <seg>A substituição de fonte somente na tela, se a fonte está instalado ou não.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font sizes</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192426Z" creationid="user" creationdate="20160522T192426Z">
+        <seg>Tamanhos de fonte</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +4038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T191758Z" creationid="user" creationdate="20160522T191758Z">
+        <seg>Se ambas as opções são selecionados e você editar o código desativado no LibreOffice, o código original Microsoft Basic será salvo quando salvar em um formato Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If disabled, your standard printer will be used to print this document.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T171012Z" creationid="user" creationdate="20160522T171012Z">
@@ -4418,6 +4482,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T122930Z" creationid="ohallot" creationdate="20160516T122930Z">
         <seg>Importe o modelo para uma pasta de modelos seguindo as instruções em “&lt;bf0&gt;Importar um modelo&lt;/bf0&gt;” na página &lt;bf1&gt;20&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import – Use 'English (USA)' locale for numbers</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192556Z" creationid="user" creationdate="20160522T192556Z">
+        <seg>Importar- Utilizar o local 'Inglês (EUA)' para números</seg>
       </tuv>
     </tu>
     <tu>
@@ -5270,6 +5342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Office file conversion</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T191953Z" creationid="user" creationdate="20160522T191953Z">
+        <seg>Conversão de arquivoMicrosoft Office</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Middle mouse button</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T213048Z" creationid="user" creationdate="20160521T213048Z">
@@ -5586,6 +5666,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T232829Z" creationid="user" creationdate="20160521T232829Z">
         <seg>Na &lt;f0&gt;página LibreOffice – Imprimir&lt;/f0&gt;, ajuste as opções de impressão de acordo com a sua impressora padrão e seu método de impressão mais frequente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the &lt;f0&gt;Load/Save – Microsoft Office&lt;/f0&gt; page, you can choose what to do when importing and exporting Microsoft Office OLE objects (linked or embedded objects or documents such as spreadsheets or equations).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192051Z" creationid="user" creationdate="20160522T192051Z">
+        <seg>Na página &lt;f0&gt;Carregar/Salvar – Microsoft Office&lt;/f0&gt;, você pode escolher o que fazer quando importar e exportar objetos OLE do Microsoft Office (objetos referenciados ou embutidos ou documentos como planilhas ou equações).</seg>
       </tuv>
     </tu>
     <tu>
@@ -6438,6 +6526,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;f1&gt;HTML documents; importing/exporting&lt;/f1&gt; in the Help for more information.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192355Z" creationid="user" creationdate="20160522T192355Z">
+        <seg>Veja &lt;f1&gt;Documentos HTML; importando/exportando&lt;/f1&gt; na Ajuda para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;f2&gt;&lt;t3&gt;Figure 5&lt;/t3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T212033Z" creationid="Xys" creationdate="20160521T212033Z">
@@ -6706,6 +6802,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T010308Z" creationid="ohallot" creationdate="20160516T010308Z">
         <seg>Selecione a pasta Meus Modelos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the [L] options to convert Microsoft OLE objects into the corresponding LibreOffice OLE objects when a Microsoft document is loaded into LibreOffice (mnemonic: “L” for “load”).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192111Z" creationid="user" creationdate="20160522T192111Z">
+        <seg>Selecione as opções [C] para converter os objetos OLE Microsoft nos objetos OLE correspondentes do LibreOffice OLE quando um documento da Microsoft for carregado no LibreOffice (lembre-se: “C” de “carregar”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the [S] options to convert LibreOffice OLE objects into the corresponding Microsoft OLE objects when a document is saved in a Microsoft format (mnemonic: “S” for “save”).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192122Z" creationid="user" creationdate="20160522T192122Z">
+        <seg>Selecione as opções [S] para converter objetos OLE do LibreOffice em seus correspondentes do Microsoft Office quando um documento for salvo em um formato Microsoft (lembre-se: “S” de “salvar”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -7419,6 +7531,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The clipboard, however, contains no information about the locale.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192640Z" creationid="user" creationdate="20160522T192640Z">
+        <seg>A área de transferência, no entanto, não contém informações sobre o local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The color field at the lower left shows the value of the selected color on the left and the currently set value from the color value fields on the right.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T010813Z" creationid="user" creationdate="20160522T010813Z">
@@ -7527,6 +7647,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T151410Z" creationid="Xys" creationdate="20160521T151410Z">
         <seg>Os diferentes componentes do LibreOffice têm algumas diferenças nas opções de impressão. Essas diferenças estão descritas na Tabela &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The document will be saved without the Microsoft Basic code.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T191930Z" creationid="user" creationdate="20160522T191930Z">
+        <seg>O documento será salvo sem o código Microsoft Basic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8411,6 +8539,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remove any possible macro viruses from the Microsoft Office document, deselect &lt;f0&gt;Save original Basic code&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T191845Z" creationid="user" creationdate="20160522T191845Z">
+        <seg>Para remover quaisquer possíveis vírus de macro do documento do Microsoft Office, desmarque &lt;f0&gt;Salvar código Basic original&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To remove manual formatting, select the text, right-click, and choose &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; from the context menu, or use &lt;f1&gt;Ctrl+M&lt;/f1&gt; after selecting the text.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T223709Z" creationid="ohallot" creationdate="20160515T223709Z">
@@ -8615,6 +8751,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T222237Z" creationid="ohallot" creationdate="20160515T222237Z">
         <seg>Utilize o Pincel de Formato para aplicar um estilo a várias áreas diferentes, rapidamente, sem precisar retornar à janela de Estilos e Formatação e &lt;f0&gt;clicar duas vezes&lt;/f0&gt; a cada retorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use these fields to define the respective &lt;i0/&gt;font sizes for the HTML &lt;font size=1&gt; to &lt;font size=7&gt; tags, if they are used in the HTML pages.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192533Z" creationid="user" creationdate="20160522T192533Z">
+        <seg>Utilize esses campos para definir os respectivos &lt;i0/&gt;tamanhos de fonte para as tags HTML &lt;font size=1&gt; a &lt;font size=7&gt;, se forem utilizadas em páginas HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8911,6 +9055,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T141345Z" creationid="ohallot" creationdate="20160516T141345Z">
         <seg>Se questionado, confirme que deseja sobrescrever o arquivo antigo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When importing numbers from an HTML page, the decimal and thousands separator characters differ according to the locale of the HTML page.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192631Z" creationid="user" creationdate="20160522T192631Z">
+        <seg>Quando estiver importando números de uma página HTML, os caracteres de separação de milhar e decimais são diferentes de acordo com o local da página HTML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10019,6 +10171,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>importing numbers from an HTML page</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192616Z" creationid="user" creationdate="20160522T192616Z">
+        <seg>importando números para uma página HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>landscape page</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T093933Z" creationid="ohallot" creationdate="20160517T093933Z">
@@ -10343,6 +10503,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T155853Z" creationid="douglas" creationdate="20160514T155853Z">
         <seg>folhas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sizes for HTML</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T192500Z" creationid="user" creationdate="20160522T192500Z">
+        <seg>Tamanhos para HTML</seg>
       </tuv>
     </tu>
     <tu>
