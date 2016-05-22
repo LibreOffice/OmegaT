@@ -528,8 +528,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;ODF format version.&lt;/f0&gt; LibreOffice by default saves documents &lt;i1/&gt;in OpenDocument Format (ODF) version 1.2 Extended.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="user" changedate="20160522T184855Z" creationid="user" creationdate="20160522T184855Z">
-        <seg>&lt;f0&gt;versão do formato ODF&lt;/f0&gt;. O LibreOffice por padrão salva documentos&lt;i1/&gt; no formato OpenDocument (ODF) versão 1.2 Extensão.</seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185040Z" creationid="user" creationdate="20160522T184855Z">
+        <seg>&lt;f0&gt;versão do formato ODF&lt;/f0&gt;. O LibreOffice por padrão salva documentos&lt;i1/&gt; no formato OpenDocument (ODF) versão 1.2 Estendido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,6 +1146,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T173119Z" creationid="user" creationdate="20160522T173119Z">
         <seg>Sempre criar cópia de backup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always save as</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185225Z" creationid="user" creationdate="20160522T185225Z">
+        <seg>Sempre salvar como</seg>
       </tuv>
     </tu>
     <tu>
@@ -4230,6 +4238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you plan to share documents with people who use editors that use older versions of ODF, you may wish to save the document using ODF version 1.0/1.1.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185201Z" creationid="user" creationdate="20160522T185201Z">
+        <seg>Se você pretende compartilhar documentos com pessoas que utilizam editores que trabalham com versões mais antigas do ODF, salve o documento utilizando ODF versão 1.0/1.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you prefer absolute saving, all references to other files will also be defined as absolute, based on the respective drive, volume or root directory.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T184510Z" creationid="user" creationdate="20160522T184510Z">
@@ -5082,6 +5098,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T165029Z" creationid="user" creationdate="20160522T165029Z">
         <seg>Carregar configurações específicas do usuário com o documento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load/Save</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185250Z" creationid="user" creationdate="20160522T185250Z">
+        <seg>Carregar/Salvar</seg>
       </tuv>
     </tu>
     <tu>
@@ -8419,6 +8443,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two notable examples are cross-references to headings and the formatting of numbered lists.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185107Z" creationid="user" creationdate="20160522T185107Z">
+        <seg>Dois exemplos notáveis são as referências cruzadas para os títulos e a formatação das listas numeradas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a name for this color in the &lt;f2&gt;Name&lt;/f2&gt; box, then click the &lt;f3&gt;Add&lt;/f3&gt; button.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T011206Z" creationid="user" creationdate="20160522T011206Z">
@@ -8723,6 +8755,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VBA properties load/save options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185257Z" creationid="user" creationdate="20160522T185257Z">
+        <seg>Opções de Carregar/Salvar das Propriedades VBA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View options</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T181936Z" creationid="user" creationdate="20160521T181936Z">
@@ -8775,6 +8815,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T160521Z" creationid="douglas" creationdate="20160514T160521Z">
         <seg>Quando o Calc é aberto, a &lt;i0/&gt;janela principal abre (&lt;t1&gt;Figura 1&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a file saved in ODF 1.2 Extended is opened in an editor that uses earlier versions of ODF (1.0/1.1), some of the advanced features may be lost.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T185013Z" creationid="user" creationdate="20160522T185013Z">
+        <seg>Quando um arquivo salvo no ODF 1.2 Estendido é aberto em um editor que utiliza versões mais antigas, como ODF, 1.0/1.1, algumas das funções avançadas podem ser perdidas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8893,8 +8941,8 @@
       <tuv lang="EN">
         <seg>While this allows for improved functionality, there may be backwards compatibility issues.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="user" changedate="20160522T184905Z" creationid="user" creationdate="20160522T184905Z">
-        <seg> While this allows for improved functionality, there may be backwards compatibility issues.</seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160522T184959Z" creationid="user" creationdate="20160522T184905Z">
+        <seg>Isso permite melhorias de funcionalidades, mas pode gerar incompatibilidades com versões anteriores do ODF.</seg>
       </tuv>
     </tu>
     <tu>
