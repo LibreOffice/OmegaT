@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of page styles pops up; choose a different style by clicking on it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145256Z" creationid="Xys" creationdate="20160523T145256Z">
+        <seg>Uma lista dos estilos de página disponíveis será mostrada. Escolha um estilo diferente clicando nele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of pages drops down.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T185538Z" creationid="user" creationdate="20160521T185538Z">
@@ -1386,6 +1394,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T223808Z" creationid="ohallot" creationdate="20160515T223808Z">
         <seg>Qualquer alteração feita em um estilo são efetivas apenas para o documento atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any text selected in the document will be counted and this count will replace the displayed count.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145207Z" creationid="Xys" creationdate="20160523T145207Z">
+        <seg>Qualquer texto selecionado no documento será contado e esta contagem será mostrada nessa área.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2234,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160522T033738Z" creationid="Xys" creationdate="20160522T033738Z">
         <seg>Clique &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the Page Number field and type the &lt;f0&gt;sequence&lt;/f0&gt; number of the required page and press &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145136Z" creationid="Xys" creationdate="20160523T145136Z">
+        <seg>Clique no campo de Número da Página e digite o número &lt;f0&gt;sequencial&lt;/f0&gt; da página desejada e pressione &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4766,6 +4790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If any bookmarks have been defined in the document, a right-click on this field pops up a list of bookmarks; click on the required one.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145116Z" creationid="Xys" creationdate="20160523T145116Z">
+        <seg>Se houver qualquer marcador definido no documento, um clique com o botão direito neste campo abre uma lista dos marcadores existentes. Clique naquele desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T191758Z" creationid="user" creationdate="20160522T191758Z">
@@ -6046,6 +6078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145311Z" creationid="Xys" creationdate="20160523T145311Z">
+        <seg>Idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Laurent Balland-Poirier</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T014112Z" creationid="ohallot" creationdate="20160521T014112Z">
@@ -7035,6 +7075,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145006Z" creationid="Xys" creationdate="20160523T145006Z">
         <seg>Número da Página</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page style</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145244Z" creationid="Xys" creationdate="20160523T145244Z">
+        <seg>Estilos de Página</seg>
       </tuv>
     </tu>
     <tu>
@@ -8367,6 +8415,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shows the language at the cursor position, or for the selected text, that is used for spellchecking, hyphenation and thesaurus.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145419Z" creationid="Xys" creationdate="20160523T145419Z">
+        <seg>Mostra o idioma atual para a posição do cursor, ou para o texto selecionado, utilizado para verificação ortográfica, hifenização e dicionário de sinônimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the style of the current page.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145246Z" creationid="Xys" creationdate="20160523T145246Z">
+        <seg>Mostra o estilo utilizado na página atual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sidebar</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160523T143340Z" creationid="Xys" creationdate="20160523T143328Z">
@@ -8808,6 +8872,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T025855Z" creationid="ohallot" creationdate="20160521T025855Z">
         <seg>O módulo do LibreOffice em uso afeta como será posicionado o cursor para inserir a fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Navigator opens.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145128Z" creationid="Xys" creationdate="20160523T145128Z">
+        <seg>O Navegador se abre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Page Style dialog opens.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145310Z" creationid="Xys" creationdate="20160523T145310Z">
+        <seg>A caixa de diálogo de Estilos de Página se abre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9452,6 +9532,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word and character count of the document is shown in the Status Bar, and is kept up to date as you edit.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145154Z" creationid="Xys" creationdate="20160523T145154Z">
+        <seg>A contagem de palavras e caracteres do documento são mostrados na Barra de Status, e é mantida atualizada durante a edição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then, go to &lt;f0&gt;Insert &gt; Object &gt; Formula&lt;/f0&gt; on the menu bar to open the Formula Editor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T030430Z" creationid="ohallot" creationdate="20160521T030430Z">
@@ -9884,6 +9972,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the page style, right-click on this field.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145252Z" creationid="Xys" creationdate="20160523T145252Z">
+        <seg>Para alterar o estilo de página clique com o botão direito neste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To choose the options for checking spelling, click &lt;f0&gt;Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T204254Z" creationid="user" creationdate="20160522T204254Z">
@@ -9956,6 +10052,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To display extended statistics such as character counts excluding spaces, double-click the word count in the Status Bar, or choose &lt;f0&gt;Tools &gt; Word Count.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145242Z" creationid="Xys" creationdate="20160523T145242Z">
+        <seg>Para mostrar as estatísticas extendidas, tais como a contagem de caracteres excluindo espaços, dar duplo-clique nessa área da Barra de Status, ou escolher &lt;f0&gt;Ferramentas &gt; Contagem de palavras.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To do that, you need to change the default template for documents, as described in Chapter 3.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T130108Z" creationid="user" creationdate="20160522T130108Z">
@@ -9980,6 +10084,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To edit the current page style, double-click on this field.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145308Z" creationid="Xys" creationdate="20160523T145308Z">
+        <seg>Para editar o estilo atual, dar um clique duplo neste campo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To export a template from a template folder to another location:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T142020Z" creationid="ohallot" creationdate="20160516T142020Z">
@@ -10000,6 +10112,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T122737Z" creationid="ohallot" creationdate="20160516T122737Z">
         <seg>Para instalar modelos individuais:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To jump to a specific page in the document, double-click on this field.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145125Z" creationid="Xys" creationdate="20160523T145125Z">
+        <seg>Para ir à uma página específica no documento, dê um clique duplo neste campo. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10920,6 +11040,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160523T142359Z" creationid="Xys" creationdate="20160523T142359Z">
         <seg>Processando textos com LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word and character count</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145143Z" creationid="Xys" creationdate="20160523T145143Z">
+        <seg>Contagem de palavras e caracteres</seg>
       </tuv>
     </tu>
     <tu>
