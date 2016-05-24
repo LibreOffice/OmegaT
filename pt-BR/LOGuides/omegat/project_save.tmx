@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3102,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E-mail options</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160524T180429Z" creationid="raul.silva" creationdate="20160524T180429Z">
+        <seg>Opções de E-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>E-mailing a document to several recipients</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T145548Z" creationid="Xys" creationdate="20160521T145548Z">
@@ -5058,6 +5066,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T225317Z" creationid="ohallot" creationdate="20160515T225317Z">
         <seg>Se você tem o hábito de sobrepor estilos em seus documentos, assegure-se de que a opção Automático &lt;f0&gt;não&lt;/f0&gt; esteja selecionada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using a Mozilla browser (such as Firefox) on Windows or Linux, you can enable the Browser Plug-in so you can open LibreOffice files in your browser, print them, save them, and work with them in other ways.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160524T180412Z" creationid="raul.silva" creationdate="20160524T180412Z">
+        <seg>Se você utiliza um navegador Mozilla (como o Firefox), seja no Windows ou no Linux, você pode habilitar a opção Plug-in do navegador para poder abrir arquivos do LibreOffice no seu navegador, imprimi-los, salvá-los, e trabalhar com eles de outras formas.</seg>
       </tuv>
     </tu>
     <tu>
