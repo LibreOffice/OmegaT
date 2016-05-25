@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -402,6 +402,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T171007Z" creationid="ohallot" creationdate="20160521T013731Z">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;Capítulo 9 Iniciando com o Mat&lt;/t3&gt;h</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;t1&gt;Figure 2&lt;/t1&gt;&lt;/f0&gt; shows an example Writer document with the formula box selected ready for a formula to be entered.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160525T143029Z" creationid="ohallot" creationdate="20160525T142946Z">
+        <seg>A &lt;f0&gt;&lt;t1&gt;Figura 2&lt;/t1&gt;&lt;/f0&gt; mostra um exemplo de documento do Writer com a caixa de fórmula selecionada, pronta para inserir uma fórmula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,6 +3778,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T220135Z" creationid="user" creationdate="20160522T220135Z">
         <seg>Figura &lt;seq0&gt;29&lt;/seq0&gt;: Opções Internet, mostrando a página E-mail disponível para usuários Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: &lt;f1&gt;Empty formula&lt;/f1&gt; in &lt;f2&gt;a &lt;/f2&gt;Writer &lt;f3&gt;document&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160525T143137Z" creationid="ohallot" creationdate="20160525T142951Z">
+        <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: &lt;f1&gt;Fórmula vazia &lt;/f1&gt; num &lt;f2&gt;&lt;/f2&gt;documento do Writer &lt;f3&gt;&lt;/f3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11200,6 +11216,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T224340Z" creationid="ohallot" creationdate="20160515T224340Z">
         <seg>Ao atualizar um estilo de parágrafo, garanta que o parágrafo selecionado contém propriedades únicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have completed entering the markup language for the formula, close the Formula Editor by pressing the &lt;f0&gt;Esc&lt;/f0&gt; key or by clicking an area outside the formula in your document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160525T143327Z" creationid="ohallot" creationdate="20160525T143327Z">
+        <seg>Ao completar a entrada da linguagem de marcação para a fórmula, feche o Editor de Fórmula pressionando &lt;f0&gt;Esc&lt;/f0&gt; ou clicnando em aŕea fora da fórmula</seg>
       </tuv>
     </tu>
     <tu>
