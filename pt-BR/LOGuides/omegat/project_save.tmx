@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4430,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on OLE objects, see the user guides for &lt;f0&gt;Math&lt;/f0&gt;, &lt;f1&gt;Writer&lt;/f1&gt;, &lt;f2&gt;Calc&lt;/f2&gt;, &lt;f3&gt;Draw&lt;/f3&gt;, and &lt;f4&gt;Impress&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160525T143951Z" creationid="ohallot" creationdate="20160525T143951Z">
+        <seg>Para mais informações sobre objetos OLE, veja os guias do &lt;f0&gt;Math&lt;/f0&gt;, &lt;f1&gt;Writer&lt;/f1&gt;, &lt;f2&gt;Calc&lt;/f2&gt;, &lt;f3&gt;Draw&lt;/f3&gt;, e &lt;f4&gt;Impress&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on creating formulas, see “&lt;f1&gt;&lt;bf2&gt;Creating formulas&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;7&lt;/bf4&gt;&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T025544Z" creationid="ohallot" creationdate="20160521T025346Z">
@@ -4490,6 +4498,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160516T224039Z" creationid="douglas" creationdate="20160516T224039Z">
         <seg>Barra de fórmulas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formulas are inserted as OLE objects into documents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160525T143724Z" creationid="ohallot" creationdate="20160525T143724Z">
+        <seg>As fórmulas são inseridas como objetos OLE nos documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11776,6 +11792,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T011832Z" creationid="ohallot" creationdate="20160516T011832Z">
         <seg>Você pode utilizar assistentes para criar modelos para cartas, folhas de fax &lt;f0&gt;&lt;/f0&gt;e agendas, bem como apresentações e páginas HTML para a Internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can, as with any OLE object, change how the object is placed within the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160525T143846Z" creationid="ohallot" creationdate="20160525T143846Z">
+        <seg>Assim como nos outros objetos OLE, você pode mudar a forma como o objeto é posicionada no seu documento.</seg>
       </tuv>
     </tu>
     <tu>
