@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
+  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8207,6 +8207,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a category from the drop-down list, then a symbol using the Elements window.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160526T004139Z" creationid="ohallot" creationdate="20160526T004139Z">
+        <seg>Selecione uma categoria da lista suspensa, então um símbolo usando a janela Elementos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select and drag &lt;f0&gt;a &lt;/f0&gt;drawing object to the Styles and Formatting window to create &lt;f1&gt;a &lt;/f1&gt;graphic style.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T002546Z" creationid="ohallot" creationdate="20160516T002546Z">
@@ -11694,8 +11702,8 @@
       <tuv lang="EN">
         <seg>You can insert elements into a formula using one of the following methods:</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160525T144227Z" creationid="ohallot" creationdate="20160525T144227Z">
-        <seg>You can insert elements into a formula using one of the following methods:</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160526T004029Z" creationid="ohallot" creationdate="20160525T144227Z">
+        <seg>Você pode inserir elementos numa fórmula utilizando um dos seguintes métodos:</seg>
       </tuv>
     </tu>
     <tu>
