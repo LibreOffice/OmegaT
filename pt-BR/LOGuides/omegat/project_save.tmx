@@ -2112,8 +2112,8 @@
       <tuv lang="EN">
         <seg>Checks for all word duplication, rather than just the default words ‘and’, ‘or’, ‘for’, and ‘the’.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="user" changedate="20160522T212527Z" creationid="user" creationdate="20160522T212527Z">
-        <seg>Controle de todas palavra duplicadas, ao invés de apenas as palavras padrão ‘and’, ‘or’, ‘for’, and ‘the’.</seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160526T141444Z" creationid="user" creationdate="20160522T212527Z">
+        <seg>Controle de todas as palavras duplicadas, em vez de apenas as palavras padrão ‘and’, ‘or’, ‘for’, and ‘the’.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,6 +2122,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T213446Z" creationid="user" creationdate="20160522T213446Z">
         <seg>Verifica por corrigir tipográficos aspas duplas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checks for pairs of parentheses and quotation marks.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160526T141525Z" creationid="user" creationdate="20160526T141525Z">
+        <seg>Verifica a existência de pares de parênteses e aspas.</seg>
       </tuv>
     </tu>
     <tu>
