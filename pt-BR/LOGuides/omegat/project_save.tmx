@@ -518,10 +518,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Copy&lt;/f0&gt; – copies the selected slide to the clipboard without removing it.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T201118Z" creationid="user" creationdate="20160527T201118Z">
+        <seg>&lt;f0&gt;Copiar&lt;/f0&gt; – copia o slide selecionado para a área de transferência sem removê-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T161432Z" creationid="user" creationdate="20160527T161432Z">
         <seg>&lt;f0&gt;Posição do cursor&lt;/f0&gt; – a posição do cursor ou do canto superior esquerdo da seleção medido a partir do canto superior esquerdo do slide, seguido pela largura e altura da seleção ou caixa de texto onde o cursor está localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Cut&lt;/f0&gt; – removes the selected slide and saves it to the clipboard.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T201031Z" creationid="user" creationdate="20160527T201031Z">
+        <seg>&lt;f0&gt;Cortar&lt;/f0&gt; – remove o slide selecionado e o salva na área de transferência.</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +554,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160526T140947Z" creationid="user" creationdate="20160522T202524Z">
         <seg>&lt;f0&gt;Padrões data de aceitação&lt;/f0&gt; define como o LibreOffice reconhece entrada como datas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Delete Slide&lt;/f0&gt; – deletes the selected slide.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T200902Z" creationid="user" creationdate="20160527T200902Z">
+        <seg>&lt;f0&gt;Excluir slide&lt;/f0&gt; – exclui o slide selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +586,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160526T131136Z" creationid="ohallot" creationdate="20160517T100323Z">
         <seg> &lt;f0&gt;A documentação para o LibreOffice está disponível em &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://www.libreoffice.org/get-help/documentation&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Duplicate Slide&lt;/f0&gt; – creates a duplicate of the selected slide and places the new slide immediately after the selected slide (see “&lt;f1&gt;&lt;bf2&gt;Duplicate slide&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;16&lt;/bf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T200850Z" creationid="user" creationdate="20160527T200850Z">
+        <seg>&lt;f0&gt;Duplicar slide&lt;/f0&gt; – cria uma cópia do slide selecionado e coloca o novo slide imediatamente após o slide selecionado (veja “&lt;f1&gt;&lt;bf2&gt;Duplicar slide&lt;/bf2&gt;&lt;/f1&gt;” na página &lt;f3&gt;&lt;bf4&gt;16&lt;/bf4&gt;&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Hide Slide&lt;/f0&gt; – any slides that are hidden are not shown in the slide show.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T201021Z" creationid="user" creationdate="20160527T201021Z">
+        <seg>&lt;f0&gt;Ocultar slide&lt;/f0&gt; – quaisquer slides que estão ocultos não são mostrados na apresentação de slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Information area&lt;/f0&gt; – changes depending on the selection.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T161301Z" creationid="user" creationdate="20160527T161301Z">
@@ -714,6 +754,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160516T225355Z" creationid="douglas" creationdate="20160516T225355Z">
         <seg>&lt;f0&gt;Caixa de Nome&lt;/f0&gt; – dá a referência da célula &lt;f1&gt;ativa atual &lt;/f1&gt;usando uma combinação de letra e número, por exemplo, A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;New Slide&lt;/f0&gt; – adds a new slide after the selected slide (see “&lt;f1&gt;&lt;bf2&gt;New slide&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;16&lt;/bf4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T200813Z" creationid="user" creationdate="20160527T200813Z">
+        <seg>&lt;f0&gt;Novo slide&lt;/f0&gt; – adiciona um novo slide após o slide selecionado (veja “&lt;f1&gt;&lt;bf2&gt;Novo slide&lt;/bf2&gt;&lt;/f1&gt;” na página &lt;f3&gt;&lt;bf4&gt;16&lt;/bf4&gt;&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Rename Slide&lt;/f0&gt; – allows you to rename the selected slide.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T200917Z" creationid="user" creationdate="20160527T200917Z">
+        <seg>&lt;f0&gt;Renomear slide&lt;/f0&gt; – permite a você renomear o slide selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Save original Basic code&lt;/f0&gt; takes precedence over &lt;f1&gt;Load Basic code&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T191730Z" creationid="user" creationdate="20160522T191730Z">
@@ -838,10 +894,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide Layout&lt;/f0&gt; – allows you to change the layout of the selected slide.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T200929Z" creationid="user" creationdate="20160527T200929Z">
+        <seg>&lt;f0&gt;Layout de slide&lt;/f0&gt; – permite a você alterar o layout do slide selecionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Slide Sorter&lt;/f0&gt; view (&lt;t1&gt;Figure 8&lt;/t1&gt;) contains all of the slide thumbnails.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T200144Z" creationid="user" creationdate="20160527T200144Z">
         <seg>A visualização &lt;f0&gt;Classificador de slides&lt;/f0&gt; (&lt;t1&gt;Figura 8&lt;/t1&gt;) contém todas as miniaturas de slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide Transition&lt;/f0&gt; – allows you to change the transition of the selected slide.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T200941Z" creationid="user" creationdate="20160527T200941Z">
+        <seg>&lt;f0&gt;Transição de slide&lt;/f0&gt; – permite a você alterar a transição do slide selecionado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5562,6 +5634,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T233516Z" creationid="user" creationdate="20160521T233516Z">
         <seg>Para mais informações, veja &lt;a1&gt;&lt;f2&gt;http://www.linuxfound&lt;/f2&gt;&lt;/a1&gt;&lt;a3&gt;&lt;f4&gt;ation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format&lt;/f4&gt;&lt;/a3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more than one slide, select a group of slides and add the desired transition.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T200958Z" creationid="user" creationdate="20160527T200958Z">
+        <seg>Para mais que um slide, selecione um grupo de slides e adicione a transição desejada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For one slide, select a slide and add the desired transition.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T200949Z" creationid="user" creationdate="20160527T200949Z">
+        <seg>Para um slide, selecione um slide e adicione a transição desejada.</seg>
       </tuv>
     </tu>
     <tu>
