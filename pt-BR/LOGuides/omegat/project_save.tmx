@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Page (slide) style&lt;/f0&gt; – the style associated with the slide, handout, or notes page currently in the Workspace.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T162406Z" creationid="user" creationdate="20160527T162406Z">
+        <seg>&lt;f0&gt;Estilo (slide) de página&lt;/f0&gt; – o estilo associado com o slide, abas folheto, ou notas atualmente na Área de trabalho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Page styles&lt;/f0&gt; include margins, headers and footers, borders and backgrounds.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165926Z" creationid="ohallot" creationdate="20160514T165926Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T014919Z" creationid="ohallot" creationdate="20160521T014919Z">
         <seg>&lt;f0&gt;Shift&lt;/f0&gt;+⌘+&lt;f1&gt;F5&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Slide number&lt;/f0&gt; – the slide number currently displayed in the Workspace and the total number of slides in the presentation.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T162259Z" creationid="user" creationdate="20160527T162259Z">
+        <seg>&lt;f0&gt;Número do slide&lt;/f0&gt; – o número do slide atual mostrado na Área de trabalho e o número total de slides na apresentação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +890,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T124746Z" creationid="ohallot" creationdate="20160516T124746Z">
         <seg>&lt;f0&gt;&lt;/f0&gt;Talvez você sabe que o Microsoft Word usa o arquivo &lt;f1&gt;normal.dot&lt;/f1&gt; ou &lt;f2&gt;normal.dotx&lt;/f2&gt; para seu modelo padrão e como fazer para regerá-lo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Zoom percentage&lt;/f0&gt; – indicates the zoom percentage of the Workspace displayed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T162501Z" creationid="user" creationdate="20160527T162501Z">
+        <seg>&lt;f0&gt;Porcentagem de zoom&lt;/f0&gt; – indica a porcentagem de zoom da Área de trabalho mostrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Zoom slider&lt;/f0&gt; – adjusts the zoom percentage of the Workspace displayed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T162440Z" creationid="user" creationdate="20160527T162440Z">
+        <seg>&lt;f0&gt;Barra deslizante de zoom&lt;/f0&gt; – ajusta a porcentagem de zoom da Área de trabalho mostrada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +1546,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T210908Z" creationid="user" creationdate="20160522T210908Z">
         <seg>Depois de selecionar as verificações gramaticais adicionais, você deve reiniciar LibreOffice, ou recarregar o documento, para que eles tenham efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the file has been saved, double-clicking on this flag opens the digital signatures dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T162241Z" creationid="user" creationdate="20160527T162241Z">
+        <seg>Depois que o arquivo foi salvo, clicando duas vezes sobre este indiciador abre a caixa de diálogo assinaturas digitais.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3670,10 +3710,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-clicking on the style name opens the slide design dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T162416Z" creationid="user" creationdate="20160527T162416Z">
+        <seg>Clicando duas vezes sobre o nome do estilo, abre a caixa de diálogo Modelos de slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-clicking on this flag opens the file save dialog.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T162111Z" creationid="user" creationdate="20160527T161656Z">
         <seg>Clicando duas vezes sobre este sinalizador abre a caixa de diálogo salvar arquivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double-clicking on zoom percentage opens the zoom and layout dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T162608Z" creationid="user" creationdate="20160527T162608Z">
+        <seg>Clicando duas vezes sobre a porcentagem de zoom abre a caixa de diálogo Zoom e visualização do layout.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13928,6 +13984,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T122524Z" creationid="ohallot" creationdate="20160516T122524Z">
         <seg>Você pode obter novos modelos do repositório oficial, acionando o botão &lt;f0&gt;Obter modelos adicionais para o LibreOffice&lt;/f0&gt; à direita do Gerenciador de modelos, conforme a Figura &lt;t1&gt;10&lt;/t1&gt;, ou digitando&lt;f2&gt;&lt;/f2&gt;&lt;a3&gt;&lt;f4&gt; http://templates.libreoffice.org/template-center&lt;/f4&gt;&lt;/a3&gt; na barra de endereços do &lt;f5&gt;&lt;/f5&gt;seu navegador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can hide the Status Bar and its information by going to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselecting &lt;f1&gt;Status Bar&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T162810Z" creationid="user" creationdate="20160527T162628Z">
+        <seg>Você pode ocultar a Barra de status e suas informações, indo em Exibir na barra de menu principal e desmarque &lt;f0&gt;Barra de status&lt;/f0&gt;. </seg>
       </tuv>
     </tu>
     <tu>
