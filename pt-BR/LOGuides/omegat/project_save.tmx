@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161432Z" creationid="user" creationdate="20160527T161432Z">
+        <seg>&lt;f0&gt;Posição do cursor&lt;/f0&gt; – a posição do cursor ou do canto superior esquerdo da seleção medido a partir do canto superior esquerdo do slide, seguido pela largura e altura da seleção ou caixa de texto onde o cursor está localizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Data&lt;/f0&gt; – contains commands for manipulating data in your spreadsheet; for example &lt;f1&gt;Define&lt;/f1&gt; &lt;f2&gt;Range&lt;/f2&gt;, &lt;f3&gt;Sort&lt;/f3&gt;, &lt;f4&gt;Consolidate&lt;/f4&gt; and so on.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160516T221457Z" creationid="douglas" creationdate="20160516T221457Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160516T222211Z" creationid="douglas" creationdate="20160516T222211Z">
         <seg>&lt;f0&gt;Ajuda&lt;/f0&gt; – contém links para o sistema de ajuda incluído com o software e outras funções diversas; por exemplo, &lt;f1&gt;Ajuda&lt;/f1&gt;, &lt;f2&gt;Informações da licença&lt;/f2&gt;, &lt;f3&gt;Verificar por atualizações&lt;/f3&gt; e assim por diante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Information area&lt;/f0&gt; – changes depending on the selection.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161301Z" creationid="user" creationdate="20160527T161301Z">
+        <seg>&lt;f0&gt;Área de informação&lt;/f0&gt; – muda de acordo com a seleção.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +1942,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bitmap with transparency selected</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161343Z" creationid="user" creationdate="20160527T161343Z">
+        <seg>Bitmap com transparência selecionada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Block selection &lt;f0&gt;(Ctrl+Shift+F8)&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160526T020928Z" creationid="Xys" creationdate="20160526T020928Z">
@@ -2322,6 +2346,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T172347Z" creationid="ohallot" creationdate="20160514T172347Z">
         <seg>Caractere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Charts, spreadsheets</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161321Z" creationid="user" creationdate="20160527T161321Z">
+        <seg>Gráficos, planilhas</seg>
       </tuv>
     </tu>
     <tu>
@@ -3798,6 +3830,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Embedded object (OLE) “ObjectName” selected</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161329Z" creationid="user" creationdate="20160527T161329Z">
+        <seg>Objeto incorporado (OLE) “Nome do objeto” selecionado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Embedding or linking of graphics, spreadsheets, and other objects</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160523T144337Z" creationid="Xys" creationdate="20160523T144337Z">
@@ -3942,10 +3982,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example selection</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161308Z" creationid="user" creationdate="20160527T161308Z">
+        <seg>Exemplo de seleção</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Examples</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T183921Z" creationid="user" creationdate="20160522T183921Z">
         <seg>Exemplos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Examples of information shown</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161311Z" creationid="user" creationdate="20160527T161311Z">
+        <seg>Exemplos de informação mostrada</seg>
       </tuv>
     </tu>
     <tu>
@@ -5094,6 +5150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161305Z" creationid="user" creationdate="20160527T161305Z">
+        <seg>Por exemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For full details about themes, visit the Mozilla website: &lt;a7&gt;&lt;f8&gt;http&lt;/f8&gt;&lt;/a7&gt;&lt;a9&gt;&lt;f10&gt;s&lt;/f10&gt;&lt;/a9&gt;&lt;a11&gt;&lt;f12&gt;://www.&lt;/f12&gt;&lt;/a11&gt;&lt;a13&gt;&lt;f14&gt;https://addons.mozilla.org/en-US/firefox/themes/&lt;/f14&gt;&lt;/a13&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T150931Z" creationid="user" creationdate="20160522T150931Z">
@@ -5274,6 +5338,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T172404Z" creationid="ohallot" creationdate="20160514T172404Z">
         <seg>Quadro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From left to right, you will find:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161230Z" creationid="user" creationdate="20160527T161230Z">
+        <seg>Da esquerda para a direita, você encontrará:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5536,8 +5608,8 @@
       <tuv lang="EN">
         <seg>Graphics</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T172449Z" creationid="ohallot" creationdate="20160514T172449Z">
-        <seg>Figuras</seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161338Z" creationid="ohallot" creationdate="20160514T172449Z">
+        <seg>Gráficos</seg>
       </tuv>
     </tu>
     <tu>
@@ -10572,6 +10644,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Edit: Paragraph x, Row y, Column z</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161318Z" creationid="user" creationdate="20160527T161318Z">
+        <seg>Editar texto: Parágrafo x, Linha y, Coluna z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text area</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161313Z" creationid="user" creationdate="20160527T161313Z">
+        <seg>Área de texto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text boxes</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160526T214113Z" creationid="user" creationdate="20160526T214113Z">
@@ -11484,6 +11572,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sizes are given in the current measurement unit (not to be confused with the ruler units).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161209Z" creationid="user" creationdate="20160527T161209Z">
+        <seg>Os tamanhos são dados na unidade de medida atual (não ser confundido com as unidades das réguas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The slides can be printed horizontally (landscape orientation) or vertically (portrait orientation) on the page.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160522T024959Z" creationid="Xys" creationdate="20160522T024959Z">
@@ -11880,6 +11976,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T015729Z" creationid="ohallot" creationdate="20160521T015729Z">
         <seg>Esta linguagem de marcação foi projetada para ser lida com facilidade quando possível, por exemplo, a over b produz a fração&lt;f0&gt;&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;fórmula&lt;/s4&gt;&lt;/df1&gt;&lt;/f0&gt;quando usado numa fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This measurement unit is defined in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160527T161224Z" creationid="user" creationdate="20160527T161224Z">
+        <seg>Esta unidade é definida em &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice Impress &gt; Geral&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
