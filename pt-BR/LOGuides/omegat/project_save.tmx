@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;x over {–x + 1}&lt;/f0&gt; gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125422Z" creationid="ohallot" creationdate="20160528T125422Z">
+        <seg>&lt;f0&gt;x over {–x + 1}&lt;/f0&gt; resulta em &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;– 1 over 2&lt;/f0&gt; gives the result&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160527T180310Z" creationid="ohallot" creationdate="20160527T180310Z">
@@ -2386,6 +2394,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T204211Z" creationid="user" creationdate="20160527T204211Z">
         <seg>Ambos os valores podem ser alterados posteriormente ao trabalhar com transições de slides e animações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Brackets and matrices</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125600Z" creationid="ohallot" creationdate="20160528T125600Z">
+        <seg>Colchetes e matrizes</seg>
       </tuv>
     </tu>
     <tu>
@@ -7918,6 +7934,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use braces within your formula, you use the commands &lt;f0&gt;lbrace&lt;/f0&gt; and &lt;f1&gt;rbrace&lt;/f1&gt; within the markup language.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125407Z" creationid="ohallot" creationdate="20160528T125407Z">
+        <seg>Se desejar utilizar chaves na sua fórmula, utilize os comandos &lt;f0&gt;lbrace&lt;/f0&gt; e &lt;f1&gt;rbrace&lt;/f1&gt; na linguagem de marcação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use macros written in Microsoft Excel using the VBA macro code in LibreOffice, you must first edit the code in the LibreOffice Basic IDE editor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T155303Z" creationid="douglas" creationdate="20160514T155303Z">
@@ -11131,6 +11155,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T222441Z" creationid="ohallot" creationdate="20160515T222441Z">
         <seg>Repita o passo 3 até terminar as alterações para esse estilo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace the braces using the commands lbrace and rbrace in the markup language.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125504Z" creationid="ohallot" creationdate="20160528T125504Z">
+        <seg>Substitua as chaves utilizando os comandos lbrace e rbrace na linguagem de marcação.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16132,6 +16164,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When braces are used in markup language, they are used to define the layout of the formula and are not displayed or printed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125305Z" creationid="ohallot" creationdate="20160528T125305Z">
+        <seg>Quando chaves são usadas na linguagem de marcação, elas servem para definir o layout da fórmula e não são impressas ou visualizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When creating a presentation, the first slide is normally a title slide.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T210615Z" creationid="user" creationdate="20160527T210615Z">
@@ -16488,6 +16528,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160523T144233Z" creationid="Xys" creationdate="20160523T144233Z">
         <seg>Writer é o componente de processamento de textos do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writing &lt;f0&gt;x over lbrace –x + 1 rbrace&lt;/f0&gt; and the result is &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125532Z" creationid="ohallot" creationdate="20160528T125532Z">
+        <seg>Ao escrever &lt;f0&gt;x over lbrace –x + 1 rbrace&lt;/f0&gt; o resultado é &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18048,6 +18096,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160526T011311Z" creationid="ohallot" creationdate="20160526T011311Z">
         <seg>marcação matemática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>matrix markup</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125629Z" creationid="ohallot" creationdate="20160528T125629Z">
+        <seg>marcação de matrizes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>matrix markup (Math)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125617Z" creationid="ohallot" creationdate="20160528T125617Z">
+        <seg>marcação para matrizes (Math)</seg>
       </tuv>
     </tu>
     <tu>
