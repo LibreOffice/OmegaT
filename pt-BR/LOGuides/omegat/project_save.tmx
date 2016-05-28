@@ -1422,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of all brackets available within Math can be found in Appendix A, Commands Reference, in the &lt;f2&gt;Math Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131304Z" creationid="ohallot" creationdate="20160528T131304Z">
+        <seg>Uma lista de todos os parenteses do Math podem ser encontrados no Apêndice A, Referência de Comandos, no &lt;f2&gt;Guia do Math&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A list of page styles pops up; choose a different style by clicking on it.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160523T145256Z" creationid="Xys" creationdate="20160523T145256Z">
@@ -6080,8 +6088,8 @@
       <tuv lang="EN">
         <seg>For example, &lt;f2&gt;left( matrix { a # b ## c # d } right)&lt;/f2&gt; gives the result&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;where the matrix is now bracketed by scalable brackets.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130753Z" creationid="ohallot" creationdate="20160528T130753Z">
-        <seg>Por exemplo, &lt;f2&gt;left( matrix { a # b ## c # d } right)&lt;/f2&gt; resulta em &lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt; onde a matriz tem agora colchetes escalonados.</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131042Z" creationid="ohallot" creationdate="20160528T130753Z">
+        <seg>Por exemplo, &lt;f2&gt;left( matrix { a # b ## c # d } right)&lt;/f2&gt; resulta em &lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt; onde a matriz tem agora parenteses escalonados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11377,8 +11385,8 @@
       <tuv lang="EN">
         <seg>Scalable brackets can be used with any element of a formula, such as fraction, square root, and so on.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130908Z" creationid="ohallot" creationdate="20160528T130908Z">
-        <seg>Colchetes escalonáveis podem ser usados com qualquer elemento de uma fórmula, tais como frações, raiz quadrada, e assim por diante. </seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131052Z" creationid="ohallot" creationdate="20160528T130908Z">
+        <seg>Parenteses escalonáveis podem ser usados com qualquer elemento de uma fórmula, tais como frações, raiz quadrada, e assim por diante. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13382,8 +13390,8 @@
       <tuv lang="EN">
         <seg>The commands &lt;f0&gt;left(&lt;/f0&gt; and &lt;f1&gt;right)&lt;/f1&gt; have to be used to create scalable brackets within a matrix.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130645Z" creationid="ohallot" creationdate="20160528T130645Z">
-        <seg>Os comandos &lt;f0&gt;left(&lt;/f0&gt; e &lt;f1&gt;right)&lt;/f1&gt; devem ser usados para criar colchetes escalonáveis dentro de uma matriz.</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131033Z" creationid="ohallot" creationdate="20160528T130645Z">
+        <seg>Os comandos &lt;f0&gt;left(&lt;/f0&gt; e &lt;f1&gt;right)&lt;/f1&gt; devem ser usados para criar parenteses escalonáveis dentro de uma matriz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15696,6 +15704,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T203126Z" creationid="user" creationdate="20160527T203126Z">
         <seg>Use a opção Widescreen instalada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the commands &lt;f0&gt;left[&lt;/f0&gt; and &lt;f1&gt;right]&lt;/f1&gt; to obtain square brackets.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131128Z" creationid="ohallot" creationdate="20160528T131128Z">
+        <seg>Utilize &lt;f0&gt;left [&lt;/f0&gt;e &lt;f1&gt;right]&lt;/f1&gt; para obter colchetes.</seg>
       </tuv>
     </tu>
     <tu>
