@@ -2254,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Always make sure you Close Master View and return to Normal view before working on any of the presentation slides.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160528T174548Z" creationid="user" creationdate="20160528T174548Z">
+        <seg>Certifique-se sempre que você fechou a Exibição mestre e retornou para visualização Normal antes de trabalhar em qualquer dos slides da apresentação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always save as</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T185225Z" creationid="user" creationdate="20160522T185225Z">
@@ -2298,6 +2306,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T125503Z" creationid="user" creationdate="20160522T125503Z">
         <seg>Outra maneira de definir ou alterar cores é através da página Cores da caixa de diálogo Área, onde você também pode carregar e salvar paletas, uma funcionalidade que não é possível aqui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any changes made to one slide when in Master View mode will appear on &lt;f0&gt;all&lt;/f0&gt; slides using this slide master.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160528T174515Z" creationid="user" creationdate="20160528T174515Z">
+        <seg>Quaisquer mudanças feitas para um slide quando em modo de Exibição mestrer aparecerá &lt;f0&gt;em todos&lt;/f0&gt; os slides usando este slide mestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5938,6 +5954,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T222734Z" creationid="ohallot" creationdate="20160515T222734Z">
         <seg>Figura &lt;seq0&gt;2&lt;/seq0&gt;: A lista Aplicar Estilo da barra de ferramentas de Formatação</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: &lt;f1&gt;Editing a slide master&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160528T174611Z" creationid="user" creationdate="20160528T174611Z">
+        <seg>Figura &lt;seq0&gt;30&lt;/seq0&gt;: &lt;f1&gt;Editando um slide mestre&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10272,8 +10296,8 @@
       <tuv lang="EN">
         <seg>Make all necessary changes to the slide master, then click the &lt;f0&gt;Close Master View&lt;/f0&gt; icon on the Master View toolbar or go to &lt;f1&gt;&lt;f2&gt;View &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Normal&lt;/f3&gt; on the main menu bar to exit from editing slide masters.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="user" changedate="20160528T174307Z" creationid="user" creationdate="20160528T174255Z">
-        <seg>Faça as alterações necessárias no slide mestre, então clique no ícone &lt;f0&gt;Fechar exibição mestre&lt;/f0&gt; na barra de ferramenta Exibição mestre ou vá em &lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;Exibir &gt; Normal&lt;/f1&gt;&lt;f3&gt;&lt;/f3&gt; na barra de menu para sair da edição de slide mestre.</seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160528T174451Z" creationid="user" creationdate="20160528T174255Z">
+        <seg>Faça as alterações necessárias no slide mestre, então clique no ícone &lt;f0&gt;Fechar exibição mestre&lt;/f0&gt; na barra de ferramenta Exibição mestre ou vá em &lt;f1&gt;&lt;f2&gt;Exibir &gt; &lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;Normal&lt;/f3&gt; na barra de menu para sair da edição de slide mestre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14516,6 +14540,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changes made to one of the slides in Normal view (for example, changes to the bullet point style, the color of the title area, and so on) will not be overridden by subsequent changes to the slide master.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160528T174630Z" creationid="user" creationdate="20160528T174630Z">
+        <seg>As alterações feitas em um dos slides na visualização Normal (por exemplo, mudanças no estilo de pontos de marcação, a cor da área de título, e assim por diante) não será substituído por alterações posteriores no slide mestre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The check mark to the right of the &lt;f0&gt;Replace with&lt;/f0&gt; box turns green.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T132633Z" creationid="user" creationdate="20160522T132633Z">
@@ -15392,6 +15424,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160525T142431Z" creationid="ohallot" creationdate="20160521T030430Z">
         <seg>Então , vá para &lt;f0&gt;Inserir &gt; Objeto &gt; Fórmula&lt;/f0&gt; na barra de menu para abrir o Editor de fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are cases, however, where it is desirable to revert a manually modified element of the slide to the style defined in the slide master.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160528T174644Z" creationid="user" creationdate="20160528T174644Z">
+        <seg>Há casos, no entanto, onde é desejável reverter um elemento modificado manualmente no slide para o estilo definido no slide mestre.</seg>
       </tuv>
     </tu>
     <tu>
