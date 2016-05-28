@@ -1758,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the character to the Math Catalog, for example the double quote character.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T143621Z" creationid="ohallot" creationdate="20160528T143621Z">
+        <seg>Adicione o caractere ao catálogo do Math, por exemplo, o caractere de aspas duplas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Adding &lt;i0/&gt;&lt;i1/&gt;limits to sum/integral commands</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T141253Z" creationid="ohallot" creationdate="20160528T141253Z">
@@ -7462,6 +7470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, this method cannot be used for the double-quote character itself, see “&lt;f7&gt;&lt;bf8&gt;Text in formulas&lt;/bf8&gt;&lt;/f7&gt;” below.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T143536Z" creationid="ohallot" creationdate="20160528T143536Z">
+        <seg>Entretanto, este método não pode ser usado para o próprio caractere de aspas duplas, veja “&lt;f7&gt;&lt;bf8&gt;Texto em fórmulas&lt;/bf8&gt;&lt;/f7&gt;” adiante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you can delete templates that you have created or imported:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T141747Z" creationid="ohallot" creationdate="20160516T141747Z">
@@ -7930,6 +7946,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160526T011759Z" creationid="ohallot" creationdate="20160526T011759Z">
         <seg>Se tiver experiência na linguagem de marcação, ela pode ser a forma mais rápida de inserir uma fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are going to regularly require special characters in Math, then it is recommended to add the characters to the Math Catalog, &lt;f0&gt;see the Math Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T144010Z" creationid="ohallot" creationdate="20160528T144010Z">
+        <seg>Se for precisar regularmente de caracteres especiais no Math, então recomenda-se adicionar os caracteres ao catálogo do Math, &lt;f0&gt;veja o Guia do Math&lt;/f0&gt; para mais informações</seg>
       </tuv>
     </tu>
     <tu>
@@ -13692,6 +13716,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Special Characters dialog used by other LibreOffice modules is not available in Math.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T143829Z" creationid="ohallot" creationdate="20160528T143829Z">
+        <seg>A caixa de diálogo Caracteres especiais usada em outros módulos do LibreOffice não está disponível no Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Style dialog displayed depends on the type of style selected.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T224231Z" creationid="ohallot" creationdate="20160515T224231Z">
@@ -15772,6 +15804,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To overcome this limitation in markup language, use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T143213Z" creationid="ohallot" creationdate="20160528T143213Z">
+        <seg>Para superar esta limitação na linguagem de marcação, utilize um dos métodos seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To overcome this problem of brackets with a matrix, LibreOffice Math provides scalable brackets that grow in size to match the size of a matrix.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131021Z" creationid="ohallot" creationdate="20160528T130533Z">
@@ -16264,6 +16304,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T172742Z" creationid="user" creationdate="20160527T172742Z">
         <seg>Use a visualização Estrutura de tópicos para os as seguintes finalidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use commands, for example &lt;f0&gt;lbrace&lt;/f0&gt; and &lt;f1&gt;rbrace&lt;/f1&gt; give you literal braces&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T143742Z" creationid="ohallot" creationdate="20160528T143742Z">
+        <seg>Utilize comandos. Por exemplo &lt;f0&gt;lbrace&lt;/f0&gt; e &lt;f1&gt;rbrace&lt;/f1&gt; fornecem chaves literais&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use double quotes either side of the character to mark that character as text, for example &lt;f0&gt;2"%"= 0.02&lt;/f0&gt; will appear in the formula as&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T143324Z" creationid="ohallot" creationdate="20160528T143324Z">
+        <seg>Use aspas duplas de cada lado do caractere para arcar o caractere como texto, por exemplo &lt;f0&gt;2"%"= 0.02&lt;/f0&gt; aparecerá na fórmula como &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
