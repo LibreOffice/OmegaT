@@ -6078,6 +6078,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f2&gt;left( matrix { a # b ## c # d } right)&lt;/f2&gt; gives the result&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;where the matrix is now bracketed by scalable brackets.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130753Z" creationid="ohallot" creationdate="20160528T130753Z">
+        <seg>Por exemplo, &lt;f2&gt;left( matrix { a # b ## c # d } right)&lt;/f2&gt; resulta em &lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt; onde a matriz tem agora colchetes escalonados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; gives the resulting matrix&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;in the formula, where rows are separated by two hashes (#) and entries within each row are separated by one hash (#).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130153Z" creationid="ohallot" creationdate="20160528T130047Z">
@@ -9896,8 +9904,8 @@
       <tuv lang="EN">
         <seg>Normally, when you use brackets within a matrix, the brackets do not scale as the matrix increases in size.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130332Z" creationid="ohallot" creationdate="20160528T130332Z">
-        <seg>Normalmente , ao usar colchetes numa matriz, eles não ficam na mesma escala da matriz.</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131000Z" creationid="ohallot" creationdate="20160528T130332Z">
+        <seg>Normalmente, ao usar parenteses numa matriz, eles não ficam na mesma escala da matriz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11363,6 +11371,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160523T143432Z" creationid="Xys" creationdate="20160523T143432Z">
         <seg>Salvando como arquivo do Microsoft Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scalable brackets can be used with any element of a formula, such as fraction, square root, and so on.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130908Z" creationid="ohallot" creationdate="20160528T130908Z">
+        <seg>Colchetes escalonáveis podem ser usados com qualquer elemento de uma fórmula, tais como frações, raiz quadrada, e assim por diante. </seg>
       </tuv>
     </tu>
     <tu>
@@ -15190,8 +15206,8 @@
       <tuv lang="EN">
         <seg>To overcome this problem of brackets with a matrix, LibreOffice Math provides scalable brackets that grow in size to match the size of a matrix.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130533Z" creationid="ohallot" creationdate="20160528T130533Z">
-        <seg>Para resolver o problema dos colchetes em matrizes, o LibreOffice Math fornece colchetes escalonáveis que crescem em tamanho para combinar com o tamanho da matriz.</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131021Z" creationid="ohallot" creationdate="20160528T130533Z">
+        <seg>Para resolver o problema dos parenteses em matrizes, o LibreOffice Math fornece parenteses escalonáveis que crescem em tamanho para combinar com o tamanho da matriz.</seg>
       </tuv>
     </tu>
     <tu>
