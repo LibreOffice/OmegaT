@@ -6070,10 +6070,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f0&gt;( matrix { a # b ## c # d } )&lt;/f0&gt; gives the result&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130355Z" creationid="ohallot" creationdate="20160528T130355Z">
+        <seg>Por exemplo, &lt;f0&gt;( matrix { a # b ## c # d } )&lt;/f0&gt; resulta &lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; gives the resulting matrix&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;in the formula, where rows are separated by two hashes (#) and entries within each row are separated by one hash (#).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130047Z" creationid="ohallot" creationdate="20160528T130047Z">
-        <seg>Por exemplo, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; resulta na matriz&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;na fórmula, onde linhas são separadas por duas cerquilhas (#) e as entradas de cada linha são separadas por uma cerquilha (#).</seg>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130153Z" creationid="ohallot" creationdate="20160528T130047Z">
+        <seg>Por exemplo, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; resulta na matriz&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;na fórmula, onde linhas são separadas por duas cerquilhas (##) e as entradas de cada linha são separadas por uma cerquilha (#).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9882,6 +9890,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T201252Z" creationid="user" creationdate="20160521T201252Z">
         <seg>Normalmente quando um documento não é modificado, a &lt;f0&gt;opção do menu Arquivo &gt; Salvar&lt;/f0&gt; e o ícone Salvar na barra de ferramentas padrão ficam desabilitados e o atalho de teclado &lt;f1&gt;Ctrl+S&lt;/f1&gt; não tem efeito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normally, when you use brackets within a matrix, the brackets do not scale as the matrix increases in size.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130332Z" creationid="ohallot" creationdate="20160528T130332Z">
+        <seg>Normalmente , ao usar colchetes numa matriz, eles não ficam na mesma escala da matriz.</seg>
       </tuv>
     </tu>
     <tu>
