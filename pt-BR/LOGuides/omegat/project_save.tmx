@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A backslash \ is placed before a non-scalable bracket to indicate that the following character should not be regarded as a bracket, but as a literal character.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T132407Z" creationid="ohallot" creationdate="20160528T132407Z">
+        <seg>Uma barra invertida (\) é colocada antes do parentese não escalonável para indicar que o caractere seguinte não deve ser entendido como parentese, mas como um caractere literal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A block of text can be selected.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160526T020932Z" creationid="Xys" creationdate="20160526T020932Z">
@@ -6170,6 +6178,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T142542Z" creationid="ohallot" creationdate="20160516T142542Z">
         <seg>Por exemplo, a primeira página de uma carta timbrada, normalmente, possui um cabeçalho diferente, ou a primeira página de um relatório não deve ter um cabeçalho, ou rodapé, da mesma forma que as outras páginas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, the unpaired brackets in the formula &lt;f0&gt;[ a; b [&lt;/f0&gt; are deliberate, but gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T132515Z" creationid="ohallot" creationdate="20160528T132515Z">
+        <seg>Por exemplo, o parentese singular na fórmula &lt;f0&gt;[ a; b [&lt;/f0&gt; são deliberados, mas resultam em &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
