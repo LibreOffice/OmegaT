@@ -1070,6 +1070,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;int from 0 to x f(t) dt&lt;/f0&gt; gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T141640Z" creationid="ohallot" creationdate="20160528T141640Z">
+        <seg>&lt;f0&gt;int from 0 to x f(t) dt&lt;/f0&gt; resulta em &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;sum from k = 1 to n a_k&lt;/f0&gt; gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T141630Z" creationid="ohallot" creationdate="20160528T141630Z">
+        <seg>&lt;f0&gt;sum from k = 1 to n a_k&lt;/f0&gt; resulta em &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;x = 3 newline y = 1 &lt;/f0&gt;gives the correct result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T135747Z" creationid="ohallot" creationdate="20160528T135747Z">
@@ -6474,6 +6490,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T213236Z" creationid="user" creationdate="20160527T213236Z">
         <seg>Para maiores informações sobre texto, veja “&lt;bf5&gt;Adicionando e formatando texto&lt;/bf5&gt;” na página &lt;bf6&gt;20&lt;/bf6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information on the sum and integral commands, see the &lt;f4&gt;Math Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T141614Z" creationid="ohallot" creationdate="20160528T141614Z">
+        <seg>Para ais informações sobre comando de soma e integral, veja o &lt;f0&gt;Guia do Math&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14188,6 +14212,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The parameters &lt;f2&gt;from&lt;/f2&gt; and &lt;f3&gt;to&lt;/f3&gt; can be used singly or together as shown by the following examples.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T141538Z" creationid="ohallot" creationdate="20160528T141538Z">
+        <seg>Os parâmetros &lt;f2&gt;from&lt;/f2&gt; e &lt;f3&gt;to&lt;/f3&gt; podem ser usados individualmente ou em conjunto conforme mostrado nos exemplos que seguem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The parts of this window are described below.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T160621Z" creationid="douglas" creationdate="20160514T160621Z">
@@ -14312,6 +14344,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160522T024959Z" creationid="Xys" creationdate="20160522T024959Z">
         <seg>Os slides podem ser impressos horizontalmente (orientação paisagem) ou verticalmente (orientação retrato) na página.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The sum and integral commands can take the parameters &lt;f0&gt;from&lt;/f0&gt; and &lt;f1&gt;to&lt;/f1&gt; if you want to set the lower and upper limits respectively.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T141413Z" creationid="ohallot" creationdate="20160528T141413Z">
+        <seg>Os comandos de soma e de integral podem ter parâmetros &lt;f0&gt;from&lt;/f0&gt; e &lt;f1&gt;to&lt;/f1&gt; se desejar definir os limites inferiores e superiores respectivamente.</seg>
       </tuv>
     </tu>
     <tu>
