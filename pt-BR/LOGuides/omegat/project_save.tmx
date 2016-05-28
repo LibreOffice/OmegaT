@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the alignment of a multiple line formula is center aligned.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T140619Z" creationid="ohallot" creationdate="20160528T140619Z">
+        <seg>Normalmente, as fórmulas de várias linhas são centralizadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By setting up these sequences, you can usually avoid having to apply styles manually.&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T100034Z" creationid="ohallot" creationdate="20160517T100034Z">
@@ -6414,6 +6422,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on alignment using the equals sign, see the &lt;f0&gt;Math Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T140659Z" creationid="ohallot" creationdate="20160528T140659Z">
+        <seg>Para ais informações sobre alinhamento usando o sinal de igualdade, veja o &lt;f0&gt;Guia do Math&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on creating formulas, see “&lt;f1&gt;&lt;bf2&gt;Creating formulas&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;7&lt;/bf4&gt;&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T025544Z" creationid="ohallot" creationdate="20160521T025346Z">
@@ -8058,6 +8074,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T135727Z" creationid="user" creationdate="20160522T135727Z">
         <seg>Se você grava modificações, salva múltiplas versões ou inclui informação oculta ou anotações em seus documentos, e não deseja que alguns destinatários vejam essa informação, você pode configurar avisos que lembrem a você que remova-os, ou pode fazer com que o LibreOffice os remova automaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you require a multiple line formula to have an equals sign at the end of a line without a term after the equals sign, then use either empty quotes “” or empty braces {} or the space characters grave ` or tilde ˜.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T140523Z" creationid="ohallot" creationdate="20160528T140523Z">
+        <seg>Se precisar que uma fórmula de várias linhas tenha um sinal de igual no fim de uma linha sem um termo após o sinal de igualdade, então utilize seja aspas vazias "", seja chaves vazias {} ou então caractere de espaço grave (`) ou til (~).</seg>
       </tuv>
     </tu>
     <tu>
