@@ -6070,6 +6070,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; gives the resulting matrix&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;in the formula, where rows are separated by two hashes (#) and entries within each row are separated by one hash (#).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T130047Z" creationid="ohallot" creationdate="20160528T130047Z">
+        <seg>Por exemplo, &lt;f2&gt;matrix { a # b ## c # d }&lt;/f2&gt; resulta na matriz&lt;f3&gt;&lt;f4&gt;&lt;df5&gt;&lt;d6/&gt;&lt;di7/&gt;&lt;s8&gt;formula&lt;/s8&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;/f3&gt;na fórmula, onde linhas são separadas por duas cerquilhas (#) e as entradas de cada linha são separadas por uma cerquilha (#).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165822Z" creationid="ohallot" creationdate="20160514T165822Z">
@@ -7954,6 +7962,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T160003Z" creationid="user" creationdate="20160527T160003Z">
         <seg>Se você quiser garantir que os estilos em um slide específico não sejam atualizados, crie uma nova página mestra para o slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you want to use a matrix in a formula, you have to use a &lt;i0/&gt;&lt;i1/&gt;matrix command.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T125901Z" creationid="ohallot" creationdate="20160528T125901Z">
+        <seg>Se quiser usar uma matriz numa fórmula, é necessário utilizar um &lt;i0/&gt;&lt;i1/&gt;comando de matriz.</seg>
       </tuv>
     </tu>
     <tu>
