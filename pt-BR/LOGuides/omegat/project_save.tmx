@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A chart in a Calc spreadsheet is itself an OLE object, therefore, you cannot use the Formula Editor to create and insert a formula into a chart.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T142223Z" creationid="ohallot" creationdate="20160529T142223Z">
+        <seg>Um gráfico numa planilha do Calc é um objeto OLE por si mesmo, portanto não é possível usar o Editor de fórmulas para inserir uma fórmula num gráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A common scenario is to have &lt;i0/&gt;a &lt;i1/&gt;landscape page in the middle of a document, whereas the other pages are in a portrait orientation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T094040Z" creationid="ohallot" creationdate="20160517T094040Z">
@@ -8262,6 +8270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formulas in charts</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T142051Z" creationid="ohallot" creationdate="20160529T142051Z">
+        <seg>Fórmulas em gráficos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formulas over multiple lines</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T135000Z" creationid="ohallot" creationdate="20160528T135000Z">
@@ -9218,6 +9234,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T133241Z" creationid="ohallot" creationdate="20160528T133241Z">
         <seg>Mas isso produz um resultado incorreto&lt;f7&gt;&lt;f8&gt;&lt;df9&gt;&lt;d10/&gt;&lt;di11/&gt;&lt;s12&gt;formula&lt;/s12&gt;&lt;/df9&gt;&lt;/f8&gt;&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, this is not recommended as resizing a formula object using the Position and Size dialog could lead to distortion of a formula making it difficult to read.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T142039Z" creationid="ohallot" creationdate="20160529T142039Z">
+        <seg>Entretanto, não é recomendado o redimensionamento de um objeto de fórmula usando a caixa de diálogo Posição e tamanho pois pode levar a distorções da fórmula, dificultando a leitura</seg>
       </tuv>
     </tu>
     <tu>
@@ -19096,6 +19120,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T025802Z" creationid="ohallot" creationdate="20160521T025802Z">
         <seg>Para inserir uma fórmula num documento LibreOffice, abra seu documento no Writer, Calc, Impress, or Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To insert a formula into a chart, create the formula first using the Formula Editor and copy the formula to the clipboard.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T142322Z" creationid="ohallot" creationdate="20160529T142322Z">
+        <seg>Para inserir uma fórmula num gráfico, crie primeiro a fórmula usando o Editor de fórmulas e copie a fórmula para a área de transferência.</seg>
       </tuv>
     </tu>
     <tu>
