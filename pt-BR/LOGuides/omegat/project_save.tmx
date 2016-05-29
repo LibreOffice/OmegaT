@@ -7222,6 +7222,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, entering the markup language &lt;f0&gt;color red ABC 5 times 4&lt;/f0&gt;&lt;f1&gt; gives the result &lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T035420Z" creationid="ohallot" creationdate="20160529T035420Z">
+        <seg>Por exemplo, ao digitar a marcação &lt;f0&gt;color red ABC 5 times 4&lt;/f0&gt;&lt;f1&gt; resultará em &lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, entering the markup language &lt;f0&gt;color red {ABC 5 times 4}&lt;/f0&gt; gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T035702Z" creationid="ohallot" creationdate="20160529T035702Z">
+        <seg>Por exemplo, digitar a marcação &lt;f0&gt;color red {ABC 5 times 4}&lt;/f0&gt; resulta em &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if the document contains no comments, the Print – Comments drop-down list does not work.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T154233Z" creationid="Xys" creationdate="20160521T154139Z">
@@ -17632,6 +17648,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T213444Z" creationid="user" creationdate="20160527T213444Z">
         <seg>Para mudar o plano de fundo e outras características de todos os slides na apresentação, você precisa &lt;i0/&gt;modificar a página mestre ou escolher uma página mestre diferente como explicado em “&lt;bf1&gt;Trabalhando com slides mestre e estilos&lt;/bf1&gt;” na página &lt;bf2&gt;28&lt;/bf2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the color of the whole formula, you have to enclose the whole formula within brackets.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T035620Z" creationid="ohallot" creationdate="20160529T035620Z">
+        <seg>Para mudar a cor da formula inteira, você tem de incluir a fórmula entre parenteses.</seg>
       </tuv>
     </tu>
     <tu>
