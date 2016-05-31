@@ -728,8 +728,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Export automatically inserted &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;blank pages&lt;/f2&gt;: If selected, automatically inserted blank pages are exported to the PDF.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T123050Z" creationid="Xys" creationdate="20160531T123050Z">
-        <seg>&lt;f0&gt;Exportar &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;páginas em branco&lt;/f2&gt; inseridas automaticamente: Se selecionada, as páginas que são inseridas automaticamente pelo LibreOffice (como no caso de um livro, onde os capítulos geralmente começam nas páginas ímpares) são exportadas para PDF.</seg>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T123320Z" creationid="Xys" creationdate="20160531T123050Z">
+        <seg>&lt;f0&gt;Exportar &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;páginas em branco&lt;/f2&gt; inseridas automaticamente: Se selecionada, as páginas em branco que são inseridas automaticamente pelo LibreOffice são exportadas para PDF.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8218,6 +8218,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T010012Z" creationid="ohallot" creationdate="20160516T010012Z">
         <seg>Por exemplo, um modelo de carta pode conter seu nome, endereço e a saudação.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, books usually have chapters set to always start on an odd-numbered (right-hand) page.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T123251Z" creationid="Xys" creationdate="20160531T123251Z">
+        <seg>Por exemplo, livro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20000,6 +20008,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T132041Z" creationid="ohallot" creationdate="20160528T132041Z">
         <seg>A interrogação invertida desaparece quando todos os parenteses abertos forem fechados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is best if you are printing the PDF double-sided.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T123202Z" creationid="Xys" creationdate="20160531T123202Z">
+        <seg>É a melhor escolha se a impressão do PDF for frente e verso.</seg>
       </tuv>
     </tu>
     <tu>
