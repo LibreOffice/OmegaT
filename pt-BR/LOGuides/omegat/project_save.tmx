@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Create &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF form – Submit format:&lt;/f2&gt; Choose the format of submitting forms from within the PDF file.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T121051Z" creationid="Xys" creationdate="20160531T121051Z">
+        <seg>&lt;f0&gt;Criar&lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt; formulário PDF – Formato para submissão:&lt;/f2&gt; Permite escolher o formato de envio de formulários feitos com esse PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T161432Z" creationid="user" creationdate="20160527T161432Z">
@@ -19428,6 +19436,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is only one common setting valid for the whole PDF document: PDF (sends the whole document), &lt;is3/&gt;FDF&lt;ie4/&gt; (sends the control contents), HTML, and XML.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T121218Z" creationid="Xys" creationdate="20160531T121218Z">
+        <seg>PDF (envia o documento inteiro), FDF (envia os conteúdos do controle), HTML e XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, it is recommended that you pay particular attention to the layout you select to prevent any loss of content.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T211655Z" creationid="user" creationdate="20160527T211655Z">
@@ -20176,6 +20192,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T125724Z" creationid="ohallot" creationdate="20160529T125724Z">
         <seg>Esta definição é armazenada no documento e se aplica a todas as fórmulas do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This setting overrides the control’s URL property that you set in the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T121111Z" creationid="Xys" creationdate="20160531T121111Z">
+        <seg>Essa opção sobrescreve os controles de propriedades de URL que se definiu no documento.</seg>
       </tuv>
     </tu>
     <tu>
