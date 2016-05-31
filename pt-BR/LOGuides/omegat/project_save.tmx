@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="Omegat" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.4_0_r8496:8556M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -426,6 +426,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="CMP" changedate="20160521T035527Z" creationid="CMP" creationdate="20160521T035527Z">
         <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;Capítulo 10 Imprimindo, Exportando e mandando e-mail&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 13 Getting Started with Macros&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T180648Z" creationid="raul.silva" creationdate="20160531T180648Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Capítulo 13 Iniciando com Macross&lt;/t3&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;22&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Chapter 13 Getting Started with Macros&lt;/t3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T180553Z" creationid="raul.silva" creationdate="20160531T180553Z">
+        <seg>&lt;t0&gt;22&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Capítulo 13 Iniciando com Macros&lt;/t3&gt;&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;26&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Chapter 6 Getting Started with Impress&lt;/t3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160526T205728Z" creationid="user" creationdate="20160526T205728Z">
@@ -1530,6 +1546,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="CMP" changedate="20160521T034935Z" creationid="CMP" creationdate="20160521T034935Z">
         <seg>&lt;t0&gt;Capítulo 10 Imprimindo, Exportando e mandando e-mail&lt;/t0&gt;&lt;f1&gt;|&lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Chapter 13 Getting Started with Macros&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T180610Z" creationid="raul.silva" creationdate="20160531T180610Z">
+        <seg>&lt;t0&gt;Capítulo 13 Iniciando com Macros&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1610,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160517T100129Z" creationid="ohallot" creationdate="20160517T100129Z">
         <seg>&lt;t0&gt;Exemplos do uso de estilos&lt;/t0&gt;&lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Finding more information&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T180523Z" creationid="raul.silva" creationdate="20160531T180523Z">
+        <seg>&lt;t0&gt;Encontrando mais informações&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,6 +3874,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160530T021840Z" creationid="Xys" creationdate="20160530T021251Z">
         <seg>Capítulo 10 Imprimindo, Exportando e mandando e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 13 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T180710Z" creationid="raul.silva" creationdate="20160531T180710Z">
+        <seg>Capítulo 13 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 13 Getting Started with Macros</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T180617Z" creationid="raul.silva" creationdate="20160531T180617Z">
+        <seg>Capítulo 13 Iniciando com Macros</seg>
       </tuv>
     </tu>
     <tu>
@@ -9194,6 +9242,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160526T205851Z" creationid="user" creationdate="20160526T205851Z">
         <seg>Iniciando com o Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Started with Macros</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T180719Z" creationid="raul.silva" creationdate="20160531T180719Z">
+        <seg>Iniciando com Macros</seg>
       </tuv>
     </tu>
     <tu>
