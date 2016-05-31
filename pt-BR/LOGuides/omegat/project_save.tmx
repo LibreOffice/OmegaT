@@ -4824,8 +4824,8 @@
       <tuv lang="EN">
         <seg>Click the &lt;i0/&gt;&lt;f1&gt;Export Directly as PDF&lt;/f1&gt; icon (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) to export the entire document using the PDF settings you most recently selected on the PDF Options dialog (see below).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T015944Z" creationid="Xys" creationdate="20160531T015906Z">
-        <seg>Clique no ícone &lt;i0/&gt;&lt;f1&gt;Exportar diretamente como PDF para exportar o documento inteiro com as opções padrões.</seg>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T020238Z" creationid="Xys" creationdate="20160531T015906Z">
+        <seg>Clique no ícone &lt;i0/&gt;&lt;f1&gt;Exportar diretamente como PDF&lt;/f1&gt;(&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;) para exportar o documento inteiro com as opções recentemente selecionadas na caixa de diálogo de Opções de PDF (veja a seguir).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5096,8 +5096,8 @@
       <tuv lang="EN">
         <seg>Controlling PDF content and quality</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="CMP" changedate="20160521T144409Z" creationid="CMP" creationdate="20160521T144409Z">
-        <seg>Controlando o conteúdo e a qualidade do PDF</seg>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T020351Z" creationid="CMP" creationdate="20160521T144409Z">
+        <seg>Controle do conteúdo e a qualidade do PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -8298,6 +8298,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T150535Z" creationid="Xys" creationdate="20160521T150535Z">
         <seg>Para mais controle sobre a impressão, use a janela Imprimir (&lt;f0&gt;Arquivo → Imprimir&lt;/f0&gt; ou &lt;f1&gt;Ctrl+P&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more control over the content and quality of the resulting PDF, use &lt;f0&gt;File &gt; Export as PDF&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T020443Z" creationid="Xys" creationdate="20160531T020443Z">
+        <seg>Para mais controle sobre o conteúdo e qualidade e na criação do PDF deve-se clicar em &lt;f0&gt;Arquivo → Exportar como PDF&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22768,6 +22776,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="raul.silva" changedate="20160530T162717Z" creationid="raul.silva" creationdate="20160530T162717Z">
         <seg>Sim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are asked to enter the file name and location for the PDF file, but you do not get a chance to choose a page range, the image compression, or other options.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T020301Z" creationid="Xys" creationdate="20160531T020301Z">
+        <seg>Será solicitado que digite o nome do PDF e o local para o mesmo ser salvo, mas não será possível escolher um intervalo de páginas, compressão ou outras opções.</seg>
       </tuv>
     </tu>
     <tu>
