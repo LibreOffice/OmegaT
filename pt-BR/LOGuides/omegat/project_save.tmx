@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Allow duplicate field names:&lt;/f0&gt; If enabled, the same field name can be used for multiple fields in the generated PDF file.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T121940Z" creationid="Xys" creationdate="20160531T121940Z">
+        <seg>&lt;f0&gt;Permite duplicação de nomes de campos:&lt;/f0&gt; Se habilitada, o mesmo nome do campo poderá ser usado em múltiplos campos na geração do arquivo PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Archive &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;PDF/A-1a (ISO 19005-1)&lt;/f2&gt;: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160531T115850Z" creationid="Xys" creationdate="20160531T115850Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T201904Z" creationid="user" creationdate="20160527T201904Z">
         <seg>&lt;f0&gt;Apresentação vazia&lt;/f0&gt; cria uma apresentação em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Export bookmarks&lt;/f0&gt;: Exports headings in Writer documents, and page or slide names in Impress and Draw documents, as “bookmarks” (a table of contents list displayed by most PDF viewers, including Adobe Reader).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T121945Z" creationid="Xys" creationdate="20160531T121945Z">
+        <seg>&lt;f0&gt;Export bookmarks&lt;/f0&gt;: Exports headings in Writer documents, and page or slide names in Impress and Draw documents, as “bookmarks” (a table of contents list displayed by most PDF viewers, including Adobe Reader).</seg>
       </tuv>
     </tu>
     <tu>
@@ -10178,6 +10194,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T191758Z" creationid="user" creationdate="20160522T191758Z">
         <seg>Se ambas as opções são selecionados e você editar o código desativado no LibreOffice, o código original Microsoft Basic será salvo quando salvar em um formato Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If disabled, field names will be exported using generated unique names.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160531T122138Z" creationid="Xys" creationdate="20160531T121943Z">
+        <seg>Se desabilitada, os nomes dos campos serão exportados usando nomes únicos.</seg>
       </tuv>
     </tu>
     <tu>
