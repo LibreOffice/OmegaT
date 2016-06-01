@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Print&lt;/f0&gt; &lt;f1&gt;"Hello"&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160601T010946Z" creationid="user" creationdate="20160601T010946Z">
+        <seg>&lt;f0&gt;Print&lt;/f0&gt; &lt;f1&gt;"Alo"&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Properties&lt;/f0&gt;: Contains tools for direct formatting within the document.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160529T232118Z" creationid="Xys" creationdate="20160529T232118Z">
@@ -1242,6 +1250,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160530T002750Z" creationid="Xys" creationdate="20160530T002750Z">
         <seg>&lt;f0&gt;Estilos e Formatação&lt;/f0&gt;: Gerencia os estilos usados no documento, ao aplicar estilos existentes, criar novos ou modificá-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Sub&lt;/f0&gt; &lt;f1&gt;HelloMacro&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160601T010937Z" creationid="user" creationdate="20160601T010937Z">
+        <seg>&lt;f0&gt;Sub&lt;/f0&gt; &lt;f1&gt;AloMacro&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9022,6 +9038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this example, the macro in &lt;t1&gt;Listing 1&lt;/t1&gt; is used.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160601T010625Z" creationid="user" creationdate="20160601T010625Z">
+        <seg>Para este exemplo, a macro na &lt;t1&gt;Listagem 1&lt;/t1&gt; é utilizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, we recommend that you also see &lt;f0&gt;Chapter 3 Using Styles and Templates&lt;/f0&gt; and &lt;f1&gt;Chapter 7 Getting Started with Draw&lt;/f1&gt; in this guide.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160526T215202Z" creationid="user" creationdate="20160526T215202Z">
@@ -13346,6 +13370,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T145349Z" creationid="Xys" creationdate="20160521T145349Z">
         <seg>Vínculos da janela de Opções do PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;: Simple macro that says hello</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160601T010925Z" creationid="user" creationdate="20160601T010925Z">
+        <seg>Listagem &lt;seq0&gt;1&lt;/seq0&gt;: Macro simples que diz alo</seg>
       </tuv>
     </tu>
     <tu>
@@ -20676,6 +20708,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This section assumes that you have a macro that you want to use, which may be in an email, on a web page, or even in a book.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160601T010535Z" creationid="user" creationdate="20160601T010535Z">
+        <seg>Esta seção assume que você tem uma macro que você deseja usar, que pode ser em um e-mail, em uma página web, ou mesmo em um livro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This section covers only some aspects and more advanced techniques are explained in the &lt;f2&gt;Impress Guide Chapter 9 Slide Shows&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160528T190956Z" creationid="user" creationdate="20160528T190956Z">
@@ -22348,6 +22388,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macro dialog (&lt;t1&gt;Figure 1&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160601T011232Z" creationid="user" creationdate="20160601T011232Z">
+        <seg>Utilize Ferramentas &gt; Macros &gt; Organizar Macros &gt; LibreOffice Basic para abrir a caixa de diálogo .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;i0/&gt;the &lt;f1&gt;LibreOffice – Security&lt;/f1&gt; page to choose security options for saving documents and for opening documents that contain macros.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T135530Z" creationid="user" creationdate="20160522T135530Z">
@@ -22464,6 +22512,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131128Z" creationid="ohallot" creationdate="20160528T131128Z">
         <seg>Utilize &lt;f0&gt;left [&lt;/f0&gt;e &lt;f1&gt;right]&lt;/f1&gt; para obter colchetes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the following steps to create a library to contain your macro:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160601T011033Z" creationid="user" creationdate="20160601T011033Z">
+        <seg>Use os seguintes passos para criar uma biblioteca para guardar sua macro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24768,6 +24824,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T193958Z" creationid="user" creationdate="20160522T193958Z">
         <seg>Você deve ativar esta opção &lt;f0&gt;antes&lt;/f0&gt; de criar uma macro do LibreOffice Basic; caso contrário o script não será inserido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You must create a library and module to contain your macro; see “&lt;bf2&gt;Macro organization&lt;/bf2&gt;” on page &lt;bf3&gt;15&lt;/bf3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160601T010818Z" creationid="user" creationdate="20160601T010818Z">
+        <seg>Você deve criar uma biblioteca e um módulo para conter sua macro; veja "&lt;bf2&gt;Organização de macro&lt;/bf2&gt;" na página &lt;bf3&gt;15&lt;/bf3&gt; para mais informações.</seg>
       </tuv>
     </tu>
     <tu>
