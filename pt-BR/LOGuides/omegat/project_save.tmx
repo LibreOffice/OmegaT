@@ -5510,6 +5510,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert document references to PDF targets</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T031803Z" creationid="Xys" creationdate="20160603T031803Z">
+        <seg>Converter referências do documento em destinos PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert to metric; Convert to non-metric</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T214004Z" creationid="user" creationdate="20160522T214004Z">
@@ -7066,6 +7074,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T193757Z" creationid="user" creationdate="20160522T193757Z">
         <seg>Exportar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export URLs relative to file system</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T031810Z" creationid="Xys" creationdate="20160603T031810Z">
+        <seg>Exportar URLs relativas ao sistema de arquivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Export bookmarks as named destinations</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T031517Z" creationid="Xys" creationdate="20160603T031517Z">
+        <seg>Exportar marcadores como destinos nomeados</seg>
       </tuv>
     </tu>
     <tu>
@@ -11370,6 +11394,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160528T151201Z" creationid="user" creationdate="20160528T151201Z">
         <seg>Se você tiver criado seus próprios modelos, ou adicionado modelos de outras fontes, os slides mestre destes modelos também aparecerão nesta lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have defined Writer bookmarks, Impress or Draw slide names, or Calc sheet names, this option exports them as “named destinations” to which Web pages and PDF documents can link.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T031747Z" creationid="Xys" creationdate="20160603T031747Z">
+        <seg>Se você tem definido marcadores no Writer, nomes de slides no Impress ou Draw, ou nomes de planilhas no Calc, esta opção exporta-os como “destinos nomeados” para as páginas Web e documentos PDF vinculados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have defined links to other documents with OpenDocument extensions (such as .odt, .ods, and .odp), this option converts the files’ extensions to .pdf in the exported PDF document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T031808Z" creationid="Xys" creationdate="20160603T031808Z">
+        <seg>Se você tem definido vínculos para outros documentos com extensões OpenDocument (tais como .odt, .ods, e . odp), esta opção converte as extensões dos arquivos para .pdf no documento PDF exportado.</seg>
       </tuv>
     </tu>
     <tu>
