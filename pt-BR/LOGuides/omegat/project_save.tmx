@@ -5806,6 +5806,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cross-document links</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T032025Z" creationid="Xys" creationdate="20160603T032025Z">
+        <seg>Vínculos entre documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cross-referencing</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T115307Z" creationid="ohallot" creationdate="20160529T115307Z">
@@ -6042,6 +6050,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T203103Z" creationid="user" creationdate="20160522T203103Z">
         <seg>Idiomas padrão para documentos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defines the behavior of links clicked in PDF files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T032057Z" creationid="Xys" creationdate="20160603T032057Z">
+        <seg>Define o comportamento padrão para os documentos com links no PDF exportado, ou seja, como o sistema deve tentar abrir esses documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11408,8 +11424,16 @@
       <tuv lang="EN">
         <seg>If you have defined links to other documents with OpenDocument extensions (such as .odt, .ods, and .odp), this option converts the files’ extensions to .pdf in the exported PDF document.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T031808Z" creationid="Xys" creationdate="20160603T031808Z">
-        <seg>Se você tem definido vínculos para outros documentos com extensões OpenDocument (tais como .odt, .ods, e . odp), esta opção converte as extensões dos arquivos para .pdf no documento PDF exportado.</seg>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T031901Z" creationid="Xys" creationdate="20160603T031808Z">
+        <seg>Se você tem definido vínculos para outros documentos com extensões OpenDocument (tais como .odt, .ods, e .odp), esta opção converte as extensões dos arquivos para .pdf no documento PDF exportado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have defined relative links in a document, this option exports those links to the PDF.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T032008Z" creationid="Xys" creationdate="20160603T032008Z">
+        <seg>Se você definiu links relativos em um documento, essa opção os exporta esses links para o PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -16899,6 +16923,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160528T191730Z" creationid="user" creationdate="20160528T191730Z">
         <seg>Selecione sua caixa de verificação e quando você fizer qualquer mudança na transição de slides, o novo slide é visualizado na Área de trabalho de slide, incluindo o efeito de transição.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select one among the following alternatives:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T032111Z" creationid="Xys" creationdate="20160603T032111Z">
+        <seg>Select one among the following alternatives:</seg>
       </tuv>
     </tu>
     <tu>
