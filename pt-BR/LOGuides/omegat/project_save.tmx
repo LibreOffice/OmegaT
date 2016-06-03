@@ -10911,6 +10911,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both are the same, the program will signal that you see the original, unchanged document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T060502Z" creationid="Xys" creationdate="20160603T060502Z">
+        <seg>Se ambos forem o mesmo, o programa vai avisar que está mostrando o arquivo original, sem alterações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T191758Z" creationid="user" creationdate="20160522T191758Z">
@@ -19581,6 +19589,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The checksum and your public key are stored together with the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T060258Z" creationid="Xys" creationdate="20160603T060258Z">
+        <seg>O digito verificador e sua chave pública são armazenados com o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The choices for color might include &lt;f0&gt;black and white&lt;/f0&gt; or &lt;f1&gt;grayscale&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160522T120426Z" creationid="Xys" creationdate="20160522T120426Z">
@@ -24237,6 +24253,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When someone later opens the document on any computer with a recent version of LibreOffice, the program will compute the checksum again and compare it with the stored checksum.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T060447Z" creationid="Xys" creationdate="20160603T060316Z">
+        <seg>Quando algum usuário abrir o documento em um computador com uma versão recente do LibreOffice, o programa calculará o checksum novamente e comparar com o armazenado no documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the &lt;f0&gt;LibreOffice Basic&lt;/f0&gt; option (see above) is &lt;f1&gt;not&lt;/f1&gt; selected, the &lt;f2&gt;Display warning&lt;/f2&gt; option becomes available.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T194516Z" creationid="user" creationdate="20160522T194516Z">
@@ -24345,6 +24369,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T142154Z" creationid="ohallot" creationdate="20160528T142154Z">
         <seg>Ao escrever derivadas, você deve informar ao Math que se trata de uma fração usando o comando &lt;f0&gt;over&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you apply &lt;i0/&gt;a digital signature to a document, a kind of checksum is computed from the document’s content plus your personal key.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160603T060329Z" creationid="Xys" creationdate="20160603T060237Z">
+        <seg>Quando você aplica uma &lt;i0/&gt;assinatura digital em um documento, uma espécie de dígito verificador é calculado a partir do conteúdo dos documentos além de sua chave pessoal.</seg>
       </tuv>
     </tu>
     <tu>
