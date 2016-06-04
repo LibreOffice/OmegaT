@@ -2439,6 +2439,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A variable of type &lt;f7&gt;array&lt;/f7&gt; allows a single variable to contain multiple values, similar to storing multiple pages in a single book.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202035Z" creationid="user" creationdate="20160604T202035Z">
+        <seg>As variáveis do tipo &lt;f7&gt;array&lt;/f7&gt; permitem que uma simples variável possa conter valores múltiplos, como armazenar várias páginas em um livro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A variable, like a piece of paper, contains information that can be changed and read.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T201626Z" creationid="user" creationdate="20160604T201626Z">
@@ -6543,6 +6551,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>CurrentController is a property referring to a service that controls the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202240Z" creationid="user" creationdate="20160604T202240Z">
+        <seg>CurrentController é uma propriedade que faz referência a um controle interno do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CurrentController then dispatches the changes to the document frame.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202254Z" creationid="user" creationdate="20160604T202254Z">
+        <seg>CurrentController então executa a alteração no quadro(Frame) do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Animation</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160528T200510Z" creationid="user" creationdate="20160527T155207Z">
@@ -6727,6 +6751,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defined as a variable</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202206Z" creationid="user" creationdate="20160604T202139Z">
+        <seg>Define como uma variável</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Defines the behavior of links clicked in PDF files.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T032616Z" creationid="Xys" creationdate="20160603T032057Z">
@@ -6739,6 +6771,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T215216Z" creationid="user" creationdate="20160521T215216Z">
         <seg>Define a função do &lt;i0/&gt;botão do meio do mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defines the start of the macro</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202126Z" creationid="user" creationdate="20160604T202126Z">
+        <seg>Define o início da macro</seg>
       </tuv>
     </tu>
     <tu>
@@ -9719,6 +9759,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, when you type, it is the current controller that takes note of what you type.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202248Z" creationid="user" creationdate="20160604T202248Z">
+        <seg>Por exemplo, quando for digitado, este é o controle que anota o que foi digitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, you can also save printer settings, and general behaviors set from &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, such as &lt;f1&gt;Paths&lt;/f1&gt; and &lt;f2&gt;Colors&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T005953Z" creationid="ohallot" creationdate="20160516T005953Z">
@@ -10379,6 +10427,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T172404Z" creationid="ohallot" creationdate="20160514T172404Z">
         <seg>Quadro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Frame is a controller property that returns the main frame for a document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202259Z" creationid="user" creationdate="20160604T202259Z">
+        <seg>Frame é uma propriedade controlada que retorna o área principal do documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14091,6 +14147,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T184209Z" creationid="user" creationdate="20160522T184209Z">
         <seg>Neste caso, não importa onde a estrutura de diretório referenciado é gravado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this example, there is only one value, and it is numbered zero.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202059Z" creationid="user" creationdate="20160604T202059Z">
+        <seg>Neste exemplo, existem somente um valor, pois está com valor zero.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21677,6 +21741,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following is an explanation of the code used in the EnterMyName macro.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202108Z" creationid="user" creationdate="20160604T202108Z">
+        <seg>A seguir explicamos cada passo do código utilizado na macro EscrevaMeuNome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following items can be changed on a slide master:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160528T172336Z" creationid="user" creationdate="20160528T172336Z">
@@ -22065,6 +22137,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160530T025554Z" creationid="Xys" creationdate="20160530T025242Z">
         <seg>A visualização normal no Writer mostra como a página ficará ao ser impressa e essa visualização é editável.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The number in the parentheses indicates the highest usable number to access a storage location.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202054Z" creationid="user" creationdate="20160604T202054Z">
+        <seg>O número dentro dos parênteses indica o maior número utilizável para acessar a localização do conteúdo armazenado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22633,6 +22713,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160529T205916Z" creationid="user" creationdate="20160529T205916Z">
         <seg>Portanto, algumas ilustrações não será exatamente como o que vemos na tela do computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the variable named document refers to a document’s frame, which receives dispatched commands.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202318Z" creationid="user" creationdate="20160604T202318Z">
+        <seg>Entretanto, a variável com o nome document faz referência para esta área, a qual recebe as comandos a serem executados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23529,6 +23617,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160526T010116Z" creationid="ohallot" creationdate="20160526T010116Z">
         <seg>Isso vai ajudar a identificar as categorias e símbolos que deseja usar na fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ThisComponent refers to the current document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202222Z" creationid="user" creationdate="20160604T202222Z">
+        <seg>Este documento faz referência ao documento corrente(que está sendo utilizado).</seg>
       </tuv>
     </tu>
     <tu>
@@ -25941,6 +26037,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Values in an array are usually numbered starting from zero.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202048Z" creationid="user" creationdate="20160604T202048Z">
+        <seg>Valores em um array são normalmente numerados com início zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Vertical alignment</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T123023Z" creationid="ohallot" creationdate="20160529T123023Z">
@@ -27945,6 +28049,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T114653Z" creationid="ohallot" creationdate="20160516T114653Z">
         <seg>Pode ser necessário abrir o gerenciador de modelos e clicar em &lt;f0&gt;Atualizar&lt;/f0&gt; no menu &lt;f1&gt;Ações&lt;/f1&gt; para ter os novos modelos aparecendo nas listas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not understand all the details, but the explanation of each line of code may give you some idea of how a macro works.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202114Z" creationid="user" creationdate="20160604T202114Z">
+        <seg>Pode ser que nem todos os detalhes sejam entendidos, mas a explicação de cada linha do código pode dar alguma ideia de como a macro trabalha.</seg>
       </tuv>
     </tu>
     <tu>
