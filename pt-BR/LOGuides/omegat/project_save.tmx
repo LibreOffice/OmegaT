@@ -2239,6 +2239,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A dispatch command is text, for example .uno:InsertObject or .uno:GoToStartOfLine.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220214Z" creationid="user" creationdate="20160604T220214Z">
+        <seg>Um comando de envio é um texto, por exemplo .uno: InsertObject ou .uno: GoToStartOfLine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A duplicate slide is inserted after the selected slide in the presentation.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T210456Z" creationid="user" creationdate="20160527T210456Z">
@@ -3715,6 +3723,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160528T190933Z" creationid="user" creationdate="20160528T190933Z">
         <seg>Como mencionado em “&lt;bf0&gt;Modificando a apresentação de slide&lt;/bf0&gt;” na página &lt;bf1&gt;20&lt;/bf1&gt;, o Impress aloca configurações padrões razoáveis para a apresentação de slide, enquanto, que ao mesmo tempo permite personalizar muitos aspectos da experiência de apresentação de slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As soon as the document has been changed, the File Save command is enabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220207Z" creationid="user" creationdate="20160604T220207Z">
+        <seg>Assim que o documento foi modificado, o arquivo de comando Salvar é habilitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9879,6 +9895,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, after saving the document, the File Save command is disabled.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220044Z" creationid="user" creationdate="20160604T220044Z">
+        <seg>Por exemplo, depois de salvar o documento, o arquivo de comando Salvar é desativado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, books usually have chapters set to always start on an odd-numbered (right-hand) page.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160531T123526Z" creationid="Xys" creationdate="20160531T123251Z">
@@ -9931,6 +9955,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T223346Z" creationid="ohallot" creationdate="20160515T223346Z">
         <seg>Por exemplo, no Writer &lt;f0&gt;Control+0&lt;/f0&gt; aplica o estilo &lt;f1&gt;Corpo de texto&lt;/f1&gt;, &lt;f2&gt;Control+1&lt;/f2&gt; aplica o estilo &lt;f3&gt;Título 1&lt;/f3&gt;, e &lt;f4&gt;Control+2&lt;/f4&gt; aplica o estilo &lt;f5&gt;Título 2&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, inserting an object generates the following code:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220326Z" creationid="user" creationdate="20160604T220326Z">
+        <seg>Por exemplo, inserir um objeto gera o seguinte código:</seg>
       </tuv>
     </tu>
     <tu>
@@ -21957,6 +21989,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command is sent to the document frame and this passes on the command until an object is found that can handle the command.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220226Z" creationid="user" creationdate="20160604T220226Z">
+        <seg>O comando é enviado para o quadro do documento e esta passou sobre o comando até que um objeto é encontrado que pode lidar com o comando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The commands &lt;f0&gt;left(&lt;/f0&gt; and &lt;f1&gt;right)&lt;/f1&gt; have to be used to create scalable brackets within a matrix.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131033Z" creationid="ohallot" creationdate="20160528T130645Z">
@@ -22185,6 +22225,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T200556Z" creationid="user" creationdate="20160604T200556Z">
         <seg>A discussão começa com características próximas do topo da lista da macro descrevendo-as.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dispatch framework can also be used to send “commands” back to the User Interface (UI).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220037Z" creationid="user" creationdate="20160604T220037Z">
+        <seg>O ambiente de envio também pode ser usado para enviar "comandos" de volta para a interface de usuário (UI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -22653,6 +22701,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The macro recorder records the generated dispatches.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220246Z" creationid="user" creationdate="20160604T220246Z">
+        <seg>O gravador de macro geralmente grava comandos a serem executados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The macro recorder works by recording the commands that are dispatched (see “&lt;f0&gt;&lt;rf1&gt;Dispatch framework&lt;/rf1&gt;&lt;/f0&gt;&lt;f2&gt;” on page &lt;/f2&gt;&lt;f3&gt;&lt;rf4&gt;14&lt;/rf4&gt;&lt;/f3&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160601T010231Z" creationid="user" creationdate="20160601T010137Z">
@@ -22941,6 +22997,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The problem is that not all dispatched commands are complete.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220323Z" creationid="user" creationdate="20160604T220323Z">
+        <seg>O problema é que nem todos os comandos criados podem estar completos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The procedure to create &lt;i0/&gt;a bulleted or numbered list is quite different depending on the type of text box used, although the tools to manage the list and customize the appearance are the same.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T235732Z" creationid="user" creationdate="20160527T235732Z">
@@ -22961,6 +23025,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T215533Z" creationid="user" creationdate="20160604T215104Z">
         <seg>O objetivo do &lt;i0/&gt;&lt;i1/&gt;ambiente de envio é fornecer acesso uniforme a componentes (documentos) para comandos que normalmente correspondem a itens do menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The recorder is relatively simple tool to use and the same commands that are issued are recorded for later use.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T220312Z" creationid="user" creationdate="20160604T220312Z">
+        <seg>O gravador é relativamente simples de implementar e os mesmos comandos que são emitidos são gravados para uso posterior.</seg>
       </tuv>
     </tu>
     <tu>
