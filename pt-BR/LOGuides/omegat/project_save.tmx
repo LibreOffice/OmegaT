@@ -3015,6 +3015,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; on the main menu bar to open the LibreOffice Basic Macros dialog, select your macro and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195803Z" creationid="user" creationdate="20160604T195803Z">
+        <seg>Alternativamente, acesse o menu &lt;f0&gt;Ferramenas &gt; Macros &gt; Organizar Macros &gt; LibreOffice Basic&lt;/f0&gt; para abrir a caixa de diálogo de Macros do LibreOffice Basic, selecione a macro e clique &lt;f1&gt;Executar&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, go to &lt;f1&gt;Insert &gt; Object &gt; OLE Object&lt;/f1&gt; on the menu bar to open the Insert OLE Object dialog, select &lt;f2&gt;Create new&lt;/f2&gt; option and &lt;f3&gt;Formula&lt;/f3&gt; from the sub-menu, then click OK to open the Formula Editor.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T175112Z" creationid="ohallot" creationdate="20160525T142723Z">
@@ -5163,6 +5171,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T111354Z" creationid="ohallot" creationdate="20160529T111354Z">
         <seg>Clique em &lt;f0&gt;Salvar&lt;/f0&gt; para salvar a fórmula e fechar a caixa de diálogo Salvar como.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt; to save the macro and close the LibreOffice Basic Macros dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195557Z" creationid="user" creationdate="20160604T195557Z">
+        <seg>Clique &lt;f0&gt;Salvar&lt;/f0&gt; para armazenar a macro e fechar a caixa de diálogo de Macros do Libreoffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8767,6 +8783,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: &lt;f1&gt;Macro Selector dialog&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195821Z" creationid="user" creationdate="20160604T195821Z">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Caixa de diálogo Seletor de macro&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Calc status bar</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160531T210144Z" creationid="douglas" creationdate="20160531T210144Z">
@@ -9531,6 +9555,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T223346Z" creationid="ohallot" creationdate="20160515T223346Z">
         <seg>Por exemplo, no Writer &lt;f0&gt;Control+0&lt;/f0&gt; aplica o estilo &lt;f1&gt;Corpo de texto&lt;/f1&gt;, &lt;f2&gt;Control+1&lt;/f2&gt; aplica o estilo &lt;f3&gt;Título 1&lt;/f3&gt;, e &lt;f4&gt;Control+2&lt;/f4&gt; aplica o estilo &lt;f5&gt;Título 2&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, select your newly created macro EnterMyName and click &lt;f0&gt;Run&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195729Z" creationid="user" creationdate="20160604T195729Z">
+        <seg>Por exemplo, selecione a macro recém-criada e clique em &lt;f0&gt;Executar&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10771,6 +10803,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T182030Z" creationid="user" creationdate="20160604T182030Z">
         <seg>Para iniciar a gravação da macro acesse o menu &lt;/f0&gt;Ferramentas &gt; Macros &gt; Gravar Macro.&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; on the main menu bar to open the Macro Selector dialog (&lt;f1&gt;&lt;t2&gt;Figure 4&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195714Z" creationid="user" creationdate="20160604T195714Z">
+        <seg>Vá em &lt;f0&gt;Ferramentas &gt; Macros &gt; Executar macro&lt;/f0&gt; para abrir a caixa de diálogo Seletor de macro(Figura &lt;f1&gt;&lt;t2&gt;4&lt;/t2&gt;&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12319,6 +12359,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you followed all of the above steps, the Standard library now contains a module named Recorded and this module contains the EnterMyName macro.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195603Z" creationid="user" creationdate="20160604T195603Z">
+        <seg>Se foi seguido todos os passos acima, a biblioteca Standard agora contém um módulo Gravado e neste módulo a macro EscrevaMeuNome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you forget to add a closing bracket, Math places an inverted question mark next to where the closing bracket should have been placed.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T131940Z" creationid="ohallot" creationdate="20160528T131940Z">
@@ -13491,6 +13539,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T161105Z" creationid="Xys" creationdate="20160521T161105Z">
         <seg>Na seção &lt;f0&gt;Layout&lt;/f0&gt;, selecione na lista drop-down o número de páginas para imprimir por folha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f0&gt;Macro name&lt;/f0&gt; text box, type a name for the macro you have just recorded, for example &lt;f1&gt;EnterMyName&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195445Z" creationid="user" creationdate="20160604T195445Z">
+        <seg>Na caixa de texto &lt;f0&gt;Nome da macro&lt;/f0&gt;, digite um nome para a macro que acabou de gravar, por exemplo &lt;f1&gt;EscrevaMeuNome&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18880,6 +18936,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the Standard library and click &lt;f0&gt;New Module&lt;/f0&gt; to create a &lt;i1/&gt;new module to contain the macro.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195227Z" creationid="user" creationdate="20160604T195227Z">
+        <seg>Selecione a biblioteca Standard e clique em &lt;f0&gt;Novo módulo&lt;/f0&gt; para criar um &lt;i1/&gt;novo módulo que armazene a macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the [L] options to convert Microsoft OLE objects into the corresponding LibreOffice OLE objects when a Microsoft document is loaded into LibreOffice (mnemonic: “L” for “load”).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T192111Z" creationid="user" creationdate="20160522T192111Z">
@@ -20673,6 +20737,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="raul.silva" changedate="20160530T163430Z" creationid="raul.silva" creationdate="20160530T163430Z">
         <seg>As notas de versão do LibreOffice 5.0 Notas estão em: &lt;a0&gt;&lt;f1&gt;https://wiki.documentfoundation.org/ReleaseNotes/5.0&lt;/f1&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice Basic Macros dialog now displays the name of the new module in the Standard library.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195415Z" creationid="user" creationdate="20160604T195415Z">
+        <seg>A caixa de diálogo do LibreOffice Basic Macros mostra o nome do novo módulo na biblioteca Standard.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22981,6 +23053,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This opens the New Module dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195251Z" creationid="user" creationdate="20160604T195251Z">
+        <seg>Isto abre a caixa de diálogo Novo módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option can increase file sizes significantly.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160531T120858Z" creationid="Xys" creationdate="20160531T120858Z">
@@ -24661,6 +24741,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type a descriptive name for the new module, for example &lt;f0&gt;Recorded&lt;/f0&gt;, and click &lt;f1&gt;OK&lt;/f1&gt; to create the module.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195354Z" creationid="user" creationdate="20160604T195354Z">
+        <seg>Digite um nome descritivo para o novo módulo, por exemplo &lt;f0&gt;Gravada&lt;/f0&gt; e clique em &lt;f1&gt;OK&lt;/f1&gt; para criar o módulo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type a name for this color in the &lt;f2&gt;Name&lt;/f2&gt; box, then click the &lt;f3&gt;Add&lt;/f3&gt; button.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T011206Z" creationid="user" creationdate="20160522T011206Z">
@@ -25737,6 +25825,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="douglas" changedate="20160514T160521Z" creationid="douglas" creationdate="20160514T160521Z">
         <seg>Quando o Calc é aberto, a &lt;i0/&gt;janela principal abre (&lt;t1&gt;Figura 1&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When LibreOffice creates a new module, it automatically adds the macro named Main.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195611Z" creationid="user" creationdate="20160604T195611Z">
+        <seg>Quando o LibreOffice cria um novo módulo é incluído automaticamente uma macro com o nome Main.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29041,6 +29137,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T072859Z" creationid="Xys" creationdate="20160603T072859Z">
         <seg>layout direita para esquerda (RTL) layout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>running</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T195622Z" creationid="user" creationdate="20160604T195622Z">
+        <seg>executando</seg>
       </tuv>
     </tu>
     <tu>
