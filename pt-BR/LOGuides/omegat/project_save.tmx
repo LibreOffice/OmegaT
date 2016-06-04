@@ -4191,6 +4191,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful when you configure an event handler.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T234707Z" creationid="user" creationdate="20160604T234707Z">
+        <seg>Tenha cuidado quando você configura um processador de eventos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Because LibreOffice can use the name or initials stored in the &lt;f0&gt;LibreOffice – User Data&lt;/f0&gt; page for several things, including document properties (created by and last edited by information) and the name of the author of comments and changes, you will want to ensure that the correct information appears here.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T193103Z" creationid="user" creationdate="20160521T193103Z">
@@ -9625,8 +9633,8 @@
       <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: &lt;f1&gt;Menus page in &lt;/f1&gt;Customize dialog</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="user" changedate="20160604T234234Z" creationid="user" creationdate="20160604T234148Z">
-        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Aba Menus na caixa de diálogo &lt;f1&gt;Personalizar</seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T234628Z" creationid="user" creationdate="20160604T234148Z">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Aba &lt;f1&gt;Menus na caixa de diálogo &lt;/f1&gt;Personalizar</seg>
       </tuv>
     </tu>
     <tu>
@@ -10135,6 +10143,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, assume that you write an event handler that is called every time that a key is pressed, but you make a mistake so the event is not properly handled.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T234722Z" creationid="user" creationdate="20160604T234722Z">
+        <seg>Por exemplo, suponha que você escreve um processador de evento que é chamado a cada vez que uma tecla é pressionada, mas você cometeu um erro, de modo que o evento não é tratado corretamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, books usually have chapters set to always start on an odd-numbered (right-hand) page.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160531T123526Z" creationid="Xys" creationdate="20160531T123251Z">
@@ -10203,6 +10219,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T225343Z" creationid="user" creationdate="20160604T225154Z">
         <seg>Por exemplo, em computador executando Windows XP, está em &lt;f1&gt;C:\Documents and Settings\&lt;usuário&gt;\Application Data&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, opening a document, pressing a key, or moving the mouse cursor are all events.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T234640Z" creationid="user" creationdate="20160604T234640Z">
+        <seg>Por exemplo, um documento foi aberto, uma tecla foi pressionada ou o mouse foi movido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11083,6 +11107,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T005405Z" creationid="ohallot" creationdate="20160516T005405Z">
         <seg>Nas guias no topo da caixa, selecione a categoria do modelo desejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full coverage of event handlers is well beyond the scope of this document, but a little knowledge can accomplish much.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T234702Z" creationid="user" creationdate="20160604T234702Z">
+        <seg>A cobertura total sobre o processador de eventos está além do escopo deste documento, mas um pouco de conhecimento pode ajudar muito.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15683,6 +15715,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160527T175412Z" creationid="ohallot" creationdate="20160527T175412Z">
         <seg>O Math não sabe nada sobre a ordem das operações numa fórmula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice allows events to trigger the execution of a macro; the macro is then called an event handler.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T234655Z" creationid="user" creationdate="20160604T234655Z">
+        <seg>O LibreOffice permite que eventos causem um chamado de macro; a macro é então chamada por um processador de eventos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21346,8 +21386,8 @@
       <tuv lang="EN">
         <seg>Some macros are available as free downloads on the Internet (see &lt;t0&gt;Table 1&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="user" changedate="20160604T232902Z" creationid="user" creationdate="20160604T232902Z">
-        <seg>Algumas macros estão disponíveis para baixar gratuitamente na Internet(ver Tabela 2).</seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T234508Z" creationid="user" creationdate="20160604T232902Z">
+        <seg>Algumas macros estão disponíveis para baixar gratuitamente na Internet(veja a &lt;t0&gt;Tabela 1&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28337,6 +28377,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T061011Z" creationid="Xys" creationdate="20160603T061011Z">
         <seg>Sempre que alguém muda algo no documento, esta mudança quebra a assinatura digital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever something happens in LibreOffice, it is called an &lt;i0/&gt;&lt;i1/&gt;event.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T234415Z" creationid="user" creationdate="20160604T234415Z">
+        <seg>No LibreOffice, quando algo acontece, dizemos que ocorreu um evento.&lt;i0/&gt;&lt;i1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
