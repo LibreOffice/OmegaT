@@ -1663,6 +1663,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;rem (17) Press &lt;/f0&gt;&lt;f1&gt;Down Arrow&lt;/f1&gt;&lt;f2&gt; to move to the next line.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T212036Z" creationid="user" creationdate="20160604T212036Z">
+        <seg>&lt;f0&gt;rem (17) Pressione a &lt;/f0&gt;&lt;f1&gt;seta para baixo&lt;/f1&gt;&lt;f2&gt; para mover para a próxima linha&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;rem (3) Press &lt;/f0&gt;&lt;f1&gt;Ctrl+Right Arrow&lt;/f1&gt;&lt;f2&gt; to move the cursor to the start of “specifies”.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T210138Z" creationid="user" creationdate="20160604T210138Z">
@@ -1697,8 +1705,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;rem (6) Press &lt;/f0&gt;&lt;f1&gt;Delete&lt;/f1&gt;&lt;f2&gt; to delete the lower case s ....&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="user" changedate="20160604T210629Z" creationid="user" creationdate="20160604T210629Z">
-        <seg>&lt;f0&gt;rem (6) Pressione &lt;/f0&gt;&lt;f1&gt;Delete&lt;/f1&gt;&lt;f2&gt; para remover a letra “s” minúscula ...</seg>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T212257Z" creationid="user" creationdate="20160604T210629Z">
+        <seg>&lt;f0&gt;rem (6) Pressione &lt;/f0&gt;&lt;f1&gt;Delete&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; para remover a letra “s” minúscula ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6755,6 +6763,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T202254Z" creationid="user" creationdate="20160604T202254Z">
         <seg>CurrentController então executa a alteração no quadro(Frame) do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor movements are used for all operations (as opposed to searching).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T212104Z" creationid="user" creationdate="20160604T212104Z">
+        <seg>Os movimentos do cursor são utilizados em todas as operações (para substituir a pesquisa no arqivo).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12147,6 +12163,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T151446Z" creationid="ohallot" creationdate="20160529T032356Z">
         <seg>Se não estiver satisfeito, repita os passo acima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If run on the DONTKNOW line, the word &lt;f0&gt;weight&lt;/f0&gt; is moved to the front of the line, and the first “The” is changed to “She”.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T212219Z" creationid="user" creationdate="20160604T212219Z">
+        <seg>Se executar na linha DONTKNOW, a palavra “&lt;f0&gt;espessura&lt;/f0&gt;” é movimentada para o início da linha, e a palavra “fonte” passa a ter a primeira letra em maiúscula.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23845,6 +23869,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is not perfect, but you should not run the macro on the lines that did not have the proper format.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T212226Z" creationid="user" creationdate="20160604T212226Z">
+        <seg>Isto náo está correto, pois não devia ter executada a macro nas linhas com a estrutura errada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is usually done during installation of the smartcard software.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T041758Z" creationid="Xys" creationdate="20160603T041758Z">
@@ -28785,6 +28817,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160527T175524Z" creationid="ohallot" creationdate="20160527T175524Z">
         <seg>É preciso utilizar &lt;i0/&gt;&lt;is1/&gt;chaves&lt;ie2/&gt; para hierarquizar a ordem das operações explicitamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to do these manually.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T212257Z" creationid="user" creationdate="20160604T212257Z">
+        <seg>Isto deve ser feito manualmente.</seg>
       </tuv>
     </tu>
     <tu>
