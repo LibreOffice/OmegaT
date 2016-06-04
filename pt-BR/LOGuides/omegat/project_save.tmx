@@ -1567,6 +1567,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value &lt;/f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;"Your name"&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202904Z" creationid="user" creationdate="20160604T202904Z">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value &lt;/f4&gt;&lt;f5&gt;=&lt;/f5&gt;&lt;f6&gt; &lt;/f6&gt;&lt;f7&gt;"Seu nome"&lt;/f7&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"Your name"&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T200852Z" creationid="user" creationdate="20160604T200852Z">
@@ -6679,6 +6687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Declares an array of properties.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202742Z" creationid="user" creationdate="20160604T202742Z">
+        <seg>Declara uma matriz(array) de propriedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default currency</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T201931Z" creationid="user" creationdate="20160522T201931Z">
@@ -7563,6 +7579,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T045735Z" creationid="Xys" creationdate="20160603T045735Z">
         <seg>Algum deles ou todos os três campos podem ser deixados em branco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each property has a name and a value.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202823Z" creationid="user" creationdate="20160604T202800Z">
+        <seg>Cada propriedade tem um nome e um valor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10687,6 +10711,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives the property the name “Text” and the value “Your name”, which is the text that is inserted when the macro is run.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202925Z" creationid="user" creationdate="20160604T202925Z">
+        <seg>Define “Text” como sendo o valor para a propriedade nome(.Name) e “Seu nome” para a propriedade valor(.Value), o qual é o texto que é inserido quando a macro executar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;Advance slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160528T191858Z" creationid="user" creationdate="20160528T191858Z">
@@ -13671,6 +13703,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, it is a name/value pair.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202830Z" creationid="user" creationdate="20160604T202812Z">
+        <seg>Em outras palavras, é um par nome/valor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, using styles means that you shift the emphasis from what the text (or page, or other element) looks like, to what the text &lt;f1&gt;is&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165734Z" creationid="ohallot" creationdate="20160514T165734Z">
@@ -16355,6 +16395,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160529T210033Z" creationid="user" creationdate="20160529T210033Z">
         <seg>Em um sistema operacional Mac, vá em LibreOffice &gt; Preferencias &gt; Geral na barra do menu principal para abrir a caixa de diálogo para opções gerais.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On completion, the dispatcher variable contains a reference to a DispatchHelper.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202732Z" creationid="user" creationdate="20160604T202732Z">
+        <seg>Para finalizar, uma variável de envio de comando (dispatcher) possui uma referência a um disparador de comando do tipo DispatchHelper.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21469,6 +21517,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The created array has one property at index zero.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202842Z" creationid="user" creationdate="20160604T202842Z">
+        <seg>O array criado tem uma propriedade de índice zero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current printer settings will be stored with the document whether or not this option is selected.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T171204Z" creationid="user" creationdate="20160522T171204Z">
@@ -21641,6 +21697,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T200556Z" creationid="user" creationdate="20160604T200556Z">
         <seg>A discussão começa com características próximas do topo da lista da macro descrevendo-as.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dispatch helper sends a dispatch to the document frame (stored in the variable named document) with the command .uno:InsertText.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202956Z" creationid="user" creationdate="20160604T202956Z">
+        <seg>O disparador de comandos(dispatcher Helper) envia o comando para a área do documento(armazenado na variável document) com o comando “.uno:InsertText”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21941,6 +22005,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The last argument is the array of property values to be used while executing the command InsertText.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T203024Z" creationid="user" creationdate="20160604T203024Z">
+        <seg>O último argumento é um array de propriedade para ser utilizados enquanto executa o comando InsertText.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The last line of the code ends the subroutine.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T203029Z" creationid="user" creationdate="20160604T203029Z">
+        <seg>A última linha do código que finaliza a sub-rotina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The last marked selection is the content of the selection clipboard.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T221742Z" creationid="user" creationdate="20160521T221742Z">
@@ -22145,6 +22225,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T135330Z" creationid="ohallot" creationdate="20160516T135330Z">
         <seg>Na próxima vez que você criar um documento &lt;f0&gt;&lt;/f0&gt;deste tipo em &lt;f1&gt;Arquivo → Novo&lt;/f1&gt;, o documento será criado a partir desse modelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The next two arguments, frame name and search flags, are beyond the scope of this document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T203017Z" creationid="user" creationdate="20160604T203017Z">
+        <seg>Os próximos dois argumentos, nome do quadro e o que procurar, estão fora do escopo deste documento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23313,6 +23401,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T041758Z" creationid="Xys" creationdate="20160603T041758Z">
         <seg>Isto normalmente é feito durante a instalção do software do cartão.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is where the magic happens.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T202936Z" creationid="user" creationdate="20160604T202936Z">
+        <seg>Este é onde a mágica acontece.</seg>
       </tuv>
     </tu>
     <tu>
