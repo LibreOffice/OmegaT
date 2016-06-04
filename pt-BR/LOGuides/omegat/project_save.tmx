@@ -14791,6 +14791,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It takes much longer to read and write the steps than to record the macro.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205813Z" creationid="user" creationdate="20160604T205813Z">
+        <seg>Leva muito mais tempo para ler e escrever os passos do que para gravar a macro..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its Smart Connectors feature allows you to define your own connection points.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T072200Z" creationid="Xys" creationdate="20160603T072200Z">
@@ -15371,6 +15379,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T200608Z" creationid="user" creationdate="20160604T200608Z">
         <seg>Listagem &lt;seq0&gt;3&lt;/seq0&gt;: Gerando a macro “EscrevaMeuNome”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;4&lt;/seq0&gt;: Copying numeric value to start of the column</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205903Z" creationid="user" creationdate="20160604T205903Z">
+        <seg>Listing &lt;seq0&gt;4&lt;/seq0&gt;: Copiando um valor numérico para o início da coluna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17384,6 +17400,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pasting the value also pasted an extra space, so press &lt;f0&gt;Backspace&lt;/f0&gt; to remove the extra space.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205630Z" creationid="user" creationdate="20160604T205630Z">
+        <seg>Colado o valor com espaço extra, então pressione &lt;f0&gt;Backspace&lt;/f0&gt; para remover o espaço extra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pasting unformatted text</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160526T214044Z" creationid="user" creationdate="20160526T214044Z">
@@ -17664,6 +17688,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Home&lt;/f0&gt; to move to the start of the line.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205713Z" creationid="user" creationdate="20160604T205646Z">
+        <seg>Pressione &lt;f0&gt;Home&lt;/f0&gt; para mover para o início da linha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;f0&gt;Shift+Ctrl+R&lt;/f0&gt; to restore or refresh the view of the current document after changing the anti-aliasing settings, to see the effect.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T222536Z" creationid="user" creationdate="20160521T222536Z">
@@ -17684,6 +17716,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T205131Z" creationid="user" creationdate="20160604T205131Z">
         <seg>Pressione &lt;f0&gt;Tab&lt;/f0&gt; para adicionar o tab sem espaço depois do nome da constante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;Tab&lt;/f0&gt; to insert a tab between the number and the name.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205641Z" creationid="user" creationdate="20160604T205641Z">
+        <seg>Pressione &lt;f0&gt;Tab&lt;/f0&gt; para inserir uma tabulação entre o número e o nome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;f0&gt;down arrow&lt;/f0&gt; to move to the next line.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205723Z" creationid="user" creationdate="20160604T205723Z">
+        <seg>Pressione a &lt;f0&gt;seta para baixo&lt;/f0&gt; para mover para a próxima linha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20637,6 +20685,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Stop recording the macro and save the macro, see “&lt;bf0&gt;Recording a macro&lt;/bf0&gt;” on page &lt;f1&gt;&lt;bf2&gt;6&lt;/bf2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205809Z" creationid="user" creationdate="20160604T205809Z">
+        <seg>Pare a gravação da macro e salve a macro, se necessário veja “&lt;bf0&gt;Gravando uma macro&lt;/bf0&gt;” na página &lt;f1&gt;&lt;bf2&gt;6&lt;/bf2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Style Type</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T170911Z" creationid="ohallot" creationdate="20160514T170911Z">
@@ -22193,6 +22249,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T132943Z" creationid="ohallot" creationdate="20160529T132943Z">
         <seg>O tamanho do quadro de um objeto de fórmula depende da definição da fonte da fórmula, veja o &lt;f0&gt;Guia do Math&lt;/f0&gt; para mais informações.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The generated macro code in &lt;f0&gt;&lt;t1&gt;Listing 4&lt;/t1&gt;&lt;/f0&gt; has been modified to contain the step number in the comments to match the code to the step above.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205854Z" creationid="user" creationdate="20160604T205832Z">
+        <seg>O código de macro gerado na &lt;f0&gt;&lt;t1&gt;Listagem 4&lt;/t1&gt;&lt;/f0&gt; foi modificada para conter o número do passo nos comentários para coincidir com o código para o passo acima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27181,6 +27245,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With practice this becomes second nature.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205820Z" creationid="user" creationdate="20160604T205820Z">
+        <seg>Com prática, isso torna-se uma segunda natureza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the two questions given above in mind, inspect the text to see if a macro can be recorded to format the text.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T203355Z" creationid="user" creationdate="20160604T203355Z">
@@ -27217,6 +27289,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T212711Z" creationid="user" creationdate="20160522T212711Z">
         <seg>Espaço entre palavras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work slowly and think about the steps as you do them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T205817Z" creationid="user" creationdate="20160604T205817Z">
+        <seg>Trabalhe lentamente e pense sobre os passos que você fará</seg>
       </tuv>
     </tu>
     <tu>
