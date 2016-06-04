@@ -2903,6 +2903,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All comments in macro coding begin with REM, which stands for remark.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201005Z" creationid="user" creationdate="20160604T201005Z">
+        <seg>Todos os comentários no código da macro iniciam com a palavra-chave REM (do inglês Remark).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All documents in LibreOffice are based on templates.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T161112Z" creationid="ohallot" creationdate="20160514T161112Z">
@@ -2931,6 +2939,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T044229Z" creationid="Xys" creationdate="20160603T043927Z">
         <seg>Todos os outros campos na aba Assinatura Digital estarão acessíveis somente depois de haver selecionado um certificado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All text after REM and on the same line is ignored.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201115Z" creationid="user" creationdate="20160604T201115Z">
+        <seg>Todo texto depois da palavra REM, na mesma linha, é ignorado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3459,6 +3475,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160530T000324Z" creationid="Xys" creationdate="20160529T235937Z">
         <seg>Área: A edição para preenchimento e transparência é disponibilizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a short cut, the single quote character (') can also be used to start a comment.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201123Z" creationid="user" creationdate="20160604T201123Z">
+        <seg>Também pode ser utilizado o caracter aspa simples (') para iniciar um comentário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6715,6 +6739,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T161000Z" creationid="ohallot" creationdate="20160514T161000Z">
         <seg>Definir uma sequência de estilos de parágrafos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Defining subroutines with &lt;is0/&gt;SUB</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201253Z" creationid="user" creationdate="20160604T201253Z">
+        <seg>Definindo subroutines com &lt;is0/&gt;SUB</seg>
       </tuv>
     </tu>
     <tu>
@@ -12695,6 +12727,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you use symbolic constants defined by the Application Programming Interface (API), it is safer to assume that the names are case-sensitive.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201157Z" creationid="user" creationdate="20160604T201157Z">
+        <seg>Se for definidas constantes simbólicas pela interface de programação (API do inglês Aplication Programming Interface), os códigos passam a assumir que os nomes são sensíveis a caixa das letras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want all brackets to be scalable, go to &lt;f0&gt;Format &gt; Spacing&lt;/f0&gt; to open the Spacing dialog.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T150109Z" creationid="ohallot" creationdate="20160528T131429Z">
@@ -14039,6 +14079,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Individual macros are stored in subroutines and these subroutines begin with the keyword SUB.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201259Z" creationid="user" creationdate="20160604T201259Z">
+        <seg>Macros individuais são armazenadas em sub-rotinas que devem iniciar com a palavra-chave SUB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about automatic updating for links, field functions and charts</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T165808Z" creationid="user" creationdate="20160522T165808Z">
@@ -14675,6 +14723,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T182147Z" creationid="user" creationdate="20160604T182147Z">
         <seg>Caixa de diálogo de macros do LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice Basic is not case-sensitive for keywords, so REM, Rem, and rem can all start a comment.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201139Z" creationid="user" creationdate="20160604T201139Z">
+        <seg>LibreOffice Basic não é sensível a textos maiúsculos e minúsculo, então REM, Rem, e rem podem ser utilizados para iniciar um comentário.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20257,6 +20313,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T135218Z" creationid="ohallot" creationdate="20160528T135218Z">
         <seg>Suponha que queira criar uma fórmula que necessite mais de uma linha, por exemplo &lt;f0&gt;&lt;df1&gt;&lt;d2/&gt;&lt;di3/&gt;&lt;s4&gt;formula&lt;/s4&gt;&lt;/df1&gt;&lt;/f0&gt; e sua primeira reação seria normalmente pressionar a tecla &lt;f5&gt;Enter&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Symbolic constants are an advanced topic not covered by this user guide and are not required when using the macro recorder in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201212Z" creationid="user" creationdate="20160604T201212Z">
+        <seg>Constantes simbólicas é um tópico avançado que não é coberto por este guia e não sendo necessário quando utilizando as macros gravadas no LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29441,6 +29505,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165420Z" creationid="ohallot" creationdate="20160514T165409Z">
         <seg>estilos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>subroutines</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201241Z" creationid="user" creationdate="20160604T201241Z">
+        <seg>subrotinas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>subroutines in macros</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T201231Z" creationid="user" creationdate="20160604T201231Z">
+        <seg>subrotinas em macros</seg>
       </tuv>
     </tu>
     <tu>
