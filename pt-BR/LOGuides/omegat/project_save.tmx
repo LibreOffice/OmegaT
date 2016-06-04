@@ -2351,6 +2351,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A loaded library is displayed differently from a library that is not loaded.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224931Z" creationid="user" creationdate="20160604T224931Z">
+        <seg>A biblioteca carregada é exibida de maneira diferente a partir de uma biblioteca que não está carregada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A macro is a saved sequence of commands or keystrokes that are stored for later use.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T181537Z" creationid="raul.silva" creationdate="20160531T181537Z">
@@ -3783,6 +3791,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As you create your macros, you must decide where to store them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224846Z" creationid="user" creationdate="20160604T224846Z">
+        <seg>Conforme se cria as macros, deve-se decidir onde armazená-los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you enter the markup language in the Formula Editor, the formula will appear in the Preview window during and after input of the markup language.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160521T025208Z" creationid="ohallot" creationdate="20160521T025030Z">
@@ -4307,6 +4323,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T214639Z" creationid="user" creationdate="20160527T214639Z">
         <seg>Por padrão a apresentação de slide mostrará todos os slides na mesma ordem como eles aparecem no classificador de slides, sem qualquer transição entre slides.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, LibreOffice uses names such as Module1, Module2 and so on.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224837Z" creationid="user" creationdate="20160604T224837Z">
+        <seg>Por padrão, o LibreOffice usa nomes como Module1, Module2, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11367,6 +11391,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt; on the main menu bar to view where other configuration data are stored.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T225036Z" creationid="user" creationdate="20160604T225036Z">
+        <seg>Vá em &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Caminhos&lt;/f0&gt; para ver onde outros dados de configuração estão armazenados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;View &gt; Master &gt; Slide Master&lt;/f0&gt; on the Menu bar to open Master View (&lt;f1&gt;&lt;t2&gt;Figure 30&lt;/t2&gt;&lt;/f1&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160529T000620Z" creationid="user" creationdate="20160528T212609Z">
@@ -15279,6 +15311,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Just as it makes good sense to give your libraries meaningful names, it is prudent to use meaningful names for your modules.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224828Z" creationid="user" creationdate="20160604T224828Z">
+        <seg>Assim como faz todo sentido dar a suas bibliotecas nomes significativos, é prudente usar nomes significativos para seus módulos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyboard shortcuts</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160515T211649Z" creationid="ohallot" creationdate="20160515T211649Z">
@@ -15639,6 +15679,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice stores user-specific data in a directory in the home directory for each user.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T225014Z" creationid="user" creationdate="20160604T225014Z">
+        <seg>O LibreOffice armazena dados específicos do usuário em um diretório sob o diretório pessoal do usuário.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice supports the following types of styles:</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T165858Z" creationid="ohallot" creationdate="20160514T165858Z">
@@ -15871,10 +15919,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Macros are not available until the library that contains them is loaded.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224909Z" creationid="user" creationdate="20160604T224909Z">
+        <seg>Macros não estão disponíveis até que a biblioteca que os contém seja carregada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Macros are very useful when you have to repeat the same task in the same way over and over again.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160601T005232Z" creationid="raul.silva" creationdate="20160531T182958Z">
         <seg>Macros são muito úteis quando você tem que repetir uma mesma tarefa da mesma maneira novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Macros stored in the application library container named My Macros, however, are globally available to all documents.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224904Z" creationid="user" creationdate="20160604T224904Z">
+        <seg>Macros armazenadas no recipiente de bibliotecas chamado Minhas macros, no entanto, são globalmente disponíveis para todos os documentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21149,6 +21213,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Storing a macro in a document is useful if the document will be shared and you want the macro to be included with the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224857Z" creationid="user" creationdate="20160604T224857Z">
+        <seg>Armazenar uma macro em um documento é útil se o documento será compartilhado e você quiser que a macro seja incluída em seu documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Style Type</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T170911Z" creationid="ohallot" creationdate="20160514T170911Z">
@@ -21969,6 +22041,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T143829Z" creationid="ohallot" creationdate="20160528T143829Z">
         <seg>A caixa de diálogo Caracteres especiais usada em outros módulos do LibreOffice não está disponível no Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard library and Template library, however, are automatically loaded.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224918Z" creationid="user" creationdate="20160604T224918Z">
+        <seg>As bibliotecas Standard e Template, no entanto, são carregadas automaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22925,6 +23005,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location is operating system specific.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T225017Z" creationid="user" creationdate="20160604T225017Z">
+        <seg>A localização é especifica do sistema operacional.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location varies with your computer’s operating system.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T123652Z" creationid="ohallot" creationdate="20160516T123652Z">
@@ -23673,6 +23761,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160531T121531Z" creationid="Xys" creationdate="20160531T121218Z">
         <seg>Existe apenas uma configuração válida para o documento inteiro de PDF: PDF (envia o documento inteiro), &lt;is3/&gt;FDF&lt;ie4/&gt; (envia os conteúdos de controle), HTML e XML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, if you store your macros in the Standard library, you cannot import them into another library container.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224819Z" creationid="user" creationdate="20160604T224819Z">
+        <seg>Portanto, se você armazenar suas macros na biblioteca Standard, você não pode importá-las para um outro recipiente de biblioteca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25489,6 +25585,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160521T203707Z" creationid="user" creationdate="20160521T203707Z">
         <seg>Para carregar o &lt;i0/&gt;Iniciador Rápido quando você inicializa o computador, selecione a opção próxima ao fundo da caixa de diálogo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To load the library and the modules it contains, double-click on the library.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224936Z" creationid="user" creationdate="20160604T224936Z">
+        <seg>Para carregar a biblioteca e os módulos que ela contém, dê um duplo clique na biblioteca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27721,6 +27825,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T061011Z" creationid="Xys" creationdate="20160603T061011Z">
         <seg>Sempre que alguém muda algo no documento, esta mudança quebra a assinatura digital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where are macros &lt;i0/&gt;stored?</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224958Z" creationid="user" creationdate="20160604T224958Z">
+        <seg>Onde as macros estão &lt;i0/&gt;armazenadas?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31033,6 +31145,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160523T144903Z" creationid="Xys" creationdate="20160523T144903Z">
         <seg>barra de status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>storage</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T224951Z" creationid="user" creationdate="20160604T224951Z">
+        <seg>armazenada</seg>
       </tuv>
     </tu>
     <tu>
