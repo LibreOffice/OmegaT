@@ -1567,6 +1567,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"Your name"&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T200852Z" creationid="user" creationdate="20160604T200852Z">
+        <seg>&lt;f0&gt;args1&lt;/f0&gt;&lt;f1&gt;(&lt;/f1&gt;&lt;f2&gt;0&lt;/f2&gt;&lt;f3&gt;).&lt;/f3&gt;&lt;f4&gt;Value&lt;/f4&gt; &lt;f5&gt;=&lt;/f5&gt; &lt;f6&gt;"MeuNome"&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;int from 0 to x f(t) dt&lt;/f0&gt; gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T141640Z" creationid="ohallot" creationdate="20160528T141640Z">
@@ -1587,6 +1595,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160528T141735Z" creationid="ohallot" creationdate="20160528T141735Z">
         <seg>&lt;f0&gt;int_0^x f(t) dt&lt;/f0&gt; resulta em &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;s6&gt;formula&lt;/s6&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;sub&lt;/f0&gt; &lt;f1&gt;EnterMyName&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T200714Z" creationid="user" creationdate="20160604T200714Z">
+        <seg>&lt;f0&gt;sub&lt;/f0&gt; &lt;f1&gt;EscrevaMeuNome&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5939,6 +5955,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160526T012115Z" creationid="ohallot" creationdate="20160526T012115Z">
         <seg>Comando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commenting with &lt;is0/&gt;&lt;is1/&gt;REM</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T200926Z" creationid="user" creationdate="20160604T200926Z">
+        <seg>Comentários iniciam com &lt;is0/&gt;&lt;is1/&gt;REM</seg>
       </tuv>
     </tu>
     <tu>
@@ -14607,6 +14631,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Learning a few things helps significantly in understanding macros.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T200549Z" creationid="user" creationdate="20160604T200549Z">
+        <seg>Aprender algumas coisas ajuda significativamente na compreensão da macro gerada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Left arrow promotes a list entry by one level (for example from Outline 3 to Outline 2).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T234625Z" creationid="user" creationdate="20160527T234625Z">
@@ -14995,6 +15027,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T181306Z" creationid="user" creationdate="20160604T181306Z">
         <seg>Listagem &lt;seq0&gt;2&lt;/seq0&gt;: O Modulo1 depois de adicionada a nova macro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Listing &lt;seq0&gt;3&lt;/seq0&gt;: Generated “EnterMyname” macro</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T200608Z" creationid="user" creationdate="20160604T200608Z">
+        <seg>Listagem &lt;seq0&gt;3&lt;/seq0&gt;: Gerando a macro “EscrevaMeuNome”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21345,6 +21385,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160521T151410Z" creationid="Xys" creationdate="20160521T151410Z">
         <seg>Os diferentes componentes do LibreOffice têm algumas diferenças nas opções de impressão. Essas diferenças estão descritas na Tabela &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The discussion starts with features near the top of the macro listing and describes them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T200556Z" creationid="user" creationdate="20160604T200556Z">
+        <seg>A discussão começa com características próximas do topo da lista da macro descrevendo-as.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29137,6 +29185,22 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160526T140030Z" creationid="user" creationdate="20160522T184020Z">
         <seg>Relativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem define variables</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T200726Z" creationid="user" creationdate="20160604T200726Z">
+        <seg>rem definir as variáveis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>rem get access to the document</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160604T200743Z" creationid="user" creationdate="20160604T200743Z">
+        <seg>rem ter acesso ao documento</seg>
       </tuv>
     </tu>
     <tu>
