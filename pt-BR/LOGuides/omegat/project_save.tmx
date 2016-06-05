@@ -414,6 +414,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;f1&gt;http://ask.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt; (a Q &amp; A site where volunteers answer questions related to LibreOffice)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102938Z" creationid="user" creationdate="20160605T102938Z">
+        <seg>&lt;a0&gt;&lt;f1&gt;http://ask.libreoffice.org/&lt;/f1&gt;&lt;/a0&gt; (um site de P &amp; R (pergunta &amp; respostas) onde os voluntários respondem questões sobre o LibreOffice também)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;&lt;f1&gt;http://forum.openoffice.org/en/forum/&lt;/f1&gt;&lt;/a0&gt; (Apache OpenOffice community forum; volunteers answer questions about LibreOffice as well)</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102958Z" creationid="user" creationdate="20160605T102958Z">
+        <seg>&lt;a0&gt;&lt;f1&gt;http://forum.openoffice.org/en/forum/&lt;/f1&gt;&lt;/a0&gt; (Forum da comunidade OpenOffice/Apache; onde os voluntários respondem questões sobre o LibreOffice também)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;or&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;s7&gt;formula&lt;/s7&gt;&lt;/df4&gt;</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160529T174655Z" creationid="ohallot" creationdate="20160521T015436Z">
@@ -8495,6 +8511,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Expand the Tools library in the LibreOffice library container.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102859Z" creationid="user" creationdate="20160605T102859Z">
+        <seg>Expanda a biblioteca Tools no recipiente de biblioteca LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Expert Configuration</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T155224Z" creationid="user" creationdate="20160522T155224Z">
@@ -15247,6 +15271,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inspect the Debug module—some good examples include WritedbgInfo(document) and printdbgInfo(sheet).</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102910Z" creationid="user" creationdate="20160605T102910Z">
+        <seg>Explore o módulo Debug – alguns bons exemplos incluem o WritedbgInfo(documento) e o printdbgInfo(planilha).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install the required &lt;i0/&gt;dictionaries</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T194919Z" creationid="user" creationdate="20160522T194919Z">
@@ -16571,6 +16603,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T142538Z" creationid="ohallot" creationdate="20160516T142538Z">
         <seg>Muitos documentos, como cartas e relatórios, possuem uma página de rosto, diferente das outras páginas do documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many excellent macros are included with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102823Z" creationid="user" creationdate="20160605T102823Z">
+        <seg>Muitas excelentes macros são incluídas com o LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23501,6 +23541,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following links and references contain information regarding macro programming:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102917Z" creationid="user" creationdate="20160605T102917Z">
+        <seg>Os links e referências a seguir contém informações sobre a programação de macros:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following options are on the Security options and warnings dialog (&lt;t0&gt;Figure 13&lt;/t0&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160529T132323Z" creationid="user" creationdate="20160522T144830Z">
@@ -24425,6 +24473,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T233102Z" creationid="user" creationdate="20160527T233102Z">
         <seg>O texto sem formatação será formatado com a estrutura de tópico ou estilo de parágrafo na posição do cursor em uma caixa de texto Autolayout ou com o estilo gráfico padrão em uma caixa de texto normal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The upper left corner of the LibreOffice help system contains a drop-down list that determines which help set is displayed.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102740Z" creationid="user" creationdate="20160605T102740Z">
+        <seg>O canto superior esquerdo do sistema de ajuda do LibreOffice contém uma lista suspensa que determina que texto de ajuda é mostrado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27005,6 +27061,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To view the help for Basic, choose &lt;f1&gt;LibreOffice Basic&lt;/f1&gt; from this list.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102756Z" creationid="user" creationdate="20160605T102756Z">
+        <seg>Para exibir a ajuda para o Basic, escolha &lt;f1&gt;LibreOffice Basic&lt;/f1&gt; nesta lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To view the names for the included layouts, use the Tooltip feature: position the cursor on an icon in the Layout section (or on any toolbar icon) and its name will be displayed in a small rectangle.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T211721Z" creationid="user" creationdate="20160527T211721Z">
@@ -27333,10 +27397,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Help &gt; LibreOffice Help&lt;/f0&gt; to open the LibreOffice help pages.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102652Z" creationid="user" creationdate="20160605T102652Z">
+        <seg>Use &lt;f0&gt;Ajuda &gt; Ajuda do LibreOffice&lt;/f0&gt; para abrir a página de ajuda do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the LibreOffice Basic Macro dialog (&lt;t1&gt;Figure 1&lt;/t1&gt;).</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160601T011606Z" creationid="user" creationdate="20160601T011232Z">
         <seg>Utilize &lt;f0&gt;Ferramentas &gt; Macros &gt; Organizar Macros &gt; LibreOffice Basic&lt;/f0&gt; para abrir a caixa de diálogo Macros do LibreOffice (Figura &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; LibreOffice Basic&lt;/f0&gt; to open the Macro dialog.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="user" changedate="20160605T102844Z" creationid="user" creationdate="20160605T102844Z">
+        <seg>Use &lt;f0&gt;Ferramentas &gt; Macros &gt; Organizar macros &gt; LibreOffice Basic&lt;/f0&gt; para abrir a caixa de diálogo Macros do LibreOffice Basic.</seg>
       </tuv>
     </tu>
     <tu>
