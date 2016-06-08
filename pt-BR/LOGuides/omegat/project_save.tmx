@@ -1254,6 +1254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Language&lt;/f0&gt;&lt;f1&gt; – determines how the number strings are imported.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="douglas" changedate="20160608T212203Z" creationid="douglas" creationdate="20160608T212203Z">
+        <seg>&lt;f0&gt;Idioma&lt;/f0&gt;&lt;f1&gt; – determina como as sequencias de números são importados.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;List styles&lt;/f0&gt; allow you to select, format, and position numbers or bullets in lists.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160514T170142Z" creationid="ohallot" creationdate="20160514T170142Z">
@@ -13099,6 +13107,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T002337Z" creationid="ohallot" creationdate="20160516T002337Z">
         <seg>Se o botão Estilos de Caracteres estiver ativo, o estilo do caractere selecionado será adicionado à lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Language is set to Default for CSV import, Calc will use the globally set language.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="douglas" changedate="20160608T212402Z" creationid="douglas" creationdate="20160608T212402Z">
+        <seg>Se o Idioma e mantido para o Padrão para importar o CSV, o Calc usará o idioma definido will use the globally set language.</seg>
       </tuv>
     </tu>
     <tu>
