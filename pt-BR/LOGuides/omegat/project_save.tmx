@@ -3479,6 +3479,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After changes have been undone, you can redo changes.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T132858Z" creationid="Xys" creationdate="20160610T132858Z">
+        <seg>Após as alterações serem desfeitas, você pode refazê-las.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After docking, you can resize the docked dialog and reposition in a new docked position.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160609T030209Z" creationid="Xys" creationdate="20160609T022913Z">
@@ -4363,6 +4371,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T122724Z" creationid="ohallot" creationdate="20160516T122724Z">
         <seg>Como este é um recurso experimental, pode não funcionar em todos os casos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As with Undo, click on the triangle to the right of the arrow to get a list of the changes that can be reapplied.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T133002Z" creationid="Xys" creationdate="20160610T133002Z">
+        <seg>Assim como Desfazer, clicar no triângulo à direita listará as alterações que podem ser reaplicadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6979,6 +6995,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160610T021430Z" creationid="Xys" creationdate="20160610T021430Z">
         <seg>Clique no triângulo pequeno à direita do ícone &lt;f0&gt;Abrir&lt;/f0&gt; e selecione de uma lista de documentos abertos recentemente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the small triangle to the right of the &lt;f7&gt;Undo&lt;/f7&gt; icon to get a list of all the changes that can be undone.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T132836Z" creationid="Xys" creationdate="20160610T132809Z">
+        <seg>Clique no triângulo pequeno à direita do ícone &lt;f7&gt;Desfazer&lt;/f7&gt; para obter a lista de todas as alterações que podem ser desfeitas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29037,6 +29061,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To modify the number of changes LibreOffice remembers, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Memory&lt;/f0&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T133007Z" creationid="Xys" creationdate="20160610T133007Z">
+        <seg>Para modificar o número de alterações que o LibreOffice memoriza, vá em Ferramentas &gt; Opções &gt; Memória na barra de menu principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To move a floating toolbar, click on its title bar and drag it to a new floating location or dock the toolbar at the top or bottom of the main window.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160609T013004Z" creationid="Xys" creationdate="20160609T013004Z">
@@ -29273,6 +29305,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T135351Z" creationid="ohallot" creationdate="20160516T135351Z">
         <seg>Para reabilitar o modelo padrão original&lt;f0&gt;&lt;/f0&gt; do LibreOffice para um determinado &lt;f1&gt;&lt;/f1&gt;tipo de documento:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To redo a change use the keyboard shortcut &lt;f0&gt;Ctrl+Y&lt;/f0&gt;, or click the &lt;f1&gt;Redo&lt;/f1&gt; icon &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt; &lt;/df3&gt;&lt;/f2&gt;, or go to &lt;f5&gt;Edit &gt; Redo&lt;/f5&gt; on the menu bar.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T132946Z" creationid="Xys" creationdate="20160610T132946Z">
+        <seg>Para refazer uma alteração utilize o atalho do teclado &lt;f0&gt;Ctrl + Y&lt;/f0&gt;, ou clique no ícone &lt;f1&gt;Refazer&lt;/f1&gt; &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt; &lt;/df3&gt;&lt;/f2&gt;, ou vá em &lt;f5&gt;Editar &gt; Refazer&lt;/f5&gt; na barra de Menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29599,8 +29639,8 @@
       <tuv lang="EN">
         <seg>To undo the most recent &lt;i0/&gt;change in a document, use the keyboard shortcut &lt;f1&gt;Ctrl+Z,&lt;/f1&gt; or click the &lt;i2/&gt;&lt;f3&gt;Undo&lt;/f3&gt; icon &lt;df4&gt;&lt;di5/&gt; &lt;/df4&gt; on the Standard toolbar, or go to &lt;f6&gt;Edit &gt; Undo&lt;/f6&gt; on the menu bar.</seg>
       </tuv>
-      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T132621Z" creationid="Xys" creationdate="20160610T132621Z">
-        <seg>Para desfazar a alteração mais recente em um documento, utilize o atalho do teclado Ctrl + Z ou cliquem no ícone Desfazer [pic] na barra de ferramentas Padrão, ou vá em Editar &gt; Desfazer na barra de menu principal.</seg>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T132823Z" creationid="Xys" creationdate="20160610T132621Z">
+        <seg>Para desfazar a alteração &lt;i0/&gt; mais recente em um documento, utilize o atalho do teclado &lt;f1&gt;Ctrl + Z&lt;/f1&gt; ou clique no ícone &lt;i2/&gt;&lt;f3&gt;Desfazer&lt;/f3&gt; &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt; na barra de ferramentas Padrão, ou vá em &lt;f6&gt;Editar &gt; Desfazer&lt;/f6&gt; na barra de Menu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32913,6 +32953,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160528T205826Z" creationid="user" creationdate="20160528T145835Z">
         <seg>Você pode selecionar entre as opções que incluem uma planilha eletrônica do LibreOffice 5.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select multiple changes and undo them at the same time.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T132853Z" creationid="Xys" creationdate="20160610T132853Z">
+        <seg>Você pode selecionar várias alterações e desfazê-las simultaneamente.</seg>
       </tuv>
     </tu>
     <tu>
