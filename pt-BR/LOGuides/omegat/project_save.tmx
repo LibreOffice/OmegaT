@@ -3415,6 +3415,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advantage – Linking can reduce the size of the document when it is saved, because the image file itself is not included.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083024Z" creationid="tulio" creationdate="20160610T083024Z">
+        <seg>Vantagem – Vincular pode reduzir o tamanho do documento quando ele é salvo, porque o arquivo não é propriamente incluído.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advantage – You can modify the image file separately without changing the document because the link to the file remains valid, and the modified image will appear when you next open the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083033Z" creationid="tulio" creationdate="20160610T083033Z">
+        <seg>Vantagem – Você pode modificar o arquivo da imagem separadamente sem alterar o documento porque o vínculo com o arquivo permanece válido, e as modificações na imagem irão aparecer na próxima vez que você abrir o documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advantages of LibreOffice</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T072400Z" creationid="Xys" creationdate="20160603T071433Z">
@@ -8135,6 +8151,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disadvantage – If you send the document to someone else, or move it to a different computer, you must also send the image files, or the receiver will not be able to see the linked images.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083106Z" creationid="tulio" creationdate="20160610T083048Z">
+        <seg>Desvantagem – Se você enviar o documento a outra pessoa, ou movê-lo para um outro computador, você precisa enviar também os arquivos de imagem ou o destinatário não conseguirá ver as imagens vinculadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dispatch framework</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="raul.silva" changedate="20160531T181436Z" creationid="raul.silva" creationdate="20160531T181407Z">
@@ -10599,6 +10623,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File size is usually not a problem on a modern computer with a reasonable amount of memory, unless the document includes many large graphics files; LibreOffice can handle quite large files.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083027Z" creationid="tulio" creationdate="20160610T083027Z">
+        <seg>O tamanho de arquivo não é normalmente um problema em computadores modernos com uma quantidade razoável de memória, a menos que o documento inclua muitos arquivos grandes de imagens; o LibreOffice pode lidar com arquivos consideravelmente grandes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File system</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T184005Z" creationid="user" creationdate="20160522T184005Z">
@@ -11403,6 +11435,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160516T141411Z" creationid="ohallot" creationdate="20160516T141411Z">
         <seg>Por exemplo, você pode ter uma pasta de modelo para modelos de relatórios e outra para modelos de cartas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you might keep images in a subfolder named Images (under the folder containing the document); the recipient of the file needs to put the images in a subfolder with the same name and in the same place relative to the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083111Z" creationid="tulio" creationdate="20160610T083111Z">
+        <seg>Por exemplo, você pode manter as imagens numa subpasta chamada Imagens (dentro da pasta que contém o documento); o destinatário do arquivo precisa colocar as imagens em uma subpasta com o mesmo nome (dentro da pasta contendo o documento).</seg>
       </tuv>
     </tu>
     <tu>
@@ -14679,6 +14719,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you originally linked the images, you can easily embed one or more of them later if you wish.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083130Z" creationid="tulio" creationdate="20160610T083130Z">
+        <seg>Se você originalmentevinculou as imagens, você pode facilmente incorporar uma ou mais delas depois, se você quiser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you plan to share documents with people who use editors that use older versions of ODF, you may wish to save the document using ODF version 1.0/1.1.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160522T185201Z" creationid="user" creationdate="20160522T185201Z">
@@ -17459,6 +17507,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="tulio" changedate="20160603T072034Z" creationid="tulio" creationdate="20160603T072034Z">
         <seg>Vinculando um arquivo de imagem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linking an image has two advantages and one disadvantage:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083021Z" creationid="tulio" creationdate="20160610T083021Z">
+        <seg>Vincular uma imagem possui duas vantagens e uma desvantagem:</seg>
       </tuv>
     </tu>
     <tu>
@@ -25101,6 +25157,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The document and the image remain as two separate files, and they are merged together only when you open the document again.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083016Z" creationid="tulio" creationdate="20160610T083016Z">
+        <seg>O documento e a imagem permanecem como dois arquivos separados e eles são mesclados somente quando você abre o documento novamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The document is attached.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160603T052142Z" creationid="Xys" creationdate="20160603T052142Z">
@@ -26797,6 +26861,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be a big advantage if you (or someone else, perhaps a graphic artist) is updating images.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083038Z" creationid="tulio" creationdate="20160610T083038Z">
+        <seg>Esta pode ser uma grande vantagem se você (ou outra pessoa, talvez um artista gráfico) estiver atualizando as imagens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be done at any time.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T155202Z" creationid="user" creationdate="20160527T155202Z">
@@ -28169,6 +28241,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160529T202515Z" creationid="user" creationdate="20160529T202515Z">
         <seg>Para exibir o sistema completo de Ajuda, pressione &lt;f0&gt;F1&lt;/f0&gt; ou selecione &lt;f1&gt;Ajuda do LibreOffice&lt;/f1&gt; a partir do menu Ajuda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do so:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083133Z" creationid="tulio" creationdate="20160610T083133Z">
+        <seg>Para fazer isso:</seg>
       </tuv>
     </tu>
     <tu>
@@ -30613,6 +30693,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When inserting the same image several times in the document, it would appear beneficial to link rather than embed; however, this is not necessary as LibreOffice embeds only one copy of the image file in the document.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083123Z" creationid="tulio" creationdate="20160610T083123Z">
+        <seg>Ao inserir a mesma imagem várias vezes no documento, poderiaser melhor criar vínculos; entretanto isto não é necessário pois o LibreOffice incorpora ao documento apenas uma cópia do arquivo de imagem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When no document is open, click &lt;f0&gt;Open File&lt;/f0&gt; in the Start Center to reach the Open dialog.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160610T020505Z" creationid="Xys" creationdate="20160610T020505Z">
@@ -32713,6 +32801,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160604T212257Z" creationid="user" creationdate="20160604T212257Z">
         <seg>Isto deve ser feito manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need to keep track of the location of the images and make sure the recipient knows where to put them on another machine, so that the document can find them.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="tulio" changedate="20160610T083056Z" creationid="tulio" creationdate="20160610T083056Z">
+        <seg>Você precisa controlar a localização das imagens e ter certeza de que o destinatário sabe onde colocá-las na outra máquina, então o documento poderá encontrá-las.</seg>
       </tuv>
     </tu>
     <tu>
