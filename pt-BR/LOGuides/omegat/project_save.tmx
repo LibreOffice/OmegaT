@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Connect To Server&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt; &lt;/df2&gt;&lt;/f1&gt;&lt;f4&gt; &lt;s5/&gt;– a dialog opens allowing you to connect to &lt;/f4&gt;a network server if the file you want is not located on your computer.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T131637Z" creationid="Xys" creationdate="20160610T131637Z">
+        <seg>&lt;f0&gt;Conectar ao servidor&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt; &lt;/df2&gt;&lt;/f1&gt;&lt;f4&gt; &lt;s5/&gt;– um diálogo é aberto permitindo que você se conecte a um &lt;/f4&gt;servidor de rede se o arquivo que você deseja não está localizado no seu computador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel,” making them easy to use and master.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160607T105327Z" creationid="Xys" creationdate="20160607T105327Z">
@@ -1803,6 +1811,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T161539Z" creationid="user" creationdate="20160527T161539Z">
         <seg>&lt;f0&gt;Alterações não salvas&lt;/f0&gt; – um sinalizador indica que o arquivo precisa ser salvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Up One Level&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt; &lt;/df1&gt; – moves up one folder in the folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T131721Z" creationid="Xys" creationdate="20160610T131721Z">
+        <seg>&lt;f0&gt;Subir um nível&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt; &lt;/df1&gt; – vai para uma pasta um nível acima na hierarquia de arquivos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6459,6 +6475,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="user" changedate="20160527T222722Z" creationid="user" creationdate="20160527T222722Z">
         <seg>Clique e arraste para desenhar uma caixa para o texto no slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click and hold the mouse button on this icon to display a drop down a list of higher level folders.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T131734Z" creationid="Xys" creationdate="20160610T131734Z">
+        <seg>Clique e segure o botão do mouse neste ícone para exibir uma lista suspensa de pastas de níveis superiores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18663,6 +18687,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the cursor over a higher level folder and release the mouse button to navigate to that folder</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T131743Z" creationid="Xys" creationdate="20160610T131743Z">
+        <seg>Mova o cursor sobre uma pasta de nível superior e solte o botão do mouse para navegar para esta pasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move the mouse cursor over the toolbar handle, which is the small vertical bar to the left of a docked toolbar and highlighted in &lt;f0&gt;&lt;t1&gt;Figure 4&lt;/t1&gt;&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160609T012534Z" creationid="Xys" creationdate="20160609T012534Z">
@@ -26637,6 +26669,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The three icons in the top right of the LibreOffice Open and Save As dialogs are as follows:</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T131558Z" creationid="Xys" creationdate="20160610T131558Z">
+        <seg>Os três ícones na parte superior direita do LibreOffice, nos diálogos Abrir e Salvar como, são os seguintes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The toolbar can be docked in a new position at the top, sides or bottom of the main window, or left as a floating toolbar.</seg>
       </tuv>
       <tuv lang="PT-BR" changeid="Xys" changedate="20160609T012727Z" creationid="Xys" creationdate="20160609T012727Z">
@@ -29513,6 +29553,14 @@
       </tuv>
       <tuv lang="PT-BR" changeid="ohallot" changedate="20160526T021512Z" creationid="ohallot" creationdate="20160526T021512Z">
         <seg>Para usar a linguagem de marcação, digite &lt;f9&gt;5 times 4&lt;/f9&gt; no Editor de fórmulas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use the operating system dialogs for saving or opening files, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and uncheck the option &lt;f1&gt;Use LibreOffice dialog boxes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="PT-BR" changeid="Xys" changedate="20160610T131541Z" creationid="Xys" creationdate="20160610T131541Z">
+        <seg>Para utilizar os diálogos do sistema operacional para salvar ou abrir arquivos, vá em &lt;f0&gt;Ferramentas &gt; Opções &gt; LibreOffice &gt; Geral&lt;/f0&gt; e desmarque a opção &lt;f1&gt;Utilizar as caixas de diálogo do LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
