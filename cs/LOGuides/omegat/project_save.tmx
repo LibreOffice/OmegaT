@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Faq&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T193658Z" creationid="standa" creationdate="20160918T193658Z">
+        <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Faq&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;&lt;a2&gt;&lt;f3&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/f3&gt;&lt;/a2&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151014T115817Z" creationid="install" creationdate="20151014T115817Z">
@@ -1842,6 +1850,38 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20160904T193431Z" creationid="standa" creationdate="20160904T193431Z">
         <seg>&lt;a1&gt;http://ask.libreoffice.org/en/questions/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T193953Z" creationid="standa" creationdate="20160918T193953Z">
+        <seg>&lt;a1&gt;http://wiki.documentfoundation.org/Local_Mailing_Lists&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;http://www.libreoffice.org/community/nlc/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T193937Z" creationid="standa" creationdate="20160918T193937Z">
+        <seg>&lt;a1&gt;http://www.libreoffice.org/community/nlc/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;http://www.libreoffice.org/get-help/mailing-lists/&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T193705Z" creationid="standa" creationdate="20160918T193705Z">
+        <seg>&lt;a1&gt;http://www.libreoffice.org/get-help/mailing-lists/&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194028Z" creationid="standa" creationdate="20160918T194028Z">
+        <seg>&lt;a1&gt;https://wiki.documentfoundation.org/Website/Web_Sites_services&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8694,6 +8734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also, some of the dialogs may be different because of the settings selected in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194529Z" creationid="standa" creationdate="20160918T194529Z">
+        <seg>Některá dialogová okna se mohou lišit i kvůli různým nastavením samotného LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also, sorting is useful when you add new information to your spreadsheet.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150707T130136Z" creationid="install" creationdate="20150707T130136Z">
@@ -9490,6 +9538,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150817T120008Z" creationid="install" creationdate="20150817T120008Z">
         <seg>Další možnost pro vkládání řeckých znaků poskytuje Sada symbolů v okně Symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Answers to frequently asked questions&lt;f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T193645Z" creationid="standa" creationdate="20160918T193645Z">
+        <seg>Odpovědi na často kladené otázky &lt;f0&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -26174,6 +26230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For information about certified professional support, see The Document Foundation’s website: &lt;a0&gt;http://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194441Z" creationid="standa" creationdate="20160918T194441Z">
+        <seg>Informace o certifikované profesionální podpoře se nachází na webových stránkách The Document Foundation: &lt;a0&gt;http://www.documentfoundation.org/gethelp/support/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For information on settings not discussed here, see the Help.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T171745Z" creationid="standa" creationdate="20140504T171745Z">
@@ -35350,10 +35414,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information about available accessibility options &lt;a0&gt;http://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194052Z" creationid="standa" creationdate="20160918T194052Z">
+        <seg>Informace o dostupných možnostech pro zlepšení přístupnosti &lt;a0&gt;http://www.libreoffice.org/get-help/accessibility/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information about available accessibility options.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151014T075817Z" creationid="install" creationdate="20151014T075817Z">
         <seg>Informace o dostupných možnostech pro zlepšení přístupnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Information about social networking&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194024Z" creationid="standa" creationdate="20160918T194024Z">
+        <seg>Informace o sociálních sítích&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -38214,6 +38294,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing lists for native languages&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T193952Z" creationid="standa" creationdate="20160918T193952Z">
+        <seg>E-mailové konference pro různé jazyky&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main Impress window</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T180532Z" creationid="standa" creationdate="20150628T180532Z">
@@ -40362,6 +40450,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150727T124944Z" creationid="install" creationdate="20150727T124944Z">
         <seg>Zadáme název sestavy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Native language support</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T193920Z" creationid="standa" creationdate="20160918T193920Z">
+        <seg>Podpora v různých jazycích</seg>
       </tuv>
     </tu>
     <tu>
@@ -53762,6 +53858,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140418T190008Z" creationid="standa" creationdate="20140418T190008Z">
         <seg>Uživatelské rozhraní balíku LibreOffice je dostupné ve více než 40 jazycích, přičemž kontrola pravopisu, dělení slov a slovník synonym jsou dostupné pro více než 70 jazyků a dialektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LibreOffice website in various languages&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T193934Z" creationid="standa" creationdate="20160918T193934Z">
+        <seg>Webové stránky LibreOffice v různých jazycích&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70516,6 +70620,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140216T181006Z" creationid="standa" creationdate="20140216T181006Z">
         <seg>Nástrojovou lištu Formátování textu můžeme také otevřít volbou &lt;f3&gt;Zobrazit &gt; Nástrojové lišty &gt; Formátování textu&lt;/f3&gt; v hlavní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194356Z" creationid="standa" creationdate="20160918T194356Z">
+        <seg>Je možné také zakoupit podporu ve formě smlouvy o poskytování služeb, a to od prodejce nebo poradenské firmy specializované na LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
