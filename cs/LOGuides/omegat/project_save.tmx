@@ -2870,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (&lt;f1&gt;Control&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195536Z" creationid="standa" creationdate="20160918T195536Z">
+        <seg>&lt;f0&gt;Ctrl&lt;/f0&gt; (&lt;f1&gt;Control&lt;/f1&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cursor position&lt;/f0&gt; – the position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T170057Z" creationid="standa" creationdate="20150701T170057Z">
@@ -16766,6 +16774,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Control+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195528Z" creationid="standa" creationdate="20160918T195528Z">
+        <seg>Control+klepnutí a/nebo klepnutí pravým tlačítkem v závislosti na operačním systému počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Controlling &lt;i0/&gt;LibreOffice’s AutoCorrect functions</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T201836Z" creationid="standa" creationdate="20141022T201836Z">
@@ -20210,6 +20226,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T184932Z" creationid="install" creationdate="20150619T070121Z">
         <seg>Pokaždé, když klepneme na tlačítko &lt;f0&gt;Uložit&lt;/f0&gt;, se otevře dialogové okno &lt;f1&gt;Potvrdit formát souboru&lt;/f1&gt;, (&lt;f2&gt;&lt;t3&gt;obrázek 8&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each user can select &lt;bk0/&gt;a preferred set.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195007Z" creationid="standa" creationdate="20160918T195007Z">
+        <seg>Uživatel si může vybrat svoji &lt;bk0/&gt;oblíbenou sadu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34450,6 +34474,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T174205Z" creationid="standa" creationdate="20140313T174205Z">
         <seg>V seznamu &lt;f1&gt;Zdrojový soubor&lt;/f1&gt; vybereme soubory, které chceme změnit z odkazovaných na vložené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the &lt;f1&gt;User Interface &lt;/f1&gt;section, choose from the drop-down lists under &lt;f2&gt;Icon size and style.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195430Z" creationid="standa" creationdate="20160918T195430Z">
+        <seg>V části &lt;f1&gt;Uživatelské rozhraní&lt;/f1&gt; zvolíme sadu z rozbalovacího seznamu &lt;f2&gt;Velikost a styl ikon&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53830,6 +53862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The LibreOffice community has created icons for several icon sets: Breeze, Galaxy, High Contrast, Oxygen, Sifr, and Tango.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194928Z" creationid="standa" creationdate="20160918T194928Z">
+        <seg>Komunita LibreOffice vytvořila několik sad ikon: Breeze, Galaxy, Vysoký kontrast, Oxygen, Sifr a Tango.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The LibreOffice community invites contributors in all areas, including translators, software developers, graphic artists, technical writers, editors, donors and end-user support.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151012T132507Z" creationid="install" creationdate="20151012T132507Z">
@@ -55174,6 +55214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The differences affect mainly Open, Save, and Print dialogs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194643Z" creationid="standa" creationdate="20160918T194643Z">
+        <seg>Tyto rozdíly se týkají především dialogových oken Otevřít, Uložit a Tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The different components of LibreOffice have different available print settings, as summarized in Table &lt;t0&gt;1&lt;/t0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20150923T051304Z" creationid="GRB" creationdate="20150923T051304Z">
@@ -55982,10 +56030,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195114Z" creationid="standa" creationdate="20160918T195114Z">
+        <seg>Ikony, které opravdu uvidíme ve své verzi LibreOffice, se mohou lišit od těch, které jsou zobrazeny v této příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The icons in this guide have been taken from a LibreOffice installation that has been set to display the Galaxy set of icons.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151014T090801Z" creationid="install" creationdate="20151014T090801Z">
         <seg>Snímky obrazovky byly dělány v standardní instalaci LibreOffice, v níž byla zvolena sada ikon Galaxy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The icons in this guide have been taken from a variety of LibreOffice installations that use different sets of icons.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195214Z" creationid="standa" creationdate="20160918T195016Z">
+        <seg>Snímky obrazovky byly pro tuto příručky vytvářeny v různých instalacích LibreOffice, které používaly různé sady ikon.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57738,6 +57802,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T180620Z" creationid="install" creationdate="20150624T115343Z">
         <seg>Karta vybraného listu zbělá (ve výchozím nastavení Calcu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The table below gives some common substitutions for the instructions in this book.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195450Z" creationid="standa" creationdate="20160918T195450Z">
+        <seg>V následující tabulce jsou uvedeny nejdůležitější rozdíly, které se týkají informací v této knize.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61926,6 +61998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the icon set used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195254Z" creationid="standa" creationdate="20160918T195254Z">
+        <seg>Chceme-li změnit použitou sadu ikon, přejdeme na &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Zobrazení&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the measurement units of the rulers, which can be defined independently, right-click on a ruler and select the measurement units from the drop down list, as illustrated for the horizontal ruler in &lt;f0&gt;&lt;t1&gt;Figure 3&lt;/t1&gt;&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140414T165642Z" creationid="standa" creationdate="20140414T165642Z">
@@ -62058,6 +62138,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151014T083451Z" creationid="install" creationdate="20151014T083451Z">
         <seg>Pokud chceme systémová dialogová okna zaměnit za okna LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change which dialogs are used, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; and select or deselect the option &lt;f1&gt;Use LibreOffice dialogs&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194817Z" creationid="standa" creationdate="20160918T194817Z">
+        <seg>Chceme-li změnit, která dialogová okna se používají, zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Obecné&lt;/f0&gt; a zaškrtneme či zrušíme zaškrtnutí možnosti &lt;f1&gt;Použít dialogy LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71568,6 +71656,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can either use dialogs from your computer’s operating system or from LibreOffice.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T194615Z" creationid="standa" creationdate="20160918T194615Z">
+        <seg>Uživatel si totiž může zvolit, zda chce používat dialogová okna operačního systému nebo okna LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can enable the wizard again later in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General &gt; New document&lt;/f1&gt; and select the &lt;f2&gt;Start with wizard&lt;/f2&gt; option.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150628T180528Z" creationid="standa" creationdate="20150628T180528Z">
@@ -77736,10 +77832,26 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>⌘ (&lt;f0&gt;Command&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195538Z" creationid="standa" creationdate="20160918T195538Z">
+        <seg>⌘ (&lt;f0&gt;Command&lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>⌘ (Command)</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150110T170330Z" creationid="standa" creationdate="20150110T170330Z">
         <seg>⌘ (Command)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="standa" changedate="20160918T195540Z" creationid="standa" creationdate="20160918T195540Z">
+        <seg>⌘+&lt;f0&gt;T&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
