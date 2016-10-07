@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.0.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8138,6 +8138,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although LibreOffice is a big project, it's friendly and open to everyone.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062048Z" creationid="milos" creationdate="20161007T062048Z">
+        <seg>LibreOffice je rozsiahly projekt, napriek tomu je však priateľský a otvorený pre každého.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although LibreOffice will work without Java support, some features will not be available.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131015T075752Z" creationid="milos" creationdate="20131015T075752Z">
@@ -8542,6 +8550,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20160529T063749Z" creationid="milos" creationdate="20131018T072047Z">
         <seg>mnoho ďalších funkcií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And we work with students from the Google Summer of Code to introduce them to the project.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T063029Z" creationid="milos" creationdate="20161007T063029Z">
+        <seg>Spolupracujeme so študentami v rámci Google Summer of Code, aby sa čo najskôr začlenili do projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10075,6 +10091,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Being just a user of LibreOffice, I thought: why not also be part of the community, and to contribute there?</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064309Z" creationid="milos" creationdate="20161007T064250Z">
+        <seg>Už dávnejšie som LibreOffice používala, ale chcela som sa stať aj členkou komunity a spraviť viac.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below is a short list of common equations and their corresponding markup.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140211T083434Z" creationid="milos" creationdate="20140211T083434Z">
@@ -10303,6 +10327,22 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131115T172657Z" creationid="milos" creationdate="20131115T172657Z">
         <seg>Pokiaľ vo svojom texte nájdeme nevysvetliteľné chyby, tak nastavenia automatickej opravy sú tým správnym miestom, kde hľadať príčinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But it's also developed by a worldwide community, with hundreds of people working on source code, user interface design, documentation and translations.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T061749Z" creationid="milos" creationdate="20161007T061749Z">
+        <seg>Je vytváraný celosvetovou komunitou so stovkami členov, ktorí pracujú so zdrojovým kódom, zlepšujú grafické rozhranie, píšu dokumentáciu a prekladajú do mnohých jazykov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But many others work in their spare time, providing contributions because they love free and open source software.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062002Z" creationid="milos" creationdate="20161007T062002Z">
+        <seg>Iní však pracujú vo svojom voľnom čase a prispievajú preto, lebo práca na vývoji slobodného a otvoreného softéru ich teší.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19437,6 +19477,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Every year, LibreOffice developers and supporters get together for a conference, where they share ideas, demonstrate new features, and talk about the future of the software.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064935Z" creationid="milos" creationdate="20161007T063945Z">
+        <seg>Každý rok sa vývojári a podporovatelia stretávajú na konferencii, kde si zdieľajú svoje skúsenosti, predvádzajú nové vlastnosti a diskutujú o budúcnosti LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Everything you do with a database begins with the main database window (&lt;f0&gt;&lt;t1&gt;Figure 3&lt;/t1&gt;&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140426T123134Z" creationid="milos" creationdate="20140426T123134Z">
@@ -26629,6 +26677,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to tdf.io/joinus and choose which team or project you want to help.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064628Z" creationid="milos" creationdate="20161007T064628Z">
+        <seg>Choď na stránku tdf.io/joinus a vyber si projekt, kde by si chcel pomôcť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to the All Templates section of the Template Manager dialog.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140401T075003Z" creationid="milos" creationdate="20140401T075003Z">
@@ -28023,10 +28079,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I got assistance immediately.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062403Z" creationid="milos" creationdate="20161007T062403Z">
+        <seg>Ihneď sa mi začali venovať.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I strongly advise that you look at the data entry choices available, thinking about how each of these choices might meet your future needs.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140626T144414Z" creationid="milos" creationdate="20140626T144414Z">
         <seg>Odporúča sa dôkladne si preštudovať a premyslieť možnosti, ktoré táto strana poskytuje na vkladanie údajov, a to najmä z uhla pohľadu budúcich potrieb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I wanted to go for the next one, which I did.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062801Z" creationid="milos" creationdate="20161007T062801Z">
+        <seg>Chcel som prispievať ďalej a aj v tom pokračujem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I would say that the community is very welcoming, very helpful.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062346Z" creationid="milos" creationdate="20161007T062346Z">
+        <seg>Povedal by som, že komunita je veľmi ústretová a nápomocná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I'm Jona, I'm from Albania.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064059Z" creationid="milos" creationdate="20161007T064059Z">
+        <seg>Volám sa Jona a som z Albánska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I'm a Google Summer of Code student from India, and I've been involved since the start of this year.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T063149Z" creationid="milos" creationdate="20161007T063149Z">
+        <seg>Som z Indie a v rámci Google Summer of Code spolupracujem od začiatku tohto roku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I'm a student at the university of Tirana there - I study business informatics.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T065031Z" creationid="milos" creationdate="20161007T064140Z">
+        <seg>Som študentkou univerzity v Tirane, kde študujem obchodnú informatiku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30655,6 +30759,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131101T095248Z" creationid="milos" creationdate="20131101T095248Z">
         <seg>Teraz môžeme ísť do okna Štýly a formátovanie, kde môžeme požadované štýly upraviť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're a user of LibreOffice but want to get involved in the project, you're welcome to join!</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064940Z" creationid="milos" creationdate="20161007T064037Z">
+        <seg>Ak LibreOffice používaš a chcel by si aj prispievať, si vítaný!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33781,6 +33893,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It employs a small team that works on infrastructure, documentation, QA and marketing, and is built upon statutes which govern the project, guaranteeing that LibreOffice will always belong to the community.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T063755Z" creationid="milos" creationdate="20161007T063755Z">
+        <seg>Zamestnáva malý tím ľudí, ktorí pracujú na infraštruktúre, dokumentácii, kontrole kvality a marketingu. Vychádzajú pritom zo štatútu projektu, ktorý zabezpečuje, že LibreOffice bude vždy patriť komunite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It has a pair of arrows at the bottom right.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140523T141222Z" creationid="etki" creationdate="20140306T191731Z">
@@ -34253,10 +34373,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It was an awesome experience, because there are so many great guys who mentor us into the organisation, and help us with bugs and Easy Hacks.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T063345Z" creationid="milos" creationdate="20161007T063345Z">
+        <seg>Bola to vynikajúca skúsenosť, lebo mnohí členovia komunity nám pomáhali so začlenením do projektu a pomohlo nám s chubami a Easy Hacks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was developed specially for writing mathematical/technical texts.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140317T163249Z" creationid="milos" creationdate="20140302T163544Z">
         <seg>Bolo vyvinuté špeciálne na písanie matematických a technických textov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It's all designed to bring new people into the organisation, and that's what's great.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064858Z" creationid="milos" creationdate="20161007T063457Z">
+        <seg>Je veľmi dobré, že na hľadanie a začleňovanie nových ľudí sa kladie veľký dôraz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35199,6 +35335,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice is backed by The Document Foundation, a non-profit entity</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064905Z" creationid="milos" creationdate="20161007T063522Z">
+        <seg>V pozadí LibreOffice stojí nadácia The Document Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice is developed and maintained by volunteers and has the backing of several organizations.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131104T101607Z" creationid="milos" creationdate="20131104T101607Z">
@@ -35235,6 +35379,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20150520T152533Z" creationid="milos" creationdate="20150520T144643Z">
         <seg>LibreOffice je najlepší voľne dostupný kancelársky balík pre desktopové počítače a notebooky. Teraz je dostupný aj ako natívna aplikácia pre Android, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is used by millions of people around the world.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T061510Z" creationid="milos" creationdate="20161007T061510Z">
+        <seg>LibreOffice používajú milióny ľudí po celom svete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35484,6 +35636,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20160912T183050Z" creationid="milos" creationdate="20160912T183050Z">
         <seg>Riadok 5 prekvapivo opäť na Linuxe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line 6 for translation</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T061437Z" creationid="milos" creationdate="20161007T061437Z">
+        <seg>Line 6 for translation</seg>
       </tuv>
     </tu>
     <tu>
@@ -36292,6 +36452,14 @@
       </tuv>
       <tuv lang="SK" changeid="etki" changedate="20140607T201458Z" creationid="etki" creationdate="20140607T201458Z">
         <seg>Výrobca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many LibreOffice developers work full-time on the software.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T061838Z" creationid="milos" creationdate="20161007T061838Z">
+        <seg>Mnohí pracujú na vývoji LibreOffice na plný úväzok.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38232,6 +38400,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140325T185542Z" creationid="milos" creationdate="20140325T185542Z">
         <seg>Znak násobenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>My name is Ashod Nakashian, and I'm a contributor to LibreOffice.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062317Z" creationid="milos" creationdate="20161007T062317Z">
+        <seg>Volám sa is Ashod Nakashian a som prispievateľom do LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48724,10 +48900,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>So get involved!</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064545Z" creationid="milos" creationdate="20161007T064545Z">
+        <seg>Pridaj sa ja ty!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>So less storage is needed when using VARCHAR instead of CHAR.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140922T151140Z" creationid="etki" creationdate="20140508T111854Z">
         <seg>To znamená, že na uloženie typu VARCHAR bude potrebné menej miesta ako pri type CHAR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So that's why I'm also contributing to LibreOffice, and I'm really glad that I had the opportunity to be here at the conference, so I can know more people that are part of it, and that can help me to get more involved with the community.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064534Z" creationid="milos" creationdate="20161007T064258Z">
+        <seg>Preto prispievam do LibreOffice a som rada, že mám možnosť byť tu na konferencii v Brne, že za môžem zoznámiť s ďalšími ľuďmi, ktorí mi môžu pomôcť s hlbším zapojením do komunity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>So the experience was very empowering.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062729Z" creationid="milos" creationdate="20161007T062729Z">
+        <seg>Moja prvá skúsenosť bola veľmi dobrá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56641,6 +56841,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They set me up and helped me get the patch reviewed and committed as soon as possible.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062658Z" creationid="milos" creationdate="20161007T062658Z">
+        <seg>Pomohli mi s nastavením mojho vývojového prostredia a s prípravou môjho prvého príspevku do kódu. Ten bol rýchlo zaradený do hlavnej vývojovej vetvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Think about the order that you want to use when entering the data into your table.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140924T144756Z" creationid="etki" creationdate="20140305T195224Z">
@@ -60147,6 +60355,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131125T171557Z" creationid="milos" creationdate="20131125T171557Z">
         <seg>Ak chceme získať rozšírenia z úložiska rozšírení, môžeme otvoriť Správcu rozšírení a v ňom kliknúť na odkaz &lt;f0&gt;Získať viac rozšírení online&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get new contributors familiar with LibreOffice, we have specialised tasks called Easy Hacks.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062936Z" creationid="milos" creationdate="20161007T062936Z">
+        <seg>Na to, aby sa prispievatelia s vývojom LibreOffice zoznámili, máme zoznam špeciálnych úloh - Easy Hacks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64635,6 +64851,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We have many channels of communication, including mailing lists, IRC channels, and regular team calls, and we try to make every new contributor feel welcome.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T062246Z" creationid="milos" creationdate="20161007T062246Z">
+        <seg>Máme mnoho možností na komunikáciu, vrátane mailových diskusií, IRC kanálov a pravidelných online stretnutí. Snažíme sa, aby mal každý nový prispievateľ pocit, že je vítaný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We know the name of the Greek character (pi).</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140214T170609Z" creationid="milos" creationdate="20140214T143547Z">
@@ -64647,6 +64871,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140923T143531Z" creationid="milos" creationdate="20140630T115558Z">
         <seg>Môžeme napríklad zistiť zostatkovú cenu jednotlivých kusov vybavenia obývačky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We really appreciate your contributions, and above all, we hope you have fun!</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20161007T064846Z" creationid="milos" creationdate="20161007T064846Z">
+        <seg>Tvoju pomoc oceníme a veríme, že aj pre teba bude príjemnou a užitočnou skúsenosťou!</seg>
       </tuv>
     </tu>
     <tu>
