@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="EN"/>
+  <header creationtool="O aplikaci OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12482,6 +12482,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141226T185235Z" creationid="standa" creationdate="20141226T185235Z">
         <seg>Kapitola 3 Používání stylů a šablon obsahuje informace o tom, jak lze dokument vytvořit ze šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenoch" changedate="20161105T210717Z" creationid="lenoch" creationdate="20161105T210717Z">
+        <seg>Kapitola 5 &lt;s0/&gt;&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59938,6 +59946,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140401T191827Z" creationid="standa" creationdate="20140401T191827Z">
         <seg>Tento dokument je duševním vlastnictvím skupiny LibreOffice Documentation Team Copyright © 2010–2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This document is Copyright © 2010–2016 by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="lenoch" changedate="20161105T210757Z" creationid="lenoch" creationdate="20161105T210757Z">
+        <seg>Tento dokument je duševním vlastnictvím skupiny LibreOffice Documentation Team Copyright © 2010–2016.</seg>
       </tuv>
     </tu>
     <tu>
