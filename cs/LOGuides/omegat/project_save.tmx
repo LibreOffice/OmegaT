@@ -3142,6 +3142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Edit&lt;/f0&gt; – contains commands for editing the document; for example, &lt;f1&gt;Undo&lt;/f1&gt;, &lt;f2&gt;Copy&lt;/f2&gt;, &lt;f3&gt;Changes&lt;/f3&gt;, &lt;f4&gt;Fill&lt;/f4&gt;, &lt;f5&gt;Plug-in&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161107T133326Z" creationid="install" creationdate="20161107T133326Z">
+        <seg>&lt;f0&gt;Úpravy&lt;/f0&gt; – obsahuje příkazy pro úpravy dokumentu, například &lt;f1&gt;Zpět&lt;/f1&gt;, &lt;f2&gt;Kopírovat&lt;/f2&gt;, &lt;f3&gt;Změny&lt;/f3&gt;, &lt;f4&gt;Vyplnit&lt;/f4&gt;, &lt;f5&gt;Zásuvný modul&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Edit&lt;/f0&gt;, &lt;f1&gt;Move&lt;/f1&gt;, &lt;f2&gt;Insert&lt;/f2&gt;, &lt;f3&gt;Delete&lt;/f3&gt; &lt;f4&gt;Points&lt;/f4&gt;: advanced editing tools to manipulate the shape of a polygon hotspot.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140315T134306Z" creationid="standa" creationdate="20140315T134306Z">
@@ -3394,6 +3402,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T184740Z" creationid="standa" creationdate="20150502T184740Z">
         <seg>&lt;f0&gt;Soubor&lt;/f0&gt; – obsahuje příkazy, které se vztahují k celému dokumentu, například &lt;f1&gt;Otevřít&lt;/f1&gt;, &lt;f2&gt;Uložit&lt;/f2&gt;, &lt;f3&gt;Průvodci&lt;/f3&gt;, &lt;f4&gt;Exportovat do PDF&lt;/f4&gt;, &lt;f5&gt;Tisk&lt;/f5&gt;, &lt;f6&gt;Elektronické podpisy&lt;/f6&gt; a další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;File&lt;/f0&gt; – contains commands that apply to the entire document; for example, &lt;f1&gt;Open&lt;/f1&gt;, &lt;f2&gt;Save&lt;/f2&gt;, &lt;f3&gt;Wizards&lt;/f3&gt;, &lt;f4&gt;Export as PDF&lt;/f4&gt;, &lt;f5&gt;Print&lt;/f5&gt;, &lt;f6&gt;Digital Signatures&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161107T133248Z" creationid="install" creationdate="20161107T133248Z">
+        <seg>&lt;f0&gt;Soubor&lt;/f0&gt; – obsahuje příkazy, které se vztahují k celému dokumentu, například &lt;f1&gt;Otevřít&lt;/f1&gt;, &lt;f2&gt;Uložit&lt;/f2&gt;, &lt;f3&gt;Průvodci&lt;/f3&gt;, &lt;f4&gt;Exportovat do PDF&lt;/f4&gt;, &lt;f5&gt;Tisk&lt;/f5&gt;, &lt;f6&gt;Elektronické podpisy&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5378,6 +5394,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T185128Z" creationid="standa" creationdate="20150502T185128Z">
         <seg>&lt;f0&gt;Zobrazit&lt;/f0&gt; – obsahuje příkazy pro změnu uživatelského rozhraní Calcu, například &lt;f1&gt;Nástrojové lišty&lt;/f1&gt;, &lt;f2&gt;Záhlaví sloupců a řádků&lt;/f2&gt;, &lt;f3&gt;Celá obrazovka&lt;/f3&gt;, &lt;f4&gt;Přiblížení&lt;/f4&gt; a další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;View&lt;/f0&gt; – contains commands for modifying how the Calc user interface looks; for example, &lt;f1&gt;Toolbars&lt;/f1&gt;, &lt;f2&gt;Column &amp; Row Headers&lt;/f2&gt;, &lt;f3&gt;Full Screen&lt;/f3&gt;, &lt;f4&gt;Zoom&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161107T133409Z" creationid="install" creationdate="20161107T133409Z">
+        <seg>&lt;f0&gt;Zobrazit&lt;/f0&gt; – obsahuje příkazy pro změnu uživatelského rozhraní Calcu, například &lt;f1&gt;Nástrojové lišty&lt;/f1&gt;, &lt;f2&gt;Záhlaví sloupců a řádků&lt;/f2&gt;, &lt;f3&gt;Celá obrazovka&lt;/f3&gt;, &lt;f4&gt;Přiblížení&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69426,6 +69450,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T161958Z" creationid="install" creationdate="20150701T090637Z">
         <seg>Pokud zvolíme &lt;f0&gt;Úpravy &gt; Vyplnit &gt; Posloupnost&lt;/f0&gt;, otevře se dialogové okno &lt;f1&gt;Vyplnit posloupnost&lt;/f1&gt; (obrázek &lt;t2&gt;26&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you select an item on the &lt;i0/&gt;Menu bar, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161107T132925Z" creationid="install" creationdate="20161107T132925Z">
+        <seg>Pokud vybereme položku v  &lt;i0/&gt;liště nabídky, směrem dolů se zobrazí nabídka s příkazy.</seg>
       </tuv>
     </tu>
     <tu>
