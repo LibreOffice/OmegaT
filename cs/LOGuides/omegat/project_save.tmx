@@ -5056,8 +5056,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20161108T122349Z" creationid="install" creationdate="20161108T122349Z">
-        <seg>Součet&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – po klepnutí na ikonu Součet sečte čísla v buňkách nad vybranou buňkou a umístí výsledný součet do vybrané buňky.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161108T124736Z" creationid="install" creationdate="20161108T122349Z">
+        <seg>&lt;f0&gt;Součet&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – po klepnutí na ikonu Součet sečte čísla v buňkách nad vybranou buňkou a umístí výsledný součet do vybrané buňky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10386,6 +10386,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T165914Z" creationid="standa" creationdate="20140313T165914Z">
         <seg>V dolní části dialogového okna (&lt;t0&gt;obrázek 1&lt;/t0&gt;) jsou dvě možnosti, &lt;f1&gt;Náhled&lt;/f1&gt; a &lt;f2&gt;Odkaz&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the bottom of the grid of cells in a spreadsheet &lt;i0/&gt;are sheet tabs indicating how many sheets there are in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T125831Z" creationid="install" creationdate="20161108T125831Z">
+        <seg>V dolní části mřížky buněk sešitu &lt;i0/&gt;jsou karty listů, značící, kolik listů v sešitu je.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20170,6 +20178,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T171422Z" creationid="standa" creationdate="20150701T171422Z">
         <seg>Pro každé zobrazení pracovní plochy se zobrazuje jiná sada nástrojových lišt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each cell is formed by the intersection of one column and one row in the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T125023Z" creationid="install" creationdate="20161108T125023Z">
+        <seg>Každá buňka je tvořena průsečíkem sloupce a řádku v sešitu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31214,6 +31230,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the headers are not visible on the spreadsheet, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Column &amp; Row Headers&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T125224Z" creationid="install" creationdate="20161108T125224Z">
+        <seg>V případě, že v sešitu nejsou záhlaví viditelná, přejdeme na &lt;f2&gt;Zobrazit&lt;/f2&gt; v hlavní nabídce a vybereme &lt;f2&gt;Záhlaví sloupců a řádků&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the headers are not visible on your spreadsheet, go to &lt;f2&gt;View&lt;/f2&gt; on the Menu bar and select &lt;f3&gt;Column &amp; Row Headers&lt;/f3&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T193852Z" creationid="lenochod26" creationdate="20150616T220149Z">
@@ -33718,6 +33742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In Calc, you can have more than one sheet in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T125738Z" creationid="install" creationdate="20161108T125738Z">
+        <seg>V sešitu programu Calc lze mít více než jeden list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In Draw you can arrange, align and distribute selected objects in relation to each other:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140220T074434Z" creationid="standa" creationdate="20140220T073711Z">
@@ -34042,6 +34074,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T193411Z" creationid="lenochod26" creationdate="20150616T212922Z">
         <seg>V sešitech pojem funkce zahrnuje mnohem víc než jen matematické funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In a spreadsheet the term “function” covers much more than just mathematical functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T123641Z" creationid="install" creationdate="20161108T123641Z">
+        <seg>V sešitech pojem “funkce” zahrnuje mnohem víc než jen matematické funkce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39838,6 +39878,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the fields are similar to those in other components of LibreOffice; see &lt;f2&gt;Chapter 1 Introducing LibreOffice&lt;/f2&gt; in this guide and the &lt;f3&gt;Calc Guide Chapter 1 Introducing Calc&lt;/f3&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T131313Z" creationid="install" creationdate="20161108T131117Z">
+        <seg>Většina z polí je podobná jako v ostatních součástech LibreOffice; v této příručce se více informací nachází v &lt;f2&gt;kapitole 1 Úvod do LibreOffice&lt;/f2&gt; a &lt;f3&gt;v kapitole 1 Introducing Calc příručky Calc Guide&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the fields are similar to those in other components of LibreOffice; see &lt;f3&gt;Chapter 1 Introducing LibreOffice&lt;/f3&gt; in this guide and the &lt;f4&gt;Calc Guide Chapter 1 Introducing Calc&lt;/f4&gt; for more information.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T195231Z" creationid="install" creationdate="20150617T081902Z">
@@ -41498,6 +41546,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141015T192941Z" creationid="standa" creationdate="20141015T192941Z">
         <seg>verze formátu ODF, ukládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OLE-object</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T131337Z" creationid="install" creationdate="20161108T131337Z">
+        <seg>Objekt OLE</seg>
       </tuv>
     </tu>
     <tu>
@@ -47590,6 +47646,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T123758Z" creationid="install" creationdate="20161108T123758Z">
+        <seg>Více informací se nachází v &lt;f0&gt;kapitole 7 Using Formulas and Functions příručky Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the &lt;f0&gt;Calc Guide Chapter 7 Using Formulas and Functions&lt;/f0&gt; in for more information.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T193448Z" creationid="lenochod26" creationdate="20150616T213305Z">
@@ -48458,6 +48522,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150627T184755Z" creationid="install" creationdate="20150624T130528Z">
         <seg>Vybereme buňku, sloupec nebo řádek podle toho, kam chceme nový sloupec nebo řádek vložit,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a color and click &lt;f3&gt;OK&lt;/f3&gt; when finished to close the dialog.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T130127Z" creationid="install" creationdate="20161108T130127Z">
+        <seg>Vybereme požadovanou barvu a klepnutím na &lt;f3&gt;OK&lt;/f3&gt; dialogové okno zavřeme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53658,6 +53730,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T195116Z" creationid="install" creationdate="20150617T080639Z">
         <seg>&lt;i0/&gt;Stavový řádek programu Calc (&lt;f1&gt;&lt;t2&gt;Obrázek 4&lt;/t2&gt;&lt;/f1&gt;) poskytuje informace o sešitu a také rychlé a pohodlné způsoby jak změnit některé z jeho vlastností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;i0/&gt;Calc status bar (Figure &lt;t1&gt;4&lt;/t1&gt;) provides information about the spreadsheet as well as quick and convenient ways to change some of its features.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T131050Z" creationid="install" creationdate="20161108T131050Z">
+        <seg>&lt;i0/&gt;Stavový řádek programu Calc (Obrázek &lt;t1&gt;4&lt;/t1&gt;) poskytuje informace o sešitu a také rychlé a pohodlné způsoby jak změnit některé z jeho vlastností.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59174,6 +59254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These column and row headers form the cell references that appear in the Name Box on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T125133Z" creationid="install" creationdate="20161108T125133Z">
+        <seg>Tato záhlaví sloupců a řádků tvoří odkazy na buňky, které se zobrazí v Poli názvu na Liště vzorců (Obrázek &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These databases and how to connect to them using Base are discussed in Chapters 2 and 8 of the &lt;f0&gt;Base Guide&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150713T054223Z" creationid="install" creationdate="20150713T054223Z">
@@ -61918,6 +62006,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To add new colors to this color palette, see &lt;f4&gt;Chapter 14 Customizing LibreOffice&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T130735Z" creationid="install" creationdate="20161108T130204Z">
+        <seg>Více informací o přidávání nových barev do palety se nachází v &lt;f4&gt;kapitole 14 Přizpůsobení LibreOffice&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To add new colors to this color palette, see &lt;f5&gt;Chapter 14 Customizing LibreOffice&lt;/f5&gt; for more information.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T194857Z" creationid="install" creationdate="20150617T080023Z">
@@ -62306,6 +62402,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T194725Z" creationid="install" creationdate="20150617T074857Z">
         <seg>Chceme-li změnit barvu karty listu, klepneme pravým tlačítkem myši na kartu, vybereme z místní nabídky &lt;f0&gt;Barva karty&lt;/f0&gt;. Otevře se dialogové okno &lt;f1&gt;Barva karty&lt;/f1&gt; (&lt;f2&gt;&lt;t3&gt;Obrázek 3&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To change the color of a sheet tab, right-click on the tab and select &lt;f0&gt;Tab Color&lt;/f0&gt; from the context menu to open the &lt;f1&gt;Tab Color&lt;/f1&gt; dialog (Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T130052Z" creationid="install" creationdate="20161108T130052Z">
+        <seg>Chceme-li změnit barvu karty listu, klepneme pravým tlačítkem myši na kartu, vybereme z místní nabídky &lt;f0&gt;Barva karty&lt;/f0&gt;. Otevře se dialogové okno &lt;f1&gt;Barva karty&lt;/f1&gt; (Obrázek &lt;t2&gt;3&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -64896,8 +65000,8 @@
       <tuv lang="EN">
         <seg>To turn the Input line into a multiline input area for very long formulas, click the dropdown button on the right.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20161108T122953Z" creationid="install" creationdate="20161108T122953Z">
-        <seg>Chcete-li Vstupní řádek změnit na víceřádkový pro velmi dlouhé vzorce, klepněte na rozbalovací tlačítko po pravé straně.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161108T124746Z" creationid="install" creationdate="20161108T122953Z">
+        <seg>Chcete-li Vstupní řádek změnit na víceřádkový pro velmi dlouhé vzorce, klepněte na rozšiřující tlačítko po pravé straně.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71042,7 +71146,7 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       <tuv lang="EN">
         <seg>You can also edit the contents of a cell directly in the cell itself by double-clicking on the cell.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150622T193219Z" creationid="lenochod26" creationdate="20150616T212100Z">
+      <tuv lang="CS" changeid="install" changedate="20161108T124843Z" creationid="lenochod26" creationdate="20150616T212100Z">
         <seg>Obsah buňky můžeme upravit také přímo poklepáním na buňku.</seg>
       </tuv>
     </tu>
@@ -71244,6 +71348,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T071411Z" creationid="install" creationdate="20150716T071411Z">
         <seg>Můžeme také vybrat podobné pole v prvním kroku, a ve druhém kroku změnit jeho typ a formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also select multiple sheets by holding down the &lt;f1&gt;Ctrl&lt;/f1&gt; key while clicking on the sheet tabs.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T130548Z" creationid="install" creationdate="20161108T125957Z">
+        <seg>Můžeme také vybrat více listů tím, že během klepání na karty podržíme klávesu &lt;f1&gt;Ctrl&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
