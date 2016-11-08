@@ -4190,6 +4190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Name Box&lt;/f0&gt; – gives the current active cell reference using a combination of a letter and number, for example A1.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T120043Z" creationid="install" creationdate="20161108T120043Z">
+        <seg>&lt;f0&gt;Pole názvu&lt;/f0&gt; – zobrazuje aktuální odkaz na aktivní buňku, který se sestává z kombinace písmen a číslic, například A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Name&lt;/f0&gt; is applicable to HTML documents.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140228T205618Z" creationid="standa" creationdate="20140228T205618Z">
@@ -4808,8 +4816,8 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Sheet&lt;/f0&gt;&lt;f1&gt; – &lt;s2/&gt;contains the most often used commands for table handling, such as &lt;/f1&gt;&lt;f3&gt;Insert&lt;/f3&gt; and &lt;f4&gt;Delete Cells, Columns, Rows&lt;/f4&gt;, and &lt;f5&gt;Sheets&lt;/f5&gt;, as well as &lt;f6&gt;Comments&lt;/f6&gt; and &lt;f7&gt;Cell fill&lt;/f7&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20161108T110759Z" creationid="install" creationdate="20161108T110759Z">
-        <seg>&lt;f0&gt;List&lt;/f0&gt; – obsahuje příkazy pro úpravu rozvržení sešitu, například &lt;f0&gt;Sheet&lt;/f0&gt;&lt;f1&gt; – &lt;s2/&gt;contains the most often used commands for table handling, such as &lt;/f1&gt;&lt;f3&gt;Insert&lt;/f3&gt; and &lt;f4&gt;Delete Cells, Columns, Rows&lt;/f4&gt;, and &lt;f5&gt;Sheets&lt;/f5&gt;, as well as &lt;f6&gt;Comments&lt;/f6&gt; and &lt;f7&gt;Cell fill&lt;/f7&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161108T113533Z" creationid="install" creationdate="20161108T110759Z">
+        <seg>&lt;f0&gt;List&lt;/f0&gt;&lt;f1&gt; – &lt;s2/&gt;obsahuje často používané příkazy pro úpravu tabulky, například &lt;/f1&gt;&lt;f3&gt;Vložit&lt;/f3&gt; a &lt;f4&gt;Smazat buňky, sloupce, řádky&lt;/f4&gt; a &lt;f5&gt;listy&lt;/f5&gt;, stejně jako &lt;f6&gt;Komentáře&lt;/f6&gt; a &lt;f7&gt;Vyplnit buňky&lt;/f7&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11874,6 +11882,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T190059Z" creationid="standa" creationdate="20150502T190059Z">
         <seg>Nástrojové lišty programu Calc mohou být napevno ukotveny na určitém místě nebo mohou být plovoucí, a díky tomu je můžeme umístit na vhodnější místo pracovní plochy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Calc toolbars can be either docked and fixed in place, or floating; you can move a toolbar into a more convenient position on the workspace.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T115006Z" creationid="install" creationdate="20161108T113845Z">
+        <seg>Nástrojové lišty programu Calc mohou být napevno ukotveny na určitém místě nebo jako plovoucí, a díky tomu je můžeme umístit na vhodnější místo pracovní plochy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19218,6 +19234,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140501T135337Z" creationid="standa" creationdate="20140501T135337Z">
         <seg>Ukotvené nástrojové lišty lze přesouvat na jiné místo nebo je možné je změnit na plovoucí lišty. Plovoucí lišty lze zase ukotvit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Docked toolbars can be undocked and either moved to different docked position on the workspace, or left as a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T114123Z" creationid="install" creationdate="20161108T114123Z">
+        <seg>Ukotvené nástrojové lišty se dají přesouvat na jiné místo, kde je lze opět ukotvit, nebo je ponechat jako plovoucí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28798,6 +28822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Going from left to right and referring to Figure &lt;t0&gt;2&lt;/t0&gt;, the Formula Bar consists of the following:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T115423Z" creationid="install" creationdate="20161108T115423Z">
+        <seg>Lišta vzorců se skládá z následujících součástí (zleva doprava, &lt;t0&gt;obrázek 2&lt;/t0&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Going the other way, from embedded to linked, is not so easy—you must delete and reinsert the images, one at a time, selecting the Link option when you do so.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140313T174447Z" creationid="standa" creationdate="20140313T174447Z">
@@ -32370,6 +32402,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T212028Z" creationid="standa" creationdate="20140105T212028Z">
         <seg>Pokud není určena výchozí šablona, LibreOffice použije prázdnou šablonu pro daný typ dokumentu, která byla nainstalována spolu s LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have selected a range of cells that is also a named range, the name of the range is shown in this box.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T120504Z" creationid="install" creationdate="20161108T120504Z">
+        <seg>Pokud jste označili určitou oblast buněk, kterému se také říká rozsah, potom název oblasi je uveden v této kolonce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53968,8 +54008,8 @@
       <tuv lang="EN">
         <seg>The Formula Bar is permanently docked in this position and cannot be used as a floating toolbar.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150502T190524Z" creationid="standa" creationdate="20150502T190524Z">
-        <seg>Lišta vzorců je na tomto místě trvale ukotvena a nelze ji změnit na plovoucí.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161108T115246Z" creationid="standa" creationdate="20150502T190524Z">
+        <seg>Na tomto místě je trvale ukotvena a nelze ji změnit na plovoucí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55374,10 +55414,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The default set of icons (sometimes called buttons) on toolbars provides a wide range of common commands and functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T114321Z" creationid="install" creationdate="20161108T114321Z">
+        <seg>Výchozí sada ikon (někdy označovaných jako tlačítka) na nástrojových lištách nabízí širokou škálu příkazů a funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The default setting when Calc opens is for the Standard and Formatting toolbars to be docked at the top of the workspace (&lt;f0&gt;&lt;t1&gt;Figure 1&lt;/t1&gt;&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T185922Z" creationid="standa" creationdate="20150502T185922Z">
         <seg>Pokud spustíme Calc ve výchozím nastavení, v horní části pracovní plochy budou ukotveny nástrojové lišty Standardní a Formátování (&lt;f0&gt;&lt;t1&gt;obrázek 1&lt;/t1&gt;&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The default setting when Calc opens is for the Standard and Formatting toolbars to be docked at the top of the workspace (Figure &lt;t0&gt;1&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T113653Z" creationid="install" creationdate="20161108T113653Z">
+        <seg>Pokud spustíme Calc ve výchozím nastavení, v horní části pracovní plochy budou ukotveny nástrojové lišty Standardní a Formátování (obrázek &lt;t0&gt;1&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -65158,6 +65214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Toolbars that are floating when opened can be docked into a fixed position on the workspace.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T114220Z" creationid="install" creationdate="20161108T114220Z">
+        <seg>Plovoucí nástrojové lišty lze zase ukotvit na určité místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toolbars that are floating when opened can be docked into a fixed position on your workspace.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T190151Z" creationid="standa" creationdate="20150502T190151Z">
@@ -71068,6 +71132,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150502T190407Z" creationid="standa" creationdate="20150502T190407Z">
         <seg>Ikony lze z nástrojové lišty odstraňovat i přidávat. Více informací o tom se nachází v &lt;f0&gt;kapitole 14 Přizpůsobení LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also remove or add icons to toolbars; see &lt;f0&gt;Chapter 14 Customizing LibreOffice&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T114434Z" creationid="install" creationdate="20161108T114434Z">
+        <seg>Ikony lze z nástrojové lišty odstraňovat i přidávat. Více informací se nachází v &lt;f0&gt;kapitole 14 Přizpůsobení LibreOffice&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
