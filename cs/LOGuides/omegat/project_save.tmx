@@ -3590,10 +3590,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – &lt;i4/&gt;opens a dialog from which you can search through a list of available functions.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T122225Z" creationid="install" creationdate="20161108T122225Z">
+        <seg>&lt;f0&gt;Průvodce funkcí&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – &lt;i4/&gt;otevře dialogové okno, kde můžeme vyhledávat dostupné funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt; – &lt;i5/&gt;opens a dialog from which you can search through a list of available functions.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T192727Z" creationid="lenochod26" creationdate="20150616T203240Z">
         <seg>&lt;f0&gt;Průvodce funkcí&lt;/f0&gt; &lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt; – &lt;i5/&gt;otevře dialogové okno, kde můžeme vyhledávat dostupné funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Function&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – clicking on the Function icon inserts an equals (=) sign into the selected cell and the &lt;f4&gt;Input line&lt;/f4&gt;, allowing a formula to be entered.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T122504Z" creationid="install" creationdate="20161108T122504Z">
+        <seg>&lt;f0&gt;Funkce&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – po klepnutí na ikonu Funkce se vloží do vybrané buňky a &lt;f4&gt;Vstupního řádku&lt;/f4&gt; znaménko rovná se (=) a poté je možné zadat vzorec.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5034,6 +5050,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151006T111355Z" creationid="install" creationdate="20151006T111355Z">
         <seg>&lt;f0&gt;Sub&lt;/f0&gt;&lt;f1&gt; PridejAhoj&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – clicking on the Sum icon totals the numbers in the cells above the selected cell and then places the total in the selected cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T122349Z" creationid="install" creationdate="20161108T122349Z">
+        <seg>Součet&lt;f0&gt;Sum&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt; – po klepnutí na ikonu Součet sečte čísla v buňkách nad vybranou buňkou a umístí výsledný součet do vybrané buňky.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28824,8 +28848,8 @@
       <tuv lang="EN">
         <seg>Going from left to right and referring to Figure &lt;t0&gt;2&lt;/t0&gt;, the Formula Bar consists of the following:</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20161108T115423Z" creationid="install" creationdate="20161108T115423Z">
-        <seg>Lišta vzorců se skládá z následujících součástí (zleva doprava, &lt;t0&gt;obrázek 2&lt;/t0&gt;):</seg>
+      <tuv lang="CS" changeid="install" changedate="20161108T122033Z" creationid="install" creationdate="20161108T115423Z">
+        <seg>Lišta vzorců se skládá z následujících součástí (zleva doprava, obrázek &lt;t0&gt;2&lt;/t0&gt;):</seg>
       </tuv>
     </tu>
     <tu>
@@ -32826,6 +32850,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150326T191152Z" creationid="standa" creationdate="20150326T190914Z">
         <seg>Pokud vkládáme odkazy na jiné části dokumentu přímo, mohou se velmi stát neaktuálními, když změníme nadpis, přidáme nebo odstraníme obrázky nebo témata jinak uspořádáme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you type the name of a named range and press the &lt;f1&gt;Enter&lt;/f1&gt; key, the named range is selected and displayed.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T122012Z" creationid="install" creationdate="20161108T121202Z">
+        <seg>Pokud zadáte název oblasti a stisknete tlačítko &lt;f1&gt;Enter&lt;/f1&gt;, pojmenovaná oblast je vybrána a zobrazena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64862,6 +64894,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To turn the Input line into a multiline input area for very long formulas, click the dropdown button on the right.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T122953Z" creationid="install" creationdate="20161108T122953Z">
+        <seg>Chcete-li Vstupní řádek změnit na víceřádkový pro velmi dlouhé vzorce, klepněte na rozbalovací tlačítko po pravé straně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To undo the most recent &lt;i0/&gt;change in a document, use the keyboard shortcut &lt;f1&gt;Ctrl+Z,&lt;/f1&gt; or click the &lt;i2/&gt;&lt;f3&gt;Undo&lt;/f3&gt; icon &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt; on the Standard toolbar, or go to &lt;f6&gt;Edit &gt; Undo&lt;/f6&gt; on the menu bar.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140504T165052Z" creationid="standa" creationdate="20140504T165052Z">
@@ -69342,6 +69382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you enter new data into a cell, the Sum and Function icons change to &lt;f0&gt;Cancel&lt;/f0&gt; and &lt;f1&gt;Accept&lt;/f1&gt; icons &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T123102Z" creationid="install" creationdate="20161108T123102Z">
+        <seg>Při zadávání nových dat do buňky se ikony Součet a Funkce změní na &lt;f0&gt;Zrušit&lt;/f0&gt; a &lt;f1&gt;Přijmout&lt;/f1&gt; &lt;f2&gt;&lt;df3&gt;&lt;di4/&gt;&lt;/df3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you enter new data into a cell, the Sum and Function icons change to &lt;f0&gt;Cancel&lt;/f0&gt; and &lt;f1&gt;Accept&lt;/f1&gt; icons &lt;f2&gt;&lt;f3&gt;&lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt;&lt;/f3&gt;&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T193325Z" creationid="lenochod26" creationdate="20150616T212759Z">
@@ -71300,6 +71348,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140502T142933Z" creationid="standa" creationdate="20140502T142933Z">
         <seg>Nový dokument můžeme vytvořit i jedním z následujících způsobů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also type a cell reference in the Name Box to jump to the referenced cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161108T120806Z" creationid="install" creationdate="20161108T120806Z">
+        <seg>Můžete také zadat odkaz na buňku v poli Název pro přesun na ni.</seg>
       </tuv>
     </tu>
     <tu>
