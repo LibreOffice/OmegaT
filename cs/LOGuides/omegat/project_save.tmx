@@ -2446,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T093434Z" creationid="install" creationdate="20161109T093434Z">
+        <seg>&lt;f0&gt;Zarovnání&lt;/f0&gt;: Ovládací prvky pro zarovnání textu různými způsoby, včetně vodorovného a svislého, zalomení, odsazení, slučování, orientaci textu a svislé zarovnání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Alignment&lt;/f0&gt;: Provides controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T192000Z" creationid="install" creationdate="20150617T085752Z">
@@ -2646,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Controls to set the appearance options, including cell background color, cell border formats including line color and style, and grid lines.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T093450Z" creationid="install" creationdate="20161109T093450Z">
+        <seg>&lt;f0&gt;Vzhled buňky:&lt;/f0&gt; Ovládací prvky pro nastavení volby vzhledu, včetně barvy pozadí buňky, formátu ohraničení buňky včetně barvy čáry a jejího stylu a mřížky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Provides controls to set the appearance options, including cell background color, cell border formats including line color and style, and grid lines.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T192246Z" creationid="install" creationdate="20150617T085850Z">
@@ -2690,6 +2706,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140105T220232Z" creationid="standa" creationdate="20140105T220232Z">
         <seg>&lt;f0&gt;Znakové styly&lt;/f0&gt; ovlivňují vlastnosti textu vybraného v odstavci jako například písmo a velikost nebo to, zda bude formátován jako tučné a kurzíva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Character&lt;/f0&gt;: Controls for formatting the text, such as font family, size, and color.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T093220Z" creationid="install" creationdate="20161109T093220Z">
+        <seg>&lt;f0&gt;Znak&lt;/f0&gt;: Ovládací prvky pro formátování textu, jako je například písmo, velikost a barva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,6 +4362,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T195903Z" creationid="install" creationdate="20150617T085826Z">
         <seg>&lt;f0&gt;Formát čísla:&lt;/f0&gt; Poskytuje způsob, jak rychle změnit formát čísel včetně desetinných míst, měny, data nebo číselného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Quickly change the format of numbers including decimals, currency, dates, or numeric text.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T093545Z" creationid="install" creationdate="20161109T093545Z">
+        <seg>&lt;f0&gt;Formát čísla:&lt;/f0&gt; Rychlá změna formátu čísel včetně desetinných míst, měny, data nebo číselného textu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20358,6 +20390,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each of these panels has a &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog giving a greater number of options.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T093651Z" creationid="install" creationdate="20161109T093651Z">
+        <seg>Každý z těchto panelů má tlačítko &lt;f0&gt;Další možnosti&lt;/f0&gt;, které otevře dialogové okno s větším počtem možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each of these panels has a &lt;f0&gt;More Options&lt;/f0&gt; button, which opens a dialog that gives a greater number of options.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150617T123548Z" creationid="install" creationdate="20150617T123548Z">
@@ -31240,8 +31280,8 @@
       <tuv lang="EN">
         <seg>If the headers are not visible on the spreadsheet, go to &lt;f1&gt;View&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Column &amp; Row Headers&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20161108T125224Z" creationid="install" creationdate="20161108T125224Z">
-        <seg>V případě, že v sešitu nejsou záhlaví viditelná, přejdeme na &lt;f2&gt;Zobrazit&lt;/f2&gt; v hlavní nabídce a vybereme &lt;f2&gt;Záhlaví sloupců a řádků&lt;/f2&gt;.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161109T094257Z" creationid="install" creationdate="20161108T125224Z">
+        <seg>V případě, že v sešitu nejsou záhlaví viditelná, přejdeme na &lt;f1&gt;Zobrazit&lt;/f1&gt; v hlavní nabídce a vybereme &lt;f2&gt;Záhlaví sloupců a řádků&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36792,8 +36832,8 @@
       <tuv lang="EN">
         <seg>It is similar to the sidebar in Writer (shown in Chapter 1 and Chapter 4 of this book) and consists of five &lt;i1/&gt;decks: Properties, Styles and Formatting, Gallery, &lt;s2/&gt;Navigator, and Functions.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20161109T092500Z" creationid="install" creationdate="20161109T092500Z">
-        <seg>Je to podobné jako v postranním panelu pro Writer (viz kapitoly 1 a kapitoly 4 této knihy) a skládá se z pěti &lt;i1/&gt;karet: Vlastnosti, Styly a formátování, Galerie, &lt;s2/&gt;Navigátor a Funkce.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161109T094713Z" creationid="install" creationdate="20161109T092500Z">
+        <seg>Je to podobné jako v postranní liště pro Writer (viz kapitoly 1 a 4 této knihy) a skládá se z pěti &lt;i1/&gt;karet: Vlastnosti, Styly a formátování, Galerie, &lt;s2/&gt;Navigátor a Funkce.</seg>
       </tuv>
     </tu>
     <tu>
