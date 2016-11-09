@@ -1918,6 +1918,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T120042Z" creationid="install" creationdate="20161109T120042Z">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;br3/&gt;</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T192307Z" creationid="standa" creationdate="20150622T192307Z">
@@ -3030,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Detect special numbers&lt;/f0&gt; – when this option is enabled, Calc will automatically detect all number formats, including special number formats such as dates, time, and scientific notation.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T121644Z" creationid="install" creationdate="20161109T121622Z">
+        <seg>&lt;f0&gt;Rozpoznat speciální čísla&lt;/f0&gt; - pokud je zaškrtnuta tato možnost, Calc bude automaticky rozpoznávat formát čísel, včetně speciálních formátů, jako jsou datum, čas a vědecká notace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Digital signature&lt;/f0&gt; – a flag indicating whether the document is digitally signed.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150701T170312Z" creationid="standa" creationdate="20150701T170312Z">
@@ -3386,6 +3402,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T060322Z" creationid="install" creationdate="20150723T060322Z">
         <seg>&lt;f0&gt;Ohraničení políček&lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Fields&lt;/f0&gt; – shows how the data will look when it is separated into columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T121904Z" creationid="install" creationdate="20161109T121904Z">
+        <seg>&lt;f0&gt;Pole&lt;/f0&gt; – zobrazuje, jak budou data vypadat po rozdělení do sloupců.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,6 +4018,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T054419Z" creationid="install" creationdate="20150723T054229Z">
         <seg>&lt;f0&gt;Umístění popisků:&lt;/f0&gt; Vyberte jak potřebujete, aby štítky byly zarovnány: buď vlevo nebo vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Language&lt;/f0&gt; – determines how the number strings are imported.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T120025Z" creationid="install" creationdate="20161109T120025Z">
+        <seg>&lt;f0&gt;Jazyk&lt;/f0&gt; – určuje, jak jsou importovány číselné řetězce.&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4830,10 +4862,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in the data to delimit the data into columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T120719Z" creationid="install" creationdate="20161109T120719Z">
+        <seg>&lt;f0&gt;Odděleno pomocí&lt;/f0&gt; – vybereme oddělovač, podle kterého se data rozdělí do sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Separated by&lt;/f0&gt; – select the separator used in your data to delimit the data into columns.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T202808Z" creationid="install" creationdate="20150618T105709Z">
         <seg>&lt;f0&gt;Odděleno pomocí&lt;/f0&gt; – vybereme oddělovač, podle kterého se data rozdělí do sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Separator Options&lt;/f0&gt; – specifies whether the data uses separators or fixed widths as delimiters.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T120316Z" creationid="install" creationdate="20161109T120316Z">
+        <seg>&lt;f0&gt;Možnosti oddělovače&lt;/f0&gt; – určuje, zda jsou data oddělena určitým znakem, nebo zda používají pevnou šířku záznamů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5422,6 +5470,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using a cell reference&lt;/f0&gt;&lt;re1/&gt; – highlight or delete the existing cell reference in the Name Box on the Formula Bar (Figure &lt;t2&gt;2&lt;/t2&gt; on page &lt;t3&gt;8&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T132212Z" creationid="install" creationdate="20161109T132212Z">
+        <seg>&lt;f0&gt;Pomocí odkazu na buňku&lt;/f0&gt;&lt;re1/&gt; - zvýrazníme nebo smažeme existující odkaz na buňku v poli názvu na panelu vzorců (obrázek &lt;t2&gt;2&lt;/t2&gt; na straně &lt;t3&gt;8&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the Enter key&lt;/f0&gt; – pressing &lt;f1&gt;Enter&lt;/f1&gt; moves the cell focus down in a column to the next row.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T193534Z" creationid="lenochod26" creationdate="20150620T073259Z">
@@ -5438,10 +5494,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – press the &lt;f1&gt;F5&lt;/f1&gt; key to open the &lt;f2&gt;Navigator&lt;/f2&gt; dialog (Figure &lt;t3&gt;9&lt;/t3&gt;) or click the &lt;f4&gt;Navigator Tab&lt;/f4&gt; button in the open Sidebar.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T133355Z" creationid="install" creationdate="20161109T132707Z">
+        <seg>&lt;f0&gt;Pomocí Navigátoru&lt;/f0&gt; – stiskneme klávesu &lt;f1&gt;F5&lt;/f1&gt; k otevření dialogového okna &lt;f2&gt;Navigátor&lt;/f2&gt; (obrázek &lt;t3&gt;9&lt;/t3&gt;) nebo klepneme na tlačítko &lt;f4&gt;Navigátor&lt;/f4&gt; v otevřené postranní liště.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – when the Navigator is open (&lt;f1&gt;&lt;t2&gt;Figure 10&lt;/t2&gt;&lt;/f1&gt;), double-clicking on any of the listed sheets selects the sheet.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T194314Z" creationid="lenochod26" creationdate="20150621T204030Z">
         <seg>&lt;f0&gt;Pomocí Navigátoru&lt;/f0&gt; – je-li Navigátor otevřen (&lt;f1&gt;&lt;t2&gt;obrázek 10&lt;/t2&gt;&lt;/f1&gt;), poklepáním na některý z listů v seznamu jej vybereme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the Navigator&lt;/f0&gt; – when the Navigator is open (Figure &lt;t1&gt;9&lt;/t1&gt;), double-click on any of the listed sheets to select the sheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T134456Z" creationid="install" creationdate="20161109T134456Z">
+        <seg>&lt;f0&gt;Pomocí Navigátoru&lt;/f0&gt; – je-li Navigátor otevřen (obrázek &lt;t1&gt;9&lt;/t1&gt;), poklepáním na některý z listů v seznamu jej vybereme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5456,8 +5528,16 @@
       <tuv lang="EN">
         <seg>&lt;f0&gt;Using the arrow keys&lt;/f0&gt; – pressing&lt;i1/&gt;&lt;i2/&gt; the arrow keys on the keyboard moves the cell focus in the direction of the arrow pressed.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150624T193810Z" creationid="lenochod26" creationdate="20150620T074912Z">
-        <seg>&lt;f0&gt;Pomocí kláves šipek&lt;/f0&gt; – stisknutí jednotlivých&lt;i1/&gt;&lt;i2/&gt; kláves šipek na klávesnici přesune zaměření buněk ve směru stisknuté šipky.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161109T133530Z" creationid="lenochod26" creationdate="20150620T074912Z">
+        <seg>&lt;f0&gt;Pomocí kláves šipek&lt;/f0&gt; – stisknutí &lt;i1/&gt;&lt;i2/&gt; kláves šipek na klávesnici přesune zaměření buněk ve směru stisknuté šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the keyboard&lt;/f0&gt; – use key combinations &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt; to move one sheet to the right and &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt; to move one sheet to the left.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T134616Z" creationid="install" creationdate="20161109T134616Z">
+        <seg>&lt;f0&gt;Pomocí klávesnice&lt;/f0&gt; – stisknutím kombinace kláves &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt; se přesuneme o jeden list doprava, pomocí &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt; se přesuneme o jeden list doleva.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5466,6 +5546,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T194418Z" creationid="lenochod26" creationdate="20150621T204328Z">
         <seg>&lt;f0&gt;Pomocí klávesnice&lt;/f0&gt; – stisknutím kombinace kláves &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt; se přesuneme o jeden list doprava, pomocí &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt; se přesuneme o jeden list doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Using the mouse&lt;/f0&gt; – click on one of the sheet tabs at the bottom of the spreadsheet to select that sheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T134703Z" creationid="install" creationdate="20161109T134703Z">
+        <seg>&lt;f0&gt;Pomocí myši&lt;/f0&gt; – klepnutím na některou z karet listu v dolní části sešitu tento list vybereme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11862,6 +11950,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Calc can also save spreadsheets in a range of formats and also export spreadsheets to PDF, HTML, and XHTML file formats; see the &lt;f1&gt;Calc Guide Chapter 6 Printing, Exporting, and E-mailing&lt;/f1&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T122714Z" creationid="install" creationdate="20161109T122714Z">
+        <seg>V Calcu lze ukládat sešity také v různých formátech a také je exportovat do formátů souboru PDF, HTML a XHTML. Více informací se nachází v &lt;f1&gt;kapitole 6 Printing, Exporting, and E-mailing příručky Calc Guide&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calc can save files as HTML documents &lt;f0&gt;by going to&lt;/f0&gt; &lt;f1&gt;File &gt; Save As&lt;/f1&gt; &lt;f2&gt;on the menu bar &lt;/f2&gt;and select &lt;f3&gt;HTML Document &lt;/f3&gt;&lt;f4&gt;&lt;f5&gt;(Calc)&lt;/f5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;f7&gt; format as the file type.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140526T182008Z" creationid="standa" creationdate="20140526T182008Z">
@@ -14152,8 +14248,8 @@
       <tuv lang="EN">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to open and import the file.</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150622T202039Z" creationid="install" creationdate="20150618T104811Z">
-        <seg>Klepnutím na &lt;f0&gt;OK&lt;/f0&gt; soubor otevřeme a importujeme.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161109T115039Z" creationid="install" creationdate="20150618T104811Z">
+        <seg>Klepnutím na talčítko &lt;f0&gt;OK&lt;/f0&gt; soubor otevřeme a importujeme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14490,6 +14586,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20151009T052433Z" creationid="install" creationdate="20151009T052433Z">
         <seg>Klikneme na &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;f3&gt;Use [xxx] Format&lt;/f3&gt; to continue saving in your selected spreadsheet format or click &lt;f4&gt;Use ODF Format&lt;/f4&gt; to save the spreadsheet in Calc ODS format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T131139Z" creationid="install" creationdate="20161109T124405Z">
+        <seg>Klepnutím na tlačítko &lt;f3&gt;Použít formát [xxx]&lt;/f3&gt; budeme v ukládáni ve vybraném formátu sešitu pokračovat, klepnutím na tlačítko &lt;f4&gt;Použít formát ODF&lt;/f4&gt; uložíme sešit v formátu ODS, pro Calc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16721,6 +16825,14 @@
         <seg>Comma-separated-values (CSV) files are spreadsheet files in a text format where cell contents are separated by a character, for example a comma or semi-colon.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T201127Z" creationid="install" creationdate="20150618T093945Z">
+        <seg>Soubory CSV (Comma-separated-values) jsou soubory sešitu v textovém formátu, ve kterých je obsah buněk oddělen znakem, například čárkou nebo středníkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Comma-separated-values (CSV) files are spreadsheet files in a text format where cell contents are separated by a character, for example a comma or semicolon.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T113439Z" creationid="install" creationdate="20161109T113439Z">
         <seg>Soubory CSV (Comma-separated-values) jsou soubory sešitu v textovém formátu, ve kterých je obsah buněk oddělen znakem, například čárkou nebo středníkem.</seg>
       </tuv>
     </tu>
@@ -20328,8 +20440,8 @@
       <tuv lang="EN">
         <seg>Each line in a CSV text file represents a row in a spreadsheet.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T094707Z" creationid="install" creationdate="20150618T094707Z">
-        <seg>Každý řádek v textovém souboru CSV představuje řádek v tabulce.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161109T114435Z" creationid="install" creationdate="20150618T094707Z">
+        <seg>Každý řádek představuje řádek v tabulce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20462,6 +20574,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each sheet in a spreadsheet is independent of the other sheets, though references can be linked from one sheet to another.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T133947Z" creationid="install" creationdate="20161109T133947Z">
+        <seg>Každý list v sešitu je nezávislý na ostatních listech, ačkoli odkazy mohou propojovat jeden list s druhým.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each spreadsheet can have several sheets, and each sheet can have many individual cells.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20161107T124907Z" creationid="install" creationdate="20161107T124907Z">
@@ -20514,6 +20634,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T184932Z" creationid="install" creationdate="20150619T070121Z">
         <seg>Pokaždé, když klepneme na tlačítko &lt;f0&gt;Uložit&lt;/f0&gt;, se otevře dialogové okno &lt;f1&gt;Potvrdit formát souboru&lt;/f1&gt;, (&lt;f2&gt;&lt;t3&gt;obrázek 8&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each time you click &lt;f0&gt;Save&lt;/f0&gt;, the &lt;f1&gt;Confirm File Format&lt;/f1&gt; dialog opens (Figure &lt;t2&gt;7&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T124127Z" creationid="install" creationdate="20161109T124127Z">
+        <seg>Pokaždé, když klepneme na tlačítko &lt;f0&gt;Uložit&lt;/f0&gt;, otevře se dialogové okno &lt;f1&gt;Potvrdit formát souboru&lt;/f1&gt;, (obrázek &lt;t2&gt;7&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -24254,6 +24382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Text Import dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T115155Z" creationid="install" creationdate="20161109T115155Z">
+        <seg>Obrázek &lt;seq0&gt;5&lt;/seq0&gt;: Dialogové okno Import textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T203035Z" creationid="standa" creationdate="20141022T203035Z">
@@ -24338,6 +24474,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150702T215122Z" creationid="standa" creationdate="20150702T215122Z">
         <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Zobrazení poznámek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Save As dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T123019Z" creationid="install" creationdate="20161109T123019Z">
+        <seg>Obrázek &lt;seq0&gt;6&lt;/seq0&gt;: Dialogové okno Uložit jako</seg>
       </tuv>
     </tu>
     <tu>
@@ -24434,6 +24578,14 @@
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20151015T135437Z" creationid="GRB" creationdate="20151015T135437Z">
         <seg>Obrázek &lt;seq0&gt;7 &lt;/seq0&gt;: Výběr, co se bude tisknout v Draw a Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Confirm File Format dialog</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T124857Z" creationid="install" creationdate="20161109T124857Z">
+        <seg>Obrázek &lt;seq0&gt;7&lt;/seq0&gt;: dialogové okno Potvrdit formát souboru</seg>
       </tuv>
     </tu>
     <tu>
@@ -24598,6 +24750,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Export Text File dialog for CSV files</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T131638Z" creationid="install" creationdate="20161109T124952Z">
+        <seg>Obrázek &lt;seq0&gt;8&lt;/seq0&gt;: dialogové okno pro CSV soubory Exportovat textový soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Header and Footer dialog – Notes and Handouts page</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150803T194839Z" creationid="standa" creationdate="20150803T194828Z">
@@ -24714,6 +24874,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140407T164050Z" creationid="standa" creationdate="20140407T164050Z">
         <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Získání více šablon pro LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Navigator dialog in Calc</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T133830Z" creationid="install" creationdate="20161109T133830Z">
+        <seg>Obrázek &lt;seq0&gt;9&lt;/seq0&gt;: Dialogové okno Návigátor v Calcu</seg>
       </tuv>
     </tu>
     <tu>
@@ -29478,6 +29646,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you can select the character set, field delimiter, text delimiter, and so on to be used for the CSV file.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T124820Z" creationid="install" creationdate="20161109T124820Z">
+        <seg>Zde můžeme vybrat znakovou sadu, oddělovač pole, oddělovač textu, a tak dále, které mají být použity pro soubor CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can select the various options available when importing a CSV file into a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T115009Z" creationid="install" creationdate="20161109T115009Z">
+        <seg>Zde si můžeme vybrat různé možnosti dostupné pro import souboru CSV do sešitu Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here you can specify the address (URL) and log-in information for a wiki.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T201745Z" creationid="standa" creationdate="20141022T201745Z">
@@ -30466,6 +30650,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150618T112122Z" creationid="install" creationdate="20150618T112122Z">
         <seg>Pokud je pro import CSV Jazyk nastaven na Výchozí, použije Calc globálně nastavený jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Language is set to a specific language, that language will be used when importing numbers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T120139Z" creationid="install" creationdate="20161109T120139Z">
+        <seg>Pokud je nastaven určitý jazyk, bude při importu použit ten.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32678,6 +32870,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to exchange files with users who are unable to receive spreadsheet files in Open Document Format (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), which Calc uses as default format, you can save a spreadsheet in another format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T123844Z" creationid="install" creationdate="20161109T122749Z">
+        <seg>Pokud si potřebujeme vyměňovat soubory s uživateli, kteří nejsou schopni přijímat soubory sešitu ve formátu Open Document (ODF) (&lt;f0&gt;*.ods&lt;/f0&gt;), jenž Calc používá jako výchozí, můžeme sešit uložit v jiném formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to fine tune the appearance of a line, choose &lt;f0&gt;Format &gt; Line&lt;/f0&gt; from the main menu bar, or right-click on the line and select &lt;f1&gt;Line&lt;/f1&gt; from the context menu, or select the &lt;f2&gt;Line&lt;/f2&gt; icon &lt;f3&gt;&lt;df4&gt;&lt;di5/&gt; &lt;/df4&gt;&lt;/f3&gt; from the Line and Filling toolbar.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140217T165140Z" creationid="standa" creationdate="20140217T165140Z">
@@ -32850,6 +33050,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T185301Z" creationid="install" creationdate="20150619T070541Z">
         <seg>Pokud je vybrán formát &lt;f0&gt;Text CSV&lt;/f0&gt; (&lt;f1&gt;*.csv&lt;/f1&gt;), otevře se dialogové okno &lt;f2&gt;Exportovat textový soubor&lt;/f2&gt; (&lt;f3&gt;&lt;t4&gt;obrázek 9&lt;/t4&gt;&lt;/f3&gt;) umožňující vybrat znakovou sadu, oddělovač, oddělovač textu a další volby, které mají být použity pro soubor CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select &lt;f0&gt;Text CSV&lt;/f0&gt; format (&lt;f1&gt;*.csv&lt;/f1&gt;) for your spreadsheet, the &lt;f2&gt;Export Text File&lt;/f2&gt; dialog (Figure &lt;t3&gt;8&lt;/t3&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T124544Z" creationid="install" creationdate="20161109T124544Z">
+        <seg>Pokud je vybrán formát &lt;f0&gt;Text CSV&lt;/f0&gt; (&lt;f1&gt;*.csv&lt;/f1&gt;), otevře se dialogové okno &lt;f2&gt;Exportovat textový soubor&lt;/f2&gt; (obrázek &lt;t3&gt;8&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select &lt;f1&gt;Other&lt;/f1&gt;, specify the character used to separate data into columns.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T120818Z" creationid="install" creationdate="20161109T120818Z">
+        <seg>Jestliže zvolíme &lt;f1&gt;Jiný&lt;/f1&gt;, znak použitý pro oddělení dat do sloupců určíme sami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33646,6 +33862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;f0&gt;File name&lt;/f0&gt;, you can enter a new file name for the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T123207Z" creationid="install" creationdate="20161109T123207Z">
+        <seg>Do pole &lt;f0&gt;Název souboru&lt;/f0&gt; můžeme zadat nový název souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;f0&gt;File sharing password&lt;/f0&gt;, select &lt;f1&gt;Open file read only&lt;/f1&gt; and enter a password to allow editing and then enter the same password as confirmation.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140503T180019Z" creationid="standa" creationdate="20140503T180019Z">
@@ -33706,6 +33930,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150821T062047Z" creationid="install" creationdate="20150821T062031Z">
         <seg>V programu &lt;f0&gt;Writer&lt;/f0&gt; můžeme použít vlastnosti objektu (pravým kliknutím na &lt;f1&gt;objekt&lt;/f1&gt; vzorce), přičemž vybereme barvu pozadí pro celý vzorec (viz „&lt;bf2&gt; Pozadí, orámování a velikost &lt;/bf2&gt; „na straně &lt;bf3&gt;24&lt;/bf3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In &lt;f1&gt;Default file format&lt;/f1&gt; and &lt;f2&gt;ODF settings &gt; Document type&lt;/f2&gt;, select &lt;f3&gt;Spreadsheet,&lt;/f3&gt; then in &lt;f4&gt;Always save as&lt;/f4&gt;, select your preferred file format.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T131336Z" creationid="install" creationdate="20161109T125209Z">
+        <seg>V &lt;f1&gt;Výchozí formát souborů&lt;/f1&gt; a&lt;f2&gt; nastavení ODF &gt; Typ dokumentu&lt;/f2&gt; zvolíme &lt;f3&gt;Sešit&lt;/f3&gt; a poté u &lt;f4&gt;Vždy ukládat jako&lt;/f4&gt; vybereme preferovaný formát souboru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36802,6 +37034,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T202940Z" creationid="standa" creationdate="20150629T202940Z">
         <seg>Aby bylo možné snímky a objekty v prezentaci v Navigátoru snadno rozpoznat, je vhodné jim dávat smysluplné názvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is recommended to rename sheets in a spreadsheet to make them more recognizable.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T135012Z" creationid="install" creationdate="20161109T135012Z">
+        <seg>Doporučuje se listy v sešitě přejmenovat tak, aby byly snadněji rozpoznatelné.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39918,6 +40158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most CSV files come from databases tables, queries, or reports, where further calculations and charting are required.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T113555Z" creationid="install" creationdate="20161109T113555Z">
+        <seg>Většina souborů CSV pocházejí z databázových tabulek, dotazů nebo zpráv, kde jsou vyžadovány další výpočty a grafy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most data entry in Calc can be accomplished using the keyboard.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T200659Z" creationid="install" creationdate="20150629T083055Z">
@@ -41786,6 +42034,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140425T182008Z" creationid="standa" creationdate="20140425T182008Z">
         <seg>V systému Mac OS X je to nabídka Aplikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On Microsoft Windows, CSV files often have the XLS file name extension to look like an Excel file, but they are still CSV files internally.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T114619Z" creationid="install" creationdate="20161109T113925Z">
+        <seg>V operačním systému Microsoft Windows mají tyto soubory často příponu XLS aby vypadaly jako soubor aplikace Excel, ale jsou stále interně CSV souborem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44902,10 +45158,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pressing &lt;f1&gt;Shift+Tab&lt;/f1&gt; moves the focus to the left in a row to the previous column.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T133004Z" creationid="install" creationdate="20161109T133004Z">
+        <seg>Stisknutí &lt;f1&gt;Shift+Tab&lt;/f1&gt; přesune zaměření buňky v řádku doleva do předchozího sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;f2&gt;Shift+Enter&lt;/f2&gt; moves the focus up in a column to the next row.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T193554Z" creationid="lenochod26" creationdate="20150620T073450Z">
         <seg>Stisknutí &lt;f2&gt;Shift+Enter&lt;/f2&gt; přesune zaměření ve sloupci nahoru na předešlý řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;f2&gt;Shift+Enter&lt;/f2&gt; moves the focus up in a column to the previous row.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T132923Z" creationid="install" creationdate="20161109T132923Z">
+        <seg>Stisknutí &lt;f2&gt;Shift+Enter&lt;/f2&gt; přesune zaměření ve sloupci nahoru na předchozí řádek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46726,6 +46998,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on any of the arrows opens a context menu where you can select a sheet (see Figure &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T134855Z" creationid="install" creationdate="20161109T134855Z">
+        <seg>Klepnutím pravým tlačítkem na některou ze šipek otevřeme místní nabídku, v níž můžeme vybrat list (obrázek &lt;t0&gt;11&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Robert Scott</seg>
       </tuv>
       <tuv lang="CS" changeid="GRB" changedate="20150921T112507Z" creationid="GRB" creationdate="20150921T112507Z">
@@ -47050,6 +47330,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150723T132235Z" creationid="install" creationdate="20150723T132235Z">
         <seg>Uložíme záznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the spreadsheet in Calc spreadsheet file format (&lt;f0&gt;*.ods&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T122803Z" creationid="install" creationdate="20161109T122803Z">
+        <seg>Uložíme sešit do souborového formátu Calc (&lt;f0&gt;*.ods&lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -48162,6 +48450,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T184628Z" creationid="install" creationdate="20150618T131202Z">
         <seg>V hlavní nabídce zvolíme &lt;f0&gt;Soubor &gt; Uložit jako&lt;/f0&gt;, čímž otevřeme dialogové okno &lt;f1&gt;Uložit jako&lt;/f1&gt; (&lt;f2&gt;&lt;t3&gt;obrázek 7&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Save As&lt;/f1&gt; dialog (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T123047Z" creationid="install" creationdate="20161109T122854Z">
+        <seg>V hlavní nabídce zvolíme &lt;f0&gt;Soubor &gt; Uložit jako&lt;/f0&gt;, čímž otevřeme dialogové okno &lt;f1&gt;Uložit jako&lt;/f1&gt; (obrázek &lt;t2&gt;6&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53224,8 +53520,8 @@
       <tuv lang="EN">
         <seg>Text is entered between quotation marks; numbers are entered without quotation marks.</seg>
       </tuv>
-      <tuv lang="CS" changeid="install" changedate="20150618T095157Z" creationid="install" creationdate="20150618T095157Z">
-        <seg>Text je zadán v uvozovkách; čísla se zadávají bez uvozovek.</seg>
+      <tuv lang="CS" changeid="install" changedate="20161109T114528Z" creationid="install" creationdate="20150618T095157Z">
+        <seg>Text je vložen v uvozovkách; čísla se vkládají bez uvozovek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53586,6 +53882,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T201959Z" creationid="install" creationdate="20150618T104526Z">
         <seg>Dialogové okno &lt;f0&gt;Import textu&lt;/f0&gt;(&lt;f1&gt;&lt;t2&gt;obrázek 6&lt;/t2&gt;&lt;/f1&gt;) umožňuje vybrat různé možnosti, které jsou pro import souboru CSV do sešitu Calcu k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Text Import&lt;/f0&gt; dialog (Figure &lt;t1&gt;5&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T115532Z" creationid="install" creationdate="20161109T114734Z">
+        <seg>Otevře se dialogové okno &lt;f0&gt;Import textu&lt;/f0&gt; (obrázek &lt;t1&gt;5&lt;/t1&gt;). </seg>
       </tuv>
     </tu>
     <tu>
@@ -57438,6 +57742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The options for importing CSV files into a Calc spreadsheet are as follows:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T115255Z" creationid="install" creationdate="20161109T115255Z">
+        <seg>Možnosti importu souborů CSV do sešitu Calc jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The options for this page of the HTML Export dialog are as follows:</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140309T101639Z" creationid="standa" creationdate="20140309T101639Z">
@@ -58018,6 +58330,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150622T203509Z" creationid="install" creationdate="20150618T120039Z">
         <seg>Zvolený jazyk &lt;/f1&gt;také &lt;f4&gt;ovlivňuje, jak jsou detekována speciální čísla, protože v různých jazycích a regionech se pro ně používají různé zvyklosti.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The selected language also influences how such special numbers are detected, since different languages and regions many have different conventions for such special numbers.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T121719Z" creationid="install" creationdate="20161109T121719Z">
+        <seg>Zvolený jazyk také ovlivňuje, jak jsou detekována speciální čísla, protože v různých jazycích a regionech se pro ně používají různé zvyklosti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59106,6 +59426,14 @@
       </tuv>
       <tuv lang="CS" changeid="lenochod26" changedate="20150621T203411Z" creationid="lenochod26" creationdate="20150621T203411Z">
         <seg>Existují tři způsoby, jak se pohybovat mezi různými listy v sešitě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are three ways to navigate between sheets in a spreadsheet:</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T134022Z" creationid="install" creationdate="20161109T134022Z">
+        <seg>Existují tři způsoby, jak se pohybovat mezi listy v sešitě:</seg>
       </tuv>
     </tu>
     <tu>
@@ -60202,6 +60530,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140210T201937Z" creationid="standa" creationdate="20140210T201419Z">
         <seg>Při tažení kurzorem se kolem objektů kreslí obdélník, vybrány jsou pouze ty objekty, které leží celé uvnitř tohoto obdélníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This custom separator must also be contained in the data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T120849Z" creationid="install" creationdate="20161109T120849Z">
+        <seg>Tento vlastní oddělovač musí být také obsažen v datech.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61682,6 +62018,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20141022T200732Z" creationid="standa" creationdate="20141022T200732Z">
         <seg>Oddělovače tisíců u velkých čísel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thousands separators and decimal separators may vary with the selected language and region.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T121842Z" creationid="install" creationdate="20161109T121842Z">
+        <seg>Oddělovače tisíců a desetinných míst se mohou lišit v závislosti na vybraném jazyku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65710,6 +66054,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type the cell reference into the Column and Row fields and press the &lt;f5&gt;Enter&lt;/f5&gt; key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T132747Z" creationid="install" creationdate="20161109T132747Z">
+        <seg>Zadáme odkaz na buňku do polí Sloupec a Řádek a stiskneme klávesu &lt;f5&gt;Enter&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type the column identifiers in the &lt;f0&gt;Columns to repeat&lt;/f0&gt; box.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150708T053949Z" creationid="install" creationdate="20150708T053949Z">
@@ -65770,6 +66122,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140306T170824Z" creationid="standa" creationdate="20140306T170824Z">
         <seg>Zadáme název souboru, pod kterým chceme stránky uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type the new cell reference of the cell you want to move to and press &lt;f4&gt;Enter&lt;/f4&gt; key.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T132250Z" creationid="install" creationdate="20161109T132250Z">
+        <seg>Zadáme nový odkaz na buňku, na kterou se chceme přesunout, a stiskneme klávesu &lt;f4&gt;Enter&lt;/f4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67722,6 +68082,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T194628Z" creationid="lenochod26" creationdate="20150621T204937Z">
         <seg>Pomocí čtyř tlačítek vlevo od karty můžeme skryté karty zobrazit (&lt;t0&gt;obrázek 11&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the four buttons to the left of the sheet tabs can move the tabs into view (Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T134809Z" creationid="install" creationdate="20161109T134754Z">
+        <seg>Pomocí čtyř tlačítek vlevo od karty můžeme skryté karty zobrazit (obrázek &lt;t0&gt;10&lt;/t0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -69706,6 +70074,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140116T182008Z" creationid="standa" creationdate="20140116T182008Z">
         <seg>Pokud vložíme záhlaví do stylu stránky s nastaveným zrcadlením nebo pravými a levými stránkami, obsah záhlaví může být buď stejný na všech stránkách, nebo různý na pravých a levých stránkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you insert a new sheet into a spreadsheet, Calc automatically uses the next number in the numeric sequence as a name.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161109T134934Z" creationid="install" creationdate="20161109T134934Z">
+        <seg>Když do sešitu vložíme nový list, Calc automaticky k jeho pojmenování použije další číslo v pořadí.</seg>
       </tuv>
     </tu>
     <tu>
