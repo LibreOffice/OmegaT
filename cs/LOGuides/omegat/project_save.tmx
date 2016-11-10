@@ -22166,6 +22166,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Customizing the Enter key</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085822Z" creationid="install" creationdate="20161110T085822Z">
+        <seg>Obrázek &lt;seq0&gt;12&lt;/seq0&gt;: Přizpůsobení klávesy Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Editing Fontwork text</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20140417T195537Z" creationid="standa" creationdate="20140417T195537Z">
@@ -25674,6 +25682,14 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150629T200408Z" creationid="install" creationdate="20150629T080608Z">
         <seg>Chceme-li okno rozdělit vodorovně, uchopíme myší obdélníček s vodorovnou čárkou, který se nachází nad svislým posuvníkem, a posuneme ho pod řádek, pod který chceme rozdělení umístit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For a key combination, press more than one key at the same time.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T084514Z" creationid="install" creationdate="20161110T084514Z">
+        <seg>Kombinací kláves je myšleno stisknutí více než jedné klávesy najednou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39134,6 +39150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure to change back to &lt;f4&gt;Standard selection&lt;/f4&gt; or you may find yourself extending a cell selection unintentionally.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T091826Z" creationid="install" creationdate="20161110T091826Z">
+        <seg>Ujistíme se, že jsme změnili volbu zpět na &lt;f4&gt;Standardní výběr&lt;/f4&gt;, neboť jinak můžeme nadále výběr buněk neúmyslně rozšiřovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure to change back to &lt;f6&gt;Standard selection&lt;/f6&gt; or you may find yourself extending a cell selection unintentionally.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T203358Z" creationid="install" creationdate="20150624T055551Z">
@@ -40704,8 +40728,16 @@
       <tuv lang="EN">
         <seg>Moves cell focus down one cell</seg>
       </tuv>
-      <tuv lang="CS" changeid="standa" changedate="20150624T195817Z" creationid="install" creationdate="20150622T051304Z">
-        <seg>Přesune zaměření buňky o jednu buňku dolů</seg>
+      <tuv lang="CS" changeid="install" changedate="20161110T084700Z" creationid="install" creationdate="20150622T051304Z">
+        <seg>Přesune zaměření buňky o jednu buňku dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus down one cell (unless changed by user).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085514Z" creationid="install" creationdate="20161110T085514Z">
+        <seg>Přesune zaměření o jednu buňku dolů (není-li změněno uživatelem).</seg>
       </tuv>
     </tu>
     <tu>
@@ -40758,6 +40790,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus left one cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T084637Z" creationid="install" creationdate="20161110T084637Z">
+        <seg>Přesune zaměření buňky o jednu buňku doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus one screen to the left (if possible).</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T201443Z" creationid="install" creationdate="20150622T103449Z">
@@ -40782,6 +40822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus right one cell.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T084619Z" creationid="install" creationdate="20161110T084619Z">
+        <seg>Přesune zaměření buňky o jednu buňku doprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus to the first column in that row if there are no more cells containing data.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T200544Z" creationid="install" creationdate="20150622T100514Z">
@@ -40798,10 +40846,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus to the first column on the left in the same range of occupied cells in that row if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085217Z" creationid="install" creationdate="20161110T085217Z">
+        <seg>Pokud výchozí zaměřená buňka obsahuje data, přesune zaměření doleva do prvního sloupce v daném řádku a v téže oblasti buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus to the first column on the right containing data in that row if cell focus is on a blank cell.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T200021Z" creationid="install" creationdate="20150622T051735Z">
         <seg>Pokud je výchozí zaměřená buňka prázdná, přesune zaměření doprava do prvního sloupce, který obsahuje v daném řádku data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the first row in the same range of occupied cells if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085255Z" creationid="install" creationdate="20161110T085255Z">
+        <seg>Pokud zaměřená buňka obsahuje data, přesune zaměření buňky na první řádek v téže oblasti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40822,10 +40886,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus to the last column on the right in the same range of occupied cells in that row if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085127Z" creationid="install" creationdate="20161110T085127Z">
+        <seg>Pokud výchozí zaměřená buňka obsahuje data, přesune zaměření doprava do posledního sloupce v daném řádku a v téže oblasti buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus to the last column on the right in the spreadsheet if there are no more cells containing data.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T200206Z" creationid="install" creationdate="20150622T093841Z">
         <seg>Pokud žádné další buňky vpravo neobsahují data, přesune v sešitu zaměření buňky do posledního sloupce vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the last row in the same range of occupied cells in that column if cell focus is on a cell containing data.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085320Z" creationid="install" creationdate="20161110T085320Z">
+        <seg>Pokud zaměřená buňka obsahuje data, přesune zaměření buňky na poslední řádek v téže oblasti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40838,10 +40918,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves cell focus to the next cell on the left.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085401Z" creationid="install" creationdate="20161110T085401Z">
+        <seg>Přesune zaměření buňky na další buňku vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves cell focus to the next cell on the right</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T201624Z" creationid="install" creationdate="20150622T125159Z">
         <seg>Přesune zaměření buňky na další buňku vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus to the next cell on the right.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085351Z" creationid="install" creationdate="20161110T085351Z">
+        <seg>Přesune zaměření buňky na další buňku vpravo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40866,6 +40962,22 @@
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T195737Z" creationid="install" creationdate="20150622T051249Z">
         <seg>Přesune zaměření buňky o jednu buňku nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus up one cell (unless changed by user).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085616Z" creationid="install" creationdate="20161110T085616Z">
+        <seg>Přesune zaměření o jednu buňku nahoru (není-li změněno uživatelem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moves cell focus up one cell..</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T084645Z" creationid="install" creationdate="20161110T084645Z">
+        <seg>Přesune zaměření buňky o jednu buňku nahoru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53366,6 +53478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Table &lt;t0&gt;1&lt;/t0&gt; lists the keys and key combinations you can use for spreadsheet navigation in Calc.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T090424Z" creationid="install" creationdate="20161110T084601Z">
+        <seg>Tabulka &lt;t0&gt;1&lt;/t0&gt; uvádí klávesy a kombinace kláves, které můžeme k pohybu v sešitu Calc použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tables: use wizard to create tables</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150714T142101Z" creationid="install" creationdate="20150714T142101Z">
@@ -64518,6 +64638,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To navigate a spreadsheet using the keyboard, pressing a key or a combination of keys.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T090356Z" creationid="install" creationdate="20161110T084411Z">
+        <seg>Pohyb v  sešitu s  pomocí klávesnice, a to stisknutím klávesy nebo kombinace kláves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To navigate from one comment to another, open the Navigator (&lt;f0&gt;F5&lt;/f0&gt;), expand the Comments section, and click on the comment text to move the cursor to the anchor point of the comment in the document.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150209T214719Z" creationid="standa" creationdate="20150209T214719Z">
@@ -67122,6 +67250,14 @@
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150625T060405Z" creationid="install" creationdate="20150623T131639Z">
         <seg>Pomocí prvních dvou možností v &lt;f3&gt;Nastavení vstupu&lt;/f3&gt;, &lt;f4&gt;&lt;t5&gt;obrázek 13&lt;/t5&gt;&lt;/f4&gt;, změníme nastavení klávesy &lt;f6&gt;Enter&lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the first two options under &lt;f3&gt;Input settings&lt;/f3&gt; in Figure &lt;t4&gt;12&lt;/t4&gt; to change the &lt;f5&gt;Enter&lt;/f5&gt; key settings.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T085758Z" creationid="install" creationdate="20161110T085758Z">
+        <seg>Pomocí prvních dvou možností v &lt;f3&gt;Nastavení vstupu&lt;/f3&gt;, obrázek &lt;t4&gt;13&lt;/t4&gt;, změníme nastavení klávesy &lt;f5&gt;Enter&lt;/f5&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71872,6 +72008,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also select a contiguous range of cells by first clicking in the &lt;f0&gt;Selection mode&lt;/f0&gt; field on the Status Bar (Figure &lt;t1&gt;4&lt;/t1&gt; on page &lt;t2&gt;10&lt;/t2&gt;) and selecting &lt;f3&gt;Extending selection&lt;/f3&gt; before clicking in the opposite corner of the range of cells.</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T091713Z" creationid="install" creationdate="20161110T091713Z">
+        <seg>Souvislou oblast buněk můžeme vybrat i tak, že nejdříve klikneme do pole &lt;f0&gt;Režim výběru&lt;/f0&gt; ve stavovém řádku(obrázek &lt;t1&gt;4&lt;/t1&gt; na straně &lt;t2&gt;10&lt;/t2&gt;) , v nabídce zaškrtneme &lt;f3&gt;Rozšířit výběr&lt;/f3&gt; a následně klikneme do opačného rohu oblasti, kterou chceme vybrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also select a similar field in step 1 and change its type and format in step 2.</seg>
       </tuv>
       <tuv lang="CS" changeid="install" changedate="20150716T071411Z" creationid="install" creationdate="20150716T071411Z">
@@ -73836,6 +73980,14 @@ S úpravou vlastností pole se setká každý uživatel programu Base.</seg>
       </tuv>
       <tuv lang="CS" changeid="standa" changedate="20150624T202610Z" creationid="install" creationdate="20150624T053013Z">
         <seg>Výběr můžeme ověřit v poli názvu na liště vzorců (&lt;f0&gt;&lt;t1&gt;obrázek 2&lt;/t1&gt;&lt;/f0&gt; na stránce &lt;f2&gt;&lt;t3&gt;7&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can verify your selection by looking in the Name Box on the Formula Bar (Figure &lt;t0&gt;2&lt;/t0&gt; on page &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="CS" changeid="install" changedate="20161110T091203Z" creationid="install" creationdate="20161110T091203Z">
+        <seg>Svou volbu si můžeme ověřit v poli názvu na panelu vzorců (Obrázek &lt;t0&gt;2&lt;/t0&gt; na straně &lt;t1&gt;8&lt;/t1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
