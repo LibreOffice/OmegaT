@@ -1304,6 +1304,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T095855Z" creationid="milos" creationdate="20170308T095855Z">
+        <seg>&lt;/f0&gt;LibreOffice používa formát OpenDocument využívajúci jazyk XML (eXtensible Markup Language). Tento formát bol vyvinutý ako priemyselný štandard organizáciou OASIS (Organization for the Advancement of Structured Information Standards) a bol prijatý aj ako štandard Medzinárodnou štandardizačnou organizáciou ISO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f0&gt;The file browser window closes and the template appears in the selected folder.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131014T074850Z" creationid="milos" creationdate="20131014T074850Z">
@@ -2929,6 +2937,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131017T180931Z" creationid="milos" creationdate="20131015T075607Z">
         <seg>&lt;f0&gt;GNU/&lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Linux&lt;/f2&gt; verzia kernelu 2.6.18, glibc2 v2.5 alebo vyššia a gtk v2.10.4 alebo vyššia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;GNU/Linux&lt;/f0&gt; Kernel version 2.6.18, glibc2 v2.5 or higher, and gtk v2.10.4 or higher</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T100007Z" creationid="milos" creationdate="20170308T100007Z">
+        <seg>&lt;f0&gt;GNU/&lt;/f0&gt;Linux verzia kernelu 2.6.18, glibc2 v2.5 alebo vyššia a gtk v2.10.4 alebo vyššia</seg>
       </tuv>
     </tu>
     <tu>
@@ -4619,6 +4635,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140722T082442Z" creationid="milos" creationdate="20131031T141132Z">
         <seg>&lt;f0&gt;Rok&lt;/f0&gt; – použijeme, pokiaľ chceme vytvoriť postupnosť rokov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You have a voice.&lt;/f0&gt; Enhancements, software fixes, and release dates are community-driven.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T095919Z" creationid="milos" creationdate="20170308T095919Z">
+        <seg>&lt;f0&gt;Možnosť ovplyvniť vývoj.&lt;/f0&gt; Zlepšenia, opravy a vydania nových verzií sú spravované komunitou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33294,6 +33318,14 @@ get involved in the project, you're welcome</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information on installing and setting up LibreOffice on the various supported operating systems is given here: &lt;a0&gt;http://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T100109Z" creationid="milos" creationdate="20170308T100109Z">
+        <seg>Inštalácia a nastavenie balíka LibreOffice na rôznych operačných systémoch je podrobne opísaná na adrese &lt;a0&gt;http://www.libreoffice.org/get-help/install-howto/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Information such as page numbers inserted into a header or footer displays on every page of the document with that page style.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131021T105908Z" creationid="milos" creationdate="20131021T105908Z">
@@ -35109,6 +35141,14 @@ the organisation, and that's what's great.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20160604T093015Z" creationid="milos" creationdate="20160604T093015Z">
         <seg>LibreOffice 5.1 vyžaduje jeden z nasledujúcich operačných systémov:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice 5.2 requires one of the following operating systems:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T095935Z" creationid="milos" creationdate="20170308T095935Z">
+        <seg>LibreOffice 5.2 vyžaduje jeden z nasledujúcich operačných systémov:</seg>
       </tuv>
     </tu>
     <tu>
@@ -49169,6 +49209,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some LibreOffice features (wizards and the HSQLDB database engine) require that the Java Runtime Environment (JRE) is installed on your computer.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T100028Z" creationid="milos" creationdate="20170308T100028Z">
+        <seg>Niektoré funkcie LibreOffice (sprievodcovia a databázový stroj HSQLDB) vyžadujú, aby bolo v počítači nainštalované prostredie Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some Linux operating systems include LibreOffice as part of the installation but may not include the Tango set of icons.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20150222T181318Z" creationid="milos" creationdate="20150222T181318Z">
@@ -51054,6 +51102,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140909T152433Z" creationid="milos" creationdate="20140909T145929Z">
         <seg>a ponecháme predvolené nastavenie &lt;f0&gt;Zodpovedá všetkým nasledujúcim&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;f0&gt;Menu bar&lt;/f0&gt; is located across the top of the LibreOffice window, just below the title bar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T100128Z" creationid="milos" creationdate="20170308T100128Z">
+        <seg>&lt;f0&gt;Hlavná ponuka&lt;/f0&gt; sa nachádza v hornej časti všetkých súčastí balíka LibreOffice, hneď pod lištou s názvom okna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55376,6 +55432,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131226T150722Z" creationid="milos" creationdate="20131226T150722Z">
         <seg>Druhá úroveň v osnove odpovedá štýlu Osnova 2, tretia úroveň štýlu Osnova 3 atď.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The second toolbar at the top, in a default LibreOffice installation, is the &lt;f0&gt;Formatting&lt;/f0&gt; bar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T100144Z" creationid="milos" creationdate="20170308T100144Z">
+        <seg>Druhý panel nástrojov v hornej časti je panel nástrojov &lt;f0&gt;Formátovanie&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68005,6 +68069,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also download the software by using a Peer-to-Peer client, such as BitTorrent, at the same address.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T100042Z" creationid="milos" creationdate="20170308T100042Z">
+        <seg>Softvér môžeme z rovnakej adresy stiahnuť aj pomocou peer-to-peer klienta (napríklad BitTorrent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also edit the contents of a cell directly in the cell itself by double-clicking on the cell.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140407T074711Z" creationid="milos" creationdate="20140407T074711Z">
@@ -69212,6 +69284,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140703T043931Z" creationid="milos" creationdate="20140311T171319Z">
         <seg>Hypertextové odkazy je možné vkladať pomocou navigátora, čo je jednoduchý spôsob, ako vkladať odkazy do inej časti toho istého dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can join the community and affect the course of the product you use.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20170308T095928Z" creationid="milos" creationdate="20170308T095928Z">
+        <seg>Ktokoľvek má možnosť pridať sa ku komunite, a tak ovplyvňovať smerovanie vývoja produktu.</seg>
       </tuv>
     </tu>
     <tu>
