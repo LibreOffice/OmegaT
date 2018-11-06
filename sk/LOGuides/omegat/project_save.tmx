@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.0.0_1_9236:9237" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1800,6 +1800,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 1 Introducing LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130455Z" creationid="milos" creationdate="20181105T130455Z">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Kapitola 1 Predstavujeme LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 5 Getting started with Calc&lt;/t3&gt;</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20160318T153658Z" creationid="milos" creationdate="20160318T153658Z">
@@ -2463,6 +2471,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140618T105728Z" creationid="milos" creationdate="20131011T135015Z">
         <seg>&lt;f0&gt;Dokumentácia pre LibreOffice je dostupná na stránke &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;http://sk.libreoffice.org/dokumentacia-a-navody/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available at &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130417Z" creationid="milos" creationdate="20181105T130417Z">
+        <seg>&lt;f0&gt;Dokumentácia pre LibreOffice je dostupná na stránke &lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;&lt;f3&gt;https://sk.libreoffice.org/dokumentacia-a-navody/&lt;/f3&gt;&lt;/f2&gt;&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3391,6 +3407,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Microsoft Windows:&lt;/f0&gt; Windows Server 2008, Windows 7, Windows 8/8.1, Windows Server 2012, or Windows 10.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131256Z" creationid="milos" creationdate="20181105T131256Z">
+        <seg>&lt;f0&gt;Microsoft Windows&lt;/f0&gt; Windows Server 2008, Windows 7 alebo Windows 8/8.01, Windows Server 2012 alebo Windows 10. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Microsoft Windows&lt;/f0&gt; XP SP3, Vista, Windows Server 2008, Windows 7, Windows 8/8.1, Windows Server 2012, or Windows 10.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20160604T093210Z" creationid="milos" creationdate="20160604T093210Z">
@@ -4299,6 +4323,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140318T082715Z" creationid="milos" creationdate="20140302T163614Z">
         <seg>&lt;f0&gt;Neskôr, keď vytvoríme dokument pomocou &lt;/f0&gt;&lt;f1&gt;Súbor &gt; Nový&lt;/f1&gt;,&lt;f2&gt; sa použije táto nová šablóna.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;This document is Copyright © 2018 by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T153245Z" creationid="milos" creationdate="20181105T153245Z">
+        <seg>Tento dokument je duševným vlastníctvom dokumentačného tímu LibreOffice Copyright © 2018.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5344,6 +5376,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;24&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Closing LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T153821Z" creationid="milos" creationdate="20181105T130209Z">
+        <seg>&lt;t0&gt;24&lt;/t0&gt;&lt;s1/&gt;| &lt;f2&gt;&lt;/f2&gt;Zatvorenie aplikácie LibreOffice&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;42&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;f2&gt;&lt;t3&gt;Chapter 5 Getting started with Calc&lt;/t3&gt;&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20160318T153636Z" creationid="milos" creationdate="20160318T153636Z">
@@ -5384,10 +5424,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;t0&gt;Chapter 1 Introducing LibreOffice&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130254Z" creationid="milos" creationdate="20181105T130254Z">
+        <seg>&lt;t0&gt;Kapitola 1 Predstavujeme LibreOffice&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0&gt;Chapter 5 Getting started with Calc&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;5&lt;/t2&gt;</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20160318T153650Z" creationid="milos" creationdate="20160318T153650Z">
         <seg>&lt;t0&gt;Kapitola 5 Začíname s programom Calc&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;5&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0&gt;Closing a document&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T153228Z" creationid="milos" creationdate="20181105T130145Z">
+        <seg>&lt;t0&gt;Zatvorenie dokumentu&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7317,6 +7373,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20150223T085604Z" creationid="milos" creationdate="20150223T085345Z">
         <seg>Po aktivovaní Quickstarter-u sa na systémovej lište objaví ikona &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After Quickstarter has been activated, an icon &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;is installed into the system tray at the bottom of the display.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T152158Z" creationid="milos" creationdate="20181105T152158Z">
+        <seg>Po aktivovaní Quickstarter-u sa na systémovej lište objaví ikona &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;&lt;s2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9931,6 +9995,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Based on LibreOffice 6.0.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130840Z" creationid="milos" creationdate="20181105T130840Z">
+        <seg>Určené pre LibreOffice 6.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Basic IDE options</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140321T132728Z" creationid="milos" creationdate="20140321T132728Z">
@@ -10151,6 +10223,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140211T083434Z" creationid="milos" creationdate="20140211T083434Z">
         <seg>V nasledujúcej tabuľke je krátky zoznam bežných matematických vzťahov a ich zodpovedajúce značkovanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below is the case for Writer:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T152301Z" creationid="milos" creationdate="20181105T152301Z">
+        <seg>NIžšie je uvedený prípad pre Writer:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11473,6 +11553,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20150223T084439Z" creationid="milos" creationdate="20150223T084439Z">
         <seg>Kapitola 1 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chapter 1 Introducing LibreOffice</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130536Z" creationid="milos" creationdate="20181105T130536Z">
+        <seg>Kapitola 1 Predstavujeme LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
@@ -15354,6 +15442,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Computers with a macOS do not have a Quickstarter.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131945Z" creationid="milos" creationdate="20181105T131945Z">
+        <seg>Na počítačoch so systémom MacOS nie je program Quickstarter k dispozícii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conditional formatting depends upon the use of styles and the AutoCalculate feature must be enabled.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131101T095508Z" creationid="milos" creationdate="20131101T095508Z">
@@ -18186,6 +18282,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML and PDF.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131029Z" creationid="milos" creationdate="20181105T131029Z">
+        <seg>Program Draw dokáže importovať a ukladať grafiku vo vyše dvadsiatich formátoch, vrátane formátov PNG, HTML a PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Draw can import graphics from many common formats and save them in over 20 formats, including PNG, HTML, PDF, and Flash.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140619T053819Z" creationid="milos" creationdate="20131015T072703Z">
@@ -19569,6 +19673,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140426T123134Z" creationid="milos" creationdate="20140426T123134Z">
         <seg>Všetko, čo budeme robiť s databázou, vždy začína v hlavnom okne databázy (&lt;f0&gt;obrázok &lt;t1&gt;3&lt;/t1&gt;&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130801Z" creationid="milos" creationdate="20181105T130801Z">
+        <seg>Všetko, čo pošlete do mailovej diskusie, vrátane e-mailovej adresy a akýchkoľvek iných osobných informácií, ktoré sú uvedené v správe, je verejne archivované a nemôže byť dodatočne odstránené.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22745,6 +22857,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;shows an example of a tool palette from the Drawing toolbar made into a floating toolbar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181106T090805Z" creationid="milos" creationdate="20181106T090805Z">
+        <seg>Príklad na obrázku &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt; znázorňuje paletu otvorenú z panelu nástrojov Kresba, ktorá bola zmenená na plávajúcu paletu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File GS4208-01HouseholdInventoryTable.odb, distributed along with this chapter, contains the table &lt;f0&gt;Household Inventory&lt;/f0&gt; created according to instructions given in this section.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141005T093934Z" creationid="milos" creationdate="20140803T114820Z">
@@ -24771,6 +24891,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For more information on opening files, see “&lt;bf0&gt;Opening existing documents&lt;/bf0&gt;” on page &lt;bf1&gt;17&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131930Z" creationid="milos" creationdate="20181105T131930Z">
+        <seg>Viac informácii je v časti „&lt;bf0&gt;Otvorenie existujúceho dokumentu&lt;/bf0&gt;“ na strane &lt;bf1&gt;17&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For more information on page styles, see the &lt;f0&gt;Calc Guide Chapter 4 Using Styles and Templates&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131101T141631Z" creationid="milos" creationdate="20131101T141631Z">
@@ -26583,6 +26711,22 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140704T041403Z" creationid="milos" creationdate="20131127T195347Z">
         <seg>V hlavnej ponuke zvolíme &lt;f0&gt;Nástroje &gt; Makrá &gt; Spustiť makro&lt;/f0&gt;, čím otvoríme okno Výber makier (&lt;f1&gt;obrázok &lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Load LibreOffice during system start-up &lt;/f1&gt;(on Windows)&lt;f2&gt; &lt;/f2&gt;or deselect&lt;f3&gt; Enable systray Quickstarter&lt;/f3&gt; on Linux.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T152229Z" creationid="milos" creationdate="20181105T152229Z">
+        <seg>V hlavnej ponuke zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Pamäť&lt;/f0&gt; a zrušíme zaškrtnutie voľby &lt;f1&gt;Načítať LibreOffice&lt;/f1&gt; počas štartu systému (ak používame Windows) alebo &lt;f2&gt;Zapnúť Quickstarter&lt;/f2&gt; v systémovej lište (ak používame Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Load LibreOffice during system start-up (if using Windows) or select Enable systray Quickstarter (if using Linux)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T132056Z" creationid="milos" creationdate="20181105T132056Z">
+        <seg>V hlavnej ponuke zvolíme &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Pamäť&lt;/f0&gt; a zaškrtneme &lt;f1&gt;Načítať LibreOffice počas štartu systému&lt;/f1&gt; (ak používame Windows) alebo &lt;f2&gt;Zapnúť Quickstarter&lt;/f2&gt; v systémovej lište (ak používame Linux).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30772,6 +30916,14 @@ there - I study business informatics.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to use LibreOffice features that require Java it is important that the correct 32 bit or 64 bit edition matches the installed version of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131710Z" creationid="milos" creationdate="20181105T131710Z">
+        <seg>Ak chcete používať možnosti LibreOffice, ktoré potrebujú Javu, je potrebné aby sa jej 32 bitová alebo 64 bitová verzia zhodovala s nainštalovanou verziou LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use all of the fields, click the right double arrow to move all the fields listed under &lt;f0&gt;Available fields &lt;/f0&gt;to the &lt;f1&gt;Fields in the form&lt;/f1&gt; list.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140829T104144Z" creationid="milos" creationdate="20140806T071741Z">
@@ -31153,6 +31305,14 @@ get involved in the project, you're welcome</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131015T072448Z" creationid="milos" creationdate="20131015T072448Z">
         <seg>Impress je kompatibilný s formátom programu Microsoft PowerPoint a dokáže ukladať prezentácie v rôznych grafických formátoch, vrátanie formátu Macromedia Flash (SWF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impress is compatible with Microsoft PowerPoint file format and can also save your work in numerous graphics formats.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131011Z" creationid="milos" creationdate="20181105T131011Z">
+        <seg>Impress je kompatibilný s formátom programu Microsoft PowerPoint a dokáže ukladať prezentácie v rôznych grafických formátoch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33991,6 +34151,14 @@ get involved in the project, you're welcome</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It contains the most-used commands.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T152551Z" creationid="milos" creationdate="20181105T152551Z">
+        <seg>Ten obsahuje najčastejšie používané príkazy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It contains three parts: naming the query, what will be done next after the query is created, and an overview of the selections made using the wizard.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140630T165810Z" creationid="milos" creationdate="20140630T165810Z">
@@ -34697,6 +34865,14 @@ the organisation, and that's what's great.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java is available at no cost.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131306Z" creationid="milos" creationdate="20181105T131306Z">
+        <seg>Java je dostupná bezplatne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java is one of several languages that can be used to extend the software.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131104T102347Z" creationid="milos" creationdate="20131104T102316Z">
@@ -35161,6 +35337,14 @@ the organisation, and that's what's great.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice 6.0 requires one of the following operating systems:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131212Z" creationid="milos" creationdate="20181105T131212Z">
+        <seg>LibreOffice 6.0 vyžaduje jeden z nasledujúcich operačných systémov:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice &lt;i0/&gt;can export documents &lt;i1/&gt;to PDF (Portable Document Format).</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140728T083834Z" creationid="milos" creationdate="20140728T083816Z">
@@ -35293,6 +35477,14 @@ the organisation, and that's what's great.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140328T083606Z" creationid="milos" creationdate="20140328T083606Z">
         <seg>LibreOffice tiež poskytuje podporu pre jazyky ako sú urdčina, hebrejčina a arabčina, a to vďaka podpore pre &lt;i3/&gt;komplexné rozloženie textu (CTL) a písanie &lt;i4/&gt;sprava doľava (RTL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice also provides support for both Complex Text Layout (CTL) and Right to Left (RTL) layout languages (such as Urdu, Hebrew, and Arabic).</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131200Z" creationid="milos" creationdate="20181105T131200Z">
+        <seg>LibreOffice tiež poskytuje podporu pre jazyky ako sú urdčina, hebrejčina a arabčina, a to vďaka podpore pre komplexné rozloženie textu (CTL) a písanie sprava doľava (RTL).</seg>
       </tuv>
     </tu>
     <tu>
@@ -35466,6 +35658,14 @@ the organisation, and that's what's great.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice includes several additional toolbars, whose default setting appear as floating toolbars in response to the current position of the cursor or selection.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181106T090934Z" creationid="milos" creationdate="20181106T090934Z">
+        <seg>LibreOffice poskytuje niekoľko ďalších panelov s nástrojmi, ktoré sa predvolene zobrazujú ako plávajúce panely, a to na základe aktuálnej polohy kurzoru alebo vybraných objektov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice includes the following &lt;i0/&gt;components.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131016T065452Z" creationid="milos" creationdate="20131015T071509Z">
@@ -35591,6 +35791,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140124T144340Z" creationid="milos" creationdate="20140123T103207Z">
         <seg>LibreOffice otvorí predvolený e-mailový program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice provides a single-toolbar alternative to the default double-toolbar setup.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T152510Z" creationid="milos" creationdate="20181105T152510Z">
+        <seg>Okrem základného zobrazenia s dvomi panelmi LibreOffice poskytuje aj možnosť s jedným panelom. </seg>
       </tuv>
     </tu>
     <tu>
@@ -37605,6 +37813,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More information and download links to the appropriate edition for your operating system can be found at: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131501Z" creationid="milos" creationdate="20181105T131329Z">
+        <seg>Viac informácií a odkazy na sťahnutie verzie vhodnej pre váš operačný systém nájdete na: &lt;a0&gt;https://java.com/en/download/manual.jsp&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More information on editing objects and changing attributes can be found in the &lt;f0&gt;Draw Guide Chapter 4 Changing Object Attributes&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140427T192435Z" creationid="milos" creationdate="20140427T192435Z">
@@ -39017,6 +39233,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note for macOS users</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130923Z" creationid="milos" creationdate="20181105T130859Z">
+        <seg>Poznámka pre používateľov systému MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that (unless removed) much of this information is retained in a file whether the file is in LibreOffice’s default OpenDocument format, or has been saved to other formats, including PDF.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131110T213357Z" creationid="milos" creationdate="20131110T213357Z">
@@ -39618,6 +39842,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On a computer using Linux or Windows operating systems, the default installation of LibreOffice does not set the Quickstarter to load automatically.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T132004Z" creationid="milos" creationdate="20181105T132004Z">
+        <seg>Na počítači s operačným systémom Linux alebo Windows sa pri štandardnej inštalácii programu LibreOffice Quickstarter neaktivuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On a computer using a Linux operating system the &lt;f1&gt;Tab&lt;/f1&gt; key method, described below, has to be used.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140428T143457Z" creationid="milos" creationdate="20140427T174055Z">
@@ -39647,6 +39879,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140303T080410Z" creationid="milos" creationdate="20140303T080410Z">
         <seg>Na počítačoch s operačným systémom Linux alebo Windows sa pri štandardnej inštalácii programu LibreOffice Quickstarter neaktivuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On computers operating macOS, only a menu entry for LibreOffice is added to the Applications menu.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131920Z" creationid="milos" creationdate="20181105T131920Z">
+        <seg>Na počítačoch s operačným systémom MacOS sa do ponuky Applications pridá len jedna položka LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43241,6 +43481,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Published February 2018.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130830Z" creationid="milos" creationdate="20181105T130830Z">
+        <seg>Anglický originál bol vydaný vo februári 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Punctuation</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140321T132753Z" creationid="milos" creationdate="20140321T132753Z">
@@ -43412,8 +43660,8 @@ around the world.</seg>
       <tuv lang="EN">
         <seg>Quickstarter is then available at all times, whether LibreOffice is open or not.</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20150223T085352Z" creationid="milos" creationdate="20150223T085352Z">
-        <seg>Quickstarter is then available at all times, whether LibreOffice is open or not.</seg>
+      <tuv lang="SK" changeid="milos" changedate="20181105T152213Z" creationid="milos" creationdate="20150223T085352Z">
+        <seg>Quickstarter je potom k dispozícii vždy, nech už je LibreOffice je spustený, alebo nie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45773,6 +46021,14 @@ around the world.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>See the Advanced Options in Chapter 2 of this guide.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131744Z" creationid="milos" creationdate="20181105T131744Z">
+        <seg>Ďalšie informácie sa nachádzajú v kapitole 2 tejto príručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Orig: odkaz na knihy</note>
       <tuv lang="EN">
         <seg>See the Base Handbook and Base Guide for more information.</seg>
@@ -45899,6 +46155,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20160604T100340Z" creationid="milos" creationdate="20160604T100340Z">
         <seg>Pozri “&lt;bf1&gt;Presúvanie panelovs&lt;/bf1&gt;” na strane &lt;bf2&gt;11&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See “&lt;bf2&gt;Moving toolbars&lt;/bf2&gt;” and “&lt;bf3&gt;Floating toolbars&lt;/bf3&gt;” below for more information on moving and floating these toolbars created from tool palettes.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181106T090909Z" creationid="milos" creationdate="20181106T090909Z">
+        <seg>Viac informácií o presúvaní a plávaní paliet vytvorených z paliet nástrojov nájdeme v častiach „&lt;bf2&gt;Presúvanie panelov&lt;/bf2&gt;“ a „&lt;bf3&gt;Plávajúce panely&lt;/bf3&gt;“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49325,6 +49589,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131011T112559Z" creationid="milos" creationdate="20131011T112559Z">
         <seg>Niektoré klávesové skratky a položky ponuky sú v systéme Mac iné ako v systémoch Windows a Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some keystrokes and menu items are different on macOS from those used in Windows and Linux.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130917Z" creationid="milos" creationdate="20181105T130917Z">
+        <seg>Niektoré klávesové skratky a položky ponuky sú v systéme MacOS iné ako v systémoch Windows a Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57814,6 +58086,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This document is Copyright © 2018 by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130605Z" creationid="milos" creationdate="20181105T130605Z">
+        <seg>Tento dokument je duševným vlastníctvom dokumentačného tímu LibreOffice Copyright © 2018.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dot may be along an edge of the object, or it may be somewhere else; in the example on the right.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140418T092651Z" creationid="milos" creationdate="20140418T092403Z">
@@ -59133,6 +59413,22 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140604T151915Z" creationid="milos" creationdate="20140521T160404Z">
         <seg>K odseku — objekt sa ukotví k odseku a bude sa posúvať s odsekom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To Previous Editions</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T123834Z" creationid="milos" creationdate="20181105T123834Z">
+        <seg>Do predchádzajúceho vydania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To This Edition</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T123816Z" creationid="milos" creationdate="20181105T123816Z">
+        <seg>Do tohto vydania</seg>
       </tuv>
     </tu>
     <tu>
@@ -61358,6 +61654,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To previous editions</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130742Z" creationid="milos" creationdate="20181105T130742Z">
+        <seg>Do predchádzajúcich vydaní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To print a brochure on a single-sided printer:</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140122T063019Z" creationid="milos" creationdate="20140121T201534Z">
@@ -62147,6 +62451,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140422T172900Z" creationid="milos" creationdate="20140414T161441Z">
         <seg>Na pravej strane každého otvoreného podpanelu sa nachádza tlačidlo &lt;f0&gt;Zatvoriť&lt;/f0&gt; (&lt;f1&gt;X&lt;/f1&gt;), ktorým možno podpanel zatvoriť, pričom zostane otvorený len panel so záložkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To this edition</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130618Z" creationid="milos" creationdate="20181105T130618Z">
+        <seg>Do tohto vydania</seg>
       </tuv>
     </tu>
     <tu>
@@ -64255,6 +64567,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Quickstarter on Linux or Windows</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130949Z" creationid="milos" creationdate="20181105T130949Z">
+        <seg>Použitie programu Quickstarter v systémoch Windows a Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Quickstarter on Windows or Linux</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140303T072447Z" creationid="milos" creationdate="20140303T072447Z">
@@ -64995,6 +65315,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140424T064839Z" creationid="milos" creationdate="20140328T085020Z">
         <seg>Viditeľnosť ikon je v závislosti na operačnom systéme indikovaná buď orámovaním ikony (&lt;f1&gt;obrázok &lt;t2&gt;5&lt;/t2&gt;&lt;/f1&gt;) alebo znakom zaškrtnutia vedľa ikony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Visible icons on a toolbar are indicated by an outline around the icon (Figure &lt;t1&gt;5&lt;/t1&gt;) or by a check mark beside the icon, depending on your operating system.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181106T091136Z" creationid="milos" creationdate="20181106T091136Z">
+        <seg>Viditeľnosť ikon je v závislosti na operačnom systéme indikovaná buď orámovaním ikony obrázok &lt;t1&gt;5&lt;/t1&gt;) alebo znakom zaškrtnutia vedľa ikony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67925,6 +68253,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also add icons and create new toolbars, as described in &lt;f0&gt;Chapter 14 Customizing LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181106T091052Z" creationid="milos" creationdate="20181106T091052Z">
+        <seg>Je tiež možné pridať ikony a vytvoriť nové panely, tak ako je to opísané v &lt;f0&gt;kapitole 14, Prispôsobenie LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also add icons and create new toolbars, as described in &lt;f1&gt;Chapter 14 Customizing LibreOffice&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131016T074739Z" creationid="milos" creationdate="20131016T074739Z">
@@ -68926,6 +69262,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181106T091034Z" creationid="milos" creationdate="20181106T091034Z">
+        <seg>Panely nástrojov je možné prispôsobiť niekoľkými spôsobmi, vrátane výberu ikon, ktoré budú viditeľné, a uzamknutia panelu na určité miesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can customize word completion from the &lt;f0&gt;Word Completion&lt;/f0&gt; page of the AutoCorrect dialog:</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131021T073923Z" creationid="milos" creationdate="20131021T073923Z">
@@ -68987,6 +69331,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131017T165737Z" creationid="milos" creationdate="20131017T165412Z">
         <seg>Navigátor je možné ukotviť na okraj hlavného okna LibreOffice, alebo ho ponechať ako plávajúce okno (podrobnosti v časti „&lt;rf0&gt;Ukotvené / plávajúce dialógové &lt;/rf0&gt;“ na strane &lt;rf1&gt;13&lt;/rf1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can dock these toolbars to the top or bottom of the main window, or reposition them on your computer display (see “&lt;rf0&gt;Moving toolbars&lt;/rf0&gt;” above).</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181106T091024Z" creationid="milos" creationdate="20181106T091024Z">
+        <seg>Tieto panely je možné ukotviť v hornej, dolnej alebo bočných častiach okna (viac v časti „&lt;rf0&gt;Presúvanie panelov&lt;/rf0&gt;“ vyššie).</seg>
       </tuv>
     </tu>
     <tu>
@@ -70351,6 +70703,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131102T173338Z" creationid="milos" creationdate="20131102T173338Z">
         <seg>Nie je pritom dôležité, či ide o úplného začiatočníka alebo či záujemca už má skúsenosti s iným kancelárskym balíkom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;http://www.gnu.org/licenses/gpl.html&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;http://creativecommons.org/licenses/by/4.0/&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt;), version 4.0 or later.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T153531Z" creationid="milos" creationdate="20181105T153531Z">
+        <seg>Dokument je možné šíriť alebo upravovať za podmienok licencie GNU General Public License (&lt;/f0&gt;&lt;a1&gt;&lt;f2&gt;https://www.gnu.org/licenses/gpl.html&lt;/f2&gt;&lt;/a1&gt;&lt;f3&gt;), verzia 3 alebo novšia, alebo za podmienok Creative Commons Attribution License (&lt;/f3&gt;&lt;a4&gt;&lt;f5&gt;https://creativecommons.org/licenses/by/4.0/&lt;/f5&gt;&lt;/a4&gt;&lt;f6&gt;), verzia 4.0 alebo novšia&lt;/f6&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73073,6 +73433,22 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140430T191020Z" creationid="milos" creationdate="20140430T191020Z">
         <seg>umiestnenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS equivalent</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T130938Z" creationid="milos" creationdate="20181105T130938Z">
+        <seg>Ekvivalent pre MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS users can also get two versions of LibreOffice from the App Store: LibreOffice Vanilla (small fee) and LibreOffice-from-Collabora (an enterprise-ready version; small fee).</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20181105T131846Z" creationid="milos" creationdate="20181105T131846Z">
+        <seg>Používatelia MacOS môžu získať dve verzie z App Store: LibreOffice Vanilla (malý poplatok) and LibreOffice-from-Collabora (verzia pre profesionálne použitie; malý poplatok).</seg>
       </tuv>
     </tu>
     <tu>
