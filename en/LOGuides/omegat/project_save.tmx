@@ -1,23 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.6" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="DE"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN">
-        <seg>Getting Started Guide</seg>
+      <tuv lang="DE">
+        <seg>&lt;f1&gt;&lt;t2&gt;Einführung in Base&lt;/t2&gt;&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20141008T082329Z" creationid="milos" creationdate="20141008T082329Z">
-        <seg>Getting Started Guide</seg>
+      <tuv lang="EN" changeid="milos" changedate="20181221T133918Z" creationid="milos" creationdate="20181221T133918Z">
+        <seg>&lt;f1&gt;&lt;t2&gt; Introduction to Base &lt;/t2&gt; &lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
-        <seg>Source Text</seg>
+      <tuv lang="DE">
+        <seg>Eine einfache Datenbank – Testbeispiel im Detail</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20140927T172904Z" creationid="milos" creationdate="20140927T172904Z">
-        <seg>Zdrojový text</seg>
+      <tuv lang="EN" changeid="milos" changedate="20181221T133735Z" creationid="milos" creationdate="20181221T133735Z">
+        <seg>A simple database - test example in detail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Einführung in Base</seg>
+      </tuv>
+      <tuv lang="EN" changeid="milos" changedate="20181221T133710Z" creationid="milos" creationdate="20181221T133710Z">
+        <seg>Introduction to Base</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Kapitel 1&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="milos" changedate="20181221T133846Z" creationid="milos" creationdate="20181221T133846Z">
+        <seg>Chapter 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Überblick über grundlegende Funktionen</seg>
+      </tuv>
+      <tuv lang="EN" changeid="milos" changedate="20181221T133721Z" creationid="milos" creationdate="20181221T133721Z">
+        <seg>Overview of basic functions</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
