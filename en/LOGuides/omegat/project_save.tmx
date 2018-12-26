@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Ab Version LO 6.1 funktioniert «Firebird» standardmäßig.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T002908Z" creationid="dan" creationdate="20181226T002842Z">
+        <seg>As of version LO 6.2, “Firebird” works by default.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Abfrage</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181225T215306Z" creationid="dan" creationdate="20181225T215306Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T001819Z" creationid="dan" creationdate="20181226T001819Z">
         <seg>This handbook seeks to explain the differences between spreadsheets and databases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Dieses Handbuch zeigt an verschiedenen Stellen den Unterschied zwischen den beiden internen Datenbanksystemen auf, «(&lt;f0&gt;Hsqldb&lt;/f0&gt;, &lt;f1&gt;Firebird&lt;/f1&gt;)» würde bedeuten: Funktioniert mit der HSQLDB, nicht aber mit Firebird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T003146Z" creationid="dan" creationdate="20181226T003146Z">
+        <seg>This manual shows in different places the difference between the two internal database systems, “(&lt;f0&gt; Hsqldb &lt;/f0&gt;, &lt;f1&gt; Firebird &lt;/f1&gt;)” would mean: Works with the HSQLDB, but not with Firebird.</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +474,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181225T215154Z" creationid="dan" creationdate="20181225T215154Z">
         <seg>Activate the navigation bar of the main form in the subform also</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Neue Datenbanken sollten ab LO 6.1 mit «Firebird» angelegt werden, da die HSQLDB-Unterstützung zukünftig wegfallen wird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T002946Z" creationid="dan" creationdate="20181226T002946Z">
+        <seg>New databases should be created starting with LO 6.2 with “Firebird”. since the HSQLDB support will be discontinued in the future.</seg>
       </tuv>
     </tu>
     <tu>
