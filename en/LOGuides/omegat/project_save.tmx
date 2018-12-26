@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dies geht entweder direkt beim Abspeichern über den Speicherdialog oder durch Neugründung von Verzeichnissen über &lt;f0&gt;Einfügen → Ordner&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T013048Z" creationid="dan" creationdate="20181226T013048Z">
+        <seg>This can be done either directly during saving via the save dialog or by re-establishing directories via &lt;f0&gt; Insert → Folder &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Diese Datenbankdateien sollten immer wieder gesichert werden, damit der Datenverlust gering gehalten wird.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T011934Z" creationid="dan" creationdate="20181226T011934Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T011842Z" creationid="dan" creationdate="20181226T011842Z">
         <seg>A look at the bug list can help you to understand differences between documentation and your own program version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Eine Base-Datei ist eigentlich nur ein gepacktes Verzeichnis, in dem Informationen für die verschiedenen Arbeitsbereiche von Base stecken.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012802Z" creationid="dan" creationdate="20181226T012802Z">
+        <seg>Basically, a base file is just a zipped directory that contains information for Base's various workspaces.</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,10 +702,26 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>In den Arbeitsbereichen «Formulare» und «Berichte» können die jeweiligen Elemente auch innerhalb einer Verzeichnisstruktur angeordnet werden:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T013020Z" creationid="dan" creationdate="20181226T013020Z">
+        <seg>In the “Forms” and “Reports” workspaces, the respective elements are also arranged within a directory structure:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>In der Fachsprache wird statt von Datenbanken von einer Benutzeroberfläche und einem «Datenbanksystem» gesprochen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T002246Z" creationid="dan" creationdate="20181226T002246Z">
         <seg>In technical language, instead of databases, one speaks of a user interface and a “database system”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>In der täglichen Nutzung startet eine Base-Datei erst einmal mit der folgenden Ansicht:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012817Z" creationid="dan" creationdate="20181226T012817Z">
+        <seg>In daily use, a base file starts with the following view:</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +738,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181225T214234Z" creationid="dan" creationdate="20181225T214204Z">
         <seg>Content</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Je nach gewähltem Arbeitsbereich können bestimmte Aufgaben zur Neuerstellung der Elemente in Angriff genommen werden oder entsprechend fertiggestellte Elemente aufgerufen werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012950Z" creationid="dan" creationdate="20181226T012950Z">
+        <seg>Depending on the selected workspace, certain tasks for rebuilding the elements can be accomplished or correspondingly completed elements can be viewed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +938,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T002014Z" creationid="dan" creationdate="20181226T002014Z">
         <seg>At the beginning, it will be briefly explained what a database can do in general.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Zur Arbeitsumgebung von Base gehören insgesamt vier Arbeitsbereiche: Tabellen, Abfragen, Formulare und Berichte.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012828Z" creationid="dan" creationdate="20181226T012828Z">
+        <seg>Base's work environment has four workspaces: tables, queries, forms, and reports.</seg>
       </tuv>
     </tu>
     <tu>
