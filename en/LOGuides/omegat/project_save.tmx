@@ -8,8 +8,16 @@
       <tuv lang="DE">
         <seg>"Tabellenname"."Feldname" → Tabellen und Felder in Datenbanken werden in doppelten Anführungszeichen oben wieder gegeben.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20181226T012158Z" creationid="dan" creationdate="20181226T012158Z">
-        <seg>Tables and fields in databases are displayed in double quotes at the top for "Table Name". "Field Name".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012316Z" creationid="dan" creationdate="20181226T012158Z">
+        <seg>Tables and fields in databases are displayed in double quotes at the top: "Table Name". "Field Name".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>'Wert' → Werte, die in die Datenbank eingegeben oder aus ihr gelesen werden, sollen in einfachen Anführungszeichen erscheinen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012432Z" creationid="dan" creationdate="20181226T012214Z">
+        <seg> Values ​​entered or read from the database should appear in single quotes: 'Value'.</seg>
       </tuv>
     </tu>
     <tu>
