@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dabei wird auch noch einmal der Name des Nutzers deutlich hervorgehoben.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T014144Z" creationid="dan" creationdate="20181226T014144Z">
+        <seg>At the same time, the name of the user is clearly highlighted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Daneben sind viele Beispieldatenbanken&lt;f0&gt;&lt;f1&gt;&lt;t2/&gt;&lt;/f1&gt;&lt;/f0&gt; beigefügt, die nur auf spezielle Probleme zugeschnitten sind:</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T005440Z" creationid="dan" creationdate="20181226T005440Z">
@@ -514,6 +522,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T011827Z" creationid="dan" creationdate="20181226T011827Z">
         <seg>The following link leads to the currently unresolved regressions: &lt;https://bugs.documentfoundation.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=REOPENED&amp;bug_status=NEEDINFO&amp;component=Base&amp;keywords=regression&amp;keywords_type=allwords&amp;product=LibreOffice&amp;query_format=advanced&amp;resolution=-- - &lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Ausleihdaten des aktuell markierten Nutzers werden in den darunterliegenden Feldern angezeigt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T014133Z" creationid="dan" creationdate="20181226T014133Z">
+        <seg>The loan data of the currently selected user is displayed in the fields below.</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Hat ein Nutzer ein Buch entliehen und müsste es bereits zurückgegeben werden, so steht das Tabellenkontrollfeld «aktuelle Ausleihe» erst einmal nicht zur Verfügung.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T014308Z" creationid="dan" creationdate="20181226T014308Z">
+        <seg>If a user has borrowed a book and it must already be returned, the table control field "current loan” control is not available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Hier gibt es eine experimentelle Funktion zur Migration, die tunlichst nur nach einer Sicherung der Datenbankdatei mit einer Kopie dieser Datei versucht werden sollte.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T012007Z" creationid="dan" creationdate="20181226T012007Z">
@@ -862,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Neue Mediennutzer können direkt in das Tabellenkontrollfeld eingegeben werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T014120Z" creationid="dan" creationdate="20181226T014120Z">
+        <seg>New media users can be entered directly in the table control field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Obwohl die Basis für eine Datenbank durch Tabellen gebildet wird, startet Base mit der Formularansicht, weil Formulare in der Regel die Elemente sind, mit denen die tägliche Datenbankarbeit vonstatten geht.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T013343Z" creationid="dan" creationdate="20181226T013343Z">
@@ -906,6 +938,14 @@
       </tuv>
       <tuv lang="EN" changeid="milos" changedate="20181221T134121Z" creationid="milos" creationdate="20181221T134009Z">
         <seg>You may use this document under the terms of the GNU General Public License (&lt;a0&gt;http://www.gnu.org/licenses/gpl.html &lt;/a0&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a1&gt; http://creativecommons.org/licenses/by/3.0/ &lt;/a1&gt;), version 3.0 or higher, modify and / or share.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Stattdessen wird angegeben, dass die Ausleihe zur Zeit gesperrt ist.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T014319Z" creationid="dan" creationdate="20181226T014319Z">
+        <seg>Instead, it states that the loan is currently locked.</seg>
       </tuv>
     </tu>
     <tu>
