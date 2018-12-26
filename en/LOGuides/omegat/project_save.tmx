@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="DE">
+        <seg>"Tabellenname"."Feldname" → Tabellen und Felder in Datenbanken werden in doppelten Anführungszeichen oben wieder gegeben.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012158Z" creationid="dan" creationdate="20181226T012158Z">
+        <seg>Tables and fields in databases are displayed in double quotes at the top for "Table Name". "Field Name".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>10</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181225T215014Z" creationid="dan" creationdate="20181225T215014Z">
@@ -238,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Base-Dateien sind Dateien, in denen die interne Datenbank mit abgespeichert wird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T011923Z" creationid="dan" creationdate="20181226T011923Z">
+        <seg>Base files are files in which the internal database is stored.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Beeinflussung eines Textfeldinhaltes durch eine Formel</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181225T215446Z" creationid="dan" creationdate="20181225T215446Z">
@@ -414,6 +430,22 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Besonderes Augenmerk gilt hier der Migration von der internen HSQLDB zur Firebird-Datenbank.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T011953Z" creationid="dan" creationdate="20181226T011953Z">
+        <seg>Special attention is paid to the migration from the internal HSQLDB to the Firebird database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Besonders ärgerlich sind hier die «Regressionen», also Rückschritte von einer vorhergehenden Version zur gerade aktuellen Version.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T011804Z" creationid="dan" creationdate="20181226T011804Z">
+        <seg>Particularly annoying here are the “regressions”. that is, regressions from a previous version to the current version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181225T212927Z" creationid="dan" creationdate="20181225T212927Z">
@@ -462,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Der folgende Link führt zu den momentan noch offenen Regressionen: &lt;a0&gt;https://bugs.documentfoundation.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=REOPENED&amp;bug_status=NEEDINFO&amp;component=Base&amp;keywords=regression&amp;keywords_type=allwords&amp;product=LibreOffice&amp;query_format=advanced&amp;resolution=---&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T011827Z" creationid="dan" creationdate="20181226T011827Z">
+        <seg>The following link leads to the currently unresolved regressions: &lt;https://bugs.documentfoundation.org/buglist.cgi?bug_status=UNCONFIRMED&amp;bug_status=NEW&amp;bug_status=REOPENED&amp;bug_status=NEEDINFO&amp;component=Base&amp;keywords=regression&amp;keywords_type=allwords&amp;product=LibreOffice&amp;query_format=advanced&amp;resolution=-- - &lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die Migration sollte tunlichst nicht versucht werden bevor eine Sicherungskopie der *.odb-Datei erfolgt ist.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T003501Z" creationid="dan" creationdate="20181226T003501Z">
@@ -482,6 +522,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T004729Z" creationid="dan" creationdate="20181226T004729Z">
         <seg>One database has the name “Media_without_Macros.odb”. the other database has been correspondingly extended with macros and is called “Media_with_Macros.odb”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Diese Datenbankdateien sollten immer wieder gesichert werden, damit der Datenverlust gering gehalten wird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T011934Z" creationid="dan" creationdate="20181226T011934Z">
+        <seg>These database files should always be backed up to minimize data loss.</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +570,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T003438Z" creationid="dan" creationdate="20181226T003438Z">
         <seg>This module then requires many additional modifications, as functions in both systems are sometimes not identical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Ein Blick auf die Bug-Liste kann also helfen, Unterschiede zwischen Dokumentation und eigener Programmversion zu verstehen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T011842Z" creationid="dan" creationdate="20181226T011842Z">
+        <seg>A look at the bug list can help you to understand differences between documentation and your own program version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Hier gibt es eine experimentelle Funktion zur Migration, die tunlichst nur nach einer Sicherung der Datenbankdatei mit einer Kopie dieser Datei versucht werden sollte.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012007Z" creationid="dan" creationdate="20181226T012007Z">
+        <seg>Here is an experimental migration feature that should only be attempted after backing up the database file with a copy of this file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Hinweis</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T002028Z" creationid="dan" creationdate="20181226T002028Z">
@@ -610,6 +674,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T002246Z" creationid="dan" creationdate="20181226T002246Z">
         <seg>In technical language, instead of databases, one speaks of a user interface and a “database system”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>In diesem Handbuch werden Anführungszeichen mit unterschiedlichen Intentionen verwendet:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20181226T012019Z" creationid="dan" creationdate="20181226T012019Z">
+        <seg>This guide uses quotes with different intentions:</seg>
       </tuv>
     </tu>
     <tu>
