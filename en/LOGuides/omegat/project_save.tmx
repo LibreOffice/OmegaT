@@ -1768,6 +1768,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Bei der intensiveren Nutzung von Base vor allem mit Makros kann es zu Verwechselungen von Tabellenbezeichnungen, Abfragebezeichnungen, Formularbezeichnungen und Berichtsbezeichnungen führen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T192228Z" creationid="dan" creationdate="20190118T192228Z">
+        <seg>The more intensive use of Base, especially with macros, can lead to the confusion of table names, query names, form labels, and report labels.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Bei einer Verlängerung wurde in der Tabelle "Einstellungen" vermerkt, dass der Wert '1' für eine Verlängerung von 7 Tagen steht.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T155050Z" creationid="dan" creationdate="20190115T155050Z">
@@ -5097,6 +5105,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Sie wird automatisch beim Abspeichern des Datensatzes erledigt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T192135Z" creationid="dan" creationdate="20190118T192135Z">
+        <seg>It is automatically done when the record is saved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>So ein einzigartiges Schlüsselfeld ist für die eingebettete Datenbank notwendig.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T190807Z" creationid="dan" creationdate="20190118T190807Z">
@@ -5365,6 +5381,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Um eine versehentliche Änderung des Formulars zu vermeiden kann über &lt;f0&gt;Datei &gt; Eigenschaften &gt; Sicherheit&lt;/f0&gt; die Datei schreibgeschützt geöffnet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Um hier eine deutlichere Unterscheidung zu ermöglichen, werden häufig Kürzel vor die Namensbezeichnungen gesetzt:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T192248Z" creationid="dan" creationdate="20190118T192248Z">
+        <seg>In order to make a clearer distinction here, abbreviations are often used in front of the name designations: &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5857,6 +5881,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>tblName</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T192321Z" creationid="dan" creationdate="20190118T192321Z">
+        <seg>tblname</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>und einiges mehr</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T170213Z" creationid="dan" creationdate="20181220T170213Z">
@@ -6059,8 +6091,8 @@
       <tuv lang="DE">
         <seg>→ Tabellenbezeichnung («tbl» steht für «table»)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&gt; Tabellenbezeichnung («tbl» steht für «table»)&lt;br0/&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190118T192407Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>→ Table name (“tbl” stands for “table”) &lt;br0/&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
