@@ -2304,6 +2304,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Das Speichern eines einzelnen Elementes wie der Tabelle wird deshalb nicht direkt in die Datenbankdatei selbst geschrieben.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T193429Z" creationid="dan" creationdate="20190118T193429Z">
+        <seg>Therefore, saving a single element such as the table is not written directly to the database file itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Das Speichersymbol in Tabellen zeigt zwar eine Speicherung beim Datensatzwechsel an.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T184857Z" creationid="dan" creationdate="20190115T184857Z">
@@ -2696,6 +2704,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Die Datenbankdatei ist ein gepacktes Verzeichnis von einzelnen Dateien.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T193409Z" creationid="dan" creationdate="20190118T193409Z">
+        <seg>The database file is a packed directory of individual files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die Erstellung einer Datenbank wird in «Neue Datenbank als interne Datenbank» abgehandelt.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T185156Z" creationid="dan" creationdate="20190115T185156Z">
@@ -2968,6 +2984,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Die für dieses Handbuch erstellten Beispieldatenbanken folgen dieser Namensgebung nicht.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T193328Z" creationid="dan" creationdate="20190118T193328Z">
+        <seg>The sample databases created for this guide do not follow this naming convention.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die gesamten Daten sind in der *.odb-Datei mit abgespeichert und diese Datei ist nur für einen Benutzer nicht schreibgeschützt zu öffnen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190101T041548Z" creationid="dan" creationdate="20190101T015628Z">
@@ -3004,6 +3028,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T193540Z" creationid="dan" creationdate="20190115T193540Z">
         <seg>Most implementations can be transferred to databases such as MySQL, PostgreSQL etc. and applied accordingly.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die umfangreichsten Datenbanken dieses Handbuches sind aber bereits entstanden, bevor dieser Vorschlag zur Benennung auftauchte.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T193356Z" creationid="dan" creationdate="20190118T193356Z">
+        <seg>However, the most extensive databases in this manual have already been developed before this proposal for designation appeared.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3493,6 +3525,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T172828Z" creationid="dan" creationdate="20190115T172828Z">
         <seg>A once completed * .odb file, which is then only fed with data, will not be saved again via the memory button.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Eine entsprechende Benennung wäre bei umfangreichen Datenbanken von Anfang an sinnvoll.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T193341Z" creationid="dan" creationdate="20190118T193341Z">
+        <seg>An appropriate naming would be useful for large databases from the beginning.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6075,8 +6115,8 @@
       <tuv lang="DE">
         <seg>→ Abfragebezeichnung («qry» steht für «query»)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&gt; Abfragebezeichnung («qry» steht für «query»)&lt;br0/&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190118T193234Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>→ query name (“qry” stands for “query”) &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6091,8 +6131,8 @@
       <tuv lang="DE">
         <seg>→ Formularbezeichnung («frm» steht für «form»)&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&gt; Formularbezeichnung («frm» steht für «form»)&lt;br0/&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190118T193302Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>→ Form name (“frm” stands for “form”) &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
