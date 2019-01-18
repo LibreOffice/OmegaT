@@ -2066,8 +2066,8 @@
       <tuv lang="DE">
         <seg>Da nicht so sehr viele unterschiedliche Sportarten in Frage kommen, wird hier nicht der automatisch hoch zählende Primärschlüssel gewählt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190118T201758Z" creationid="dan" creationdate="20190118T201758Z">
-        <seg>Since not so many different sports come into question, not the automatically high-counting primary key is chosen here.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190118T204349Z" creationid="dan" creationdate="20190118T201758Z">
+        <seg>Since not so many different sports come into question, the automatically high-counting primary key is not chosen here.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2620,6 +2620,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Deswegen: &lt;/f0&gt;&lt;f1&gt;Allgemein &gt; Titel &gt; Sportart&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die 5 Zeichen reichen aus, um damit auch passende Kürzel für die Sportarten zu finden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T204511Z" creationid="dan" creationdate="20190118T204511Z">
+        <seg>The 5 characters are enough to find suitable abreviations for the sports.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5365,6 +5373,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T204541Z" creationid="dan" creationdate="20190112T204541Z">
         <seg>Instead, it states that the loan is currently locked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Stattdessen wird der Feldtyp auf «Text» belassen, aber auf 5 Zeichen begrenzt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T204434Z" creationid="dan" creationdate="20190118T204434Z">
+        <seg>Instead, the field type is left on “text” but limited to 5 characters.</seg>
       </tuv>
     </tu>
     <tu>
