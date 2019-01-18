@@ -2064,6 +2064,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Da nicht so sehr viele unterschiedliche Sportarten in Frage kommen, wird hier nicht der automatisch hoch zählende Primärschlüssel gewählt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T201758Z" creationid="dan" creationdate="20190118T201758Z">
+        <seg>Since not so many different sports come into question, not the automatically high-counting primary key is chosen here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Da noch kein Feld enthalten ist, das ein Datum speichern kann, gründen wir einfach ein neues Feld mit dem &lt;f6&gt;Feldname → Datum&lt;/f6&gt; und dem &lt;f7&gt;Feldtyp → Datum&lt;/f7&gt;&lt;f8&gt;.&lt;/f8&gt; In der Tabelle "Filter" wird jetzt nicht nur die "Leser_ID" ("Filter"."Integer") sondern auch das "Leih_Datum" ("Filter"."Datum") gespeichert.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -2914,8 +2922,8 @@
       <tuv lang="DE">
         <seg>Die Tabelle soll die Teilnehmer und Teilnehmerinnen enthalten.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190118T191953Z" creationid="dan" creationdate="20190118T190636Z">
-        <seg>The table should contain the male and female athetes.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190118T201222Z" creationid="dan" creationdate="20190118T190636Z">
+        <seg>The table should contain the male and female s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,8 +2962,8 @@
       <tuv lang="DE">
         <seg>Die Teilnehmer können jetzt eingegeben werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190118T193554Z" creationid="dan" creationdate="20190118T193554Z">
-        <seg>The athetes can now be entered.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190118T201222Z" creationid="dan" creationdate="20190118T193554Z">
+        <seg>The s can now be entered.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3781,6 +3789,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T191500Z" creationid="dan" creationdate="20190118T191500Z">
         <seg>It will then store integers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es wird eine Tabelle "Sportarten" erstellt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T201249Z" creationid="dan" creationdate="20190118T201249Z">
+        <seg>A "Sports" table will be created.</seg>
       </tuv>
     </tu>
     <tu>
