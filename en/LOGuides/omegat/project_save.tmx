@@ -1536,6 +1536,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Ansonsten lassen sich keine Datensätze in die Tabelle eingeben.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T190818Z" creationid="dan" creationdate="20190118T190818Z">
+        <seg>Otherwise, no records can be entered in the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Anzeige von Bildern &lt;ts0/&gt;und seit LO 5.0 auch *.pdf-Dateien (1. Seite) &lt;te1/&gt;aus &lt;t2/&gt;einer Datenbank und Neueingabe von Bildern&lt;ts3/&gt; und seit LO 5.0 auch anderen Dateien&lt;te4/&gt;&lt;ts5/&gt;, abhängig von &lt;te6/&gt;&lt;ts7/&gt;der Einstellung Extras → Optionen → LibreOffice → Allgemein&lt;te8/&gt;&lt;tc9/&gt;&lt;ts10/&gt;→ Dialoge zum Öffnen/Speichern und de&lt;te11/&gt;&lt;ts12/&gt;n Systemdialogen des Betriebssystems, &lt;te13/&gt;in eine Datenbank über eine Pfadangabe</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -3176,6 +3184,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dieses Schlüsselfeld wird bei Datenbanken als «Primärschlüssel» bezeichnet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T190844Z" creationid="dan" creationdate="20190118T190844Z">
+        <seg>This key field is referred to as a “primary key” in databases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dieses Vorwort beruht auf dem englischsprachigen Vorwort zum „Getting Started Guide“, Version 3.4, aufgestellt von Jean Hollis Weber.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T161455Z" creationid="dan" creationdate="20181220T161323Z">
@@ -3333,6 +3349,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190101T045151Z" creationid="dan" creationdate="20190101T021542Z">
         <seg>A description of this in relation to the HSQLDB is provided in the appendix of this manual in chapter «&lt;ts2/&gt; Database Connection to an External HSQLDB&lt;te3/&gt;&lt;tc4/&gt;&lt;f5&gt;»&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Eine Garantie, dass das auf Dauer funktioniert, ist das aber nicht.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191228Z" creationid="dan" creationdate="20190118T191228Z">
+        <seg> That this works in the long run is not a guarantee.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3541,6 +3565,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Es kann auch &lt;/f0&gt;&lt;f1&gt;F5&lt;/f1&gt;&lt;f2&gt; gedrückt oder der Weg über &lt;/f2&gt;&lt;f3&gt;Bearbeiten &gt; Abfrage ausführen&lt;/f3&gt;&lt;f4&gt; gewählt werden.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es könnte natürlich auch ein anderes Feld für diese Eigenschaft genutzt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T190900Z" creationid="dan" creationdate="20190118T190900Z">
+        <seg>Of course, another field could be used for this property.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4237,6 +4269,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T201236Z" creationid="dan" creationdate="20190112T201236Z">
         <seg>In daily use, a base file starts with the following view:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>In diesem Fall könnte es helfen, zwei Felder zusammen zu einem gemeinsamen Primärschlüssel zu erklären.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191102Z" creationid="dan" creationdate="20190118T191102Z">
+        <seg>In this case, it might help to declare two fields together as a common primary key.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5493,6 +5533,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Wird aber &lt;f3&gt;Aktiviert &gt; Nein&lt;/f3&gt; gestellt, so kann dort eine Auswahl nicht mehr stattfinden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wird aber z. B. der "Nachname" alleine dafür genutzt, so können nicht zwei Personen mit gleichem Nachnamen abgespeichert werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191030Z" creationid="dan" creationdate="20190118T191030Z">
+        <seg>But for example, if the "last name" is used solely for this, then two people with the same last name can not be saved.</seg>
       </tuv>
     </tu>
     <tu>
