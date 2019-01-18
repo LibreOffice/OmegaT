@@ -376,6 +376,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;CREATE DATABASE libretest;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T200404Z" creationid="dan" creationdate="20190118T200404Z">
+        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;CREATE DATABASE FreeTest;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;DELETE FROM mysql.user WHERE User='';&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T201818Z" creationid="dan" creationdate="20190115T201818Z">
