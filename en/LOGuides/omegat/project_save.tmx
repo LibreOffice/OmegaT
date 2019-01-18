@@ -784,6 +784,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Die Feldeigenschaft des Feldes "ID" wird bearbeitet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191634Z" creationid="dan" creationdate="20190118T191634Z">
+        <seg>The field property of the field "ID" is edited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;Die LibreOffice-Gemeinschaft, manchmal wegen ihrer Internationalität auch Community bezeichnet, entwickelt nicht nur die Software LibreOffice, sondern bietet auch kostenfreie, freiwilligenbasierende Unterstützung.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T172413Z" creationid="dan" creationdate="20181220T172413Z">
@@ -904,6 +912,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Durch die Einstellung des Auto-Wertes sollte beim Verlassen der Feldtypenauswahl auf dem Zeilenkopf ein Schlüsselsymbol zeigen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191723Z" creationid="dan" creationdate="20190118T191723Z">
+        <seg>Setting the Auto value should show a key icon when exiting the field type selection on the row header.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;Ein so erstellter Bericht ist also umfangreicher als ein &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;Serienbrief&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt;, der mit Writer erstellt wird: er stellt automatisch alle Datensätze zusammen, die gedruckt werden sollen und ordnet den zusätzlichen Text entsprechend an.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T164512Z" creationid="dan" creationdate="20190115T164512Z">
@@ -940,6 +956,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T173607Z" creationid="dan" creationdate="20190115T173607Z">
         <seg>&lt;f0&gt; For &lt;/ f0&gt; &lt;f1&gt; Firebird &lt;/ f1&gt; &lt;f2&gt; for the time being: Data will not be saved automatically.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;Für den Geburtstag ist noch der &lt;/f0&gt;&lt;f1&gt;Feldtyp&lt;/f1&gt;&lt;f2&gt; entsprechend auf «Datum» einzustellen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191750Z" creationid="dan" creationdate="20190118T191750Z">
+        <seg>For the birthday the &lt;f0&gt; field type &lt;/f0&gt; has to be set to “Date”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2048,6 +2072,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dadurch wird gewährleistet, dass nur gültige Datumseingaben aufgenommen werden und außerdem mit Hilfe das Datums Sortierungen durchgeführt oder z. B. das Alter berechnet werden kann.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191826Z" creationid="dan" creationdate="20190118T191826Z">
+        <seg>This ensures that only valid date entries are recorded and, in addition, sorting is performed using the date or for example the age can be calculated.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dafür enthält die Datenbank eine gesonderte Tabelle mit der Bezeichnung "Einstellungen".</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T214314Z" creationid="dan" creationdate="20190112T214314Z">
@@ -2324,6 +2356,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T165214Z" creationid="dan" creationdate="20181226T165214Z">
         <seg>The entire manual mainly refers to two sample databases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Das zeigt an, dass dieses Feld den Primärschlüssel der Tabelle bildet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191733Z" creationid="dan" creationdate="20190118T191733Z">
+        <seg>This indicates that this field is the primary key of the table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3120,6 +3160,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dieser Feldtyp hat den Vorteil, dass er bei der eingebetteten &lt;/f2&gt;&lt;tc3/&gt;&lt;ts4/&gt;&lt;f5&gt;Datenbank&lt;/f5&gt;&lt;te6/&gt;&lt;f7&gt; automatisch mit der nächst höheren Ganzzahl versehen werden kann.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191601Z" creationid="dan" creationdate="20190118T191601Z">
+        <seg>This field type has the advantage that it can be automatically provided with the next higher integer in the embedded database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dieses Buch führt Sie in die gebräuchlichsten Funktionen von LibreOffice-Base ein:</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T165353Z" creationid="dan" creationdate="20181220T165353Z">
@@ -3811,8 +3859,8 @@
       <tuv lang="DE">
         <seg>Für dieses Feld wird die automatische Einsetzung von aufsteigenden Zahlenwerten aktiviert: &lt;/f0&gt;&lt;f1&gt;Feldeigenschaften → Auto-Wert → Ja&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>Für dieses Feld wird die automatische Einsetzung von aufsteigenden Zahlenwerten aktiviert: &lt;/f0&gt;&lt;f1&gt;Feldeigenschaften &gt; Auto-Wert &gt; Ja&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190118T191705Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>The automatic insertion of ascending numerical values ​​is activated for this field: &lt;f0&gt; Field Properties → Auto Value → Yes &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
