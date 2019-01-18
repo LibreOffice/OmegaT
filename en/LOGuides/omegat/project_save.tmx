@@ -2064,6 +2064,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Da nicht mehr als die Kombination dieser Felder gespeichert werden soll, sind beide Felder zusammen der Primärschlüssel für diese Tabelle.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T205133Z" creationid="dan" creationdate="20190118T205133Z">
+        <seg>Since no more than the combination of these fields is to be stored, both fields together are the primary key for this table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Da nicht so sehr viele unterschiedliche Sportarten in Frage kommen, wird hier nicht der automatisch hoch zählende Primärschlüssel gewählt.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T204349Z" creationid="dan" creationdate="20190118T201758Z">
@@ -3120,6 +3128,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dies geschieht durch eine Tabelle, in der die Werte der beiden Primärschlüssel der Tabellen "Teilnehmer" und "Sportart" abgespeichert werden sollen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T205103Z" creationid="dan" creationdate="20190118T205103Z">
+        <seg>This is done through a table in which the values ​​of the two primary keys of the "Athletes" and "Sport" tables are to be stored.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dies geschieht im Hauptfenster der Base-Datei unter &lt;f0&gt;Extras → Anpassen → Symbolleisten&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -3813,6 +3829,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T190900Z" creationid="dan" creationdate="20190118T190900Z">
         <seg>Of course, another field could be used for this property.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es reicht also 'm' und 'w' als Eingabe.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T204938Z" creationid="dan" creationdate="20190118T204938Z">
+        <seg>So it is enough for "m" and "w" as input.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4589,6 +4613,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T183354Z" creationid="dan" creationdate="20181220T183354Z">
         <seg>International &lt;is0/&gt;support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Irgendwie müssen die beiden Tabellen verbunden werden, so dass jedem Teilnehmer mehrere Sportarten und jeder Sportart mehrere Teilnehmer zugeordnet werden können.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T205026Z" creationid="dan" creationdate="20190118T205026Z">
+        <seg>Somehow, the two tables must be linked so that each athlete can be assigned several sports and each sport several athletes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5541,6 +5573,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Typische Etiketten für den fortlaufenden Etikettendruck sehen also wie im folgenden Bild aus, wenn über &lt;f0&gt;Ansicht &gt; Feldnamen&lt;/f0&gt; die entsprechenden Bezeichnungen sichtbar gemacht werden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Um beiden Feldern einen Primärschlüssel zuzuweisen, wird zunächst am Zeilenkopf eine Zeile markiert, danach die Großschreibtaste («Shift») betätigt und die zweite Zeile zusätzlich markiert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190118T205337Z" creationid="dan" creationdate="20190118T205337Z">
+        <seg>To assign a primary key to both fields, a line is first marked on the row header, then the capital key (“Shift”) is clicked and the second line is additionally marked.</seg>
       </tuv>
     </tu>
     <tu>
