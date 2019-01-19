@@ -3801,6 +3801,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Eine Sportart kann ebenfalls mehrmals in der Tabelle "rel_Teilnehmer_Sportart" auftauchen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T171054Z" creationid="dan" creationdate="20190119T171054Z">
+        <seg>A sports type can also appear several times in the table "rel_Athletes_Sport_types".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Eine Tabelle bezieht Informationen aus einer anderen oder gibt Informationen an andere Tabellen weiter.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T205333Z" creationid="dan" creationdate="20190112T205333Z">
@@ -5253,6 +5261,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T204947Z" creationid="dan" creationdate="20190112T204947Z">
         <seg>Only the fields "return date" and "extension" can be edited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Nur die Kombination von Teilnehmer und Sportart gibt es in der Tabelle nur maximal 1 Mal.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T171229Z" creationid="dan" creationdate="20190119T171229Z">
+        <seg>Only the combination of an athlete and sports type is in the table a maximum of 1 time.</seg>
       </tuv>
     </tu>
     <tu>
