@@ -5353,10 +5353,26 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Sind die Tabellen fertiggestellt, so sollte eine entsprechende Verbindung der Tabellen fest definiert werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T003136Z" creationid="dan" creationdate="20190119T003136Z">
+        <seg>Once the tables have been completed, a corresponding combination of the tables should be firmly defined.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>So ein einzigartiges Schlüsselfeld ist für die eingebettete Datenbank notwendig.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T190807Z" creationid="dan" creationdate="20190118T190807Z">
         <seg>Such a unique key field is necessary for the embedded database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>So kann verhindert werden, dass in der Tabelle "rel_Teilnehmer_Sportart" z. B. eine Nummer für einen Teilnehmer auftaucht, die gar nicht in der Tabelle "Teilnehmer" verzeichnet ist.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T003826Z" creationid="dan" creationdate="20190119T003826Z">
+        <seg>In this way, it can be prevented that in the table "rel_Athletes_Sports" z. B. a number for an athlete appears, which is not listed in the table "Athletes".</seg>
       </tuv>
     </tu>
     <tu>
