@@ -2368,6 +2368,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Das Feld "ID_Teilnehmer" wird über die Verbindung von Hauptformular zu Unterformular mit dem Wert versehen, der in der Teilnehmer-Tabelle für den Primärschlüssel des aktuellen Datensatzes steht.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212418Z" creationid="dan" creationdate="20190119T212418Z">
+        <seg>The "ID_Athletes" field is provided with the value contained in the Athletes table for the primary key of the current record via the connection from main form to subform.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Das Feld "Teilnehmer"."ID" wird mit der linken Maustaste markiert.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T004851Z" creationid="dan" creationdate="20190119T004735Z">
@@ -2564,6 +2572,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T191733Z" creationid="dan" creationdate="20190118T191733Z">
         <seg>This indicates that this field is the primary key of the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Dass diese Verknüpfung bereits geregelt ist, ist auch an dem 4. Schritt des Assistenten zu erkennen: Der Schritt «Verknüpfte Felder» ist inaktiv.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212506Z" creationid="dan" creationdate="20190119T212506Z">
+        <seg>The fact that this link is already established can also be recognized by the fourth step of the wizard: The step “Linked fields” is inactive.</seg>
       </tuv>
     </tu>
     <tu>
