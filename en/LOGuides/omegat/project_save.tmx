@@ -1488,6 +1488,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Allerdings muss sie hier noch durch einen Klick auf die Tabelle "rel_Teilnehmer_Sportart" bestätigt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212037Z" creationid="dan" creationdate="20190119T212037Z">
+        <seg>However, it must be confirmed here by clicking on the table "rel_Athletes_Sport_types".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Alles, was an eine Mailingliste geschickt wird, inklusive der E-Mail-Adresse und anderer persönlicher Daten, die die E-Mail enthält, wird öffentlich archiviert und kann nicht gelöscht werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T162201Z" creationid="dan" creationdate="20181220T162201Z">
@@ -1724,6 +1732,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T152855Z" creationid="dan" creationdate="20190115T152855Z">
         <seg>From the loan date "loan_date" and the current date, the time difference in days is given as "loan period".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Aus der Tabelle "rel_Teilnehmer_Sportart" wird nur das Feld "ID_Sportart" benötigt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212204Z" creationid="dan" creationdate="20190119T212204Z">
+        <seg>From the table "rel_Athletes_Sport_types" only the field "ID_Sport_types" is needed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2860,6 +2876,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T193504Z" creationid="dan" creationdate="20190115T193504Z">
         <seg>The descriptions in the following chapters refer exclusively to the use of LibreOffice Base with the internal database &lt;/ f0&gt; &lt;is1 /&gt; &lt;f2&gt; HSQLDB&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Beziehung für das Unterformular wird aus der vorher definierten Beziehung ausgelesen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212002Z" creationid="dan" creationdate="20190119T212002Z">
+        <seg>The relationship for the subform is read from the previously defined relationship.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4109,6 +4133,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T204938Z" creationid="dan" creationdate="20190118T204938Z">
         <seg>So it is enough for "m" and "w" as input.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es soll ein Unterformular eingerichtet werden, in dem die Sportarten dem Teilnehmer zugewiesen werden können.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T211948Z" creationid="dan" creationdate="20190119T211948Z">
+        <seg>A subform should be set up in which the sport types can be assigned to the athletes.</seg>
       </tuv>
     </tu>
     <tu>
