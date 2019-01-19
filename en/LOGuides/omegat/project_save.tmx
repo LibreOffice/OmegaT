@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>"Teilnehmer"."ID" wird sowieso nicht verändert, da es sich um ein automatisch hoch zählendes Feld handelt und dort kein Eingriff vorgenommen werden soll.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T005551Z" creationid="dan" creationdate="20190119T005551Z">
+        <seg>"Athletes". "ID" is not changed anyway, because it is an automatically counting up field and there is no intervention to be made.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>'Wert' → Werte, die in die Datenbank eingegeben oder aus ihr gelesen werden, sollen in einfachen Anführungszeichen erscheinen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190112T200344Z">
@@ -2320,6 +2328,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Das Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" soll nicht verändert werden, wenn "Teilnehmer"."ID" verändert würde.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T005401Z" creationid="dan" creationdate="20190119T005401Z">
+        <seg>The field "rel_Athletes_Sports". "ID_Athletes" should not be changed if "Athletes". "ID" would be changed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Das Feld ist das &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;Schlüsselfeld&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt; der Tabelle "Medien", der &lt;/f4&gt;&lt;is5/&gt;&lt;f6&gt;Primärschlüssel&lt;/f6&gt;&lt;ie7/&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T205930Z" creationid="dan" creationdate="20190112T205930Z">
@@ -2468,6 +2484,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T165214Z" creationid="dan" creationdate="20181226T165214Z">
         <seg>The entire manual mainly refers to two sample databases</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Das ist die Standardeinstellung.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T005412Z" creationid="dan" creationdate="20190119T005412Z">
+        <seg>This is the default.</seg>
       </tuv>
     </tu>
     <tu>
