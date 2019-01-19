@@ -2232,6 +2232,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Damit aber die Zuordnung von Daten auch für ungeübte einfach zu ersehen ist, sollte für das Hauptformular in unserem Beispiel nicht das Tabellenkontrollfeld gewählt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212550Z" creationid="dan" creationdate="20190119T212550Z">
+        <seg>In order for the assignment of data to be easy even for inexperienced people, the table form should not be selected for the main form in our example.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Damit das Formular die Daten anschließend auch enthält, ist nach der Dateneingabe über &lt;f0&gt;Datei → Speichern unter&lt;/f0&gt; im PDF-Viewer eine Speicherung der Datei vorzunehmen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -2244,6 +2252,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Damit das einwandfrei über verschiedene Versionen hinweg funktioniert, sollte unter &lt;/f2&gt;&lt;f3&gt;Eigenschaften: Listenfeld &gt; Daten &gt; Gebundenes Feld &gt; '0'&lt;/f3&gt;&lt;f4&gt; angegeben sein.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Damit ist dann eine Neueingabe ebenso möglich wie eine Veränderung bereits bestehender Daten.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212738Z" creationid="dan" creationdate="20190119T212738Z">
+        <seg>This makes re-entry just as possible as changing existing data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2788,6 +2804,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T191336Z" creationid="dan" creationdate="20190118T191336Z">
         <seg>Therefore, the simpler version is preferred here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Deswegen an dieser Stelle am besten das Tabellenkontrollfeld belassen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212634Z" creationid="dan" creationdate="20190119T212634Z">
+        <seg>That's why it's best to leave the table control box at this point.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4737,6 +4761,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Im Unterformular soll das Feld später alle Sportarten des Teilnehmers anzeigen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212614Z" creationid="dan" creationdate="20190119T212614Z">
+        <seg>In the subform, the field should later show all sports of the participant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Im letzten Feld wird eine Verlängerung ermöglicht.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T214052Z" creationid="dan" creationdate="20190112T214052Z">
@@ -5561,6 +5593,22 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Schritt 6 sollte so bleiben, wie er vorgesehen ist, also &lt;f0&gt;Dateneingabe → Das Formular zeigt existierende Daten an&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212727Z" creationid="dan" creationdate="20190119T212727Z">
+        <seg>Step 6 should remain as it is intended, so &lt;f0&gt; data entry: the form displays existing data &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Schritt 7 ist reine Geschmackssache.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212753Z" creationid="dan" creationdate="20190119T212753Z">
+        <seg>Step 7 is a matter of taste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Sei es, dass Sie noch nie mit Datenbanken und damit in einem Datenbanksystem mit &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;DBMS&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt; (&lt;/f4&gt;&lt;is5/&gt;&lt;f6&gt;&lt;f7&gt;D&lt;/f7&gt;&lt;/f6&gt;&lt;f8&gt;ata&lt;/f8&gt;&lt;f9&gt;&lt;f10&gt;b&lt;/f10&gt;&lt;/f9&gt;&lt;f11&gt;ase &lt;/f11&gt;&lt;f12&gt;&lt;f13&gt;m&lt;/f13&gt;&lt;/f12&gt;&lt;f14&gt;anagement &lt;/f14&gt;&lt;f15&gt;&lt;f16&gt;s&lt;/f16&gt;&lt;/f15&gt;&lt;f17&gt;ystem&lt;/f17&gt;&lt;ie18/&gt;&lt;f19&gt;) gearbeitet haben oder sei es, dass Sie ein anderes Datenbanksystem aus einer OfficeSuite oder ein eigenständiges Datenbanksystem wie beispielsweise MySQL gewohnt sind.&lt;/f19&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181221T151024Z" creationid="dan" creationdate="20181221T150917Z">
@@ -6269,6 +6317,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T163606Z" creationid="dan" creationdate="20181220T163606Z">
         <seg>Who wrote this book?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wie die Elemente im Hauptformular und wie im Unterformular angeordnet sind, ist letztlich egal.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212523Z" creationid="dan" creationdate="20190119T212523Z">
+        <seg>It does not matter what the elements in the main form and the subform are like.</seg>
       </tuv>
     </tu>
     <tu>
