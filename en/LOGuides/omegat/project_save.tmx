@@ -8,8 +8,8 @@
       <tuv lang="DE">
         <seg>"ID_Sportart" muss den Feldtyp «Text» haben und außerdem, wie das Feld "ID" aus der Tabelle "Sportart", auf 5 Zeichen begrenzt werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190118T205944Z" creationid="dan" creationdate="20190118T205944Z">
-        <seg>”ID_Sports” must have the field type “Text” and also, like the field “ID” from the table “Sport”. be limited to 5 characters.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165348Z" creationid="dan" creationdate="20190118T205944Z">
+        <seg>”ID_Sport_types” must have the field type “Text” and also, like the field “ID” from the table “Sport_types” be limited to 5 characters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,8 +2330,8 @@
       <tuv lang="DE">
         <seg>Das Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" soll nicht verändert werden, wenn "Teilnehmer"."ID" verändert würde.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T005401Z" creationid="dan" creationdate="20190119T005401Z">
-        <seg>The field "rel_Athletes_Sports". "ID_Athletes" should not be changed if "Athletes". "ID" would be changed.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165513Z" creationid="dan" creationdate="20190119T005401Z">
+        <seg>The field "rel_Athletes_Sport_types". "ID_Athletes" should not be changed if "Athletes". "ID" would be changed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2954,16 +2954,16 @@
       <tuv lang="DE">
         <seg>Die Maustaste wird gehalten und die Maus auf das Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" gezogen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T005013Z" creationid="dan" creationdate="20190119T004834Z">
-        <seg>The mouse button is held and the mouse is dragged to the field "rel_Athletes_Sports". "ID_Athletes".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165433Z" creationid="dan" creationdate="20190119T004834Z">
+        <seg>The mouse button is held and the mouse is dragged to the field "rel_Athletes_Sport_types". "ID_Athletes".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>Die Maustaste wird über dem Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" los gelassen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T005126Z" creationid="dan" creationdate="20190119T005126Z">
-        <seg>The mouse button is released above the field "rel_Athletes_Sports". "ID_Athletes".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165449Z" creationid="dan" creationdate="20190119T005126Z">
+        <seg>The mouse button is released above the field "rel_Athletes_Sport_types". "ID_Athletes".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,8 +3066,8 @@
       <tuv lang="DE">
         <seg>Die Tabelle "Teilnehmer" soll noch einmal zum Bearbeiten, nicht zur Dateneingabe, geöffnet werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165128Z" creationid="dan" creationdate="20190118T204535Z">
-        <seg>The "" table should be opened again for editing, not for data entry.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165224Z" creationid="dan" creationdate="20190118T204535Z">
+        <seg>sThe "Sport_types" table should be opened again for editing, not for data entry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3098,8 +3098,8 @@
       <tuv lang="DE">
         <seg>Die Tabelle wird unter dem Namen "rel_Teilnehmer_Sportart" abgespeichert.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190118T210247Z" creationid="dan" creationdate="20190118T210110Z">
-        <seg>The table is saved under the name "rel_Athletes_Sports".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165402Z" creationid="dan" creationdate="20190118T210110Z">
+        <seg>The table is saved under the name "rel_Athletes_Sport_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4019,8 +4019,8 @@
       <tuv lang="DE">
         <seg>Es wird eine Tabelle "Sportarten" erstellt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165018Z" creationid="dan" creationdate="20190118T201249Z">
-        <seg>A "Sport_type" table will be created.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165239Z" creationid="dan" creationdate="20190118T201249Z">
+        <seg>A "Sport_types" table will be created.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4779,8 +4779,8 @@
       <tuv lang="DE">
         <seg>Irgendwie müssen die beiden Tabellen verbunden werden, so dass jedem Teilnehmer mehrere Sportarten und jeder Sportart mehrere Teilnehmer zugeordnet werden können.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190118T205026Z" creationid="dan" creationdate="20190118T205026Z">
-        <seg>Somehow, the two tables must be linked so that each athlete can be assigned several sports and each sport several athletes.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165303Z" creationid="dan" creationdate="20190118T205026Z">
+        <seg>Somehow, the two tables must be linked so that each athlete can be assigned several sport types and each sport type several athletes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5491,8 +5491,8 @@
       <tuv lang="DE">
         <seg>So kann verhindert werden, dass in der Tabelle "rel_Teilnehmer_Sportart" z. B. eine Nummer für einen Teilnehmer auftaucht, die gar nicht in der Tabelle "Teilnehmer" verzeichnet ist.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T004312Z" creationid="dan" creationdate="20190119T003826Z">
-        <seg>In this way for example, a number for an athlete can be prevented from appearing in the table "rel_Athletes_Sports" which is not listed in the table "Athletes."</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165420Z" creationid="dan" creationdate="20190119T003826Z">
+        <seg>In this way for example, a number for an athlete can be prevented from appearing in the table "rel_Athletes_Sport_types" which is not listed in the table "Athletes."</seg>
       </tuv>
     </tu>
     <tu>
