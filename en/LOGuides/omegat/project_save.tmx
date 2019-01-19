@@ -1000,6 +1000,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Für die Beziehungsdefinition werden alle bisher erstellten Tabellen notwendig.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T004406Z" creationid="dan" creationdate="20190119T004406Z">
+        <seg>For the relationship definition, all previously created tables are necessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;Hier hilft es vielleicht, über den Berichtsnavigator die Eigenschaften des Berichtes aufzusuchen: &lt;/f0&gt;&lt;f1&gt;Daten → SQL-Befehl analysieren → Nein&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -1346,8 +1354,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Über &lt;/f0&gt;&lt;f1&gt;Extras → Beziehungen&lt;/f1&gt;&lt;f2&gt; wird das Fenster für die Beziehungsdefinition geöffnet.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Über &lt;/f0&gt;&lt;f1&gt;Extras &gt; Beziehungen&lt;/f1&gt;&lt;f2&gt; wird das Fenster für die Beziehungsdefinition geöffnet.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T004349Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>The window for the relationship definition is opened via &lt;f0&gt; Extras &gt; Relationships &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3068,6 +3076,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T193853Z" creationid="dan" creationdate="20190115T193853Z">
         <seg>The simplest and fastest way is to connect directly to the MySQL connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die einzelnen Tabellen werden markiert und über &lt;/f0&gt;&lt;f1&gt;Hinzufügen&lt;/f1&gt;&lt;f2&gt; in den Beziehungsentwurf aufgenommen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T004541Z" creationid="dan" creationdate="20190119T004541Z">
+        <seg>The individual tables are marked and added to the relationship dialog via &lt;f0&gt; Add &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
