@@ -2840,6 +2840,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Deswegen: &lt;f0&gt;Das Formular weiter verändern&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212913Z" creationid="dan" creationdate="20190119T212913Z">
+        <seg>Therefore: &lt;f0&gt; Continue to change the form &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die 5 Zeichen reichen aus, um damit auch passende Kürzel für die Sportarten zu finden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T165113Z" creationid="dan" creationdate="20190118T204511Z">
@@ -3777,6 +3785,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dort steht «ID_Sportart».</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T213133Z" creationid="dan" creationdate="20190119T213133Z">
+        <seg>There is “ID_Sport_types”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dort werden neben der internen HSQLDB oder der internen Firebird-Datenbank verschiedene andere Datenbanksysteme eingebunden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T185230Z" creationid="dan" creationdate="20190115T185230Z">
@@ -4585,6 +4601,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Hier muss dann gegebenenfalls die Schriftfarbe der Tabellenkontrollfelder nachjustiert werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212828Z" creationid="dan" creationdate="20190119T212828Z">
+        <seg>If necessary, the font color of the table control fields must be readjusted here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Hier muss dann zuerst die Beziehung unter &lt;f0&gt;Extras → Beziehungen&lt;/f0&gt; gelöst werden, bevor die Änderung vorgenommen werden kann.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -4653,6 +4677,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Hier wird nach dem Verlassen ein anderes Feld auf Eingabe erforderlich &gt; Nein gesetzt, wenn das Ausgangsfeld einen Inhalt enthält.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Hier wäre eine Auswahl der Sportarten nach dem kompletten Namen wünschenswert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212904Z" creationid="dan" creationdate="20190119T212904Z">
+        <seg>Here a selection of sports would be desirable for the complete name.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4749,6 +4781,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Im Kontextmenü wird &lt;/f0&gt;&lt;f1&gt;Ersetzen durch &gt; Listenfeld&lt;/f1&gt;&lt;f2&gt; ausgewählt.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Im Kontextmenü wird &lt;f0&gt;Ersetzen durch → Listenfeld&lt;/f0&gt; ausgewählt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T213031Z" creationid="dan" creationdate="20190119T213031Z">
+        <seg>In the context menu, &lt;f0&gt; Replace with &gt; list box &lt;/f0&gt; is selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5289,6 +5329,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Mit dem Formular soll noch nicht gearbeitet werde, weil das Unterformular noch die Eingabe des Kürzels für die Sportarten erfordert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212853Z" creationid="dan" creationdate="20190119T212853Z">
+        <seg>The form is not yet being worked on because the subform still requires the entry of the abbreviations for the sports.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Mit dem Tabulator zum Unterformular</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T153035Z" creationid="dan" creationdate="20181226T153035Z">
@@ -5429,6 +5477,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Nun erfolgt die Serververbindung über LO. Im Hauptfenster von Base wird &lt;f0&gt;Bearbeiten &gt; Datenbank &gt; Eigenschaften&lt;/f0&gt; aufgesucht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Nur Vorsicht: manche Stile bergen unverhoffte kontrastarme Darstellungen vor allem in Tabellenkontrollfeldern.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212817Z" creationid="dan" creationdate="20190119T212817Z">
+        <seg>Just be careful: some styles contain unexpected low-contrast representations, especially in table control fields.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5595,8 +5651,8 @@
       <tuv lang="DE">
         <seg>Schritt 6 sollte so bleiben, wie er vorgesehen ist, also &lt;f0&gt;Dateneingabe → Das Formular zeigt existierende Daten an&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T212727Z" creationid="dan" creationdate="20190119T212727Z">
-        <seg>Step 6 should remain as it is intended, so &lt;f0&gt; data entry: the form displays existing data &lt;/f0&gt;.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T213055Z" creationid="dan" creationdate="20190119T212727Z">
+        <seg>Step 6 should remain as it is intended, so &lt;f0&gt; data entry &gt; the form displays existing data &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6485,6 +6541,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Zuerst wird ein neues Writer-Dokument erstellt: &lt;f0&gt;Datei &gt; Neu &gt; Textdokument&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Zuerst wird mit der rechten Maustaste auf den Tabellenkopf des Tabellenkontrollfeldes geklickt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T212930Z" creationid="dan" creationdate="20190119T212930Z">
+        <seg>First, right-click on the table header of the table control field.</seg>
       </tuv>
     </tu>
     <tu>
