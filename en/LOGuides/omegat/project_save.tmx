@@ -1728,6 +1728,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Aus zwei 1:n-Beziehungen wird so über die dazwischen gesetzte Tabelle "rel_Teilnehmer_Sportart" eine n:m-Beziehung.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T171308Z" creationid="dan" creationdate="20190119T171308Z">
+        <seg>From two 1: n relationships, an n: m relationship is established via the table "rel_Athletes_Sport_types" in between.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Ausdruck im Bericht</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T153838Z" creationid="dan" creationdate="20181226T153838Z">
@@ -4041,6 +4049,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Es müsste alle 3 Tabellen geöffnet sein, wenn einem Teilnehmer eine Sportart zugewiesen werden soll.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T171408Z" creationid="dan" creationdate="20190119T171408Z">
+        <seg>It would have to be open all 3 tables, if an athlete should be assigned a sport.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Es reicht also 'm' und 'w' als Eingabe.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T204938Z" creationid="dan" creationdate="20190118T204938Z">
@@ -4781,6 +4797,22 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T210151Z" creationid="dan" creationdate="20190112T210151Z">
         <seg>The reader name is not entered every time in the "Loan" table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>In der Tabelle "Sportart" muss "Sportart"."ID" gesucht und entsprechend in "rel_Teilnehmer_Sportart" eingetragen werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T171520Z" creationid="dan" creationdate="20190119T171520Z">
+        <seg>In the table "Sport_type" you have to search for "Sport". "ID" and enter it accordingly in "rel_Athletes_Sport_types".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>In der Tabelle "Teilnehmer" muss "Teilnehmer"."ID" gesucht werden und nach "rel_Teilnehmer_Sportart" übertragen werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T171446Z" creationid="dan" creationdate="20190119T171446Z">
+        <seg>In the "Athletes" table, you must search for "Athletes". "ID" and transfer them to "rel_Athletes_Sport_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5597,6 +5629,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T211449Z" creationid="dan" creationdate="20190112T211449Z">
         <seg>Such a reference to a primary key is referred to as &lt;/ f0&gt; &lt;is1 /&gt; &lt;f2&gt; foreign key &lt;/ f2&gt; &lt;ie3 /&gt; &lt;f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Solch eine Tabellenkonstruktion lässt sich nur schlecht über die Eingabe in Tabellen mit Inhalt füllen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T171326Z" creationid="dan" creationdate="20190119T171326Z">
+        <seg>Such a table construction is difficult to fill with input into tables of content.</seg>
       </tuv>
     </tu>
     <tu>
