@@ -4609,6 +4609,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>In diese Verbindungstabelle würden auch z.B. die Ergebnisse eines Wettkampfes gehören.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T003116Z" creationid="dan" creationdate="20190119T003116Z">
+        <seg>This connection table would also include e.g. the results of a competition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>In diesem Fall könnte es helfen, zwei Felder zusammen zu einem gemeinsamen Primärschlüssel zu erklären.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T191102Z" creationid="dan" creationdate="20190118T191102Z">
@@ -5389,6 +5397,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Soll, wie im Serienbrief, eine Anrede erstellt werden, so kann dies mit Hilfe eines versteckten Absatzes oder versteckten Textes funktionieren: &lt;f0&gt;Einfügen &gt; Feldbefehl &gt; Andere &gt; Funktionen &gt; &lt;/f0&gt;&lt;t1/&gt;&lt;f2&gt;Versteckter Absatz&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Sollen allerdings mehrere Wettkämpfe abgehalten werden, so ist zusätzlich ein Wettkampfdatum in den gemeinsamen Primärschlüssel mit aufzunehmen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T001632Z" creationid="dan" creationdate="20190119T001632Z">
+        <seg>However, if several competitions are held, then a competition date must be included in the common primary key.</seg>
       </tuv>
     </tu>
     <tu>
