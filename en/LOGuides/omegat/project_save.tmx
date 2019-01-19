@@ -2314,8 +2314,8 @@
       <tuv lang="DE">
         <seg>Das Feld "Teilnehmer"."ID" wird mit der linken Maustaste markiert.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T004819Z" creationid="dan" creationdate="20190119T004735Z">
-        <seg>The field "Athletes". "ID" is click and held with the left mouse button.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T004851Z" creationid="dan" creationdate="20190119T004735Z">
+        <seg>The field "Athletes". "ID" is click with the left mouse button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2532,6 +2532,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Der Browser öffnet sich über &lt;f1&gt;Ansicht &gt; Datenquellen&lt;/f1&gt; oder nach dem Drücken der Taste F4 oder über das entsprechende Symbol in der Standard-Symbolleiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Der Cursor zeigt eine Verknüpfung an.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T005025Z" creationid="dan" creationdate="20190119T005025Z">
+        <seg>The cursor indicates a link.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2914,8 +2922,16 @@
       <tuv lang="DE">
         <seg>Die Maustaste wird gehalten und die Maus auf das Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" gezogen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T004834Z" creationid="dan" creationdate="20190119T004834Z">
-        <seg>The mouse button is held and the mouse is dragged to the field "rel_Teilnehmer_Sportart". "ID_Teilnehmer".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T005013Z" creationid="dan" creationdate="20190119T004834Z">
+        <seg>The mouse button is held and the mouse is dragged to the field "rel_Athletes_Sports". "ID_Athletes".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Maustaste wird über dem Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" los gelassen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T005126Z" creationid="dan" creationdate="20190119T005126Z">
+        <seg>The mouse button is released above the field "rel_Athletes_Sports". "ID_Athletes".</seg>
       </tuv>
     </tu>
     <tu>
@@ -3885,6 +3901,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T154810Z" creationid="dan" creationdate="20181226T154810Z">
         <seg>Sample database enhancements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es erscheint der folgende Dialog zur Definition der Beziehung («Relation»).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T005201Z" creationid="dan" creationdate="20190119T005201Z">
+        <seg>The following dialog for defining the relationship (“Relation”) appears.</seg>
       </tuv>
     </tu>
     <tu>
