@@ -1656,6 +1656,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Auch hier soll ein Datensatz gelöscht werden, wenn die entsprechende Sportart gelöscht wird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T170052Z" creationid="dan" creationdate="20190119T170052Z">
+        <seg>Again, a record should be deleted when the corresponding sport is deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Auch sie hat ein Primärschlüsselfeld.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T210440Z" creationid="dan" creationdate="20190112T210440Z">
@@ -4225,6 +4233,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Für die Datenänderung bei "Sportart"."ID" ist allerdings eine andere Variante gewählt worden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T170114Z" creationid="dan" creationdate="20190119T170114Z">
+        <seg>For the data change with "Sport_types". "ID" however another variant was selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Für die Verbindung mit einer Tabelle, die einen zusammengesetzten Primärschlüssel hat, muss in &lt;f1&gt;Extras → Beziehungen&lt;/f1&gt; der Menüpunkt &lt;f2&gt;Einfügen → Neue Relation&lt;/f2&gt; oder der entsprechende Button aufgesucht werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -4565,6 +4581,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T214052Z" creationid="dan" creationdate="20190112T214052Z">
         <seg>An extension is possible in the last field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Im nächsten Schritt werden "rel_Teilnehmer_Sportart"."ID_Sportart" und "Sportart"."ID" durch Ziehen der Maus bei gedrückter linker Maustaste verbunden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T170032Z" creationid="dan" creationdate="20190119T170032Z">
+        <seg>In the next step "rel_Athletes_Sport_types", "ID_Sport_types" and "Sport_types". "ID" are connected by dragging the mouse while holding down the left mouse button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6069,6 +6093,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T183014Z" creationid="dan" creationdate="20181220T183014Z">
         <seg>We maintain our own forum.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wird "Sportart"."ID" geändert, so wird entsprechend "rel_Teilnehmer_Sportart"."ID_Sportart" angepasst.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T170305Z" creationid="dan" creationdate="20190119T170305Z">
+        <seg>If "Sport_types" is changed to "ID", then "rel_Athletes_Sport_types". "ID_Sport_types" is adjusted accordingly.</seg>
       </tuv>
     </tu>
     <tu>
