@@ -2570,8 +2570,8 @@
       <tuv lang="DE">
         <seg>Der Datensatz der Tabelle "rel_Teilnehmer_Sportart" soll gelöscht werden, wenn "ID_Teilnehmer" gleich "Teilnehmer"."ID" ist und "Teilnehmer"."ID" gelöscht wird.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T164114Z" creationid="dan" creationdate="20190119T164114Z">
-        <seg>The record of the table "rel_Athletes_Sports" should be deleted if "ID_Athlete" is equal to "Athletes". "ID" and "Athletes". "ID" is deleted.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165546Z" creationid="dan" creationdate="20190119T164114Z">
+        <seg>The record of the table "rel_Athletes_Sport_types" should be deleted if "ID_Athlete" is equal to "Athletes". "ID" and "Athletes". "ID" is deleted.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3556,6 +3556,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T190844Z" creationid="dan" creationdate="20190118T190844Z">
         <seg>This key field is referred to as a “primary key” in databases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Dieses Vorgehen wird als «kaskadierendes Löschen» bezeichnet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T165856Z" creationid="dan" creationdate="20190119T165856Z">
+        <seg>This procedure is called “Delete Cascade”.</seg>
       </tuv>
     </tu>
     <tu>
