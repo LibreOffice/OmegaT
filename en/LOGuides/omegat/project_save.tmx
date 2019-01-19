@@ -2568,6 +2568,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Der Datensatz der Tabelle "rel_Teilnehmer_Sportart" soll gelöscht werden, wenn "ID_Teilnehmer" gleich "Teilnehmer"."ID" ist und "Teilnehmer"."ID" gelöscht wird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T164114Z" creationid="dan" creationdate="20190119T164114Z">
+        <seg>The record of the table "rel_Athletes_Sports" should be deleted if "ID_Athlete" is equal to "Athletes". "ID" and "Athletes". "ID" is deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Der Fachbegriff dafür ist die Gewährung der «&lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;referentiellen Integrität».&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T213528Z" creationid="dan" creationdate="20190112T213426Z">
@@ -5973,6 +5981,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T202710Z" creationid="dan" creationdate="20181220T202710Z">
         <seg>If you do not want Java to be used, you can continue to do just about anything else&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;&lt;f4&gt;r&lt;/f4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;f6&gt; using program parts from LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wenn also aus der Teilnehmer-Tabelle ein Teilnehmer entfernt wird, dann werden alle entsprechenden Datensätze aus der Tabelle "rel_Teilnehmer_Sportart" entfernt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190119T164900Z" creationid="dan" creationdate="20190119T164900Z">
+        <seg>Therefore, if an athlete is removed from the Athletes table, then all corresponding data records are removed from the table "rel_Athletes_Sport_type".</seg>
       </tuv>
     </tu>
     <tu>
