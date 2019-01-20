@@ -1664,6 +1664,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Anschließend zeigt die Symbolleiste Navigation immer die Nummer des Datensatzes aus der Tabelle "Teilnehmer" an.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T014018Z" creationid="dan" creationdate="20190120T014018Z">
+        <seg>The Navigation toolbar then displays the number of the record from the Athletes table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Ansichten, die nicht direkt umgestellt werden können, vom SQL-Code her kopieren und als Abfragen abspeichern.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190101T034628Z" creationid="dan" creationdate="20190101T034628Z">
@@ -3088,6 +3096,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Die Eigenschaften des Unterformulars werden aufgesucht.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T013941Z" creationid="dan" creationdate="20190120T013941Z">
+        <seg>The properties of the subform are edited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die Eigenschaften werden nach dem Verlassen der Eigenschaften automatisch gespeichert.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T012212Z" creationid="dan" creationdate="20190120T012212Z">
@@ -4211,8 +4227,8 @@
       <tuv lang="DE">
         <seg>Eingabe eines Kontrollfeldes einschränken</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20181226T153552Z" creationid="dan" creationdate="20181226T153552Z">
-        <seg>Restrict entry of a control field einschränken</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190120T014039Z" creationid="dan" creationdate="20181226T153552Z">
+        <seg>Restrict entry of a control field</seg>
       </tuv>
     </tu>
     <tu>
@@ -4649,6 +4665,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Für die Einschränkung der Eingabe darf das Kontrollfeld kein einfaches Texteingabefeld sein.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T014059Z" creationid="dan" creationdate="20190120T014059Z">
+        <seg>To restrict the input, the control field must not be a simple text input field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Für die Verbindung mit einer Tabelle, die einen zusammengesetzten Primärschlüssel hat, muss in &lt;f1&gt;Extras → Beziehungen&lt;/f1&gt; der Menüpunkt &lt;f2&gt;Einfügen → Neue Relation&lt;/f2&gt; oder der entsprechende Button aufgesucht werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -4865,6 +4889,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Hier soll deshalb eine andere Lösung, nämlich noch einmal über ein Listenfeld, vorgestellt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T014142Z" creationid="dan" creationdate="20190120T014142Z">
+        <seg>Here, therefore, another solution, namely once again via a list box, will be presented.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Hier soll nur kurz an ein paar Beispielen vorgestellt werden, wie der Kontakt zu anderen externen Datenbanken hergestellt wird.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T193751Z" creationid="dan" creationdate="20190115T193751Z">
@@ -5005,6 +5037,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190101T030510Z" creationid="dan" creationdate="20190101T030510Z">
         <seg>In contrast to the other program parts of LibreOffice, the file is saved before the user has ever made any visible inputs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Im Hauptkapitel Formulare findet sich für die Eingabe des Geschlechtes die Lösung über einen «Gruppierungsrahmen».</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T014130Z" creationid="dan" creationdate="20190120T014130Z">
+        <seg>In the main chapter, Forms, you will find the solution for entering the gender via a “grouping frame”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6577,6 +6617,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Unter &lt;f0&gt;Daten → Symbolleiste Navigation&lt;/f0&gt; wird der Wert von «Ja» auf «Übergeordnetes Formular» geändert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T013957Z" creationid="dan" creationdate="20190120T013957Z">
+        <seg>Under &lt;f0&gt; Data → Navigation toolbar &lt;/f0&gt; the value of “Yes” is changed to “Parent Form”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Unter &lt;f0&gt;Format → bedingte Formatierung&lt;/f0&gt; ist dann einzutragen</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -6997,6 +7045,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T172037Z" creationid="dan" creationdate="20190119T172037Z">
         <seg>Too complicated: A form solves this more elegantly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Zuerst wird das Formularfeld für die Eingabe des Geschlechts über den Navigator markiert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T014243Z" creationid="dan" creationdate="20190120T014243Z">
+        <seg>First the form field for entering the gender is selected via the navigator.</seg>
       </tuv>
     </tu>
     <tu>
