@@ -762,8 +762,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Daten → Art des Listeninhalts&lt;/f0&gt; bleibt auf dem Wert «Werteliste» stehen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T015318Z" creationid="dan" creationdate="20190120T015318Z">
-        <seg>&lt;f0&gt;Data → Type of list content &lt;/f0&gt; remains at value “List of values”.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190120T022100Z" creationid="dan" creationdate="20190120T015318Z">
+        <seg>&lt;f0&gt;Data &gt; Type of list content &lt;/f0&gt; remains at value “List of values”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3744,6 +3744,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Diese Kürzel sind die Daten, die an die Tabelle "Teilnehmer" weiter gegeben werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T015904Z" creationid="dan" creationdate="20190120T015904Z">
+        <seg>These abbreviations are the data that is passed to the "Athletes" table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Diese Speicherung muss aber noch im Hauptfenster der Base-Datei bestätigt werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T185006Z" creationid="dan" creationdate="20190115T185006Z">
@@ -5177,6 +5185,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>In &lt;f0&gt;Allgemein → Listen-Einträge&lt;/f0&gt; wird das angegeben, was durch das Listenfeld angezeigt werden soll.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T015916Z" creationid="dan" creationdate="20190120T015916Z">
+        <seg>In &lt;f0&gt; General → List Entries &lt;/f0&gt;, you specify what is to be displayed by the list box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>In &lt;f0&gt;Eigenschaften: Textfeld → Allgemein → Name&lt;/f0&gt; soll für den folgenden Importmodus die jeweilige Bezeichnung gewählt werden, die auch in der Tabelle der Datenbank als Feldname vorgesehen ist.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -5195,8 +5211,8 @@
       <tuv lang="DE">
         <seg>In &lt;f1&gt;Daten → Listeninhalt&lt;/f1&gt; werden die Kürzel 'm' und 'w' untereinander (erreichbar durch &lt;f2&gt;Shift&lt;/f2&gt; + &lt;f3&gt;Eingabetaste&lt;/f3&gt;) eingegeben.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T015832Z" creationid="dan" creationdate="20190120T015832Z">
-        <seg>In &lt;f1&gt; Data → List Content &lt;/f1&gt;, the abbreviations "m" and "w" are entered among each other (accessible by &lt;f2&gt; Shift &lt;/f2&gt; + &lt;f3&gt; Enter &lt;/f3&gt;).</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190120T015939Z" creationid="dan" creationdate="20190120T015832Z">
+        <seg>In &lt;f1&gt; Data &gt; List Content &lt;/f1&gt;, the abbreviations "m" and "w" are entered among each other (accessible by &lt;f2&gt; Shift &lt;/f2&gt; + &lt;f3&gt; Enter &lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
