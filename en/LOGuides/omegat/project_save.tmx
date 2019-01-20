@@ -2584,6 +2584,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Das ist der SQL-Code, der aus der Betätigung des Editors erwachsen ist.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T010744Z" creationid="dan" creationdate="20190120T010744Z">
+        <seg>This is the SQL code that resulted from the operation of the editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Das ist die Standardeinstellung.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T005412Z" creationid="dan" creationdate="20190119T005412Z">
@@ -2684,6 +2692,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T165546Z" creationid="dan" creationdate="20190119T164114Z">
         <seg>The record of the table "rel_Athletes_Sport_types" should be deleted if "ID_Athlete" is equal to "Athletes". "ID" and "Athletes". "ID" is deleted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Der Editor wird anschließend geschlossen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T010703Z" creationid="dan" creationdate="20190120T010703Z">
+        <seg>The editor is then closed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4881,6 +4897,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Im Listeninhalt ist jetzt der folgende Text zu lesen:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T010719Z" creationid="dan" creationdate="20190120T010719Z">
+        <seg>The contents of the list now read the following text:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Im Unterformular soll das Feld später alle Sportarten des Teilnehmers anzeigen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T212614Z" creationid="dan" creationdate="20190119T212614Z">
@@ -5709,6 +5733,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T161613Z" creationid="dan" creationdate="20181220T161613Z">
         <seg>Feedback</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>SELECT "Sportart", "ID" FROM "Sportart"</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T010841Z" creationid="dan" creationdate="20190120T010841Z">
+        <seg>SELECT "Sport_types", "ID" FROM "Sport_types"</seg>
       </tuv>
     </tu>
     <tu>
