@@ -1392,6 +1392,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f1&gt;Ansicht → Symbolleisten → Formular-Entwurf&lt;/f1&gt; sowie &lt;f2&gt;Formular-Steuerelemente&lt;/f2&gt; einblenden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T012114Z" creationid="dan" creationdate="20190120T012114Z">
+        <seg>&lt;f1&gt;View &gt; Toolbars &gt; Form Design &lt;/f1&gt; and &lt;f2&gt; Form Controls &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;te0/&gt;&lt;ts1/&gt;Hierzu wird der importierte Bereich komplett markiert und dann über &lt;f2&gt;Format → AutoFormat Vorlagen&lt;/f2&gt; weiter format&lt;te3/&gt;&lt;ts4/&gt;iert:</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -2720,6 +2728,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Der Formularnavigator ist dann nicht zu finden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T012021Z" creationid="dan" creationdate="20190120T012021Z">
+        <seg>The form navigator is not be found.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Der Inhalt der Datenbank wird erst dann zurück in die Datei geschrieben.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T172931Z" creationid="dan" creationdate="20190115T172931Z">
@@ -3024,6 +3040,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Die Eigenschaften werden nach dem Verlassen der Eigenschaften automatisch gespeichert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T012212Z" creationid="dan" creationdate="20190120T012212Z">
+        <seg>The properties are automatically saved after leaving the properties.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die Erstellung einer Datenbank wird in «Neue Datenbank als interne Datenbank» abgehandelt.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T185156Z" creationid="dan" creationdate="20190115T185156Z">
@@ -3252,6 +3276,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T172901Z" creationid="dan" creationdate="20190115T172901Z">
         <seg>The data records are finally saved when the * .odb file is closed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Symbolleisten lassen sich über &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T012030Z" creationid="dan" creationdate="20190120T012030Z">
+        <seg>The toolbars can be accessed via &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4905,6 +4937,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Im Kontextmenü sind dann die Eigenschaften des Feldes aufrufbar.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T012151Z" creationid="dan" creationdate="20190120T012151Z">
+        <seg>The properties of the field can then be called up in the context menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Im Kontextmenü wird &lt;/f0&gt;&lt;f1&gt;Ersetzen durch → Listenfeld&lt;/f1&gt;&lt;f2&gt; ausgewählt.&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -5405,6 +5445,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T160205Z" creationid="dan" creationdate="20181226T160205Z">
         <seg>Management system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Manchmal kann es vorkommen, dass die Symbolleisten für die Erstellung von Formularen beim Bearbeiten der Formulare nicht korrekt geöffnet werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T011954Z" creationid="dan" creationdate="20190120T011954Z">
+        <seg>Sometimes, form creation toolbars do not open correctly when editing forms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6133,6 +6181,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Sollten diese Symbolleisten nicht automatisch erscheinen, so können sie über &lt;f0&gt;Ansicht &gt; Symbolleisten&lt;/f0&gt; angewählt werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Sollten sie danach auch bei der Dateneingabe sichtbar sein, so muss hier entsprechend wieder die Ansicht ausgeschaltet werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T012124Z" creationid="dan" creationdate="20190120T012124Z">
+        <seg>Should they be visible after entering the data, the view must be switched off accordingly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7117,6 +7173,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Über den Button in &lt;f0&gt;Feldeigenschaften &gt; Format-Beispiel&lt;/f0&gt; wird der Dialog zur Änderung des Formates gestartet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Über den Formularnavigator kann jedes Feld einzeln aufgesucht werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T012135Z" creationid="dan" creationdate="20190120T012135Z">
+        <seg>The form navigator can be used to search each field individually.</seg>
       </tuv>
     </tu>
     <tu>
