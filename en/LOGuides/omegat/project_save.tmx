@@ -2872,6 +2872,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Deswegen: &lt;f0&gt;Allgemein → Titel → Sportart&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T011504Z" creationid="dan" creationdate="20190120T011504Z">
+        <seg>Therefore: &lt;f0&gt; General &gt; Title &gt; Sport_types &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Deswegen: &lt;f0&gt;Das Formular weiter verändern&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T212913Z" creationid="dan" creationdate="20190119T212913Z">
@@ -5625,6 +5633,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Nun soll noch der Titel geändert werden, der für das Feld "ID_Sportart" eingetragen wurde.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T011355Z" creationid="dan" creationdate="20190120T011355Z">
+        <seg>Now we want to change the title, which was entered for the field "ID_Sport_types".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Nur Vorsicht: manche Stile bergen unverhoffte kontrastarme Darstellungen vor allem in Tabellenkontrollfeldern.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T212817Z" creationid="dan" creationdate="20190119T212817Z">
@@ -5873,6 +5889,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Sichtbar ist aber "Sportart".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T011424Z" creationid="dan" creationdate="20190120T011424Z">
+        <seg>Visible but is "sport_types".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Sie bringen Inhalte mehrerer Tabellen zusammen in einer Übersicht.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T214810Z" creationid="dan" creationdate="20190112T214810Z">
@@ -6021,6 +6045,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Soll stattdessen nur beim Schließen ein anderes Formular geöffnet werden, weil z.B. ein Hauptformular existiert und alle anderen Formulare von diesem aus über entsprechende Buttons angesteu&lt;t0/&gt;ert werden, so ist das folgende Makro einfach an das Formular unter &lt;f1&gt;Extras &gt; Anpassen &gt; Ereignisse &gt; Dokument wird geschlossen&lt;/f1&gt; anzubinden:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Soll z.B. das Design bei anderen Feldern angepasst werden, so lassen sich diese am besten über den Formularnavigator ansteuern.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T011658Z" creationid="dan" creationdate="20190120T011658Z">
+        <seg>Should e.g. If the design is adapted to other fields, these can best be accessed via the form navigator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6301,6 +6333,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Um solch eine Datenbank zu erstellen&lt;/f10&gt;&lt;tc11/&gt;&lt;f12&gt;, muss &lt;/f12&gt;&lt;f13&gt;Extras &gt; Optionen &gt; LibreOffice &gt; Erweitert &gt; Optionale (instabile) Einstellungen &gt; Experimentelle Funktionen aktivieren&lt;/f13&gt;&lt;f14&gt; eingeschaltet sein.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Um später in dem Listenfeld Sportarten zu sehen, müssen diese natürlich zuerst einmal in die Tabelle "Sportart" entsprechend eingegeben werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T011327Z" creationid="dan" creationdate="20190120T011327Z">
+        <seg>To see later in the list box sports, of course, these must first be entered once in the table "Sport_tupes" accordingly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6637,6 +6677,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Wird nicht der Auto-Wert gewählt, so kann der Primärschlüssel auch über das Kontextmenü der Maus (&lt;/f0&gt;&lt;f1&gt;rechte Maustaste &gt; Primärschlüssel&lt;/f1&gt;&lt;f2&gt;) ausgewählt werden.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wird nämlich keine Sortierung vorgegeben, so erfolgt die Sortierung immer nach dem Primärschlüsselfeld.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190120T011250Z" creationid="dan" creationdate="20190120T011250Z">
+        <seg>If, in fact, no sorting is specified: sorting always takes place according to the primary key field.</seg>
       </tuv>
     </tu>
     <tu>
