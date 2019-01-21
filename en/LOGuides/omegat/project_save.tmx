@@ -3984,6 +3984,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Diesen Ganzzahlwert multipliziere wieder mit 10. &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T151427Z" creationid="dan" creationdate="20190121T151427Z">
+        <seg>Multiply this integer value by 10. &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dieser Begriff umfasst das «&lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Datenbankmanagementsystem» (&lt;/f2&gt;&lt;is3/&gt;&lt;f4&gt;DBMS&lt;/f4&gt;&lt;ie5/&gt;&lt;f6&gt;) und den eigentlichen Datenbestand, die «&lt;/f6&gt;&lt;is7/&gt;&lt;f8&gt;Datenbank&lt;/f8&gt;&lt;ie9/&gt;&lt;f10&gt;».&lt;/f10&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190101T051550Z" creationid="dan" creationdate="20181226T160855Z">
@@ -4953,6 +4961,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Für den Fall, dass das Sportalter über 19 Jahren ist, dividiere das Sportalter durch 10 und gib nur den Ganzzahlwert wieder.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T151419Z" creationid="dan" creationdate="20190121T151419Z">
+        <seg>In case the Athlete age is over 19, divide the athlete age by 10 and give only the integer value again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Für die Datenänderung bei "Sportart"."ID" ist allerdings eine andere Variante gewählt worden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T170114Z" creationid="dan" creationdate="20190119T170114Z">
@@ -5697,6 +5713,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>In die deutsche Sprache übertragen bedeutet das so viel wie: &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T151258Z" creationid="dan" creationdate="20190121T151258Z">
+        <seg>In English this means something like: &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>In diese Verbindungstabelle würden auch z.B. die Ergebnisse eines Wettkampfes gehören.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T003116Z" creationid="dan" creationdate="20190119T003116Z">
@@ -5789,6 +5813,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Ist das Feld wieder gelöscht, so ist der Funktionsname weiterhin über &lt;/f0&gt;&lt;f1&gt;Ansicht &gt; Berichts-Navigator&lt;/f1&gt;&lt;f2&gt; nachschlagbar.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Ist das Sportalter bis einschließlich 19 Jahren, so nehme den Wert des Sportalters und subtrahiere davon den Rest, der sich ergibt, wenn das Sportalter durch 2 dividiert wird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T151534Z" creationid="dan" creationdate="20190121T151534Z">
+        <seg>If the athlete age is up to and including 19, take the value of the age of Athlete and subtract from it the rest, which results when the age of athlete is divided by 2.</seg>
       </tuv>
     </tu>
     <tu>
