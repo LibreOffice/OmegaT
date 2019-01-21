@@ -2128,6 +2128,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Bei vielen gleichen Vereinen bietet sich aber auch eine separate Tabelle "Vereine" sowie der entsprechende Fremdschlüssel in der Tabelle "Teilnehmer" an.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T232753Z" creationid="dan" creationdate="20190121T232753Z">
+        <seg>For many of the same clubs, however, there is also a separate table "Clubs" and the corresponding foreign key in the "Athletes" table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Beide Datenbanken sollen einen Bibliotheksbetrieb ermöglichen: Medienaufnahme, Nutzeraufnahme, Medienverleih und alles, was damit verbunden ist wie z. B. das Anmahnen säumiger EntleiherInnen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190111T010700Z" creationid="dan" creationdate="20190111T010700Z">
@@ -2640,6 +2648,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dann muss natürlich, wie bei allen Wettbewerben, ermittelt werden, wer denn nun in der jeweiligen Altersklasse auf welcher Platzierung gelandet ist.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T232957Z" creationid="dan" creationdate="20190121T232957Z">
+        <seg>Then of course, as with all competitions, it must be determined who has been placed in the respective age group on which placement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dann sind auch gleich die Verbindungen gut zu erkennen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T022855Z" creationid="dan" creationdate="20190120T022855Z">
@@ -2772,6 +2788,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T205930Z" creationid="dan" creationdate="20190112T205930Z">
         <seg>The field is the &lt;/ f0&gt; &lt;is1 /&gt; &lt;f2&gt; key field &lt;/ f2&gt; &lt;ie3 /&gt; &lt;f4&gt; of the Media table, the &lt;/ f4&gt; &lt;is5 /&gt; &lt;f6&gt; primary key&lt;/f6&gt;&lt;ie7/&gt;&lt;f8&gt;.&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Das Feld muss dann auch Teil des gemeinsamen Primärschlüssels sein.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T232642Z" creationid="dan" creationdate="20190121T232642Z">
+        <seg>The field must then also be part of the shared primary key.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3108,6 +3132,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Dazu wird beim Bearbeiten des Formulars &lt;/f0&gt;&lt;f1&gt;Ansicht &gt; Drucklayout&lt;/f1&gt;&lt;f2&gt; gewählt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Dazu würde ein Feld in der Tabelle "Teilnehmer" ausreichen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T232706Z" creationid="dan" creationdate="20190121T232706Z">
+        <seg>A field in the "Athletes" table would be sufficient for this.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7537,6 +7569,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Sollen die Eingaben allerdings für mehrere Wettkämpfe in gleichen Sportarten gelten, so ist außerdem noch ein Datumsfeld oder ein anderes Feld, das dem jeweiligen Wettkampf zugeordnet werden kann, in die Tabelle "rel_Teilnehmer_Sportart" aufzunehmen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T232628Z" creationid="dan" creationdate="20190121T232628Z">
+        <seg>However, if the entries are to be used for several competitions in the same sports type, a date field or another field that can be assigned to the respective competition must also be added to the table "rel_Athletes_Sport_types".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Sollen diese Prozeduren zu bestimmten Zeiten ab&lt;/f3&gt;&lt;te4/&gt;&lt;ts5/&gt;&lt;f6&gt;laufen, so können sie über &lt;/f6&gt;&lt;f7&gt;Extras → SQL&lt;/f7&gt;&lt;f8&gt; mit dem Befehl &lt;/f8&gt;&lt;f9&gt;CALL `Prozedurname`();&lt;/f9&gt;&lt;f10&gt; aufgerufen w&lt;/f10&gt;&lt;te11/&gt;&lt;ts12/&gt;&lt;f13&gt;erden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -7973,6 +8013,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T150326Z" creationid="dan" creationdate="20181226T145923Z">
         <seg>Published 8/30/2018. Based on LibreOffice Version 6.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Vielleicht käme noch die Vereinszugehörigkeit hinzu.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T232651Z" creationid="dan" creationdate="20190121T232651Z">
+        <seg>Maybe the club membership would be added.</seg>
       </tuv>
     </tu>
     <tu>
