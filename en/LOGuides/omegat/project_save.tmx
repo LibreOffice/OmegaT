@@ -4323,8 +4323,8 @@
       <tuv lang="DE">
         <seg>EXTRACT (YEAR FROM CURRENT_DATE) - EXTRACT (YEAR FROM "Geburtstag")</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T143819Z" creationid="dan" creationdate="20190121T143418Z">
-        <seg>YEAR(CURRENT_DATE) - YEAR ("Birth date")</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T152755Z" creationid="dan" creationdate="20190121T143418Z">
+        <seg>EXTRACT (YEAR FROM CURRENT_DATE) - EXTRACT (YEAR FROM "Date of birth")</seg>
       </tuv>
     </tu>
     <tu>
@@ -7923,8 +7923,8 @@
       <tuv lang="DE">
         <seg>Über &lt;f0&gt;EXTRACT(YEAR FROM CURRENT_DATE)&lt;/f0&gt; wird das aktuelle Jahr bestimmt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T143704Z" creationid="dan" creationdate="20190121T143519Z">
-        <seg>Use &lt;f0&gt; YEAR(CURRENT_DATE) &lt;/f0&gt; to determine the current year.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T152849Z" creationid="dan" creationdate="20190121T143519Z">
+        <seg>Use &lt;f0&gt; EXTRACT (YEAR FROM CURRENT_DATE) &lt;/f0&gt; to determine the current year.</seg>
       </tuv>
     </tu>
     <tu>
