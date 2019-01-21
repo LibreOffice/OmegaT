@@ -3240,6 +3240,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Die Felder, die in der Abfrage dargestellt werden sollen, können entweder durch einen Doppelklick auf die Feldnamen in den Tabellen oder durch Auswahl in der Zeile &lt;f0&gt;Feld&lt;/f0&gt; eingestellt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T142740Z" creationid="dan" creationdate="20190121T142740Z">
+        <seg>The fields to be displayed in the query can be set either by double-clicking on the field names in the tables or by selecting in the line &lt;f0&gt; Field &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die Feldnamen "Vorname", "Nachname" und "Geburtstag" dürften klar sein.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T190736Z" creationid="dan" creationdate="20190118T190736Z">
@@ -4185,6 +4193,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Eine Abfrage sollte grundsätzlich vor dem Abspeichern auch einmal ausgeführt werden um zu sehen, ob sie denn wirklich das erhoffte Ergebnis liefert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T142928Z" creationid="dan" creationdate="20190121T142928Z">
+        <seg>A query should always be executed before saving to see if it really delivers the expected result.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Eine Base-Datei ist eigentlich nur ein gepacktes Verzeichnis, in dem Informationen für die verschiedenen Arbeitsbereiche von Base stecken.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T201157Z" creationid="dan" creationdate="20190112T201157Z">
@@ -4461,6 +4477,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Es kann auch &lt;/f0&gt;&lt;f1&gt;F5&lt;/f1&gt;&lt;f2&gt; gedrückt oder der Weg über &lt;/f2&gt;&lt;f3&gt;Bearbeiten &gt; Abfrage ausführen&lt;/f3&gt;&lt;f4&gt; gewählt werden.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es kann auch &lt;f0&gt;F5&lt;/f0&gt; gedrückt oder der Weg über &lt;f1&gt;Bearbeiten → Abfrage ausführen&lt;/f1&gt; gewählt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143035Z" creationid="dan" creationdate="20190121T143035Z">
+        <seg>You can also press &lt;f0&gt; F5 &lt;/f0&gt; or select the path via &lt;f1&gt; Edit &gt; Execute query &lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5061,6 +5085,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Hierfür ist eine gesonderte Prozedur erforderlich, die über &lt;f0&gt;Ereignisse &gt; Text modifiziert&lt;/f0&gt; ausgelöst wird:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Hierzu entweder direkt den oben gezeigten Button anklicken.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T142942Z" creationid="dan" creationdate="20190121T142942Z">
+        <seg>To do this, either directly click on the button shown above.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6689,6 +6721,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Um die Felder den Tabellen richtig zuordnen zu können, werden sie in Abfragen nach "Tabellenname"."Feldname" bezeichnet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T142906Z" creationid="dan" creationdate="20190121T142906Z">
+        <seg>In order to be able to correctly assign the fields to the tables, they are designated "table name". "Field name" in queries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Um diese bisher noch nicht einwandfrei funktionierende Datenbank zu nutzen, müssen über &lt;f2&gt;Extras → Optionen → LibreOffice → Erweitert → Optionale (instabile) Einstellungen&lt;/f2&gt; die experimentellen Funktionen aktiviert werden:</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190101T031027Z">
@@ -7125,6 +7165,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T011250Z" creationid="dan" creationdate="20190120T011250Z">
         <seg>If, in fact, no sorting is specified: sorting always takes place according to the primary key field.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wird statt des Feldnamen ein «*» eingesetzt, so bedeutet dies, dass alle Felder der entsprechenden Tabelle angezeigt werden sollen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T142918Z" creationid="dan" creationdate="20190121T142918Z">
+        <seg>If an “*” is used instead of the field name, this means that all fields of the corresponding table should be displayed.</seg>
       </tuv>
     </tu>
     <tu>
