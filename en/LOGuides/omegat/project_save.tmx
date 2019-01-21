@@ -2336,6 +2336,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Damit der Code für den Anfang nicht zu verwirrend wird, sollte die Abfrage unter dem Namen "Sportalter" abgespeichert werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T144541Z" creationid="dan" creationdate="20190121T144514Z">
+        <seg>So that the code does not get too confusing for the beginner, the query should be saved under the name "Athlete age".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Damit die folgenden Schritte sinnvoll sind, sollten erst einmal einige Datensätze eingegeben werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T022332Z" creationid="dan" creationdate="20190120T022332Z">
@@ -3080,6 +3088,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Die Abfrage "Sportalter" wurde als Grundlage für die 2. Abfrage ausgesucht.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T144625Z" creationid="dan" creationdate="20190121T144625Z">
+        <seg>The query "Atthlete age" was chosen as the basis for the second query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die Abfrage wird abgespeichert, mit der rechten Maustaste angeklickt und über &lt;f0&gt;Abfrage → Als Ansicht erstellen&lt;/f0&gt; unter der Bezeichnung «Chart_Kategorie_Circle» als Ansicht gespeichert.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -3764,6 +3780,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T205504Z" creationid="dan" creationdate="20190112T205504Z">
         <seg>This is called «&lt;/ f2&gt; &lt;is3 /&gt; &lt;f4&gt; Relation &lt;/ f4&gt; &lt;ie5 /&gt; &lt;f6&gt;».&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Diese Abfrage dient dann als Grundlage für die nächste Abfrage, die das "Sportalter" jetzt einer "Altersklasse" zuordnet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T144554Z" creationid="dan" creationdate="20190121T144554Z">
+        <seg>This query then serves as the basis for the next query, which now assigns the "sports age" to an "age group".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7001,6 +7025,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Vor der Bezeichnung «Sportalter» im Tabellenarbeitsbereich ist ein anderes Symbol zu sehen als bei den Tabellen der ersten Abfrage.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T144650Z" creationid="dan" creationdate="20190121T144650Z">
+        <seg>There is a different symbol in front of the label “Athlete age” in the table work area than in the tables of the first query.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Vor der Nutzung von gespeicherten Prozeduren sollte also wenigstens unter &lt;/f11&gt;&lt;f12&gt;Extras → SQL&lt;/f12&gt;&lt;f13&gt; zweimal hintereinander die Prozedur mit CALL … &lt;/f13&gt;&lt;te14/&gt;&lt;ts15/&gt;&lt;f16&gt;testweise abgerufen werden.&lt;/f16&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T195957Z" creationid="dan" creationdate="20190115T190530Z">
@@ -7245,6 +7277,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T143907Z" creationid="dan" creationdate="20190121T143907Z">
         <seg>If the query is executed, the corresponding calculation for the year 2014 appears, since this query was executed in the corresponding year.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wird die Abfrage erneut ausgeführt, so erscheint in dem Spaltenkopf nicht mehr die Formel sondern die Bezeichnung «Sportalter».</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T144441Z" creationid="dan" creationdate="20190121T144441Z">
+        <seg>If the query is executed again, the formula “Athlete age” appears instead of the formula in the column header.</seg>
       </tuv>
     </tu>
     <tu>
