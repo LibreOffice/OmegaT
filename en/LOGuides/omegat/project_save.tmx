@@ -2464,6 +2464,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dafür darf kein Feld, sondern nur der Gruppenkopf markiert sein.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T170006Z" creationid="dan" creationdate="20190121T170006Z">
+        <seg>For this, no field, only the group header may be selected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dafür enthält die Datenbank eine gesonderte Tabelle mit der Bezeichnung "Einstellungen".</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T214314Z" creationid="dan" creationdate="20190112T214314Z">
@@ -3048,6 +3056,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Der Bereich «Altersklasse» sollte dabei so groß gewählt werden, dass er noch die Beschriftungsfelder aus dem Bereich «Detail» aufnehmen kann.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T170115Z" creationid="dan" creationdate="20190121T170115Z">
+        <seg>The “age group” area should be chosen so large that it can still contain the labeling fields from the “detail” area.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Der Berichtsentwurf dürfte jetzt wie folgt aussehen:</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T164843Z" creationid="dan" creationdate="20190121T164843Z">
@@ -3404,6 +3420,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T165849Z" creationid="dan" creationdate="20190115T165849Z">
         <seg>Saving a table, a query, a form or a report does not mean that the entire database file is saved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Abstände zwischen den Bereichen können direkt an den Tabellenköpfen durch Schieben mit der Maus verringert werde, Es ist auch möglich, einen Bereich zu markieren und in den Eigenschaften des Gruppenkopfes die Höhe über eine Zahleneingabe zu regeln.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T165903Z" creationid="dan" creationdate="20190121T165903Z">
+        <seg>It is also possible to mark a range and to regulate the height in the properties of the group header via a number input.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4949,6 +4973,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Es ist der gleiche Feldtyp, der auch über &lt;f2&gt;Einfügen &gt; Feldbefehl &gt; Andere &gt; Datenbank&lt;/f2&gt; erzeugt wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es ist nicht möglich, einen Bereich kleiner zu wählen als die darin existierenden Beschriftungs- und Textfelder sind.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T170018Z" creationid="dan" creationdate="20190121T170018Z">
+        <seg>It is not possible to select an area smaller than the existing caption and text fields.</seg>
       </tuv>
     </tu>
     <tu>
