@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>"Sportalter".*,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T152235Z" creationid="dan" creationdate="20190121T152235Z">
+        <seg>"Athlete Age". *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>"Tabellenname"."Feldname" → Tabellen und Felder in Datenbanken werden in doppelten Anführungszeichen oben wieder gegeben.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190112T200250Z">
@@ -2236,6 +2244,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T205642Z" creationid="dan" creationdate="20190112T205642Z">
         <seg>Relationships</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>CASE WHEN "Sportalter" &gt; 19 THEN CEILING( "Sportalter" / 10 ) * 10</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T152704Z" creationid="dan" creationdate="20190121T152704Z">
+        <seg>CASE WHEN ("Athlete age" &gt; 19, CEILING( "Sportalter" / 10 ) * 10</seg>
       </tuv>
     </tu>
     <tu>
