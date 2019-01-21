@@ -3880,6 +3880,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Diese und viele andere Funktionen, die mit der eingebauten &lt;f0&gt;Hsqldb&lt;/f0&gt; oder der &lt;f1&gt;Firebird&lt;/f1&gt;-Datenbank zusammen arbeiten, sind im Anhang des Handbuches beschrieben.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143836Z" creationid="dan" creationdate="20190121T143836Z">
+        <seg>These and many other features that work with the built-in &lt;f0&gt; Hsqldb &lt;/f0&gt; or the &lt;f1&gt; Firebird &lt;/f1&gt; database are described in the appendix of the manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Diesem Nutzer wird direkt nach der Installation erst einmal ein Passwort zugewiesen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T200106Z" creationid="dan" creationdate="20190115T200106Z">
@@ -4123,8 +4131,8 @@
       <tuv lang="DE">
         <seg>EXTRACT (YEAR FROM CURRENT_DATE) - EXTRACT (YEAR FROM "Geburtstag")</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T143628Z" creationid="dan" creationdate="20190121T143418Z">
-        <seg>YEAR(CURRENT_DATE) - YEAR ("Birthday")</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143819Z" creationid="dan" creationdate="20190121T143418Z">
+        <seg>YEAR(CURRENT_DATE) - YEAR ("Birth date")</seg>
       </tuv>
     </tu>
     <tu>
@@ -4401,6 +4409,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Entsprechend wird auch über &lt;f1&gt;EXTRACT(YEAR FROM "Geburtstag")&lt;/f1&gt; das Jahr des Geburtstags ermittelt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143806Z" creationid="dan" creationdate="20190121T143806Z">
+        <seg>Likewise, &lt;f1&gt; YEAR("Birth date") &lt;/f1&gt; determines the year of the birthday.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Entsprechend wird das versteckte Steuerelement erst einmal umbenannt: &lt;f0&gt;rechte Maustaste → Kontextmenü → Umbenennen&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -4637,6 +4653,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Etwas irritierend ist es jedoch, wenn gerade die Standardleiste (&lt;f1&gt;Ansicht &gt; Symbolleisten &gt; Standardleiste&lt;/f1&gt;) oder die Statusleiste (&lt;f2&gt;Ansicht &gt; Statusleiste&lt;/f2&gt;) fehlt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Etwas störend dürfte dabei sein, dass der gesamte Code, den wir als Feld eingegeben haben, eben auch in der Spaltenüberschrift erscheint.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T144015Z" creationid="dan" creationdate="20190121T144015Z">
+        <seg>Something disturbing is likely to be that the entire code that we have entered as a field, just appears in the column heading.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7181,6 +7205,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Wird der Berichtskopf genutzt, so sollte der Seitenkopf grundsätzlich in den Eigenschaften auf &lt;f1&gt;Sichtbar &gt; Nein&lt;/f1&gt; eingestellt werden, da sonst der Berichtskopf beim Ausdruck nicht an erster Position steht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wird die Abfrage ausgeführt, so erscheint die entsprechende Berechnung für das Jahr 2014, da diese Abfrage eben in dem entsprechenden Jahr ausgeführt wurde.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143907Z" creationid="dan" creationdate="20190121T143907Z">
+        <seg>If the query is executed, the corresponding calculation for the year 2014 appears, since this query was executed in the corresponding year.</seg>
       </tuv>
     </tu>
     <tu>
