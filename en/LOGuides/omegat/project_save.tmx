@@ -1424,6 +1424,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>AS "Altersklasse" FROM "Sportalter"</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163013Z" creationid="dan" creationdate="20190121T163013Z">
+        <seg>AS "Age group" FROM "Sport age"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Ab 20 Jahren werden Gruppen für jeweils 10 Jahre gebildet, also von 20-30 Jahren usw.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T145121Z" creationid="dan" creationdate="20190121T145121Z">
@@ -2864,6 +2872,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Das, was durch die Formel bestimmt wird, bezeichne als "Altersklasse".</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163041Z" creationid="dan" creationdate="20190121T163041Z">
+        <seg>What is determined by the formula is called "age group".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dass diese Verknüpfung bereits geregelt ist, ist auch an dem 4. Schritt des Assistenten zu erkennen: Der Schritt «Verknüpfte Felder» ist inaktiv.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T212506Z" creationid="dan" creationdate="20190119T212506Z">
@@ -2940,6 +2956,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Der Browser öffnet sich über &lt;f1&gt;Ansicht &gt; Datenquellen&lt;/f1&gt; oder nach dem Drücken der Taste F4 oder über das entsprechende Symbol in der Standard-Symbolleiste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Der Code unterscheidet nicht zwischen Tabellen und Abfragen als Grundlage der Daten.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163052Z" creationid="dan" creationdate="20190121T163052Z">
+        <seg>The code does not distinguish between tables and queries as the basis of the data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3028,6 +3052,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T204723Z" creationid="dan" creationdate="20190118T204723Z">
         <seg>The "Gender" field is added to the table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Der Teil mit der Formel wurde ja schon erwähnt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T162824Z" creationid="dan" creationdate="20190121T162824Z">
+        <seg>The part with the formula has already been mentioned.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4649,6 +4681,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Er funktioniert deshalb nur in der grafischen Benutzeroberfläche von Base.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163117Z" creationid="dan" creationdate="20190121T163117Z">
+        <seg>It therefore only works in the graphical user interface of Base.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Er wird zwar inzwischen nicht mehr als gesonderte Erweiterung sichtbar, arbeitet aber weitgehend unabhängig von der Datenbankdatei.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T165645Z" creationid="dan" creationdate="20190115T165645Z">
@@ -4909,6 +4949,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T201923Z" creationid="dan" creationdate="20190115T201923Z">
         <seg>FLUSH PRIVILEGES;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>FROM "Sportalter"</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T162811Z" creationid="dan" creationdate="20190121T162811Z">
+        <seg>FROM "Sports Age"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5253,6 +5301,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Hier hilft es dann die Design-Ansicht zu verlassen und über &lt;f0&gt;Bearbeiten &gt; SQL-Kommando direkt ausführen&lt;/f0&gt; den direkten Weg zur Datenbank zu wählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Hier jetzt der Rahmen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T162830Z" creationid="dan" creationdate="20190121T162830Z">
+        <seg>Here is the frame.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6537,6 +6593,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>SELECT "Sportalter".*, ...</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T162958Z" creationid="dan" creationdate="20190121T162958Z">
+        <seg>SELECT "Athlete age".*, ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>SELECT "Sportart", "ID" FROM "Sportart"</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T010841Z" creationid="dan" creationdate="20190120T010841Z">
@@ -7621,6 +7685,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T201952Z" creationid="dan" creationdate="20181220T201952Z">
         <seg>Why do I need Java to run LibreOffice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wähle aus der Tabelle "Sportalter" alle Datensätze aus und zusätzlich das, was durch die Formel bestimmt wird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163033Z" creationid="dan" creationdate="20190121T163033Z">
+        <seg>Choose from the table "Sport Age" all records and additionally what is determined by the formula.</seg>
       </tuv>
     </tu>
     <tu>
