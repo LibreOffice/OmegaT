@@ -2258,8 +2258,8 @@
       <tuv lang="DE">
         <seg>CASE WHEN &lt;s0/&gt;"Sportalter" &gt; 19 THEN CEILING( "Sportalter" / 10 ) * 10 ELSE "Sportalter" - MOD( "Sportalter", 2 ) END</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T153029Z" creationid="dan" creationdate="20190121T145318Z">
-        <seg>CASE WHEN &lt;s0/&gt; "Athlete age"&gt; 19 THEN CEILING ("Sport age" / 10) * 10 ELSE "Athlete age" - MOD ("Sport age", 2) END</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T153654Z" creationid="dan" creationdate="20190121T145318Z">
+        <seg>CASE WHEN &lt;s0/&gt; "Athlete age"&gt; 19 THEN CEILING ("Athlete age" / 10) * 10 ELSE "Athlete age" - MOD ("Athlete age", 2) END</seg>
       </tuv>
     </tu>
     <tu>
