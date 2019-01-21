@@ -3304,6 +3304,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Die Benennung von Abfragen muss dafür immer anders sein als die Benennung von Tabellen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163133Z" creationid="dan" creationdate="20190121T163133Z">
+        <seg>The naming of queries must always be different than the naming of tables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die Beschreibungen in den folgenden Kapiteln beziehen sich ausschließlich auf die Verwendung von LibreOffice Base mit der internen Datenbank &lt;/f0&gt;&lt;is1/&gt;&lt;f2&gt;HSQLDB&lt;/f2&gt;&lt;ie3/&gt;&lt;f4&gt;.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T193504Z" creationid="dan" creationdate="20190115T193504Z">
@@ -3756,6 +3764,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T193853Z" creationid="dan" creationdate="20190115T193853Z">
         <seg>The simplest and fastest way is to connect directly to the MySQL connector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die eingebettete Datenbank kennt die Abfrage "Sportalter" nicht, auf die sich die aktuellen Abfrage "Meldung" bezieht.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163211Z" creationid="dan" creationdate="20190121T163211Z">
+        <seg>The embedded database does not know the "Sport Age" query to which the current query "message" refers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4817,6 +4833,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Es muss für den Bericht aber die Abfrage als Datenquelle herausgesucht werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163326Z" creationid="dan" creationdate="20190121T163326Z">
+        <seg>However, the query must be selected as the data source for the report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Es müsste alle 3 Tabellen geöffnet sein, wenn einem Teilnehmer eine Sportart zugewiesen werden soll.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T171408Z" creationid="dan" creationdate="20190119T171408Z">
@@ -5141,6 +5165,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T010054Z" creationid="dan" creationdate="20190120T005954Z">
         <seg>For the first column, the field "Sport_types" is entered in the query editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Für diesen Dialog wird die von der alphabetischen Sortierung her erste Tabelle als Basis genommen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163319Z" creationid="dan" creationdate="20190121T163319Z">
+        <seg>For this dialog, the first table from the alphabetical sorting is taken as the basis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5501,6 +5533,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190101T025304Z" creationid="dan" creationdate="20190101T025304Z">
         <seg>Their function is only suitable for easy entry into the matter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Im Berichtsfenster befindet sich auf der rechten Seite die Übersicht über die Eigenschaften des gerade aktiven Objektes.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163336Z" creationid="dan" creationdate="20190121T163336Z">
+        <seg>In the report window, on the right side, there is an overview of the properties of the currently active object.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6849,6 +6889,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Sobald in einer Abfrage bei ausgeschalteter Design-Ansicht der Button &lt;f0&gt;SQL&lt;/f0&gt; (für &lt;f1&gt;SQL-Kommando direkt ausführen&lt;/f1&gt;) gedrückt wird, wird die Datenbank mit einer Fehlermeldung reagieren.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163151Z" creationid="dan" creationdate="20190121T163151Z">
+        <seg>As soon as the button &lt;f0&gt; SQL &lt;/f0&gt; (for &lt;f1&gt; execute SQL command directly &lt;/f1&gt;) is pressed in a query with the design view switched off, the database will respond with an error message.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Sofern nicht von vornherein eine Multiuserdatenbank geplant ist oder erst einmal erste Erfahrungen mit einer &lt;i0/&gt;Datenbank gesammelt werden sollen, ist die interne &lt;i1/&gt;Datenbank gut nutzbar.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190101T045102Z" creationid="dan" creationdate="20190101T020550Z">
@@ -6949,6 +6997,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Sollte die Leiste nicht sichtbar sein, so muss sie über &lt;/f0&gt;&lt;f1&gt;Ansicht &gt; Properties&lt;/f1&gt;&lt;f2&gt; ausgewählt werden.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Sollte die Leiste nicht sichtbar sein, so muss sie über &lt;f0&gt;Ansicht → Properties&lt;/f0&gt; ausgewählt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T164007Z" creationid="dan" creationdate="20190121T164007Z">
+        <seg>If this is not visible, it must be selected via &lt;f0&gt; View &gt; Properties &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7593,6 +7649,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Wird der Editor gestartet, so ist zuerst der Dialog «Feld hinzufügen» im Vordergrund.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163310Z" creationid="dan" creationdate="20190121T163310Z">
+        <seg>When the editor is started, first the dialog “Add field” is in the foreground.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Wird die Abfrage ausgeführt, so erscheint die entsprechende Berechnung für das Jahr 2014, da diese Abfrage eben in dem entsprechenden Jahr ausgeführt wurde.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T143907Z" creationid="dan" creationdate="20190121T143907Z">
@@ -7981,6 +8045,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Über &lt;f0&gt;Berichte &gt; Bericht in der Entwurfsansicht erstellen …&lt;/f0&gt; wird der &lt;i1/&gt;Report-Designer aufgerufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Über &lt;f0&gt;Berichte → Bericht in der Entwurfsansicht erstellen …&lt;/f0&gt; wird ein Bericht erstellt, der eine übersichtliche Teilnehmerliste, sortiert nach Sportart, Geschlecht und Altersklasse darstellen soll.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T163259Z" creationid="dan" creationdate="20190121T163259Z">
+        <seg>&lt;f0&gt;Reports &gt; Create a report in Design view ... &lt;/f0&gt; will generate a report that will display a clear list of athletes sorted by sports type, gender and age group.</seg>
       </tuv>
     </tu>
     <tu>
