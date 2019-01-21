@@ -2560,6 +2560,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Das Ausschalten der Design-Ansicht ist hier eigentlich nicht notwendig, da alle Eingaben in der Design-Ansicht ohne größere Probleme möglich sind.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T162711Z" creationid="dan" creationdate="20190121T162711Z">
+        <seg>Switching off the design view is actually not necessary here, since all entries in the design view are possible without major problems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Das Dateiauswahlfeld liefert zuerst einmal nur den absoluten Pfad, der zwar für das Aufrufen der Datei &lt;te0/&gt;&lt;ts1/&gt;gut nutzbar ist, aber eben den Transport der Datenbankdatei zusammen mit den Dokumenten erschwert.&lt;te2/&gt;&lt;ts3/&gt; Die folgende Prozedur ist, wie im vorhergehenden Abschnitt&lt;te4/&gt;&lt;ts5/&gt;, über &lt;f6&gt;Ereignisse → Text modifiziert&lt;/f6&gt; an das Dateiauswahlfeld gebunden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -4321,6 +4329,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>ELSE "Sportalter" - MOD( "Sportalter", 2 ) END</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T162753Z" creationid="dan" creationdate="20190121T162753Z">
+        <seg>ELSE "Athlete age" - MOD ("Athlete age", 2) END</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>EXTRACT (YEAR FROM CURRENT_DATE) - EXTRACT (YEAR FROM "Geburtstag")</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T152755Z" creationid="dan" creationdate="20190121T143418Z">
@@ -5043,8 +5059,8 @@
       <tuv lang="DE">
         <seg>Für den Fall, dass das Sportalter über 19 Jahren ist, dividiere das Sportalter durch 10 und gib nur den Ganzzahlwert wieder.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T153202Z" creationid="dan" creationdate="20190121T151419Z">
-        <seg>In case the Athlete age is over 19, divide the athlete age by 10 and use only the integer value.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T162638Z" creationid="dan" creationdate="20190121T151419Z">
+        <seg>In case that the Athlete age is over 19, divide the athlete age by 10 and use only the integer value.</seg>
       </tuv>
     </tu>
     <tu>
