@@ -2856,6 +2856,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Der Geburtsjahrgang kann mit unterschiedlichen Funktionen ermittelt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143332Z" creationid="dan" creationdate="20190121T143332Z">
+        <seg>The birth year can be determined with different functions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Der Inhalt der Datenbank wird erst dann zurück in die Datei geschrieben.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T172931Z" creationid="dan" creationdate="20190115T172931Z">
@@ -4113,6 +4121,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>EXTRACT (YEAR FROM CURRENT_DATE) - EXTRACT (YEAR FROM "Geburtstag")</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143628Z" creationid="dan" creationdate="20190121T143418Z">
+        <seg>YEAR(CURRENT_DATE) - YEAR ("Birthday")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Ebenso ist dort eine Möglichkeit aufgeführt, wie auch zwischendurch gesichert werden kann.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T173200Z" creationid="dan" creationdate="20190115T173200Z">
@@ -4501,6 +4517,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T012227Z" creationid="dan" creationdate="20190120T012227Z">
         <seg>It is also possible to jump from one field to another while the properties dialog is open.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es kommt darauf an, wie alt eine Person in dem jeweiligen Jahr wird.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143323Z" creationid="dan" creationdate="20190121T143323Z">
+        <seg>It depends on how old a person is in that year.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7549,6 +7573,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Über &lt;f0&gt;Daten &gt; Bereich aktualisieren&lt;/f0&gt; wird der Bereich gegebenenfalls einem neuen Datenstand aus der Datenbank heraus angepasst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Über &lt;f0&gt;EXTRACT(YEAR FROM CURRENT_DATE)&lt;/f0&gt; wird das aktuelle Jahr bestimmt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T143704Z" creationid="dan" creationdate="20190121T143519Z">
+        <seg>Use &lt;f0&gt; YEAR(CURRENT_DATE) &lt;/f0&gt; to determine the current year.</seg>
       </tuv>
     </tu>
     <tu>
