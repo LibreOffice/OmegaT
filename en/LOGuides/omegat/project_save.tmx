@@ -2224,6 +2224,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>CASE WHEN Überprüfung, korrekt (THEN): diesen Wert nehmen, nicht korrekt (ELSE): den anderen Wert nehmen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T151157Z" creationid="dan" creationdate="20190121T151157Z">
+        <seg>CASE WHEN ( value1, value2). If CASE WHEN returns value1, it is used. If CASE WHEN returns a different vale, value2 is used.                                  Überprüfung, korrekt (THEN): diesen Wert nehmen, nicht korrekt (ELSE): den anderen Wert nehmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T144629Z" creationid="dan" creationdate="20181226T144629Z">
