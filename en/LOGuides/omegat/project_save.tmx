@@ -2266,8 +2266,8 @@
       <tuv lang="DE">
         <seg>CASE WHEN Überprüfung, korrekt (THEN): diesen Wert nehmen, nicht korrekt (ELSE): den anderen Wert nehmen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T153121Z" creationid="dan" creationdate="20190121T151157Z">
-        <seg>CASE WHEN Check, correct (THEN): take this value, not correct (ELSE): take the other value.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T162602Z" creationid="dan" creationdate="20190121T151157Z">
+        <seg>CASE WHEN:  Check for the values that make the expression correct and then use them in the expression after THEN. If expression is not correct, use the value following ELSE.</seg>
       </tuv>
     </tu>
     <tu>
