@@ -1416,6 +1416,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Ab 20 Jahren werden Gruppen für jeweils 10 Jahre gebildet, also von 20-30 Jahren usw.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T145121Z" creationid="dan" creationdate="20190121T145121Z">
+        <seg>From the age of 20, groups are formed for every 10 years, ie 20-30 years, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Ab der Version LO 6.1 ist der Zugriff auf &lt;f0&gt;bestehende&lt;/f0&gt; Firebird-Datenbanken ohne &lt;te1/&gt;&lt;ts2/&gt;die Einschaltung des experimentellen Modus möglich.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190104T115213Z" creationid="dan" creationdate="20190104T115213Z">
@@ -2208,6 +2216,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>CASE WHEN &lt;s0/&gt;"Sportalter" &gt; 19 THEN CEILING( "Sportalter" / 10 ) * 10 ELSE "Sportalter" - MOD( "Sportalter", 2 ) END</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T145318Z" creationid="dan" creationdate="20190121T145318Z">
+        <seg>CASE WHEN &lt;s0/&gt; "Athlette age"&gt; 19 THEN CEILING ("Athlete age" / 10) * 10 ELSE "Athlete age" - MOD ("Athlete age", 2) END</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Copyright</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T144629Z" creationid="dan" creationdate="20181226T144629Z">
@@ -2348,6 +2364,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T144541Z" creationid="dan" creationdate="20190121T144514Z">
         <seg>So that the code does not get too confusing for the beginner, the query should be saved under the name "Athlete age".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Damit die Ermittlung nicht allzu kompliziert wird soll hier folgende Zuordnung nachvollzogen werden: Unter 20 Jahren werden die Teilnehmer immer in zwei Jahrgängen, beginnend mit 0, &lt;s0/&gt;zusammen gefasst.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T145108Z" creationid="dan" creationdate="20190121T145108Z">
+        <seg>So that the determination is not too complicated, the following assignment should be followed: Under 20 years, the participants are always in two year increments, starting with 0, &lt;s0/&gt; .</seg>
       </tuv>
     </tu>
     <tu>
@@ -4369,6 +4393,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Eine einfachere Zuteilung der Altersklassen wäre sogar mit Hilfe des folgenden Berichtes möglich.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T145146Z" creationid="dan" creationdate="20190121T145146Z">
+        <seg>An easier allocation of age groups would even be possible with the help of the following report.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Eine einmal fertig gestellte *.odb-Datei, die anschließend nur noch mit Daten gefüttert wird, wird nicht wieder über den Speicherbutton abgespeichert.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T172828Z" creationid="dan" creationdate="20190115T172828Z">
@@ -4949,6 +4981,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T191705Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>The automatic insertion of ascending numerical values ​​is activated for this field: &lt;f0&gt; Field Properties → Auto Value → Yes &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Für differenziertere Zuteilung sei erneut auf den Anhang des Handbuches verwiesen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T145218Z" creationid="dan" creationdate="20190121T145218Z">
+        <seg>For a more differentiated allocation, please refer to the appendix of the manual.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6605,6 +6645,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T171326Z" creationid="dan" creationdate="20190119T171326Z">
         <seg>Such a table construction is difficult to fill with input into tables of content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Solche Formeln gehören eigentlich längst nicht mehr zum Einstiegs-Repertoire.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190121T145133Z" creationid="dan" creationdate="20190121T145133Z">
+        <seg>Such formulas are no longer part of the introductory repertoire.</seg>
       </tuv>
     </tu>
     <tu>
