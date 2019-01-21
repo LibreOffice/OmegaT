@@ -2258,16 +2258,16 @@
       <tuv lang="DE">
         <seg>CASE WHEN &lt;s0/&gt;"Sportalter" &gt; 19 THEN CEILING( "Sportalter" / 10 ) * 10 ELSE "Sportalter" - MOD( "Sportalter", 2 ) END</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T145318Z" creationid="dan" creationdate="20190121T145318Z">
-        <seg>CASE WHEN &lt;s0/&gt; "Athlette age"&gt; 19 THEN CEILING ("Athlete age" / 10) * 10 ELSE "Athlete age" - MOD ("Athlete age", 2) END</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T153029Z" creationid="dan" creationdate="20190121T145318Z">
+        <seg>CASE WHEN &lt;s0/&gt; "Athlete age"&gt; 19 THEN CEILING ("Sport age" / 10) * 10 ELSE "Athlete age" - MOD ("Sport age", 2) END</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>CASE WHEN Überprüfung, korrekt (THEN): diesen Wert nehmen, nicht korrekt (ELSE): den anderen Wert nehmen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T151157Z" creationid="dan" creationdate="20190121T151157Z">
-        <seg>CASE WHEN ( value1, value2). If CASE WHEN returns value1, it is used. If CASE WHEN returns a different vale, value2 is used.                                  Überprüfung, korrekt (THEN): diesen Wert nehmen, nicht korrekt (ELSE): den anderen Wert nehmen.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T153121Z" creationid="dan" creationdate="20190121T151157Z">
+        <seg>CASE WHEN Check, correct (THEN): take this value, not correct (ELSE): take the other value.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4611,8 +4611,8 @@
       <tuv lang="DE">
         <seg>Entsprechend wird auch über &lt;f1&gt;EXTRACT(YEAR FROM "Geburtstag")&lt;/f1&gt; das Jahr des Geburtstags ermittelt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T143806Z" creationid="dan" creationdate="20190121T143806Z">
-        <seg>Likewise, &lt;f1&gt; YEAR("Birth date") &lt;/f1&gt; determines the year of the birthday.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T152933Z" creationid="dan" creationdate="20190121T143806Z">
+        <seg>Likewise, &lt;f1&gt; (YEAR FROM "Date of birth") &lt;/f1&gt; determines the year of the birthday.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5043,8 +5043,8 @@
       <tuv lang="DE">
         <seg>Für den Fall, dass das Sportalter über 19 Jahren ist, dividiere das Sportalter durch 10 und gib nur den Ganzzahlwert wieder.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T151419Z" creationid="dan" creationdate="20190121T151419Z">
-        <seg>In case the Athlete age is over 19, divide the athlete age by 10 and give only the integer value again.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190121T153202Z" creationid="dan" creationdate="20190121T151419Z">
+        <seg>In case the Athlete age is over 19, divide the athlete age by 10 and use only the integer value.</seg>
       </tuv>
     </tu>
     <tu>
