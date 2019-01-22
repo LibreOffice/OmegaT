@@ -1170,8 +1170,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Jetzt wird noch unter &lt;/f0&gt;&lt;f1&gt;Allgemein → Aufklappbar&lt;/f1&gt;&lt;f2&gt; «Ja» gewählt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Jetzt wird noch unter &lt;/f0&gt;&lt;f1&gt;Allgemein &gt; Aufklappbar&lt;/f1&gt;&lt;f2&gt; «Ja» gewählt.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011037Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>Now under &lt;f0&gt; General → Foldable &lt;/f0&gt; “Yes” is selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5493,6 +5493,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190118T190900Z" creationid="dan" creationdate="20190118T190900Z">
         <seg>Of course, another field could be used for this property.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Es muss auf jeden Fall die gleiche Reihenfolge haben wie die Einträge unter &lt;/f2&gt;&lt;f3&gt;Daten&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010240Z" creationid="dan" creationdate="20190122T010240Z">
+        <seg>It must in any case have the same order as the entries under &lt;f1&gt; Data &lt;/f1&gt;. </seg>
       </tuv>
     </tu>
     <tu>
