@@ -552,6 +552,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011837Z" creationid="dan" creationdate="20190122T011837Z">
+        <seg>&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;&lt;f1&gt;Als Sicherheitsmaßnahme werden alle eventuell bestehenden anonymen Nutzer gelöscht.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T201806Z" creationid="dan" creationdate="20190115T201806Z">
@@ -952,6 +960,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Diese und viele andere Funktionen, die mit der eingebauten &lt;/f0&gt;&lt;f1&gt;Hsqldb&lt;/f1&gt;&lt;f2&gt; oder der &lt;/f2&gt;&lt;f3&gt;Firebird&lt;/f3&gt;&lt;f4&gt;-Datenbank zusammen arbeiten, sind im Anhang des Handbuches beschrieben.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011822Z" creationid="dan" creationdate="20190122T011822Z">
+        <seg>These and many other features that work with the built-in &lt;f0&gt; HSQLDB &lt;/f0&gt; or the &lt;f1&gt; Firebird &lt;/f1&gt; database are described in the appendix of the manual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;Dieses Buch, wie auch die anderen LibreOffice-&lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;Handbücher, das eingebaute &lt;/f2&gt;&lt;is3/&gt;&lt;f4&gt;Hilfesystem&lt;/f4&gt;&lt;ie5/&gt;&lt;f6&gt; und die Benutzer-Supportsysteme setzen voraus, dass Sie mit Ihrem Computer und den Basisfunktionen wie das Starten eines Programms, Öffnen und Speichern von Dateien vertraut sind.&lt;/f6&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181221T151619Z" creationid="dan" creationdate="20181220T171014Z">
@@ -1100,6 +1116,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181229T014133Z" creationid="dan" creationdate="20181220T201645Z">
         <seg>&lt;f0&gt;I am writing a software application. &lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;May&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt; I install program code from LibreOffice in my program?&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;Im Code sind Felder und Tabellen in doppelte Anführungszeichen gesetzt und in einem ockerfarbigen Farbton dargestellt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011855Z" creationid="dan" creationdate="20190122T011855Z">
+        <seg>In the code, fields and tables are enclosed in double quotation marks and displayed in an ocher hue.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1468,6 +1492,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>&lt;f0&gt;Über &lt;/f0&gt;&lt;f1&gt;Berichte &gt; Bericht in der Entwurfsansicht erstellen …&lt;/f1&gt;&lt;f2&gt; wird ein Bericht erstellt, der eine übersichtliche Teilnehmerliste, sortiert nach Sportart, Geschlecht und Altersklasse darstellen soll.&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;Über &lt;/f0&gt;&lt;f1&gt;EXTRACT(YEAR FROM CURRENT_DATE)&lt;/f1&gt;&lt;f2&gt; wird das aktuelle Jahr bestimmt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011730Z" creationid="dan" creationdate="20190122T011730Z">
+        <seg>Use &lt;f0&gt; EXTRACT (YEAR FROM CURRENT_DATE) &lt;/f0&gt; to determine the current year.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5341,6 +5373,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Enthält es keinen Inhalt, so muss ist bei &lt;f0&gt;Eingabe erforderlich &gt; Ja&lt;/f0&gt; gesetzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Entsprechend wird auch über &lt;/f2&gt;&lt;f3&gt;EXTRACT(YEAR FROM "Geburtstag")&lt;/f3&gt;&lt;f4&gt; das Jahr des Geburtstags ermittelt.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011748Z" creationid="dan" creationdate="20190122T011748Z">
+        <seg>Likewise, &lt;f1&gt; (YEAR FROM "Date of birth") &lt;/f1&gt; determines the year of the birthday.</seg>
       </tuv>
     </tu>
     <tu>
