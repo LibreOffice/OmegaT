@@ -672,6 +672,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Außerdem muss bei der Auswahl der Abstände berücksichtigt werden, dass eine folgende Gruppe nicht zu nah unter der vorhergehenden Gruppe erscheint.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012118Z" creationid="dan" creationdate="20190122T012118Z">
+        <seg>In addition, when selecting the distances, it must be taken into account that a following group does not appear too close to the previous group.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;Base hingegen bietet einen Zugriff auf verschiedene Datenbanksysteme über eine grafische Benutzeroberfläche.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181226T160941Z" creationid="dan" creationdate="20181226T160941Z">
@@ -748,6 +756,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190111T011459Z" creationid="dan" creationdate="20190111T011459Z">
         <seg>&lt;f0&gt;There are also many sample databases &lt;/ f0&gt; &lt;f1&gt; &lt;f2&gt; &lt;t3 /&gt; &lt;/ f2&gt; &lt;/ f1&gt; &lt;f4&gt; that are tailored to specific problems:&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;Das Textfeld «=Geschlecht» wird markiert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012149Z" creationid="dan" creationdate="20190122T012149Z">
+        <seg>The text field “= Gender” is highlighted.</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,8 +922,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Die Sortierung kann auch über &lt;/f0&gt;&lt;f1&gt;Ansicht → Sorting and Grouping&lt;/f1&gt;&lt;f2&gt; angezeigt werden.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Die Sortierung kann auch über &lt;/f0&gt;&lt;f1&gt;Ansicht &gt; Sorting and Grouping&lt;/f1&gt;&lt;f2&gt; angezeigt werden.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012046Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>The sorting can also be displayed via &lt;f0&gt; View &gt; Sorting and Grouping &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1120,6 +1136,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Im Berichtsfenster befindet sich auf der rechten Seite die Übersicht über die Eigenschaften des gerade aktiven Objektes.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012003Z" creationid="dan" creationdate="20190122T012003Z">
+        <seg>In the report window, on the right side, there is an overview of the properties of the currently active object.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;Im Code sind Felder und Tabellen in doppelte Anführungszeichen gesetzt und in einem ockerfarbigen Farbton dargestellt.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190122T011855Z" creationid="dan" creationdate="20190122T011855Z">
@@ -1324,6 +1348,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190255Z" creationid="dan" creationdate="20190115T190255Z">
         <seg>&lt;f0&gt; Once the saving has been made, the user interface start screen for the database appears.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;Sobald in einer Abfrage bei ausgeschalteter Design-Ansicht der Button &lt;/f0&gt;&lt;f1&gt;SQL&lt;/f1&gt;&lt;f2&gt; (für &lt;/f2&gt;&lt;f3&gt;SQL-Kommando direkt ausführen&lt;/f3&gt;&lt;f4&gt;) gedrückt wird, wird die Datenbank mit einer Fehlermeldung reagieren.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011939Z" creationid="dan" creationdate="20190122T011939Z">
+        <seg>As soon as the button &lt;f0&gt; SQL &lt;/f0&gt; (for &lt;f1&gt; execute SQL command directly &lt;/f1&gt;) is pressed in a query with the design view switched off, the database will respond with an error message.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1708,6 +1740,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190101T005634Z" creationid="dan" creationdate="20190101T005634Z">
         <seg>Creation of a database in general terms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Als &lt;/f2&gt;&lt;f3&gt;Inhalt&lt;/f3&gt;&lt;f4&gt; wird dann die Abfrage "Meldung" gewählt, die als letzte zusammenfassende Abfrage erstellt wurde.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012035Z" creationid="dan" creationdate="20190122T012035Z">
+        <seg>As &lt;f1&gt; content &lt;/f1&gt; the query "Enrolement" is selected, which was created as the last summary query.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3816,6 +3856,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Die Abstände zwischen den Gruppenköpfen und dem Inhalt des Detailbereichs ist viel zu groß.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012102Z" creationid="dan" creationdate="20190122T012102Z">
+        <seg>The spacing between the group headers and the content of the detail area is far too large.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Die Ausleihdaten des aktuell markierten Nutzers werden in den darunterliegenden Feldern angezeigt.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190112T204343Z" creationid="dan" creationdate="20190112T204343Z">
@@ -3876,6 +3924,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T165539Z" creationid="dan" creationdate="20190121T165539Z">
         <seg>The identifiers for the displayed fields from the section “detail” (“last name”. “first name”. etc.) should be better in common for all contents of the area than table headers over the contents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Bezeichnung &lt;/f0&gt;&lt;f1&gt;AS&lt;/f1&gt;&lt;f2&gt; erscheint in neueren Versionen von LO nicht mehr.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011909Z" creationid="dan" creationdate="20190122T011909Z">
+        <seg>The label &lt;f0&gt; AS &lt;/f0&gt; no longer appears in newer versions of LO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,6 +4459,14 @@
         <seg>Die eingebettete Datenbank kennt die Abfrage "Sportalter" nicht, auf die sich die aktuellen Abfrage "Meldung" bezieht.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T163211Z" creationid="dan" creationdate="20190121T163211Z">
+        <seg>The embedded database does not know the "Sport Age" query to which the current query "message" refers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die eingebettete Datenbank kennt die Abfrage "Sportalter" nicht, auf die sich die aktuellen Abfrage "Meldung" bezieht.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011947Z" creationid="dan" creationdate="20190122T011947Z">
         <seg>The embedded database does not know the "Sport Age" query to which the current query "message" refers.</seg>
       </tuv>
     </tu>
@@ -5283,8 +5347,8 @@
       <tuv lang="DE">
         <seg>Eine solche Einstellung ist über &lt;/f0&gt;&lt;f1&gt;Ansicht → Sorting and Grouping&lt;/f1&gt;&lt;f2&gt; für jede Gruppe möglich.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>Eine solche Einstellung ist über &lt;/f0&gt;&lt;f1&gt;Ansicht &gt; Sorting and Grouping&lt;/f1&gt;&lt;f2&gt; für jede Gruppe möglich.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012133Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>Such a setting is possible via &lt;f0&gt; View &gt; Sorting and Grouping &lt;/f0&gt; for each group.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6683,8 +6747,8 @@
       <tuv lang="DE">
         <seg>In den Eigenschaften auf der rechten Seite des ReportBuilders wird der Reiter &lt;/f0&gt;&lt;f1&gt;Daten → Datenfeld&lt;/f1&gt;&lt;f2&gt; aufgesucht.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>In den Eigenschaften auf der rechten Seite des ReportBuilders wird der Reiter &lt;/f0&gt;&lt;f1&gt;Daten &gt; Datenfeld&lt;/f1&gt;&lt;f2&gt; aufgesucht.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012224Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>In the properties on the right side of the ReportBuilder, locate the tab &lt;f0&gt; Data &gt; Data field &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7955,8 +8019,8 @@
       <tuv lang="DE">
         <seg>Sollte die Leiste nicht sichtbar sein, so muss sie über &lt;/f0&gt;&lt;f1&gt;Ansicht → Properties&lt;/f1&gt;&lt;f2&gt; ausgewählt werden.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>Sollte die Leiste nicht sichtbar sein, so muss sie über &lt;/f0&gt;&lt;f1&gt;Ansicht &gt; Properties&lt;/f1&gt;&lt;f2&gt; ausgewählt werden.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T012018Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>If this is not visible, it must be selected via &lt;f0&gt; View &gt; Properties &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
