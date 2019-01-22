@@ -402,8 +402,8 @@
       <tuv lang="DE">
         <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;Ansicht → Symbolleisten → Formular-Entwurf&lt;/f3&gt;&lt;f4&gt; sowie &lt;/f4&gt;&lt;f5&gt;Formular-Steuerelemente&lt;/f5&gt;&lt;f6&gt; einblenden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;/f1&gt;&lt;/f0&gt;&lt;f3&gt;Ansicht &gt; Symbolleisten &gt; Formular-Entwurf&lt;/f3&gt;&lt;f4&gt; sowie &lt;/f4&gt;&lt;f5&gt;Formular-Steuerelemente&lt;/f5&gt;&lt;f6&gt; einblenden.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005440Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>&lt;f1&gt;View &gt; Toolbars &gt; Form Design &lt;/f1&gt; and &lt;f2&gt; Form Controls &lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -564,6 +564,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181229T013608Z" creationid="dan" creationdate="20181220T192953Z">
         <seg>&lt;f0&gt;&lt;f1&gt;The images in this book have been taken on a variety of computers and operating systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;&lt;f1&gt;Die Symbolleisten lassen sich über &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005422Z" creationid="dan" creationdate="20190122T005422Z">
+        <seg>The toolbars can be accessed via &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,6 +1248,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Nun soll noch der Titel geändert werden, der für das Feld "ID_Sportart" eingetragen wurde.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005301Z" creationid="dan" creationdate="20190122T005301Z">
+        <seg>Now we want to change the title, which was entered for the field "ID_Sport_types".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;Rufen Sie im Formularentwurf über &lt;/f0&gt;&lt;f1&gt;Extras → Anpassen&lt;/f1&gt;&lt;f2&gt; das Register &lt;/f2&gt;&lt;f3&gt;Ereignisse &lt;/f3&gt;&lt;f4&gt;auf.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
@@ -1364,6 +1380,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190111T020926Z" creationid="dan" creationdate="20190111T020926Z">
         <seg>&lt;f0&gt;Like any software, LO-Base does not run completely error-free.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;Wird jetzt das Formular zur Eingabe von Daten aufgerufen, dann könnte es ungefähr wie folgt aussehen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005512Z" creationid="dan" creationdate="20190122T005512Z">
+        <seg>Now, when invoking the data entry form, it might look something like this.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2712,6 +2736,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Dann konnten auch Sportarten gewählt werden.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005534Z" creationid="dan" creationdate="20190122T005534Z">
+        <seg>Then sport_types could be chosen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Dann muss natürlich, wie bei allen Wettbewerben, ermittelt werden, wer denn nun in der jeweiligen Altersklasse auf welcher Platzierung gelandet ist.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T233431Z" creationid="dan" creationdate="20190121T232957Z">
@@ -3336,6 +3368,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Der Formularnavigator wird über die Symbolleiste «Formular-Entwurf» am unteren Bildschirmrand gestartet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005409Z" creationid="dan" creationdate="20190122T005409Z">
+        <seg>The form navigator is launched from the Form Design toolbar at the bottom of the screen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Der Geburtsjahrgang kann mit unterschiedlichen Funktionen ermittelt werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T143332Z" creationid="dan" creationdate="20190121T143332Z">
@@ -3620,6 +3660,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Die Abfrage wird abgespeichert, mit der rechten Maustaste angeklickt und über &lt;f0&gt;Abfrage &gt; Als Ansicht erstellen&lt;/f0&gt; unter der Bezeichnung «Chart_Kategorie_Circle» als Ansicht gespeichert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die Abfrage wird mit dem Speicherbutton in die Eigenschaften des Listenfeldes übertragen.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005240Z" creationid="dan" creationdate="20190122T005240Z">
+        <seg>The query is transferred with the memory button into the properties of the list box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5481,6 +5529,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Es wird zwar weiterhin "ID_Sportart" abgespeichert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005356Z" creationid="dan" creationdate="20190122T005356Z">
+        <seg>It is still stored as"ID_Sport_types".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Es öffnen sich die Eigenschaften des ausgewählten Listenfeldes.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190119T213257Z" creationid="dan" creationdate="20190119T213257Z">
@@ -7089,6 +7145,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Nach der Eingabe des Geschlechtes wurde erst einmal der Button &lt;/f0&gt;&lt;f1&gt;Speichern&lt;/f1&gt;&lt;f2&gt; betätigt.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005521Z" creationid="dan" creationdate="20190122T005521Z">
+        <seg>After entering the gender, the button &lt;f0&gt; Save &lt;/f0&gt; was clicked.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Nach der Eingabe des Geschlechtes wurde erst einmal der Button &lt;f0&gt;Speichern&lt;/f0&gt; betätigt.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T012503Z" creationid="dan" creationdate="20190120T012503Z">
@@ -7764,6 +7828,14 @@
         <seg>Sollten sie danach auch bei der Dateneingabe sichtbar sein, so muss hier entsprechend wieder die Ansicht ausgeschaltet werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T012124Z" creationid="dan" creationdate="20190120T012124Z">
+        <seg>Should they be visible after entering the data, the view must be switched off accordingly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Sollten sie danach auch bei der Dateneingabe sichtbar sein, so muss hier entsprechend wieder die Ansicht ausgeschaltet werden.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005500Z" creationid="dan" creationdate="20190122T005500Z">
         <seg>Should they be visible after entering the data, the view must be switched off accordingly.</seg>
       </tuv>
     </tu>
