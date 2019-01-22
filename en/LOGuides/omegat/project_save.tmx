@@ -1232,6 +1232,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Mit der Auswahl &lt;/f0&gt;&lt;f1&gt;Auto Sortierung&lt;/f1&gt;&lt;f2&gt; erfolgt nicht nur die Sortierung der angezeigten Steuerelemente, sondern auch die automatische Weiterleitung in das Unterformular.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005553Z" creationid="dan" creationdate="20190122T005553Z">
+        <seg>Selecting &lt;f0&gt; Auto sorting &lt;/f0&gt; not only sorts the displayed controls but also automatically routes them to the subform.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;MySQL-Datenbanken oder auch MariaDB-Datenbanken können auf drei verschiedene Weisen mit Base verbunden werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T193821Z" creationid="dan" creationdate="20190115T193821Z">
@@ -1322,8 +1330,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Unter &lt;/f0&gt;&lt;f1&gt;Daten → Symbolleiste Navigation&lt;/f1&gt;&lt;f2&gt; wird der Wert von «Ja» auf «Übergeordnetes Formular» geändert.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Unter &lt;/f0&gt;&lt;f1&gt;Daten &gt; Symbolleiste Navigation&lt;/f1&gt;&lt;f2&gt; wird der Wert von «Ja» auf «Übergeordnetes Formular» geändert.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010025Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>Under &lt;f0&gt; Data &gt; Navigation bar &lt;/f0&gt; the value of “Yes” is changed to “Parent Form”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1851,6 +1859,14 @@
         <seg>Anschließend zeigt die Symbolleiste Navigation immer die Nummer des Datensatzes aus der Tabelle "Teilnehmer" an.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T014018Z" creationid="dan" creationdate="20190120T014018Z">
+        <seg>The Navigation toolbar then displays the number of the record from the Athletes table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Anschließend zeigt die Symbolleiste Navigation immer die Nummer des Datensatzes aus der Tabelle "Teilnehmer" an.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005634Z" creationid="dan" creationdate="20190122T005634Z">
         <seg>The Navigation toolbar then displays the number of the record from the Athletes table.</seg>
       </tuv>
     </tu>
@@ -3152,6 +3168,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Das ist zwar aus dem Dialog nicht ersichtlich, wird aber im Hintergrund so geregelt.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005604Z" creationid="dan" creationdate="20190122T005604Z">
+        <seg>Although this is not apparent from the dialog, it is regulated in the background.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Das kann auch 'm' und 'w' sein.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T022109Z" creationid="dan" creationdate="20190120T022109Z">
@@ -3364,6 +3388,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T012021Z" creationid="dan" creationdate="20190120T012021Z">
         <seg>The form navigator is not be found.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Der Formularnavigator wird geöffnet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T005612Z" creationid="dan" creationdate="20190122T005612Z">
+        <seg>The form navigator opens.</seg>
       </tuv>
     </tu>
     <tu>
