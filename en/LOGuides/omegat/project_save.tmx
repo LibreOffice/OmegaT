@@ -872,6 +872,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>&lt;f0&gt;Die Felder, die in der Abfrage dargestellt werden sollen, können entweder durch einen Doppelklick auf die Feldnamen in den Tabellen oder durch Auswahl in der Zeile &lt;/f0&gt;&lt;f1&gt;Feld&lt;/f1&gt;&lt;f2&gt; eingestellt werden.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011348Z" creationid="dan" creationdate="20190122T011348Z">
+        <seg>The fields to be displayed in the query can be set either by double-clicking on the field names in the tables or by selecting in the line &lt;f0&gt; Field &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>&lt;f0&gt;Die LibreOffice-Gemeinschaft, manchmal wegen ihrer Internationalität auch Community bezeichnet, entwickelt nicht nur die Software LibreOffice, sondern bietet auch kostenfreie, freiwilligenbasierende Unterstützung.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20181220T172413Z" creationid="dan" creationdate="20181220T172413Z">
@@ -1004,6 +1012,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T164512Z" creationid="dan" creationdate="20190115T164512Z">
         <seg>&lt;f0&gt; So a report created in this way is more extensive than a &lt;/ f0&gt; &lt;is1 /&gt; &lt;f2&gt; form letter &lt;/ f2&gt; &lt;ie3 /&gt; &lt;f4&gt; that is created with Writer: it automatically compiles all records that have been created, should be printed, and arranges the additional text accordingly.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;Eine Abfrage sollte grundsätzlich vor dem Abspeichern auch einmal ausgeführt werden um zu sehen, ob sie denn wirklich das erhoffte Ergebnis liefert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011433Z" creationid="dan" creationdate="20190122T011433Z">
+        <seg>A query should always be executed before saving to see if it really delivers the expected result.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,8 +1186,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Jetzt wird noch unter &lt;/f0&gt;&lt;f1&gt;Allgemein → Aufklappbar&lt;/f1&gt;&lt;f2&gt; «Ja» gewählt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190122T011037Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>Now under &lt;f0&gt; General → Foldable &lt;/f0&gt; “Yes” is selected.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011325Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>Now under &lt;f0&gt; General → Dropdown &lt;/f0&gt; “Yes” is selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2200,6 +2216,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Bei der Auswahl in der Zeile werden die Felder sämtlicher aufgeführter Tabellen aufgelistet.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011402Z" creationid="dan" creationdate="20190122T011402Z">
+        <seg>When selected in the row, the fields of all listed tables are listed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Bei der Nutzung des Formulars fallen einige Unannehmlichkeiten auf:</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T012535Z" creationid="dan" creationdate="20190120T012535Z">
@@ -2795,6 +2819,14 @@
         <seg>Dann sind auch gleich die Verbindungen gut zu erkennen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T022855Z" creationid="dan" creationdate="20190120T022855Z">
+        <seg>Then the connections are easy to recognize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Dann sind auch gleich die Verbindungen gut zu erkennen.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011336Z" creationid="dan" creationdate="20190122T011336Z">
         <seg>Then the connections are easy to recognize.</seg>
       </tuv>
     </tu>
@@ -4356,6 +4388,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
         <seg>Die entsprechende Datei kann über &lt;f0&gt;Extras &gt; SQL&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;eingelesen werden und erzeugt so eine Datenbank mit den entsprechenden Daten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Die folgende Eingabe zeigt die Variante, die für Personen mit Englischkenntnissen vielleicht auch so erschließbar ist:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011720Z" creationid="dan" creationdate="20190122T011720Z">
+        <seg>The following input shows the variant that looks English to persons with English proficiency:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8692,6 +8732,14 @@
         <seg>Wird statt des Feldnamen ein «*» eingesetzt, so bedeutet dies, dass alle Felder der entsprechenden Tabelle angezeigt werden sollen.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190121T142918Z" creationid="dan" creationdate="20190121T142918Z">
+        <seg>If an “*” is used instead of the field name, this means that all fields of the corresponding table should be displayed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>Wird statt des Feldnamen ein «*» eingesetzt, so bedeutet dies, dass alle Felder der entsprechenden Tabelle angezeigt werden sollen.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T011417Z" creationid="dan" creationdate="20190122T011417Z">
         <seg>If an “*” is used instead of the field name, this means that all fields of the corresponding table should be displayed.</seg>
       </tuv>
     </tu>
