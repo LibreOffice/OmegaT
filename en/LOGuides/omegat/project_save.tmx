@@ -794,8 +794,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Daten → Art des Listeninhalts&lt;/f0&gt;&lt;f1&gt; bleibt auf dem Wert «Werteliste» stehen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Daten &gt; Art des Listeninhalts&lt;/f0&gt;&lt;f1&gt; bleibt auf dem Wert «Werteliste» stehen.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010141Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>&lt;f0&gt;Data &gt; Type of list content &lt;/f0&gt; remains at value “List of values”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,8 +1122,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;Allgemein → Listen-Einträge&lt;/f1&gt;&lt;f2&gt; wird das angegeben, was durch das Listenfeld angezeigt werden soll.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;In &lt;/f0&gt;&lt;f1&gt;Allgemein &gt; Listen-Einträge&lt;/f1&gt;&lt;f2&gt; wird das angegeben, was durch das Listenfeld angezeigt werden soll.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010229Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>In &lt;f0&gt; General → List Entries &lt;/f0&gt;, you specify what is to be displayed by the list box.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1396,6 +1396,14 @@
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190122T005512Z" creationid="dan" creationdate="20190122T005512Z">
         <seg>Now, when invoking the data entry form, it might look something like this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
+        <seg>&lt;f0&gt;Zuerst wird das Formularfeld für die Eingabe des Geschlechts über den Navigator markiert.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010104Z" creationid="dan" creationdate="20190122T010104Z">
+        <seg>First the form field for entering the gender is selected via the navigator.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1832,6 +1840,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Anschließend wird über das Kontextmenü &lt;/f2&gt;&lt;f3&gt;Eigenschaften&lt;/f3&gt;&lt;f4&gt; ausgewählt.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010124Z" creationid="dan" creationdate="20190122T010124Z">
+        <seg>Then select Control &lt;/f1&gt; via the context menu &lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Anschließend wird über das Kontextmenü &lt;f1&gt;Eigenschaften&lt;/f1&gt; ausgewählt.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190120T015708Z" creationid="dan" creationdate="20190120T015254Z">
@@ -1858,16 +1874,16 @@
       <tuv lang="DE">
         <seg>Anschließend zeigt die Symbolleiste Navigation immer die Nummer des Datensatzes aus der Tabelle "Teilnehmer" an.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T014018Z" creationid="dan" creationdate="20190120T014018Z">
-        <seg>The Navigation toolbar then displays the number of the record from the Athletes table.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010028Z" creationid="dan" creationdate="20190120T014018Z">
+        <seg>The navigation bar then displays the number of the record from the Athletes table.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>Anschließend zeigt die Symbolleiste Navigation immer die Nummer des Datensatzes aus der Tabelle "Teilnehmer" an.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190122T005634Z" creationid="dan" creationdate="20190122T005634Z">
-        <seg>The Navigation toolbar then displays the number of the record from the Athletes table.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010028Z" creationid="dan" creationdate="20190122T005634Z">
+        <seg>The navigation bar then displays the number of the record from the Athletes table.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,6 +4640,14 @@
     </tu>
     <tu>
       <tuv lang="DE">
+        <seg>Diese Kürzel sind die Daten, die an die Tabelle "Teilnehmer" weiter gegeben werden.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010211Z" creationid="dan" creationdate="20190122T010211Z">
+        <seg>These abbreviations are the data that is passed to the "Athletes" table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="DE">
         <seg>Diese Speicherung muss aber noch im Hauptfenster der Base-Datei bestätigt werden.</seg>
       </tuv>
       <tuv lang="EN" changeid="dan" changedate="20190115T185006Z" creationid="dan" creationdate="20190115T185006Z">
@@ -6451,8 +6475,8 @@
       <tuv lang="DE">
         <seg>In &lt;/f1&gt;&lt;f2&gt;Daten → Listeninhalt&lt;/f2&gt;&lt;f3&gt; werden die Kürzel 'm' und 'w' untereinander (erreichbar durch &lt;/f3&gt;&lt;f4&gt;Shift&lt;/f4&gt;&lt;f5&gt; + &lt;/f5&gt;&lt;f6&gt;Eingabetaste&lt;/f6&gt;&lt;f7&gt;) eingegeben.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>In &lt;/f1&gt;&lt;f2&gt;Daten &gt; Listeninhalt&lt;/f2&gt;&lt;f3&gt; werden die Kürzel 'm' und 'w' untereinander (erreichbar durch &lt;/f3&gt;&lt;f4&gt;Shift&lt;/f4&gt;&lt;f5&gt; + &lt;/f5&gt;&lt;f6&gt;Eingabetaste&lt;/f6&gt;&lt;f7&gt;) eingegeben.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010158Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>In &lt;f1&gt; Data &gt; List Content &lt;/f1&gt;, the abbreviations "m" and "w" are entered among each other (accessible by &lt;f2&gt; Shift &lt;/f2&gt; + &lt;f3&gt; Enter &lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8203,8 +8227,8 @@
       <tuv lang="DE">
         <seg>Unter &lt;f0&gt;Daten → Symbolleiste Navigation&lt;/f0&gt; wird der Wert von «Ja» auf «Übergeordnetes Formular» geändert.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T013957Z" creationid="dan" creationdate="20190120T013957Z">
-        <seg>Under &lt;f0&gt; Data → Navigation toolbar &lt;/f0&gt; the value of “Yes” is changed to “Parent Form”.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010028Z" creationid="dan" creationdate="20190120T013957Z">
+        <seg>Under &lt;f0&gt; Data → navigation bar &lt;/f0&gt; the value of “Yes” is changed to “Parent Form”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9099,8 +9123,8 @@
       <tuv lang="DE">
         <seg>Über das mit der rechten Maustaste erreichbare Kontextmenü wird &lt;/f0&gt;&lt;f1&gt;Ersetzen durch → Listenfeld&lt;/f1&gt;&lt;f2&gt; ausgewählt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>Über das mit der rechten Maustaste erreichbare Kontextmenü wird &lt;/f0&gt;&lt;f1&gt;Ersetzen durch &gt; Listenfeld&lt;/f1&gt;&lt;f2&gt; ausgewählt.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190122T010114Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>The context menu accessible with the right mouse button selects &lt;f0&gt; Replace with &gt; list box &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
