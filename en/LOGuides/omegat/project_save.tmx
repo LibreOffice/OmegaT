@@ -8,8 +8,8 @@
       <tuv lang="DE">
         <seg>"ID_Sportart" muss den Feldtyp «Text» haben und außerdem, wie das Feld "ID" aus der Tabelle "Sportart", auf 5 Zeichen begrenzt werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165348Z" creationid="dan" creationdate="20190118T205944Z">
-        <seg>”ID_Sport_types” must have the field type “Text” and also, like the field “ID” from the table “Sport_types” be limited to 5 characters.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190118T205944Z">
+        <seg>”ID_Sports_types” must have the field type “Text” and also, like the field “ID” from the table “Sports_types” be limited to 5 characters.</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,8 +330,8 @@
       <tuv lang="DE">
         <seg>&lt;/f0&gt;&lt;f1&gt;Daten → Art des Listeninhaltes → SQL&lt;/f1&gt;&lt;f2&gt; soll gewählt werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;/f0&gt;&lt;f1&gt;Daten &gt; Art des Listeninhaltes &gt; SQL&lt;/f1&gt;&lt;f2&gt; soll gewählt werden.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T224101Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>&lt;f0&gt;Data &gt; Type of list content &gt; SQL &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,8 +682,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Aus den Eigenschaften wird im Reiter &lt;/f0&gt;&lt;f1&gt;Daten → Art des Inhaltes → Abfrage&lt;/f1&gt;&lt;f2&gt; ausgewählt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Aus den Eigenschaften wird im Reiter &lt;/f0&gt;&lt;f1&gt;Daten &gt; Art des Inhaltes &gt; Abfrage&lt;/f1&gt;&lt;f2&gt; ausgewählt.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T224605Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>From the properties in the tab &lt;f0&gt; data &gt; type of content &gt; query &lt;/f0&gt; is selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,8 +898,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Der Start dazu geht über &lt;/f0&gt;&lt;f1&gt;Abfragen → Abfrage in der Entwurfsansicht erstellen …&lt;/f1&gt;&lt;f2&gt; .</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Der Start dazu geht über &lt;/f0&gt;&lt;f1&gt;Abfragen &gt; Abfrage in der Entwurfsansicht erstellen …&lt;/f1&gt;&lt;f2&gt; .</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T224242Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>The start is via &lt;f0&gt; Queries &gt; Create query in design view ... &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,8 +1202,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Im Dialog «Tabelle oder Abfrage hinzufügen» erfolgt ein Klick auf &lt;/f0&gt;&lt;f1&gt;Sportart → Hinzufügen → Schließen&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Im Dialog «Tabelle oder Abfrage hinzufügen» erfolgt ein Klick auf &lt;/f0&gt;&lt;f1&gt;Sportart &gt; Hinzufügen &gt; Schließen&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T224219Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>In the “Add Table or Query” dialog, click on &lt;f0&gt; Sports_types &gt; Add &gt; Close &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,8 +1370,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Nun soll noch der Titel geändert werden, der für das Feld "ID_Sportart" eingetragen wurde.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190122T204430Z" creationid="dan" creationdate="20190122T005301Z">
-        <seg>&lt;f0&gt;Now we want to change the title, which was entered for the field "ID_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190122T005301Z">
+        <seg>&lt;f0&gt;Now we want to change the title, which was entered for the field "ID_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1386,8 +1386,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Schritt 6 sollte so bleiben, wie er vorgesehen ist, also &lt;/f0&gt;&lt;f1&gt;Dateneingabe → Das Formular zeigt existierende Daten an&lt;/f1&gt;&lt;f2&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Schritt 6 sollte so bleiben, wie er vorgesehen ist, also &lt;/f0&gt;&lt;f1&gt;Dateneingabe &gt; Das Formular zeigt existierende Daten an&lt;/f1&gt;&lt;f2&gt;.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T224037Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>Step 6 should remain as it is intended, so &lt;f0&gt; data entry &gt; the form displays existing data &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1570,8 +1570,8 @@
       <tuv lang="DE">
         <seg>&lt;f0&gt;Über &lt;/f0&gt;&lt;f1&gt;Berichte → Bericht in der Entwurfsansicht erstellen …&lt;/f1&gt;&lt;f2&gt; wird ein Bericht erstellt, der eine übersichtliche Teilnehmerliste, sortiert nach Sportart, Geschlecht und Altersklasse darstellen soll.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&lt;f0&gt;Über &lt;/f0&gt;&lt;f1&gt;Berichte &gt; Bericht in der Entwurfsansicht erstellen …&lt;/f1&gt;&lt;f2&gt; wird ein Bericht erstellt, der eine übersichtliche Teilnehmerliste, sortiert nach Sportart, Geschlecht und Altersklasse darstellen soll.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T224420Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>&lt;f0&gt;Reports &gt; Create a report in Design view ... &lt;/f0&gt; will generate a report that will display a clear list of athletes sorted by sports type, gender and age group.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,8 +1786,8 @@
       <tuv lang="DE">
         <seg>Allerdings muss sie hier noch durch einen Klick auf die Tabelle "rel_Teilnehmer_Sportart" bestätigt werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T212037Z" creationid="dan" creationdate="20190119T212037Z">
-        <seg>However, it must be confirmed here by clicking on the table "rel_Athletes_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T212037Z">
+        <seg>However, it must be confirmed here by clicking on the table "rel_Athletes_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,8 +1978,8 @@
       <tuv lang="DE">
         <seg>Anschließend wird im Dialog «Feld hinzufügen:» mit einem Mausklick auf das Feld «Sportart» ein Beschriftungsfeld und ein Textfeld eingefügt, das den Inhalt des Feldes «Sportart» aufnehmen soll.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T164806Z" creationid="dan" creationdate="20190121T164806Z">
-        <seg>Then, in the “Add Field:” dialog, a caption field and a text field are inserted with a mouse click on the “Sport_types” field to record the content of the “Sport_types” field.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190121T164806Z">
+        <seg>Then, in the “Add Field:” dialog, a caption field and a text field are inserted with a mouse click on the “Sports_types” field to record the content of the “Sports_types” field.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2178,16 +2178,16 @@
       <tuv lang="DE">
         <seg>Aus der Tabelle "rel_Teilnehmer_Sportart" wird nur das Feld "ID_Sportart" benötigt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T212204Z" creationid="dan" creationdate="20190119T212204Z">
-        <seg>From the table "rel_Athletes_Sport_types" only the field "ID_Sport_types" is needed.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T212204Z">
+        <seg>From the table "rel_Athletes_Sports_types" only the field "ID_Sports_types" is needed.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>Aus zwei 1:n-Beziehungen wird so über die dazwischen gesetzte Tabelle "rel_Teilnehmer_Sportart" eine n:m-Beziehung.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T171308Z" creationid="dan" creationdate="20190119T171308Z">
-        <seg>From two 1: n relationships, an n: m relationship is established via the table "rel_Athletes_Sport_types" in between.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T171308Z">
+        <seg>From two 1: n relationships, an n: m relationship is established via the table "rel_Athletes_Sports_types" in between.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2754,8 +2754,8 @@
       <tuv lang="DE">
         <seg>Dabei sollte darauf geachtet werden, dass die Teilnehmer und Teilnehmerinnen vom Alter und von der Sportart auch einmal in Konkurrenz zueinander treten können.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T022409Z" creationid="dan" creationdate="20190120T022409Z">
-        <seg>Care should be taken to ensure that athletes can compete with one another in terms of age and sport_type.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T022409Z">
+        <seg>Care should be taken to ensure that athletes can compete with one another in terms of age and Sports_type.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2930,16 +2930,16 @@
       <tuv lang="DE">
         <seg>Dann konnten auch Sportarten gewählt werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T012526Z" creationid="dan" creationdate="20190120T012526Z">
-        <seg>Then sport_types could be chosen.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T012526Z">
+        <seg>Then Sports_types could be chosen.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>Dann konnten auch Sportarten gewählt werden.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190122T204840Z" creationid="dan" creationdate="20190122T005534Z">
-        <seg>Then sport_types could be chosen&lt;/f2&gt;.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190122T005534Z">
+        <seg>Then Sports_types could be chosen&lt;/f2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3082,8 +3082,8 @@
       <tuv lang="DE">
         <seg>Das Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" soll nicht verändert werden, wenn "Teilnehmer"."ID" verändert würde.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165513Z" creationid="dan" creationdate="20190119T005401Z">
-        <seg>The field "rel_Athletes_Sport_types". "ID_Athletes" should not be changed if "Athletes". "ID" would be changed.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T005401Z">
+        <seg>The field "rel_Athletes_Sports_types". "ID_Athletes" should not be changed if "Athletes". "ID" would be changed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,8 +3554,8 @@
       <tuv lang="DE">
         <seg>Der Datensatz der Tabelle "rel_Teilnehmer_Sportart" soll gelöscht werden, wenn "ID_Teilnehmer" gleich "Teilnehmer"."ID" ist und "Teilnehmer"."ID" gelöscht wird.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165546Z" creationid="dan" creationdate="20190119T164114Z">
-        <seg>The record of the table "rel_Athletes_Sport_types" should be deleted if "ID_Athlete" is equal to "Athletes". "ID" and "Athletes". "ID" is deleted.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T164114Z">
+        <seg>The record of the table "rel_Athletes_Sports_types" should be deleted if "ID_Athlete" is equal to "Athletes". "ID" and "Athletes". "ID" is deleted.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,8 +3618,8 @@
       <tuv lang="DE">
         <seg>Der Gruppenkopf «Sportart Kopf» wird ausgewählt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T164634Z" creationid="dan" creationdate="20190121T164634Z">
-        <seg>The group header “Sport_types head” is selected.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190121T164634Z">
+        <seg>The group header “Sports_types head” is selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,8 +3842,8 @@
       <tuv lang="DE">
         <seg>Deswegen: &lt;f0&gt;Allgemein → Titel → Sportart&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T011504Z" creationid="dan" creationdate="20190120T011504Z">
-        <seg>Therefore: &lt;f0&gt; General &gt; Title &gt; Sport_types &lt;/f0&gt;.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T011504Z">
+        <seg>Therefore: &lt;f0&gt; General &gt; Title &gt; Sports_types &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4114,8 +4114,8 @@
       <tuv lang="DE">
         <seg>Die Eingabe von Teilnehmern und Teilnehmerinnen sowie die Zuordnung zu Sportarten kann beginnen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T022321Z" creationid="dan" creationdate="20190120T022321Z">
-        <seg>The entry of Athletes as well as the assignment to sport_types can begin.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T022321Z">
+        <seg>The entry of Athletes as well as the assignment to Sports_types can begin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,16 +4274,16 @@
       <tuv lang="DE">
         <seg>Die Maustaste wird gehalten und die Maus auf das Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" gezogen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165433Z" creationid="dan" creationdate="20190119T004834Z">
-        <seg>The mouse button is held and the mouse is dragged to the field "rel_Athletes_Sport_types". "ID_Athletes".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T004834Z">
+        <seg>The mouse button is held and the mouse is dragged to the field "rel_Athletes_Sports_types". "ID_Athletes".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>Die Maustaste wird über dem Feld "rel_Teilnehmer_Sportart"."ID_Teilnehmer" los gelassen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165449Z" creationid="dan" creationdate="20190119T005126Z">
-        <seg>The mouse button is released above the field "rel_Athletes_Sport_types". "ID_Athletes".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T005126Z">
+        <seg>The mouse button is released above the field "rel_Athletes_Sports_types". "ID_Athletes".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4420,16 +4420,16 @@
       <tuv lang="DE">
         <seg>Die Tabelle "Sportarten" wird direkt mit den wenigen notwendigen Sportarten bestückt und nur selten ergänzt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T180335Z" creationid="dan" creationdate="20190119T180038Z">
-        <seg>The table "Sport_type" is directly equipped with the few necessary sport types and only rarely is one added.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T180038Z">
+        <seg>The table "Sports_type" is directly equipped with the few necessary sport types and only rarely is one added.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>Die Tabelle "Teilnehmer" soll noch einmal zum Bearbeiten, nicht zur Dateneingabe, geöffnet werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165224Z" creationid="dan" creationdate="20190118T204535Z">
-        <seg>sThe "Sport_types" table should be opened again for editing, not for data entry.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190118T204535Z">
+        <seg>The "Sports_types" table should be opened again for editing, not for data entry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4460,8 +4460,8 @@
       <tuv lang="DE">
         <seg>Die Tabelle wird unter dem Namen "rel_Teilnehmer_Sportart" abgespeichert.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165402Z" creationid="dan" creationdate="20190118T210110Z">
-        <seg>The table is saved under the name "rel_Athletes_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190118T210110Z">
+        <seg>The table is saved under the name "rel_Athletes_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5157,8 +5157,8 @@
       <tuv lang="DE">
         <seg>Dort steht «ID_Sportart».</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T213133Z" creationid="dan" creationdate="20190119T213133Z">
-        <seg>There is “ID_Sport_types”.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T213133Z">
+        <seg>There is “ID_Sports_types”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5269,8 +5269,8 @@
       <tuv lang="DE">
         <seg>Ein Teilnehmer kann mehrmals in der Tabelle "rel_Teilnehmer_Sportart" auftauchen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T170828Z" creationid="dan" creationdate="20190119T170828Z">
-        <seg>An athlete can appear several times in the table "rel_Athletes_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T170828Z">
+        <seg>An athlete can appear several times in the table "rel_Athletes_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5381,8 +5381,8 @@
       <tuv lang="DE">
         <seg>Eine Sportart kann ebenfalls mehrmals in der Tabelle "rel_Teilnehmer_Sportart" auftauchen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T171054Z" creationid="dan" creationdate="20190119T171054Z">
-        <seg>A sports type can also appear several times in the table "rel_Athletes_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T171054Z">
+        <seg>A sports type can also appear several times in the table "rel_Athletes_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -5693,8 +5693,8 @@
       <tuv lang="DE">
         <seg>Es kann auch &lt;/f0&gt;&lt;f1&gt;F5&lt;/f1&gt;&lt;f2&gt; gedrückt oder der Weg über &lt;/f2&gt;&lt;f3&gt;Bearbeiten → Abfrage ausführen&lt;/f3&gt;&lt;f4&gt; gewählt werden.&lt;/f4&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>Es kann auch &lt;/f0&gt;&lt;f1&gt;F5&lt;/f1&gt;&lt;f2&gt; gedrückt oder der Weg über &lt;/f2&gt;&lt;f3&gt;Bearbeiten &gt; Abfrage ausführen&lt;/f3&gt;&lt;f4&gt; gewählt werden.&lt;/f4&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T224401Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>You can also press &lt;f0&gt; F5 &lt;/f0&gt; or select the path via &lt;f1&gt; Edit &gt; Execute query &lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5829,8 +5829,8 @@
       <tuv lang="DE">
         <seg>Es wird eine Tabelle "Sportarten" erstellt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165239Z" creationid="dan" creationdate="20190118T201249Z">
-        <seg>A "Sport_types" table will be created.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190118T201249Z">
+        <seg>A "Sports_types" table will be created.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5845,8 +5845,8 @@
       <tuv lang="DE">
         <seg>Es wird zwar weiterhin "ID_Sportart" abgespeichert.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190122T005356Z" creationid="dan" creationdate="20190122T005356Z">
-        <seg>It is still stored as"ID_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190122T005356Z">
+        <seg>It is still stored as"ID_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -6109,8 +6109,8 @@
       <tuv lang="DE">
         <seg>Für die Datenänderung bei "Sportart"."ID" ist allerdings eine andere Variante gewählt worden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T170114Z" creationid="dan" creationdate="20190119T170114Z">
-        <seg>For the data change with "Sport_types". "ID" however another variant was selected.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T170114Z">
+        <seg>For the data change with "Sports_types". "ID" however another variant was selected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6133,8 +6133,8 @@
       <tuv lang="DE">
         <seg>Für die erste Spalte wird in dem Abfrage-Editor das Feld "Sportart" ausgewählt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T010054Z" creationid="dan" creationdate="20190120T005954Z">
-        <seg>For the first column, the field "Sport_types" is entered in the query editor.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T005954Z">
+        <seg>For the first column, the field "Sports_types" is entered in the query editor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6565,8 +6565,8 @@
       <tuv lang="DE">
         <seg>Im Dialog «Tabelle oder Abfrage hinzufügen» erfolgt ein Klick auf &lt;f0&gt;Sportart → Hinzufügen → Schließen&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T005920Z" creationid="dan" creationdate="20190120T005920Z">
-        <seg>In the “Add Table or Query” dialog, click on &lt;f0&gt; Sport_types &gt; Add &gt; Close &lt;/f0&gt;.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T005920Z">
+        <seg>In the “Add Table or Query” dialog, click on &lt;f0&gt; Sports_types &gt; Add &gt; Close &lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6669,8 +6669,8 @@
       <tuv lang="DE">
         <seg>Im Sortierungs- und Gruppierungs-Dialog werden nacheinander die Felder "Sportart", "Geschlecht" und "Altersklasse" ausgewählt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T164502Z" creationid="dan" creationdate="20190121T164502Z">
-        <seg>In the Sorting and Grouping dialog, the fields "Sport_types", "Gender" and "Age group" are selected one after the other.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190121T164502Z">
+        <seg>In the Sorting and Grouping dialog, the fields "Sports_types", "Gender" and "Age group" are selected one after the other.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6701,8 +6701,8 @@
       <tuv lang="DE">
         <seg>Im nächsten Schritt werden "rel_Teilnehmer_Sportart"."ID_Sportart" und "Sportart"."ID" durch Ziehen der Maus bei gedrückter linker Maustaste verbunden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T170032Z" creationid="dan" creationdate="20190119T170032Z">
-        <seg>In the next step "rel_Athletes_Sport_types", "ID_Sport_types" and "Sport_types". "ID" are connected by dragging the mouse while holding down the left mouse button.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T170032Z">
+        <seg>In the next step "rel_Athletes_Sports_types", "ID_Sports_types" and "Sports_types". "ID" are connected by dragging the mouse while holding down the left mouse button.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6917,16 +6917,16 @@
       <tuv lang="DE">
         <seg>In der Tabelle "Sportart" muss "Sportart"."ID" gesucht und entsprechend in "rel_Teilnehmer_Sportart" eingetragen werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T171520Z" creationid="dan" creationdate="20190119T171520Z">
-        <seg>In the table "Sport_type" you have to search for "Sport". "ID" and enter it accordingly in "rel_Athletes_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T171520Z">
+        <seg>In the table "Sports_type" you have to search for "Sport". "ID" and enter it accordingly in "rel_Athletes_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>In der Tabelle "Teilnehmer" muss "Teilnehmer"."ID" gesucht werden und nach "rel_Teilnehmer_Sportart" übertragen werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T171446Z" creationid="dan" creationdate="20190119T171446Z">
-        <seg>In the "Athletes" table, you must search for "Athletes". "ID" and transfer them to "rel_Athletes_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T171446Z">
+        <seg>In the "Athletes" table, you must search for "Athletes". "ID" and transfer them to "rel_Athletes_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7349,8 +7349,8 @@
       <tuv lang="DE">
         <seg>Mit Hilfe von SQL (StructuredQueryLanguage – Standardabfragesprache für Datenbanken) soll das Feld seinen Inhalt aus der Tabelle "Sportart" erhalten.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190122T203235Z" creationid="dan" creationdate="20190122T005140Z">
-        <seg>Using SQL (StructuredQueryLanguage - the default query language for databases), the field should receive its contents from the Sport_types table.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190122T005140Z">
+        <seg>Using SQL (StructuredQueryLanguage - the default query language for databases), the field should receive its contents from the Sports_types table.&lt;/f2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7373,8 +7373,8 @@
       <tuv lang="DE">
         <seg>Mit dem ersten Zugriff sollen erst einmal alle Teilnehmer mit den Sportarten dargestellt werden, die sie belegt haben.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T022609Z" creationid="dan" creationdate="20190120T022609Z">
-        <seg>With the first access, all athletes should first be presented with the sport_types they have chosen.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T022609Z">
+        <seg>With the first access, all athletes should first be presented with the Sports_types they have chosen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7421,8 +7421,8 @@
       <tuv lang="DE">
         <seg>Mit geschickter Wahl der in "ID" abgespeicherten Kürzel ergibt sich aber bereits eine brauchbare Zusammenstellung der Sportarten.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T011220Z" creationid="dan" creationdate="20190120T011220Z">
-        <seg>However, a skilful choice of the abbreviations stored in "ID" already results in a useful compilation of the sport_types.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T011220Z">
+        <seg>However, a skilful choice of the abbreviations stored in "ID" already results in a useful compilation of the Sports_types.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7573,8 +7573,8 @@
       <tuv lang="DE">
         <seg>Nun soll noch der Titel geändert werden, der für das Feld "ID_Sportart" eingetragen wurde.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T011355Z" creationid="dan" creationdate="20190120T011355Z">
-        <seg>Now we want to change the title, which was entered for the field "ID_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T011355Z">
+        <seg>Now we want to change the title, which was entered for the field "ID_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7741,8 +7741,8 @@
       <tuv lang="DE">
         <seg>SELECT "Sportart", "ID" FROM "Sportart"</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T010841Z" creationid="dan" creationdate="20190120T010841Z">
-        <seg>SELECT "Sport_types", "ID" FROM "Sport_types"</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T010841Z">
+        <seg>SELECT "Sports_types", "ID" FROM "Sports_types"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7869,8 +7869,8 @@
       <tuv lang="DE">
         <seg>Sichtbar ist aber "Sportart".</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T011424Z" creationid="dan" creationdate="20190120T011424Z">
-        <seg>Visible but is "sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T011424Z">
+        <seg>Visible but is "Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -7989,16 +7989,16 @@
       <tuv lang="DE">
         <seg>So kann gegebenenfalls das Kürzel von maximal 5 Zeichen für eine Sportart problemlos angepasst werden, auch wenn bereits viele Datensätze in der Tabelle "rel_Teilnehmer_Sportart" stehen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T170353Z" creationid="dan" creationdate="20190119T170353Z">
-        <seg>So, if necessary, the shortcut of up to 5 characters for a sport can be easily adjusted, even if many records are already in the table "rel_Athletes_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T170353Z">
+        <seg>So, if necessary, the shortcut of up to 5 characters for a sport can be easily adjusted, even if many records are already in the table "rel_Athletes_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>So kann verhindert werden, dass in der Tabelle "rel_Teilnehmer_Sportart" z. B. eine Nummer für einen Teilnehmer auftaucht, die gar nicht in der Tabelle "Teilnehmer" verzeichnet ist.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T165420Z" creationid="dan" creationdate="20190119T003826Z">
-        <seg>In this way for example, a number for an athlete can be prevented from appearing in the table "rel_Athletes_Sport_types" which is not listed in the table "Athletes."</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T003826Z">
+        <seg>In this way for example, a number for an athlete can be prevented from appearing in the table "rel_Athletes_Sports_types" which is not listed in the table "Athletes."</seg>
       </tuv>
     </tu>
     <tu>
@@ -8021,8 +8021,8 @@
       <tuv lang="DE">
         <seg>Solch ein Feld wäre gut in der Tabelle "rel_Teilnehmer_Sportart" unter zu bringen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190122T012650Z" creationid="dan" creationdate="20190122T012650Z">
-        <seg>Such a field would be good in the table "rel_Athletes_Sport_types" under bring.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190122T012650Z">
+        <seg>Such a field would be good in the table "rel_Athletes_Sports_types" under bring.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8109,8 +8109,8 @@
       <tuv lang="DE">
         <seg>Sollen die Eingaben allerdings für mehrere Wettkämpfe in gleichen Sportarten gelten, so ist außerdem noch ein Datumsfeld oder ein anderes Feld, das dem jeweiligen Wettkampf zugeordnet werden kann, in die Tabelle "rel_Teilnehmer_Sportart" aufzunehmen.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190121T232628Z" creationid="dan" creationdate="20190121T232628Z">
-        <seg>However, if the entries are to be used for several competitions in the same sports type, a date field or another field that can be assigned to the respective competition must also be added to the table "rel_Athletes_Sport_types".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190121T232628Z">
+        <seg>However, if the entries are to be used for several competitions in the same sports type, a date field or another field that can be assigned to the respective competition must also be added to the table "rel_Athletes_Sports_types".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8485,16 +8485,16 @@
       <tuv lang="DE">
         <seg>Um später in dem Listenfeld Sportarten zu sehen, müssen diese natürlich zuerst einmal in die Tabelle "Sportart" entsprechend eingegeben werden.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T011327Z" creationid="dan" creationdate="20190120T011327Z">
-        <seg>To see later in the list box sports, of course, these must first be entered once in the table "Sport_tupes" accordingly.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T011327Z">
+        <seg>To see later in the list box sports, of course, these must first be entered once in the table "Sports_tupes" accordingly.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="DE">
         <seg>Umgangssprachlich ausgedrückt heißt der Code: Wähle von der Tabelle "Sportart" als erstes die "Sportart" und als zweites den dazugehörigen Schlüsselwert aus.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190120T011040Z" creationid="dan" creationdate="20190120T011040Z">
-        <seg>Colloquially, the code means: From the table "Sport_types" choose first "Sport_types" and second the corresponding key value.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190120T011040Z">
+        <seg>Colloquially, the code means: From the table "Sports_types" choose first "Sports_types" and second the corresponding key value.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8717,8 +8717,8 @@
       <tuv lang="DE">
         <seg>Wenn also aus der Teilnehmer-Tabelle ein Teilnehmer entfernt wird, dann werden alle entsprechenden Datensätze aus der Tabelle "rel_Teilnehmer_Sportart" entfernt.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T164900Z" creationid="dan" creationdate="20190119T164900Z">
-        <seg>Therefore, if an athlete is removed from the Athletes table, then all corresponding data records are removed from the table "rel_Athletes_Sport_type".</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T164900Z">
+        <seg>Therefore, if an athlete is removed from the Athletes table, then all corresponding data records are removed from the table "rel_Athletes_Sports_type".</seg>
       </tuv>
     </tu>
     <tu>
@@ -8845,8 +8845,8 @@
       <tuv lang="DE">
         <seg>Wird "Sportart"."ID" geändert, so wird entsprechend "rel_Teilnehmer_Sportart"."ID_Sportart" angepasst.</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190119T170305Z" creationid="dan" creationdate="20190119T170305Z">
-        <seg>If "Sport_types" is changed to "ID", then "rel_Athletes_Sport_types". "ID_Sport_types" is adjusted accordingly.</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223845Z" creationid="dan" creationdate="20190119T170305Z">
+        <seg>If "Sports_types" is changed to "ID", then "rel_Athletes_Sports_types". "ID_Sports_types" is adjusted accordingly.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8941,8 +8941,8 @@
       <tuv lang="DE">
         <seg>Wird nicht der Auto-Wert gewählt, so kann der Primärschlüssel auch über das Kontextmenü der Maus (&lt;/f0&gt;&lt;f1&gt;rechte Maustaste → Primärschlüssel&lt;/f1&gt;&lt;f2&gt;) ausgewählt werden.&lt;/f2&gt;</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>Wird nicht der Auto-Wert gewählt, so kann der Primärschlüssel auch über das Kontextmenü der Maus (&lt;/f0&gt;&lt;f1&gt;rechte Maustaste &gt; Primärschlüssel&lt;/f1&gt;&lt;f2&gt;) ausgewählt werden.&lt;/f2&gt;</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223655Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>If the Auto value is not selected, the primary key can also be selected via the context menu of the mouse (&lt;f0&gt; right mouse button &gt; primary key &lt;/f0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9493,8 +9493,8 @@
       <tuv lang="DE">
         <seg>→ Berichtsbezeichnung («rpt» steht für «report»)</seg>
       </tuv>
-      <tuv lang="EN" changeid="dan" changedate="20190115T190530Z" creationid="dan" creationdate="20190115T190530Z">
-        <seg>&gt; Berichtsbezeichnung («rpt» steht für «report»)</seg>
+      <tuv lang="EN" changeid="dan" changedate="20190130T223741Z" creationid="dan" creationdate="20190115T190530Z">
+        <seg>→ Report name (“rpt” stands for “report”)</seg>
       </tuv>
     </tu>
     <tu>
