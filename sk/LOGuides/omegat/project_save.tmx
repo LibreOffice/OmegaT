@@ -1352,6 +1352,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;/f0&gt;You can distribute, copy, and modify the software as much as you wish, in accordance with the LibreOffice Open Source licenses.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200211T162550Z" creationid="milos" creationdate="20200211T162550Z">
+        <seg>&lt;/f0&gt; LibreOffice môžeme šíriť, kopírovať a upravovať podľa svojich predstáv, a to v súlade s licenciou, s ktorou je distribuovaný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;/f10&gt;Two methods are available to overcome this limitation:</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140425T062310Z" creationid="milos" creationdate="20140425T062310Z">
@@ -2259,6 +2267,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Consistent user interface.&lt;/f0&gt; All the components have a similar “look and feel”, making them easy to use and master.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200211T162744Z" creationid="milos" creationdate="20200211T162744Z">
+        <seg>&lt;f0&gt;Spoločné používateľské rozhranie.&lt;/f0&gt; Všetky súčasti majú podobné používateľské prostredie, vďaka čomu sa ľahšie používajú a spravujú.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Control+click &lt;/f0&gt;and/or &lt;f1&gt;right-click&lt;/f1&gt; depending on computer system</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140321T132644Z" creationid="milos" creationdate="20140321T132644Z">
@@ -2335,6 +2351,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140121T072842Z" creationid="milos" creationdate="20131015T073727Z">
         <seg>&lt;f0&gt;Multiplatformový softvér.&lt;/f0&gt; LibreOffice je možné používať na viacerých hardvérových platformách a vo viacerých operačných systémoch, vrátane systémov Microsoft Windows, Mac OS X a Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Cross-platform.&lt;/f0&gt; LibreOffice runs on several hardware architectures and under multiple operating systems, such as Microsoft Windows, macOS, and Linux.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200211T162611Z" creationid="milos" creationdate="20200211T162611Z">
+        <seg>&lt;f0&gt;Multiplatformový softvér.&lt;/f0&gt; LibreOffice je možné používať na viacerých hardvérových platformách a vo viacerých operačných systémoch, vrátane systémov Microsoft Windows, Mac OS a Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2787,6 +2811,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;Extensive language support.&lt;/f0&gt; The LibreOffice user interface, including spelling, hyphenation, and thesaurus dictionaries, is available in over 100 languages and dialects.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200211T162728Z" creationid="milos" creationdate="20200211T162728Z">
+        <seg>&lt;f0&gt;Rozsiahla jazyková podpora.&lt;/f0&gt; Používateľské rozhranie kancelárskeho balíka LibreOffice, kontrola preklepov, delenie slov a synonymický slovník sú dostupné vo vyše 100 jazykoch a ich dialektov..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Extensive language support&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20170308T095802Z" creationid="milos" creationdate="20170308T095802Z">
@@ -3114,6 +3146,14 @@
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131016T065517Z" creationid="milos" creationdate="20131015T074507Z">
         <seg>&lt;f0&gt;Rozčlenenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;Granularity.&lt;/f0&gt; Usually, if you change an option, it affects all components.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200211T162831Z" creationid="milos" creationdate="20200211T162831Z">
+        <seg>&lt;f0&gt;Granularita.&lt;/f0&gt; Ak v bežnom kancelárskom balíku zmeníme niektoré nastavenie, má to vplyv na celý balík.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3660,6 +3700,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131016T065527Z" creationid="milos" creationdate="20131015T074732Z">
         <seg>&lt;f0&gt;Žiadna viazanosť na dodávateľa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;No vendor lock-in.&lt;/f0&gt; LibreOffice uses OpenDocument, an XML (eXtensible Markup Language) file format developed as an industry standard by OASIS (Organization for the Advancement of Structured Information Standards).</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200211T183655Z" creationid="milos" creationdate="20200211T183655Z">
+        <seg>&lt;f0&gt;No vendor lock-in.&lt;/f0&gt; LibreOffice používa formát OpenDocument využívajúci jazyk XML (eXtensible Markup Language). Tento formát bol vyvinutý ako priemyselný štandard organizáciou OASIS (Organization for the Advancement of Structured Information Standards) a bol prijatý aj ako štandard Medzinárodnou štandardizačnou organizáciou ISO.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24695,6 +24743,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
         <seg>For example, you can open a Draw file from Writer.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131015T074450Z" creationid="milos" creationdate="20131015T074450Z">
+        <seg>Napríklad, súbor aplikácie Draw je možné otvoriť z aplikácie Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, you can open a Draw file from Writer; it will open automatically in Draw.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200211T162801Z" creationid="milos" creationdate="20200211T162801Z">
         <seg>Napríklad, súbor aplikácie Draw je možné otvoriť z aplikácie Writer.</seg>
       </tuv>
     </tu>
