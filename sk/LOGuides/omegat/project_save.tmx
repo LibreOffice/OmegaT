@@ -14656,6 +14656,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click one of the icons to open a new document of that type, or click the Templates icon to start a new document using a template.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200212T133705Z" creationid="milos" creationdate="20200212T133705Z">
+        <seg>Kliknutím na jednu z ikon vytvoríme nový dokument daného typu, alebo kliknutím na ikonu Šablóny vytvoríme nový dokument pomocou šablóny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click one that is in the Available fields list.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141015T072303Z" creationid="milos" creationdate="20140630T143340Z">
@@ -27035,6 +27043,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Go to &lt;f0&gt;File &gt; Open&lt;/f0&gt; or &lt;f1&gt;File &gt; Open Remote&lt;/f1&gt; on the Menu bar to reach the corresponding open dialog.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200212T133924Z" creationid="milos" creationdate="20200212T133924Z">
+        <seg>Použijeme &lt;f0&gt;Súbor &gt; Otvoriť.&lt;/f0&gt; alebo &lt;f1&gt;Otvoriť vzdialený súbor.&lt;/f1&gt; v hlavnej ponuke, čím otvoríme dialógové okno Otvoriť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go to &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt; on the menu bar and click the &lt;f1&gt;Change Password&lt;/f1&gt; button in the &lt;f2&gt;Properties&lt;/f2&gt; dialog.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140619T063914Z" creationid="milos" creationdate="20140619T063914Z">
@@ -29396,6 +29412,14 @@ there - I study business informatics.</seg>
         <seg>If all documents are closed without closing LibreOffice, then the Start Center will be displayed.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140619T090036Z" creationid="milos" creationdate="20140111T195103Z">
+        <seg>Spúšťacie centrum sa zobrazí vtedy, ak zavrieme všetky dokumenty bez toho, aby sme ukončili samotný LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If all documents are closed without exiting from LibreOffice, then the Start Center will be displayed.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200212T133736Z" creationid="milos" creationdate="20200212T133736Z">
         <seg>Spúšťacie centrum sa zobrazí vtedy, ak zavrieme všetky dokumenty bez toho, aby sme ukončili samotný LibreOffice.</seg>
       </tuv>
     </tu>
@@ -52724,6 +52748,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f1&gt;New&lt;/f1&gt; icon changes depending on which component of LibreOffice is open.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200212T133728Z" creationid="milos" creationdate="20200212T133728Z">
+        <seg>Ikona &lt;f1&gt;Nový&lt;/f1&gt; sa mení v závislosti na type otvorenej súčasťami LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f1&gt;Toolbars&lt;/f1&gt; page of the Customize dialog appears (&lt;t2&gt;Figure 4&lt;/t2&gt;).</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131122T160725Z" creationid="milos" creationdate="20131122T160725Z">
@@ -67211,8 +67243,8 @@ around the world.</seg>
       <tuv lang="EN">
         <seg>When LibreOffice is running but no document is open, the Start Center (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;8&lt;/t2&gt;) is shown.</seg>
       </tuv>
-      <tuv lang="SK" changeid="milos" changedate="20200212T133618Z" creationid="milos" creationdate="20200212T133618Z">
-        <seg>Keď je LibreOffice spustený ale nie je v ňom otvorený žiadny dokument, je zobrazené Spúšťacie centrum (obrázok &lt;t0&gt;1&lt;/t0&gt; na strane &lt;t2&gt;8&lt;/t2&gt;).</seg>
+      <tuv lang="SK" changeid="milos" changedate="20200212T133649Z" creationid="milos" creationdate="20200212T133618Z">
+        <seg>Keď je LibreOffice spustený ale nie je v ňom otvorený žiadny dokument, je zobrazené Spúšťacie centrum (obrázok &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt; na strane &lt;t2&gt;8&lt;/t2&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -67565,6 +67597,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140305T080235Z" creationid="milos" creationdate="20140305T080050Z">
         <seg>Pokiaľ nie je otvorený žiadny dokument, klikneme na tlačidlo &lt;f0&gt;Otvoriť súbor&lt;/f0&gt; v Spúšťacom centre, čím otvoríme dialógové okno Otvoriť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When no document is open, click &lt;f0&gt;Open File&lt;/f0&gt; or &lt;f1&gt;Remote Files&lt;/f1&gt; in the Start Center to reach the corresponding open dialog.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200212T133754Z" creationid="milos" creationdate="20200212T133754Z">
+        <seg>Pokiaľ nie je otvorený žiadny dokument, klikneme na tlačidlo &lt;f0&gt;Otvoriť súbor&lt;/f0&gt; alebo &lt;f1&gt;Vzdialené súbory&lt;/f1&gt; v Spúšťacom centre, čím otvoríme dialógové okno Otvoriť.</seg>
       </tuv>
     </tu>
     <tu>
