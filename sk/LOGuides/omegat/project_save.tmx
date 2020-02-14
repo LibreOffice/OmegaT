@@ -1496,6 +1496,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Installing Collabora CODE &lt;/a0&gt;&lt;a1&gt;w&lt;/a1&gt;&lt;a2&gt;ith Docker&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195305Z" creationid="milos" creationdate="20200214T195305Z">
+        <seg>&lt;a0&gt; Inštalácia Collabora CODE&lt;/a0&gt; &lt;a1&gt;s&lt;/a1&gt; &lt;a2&gt;Docker &lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;LibreOffice Online &lt;/a0&gt;&lt;a1&gt;Presentations&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200214T164218Z" creationid="milos" creationdate="20200214T164218Z">
@@ -6585,6 +6593,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A database, which is used to store the information in the system (even when it looks like “files” to you)</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195732Z" creationid="milos" creationdate="20200214T195732Z">
+        <seg>Databázu, ktorá sa používa na ukladanie informácií do systému (aj keď pre vás vyzerá ako „súbory“).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A decimal number string can have digits 0-9, thousands separators, and a decimal separator.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131024T135820Z" creationid="milos" creationdate="20131024T135820Z">
@@ -7517,6 +7533,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141013T080450Z" creationid="etki" creationdate="20140222T201131Z">
         <seg>Dokument (tabuľku, dotaz, formulár alebo zostavu) v zozname môžeme Kopírovať, Odstrániť, Premenovať, Upraviť a Otvoriť z kontextovej ponuky, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A web server, which sends web-based content to browsers</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195556Z" creationid="milos" creationdate="20200214T195556Z">
+        <seg>Webový server, ktorý odosiela webový obsah do prehliadačov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8726,6 +8750,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140109T170828Z" creationid="milos" creationdate="20140109T170734Z">
         <seg>Alt + šípka hore/dolu/vľavo/vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative Installations</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195310Z" creationid="milos" creationdate="20200214T195310Z">
+        <seg>Alternatívne inštalácie</seg>
       </tuv>
     </tu>
     <tu>
@@ -9979,10 +10011,26 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As mentioned in previous sections, installing LOOL is a bit different from installing LibreOffice proper.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195315Z" creationid="milos" creationdate="20200214T195315Z">
+        <seg>Ako je uvedené v predchádzajúcich oddieloch, inštalácia LOOL sa trochu líši od inštalácie LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As mentioned in “&lt;bf0&gt;Modifying the slide show&lt;/bf0&gt;” on page &lt;bf1&gt;22&lt;/bf1&gt;, Impress allocates reasonable default settings for slide shows, while at the same time allowing for customizing many aspects of the slide show experience.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140827T065355Z" creationid="milos" creationdate="20140827T065355Z">
         <seg>Ako bolo spomenuté v časti „&lt;bf0&gt;Úprava prezentácie&lt;/bf0&gt;“ na strane &lt;bf1&gt;22&lt;/bf1&gt;, Impress na zobrazovanie snímok prezentácie používa všeobecne prijateľné predvolené nastavenia, pričom však umožňuje úpravu mnohých detailov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As mentioned, LibreOffice Online requires a &lt;f0&gt;hosting application&lt;/f0&gt; that will store your files and display them using LOOL as needed.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195543Z" creationid="milos" creationdate="20200214T195543Z">
+        <seg>Ako už bolo spomenuté, LibreOffice Online vyžaduje hostiteľskú aplikáciu, ktorá bude ukladať vaše súbory a zobrazovať ich pomocou LOOL podľa potreby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22192,6 +22240,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Process for Displaying LOOL from a Server</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195424Z" creationid="milos" creationdate="20200214T195424Z">
+        <seg>Obrázok &lt;seq0&gt;1 &lt;/seq0&gt;: Proces zobrazenia LOOL zo servera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The &lt;is1/&gt;Print dialog</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140513T192243Z" creationid="milos" creationdate="20140513T192243Z">
@@ -25216,6 +25272,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140519T173128Z" creationid="milos" creationdate="20131031T193309Z">
         <seg>Napríklad, text „Predaj v 2. kvartáli“ zameníme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, changing the text on the top of a document will affect more tiles than changing the text in the bottom.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195534Z" creationid="milos" creationdate="20200214T195534Z">
+        <seg>Napríklad zmena textu v hornej časti dokumentu ovplyvní viac dlaždíc ako zmena textu v spodnej časti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35311,10 +35375,34 @@ get involved in the project, you're welcome</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing Collabora Code Using Packages</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195308Z" creationid="milos" creationdate="20200214T195308Z">
+        <seg>Inštalácia Collabora Code za použitia balíčkov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing LibreOffice Online</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200214T194914Z" creationid="milos" creationdate="20200214T194914Z">
         <seg>Inštalácia LibreOffice Online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing LibreOffice Online through Collabora CODE</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195237Z" creationid="milos" creationdate="20200214T195237Z">
+        <seg>Inštalácia LibreOffice Online pomocou Collabora CODE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing a Collabora CODE Virtual Machine</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195245Z" creationid="milos" creationdate="20200214T195245Z">
+        <seg>Inštalácia virtuálneho stroja Collabora CODE</seg>
       </tuv>
     </tu>
     <tu>
@@ -36380,6 +36468,14 @@ get involved in the project, you're welcome</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140317T163249Z" creationid="milos" creationdate="20140302T163544Z">
         <seg>Bolo vyvinuté špeciálne na písanie matematických a technických textov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will handle functions like the storage of files and the processing of input into formatted text or spreadsheet formulas, which are displayed on your PC through a browser.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195410Z" creationid="milos" creationdate="20200214T195410Z">
+        <seg>Server sa postará o funkcie, ako je ukladanie súborov a spracovanie vstupov do formátovaného textu alebo vzorcov tabuliek, Server sa postará o funkcie, ako je ukladanie súborov a spracovanie vstupov do formátovaného textu alebo vzorcov zošitov, zobrazené vo vašom počítači prostredníctvom prehliadača.zobrazené vo vašom počítači prostredníctvom prehliadača.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55007,6 +55103,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL is for the &lt;f0&gt;hosting application&lt;/f0&gt;, which is responsible for storing your files.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195442Z" creationid="milos" creationdate="20200214T195442Z">
+        <seg>URL smeruje na &lt;f0&gt;hostiteľskú aplikáciu&lt;/f0&gt;, ktorá je zodpovedná za ukladanie súborov. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Web Wizard in LibreOffice &lt;i0/&gt;allows you to create several types of standard web pages and is available all LibreOffice modules.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140703T050332Z" creationid="milos" creationdate="20140529T095511Z">
@@ -55299,6 +55403,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200214T135514Z" creationid="milos" creationdate="20200214T135514Z">
         <seg>Ovládacie prvky prehliadača, ako sú záložky alebo úvodná stránka, sa líšia medzi rôznymi prehliadačmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The browser displays an image of the document, created in the server.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195518Z" creationid="milos" creationdate="20200214T195518Z">
+        <seg>Prehliadač zobrazí obrázok dokumentu vytvorený na serveri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57725,6 +57837,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The process looks like the following:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195414Z" creationid="milos" creationdate="20200214T195414Z">
+        <seg>Proces vyzerá nasledovne: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The publication type defines the basic settings for the intended export.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140529T151655Z" creationid="milos" creationdate="20140529T151632Z">
@@ -57953,6 +58073,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20150225T081045Z" creationid="milos" creationdate="20150225T081045Z">
         <seg>Účinok týchto nastavení je uvedený v tabuľke &lt;f3&gt;&lt;t4&gt;1&lt;/t4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results of this are sent back to your PC to display in the browser window.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195500Z" creationid="milos" creationdate="20200214T195500Z">
+        <seg>Výsledky sa odošlú späť do vášho počítača na zobrazenie v okne prehliadača.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59094,6 +59222,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then, when you launch one of the applications, all the processing and display also happens locally.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195333Z" creationid="milos" creationdate="20200214T195333Z">
+        <seg>Po spustení jednej z aplikácií všetko spracovanie a zobrazenie prebieha tiež lokálne. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are a couple of things that you can do with the Selected fields list (Figure &lt;f0&gt;&lt;t1&gt;5&lt;/t1&gt;&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140523T141212Z" creationid="milos" creationdate="20140504T140453Z">
@@ -59554,6 +59690,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140930T145411Z" creationid="milos" creationdate="20140807T160855Z">
         <seg>Priradili sme im aliasy &lt;f2&gt;Položka, Zostatková cena, Nákupná cena a Dátum nákupu&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These host systems are web-based applications, and as such there are three main components they require in order to provide the features LOOL needs:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195553Z" creationid="milos" creationdate="20200214T195553Z">
+        <seg>Tieto hostiteľské systémy sú webové aplikácie. Existujú tri hlavné komponenty, ktoré sú vyžadované za účelom zaistenia funkcií pre potreby LOOL: </seg>
       </tuv>
     </tu>
     <tu>
@@ -60756,6 +60900,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140515T160659Z" creationid="milos" creationdate="20140515T160659Z">
         <seg>Táto ikona indikuje stav elektronického podpisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This image is composed of many square tiles, which are updated automatically each time the document area changes, and with a smart strategy to update only the tiles that are affected by the change.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195528Z" creationid="milos" creationdate="20200214T195528Z">
+        <seg>Tento obrázok sa skladá z množstva štvorcových dlaždíc, ktoré sa aktualizujú vždy, keď sa zmení oblasť dokumentu, a za pomoci inteligentných algoritmov sa aktualizujú iba dlaždice, v ktorých dochádza k zmene.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69796,6 +69948,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When you open a supported document type in the hosting application, it will call LOOL via a plugin to display it.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195449Z" creationid="milos" creationdate="20200214T195449Z">
+        <seg>Ak otvoríte dokument podporovaného typu v hostiteľskej aplikácii, tá zavolá LOOL prostredníctvom pluginu a zobrazí ho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When you open any dialog, one element (such as a button, an option field, an entry in a list box, or a checkbox) is highlighted or indicated by a dotted box around the field or button name.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140109T111351Z" creationid="milos" creationdate="20140109T110145Z">
@@ -70148,6 +70308,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>While you don’t need anything special on your PC to use LibreOffice Online, you’ll need some software on the server where you plan to install it.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195512Z" creationid="milos" creationdate="20200214T195512Z">
+        <seg>Aj keď pre použitie LibreOffice Online nepotrebujete vo svojom počítači žiadny špeciálny softvér, bude potrebné nainštalovať softvér na serveri, v ktorom plánujete prevádzkovať LOOL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whirlpool</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140629T174610Z" creationid="milos" creationdate="20140629T174610Z">
@@ -70277,6 +70445,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With LibreOffice Online, you install your application to a server.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195338Z" creationid="milos" creationdate="20200214T195338Z">
+        <seg>S LibreOffice Online inštalujete aplikáciu na server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With LibreOffice, you can define the &lt;f0&gt;page style&lt;/f0&gt; for the first page and specify the style for the following pages to be applied automatically.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140401T151806Z" creationid="milos" creationdate="20140401T151806Z">
@@ -70386,6 +70562,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140813T112523Z" creationid="milos" creationdate="20140425T142015Z">
         <seg>Ak máme otvorený editor vzorcov, v hlavnej ponuke zvolíme &lt;f0&gt;Formát &gt; Rozostupy&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the latter, you install the software to your local machine.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195321Z" creationid="milos" creationdate="20200214T195321Z">
+        <seg>S posledne menovaným inštalujete softvér do miestneho počítača.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73616,6 +73800,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140513T053615Z" creationid="milos" creationdate="20131012T080605Z">
         <seg>Štýly preddefinované v LibreOffice nie je možné z dokumentu ani so šablóny odstrániť, a to ani v prípade, keď nie sú použité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You contact the server by pointing your browser at a specified URL.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T195430Z" creationid="milos" creationdate="20200214T195430Z">
+        <seg>Kontaktujete server nasmerovaním prehliadača na zadanú adresu URL.</seg>
       </tuv>
     </tu>
     <tu>
