@@ -18968,6 +18968,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Docker is a system that runs applications for you in containers, which are like little sealed off sections of your computer.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200445Z" creationid="milos" creationdate="20200214T200445Z">
+        <seg>Docker je systém, ktorý spúšťa aplikácie v kontajneroch. Tie si možno predstaviť ako malé uzavreté časti vášho počítača.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Docking/floating dialogs</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131015T070657Z" creationid="milos" creationdate="20131015T070657Z">
@@ -22821,6 +22829,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131023T211028Z" creationid="milos" creationdate="20131023T211028Z">
         <seg>Obrázok &lt;seq0&gt;2&lt;/seq0&gt;: Panel vzorcov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Installing LibreOffice Online from Docker Hub</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200625Z" creationid="milos" creationdate="20200214T200625Z">
+        <seg>Obrázok &lt;seq0&gt;2 &lt;/seq0&gt;: Inštalácia LibreOffice Online z Docker Hub</seg>
       </tuv>
     </tu>
     <tu>
@@ -27551,6 +27567,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140712T082135Z" creationid="milos" creationdate="20140122T150958Z">
         <seg>Časť Všeobecné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Getting Docker installed is beyond the scope of this book, but you can find plenty of installation resources on the Docker website to install the &lt;a0&gt;Community Edition of Docker Engine&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200547Z" creationid="milos" creationdate="20200214T200547Z">
+        <seg>Inštalácia Docker je mimo rozsah tejto knihy, ale na webe Docker-u nájdete množstvo zdrojov pre inštaláciu &lt;a0&gt;komunitného vydanie Docker Engine&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34887,6 +34911,14 @@ get involved in the project, you're welcome</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this guide, we’ll focus on installing and configuring the LibreOffice Project’s Docker container as our version of choice, and use a popular hosting application.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200407Z" creationid="milos" creationdate="20200214T200407Z">
+        <seg>V tejto príručke sa zameriame na inštaláciu a konfiguráciu Docker kontajnera, ktorý poskytuje projekt LibreOffice, a budeme používať populárnu hostiteľskú aplikáciu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this respect they are similar to queries.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140812T173113Z" creationid="milos" creationdate="20140702T060321Z">
@@ -35463,6 +35495,14 @@ get involved in the project, you're welcome</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing LibreOffice Online through Docker</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200430Z" creationid="milos" creationdate="20200214T200430Z">
+        <seg>Inštalácia LibreOffice Online pomocou Docker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing a Collabora CODE Virtual Machine</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200214T195245Z" creationid="milos" creationdate="20200214T195245Z">
@@ -35491,6 +35531,14 @@ get involved in the project, you're welcome</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131011T174002Z" creationid="milos" creationdate="20131011T174002Z">
         <seg>Inštalovanie jednotlivých šablón</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing the LibreOffice Online application as published by The Document Foundation is easy using the Docker Container they provide.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200438Z" creationid="milos" creationdate="20200214T200438Z">
+        <seg>Inštalácia aplikácie LibreOffice Online, ktorú poskytuje a publikuje nadácia The Document Foundation, je jednoduchá vďaka kontajneru Docker.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35795,6 +35843,14 @@ get involved in the project, you're welcome</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140428T062524Z" creationid="milos" creationdate="20140428T062524Z">
         <seg>Zahŕňa tiež niektoré nástroje na prácu s rastrovou grafikou, avšak nedosahuje taký rozsah funkcií, aký majú špecializované grafické programy ako Gimp alebo Adobe Photoshop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It also means that you can’t normally access the contents of these containers through your operating system’s normal tools—at least not without some prior configuration.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200506Z" creationid="milos" creationdate="20200214T200506Z">
+        <seg>To tiež znamená, že nemôžete normálne pristupovať k obsahu týchto kontajnerov pomocou bežných nástrojov operačného systému – aspoň nie bez predchádzajúcej konfigurácie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55295,6 +55351,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The actual command to install LOOL from The Document Foundation is easy:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200605Z" creationid="milos" creationdate="20200214T200605Z">
+        <seg>Samotný príkaz na inštalácii LOOL od The Document Foundation je jednoduchý:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The actual number of items depends upon the field type.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141013T161107Z" creationid="etki" creationdate="20140312T193254Z">
@@ -57977,6 +58041,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140528T150056Z" creationid="milos" creationdate="20140528T150056Z">
         <seg>Prvotná &lt;i0/&gt;&lt;i1/&gt;úloha príkazovej infraštruktúry je zabezpečenie rovnakého prístupu príkazov ku komponentom (dokumentom). Tieto príkazy obvykle zodpovedajú položkám v ponukách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of containers is to provide security while also being resource efficient.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200514Z" creationid="milos" creationdate="20200214T200514Z">
+        <seg>Účelom kontajnerov je zaistiť bezpečnosť a zároveň byť efektívny z hľadiska zdrojov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61401,6 +61473,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means if there’s something wrong with a Docker application it can’t (normally) affect the rest of your system.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200452Z" creationid="milos" creationdate="20200214T200452Z">
+        <seg>To znamená, že ak je s aplikáciou v Docker niečo v neporiadku, nemôže (bežne) ovplyvniť zvyšok systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This means that you have to re-copy your repeated information.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131127T162442Z" creationid="milos" creationdate="20131127T162442Z">
@@ -61982,6 +62062,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140219T144347Z" creationid="milos" creationdate="20140214T143821Z">
         <seg>Tým sa automaticky zabezpečí zarovnanie riadka vľavo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will download LOOL from the Docker Hub repository and install it for you.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200620Z" creationid="milos" creationdate="20200214T200620Z">
+        <seg>Tým sa stiahne LOOL z úložiska Docker Hub a nainštaluje sa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73634,6 +73722,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then start the container up with the following command, where &lt;f0&gt;abcd123&lt;/f0&gt; is the name of your Docker container.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200708Z" creationid="milos" creationdate="20200214T200708Z">
+        <seg>Potom môžete kontajner spustiť pomocou nasledujúceho príkazu, kde abcd123 je meno vášho Docker kontajnera:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then very easily insert these graphics into a document later.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140430T140355Z" creationid="milos" creationdate="20140430T140355Z">
@@ -74624,6 +74720,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131122T161434Z" creationid="milos" creationdate="20131122T161434Z">
         <seg>V paneli sa po tejto úprave objaví nová ikona na odosielanie faxov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ll need to modify the application’s configuration file (/etc/loolwsd/loolwsd.xml) to include the hosting application’s domain name and the username/password for the administration console.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200648Z" creationid="milos" creationdate="20200214T200648Z">
+        <seg>Bude potrebné upraviť konfiguračný súbor aplikácie (/etc/loolwsd/loolwsd.xml), kde je nutné zadať názov domény hostiteľskej aplikácie a meno/heslo pre konzolu administrátora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75817,6 +75921,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131014T075935Z" creationid="milos" creationdate="20131014T075935Z">
         <seg>Rozdelenie dokumentu na kapitoly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>docker pull libreoffice/online</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200214T200617Z" creationid="milos" creationdate="20200214T200617Z">
+        <seg>docker pull LibreOffice/on-line</seg>
       </tuv>
     </tu>
     <tu>
