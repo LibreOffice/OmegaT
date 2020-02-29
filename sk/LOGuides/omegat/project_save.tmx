@@ -912,6 +912,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3 seconds in Delete mode, Arrow key deletes row/column, Ctrl + Arrow key merges cell with neighboring cell</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>3 sekundy v režime mazania, šípka zmaže riadok/stĺpec, Ctrl + šípka zmaže bunku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3 seconds in Insert mode, Arrow Key inserts row/column, Ctrl + Arrow Key inserts cell</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>3 sekundy v režime vkladania, šípka vloží riadok/stĺpec, Ctrl + šípka vloží bunku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>30</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131018T071410Z" creationid="milos" creationdate="20131018T071410Z">
@@ -5873,6 +5889,62 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;span class="def"&gt;The document area:&lt;/span&gt; The application area shows the document contents, either spreadsheets, presentations or text documents.</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>&lt;span class="def"&gt;Oblasť s dokumentom:&lt;/span&gt;  V tejto oblasti sa zobrazuje obsah dokumentu: hárku, prezentácie alebo textového dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;span class="productname"&gt;%productName&lt;/span&gt; Help</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Pomocník &lt;span class="productname"&gt;%productName&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;span class="productname"&gt;%productName&lt;/span&gt; notifies you with a small notification in the footer when a new user enters or when a user leaves.</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Malým oznámením v päte &lt;span class="productname"&gt;%productName&lt;/span&gt; informuje,  keď sa pripojí nový používateľ alebo existujúci používateľ dokument opustí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;span class="productname"&gt;%productName&lt;/span&gt; presentations</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prezentácie &lt;span class="productname"&gt;%productName&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;span class="productname"&gt;%productName&lt;/span&gt; spreadsheets</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Hárky &lt;span class="productname"&gt;%productName&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;span class="productname"&gt;%productName&lt;/span&gt; text documents</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Textové dokumenty &lt;span class="productname"&gt;%productName&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;span class="productname"&gt;%productName&lt;/span&gt; user interface</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Používateľské rozhranie &lt;span class="productname"&gt;%productName&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;t0/&gt;For a closing tag, an HTML_OFF will be created.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140321T171044Z" creationid="milos" creationdate="20140321T171044Z">
@@ -8074,10 +8146,26 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Advanced features</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Pokročilé funkcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced options</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131112T145224Z" creationid="milos" creationdate="20131112T145139Z">
         <seg>Pokročilé nastavenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced text document editor features</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Pokročilé funkcie editora textových dokumentov</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,6 +8522,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Center</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zarovnať na stred</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align Left</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131021T075523Z" creationid="milos" creationdate="20131021T075523Z">
@@ -8742,6 +8838,30 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141013T161957Z" creationid="milos" creationdate="20140803T141825Z">
         <seg>Hociktorú tabuľku však môžeme otvoriť aj z hlavného databázového okna:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt + Arrow Keys</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Alt + šípka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt + Ctrl + Arrow Keys</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Alt + Ctrl + šípka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alt + Shift + Arrow Keys</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Alt + Shift + šípka</seg>
       </tuv>
     </tu>
     <tu>
@@ -9787,6 +9907,54 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Apply Default paragraph style</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Použiť východzí štýl odseku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply Heading 1 paragraph style</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Použiť štýl odseku Nadpis 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply Heading 2 paragraph style</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Použiť štýl odseku Nadpis 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply Heading 3 paragraph style</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Použiť štýl odseku Nadpis 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply Heading 4 paragraph style</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Použiť štýl odseku Nadpis 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply Heading 5 paragraph style</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Použiť štýl odseku Nadpis 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Apply Style</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131021T075454Z" creationid="milos" creationdate="20131021T075454Z">
@@ -9931,10 +10099,42 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Arrow Down</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Šípka dole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrow Left</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Šípka vľavo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrow Right</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Šípka vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arrow Style</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140516T171044Z" creationid="milos" creationdate="20140516T171044Z">
         <seg>Štýl Šípky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Arrow Up</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Šípka hore</seg>
       </tuv>
     </tu>
     <tu>
@@ -10055,6 +10255,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200214T195315Z" creationid="milos" creationdate="20200214T195315Z">
         <seg>Ako je uvedené v predchádzajúcich oddieloch, inštalácia LOOL sa trochu líši od inštalácie LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As mentioned in prior chapters, when using LibreOffice Online you won’t go to it “directly,” in the sense of pointing your browser to the LOOL installation.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200229T194428Z" creationid="milos" creationdate="20200229T194428Z">
+        <seg>Ako sa uvádza v predchádzajúcich kapitolách, pri používaní LibreOffice Online sa k nemu nedostanete „priamo“ v zmysle nasmerovanie prehliadača na inštaláciu LOOL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12050,6 +12258,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131101T082651Z" creationid="milos" creationdate="20131101T082651Z">
         <seg>Vlastnosti orámovania buniek sa aplikujú len na vybrané bunky a dajú sa zmeniť iba ich úpravou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cell formatting</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Formátovanie bunky</seg>
       </tuv>
     </tu>
     <tu>
@@ -16395,6 +16611,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Column break (in multicolumnar text)</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zalomiť stĺpec vo viacstĺpcových textoch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Combine this with either the letter &lt;f1&gt;d&lt;/f1&gt; (for a total derivative) or the &lt;f2&gt;partial&lt;/f2&gt; command (for a partial derivative) to achieve the effect of a derivative.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140520T073833Z" creationid="milos" creationdate="20140219T141133Z">
@@ -17397,6 +17621,78 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl + Alt + Shift + Arrow Keys</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + Alt + Shift + šípka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl + Arrow Down</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + šípka dole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl + Arrow Left</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + šípka vľavo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl + Arrow Right</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + šípka vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl + Arrow Up</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + šípka hore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl + Shift + Arrow Down</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + Shift + šípka dole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl + Shift + Arrow Left</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + Shift + šípka vľavo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl + Shift + Arrow Right</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + Shift + šípka vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl + Shift + Arrow Up</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ctrl + Shift + šípka hore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+A</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140108T162047Z" creationid="milos" creationdate="20140108T162047Z">
@@ -17801,6 +18097,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131102T114351Z" creationid="milos" creationdate="20131102T114351Z">
         <seg>Prispôsobenie klávesu &lt;i0/&gt;Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vystrihnúť</seg>
       </tuv>
     </tu>
     <tu>
@@ -18368,6 +18672,38 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete to beginning of sentence</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zmazať po začiatok vety</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete to beginning of word</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zmazať po začiatok slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete to end of sentence</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zmazať po koniec vety</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete to end of word</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zmazať po koniec slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Deleting a page break</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131101T140506Z" creationid="milos" creationdate="20131101T140506Z">
@@ -18516,6 +18852,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131021T103747Z" creationid="milos" creationdate="20131021T103331Z">
         <seg>O úroveň nižšie s podčasťami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Demote list item (list item has to be selected)</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Znížiť úroveň položky (položka musí byť vybraná)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18840,10 +19184,26 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display comment</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zobraziť poznámku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display the &lt;f0&gt;query&lt;/f0&gt; after closing the query (Default selection).</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140930T150953Z" creationid="milos" creationdate="20140930T150953Z">
         <seg>Ponecháme predvolené nastavenie &lt;f0&gt;Zobraziť dotaz&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display the Keyboard shortcuts help</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zobraziť pomocníka pre klávesové skratky</seg>
       </tuv>
     </tu>
     <tu>
@@ -19150,6 +19510,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200211T153846Z" creationid="milos" creationdate="20200211T153846Z">
         <seg>Prispieť LibreOffice: &lt;a0&gt;https://sk.libreoffice.org/donate/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double Underline</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Dvakrát podčiarknuté</seg>
       </tuv>
     </tu>
     <tu>
@@ -20204,6 +20572,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editing documents</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Úprava dokumentov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editing hyperlinks</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140310T130251Z" creationid="milos" creationdate="20140310T130251Z">
@@ -20216,6 +20592,30 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140426T131812Z" creationid="milos" creationdate="20140426T131812Z">
         <seg>Úprava objektov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing presentations</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Úprava prezentacií</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing spreadsheets</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Úprava hárkov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editing text documents</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Úprava textových dokumentov</seg>
       </tuv>
     </tu>
     <tu>
@@ -20789,6 +21189,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escape current mode, i.e. from edit mode switch to object selection mode, from object selection mode switch to view mode.</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Opustiť aktuálny režim, napr. z režimu úpravy do režimu výberu objektov alebo z režimu výberu objektov do režimu prezerania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Even double-clicking on a graphic opens a dialog with a Macros tab that allows you to assign a macro to an event.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131215T094026Z" creationid="milos" creationdate="20131215T092831Z">
@@ -21195,6 +21603,22 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140108T200119Z" creationid="milos" creationdate="20140108T200119Z">
         <seg>Exportovanie do iných formátov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extend the selection down one page</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Rozšíriť zobrazenie o stranu nadol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Extend the selection up one page</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Rozšíriť výber o stranu nahor</seg>
       </tuv>
     </tu>
     <tu>
@@ -24346,6 +24770,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fill Down</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vyplniť nadol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fill Format</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140331T144642Z" creationid="milos" creationdate="20140331T144642Z">
@@ -26990,6 +27422,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Formatting spreadsheets</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Formátovanie hárkov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Formatting text</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131018T071310Z" creationid="milos" creationdate="20131018T071310Z">
@@ -27050,6 +27490,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140217T162255Z" creationid="milos" creationdate="20140214T143624Z">
         <seg>Rozloženie vzorcov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formulas</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vzorce</seg>
       </tuv>
     </tu>
     <tu>
@@ -27603,6 +28051,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Všeobecné klávesové skratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General keyboard shortcuts</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131126T081159Z" creationid="milos" creationdate="20131126T081118Z">
@@ -27783,6 +28239,54 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140427T165051Z" creationid="milos" creationdate="20140427T165035Z">
         <seg>Záchytné body sa zobrazia, ak je aktivovaná ikona &lt;f0&gt;Spojnice&lt;/f0&gt; &lt;f1&gt;&lt;df2&gt; &lt;di3/&gt;&lt;/df2&gt; &lt;/f1&gt; na paneli nástrojov Kresba alebo v poli &lt;f4&gt;Vložiť útvary&lt;/f4&gt; vo Vlastnostiach na postrannom paneli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go and select text to end of document</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať text od pôvodnej pozície po koniec dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go and select text to end of textbox</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať text od pôvodnej pozície po koniec poľa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go and select text to start of document</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať text od pôvodnej pozície po začiatok dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go and select text to start of textbox</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať text od pôvodnej pozície po začiatok poľa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go and select to the beginning of a line</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať text po začiatku riadku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go and select to the end of a line</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať text po koniec riadku</seg>
       </tuv>
     </tu>
     <tu>
@@ -28450,6 +28954,54 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140427T200043Z" creationid="milos" creationdate="20140427T195050Z">
         <seg>Zvolíme &lt;f2&gt;Zobraziť &gt; Mriežka &gt; Zachytiť na mriežku&lt;/f2&gt; v hlavnej ponuke alebo klikneme na ikonu &lt;f3&gt;Zachytiť na mriežku&lt;/f3&gt; &lt;df4&gt;&lt;di5/&gt;&lt;/df4&gt; na paneli nástrojov &lt;f6&gt;Možnosti&lt;/f6&gt;, čím zachytávanie k mriežke zapneme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to beginning of a word</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prejsť na začiatok slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to beginning of line</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prejsť na začiatok riadku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to end of document</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prejsť na koniec dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to end of line</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prejsť na koniec riadku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to start of document</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prejsť na začiatok dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to start of the next word</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť kurzor na začiatok nasledujúceho slova</seg>
       </tuv>
     </tu>
     <tu>
@@ -30541,6 +31093,14 @@ there - I study business informatics.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131213T212536Z" creationid="milos" creationdate="20131213T212536Z">
         <seg>Ak nezaškrtneme žiadnu z možností, knižnica sa skopíruje do používateľovho priečinku s makrami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If no whole cell is selected and the cursor is at the end of the table, the paragraph following the table will be deleted, unless it is the last paragraph in the document.</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ak nie je označená celá bunka a kurzor je na konci tabuľky, zmaže sa odsek nasledujúci za tabuľkou (pokiaľ to nie je posledný odsek).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34943,6 +35503,14 @@ get involved in the project, you're welcome</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this chapter we’ll look at how you get around in a hosting application or cloud service&lt;f1&gt;, &lt;s2/&gt;Other applications won’t look &lt;/f1&gt;identical, but the concepts will be very similar.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200229T194625Z" creationid="milos" creationdate="20200229T194625Z">
+        <seg>V tejto kapitole sa pozrieme, ako sa pohybovať v hostiteľskej aplikácii alebo cloudovej službe. &lt;f1&gt;&lt;s2/&gt; Iné aplikácie nebudú vyzerať rovnako&lt;/f1&gt;, ale spôsob práce bude veľmi podobný. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this chapter, we are using only the wizards to create the tables, queries, forms, and reports.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20141013T080054Z" creationid="etki" creationdate="20140222T193718Z">
@@ -35111,10 +35679,26 @@ get involved in the project, you're welcome</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Increase/decrease the size of the column/row on the left/top cell edge</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zväčší sa / zmenší sa veľkosť stĺpca / riadku na ľavej / hornej strane bunky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Increases or decreases value of a variable.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140730T150611Z" creationid="milos" creationdate="20140108T161544Z">
         <seg>Zvyšuje sa alebo znižuje hodnota premennej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Increases/decreases the size of the column/row on the right/bottom cell edge</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zväčší sa / zmenší sa veľkosť stĺpca / riadku na pravej / dolnej strane bunky</seg>
       </tuv>
     </tu>
     <tu>
@@ -35319,10 +35903,74 @@ get involved in the project, you're welcome</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert comment</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vložiť poznámku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert endnote</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vložiť koncovú poznámku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert footnote</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vložiť poznámku pod čiarou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert line break</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zlomiť riadok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert mode</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131016T141236Z" creationid="milos" creationdate="20131016T140924Z">
         <seg>Režim vstupu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert new paragraph directly before or after a section, or before a table</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vložiť nový odsek priamo pred alebo za sekciou alebo pred tabuľkou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert non-breaking hyphen</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vložiť nezalomiteľný spojovník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert non-breaking space</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vložiť nezalomiteľnú medzeru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert soft hyphen</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vložiť značku miesta na zalomenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -35691,6 +36339,14 @@ get involved in the project, you're welcome</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131021T105319Z" creationid="milos" creationdate="20131021T105319Z">
         <seg>Namiesto toho, použijeme podmienený rozdeľovník, ktorý je viditeľný iba keď je to potrebné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, you’ll interact with a &lt;f0&gt;hosting application&lt;/f0&gt; which will open compatible files in LOOL.</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200229T194451Z" creationid="milos" creationdate="20200229T194451Z">
+        <seg>Namiesto toho pracujete s &lt;f0&gt;hostiteľskou aplikáciou&lt;/f0&gt;, ktorá otvorí kompatibilné súbory v LOOL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37002,6 +37658,14 @@ the organisation, and that's what's great.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Justify</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zarovnať do bloku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>KQ946AA#ABA</seg>
       </tuv>
       <tuv lang="SK" changeid="etki" changedate="20140607T202334Z" creationid="etki" creationdate="20140607T202334Z">
@@ -38101,6 +38765,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Like Alt, but only the active cell is modified</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Ako Alt, ale zmení sa len aktívna bunka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Like many competing productivity suites, the LibreOffice project has created a version of the desktop software that’s available over the Internet.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200214T164242Z" creationid="milos" creationdate="20200214T164242Z">
@@ -39009,6 +39681,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140506T114700Z" creationid="milos" creationdate="20131102T114839Z">
         <seg>Ručné zalomenie textu v bunke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual page break</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zalomiť stranu</seg>
       </tuv>
     </tu>
     <tu>
@@ -40270,6 +40950,70 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move cursor down one line</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť kurzor o riadok nižšie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move cursor to beginning of the next paragraph</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť kurzor na začiatok nasledujúceho odseku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move cursor to beginning of the previous paragraph</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť kurzor na začiatok predchádzajúceho odseku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move cursor to the left</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť kurzor doľava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move cursor to the right</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť kurzor doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move cursor up one line</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť kurzor o riadok vyššie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move cursor with selection to the left</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Výber upraviť doľava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move cursor with selection to the right</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Výber upraviť doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move report fields to the left</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140702T062624Z" creationid="milos" creationdate="20140702T062624Z">
@@ -40526,10 +41270,34 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move the view down one page</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť zobrazenie o stranu nadol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the view up one page</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Presunúť zobrazenie o stranu nahor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move these fields from the &lt;f0&gt;Available fields&lt;/f0&gt; to the &lt;f1&gt;Selected fields&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140523T140614Z" creationid="etki" creationdate="20140305T190821Z">
         <seg>Tieto polia presunieme zo zoznamu &lt;f0&gt;Dostupné polia&lt;/f0&gt; do zoznamu &lt;f1&gt;Vybrané polia&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move to next text object on slide / drawing page</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prejsť na nasledujúci textový objekt snímky</seg>
       </tuv>
     </tu>
     <tu>
@@ -43631,6 +44399,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening, closing, saving, printing and downloading documents</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Otváranie, zatváranie, ukladanie, tlač a sťahovanie dokumentov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens Styles and Formatting window</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131011T135716Z" creationid="milos" creationdate="20131011T135716Z">
@@ -44394,6 +45170,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Paragraph formatting</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Formátovanie odsekov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Parentheses</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140325T184501Z" creationid="milos" creationdate="20140325T184501Z">
@@ -44430,6 +45214,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140321T140034Z" creationid="milos" creationdate="20140321T140034Z">
         <seg>Heslá pre internetové pripojenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Paste as unformatted text</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vložiť ako neformátovaný text</seg>
       </tuv>
     </tu>
     <tu>
@@ -44962,6 +45754,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Presentations</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prezentácie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Presentations in LibreOffice</seg>
       </tuv>
       <tuv lang="SK" changeid="etki" changedate="20131207T152011Z" creationid="etki" creationdate="20131108T185531Z">
@@ -45338,6 +46138,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Print (Download as PDF)</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Tlačiť (stiahnuť ako PDF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Print Dialogs – Use LibreOffice dialogs</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20150225T080654Z" creationid="milos" creationdate="20150225T080616Z">
@@ -45662,6 +46470,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131021T103707Z" creationid="milos" creationdate="20131021T102953Z">
         <seg>O úroveň vyššie s podčasťami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Promote list item (list item has to be selected)</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Zvýšiť úroveň položky (položka musí byť vybraná)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46301,6 +47117,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Opakovať vrátené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Redoes last action.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140730T151318Z" creationid="milos" creationdate="20140108T162058Z">
@@ -46513,6 +47337,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140702T133410Z" creationid="milos" creationdate="20140702T133410Z">
         <seg>Pokiaľ nie sú viditeľné všetky polia, tak ich zobrazíme pomocou zvislého posúvača.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove direct formatting</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Odstrániť priame formátovanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -49152,6 +49984,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať všetko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Ascending as the direction of the sort.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140702T052259Z" creationid="milos" creationdate="20140702T052147Z">
@@ -49353,6 +50193,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select all in slide / drawing page</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať všetko na snímke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an additional point in Point Selection mode.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140730T151702Z" creationid="milos" creationdate="20140109T172322Z">
@@ -49493,6 +50341,38 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140107T172027Z" creationid="milos" creationdate="20140107T172027Z">
         <seg>Ak je zaškrtnutá a prechod medzi snímkami upravíme, prechod sa zobrazí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select lines in downwards direction</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať riadky smerom nadol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select lines in upwards direction</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať riadky smerom nahor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select objects in the order in which they were created</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať objekty v poradí, ako boli vytvorené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select objects in the reverse order in which they were created</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať objekty v opačnom poradí, ako boli vytvorené</seg>
       </tuv>
     </tu>
     <tu>
@@ -50589,6 +51469,38 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select to beginning of paragraph</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať po začiatok odseku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select to end of paragraph</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať po koniec odseku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select to the left word by word</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať text po slovách doľava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select to the right word by word</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vybrať text po slovách doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select two differently shaped objects.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140428T054202Z" creationid="milos" creationdate="20140428T054202Z">
@@ -50990,6 +51902,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set Optimal Column Width</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Nastaviť optimálnu šírku stĺpca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set operations</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140302T163734Z" creationid="milos" creationdate="20140302T163734Z">
@@ -51294,6 +52214,38 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Shift + Arrow Down</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Shift + šípka dole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift + Arrow Left</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Shift + šípka vľavo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift + Arrow Right</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Shift + šípka vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift + Arrow Up</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Shift + šípka hore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Shift+Ctrl+N</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140108T161702Z" creationid="milos" creationdate="20140108T161702Z">
@@ -51394,6 +52346,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131126T081919Z" creationid="milos" creationdate="20131126T081919Z">
         <seg>Klávesové skratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut Keys for Tables</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Skratky pre tabuľky</seg>
       </tuv>
     </tu>
     <tu>
@@ -51735,6 +52695,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slide / draw page keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Skratky pre snímky prezentácie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Slide Sorter view</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131217T083943Z" creationid="milos" creationdate="20131217T083943Z">
@@ -51780,6 +52748,22 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131217T162350Z" creationid="milos" creationdate="20131217T162350Z">
         <seg>Rovnako sa nezobrazujú názvy snímok.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide pane</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Panel snímok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slide show</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prezentácia</seg>
       </tuv>
     </tu>
     <tu>
@@ -52635,6 +53619,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spreadsheets</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Hárky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spreadsheets consist of a number of individual &lt;i2/&gt;&lt;f3&gt;sheets&lt;/f3&gt;, each sheet containing cells arranged in rows and columns.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131025T075710Z" creationid="milos" creationdate="20131023T143217Z">
@@ -52663,6 +53655,46 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140427T130711Z" creationid="milos" creationdate="20140427T130703Z">
         <seg>Štvorce sú &lt;i0/&gt; obdĺžniky, ktoré majú všetky strany rovnako dlhé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard currency format</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Štandardný formát meny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard date format</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Štandardný formát dátumu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard exponential format</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Štandardný exponenciálny formát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard format</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Štandardný formát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Standard percentage format (two decimal places)</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Štandardný formát percent (dve desatinné miesta)</seg>
       </tuv>
     </tu>
     <tu>
@@ -53131,6 +54163,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Preškrtnuté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Structure of an LOOL Installation</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200214T195206Z" creationid="milos" creationdate="20200214T195206Z">
@@ -53311,6 +54351,22 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140813T101035Z" creationid="milos" creationdate="20140214T143807Z">
         <seg>Predpokladajme, že chceme, aby bol vzorec rozložený na viac než jednom riadku, napríklad:&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;vzorec&lt;/s3&gt;&lt;/df0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch cursor between text and footer</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prepnúť kurzor medzi textom a pätou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch cursor between text and header</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Prepnúť kurzor medzi textom a hlavičkou</seg>
       </tuv>
     </tu>
     <tu>
@@ -53739,10 +54795,26 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text documents</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Textové dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text field types include CHAR, VARCHAR, VARCHAR_IGNORECASE, and MEMO.</seg>
       </tuv>
       <tuv lang="SK" changeid="etki" changedate="20140508T110834Z" creationid="etki" creationdate="20140508T110834Z">
         <seg>Typy textových polí sú CHAR, VARCHAR, VARCHAR_IGNORECASE a MEMO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text formatting</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Formátovanie textu</seg>
       </tuv>
     </tu>
     <tu>
@@ -53807,6 +54879,22 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140427T164417Z" creationid="milos" creationdate="20140427T164417Z">
         <seg>Vlastnosti textu možno tiež zmeniť počas jeho zadávania, zmeny sa pritom použijú od umiestnenia kurzora ďalej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text selection and navigation in a textbox</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Výber textu a navigácia v textovom poli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text selection and navigation in document</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Výber textu a navigácia v dokumente</seg>
       </tuv>
     </tu>
     <tu>
@@ -54680,6 +55768,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140513T153246Z" creationid="milos" creationdate="20131013T152916Z">
         <seg>Správca rozšírení poskytuje jednoduchý spôsob na inštalovanie kolekcie šablón.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Files Application in NextCloud</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200229T194358Z" creationid="milos" creationdate="20200229T194358Z">
+        <seg>Aplikácia Súbory v cloudovej službe</seg>
       </tuv>
     </tu>
     <tu>
@@ -66145,6 +67241,14 @@ around the world.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two decimal places, thousands separator</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Dve desatinné miesta, oddeľovač tisícok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Two different snap functions can be used at the same time; for example snapping to a guide line and to the page edge.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140427T195342Z" creationid="milos" creationdate="20140427T194802Z">
@@ -66606,6 +67710,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131021T101142Z" creationid="milos" creationdate="20131021T101142Z">
         <seg>Podčiarknuté</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Vrátiť</seg>
       </tuv>
     </tu>
     <tu>
@@ -71050,6 +72162,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140325T184333Z" creationid="milos" creationdate="20140325T184333Z">
         <seg>Opakované slová</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word processor functions</seg>
+      </tuv>
+      <tuv lang="SK">
+        <seg>Funkcie textového procesora</seg>
       </tuv>
     </tu>
     <tu>
