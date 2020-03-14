@@ -2211,6 +2211,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;f0&gt;C&lt;/f0&gt;ontains a command to view Spreadsheets in &lt;f1&gt;Full Screen.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200314T142950Z" creationid="milos" creationdate="20200314T142950Z">
+        <seg>&lt;f0&gt;&lt;/f0&gt;Obsahuje príkaz na zobrazenie hárkov na &lt;f1&gt;Celej obrazovke&lt;/f1&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;Calendar&lt;/f0&gt;, for keeping appointments and tasks.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200301T085411Z" creationid="milos" creationdate="20200301T085411Z">
@@ -17267,6 +17275,22 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains commands for editing the document; for example, &lt;f0&gt;Undo/Redo&lt;/f0&gt;, &lt;f1&gt;Copy&lt;/f1&gt;, &lt;f2&gt;Paste&lt;/f2&gt;, &lt;f3&gt;Select All&lt;/f3&gt;, and &lt;f4&gt;Find and Replace.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200314T142840Z" creationid="milos" creationdate="20200314T142840Z">
+        <seg>Obsahuje príkazy na úpravu dokumentu; napríklad, &lt;f0&gt;Späť/Znova&lt;/f0&gt;, &lt;f1&gt;Kopírovať&lt;/f1&gt;, &lt;f2&gt;Vložiť&lt;/f2&gt;, &lt;f3&gt;Vybrať všetko&lt;/f3&gt; a &lt;f4&gt;Nájsť a nahradiť&lt;/f4&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contains commands for inserting elements into a spreadsheet; for example, &lt;f0&gt;Images (Local or within the hosting application)&lt;/f0&gt;, &lt;f1&gt;Special Characters&lt;/f1&gt;, &lt;f2&gt;Charts&lt;/f2&gt;, &lt;f3&gt;Comments&lt;/f3&gt;, &lt;f4&gt;Hyperlinks&lt;/f4&gt;, and &lt;f5&gt;Headers and Footers.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200314T143242Z" creationid="milos" creationdate="20200314T143242Z">
+        <seg>Obsahuje príkazy na vkladanie rôznych prvkov do hárka; napríklad, &lt;f0&gt;obrázky (lokálne alebo z hostiteľskej aplikácie)&lt;/f0&gt;, &lt;f1&gt;Špeciálny znak&lt;/f1&gt;, &lt;f2&gt;Graf&lt;/f2&gt;, &lt;f3&gt;Poznámka&lt;/f3&gt;, &lt;f4&gt;Hypertextový odkaz&lt;/f4&gt; a &lt;f5&gt;Hlavičky a Päty&lt;/f5&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains commands that apply to the entire document; for example, &lt;f0&gt;Save/Save As&lt;/f0&gt;, &lt;f1&gt;Share&lt;/f1&gt;, &lt;f2&gt;Print&lt;/f2&gt;, &lt;f3&gt;See Revision History&lt;/f3&gt;, and the &lt;f4&gt;Download as sub-menu.&lt;/f4&gt;</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200314T142731Z" creationid="milos" creationdate="20200314T142731Z">
@@ -20984,6 +21008,14 @@ LibreOffice je možné voľne používať a šíriť bez poplatkov..</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20131013T141039Z" creationid="milos" creationdate="20131013T141039Z">
         <seg>Následne šablónu upravíme tak, ako keby sme upravovali bežný dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200314T142739Z" creationid="milos" creationdate="20200314T142739Z">
+        <seg>Upraviť:</seg>
       </tuv>
     </tu>
     <tu>
@@ -36803,6 +36835,14 @@ get involved in the project, you're welcome</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20140813T110830Z" creationid="milos" creationdate="20140813T110830Z">
         <seg>Vzorec z vyznačeného textu vytvoríme pomocou tlačidla na paneli nástrojov, položky menu &lt;f0&gt;Vložiť &gt; Objekt &gt; Vzorec&lt;/f0&gt; alebo pomocou klávesovej skratky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200314T142955Z" creationid="milos" creationdate="20200314T142955Z">
+        <seg>Vložiť:</seg>
       </tuv>
     </tu>
     <tu>
@@ -71140,6 +71180,14 @@ around the world.</seg>
       </tuv>
       <tuv lang="SK" changeid="milos" changedate="20200301T132206Z" creationid="milos" creationdate="20200301T113228Z">
         <seg>Zobraziť bočný panel &lt;f0&gt;Podrobnosti&lt;/f0&gt; s &lt;f1&gt;detailami&lt;/f1&gt; o súbore. Pozostáva zo záložiek &lt;f2&gt;Aktivita&lt;/f2&gt; (obsahuje napr. vykonané zmeny), &lt;f3&gt;komentáre&lt;/f3&gt; používateľov k súboru a vyššie uvedenú záložku &lt;f4&gt;Zdieľanie&lt;/f4&gt;. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>View:</seg>
+      </tuv>
+      <tuv lang="SK" changeid="milos" changedate="20200314T142901Z" creationid="milos" creationdate="20200314T142901Z">
+        <seg>Zobraziť:</seg>
       </tuv>
     </tu>
     <tu>
