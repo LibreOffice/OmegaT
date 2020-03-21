@@ -1,0 +1,2439 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When &lt;f0&gt;Automatic Spell Checking&lt;/f0&gt; is selected on the Tools menu, each word is checked as it is typed and a wavy red line is displayed under any unrecognized words.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když &lt;f0&gt;Automatic Kontrola pravopisu&lt;/f0&gt; je vybrána v nabídce Nástroje, každé slovo je kontrolována jak je napsaný, a zvlněná červená čára se zobrazí v žádném neuznaných slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on an unrecognized word to open a context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na neznámé slovo otevřete kontextovou nabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can click on one of the suggested words to replace the underlined word with the one selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete kliknout na jeden z navrhovaných slov nahradit podtržené slovo s jedním vybraným.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the list does not contain the word you want, click &lt;f1&gt;Spelling&lt;/f1&gt; to open a dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě, že seznam neobsahuje slovo, které chcete, klepněte na tlačítko &lt;f1&gt;Spelling&lt;/f1&gt; otevřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To perform a combined spelling and grammar check on the document (or a text selection), click the &lt;f0&gt;Check Spelling&lt;/f0&gt; button on the Standard toolbar, or choose &lt;f1&gt;Tools &gt; Spelling&lt;/f1&gt;, or press &lt;f2&gt;F7&lt;/f2&gt; on the keyboard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li provést kombinovaný pravopisu a gramatiky v dokumentu (nebo výběr textu), klikněte na &lt;f0&gt;tlačítko Zkontrolovat pravopis&lt;/f0&gt; na nástrojové liště Standardní, nebo zvolte &lt;f1&gt;Nástroje&gt; Kontrola pravopisu&lt;/f1&gt; nebo stiskněte &lt;f2&gt;F7&lt;/f2&gt; na klávesnici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This checks the document or selection and opens the Spelling dialog if any unrecognized words are found.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento kontroly dokumentu, nebo si vybere a otevře dialogové okno Pravopis, pokud jsou nalezeny žádné neuznaných slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To also identify potential grammar problems, select the &lt;f3&gt;Check grammar&lt;/f3&gt; box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Také identifikovat potenciální problémy gramatiky, zvolte &lt;f3&gt;gramatiky&lt;/f3&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change dictionary language</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změnit slovník jazyka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change &lt;i0/&gt;the dictionary language (for example, Spanish, French or German) in the Spelling dialog by selecting the appropriate language in the &lt;f1&gt;Text language&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna &lt;i0 /&gt; slovník jazyka (například, španělština, francouzština nebo němčina) v dialogovém okně Pravopis výběrem vhodného jazyka ve &lt;f1&gt;jazyk textu&lt;/f1&gt; rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a word to the dictionary</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidání slova do slovníku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a word to the dictionary by clicking &lt;f0&gt;Add to Dictionary&lt;/f0&gt; in the Spelling dialog or in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidání slova do slovníku klepnutím &lt;f0&gt;Přidat do slovníku&lt;/f0&gt; v dialogovém okně Kontrola pravopisu nebo v kontextovém menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The word will be added to the Standard dictionary, unless you have created another dictionary in the same language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Slovo bude přidáno do slovníku standard, pokud jste vytvořil další slovník ve stejném jazyce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have created a new dictionary, you will be given a choice of dictionaries to add the word to.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste vytvořili nový slovník, budete mít na výběr ze slovníků přidat slovo, které chcete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose text for spell checking</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte text pro kontrolu pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose whether to check uppercase words or words that contain numbers, by clicking the &lt;f0&gt;Options&lt;/f0&gt; button on the Spelling dialog to open a dialog similar to the one in &lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f1&gt;, described in Chapter 2.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte, zda chcete zkontrolovat velká slova nebo slova, která obsahují čísla, kliknutím na &lt;f0&gt;tlačítko Možnosti&lt;/f0&gt; v dialogovém okně Pravopis otevřít dialog podobný tomu, který ve &lt;f1&gt;Nástroje&gt; Možnosti&gt; Nastavení jazyka&gt; Pomůcky pro psaní &lt;/f1&gt;, je popsáno v kapitole 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage custom dictionaries</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Správa vlastních slovníků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create, edit, or delete dictionaries and edit words in the dictionary in the same Options dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvářet, editovat nebo mazat slovníky a upravovat slova ve slovníku ve stejném dialogovém okně Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Specify language for specific paragraphs</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Určete jazyk konkrétních bodech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Set paragraphs to be checked in a language (different from the rest of the document) using several methods—for example, by clicking on the Text Language field on the Status Bar or by creating paragraph styles for specific languages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Set body, které mají být kontrolovány v jazyce (odlišný od zbytku dokumentu) s použitím několika metod, například kliknutím na textovém poli jazyka na stavovém řádku nebo vytvořením styly odstavců pro konkrétní jazyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;bf0&gt;Using built-in language tools&lt;/bf0&gt;” on Page &lt;f1&gt;&lt;bf2&gt;35&lt;/bf2&gt;&lt;/f1&gt;&lt;s3/&gt;or refer to the &lt;f4&gt;Writer Guide&lt;/f4&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;bf0&gt; Používání vestavěné jazykových nástrojů &lt;/bf0&gt;“ na straně &lt;f1&gt;&lt;bf2&gt; 35&lt;/bf2&gt; &lt;/f1&gt; &lt;s3 /&gt; nebo odkazují na &lt;f4&gt;Writer Guide&lt;/f4&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Set additional grammar checking rules</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavíme pravidla pro další gramatiky kontrolní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select additional grammar checking rules through &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; English sentence checking&lt;/f0&gt;, or through &lt;f1&gt;Tools &gt; Extension Manager &gt; English spelling dictionaries &gt; Options&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte další kontrolu gramatiky pravidla prostřednictvím &lt;f0&gt;Nástroje&gt; Možnosti&gt; Nastavení jazyka&gt; English kontrolní věta &lt;/​​f0&gt;, nebo pomocí &lt;f1&gt;Nástroje&gt; Správce rozšíření&gt; angličtina pravopisu slovníků&gt; Možnosti &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>“Grammar by” spell checking</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>„Gramatika podle“ Kontrola pravopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice provides “Grammar By” spelling checking.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice poskytuje „Gramatika slovem“ kontrolu pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It enables the dictionary to recognize different forms of the same word.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umožňuje slovník rozpoznat různé formy stejného slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is particularly helpful for new words or specialized words that are unlikely to have all variations in the dictionary.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To je zvláště užitečné pro nová slova nebo specializovaných slova, která jsou nepravděpodobné, že by veškeré varianty slovníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As an example, variations of the word “motorcycle”—motorcycles, motorcycled, motorcycling, motorcyclist, etc.—would all be accepted, without having to enter each of them individually.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jako příklad lze uvést, variace slova „motocyklem“ -motorcycles, motorcycled, motocyklové, motocyklista, atd., Všichni by být přijat, aniž by bylo nutné zadávat každý z nich jednotlivě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To use the Grammar By feature, click the &lt;f0&gt;Options&lt;/f0&gt; button in the Spelling dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li používat gramatiku podle funkce, kliknutím na tlačítko &lt;f0&gt;Možnosti&lt;/f0&gt; v dialogovém okně Kontrola pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select or create a dictionary and click &lt;f1&gt;Edit&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte nebo vytvořit slovník a klikněte na &lt;f1&gt;Edit &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then type the base word in the &lt;f2&gt;Word&lt;/f2&gt; field and type a word in the &lt;f3&gt;Grammar By&lt;/f3&gt; field that that has the same variations as the base word.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Potom typ základní slovo v &lt;f2&gt;Word&lt;/f2&gt; pole a zadat slovo v &lt;f3&gt;gramatiky o&lt;/f3&gt; pole, které, která má stejné variace jako základní slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the motorcycle example, the word could be bike.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V příkladu motocyklu slovo mohlo být kolo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information about the spelling and grammar checking options.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f0&gt;Writer Guide&lt;/f0&gt; Další informace o způsobu psaní a možnosti kontroly gramatiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To access a short list of synonyms, right-click on a word and point to &lt;f0&gt;Synonyms&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro přístup krátký seznam synonym pravým tlačítkem myši na slovo a přejděte na &lt;f0&gt;synonyma&lt;/f0&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A submenu of alternative words and phrases is displayed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazí se dílčí nabídka alternativních slov a frází.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na slovo nebo frázi v podmenu, aby ho nahradit zvýrazněné slovo nebo frázi v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The thesaurus gives a more extensive list of alternative words and phrases.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tezaurus dává více rozsáhlý seznam alternativních slov a frází.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To use the thesaurus, click on &lt;f0&gt;Thesaurus&lt;/f0&gt; from the &lt;f1&gt;Synonyms&lt;/f1&gt; submenu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít tezaurus, klikněte na &lt;f0&gt;tezaurus&lt;/f0&gt; od &lt;f1&gt;synonyma&lt;/f1&gt; podmenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the current language does not have a thesaurus installed, this feature is disabled.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je aktuální jazyk nemá nainstalován tezaurus, tato funkce je zakázána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It also includes codes for inserting special characters, emoji, and other symbols.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obsahuje také kódy pro vložení speciální znaky, emotikony a další symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AutoCorrect is turned on by default.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automatických je zapnuta ve výchozím nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may wish to disable some of its features, modify others, or turn it off completely.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možná budete chtít vypnout některé z jeho funkcí, modifikovat ostatní, nebo ji vypnout úplně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add your own corrections or special characters or change those supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat vlastní opravy nebo speciální znaky nebo měnit ty, které dodává s LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f1&gt;Replace&lt;/f1&gt; tab (Figure &lt;f2&gt;&lt;t3&gt;13&lt;/t3&gt;&lt;/f2&gt;), you can define which strings of text are corrected and how.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>On &lt;f1&gt;Nahradit kartu&lt;/f1&gt; (Obrázek &lt;f2&gt;&lt;t3&gt; 13&lt;/t3&gt; &lt;/f2&gt;), můžete určit, které struny textu jsou opraveny a jak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To stop Writer replacing a specific spelling, go to the &lt;f0&gt;Replace&lt;/f0&gt; tab, highlight the word pair, and click &lt;f1&gt;Delete&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zastavit Writer nahradí konkrétní pravopisu, přejděte na kartu &lt;f0&gt;Nahradit &lt;/f0&gt;, zvýrazněte dvojici slovo, a klikněte na &lt;f1&gt;Smazat &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a new spelling to the list, type it into the &lt;f2&gt;Replace&lt;/f2&gt; and &lt;f3&gt;With&lt;/f3&gt; boxes on the &lt;f4&gt;Replace&lt;/f4&gt; tab, and click &lt;f5&gt;New&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat nový pravopis do seznamu, napište jej do &lt;f2&gt;Nahradit&lt;/f2&gt; a &lt;f3&gt;S&lt;/f3&gt; schránek na &lt;f4&gt;Nahradit kartu&lt;/f4&gt; a klikněte na &lt;f5&gt;Nový &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To turn AutoCorrect off, uncheck &lt;f0&gt;Tools &gt; AutoCorrect &gt; While Typing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li Automatické opravy vypnout, zrušte zaškrtnutí políčka &lt;f0&gt;Nástroje&gt; Automatické opravy&gt; při psaní &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, type :smiling: and AutoCorrect will replace it with ☺.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například typ: s úsměvem: bude a automatických nahradit ji ☺.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Or, (c) will be changed to ©.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nebo se (c) musí být změněn na ©.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Replace tab of AutoCorrect dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;13 &lt;/seq0&gt;: kartě Nahradit automatických dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To turn off Word Completion, select &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options &gt; Word Completion&lt;/f0&gt; and deselect &lt;f1&gt;Enable word completion&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vypnout dokončování slov, vyberte možnost &lt;f0&gt;Nástroje&gt; Automatické opravy&gt; Možnosti automatických oprav&gt; Dokončování slov&lt;/f0&gt; a zrušte &lt;f1&gt;Povolit dokončování slov &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Options for customizing word completion from the AutoCorrect dialog (Figure &lt;f0&gt;&lt;t1&gt;14&lt;/t1&gt;&lt;/f0&gt;) include:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnosti pro dokončení přizpůsobení slovo z dialogového okna Automatické opravy (obrázek &lt;f0&gt;&lt;t1&gt; 14&lt;/t1&gt; &lt;/f0&gt;) zahrnují:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add (append) a space automatically after an accepted word.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>automaticky přidávat (připojení) mezeru po uznávaného slovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show the suggested word as a tip (hovering over the word) rather than completing the text as you type.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit navržené slovo jako špičky (vznášející se nad slovem) spíše než dokončení textu při psaní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As you add words when working on documents, you can either save them for later use in other documents or select the option to remove them from the list when closing documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakmile přidáte slovo při práci s dokumenty, můžete buď uložit pro pozdější použití v jiných dokumentech nebo vyberte možnost k jejich odstranění ze seznamu při zavírání dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change the maximum number of words remembered for word completion and the length of the smallest words to be remembered.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změnit maximální počet slov si pamatoval pro dokončování slov a délky nejmenších slov mít na paměti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete specific entries from the word completion list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mazat záznamy specifické ze seznamu dokončování slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change the key that accepts a suggested entry—the options are right arrow, End key, Return (Enter), Space bar, and Tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změnit klíč, který přijímá navrhovaná vstupní doplňků šipka vpravo, klávesy Konec, Return (Enter), mezerník, a Tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Word Completion tab in AutoCorrect dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;14 &lt;/seq0&gt;: karta Dokončování slov v dialogovém okně Automatické opravy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use AutoText to store text, tables, fields, and other items for reuse and assign them to a key combination for easy retrieval.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití automatického textu k uložení textu, tabulek, polí a další položky k opětovnému použití a přiřadit je k jiné kombinace kláves pro snadné vyhledání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type the text into your document, then select the text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte text do dokumentu, vyberte text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Tools &gt; AutoText&lt;/f0&gt; (or press &lt;f1&gt;Ctrl+F3&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Nástroje&gt; AutoText&lt;/f0&gt; (nebo stiskněte &lt;f1&gt;Ctrl + F3 &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the category for the AutoText entry, for example &lt;f0&gt;My AutoText&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte kategorii pro položku automatického textu, například &lt;f0&gt;My AutoText &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;AutoText&lt;/f0&gt; button at the bottom of the dialog and select from the menu either &lt;f1&gt;New&lt;/f1&gt;, to have the AutoText retain specific formatting, no matter where it is inserted, or &lt;f2&gt;New (text only)&lt;/f2&gt;, to have the AutoText take on the existing formatting around the insertion point.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;tlačítko automatického textu&lt;/f0&gt; ve spodní části dialogového okna a vyberte z nabídky buď &lt;f1&gt;Nový &lt;/f1&gt;, mít AutoText zachovat zvláštní formátování, bez ohledu na to, kde je vložena, nebo &lt;f2 &gt;(pouze text) New &lt;/f2&gt;, mít vzít automatického textu na existující formátování kolem kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the only option under the AutoText button is &lt;f0&gt;Import&lt;/f0&gt;, either you have not entered a name for your AutoText or there is no text selected in the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li jedinou možností pod tlačítkem automatického textu &lt;f0&gt;Import &lt;/f0&gt;, ať již jste nezadali název automatického textu nebo je vybrán v dokumentu žádný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Creating an AutoText entry</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;15 &lt;/seq0&gt;: Vytvoření položky automatického textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 17, Fields, in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 17, pole, v &lt;f0&gt;Writer Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are two basic ways to format text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Existují dva základní způsoby, jak do formátu textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Understanding these two alternatives is essential for unlocking the power of LibreOffice:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pochopení těchto dvou alternativ je nezbytné pro uvolnění energie z LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Direct (or Manual) formatting</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přímý (nebo ruční) formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Applies formatting directly to specific paragraphs, characters, pages, frames, lists, or tables.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aplikuje formátování přímo na konkrétní body, znaky, stránky, rámečky, seznamy nebo tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, you can select a word, then click on a button on the Formatting toolbar to format the text as bold or italics.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například, můžete si vybrat slovo a poté klikněte na tlačítko na panelu nástrojů Formát pro formátování textu jako tučné nebo kurzívou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bundles formatting options under one name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Svazky možnostech formátování pod jedním názvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, a paragraph style defines numerous settings for options such as font type and size, whether paragraphs should be indented, the space between lines, how paragraphs should be aligned on the page, and many others.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například styl odstavce definuje řadu nastavení možností, jako je typ písma a velikost, zda odstavce by měly být odsazeny, prostor mezi řádky, jak by měly být vyrovnány odstavce na stránce, a mnoho dalších.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer is designed to be a style-based program.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer je navržen tak, aby program, styl založený na.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Because styles apply whole groups of formats at the same time, they enable you to easily format a document consistently and to change the &lt;t0/&gt;formatting of an entire document with minimal effort.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzhledem k tomu, styly aplikovat celých skupin formátů najednou, které vám umožní snadno formátovat dokument důsledně a změnit &lt;t0 /&gt; formátování celého dokumentu s minimálním úsilím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer defines six types of styles: &lt;s0/&gt;paragraph, character, frame, page, list, and table.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer definuje šest druhů stylů: &lt;s0 /&gt; odstavec, znak, rám, strana, seznam a tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 3, Using Styles and Templates, in this book and also refer to the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 3, používat styly a šablony, v této knize, a také se odkazovat na &lt;f1&gt;Writer Guide &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Styles can be applied to paragraphs using the Styles drop-down selection list at the left end of the Formatting toolbar, by using the Styles deck of the Sidebar, and by using the &lt;f0&gt;Styles&lt;/f0&gt; menu on the Menu Bar (limited to common styles).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styly lze aplikovat na odstavců pomocí stylů V rozevíracím seznamu pro výběr v levém konci panelu nástrojů formátování pomocí stylů palubu postranního panelu a pomocí &lt;f0&gt;Styly&lt;/f0&gt; menu na liště menu ( omezeno na běžných typů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use keyboard shortcuts &lt;f1&gt;Ctrl+1&lt;/f1&gt; to &lt;f2&gt;Ctrl+5&lt;/f2&gt; to apply paragraph styles Heading 1 to Heading 5.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také použít klávesové zkratky &lt;f1&gt;Ctrl + 1&lt;/f1&gt; a &lt;f2&gt;Ctrl + 5&lt;/f2&gt; aplikovat styly odstavce Nadpis 1 na okruhu 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can open a Formatting (Styles) toolbar using &lt;f0&gt;View &gt; Toolbars &gt; Formatting (Styles)&lt;/f0&gt;; see Figure &lt;f1&gt;&lt;t2&gt;16&lt;/t2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete otevřít formátování (styly) toolbar pomocí &lt;f0&gt;Zobrazit&gt; Panely nástrojů&gt; Formátování (styly) &lt;/f0&gt;; viz obr &lt;f1&gt;&lt;t 2&gt; 16&lt;/t2&gt; &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Formatting (Styles) toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;16 &lt;/seq0&gt;: formátování (styly) nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For important information about using paragraph styles to format documents, see Chapter 3 of this book and Chapters 8 and 9 in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Důležité informace o použití stylů odstavce slouží k formátování dokumentů, viz kapitola 3 této knihy a v kapitolách 8 a 9 v části &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can manually apply many direct formats to paragraphs using the buttons on the Formatting toolbar and by using the Paragraph panel of the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete ručně aplikovat mnoho přímých formáty odstavců pomocí tlačítek na panelu nástrojů Formát a pomocí Odstavec panelu postranního panelu Vlastnosti palubu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Set Paragraph Style</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Set Style Odstavec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Left, Center Horizontally, Align Right, Justified</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Align Left, Center vodorovně, Align Right, která jsou odůvodněna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Line Spacing (choose from 1, 1.15, 1.5, 2, or custom spacing)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Řádkování (výběr z 1, 1,15, 1,5, 2, nebo vlastní rozteč)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Direct formatting (also called manual formatting) overrides styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přímé formátování (nazývané také ruční formátování) má přednost před styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This means that when a new style is applied, direct formatting is not removed and still determines the displayed format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To znamená, že když se použije nový styl, přímé formátování není odstraněn a stále určuje zobrazenou formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To remove direct formatting, select the text and choose &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; from the Menu bar, or right-click and choose &lt;f1&gt;Clear Direct Formatting&lt;/f1&gt; from the context menu, or press &lt;f2&gt;Ctrl+M&lt;/f2&gt; on the keyboard, or select the &lt;f3&gt;Clear Direct Formatting&lt;/f3&gt; icon in the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odebrat přímé formátování, vyberte text a zvolte &lt;f0&gt;Format&gt; Clear Direct formátování&lt;/f0&gt; na liště menu, nebo klikněte pravým tlačítkem a zvolte možnost &lt;f1&gt;Clear Direct formátování&lt;/f1&gt; z kontextového menu, nebo stiskněte &lt;f2&gt;Ctrl + M&lt;/f2&gt; na klávesnici, nebo vyberte &lt;f3&gt;Clear Direct formátování&lt;/f3&gt; ikonu na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When clearing direct formatting, the text formatting will return to the applied paragraph and character style and not the default paragraph style or default character style (unless these styles are actually applied to the text).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při odstraňování přímé formátování, bude formátování textu vrátit do aplikovaného odstavce a znakové stylu a není výchozí bod ve stylu nebo výchozího znakového stylu (pokud jsou tyto styly jsou skutečně aplikovány na text).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To apply a character style, highlight the characters or words and apply the selected character style from the Styles menu on the Menu bar, from the Character Styles tab of the Sidebar’s Styles deck, or from the right-click context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít znakový styl, vyberte znaky nebo slova a použít vybraný znakový styl z nabídky Styly na panelu nabídek, na kartě znaku stylů postranního panelu Styly palubě, nebo z kontextového menu pravým tlačítkem myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is recommended that you use styles to format characters as much as possible rather than formatting characters directly, as described in this section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je doporučeno používat styly formátovat znaky co nejvíce namísto formátování znaky přímo, jak je popsáno v této části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can directly apply many formats to characters using the buttons on the Formatting toolbar and by using the Character panel of the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přímo aplikovat mnoho formátů na znaky pomocí tlačítek na panelu nástrojů Formát a pomocí panelu Znaky postranního panelu má vlastnosti palubu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bold, Italic, Underline, Overline, Double Underline, Strikethrough, Outline</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tučné, kurzíva, podtržení, overline, Double podtržení, přeškrtnutí, Outline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Just as direct paragraph formatting overrides the current paragraph style, applying direct character formatting to characters overrides the current character style formatting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stejně jako formátování přímý bod přepíše aktuální styl odstavce, použití přímého formátování znaků na znaky přepíše formátování aktuální styl písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tables in a Writer document share the same sets of formatting elements as the spreadsheets in LibreOffice Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulky v dokumentu aplikace Writer sdílejí stejné sady formátování prvky jako tabulkového procesoru v LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To apply table styles, click in the table to be formatted and double-click on a style listed in the Table Styles tab of the Sidebar’s Styles deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít tabulky stylů, klikněte v tabulce, které mají být formátován a dvojitým kliknutím na stylu uvedené v záložce Tabulka stylů postranního panelu Styly palubu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, click in the table to be formatted, choose &lt;f0&gt;Table &gt; AutoFormat Styles&lt;/f0&gt; on the Menu bar and select a style from the dialog that opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně klepněte na tlačítko v tabulce, které mají být formátovány, zvolte &lt;f0&gt;Tabulka&gt; Automatický formát styly&lt;/f0&gt; na panelu nabídek a vyberte si styl v dialogovém okně, které se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, refer to Chapter 13, Tables of Data, in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v kapitole 13 tabulek s údaji v &lt;f1&gt;Writer Guide &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can set Writer to format or correct parts of a document automatically as you type, according to the choices made on the &lt;f0&gt;Options&lt;/f0&gt; tab of the AutoCorrect dialog (&lt;f1&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete nastavit Writer formátu nebo správných částí dokumentu automaticky při psaní, v závislosti na rozhodnutích učiněných na &lt;f0&gt;Možnosti&lt;/f0&gt; karta v dialogovém okně Automatické opravy (&lt;f1&gt; Nástroje&gt; Automatické opravy&gt; Možnosti automatických oprav &lt;/f1 &gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you type three or more hyphens (---), underscores (___) or equal signs (===) on a line and then press Enter, the paragraph is replaced by a horizontal line as wide as the column in the page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadáte-li tři nebo více pomlčky (---), podtržítka (___) nebo znaky rovná (===) na lince a stiskněte tlačítko Enter, odstavec nahrazuje horizontální linie stejně široká jako sloupce na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note that the line is actually the lower border of the preceding paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všimněte si, že linka je ve skutečnosti nižší hranice předchozího odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Automatic numbering is only applied to paragraphs formatted with the Default Style, Text Body, or Text Body Indent paragraph styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automatické číslování se používá pouze k bodům formátovány pomocí původní styl, textem nebo textové tělo odrážka styly odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In most cases &lt;f0&gt;Edit &gt; Undo&lt;/f0&gt; (&lt;f1&gt;Ctrl+Z&lt;/f1&gt;) fixes the issue.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve většině případů &lt;f0&gt;Úpravy&gt; Zpět&lt;/f0&gt; (&lt;f1&gt; Ctrl + Z &lt;/f1&gt;) řeší problém.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To turn AutoCorrect on or off, choose &lt;f0&gt;Tools &gt; AutoCorrect&lt;/f0&gt; and select or deselect the items on the list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li automatických zapnout nebo vypnout, zvolte &lt;f0&gt;Nástroje&gt; Automatické opravy&lt;/f0&gt; a vyberte nebo zrušte výběr položky na seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Help describes each of these choices.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Help popisuje každou z těchto možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more about creating lists using styles, see Chapter 12, Lists: Tips and Tricks, in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o vytváření seznamů pomocí stylů, viz kapitola 12, seznamech: tipy a triky, v &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Whenever possible, use paragraph styles for creating bulleted and numbered lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kdykoliv je to možné, používat styly odstavců pro vytváření s odrážkami a číslované seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer comes with two sets of paragraph styles for this purpose.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer je dodáván se dvěma sadami styly odstavců pro tento účel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, these styles do not include options for settings such as the type of bullet or position of numbers.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, tyto styly nezahrnují možnosti nastavení, jako je například typ střely nebo pozici čísel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Those settings come from list styles, which are a different type of style than paragraph styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato nastavení pocházejí ze seznamu stylů, které jsou jiným typem stylu než styly odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is recommended to use them together in these ways:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Doporučuje se používat spolu v těchto ohledech:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use paragraph styles List 1, List 2, List 3, and so on for creating bulleted lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použít styly odstavců Seznam 1, Seznam 2, Seznam 3, a tak dále pro vytváření seznamů s odrážkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These styles use Bullet list styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto styly používat Bullet list stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use paragraph styles Numbering 1, Numbering 2, Numbering 3, etc, for creating numbered lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití odstavce stylů číslování 1, Numbering 2, Numbering 3, etc pro vytváření číslované seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These styles use the list styles called Numbering 1, Numbering 2, etc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto styly použít styly seznam zvaných Číslování 1, Číslování 2, atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To assign a list style to one of these paragraph styles, go to the Styles deck in the Sidebar, right-click on the paragraph style you want to use, then choose &lt;f0&gt;Modify&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přiřadit styl seznamu na jednu z těchto stylů odstavců, přejděte na Styly palubě v postranním panelu, klepněte pravým tlačítkem myši na styl odstavce, který chcete použít, pak zvolte &lt;f0&gt;Upravit &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f1&gt;Outline &amp; Numbering&lt;/f1&gt; tab on the Paragraph Style dialog, in the &lt;f2&gt;Numbering style&lt;/f2&gt; drop-down list, choose the appropriate list style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na &lt;f1&gt;osnovy a číslování&lt;/f1&gt; karta v dialogu Styl odstavce, v &lt;f2&gt;styl číslování&lt;/f2&gt; drop-down list, vyberte příslušnou seznamu styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Assigning a list style to a paragraph style</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;17 &lt;/seq0&gt;: Přiřazení styl seznamu v stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paragraph styles such as List 1 Start and List 1 End enable you to adjust specific properties (such as the space between paragraphs) for items at the beginning or end of the list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odstavec styly jako Seznam 1 Start a seznamu 1 End umožňují nastavit určité vlastnosti (například mezery mezi odstavci) pro položky na začátku nebo na konci seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>List styles are not meant to be used on their own.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Seznam stylů nejsou určeny k použití na vlastní pěst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rather, they are designed to be attached to paragraph styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poněkud, oni jsou navrženy tak, aby se připojí k styly odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;With paragraph styles, you can easily create nested lists, in which list items have subpoints under them, as in an outline.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Se styly odstavce, můžete snadno vytvořit vnořené seznamy, ve kterém položky seznamu mají písmeny pod nimi, jak v osnově.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s1/&gt;This requires specifying the settings for the additional levels.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s1 /&gt; To vyžaduje zadání nastavení pro další úrovně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s2/&gt;To do this, &lt;s3/&gt;right click on the list style (not the paragraph style), select &lt;/f0&gt;&lt;f4&gt;Modify&lt;/f4&gt;, and specify how each layer will be labeled, using the &lt;f5&gt;Numbering Style&lt;/f5&gt; tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s2 /&gt; Chcete-li to provést, &lt;s3 /&gt; klikněte pravým tlačítkem myši na styl seznamu (nikoliv bod styl), vyberte&lt;/f0&gt; &lt;f4&gt;Upravit&lt;/f4&gt; a určete, jak bude každá vrstva označeny, s použitím styl číslování&lt;/f5&gt; karta &lt;f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also specify the position and spacing for each level on the &lt;f6&gt;Position&lt;/f6&gt; tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Také určit polohu a rozteč pro každou úroveň na kartě &lt;f6&gt;Position &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refer to the &lt;f7&gt;Writer Guide&lt;/f7&gt; for details.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f7&gt;Writer Guide&lt;/f7&gt; podrobnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once you have set up nested lists, you can readily change the hierarchy of an item.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poté, co jste nastavili vnořené seznamy, můžete snadno změnit hierarchii položky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To demote an item one level, position the cursor at the beginning of the line (after the bullet or number) and press the &lt;f0&gt;Tab&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro snížení úrovně položku, jednu úroveň, umístěte kurzor na začátku řádku (po kulce nebo číslo) a stiskněte tlačítko &lt;f0&gt;Tab&lt;/f0&gt; klíče.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To promote an item one level, press &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aby podporovaly některá položka jednu úroveň, stiskněte &lt;f1&gt;Shift + Tab &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets and numbers can be manually applied in three basic ways:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kulky a čísla mohou být manuálně aplikována třemi základními způsoby:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use AutoCorrect to autoformat text, as described above</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití automatických na automatický textu, jak bylo popsáno výše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the &lt;f0&gt;Toggle Bulleted List&lt;/f0&gt; and &lt;f1&gt;Toggle Numbered List&lt;/f1&gt; buttons on the Formatting toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí tlačítka &lt;f0&gt;Toggle Seznam s odrážkami&lt;/f0&gt; a &lt;f1&gt;Toggle číslovaný seznam&lt;/f1&gt; tlačítka na panelu nástrojů Formát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the Paragraph panel of the Sidebar’s Properties deck</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte odstavce panelu postranního panelu Vlastnosti palubě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets and numbering can be applied to already selected text or they can be applied as you type.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odrážky a číslování lze aplikovat na již vybraného textu, nebo mohou být použity při psaní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets and numbering applied in these ways cannot be removed with &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; in the Menu bar, or with the &lt;f1&gt;Clear Direct Formatting&lt;/f1&gt; icon on the Formatting toolbar, or by using &lt;f2&gt;Ctrl+M&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odrážky a číslování aplikovat tyto způsoby nelze odstranit &lt;f0&gt;Format&gt; Clear Direct formátování&lt;/f0&gt; v liště menu, nebo s &lt;f1&gt;Clear Direct formátování&lt;/f1&gt; ikonu na panelu nástrojů Formát nebo pomocí &lt;f2&gt;Ctrl + M &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rather, they are turned off or removed from selected text by toggling the relevant buttons on the &lt;f3&gt;Formatting&lt;/f3&gt; toolbar, or on the Sidebar’s Properties deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poněkud, oni jsou vypnuty nebo odebrán z vybraného textu přepnutím příslušných tlačítek na &lt;f3&gt;Formátování&lt;/f3&gt; panel nástrojů, nebo v bočním panelu na jeho vlastnosti palubu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the buttons on the Bullets and Numbering toolbar to move items up or down the list, create sub-points, change the style of bullets, and access the Bullets and Numbering dialog, which contains more detailed controls.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí tlačítek na panelu nástrojů Odrážky a číslování přesunout položky nahoru nebo dolů v seznamu, vytvořit sub-body, změnit styl odrážek, a přístup kulky a dialogové číslování, který obsahuje podrobnější kontroly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;View &gt; Toolbars &gt; Bullets and Numbering&lt;/f0&gt; to see the toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte &lt;f0&gt;Zobrazit&gt; Panely nástrojů&gt; Odrážky a číslování&lt;/f0&gt; pro zobrazení panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If numbering or bullets are being applied automatically in a way that you find inappropriate, you can switch them off temporarily by unchecking &lt;f0&gt;Tools &gt; AutoCorrect &gt; While Typing&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud číslování či odrážky jsou automaticky použita způsobem, který najdete nevhodné, můžete je vypnout dočasně deaktivací &lt;f0&gt;Nástroje&gt; Automatické opravy&gt; při psaní &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Toggle Bulleted List&lt;/f0&gt; and &lt;f1&gt;Toggle Numbered List&lt;/f1&gt; buttons on the Sidebar’s Properties deck can also be used to create nested lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;f0&gt;Toggle odrážkami Seznam&lt;/f0&gt; a &lt;f1&gt;Toggle číslovaný seznam&lt;/f1&gt; tlačítek na postranním panelu Vlastnosti palubě lze také použít k vytvoření vnořené seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the down arrow next to the relevant button, then &lt;f2&gt;More Bullets/Numbering&lt;/f2&gt; to access the Bullets and Numbering dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na šipku vedle příslušného tlačítka, poté &lt;f2&gt;Více Bullets / číslování&lt;/f2&gt; získáte přístup k Odrážky a číslování dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To &lt;i0/&gt;define indents and tab settings for one or more selected paragraphs, right-click and choose &lt;f1&gt;Paragraph &gt; Paragraph&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na &lt;i0 /&gt; definovat odsazení a nastavení pod záložkou pro jednu nebo více vybraných odstavců, klepněte pravým tlačítkem myši a vyberte možnost &lt;f1&gt;Bod&gt; odstavec &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Paragraph dialog go to the &lt;f2&gt;Tabs&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Odstavec přejděte na kartu &lt;f2&gt;Panely &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A better strategy is to define tabs for the paragraph style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lepší strategie je definovat záložky pro styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is done on the &lt;f0&gt;Tab&lt;/f0&gt; tab of the Paragraph Style dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To se provádí na &lt;f0&gt;Tab&lt;/f0&gt; karta dialogu Styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Depending on what you are trying to accomplish, a table or frame might be a better choice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V závislosti na tom, co se snažíte dosáhnout, stůl nebo rám může být lepší volbou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To set the spacing of default tab stop intervals, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li nastavit rozestup stop intervalech výchozí kartě, přejděte na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Writer&gt; Obecné &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Selecting a default tab stop interval</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;18 &lt;/seq0&gt;: Volba intervalu výchozí tabulátoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change &lt;i0/&gt;the measurement unit for rulers in the current document by right-clicking on the ruler to open a list of units.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna &lt;i0 /&gt; měřicí jednotky pro pravítka v aktuálním dokumentu pomocí pravého tlačítka myši na pravítku otevřete seznam jednotek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Changing the measurement unit for a ruler</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;19 &lt;/seq0&gt;: Změna jednotky měření pro pravítka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hyphenate words at the end of a line in two ways: let Writer do it automatically (using its hyphenation dictionaries), or insert conditional hyphens manually for specific words.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dělení slov na konci řádku dvěma způsoby: Nechť Writer tuto akci provést automaticky (pomocí jeho dělení slovníky) nebo vložte podmíněné pomlčky ručně určitá slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Styles deck in the Sidebar, go to Paragraph Styles, right-click on Default Style (or another style you want to use) and select &lt;f0&gt;Modify&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na palubě styly v postranním panelu, přejděte na Odstavcové styly, klepněte pravým tlačítkem myši na výchozí styl (nebo jiný styl, který chcete použít) a vyberte &lt;f0&gt;Upravit &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Paragraph Style dialog (Figure &lt;t0&gt;20&lt;/t0&gt;), go to the &lt;f1&gt;Text Flow&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Styl odstavce (Obr &lt;t0&gt;20 &lt;/t0&gt;), přejděte na &lt;f1&gt;Text&lt;/f1&gt; karta Flow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Under &lt;f0&gt;Hyphenation&lt;/f0&gt;, select or deselect the &lt;f1&gt;Automatically&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pod &lt;f0&gt;Dělení slov &lt;/f0&gt;, vyberte nebo zrušte &lt;f1&gt;Automaticky&lt;/f1&gt; možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When automatic hyphenation is on, you can also set the criteria for when it should occur.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když automatické dělení je, můžete také nastavit kritéria pro to, kdy by mělo dojít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to save.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f2&gt;OK&lt;/f2&gt; uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Turning on hyphenation for the Default Style paragraph style affects all other paragraph styles that are based on Default Style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zapnutí dělení slov pro výchozí styl odstavce styl ovlivňuje všechny ostatní styly odstavců, které jsou založeny na výchozí styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any styles not based on Default Style are not affected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakékoliv styly nejsou založeny na výchozím stylu nejsou ovlivněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 3, Using Styles and Templates, for more about styles based on styles other than Default Style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz Kapitola 3, Používání stylů a šablony, pro další informace o stylů založených na jiných než výchozí styl styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Turning on automatic hyphenation in a paragraph style</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;20 &lt;/seq0&gt;: Zapnutí automatického dělení slov ve stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In &lt;f1&gt;Options&lt;/f1&gt;, near the bottom of the dialog, scroll down to find the hyphenation settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f1&gt;Možnosti&lt;/f1&gt; ve spodní části dialogového okna, nalistujte najít nastavení dělení slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the minimum number of characters for hyphenation, or the minimum number of characters before or after a line break, select the item, and then click the &lt;f0&gt;Edit&lt;/f0&gt; button in the &lt;f1&gt;Options&lt;/f1&gt; section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit minimální počet znaků pro dělení slov, nebo minimální počet znaků před nebo za konec řádku, vyberte položku a klepněte na &lt;f0&gt;Edit tlačítka v &lt;f1&gt;Možnosti&lt;/f1&gt; &lt;/f0&gt; sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manually hyphenate words when you want only a specific word hyphenated at the end of a line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ruční dělení slov, pokud chcete pouze určité slovo rozděleno na konci řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s0/&gt;Do not use a normal hyphen, which will remain visible even if the word is no longer at the end of a line (when you add or delete text, or change margins or font size).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s0 /&gt; Nepoužívejte normální spojovník, který zůstane viditelný i v případě, že slovo je již na konci řádku (pokud přidat nebo odstranit textové, nebo změnit okraje nebo velikost písma).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert a conditional hyphen inside a word, click where you want the hyphen to appear (when needed) and press &lt;f0&gt;Ctrl+hyphen&lt;/f0&gt; or use &lt;f1&gt;Insert &gt; Formatting Mark &gt; Insert soft Hyphen&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vložit podmíněnou spojovník uvnitř slova, klepněte na místo, kam chcete, aby se objeví pomlčka (v případě potřeby) a stiskněte &lt;f0&gt;Ctrl + pomlčka&lt;/f0&gt; nebo použití &lt;f1&gt;Vložit&gt; Formátování Mark&gt; Vložit měkký rozdělovník&lt;/f1&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the word is at the end of the line it will be hyphenated at this position, even if automatic hyphenation for this paragraph is switched off.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je slovo na konci řádku bude rozděleno na tomto místě, a to i v případě automatického dělení slov pro tohoto odstavce se vypne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Every page in Writer is based on a page style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každá stránka v aplikaci Writer je založen na styl stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page styles define basic layout, including page size, margins, headers and footers, borders, backgrounds, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>styly strana definuje základní rozvržení, včetně velikosti stránky, okraje, záhlaví a zápatí, okraje, pozadí a tak dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changes to these settings automatically change the page style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změny těchto nastavení se automaticky změní styl stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This means that, in contrast to paragraph styles, these settings cannot be used to directly format individual pages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To znamená, že na rozdíl od stylů odstavce, nelze použít tato nastavení přímo formátovat jednotlivé stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As with other styles, Writer comes with a number of page styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stejně jako u jiných stylů, Writer je dodáván s řadou stylů stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can modify these styles or create new ones.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete upravit tyto styly nebo vytvořit nové.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Default Style page style is used when no other page style has been specified.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výchozí styl styl stránky se používá, když byl zadán žádný jiný styl stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to page styles, several features enable you to further &lt;i0/&gt;control page layouts, including columns, frames, tables, and sections.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kromě stylů stránky, několik funkcí vám umožní dále &lt;i0 /&gt; rozložení ovládání stránek, včetně sloupů, rámů, tabulek a úseků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see Chapters 5 (Formatting Pages: Basics) and 6 (Formatting Pages: Advanced) in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací viz kapitoly 5 (Formátování Stránky: Základy) a 6 (Formátování Stránky: Advanced) v &lt;f1&gt;Writer Guide &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page layout is usually easier if you show text, object, table, and section boundaries in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f0&gt;, and paragraph ends, tabs, breaks, and other items in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzhled stránky je obvykle snazší, když se ukáže text, objekt, stůl a § hranice u &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Aplikace Barvy&lt;/f0&gt; a končí odstavec, nášivky, přestávky, a další položky &lt;f1&gt;Nástroje &gt; Options&gt; LibreOffice Writer&gt; pomůcky pro formátování &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information such as a page number is placed in the header or footer of a page style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informace, jako je číslo stránky je umístěn v záhlaví nebo zápatí stránek stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>That information is then displayed on every page with the same page style (unless the page style specifies separate settings for the first page or for left and right pages).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto informace jsou pak zobrazeny na každé stránce ve stejném stylu stránky (pokud určuje styl stránky odděleně nastavení pro první stranu nebo na levou i pravou stranu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can insert a header &lt;f0&gt;in several ways.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete vložit záhlaví &lt;f0&gt;v několika způsoby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s1/&gt;Here is the easiest:&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s1 /&gt; Zde je nejjednodušší: &lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click above the top margin (or below the bottom margin) to make the Header or Footer marker appear (Figure &lt;t0&gt;22&lt;/t0&gt;), and then click on the +.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte nad horním okrajem (nebo pod spodním okrajem), aby byla značka záhlaví nebo zápatí se zobrazí (viz obr &lt;t0&gt;22 &lt;/t0&gt;) a potom klepněte na +.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After a header/footer has been created, a down-arrow appears on the marker.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poté, co byl vytvořen záhlaví / zápatí, je šipku dolů se zobrazí na značku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you can choose &lt;f0&gt;Insert &gt; Header and Footer &gt; Header &gt; Default Style&lt;/f0&gt; (or some other page style, if not Default Style).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně můžete zvolit &lt;f0&gt;Vložit&gt; Záhlaví a zápatí&gt; Header&gt; Default Style&lt;/f0&gt; (nebo nějaký jiný styl stránky, ne-li výchozí styl).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page styles can be set up to have the facing left and right pages mirrored or only right (first pages of chapters are often defined to be right-page only) or only left.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>styly strana může být nastaven tak, aby odrážel čelí levé a pravé strany, nebo jen vpravo (první stránky kapitol jsou často definována jako pravou stranu pouze) nebo pouze vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, you can &lt;t0/&gt;put the page number on the left-hand edge of the left pages and on the right-hand edge of the right pages, put the document title on the right-hand page only, or make other changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například, můžete &lt;t0 /&gt; vložte číslo stránky na levém okraji levé stran a na pravém okraji pravé stránky, dal název dokumentu na straně pravé pouze nebo dělat jiné Změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To format a header (use similar settings for a footer), you can either click on &lt;f0&gt;Format Header&lt;/f0&gt; in the menu shown in Figure &lt;t1&gt;23&lt;/t1&gt;&lt;s2/&gt;or go to &lt;f3&gt;Format &gt; Page Style &gt; Header&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li formátovat záhlaví (používají podobné nastavení pro zápatí), můžete buď kliknout na &lt;f0&gt;Formát Hlavička&lt;/f0&gt; v nabídce zobrazené na obrázku &lt;t1&gt;23&lt;/t1&gt; &lt;s2 /&gt; nebo přejděte na &lt;f3 &gt;Formát&gt; styl stránky&gt; Hlavička &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you can specify if headings on the left and right pages should be the same or different.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde můžete určit, zda nadpisy na levých a pravých stran by měla být stejná nebo různá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also specify whether the first page will have no header or a different header than other pages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také určit, zda se první strana nebude mít záhlaví nebo odlišné záhlaví než ostatní stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this dialog, you can also turn the header on or off, set the margins, and set the spacing between the header and document text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V tomto dialogu můžete také otočit hlavičku zapnout nebo vypnout, nastavit okraje a nastavte vzdálenost mezi záhlavím a textem dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Page Style dialog, Header tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;24 &lt;/seq0&gt;: dialog Page Style, tab Header</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information such as a document title is often put into the header or footer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informace, jako je název dokumentu je často uveden do záhlaví nebo zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>That way, if something (such as the name) changes, the headers and footers are updated automatically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tímto způsobem, když se něco (například jméno) mění, záhlaví a zápatí jsou aktualizovány automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here is one common way to use fields to insert the document title into the header:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde je jeden společný způsob, jak používat pole pro vložení název dokumentu do záhlaví:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;File &gt; Properties &gt; Description&lt;/f0&gt;,&lt;f1&gt; &lt;/f1&gt;type a title for your document, and click the &lt;f2&gt;OK&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Soubor&gt; Vlastnosti&gt; Popis&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt; zadejte název pro nový dokument, a stiskněte tlačítko &lt;f2&gt;OK &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Place the cursor in the header area at the top of the page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte kurzor v oblasti záhlaví v horní části stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Insert &gt; Field &gt; Title&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Vložit&gt; Pole&gt; Název &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The title may appear on a gray background.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Titul může objevit na šedém pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The background does not show when printed and can be turned off in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pozadí neukazuje při tisku a může být vypnut v &lt;f1&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Aplikace Barvy &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more about headers, footers, and fields, see the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o záhlaví, zápatí a pole, viz &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Place the cursor in the header or footer where you want the page number to appear and choose &lt;f0&gt;Insert &gt; Page Number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte kurzor v záhlaví nebo zápatí, kde chcete číslo stránky se zobrazí a zvolit &lt;f0&gt;Vložit&gt; Číslo stránky &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change the alignment of the number if you wish (left, right, or center).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna zarovnání čísla, pokud chcete (vlevo, vpravo, nebo střed).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press the space bar once, type the word “of” and a space, then choose &lt;f0&gt;Insert &gt; Field &gt; Page Count&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stisknutím mezerníku jednou, zadejte slovo „z“ a prostor, pak zvolte &lt;f0&gt;Vložit&gt; Pole&gt; Počet stránek &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Page Count field inserts the total number of pages in the document, as shown on the &lt;f0&gt;Statistics&lt;/f0&gt; tab of the document’s Properties dialog (&lt;f1&gt;File &gt; Properties&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hrabě pole Page vloží celkový počet stránek v dokumentu, jak je znázorněno na&lt;/f0&gt; kartu &lt;f0&gt;statistiku dialogovém okně Vlastnosti dokumentu (&lt;f1&gt; Soubor&gt; Vlastnosti &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f2&gt;Writer Guide&lt;/f2&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f2&gt;Writer Guide&lt;/f2&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To restart page numbering:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li restartovat číslování stránek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Format &gt; Paragraph&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Formát&gt; Odstavec &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f0&gt;Text Flow&lt;/f0&gt; tab of the Paragraph dialog (Figure &lt;t1&gt;20&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;29&lt;/t3&gt;), select &lt;f4&gt;Insert&lt;/f4&gt; in the &lt;f5&gt;Breaks&lt;/f5&gt; area, and then select &lt;f6&gt;With page style&lt;/f6&gt; and specify the page style to use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na &lt;f0&gt;Text Flow&lt;/f0&gt; karta dialogu § (obr &lt;t1&gt;20&lt;/t1&gt; &lt;s2 /&gt; na straně &lt;t3&gt;29 &lt;/t3&gt;), vyberte možnost &lt;f4&gt;Vložit&lt;/f4 &gt; v &lt;f5&gt;přestávky&lt;/f5&gt; oblast a pak vyberte &lt;f6&gt;s stylu stránky&lt;/f6&gt; a určete styl stránky s užíváním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is also useful for numbering the first page of a document with a page number greater than 1.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To je také užitečné pro číslování první stránky dokumentu s číslem stránky větším než 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the page rulers—quick and easy, but does not allow fine control</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Používání stránek pravítka, rychlá a snadná, ale neumožňuje kontrolu jemné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the Page deck of the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Používání stránky balíček postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you change the margins, the page style is also changed and the changed margins apply to all pages using that style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když změníte okraje, je styl stránky také měnit a změněné rozpětí platí pro všechny stránky používající tento styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The two small gray triangles on the ruler are used for indenting paragraphs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto dvě malé šedé trojúhelníky na pravítku se používají pro odsazení odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The double-headed arrows shown in Figure &lt;t0&gt;25&lt;/t0&gt;&lt;s1/&gt;are mouse cursors shown in the correct position for moving the margin markers.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dvousměrnou šipky znázorněné na obr &lt;t0&gt;25&lt;/t0&gt; &lt;s1 /&gt; jsou kurzory myši uvedeny do správné polohy pro pohyb značek okrajů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Because the triangles and arrows are often in the same place, when changing page margins you need to be careful to move the arrows, not the gray triangles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzhledem k tomu, trojúhelníky a šípy jsou často na stejném místě, při změně okrajů stránky je potřeba dávat pozor, aby přesunout šipky, ne šedivé trojúhelníky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click anywhere in the text area on the page and select &lt;f0&gt;Page Style&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši v textové oblasti na stránce a vyberte &lt;f0&gt;Page Styl&lt;/f0&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f0&gt;Page&lt;/f0&gt; tab of the dialog, type the required distances in the four boxes in the &lt;f1&gt;Margins&lt;/f1&gt; area.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na &lt;f0&gt;kartě Stránka&lt;/f0&gt; dialogového okna zadejte požadované vzdálenosti ve čtyřech polí v &lt;f1&gt;Okraje&lt;/f1&gt; oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change margins using the Page deck of the Sidebar:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit okraje pomocí stránky palubu postranního panelu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Sidebar, open the Page deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na postranní panel, otevřete stránku palubu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Format&lt;/f0&gt; panel, use the &lt;f1&gt;Margins&lt;/f1&gt; drop-down list to select the desired margins.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Formát&lt;/f0&gt; panel, použijte &lt;f1&gt;Okraje&lt;/f1&gt; V rozevíracím seznamu vyberte požadované marže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f2&gt;More Options&lt;/f2&gt; button to open the Page Style dialog where you can enter exact margin distances.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte na tlačítko Další možnosti &lt;f2&gt;&lt;/f2&gt; otevřete dialogové okno styl stránky, kde můžete zadat přesné vzdálenosti okrajů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a watermark to a page background:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidat vodoznak na pozadí stránky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Format &gt; Watermark&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Formát&gt; Vodoznak &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Watermark dialog, type the text and select the font, angle, transparency and color of the watermark.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně vodoznaku zadejte text a vyberte písmo, úhel, průhlednost a barvu vodoznaku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then click the &lt;f0&gt;OK&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poté klikněte na tlačítko &lt;f0&gt;OK &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: The Watermark dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;26 &lt;/seq0&gt;: Dialog vodoznaku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The watermark will automatically become part of the page style where it is inserted and all other pages of the same style will have the watermark.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vodoznak se automaticky stane součástí stylu stránky, kde je vložena a všechny ostatní stránky stejným stylem bude mít vodoznak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pages with different or no watermarks need different Page Styles for those pages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stránky s různými ani žádné vodoznaky potřebují různé styly stránky na těchto stránkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can connect a comment to multiple paragraphs or a single point.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete připojit komentář k několika odstavcích či jediném bodě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert a comment, select the text, or place the cursor in the place the comment refers to, and choose &lt;f0&gt;Insert &gt; Comment &lt;/f0&gt;from the menu bar, click the &lt;f1&gt;Insert Comment&lt;/f1&gt; icon in the Standard toolbar,&lt;f2&gt; &lt;/f2&gt;or press &lt;f3&gt;Ctrl+Alt+C&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vložit komentář, vyberte text nebo umístěte kurzor na místě poznámka se týká, a zvolte &lt;f0&gt;Vložit&gt; Komentář&lt;/f0&gt; z menu, klikněte na &lt;f1&gt;Vložit komentář&lt;/f1&gt; ikona ve standardním panelu &lt;f2&gt;&lt;/f2&gt; nebo stiskněte &lt;f3&gt;Ctrl + Alt + C &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A &lt;f4&gt;Comments&lt;/f4&gt; button is also added to the right of the horizontal ruler at the top of the page; you can click this button to toggle the display of the comments.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>A &lt;f4&gt;Komentáře&lt;/f4&gt; Tlačítko se také přidal k pravé straně vodorovného pravítka v horní části stránky; můžete kliknout na toto tlačítko pro přepnutí zobrazení komentářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the bottom of the comment, Writer automatically adds the author’s name and a time stamp indicating when the comment was created.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dolní části komentáře, Writer automaticky přidá jméno autora a časové razítko označující, kdy byla vytvořena komentář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;t0&gt;27&lt;/t0&gt;&lt;s1/&gt;shows an example of text with comments from two different authors.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;t0&gt;27&lt;/t0&gt; &lt;s1 /&gt; ukazuje příklad textu s komentářem ze dvou různých autorů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Example of comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;27 &lt;/seq0&gt;: Příklad komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to provide the name you want to appear in the Author field of comments.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; User Data&lt;/​​f0&gt; zadat název, který se zobrazí v poli Autor komentářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From this menu, you can also reply to a comment, open a dialog to apply some basic formatting to the text, and mark comments as Resolved.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z této nabídky můžete také odpovědět na poznámku, otevřete dialogové okno použít některé základní formátování textu a komentáře Označit jako vyřešené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These options are also available on a drop-down menu accessed by clicking the down arrow icon at the bottom right of the comment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto možnosti jsou k dispozici také na drop-down menu kliknutím na ikonu se šipkou dolů v pravém dolním rohu okomentovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To navigate from one comment to another, open the sidebar Navigator, expand the Comments section, and click on the comment text to move the cursor to the anchor point of the comment in the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přejít z jednoho komentář k druhému, otevřete postranní panel Navigátor rozbalte sekci Komentáře a kliknutím na text komentáře přesuňte kurzor na kotevní bod komentáře v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the comment directly to edit it and right-click on the comment to delete it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na poznámku přímo upravit jej a klepněte pravým tlačítkem na komentář jej odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a document contains comments, the print dialog has an option for comments to be printed next to the text in the right margin, as they appear on the screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když dokument obsahuje komentáře, zobrazí se dialogové tisk má možnost k vyjádření, které mají být vytištěny vedle textu v pravém okraji, jak se objevují na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In that case, the text on each page is scaled down to make space for the comments.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V takovém případě je text na každé stránce je zmenšen, aby se prostor pro připomínky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Print dialog also has options for placing comments at the end of the page or at the end of the document, or for printing only the comments.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialogové okno Print má i možnosti pro umístění komentáře na konci stránky nebo na konci dokumentu, nebo pro tisk pouze komentáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer provides some tools that make work easier if you use more than one language in the same document or if you write documents in various languages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer obsahuje některé nástroje, které usnadňují práci, pokud používáte více než jeden jazyk, ve stejném dokumentu nebo pokud píšete dokumenty v různých jazycích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changing the language for specific text enables you to use the correct dictionaries and rules to check spelling, grammar, and hyphenation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna jazyka pro určitý text umožňuje používat správné slovníky a pravidla pro kontrolu pravopisu, gramatiky a dělení slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It also applies the localized versions of AutoCorrect replacement options and uses the appropriate thesaurus.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To platí i lokalizované verze variant náhradních automatických oprav a používá příslušný tezaurus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The language used at the location of the cursor is shown in the Status Bar, next to the page style in use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jazyk používaný v místě kurzoru je zobrazen na stavovém řádku vedle stylu stránky v provozu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Languages can be set on the &lt;f0&gt;Font&lt;/f0&gt; tab of the Paragraph Style dialog or the Character Style dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jazyky lze nastavit na písma&lt;/f0&gt; kartu &lt;f0&gt;dialogu Styl odstavce nebo v dialogu Styl Character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f1&gt;Writer Guide&lt;/f1&gt; for information on how to manage the language settings of a style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f1&gt;Writer Guide&lt;/f1&gt; Informace o tom, jak spravovat nastavení jazyka stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Be careful when changing a language in character or paragraph styles, as this will change the language for all characters or paragraphs using that style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buďte opatrní při změně jazyka v znakových nebo odstavcových stylů, jak to bude-li změnit jazyk pro všechny znaky nebo odstavce použitím tento styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It may be useful to include the language in the name of the style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To může být užitečné zahrnout jazyk v názvu stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also, note that languages set with direct formatting will override languages set using styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všimněte si také, že jazyky sada s přímé formátování přepíše jazyky nastavit pomocí stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The language of a whole document can be set by using &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jazykem celého dokumentu lze nastavit pomocí &lt;f0&gt;Nástroje&gt; Možnosti&gt; Nastavení jazyka&gt; Jazyk &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f1&gt;Default Languages for Documents&lt;/f1&gt; section, you can choose the language for all the text that is not explicitly marked as a different language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f1&gt;Výchozí jazyky pro dokumenty&lt;/f1&gt; sekci si můžete vybrat jazyk pro veškerý text, který není výslovně označen jako jiný jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Set the language for the whole document, for individual paragraphs, or even for individual words and characters, from &lt;f0&gt;Tools &gt; Language&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavte jazyk pro celý dokument, pro jednotlivé body, nebo i pro jednotlivá slova a znaky, z &lt;f0&gt;Nástroje&gt; Jazyk&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you can set the language for individual paragraphs and characters by selecting text or putting the cursor in a paragraph and changing the language on the Status Bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně můžete nastavit jazyk pro jednotlivé odstavce a znaků výběrem textu nebo uvedení kurzor do odstavce a změna jazyka na stavovém řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although these methods are a type of direct formatting, they cannot be cleared by using &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; on the Menu bar, clicking the &lt;f1&gt;Clear Direct Formatting&lt;/f1&gt; icon on the Formatting toolbar, selecting &lt;f2&gt;Clear Direct Formatting&lt;/f2&gt; from the context menu, or using &lt;f3&gt;Ctrl+M&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ačkoli tyto způsoby jsou druh přímé formátování, které nelze vymazat pomocí &lt;f0&gt;Formát&gt; Clear Direct formátování&lt;/f0&gt; na panelu nabídek, klepnutím na &lt;f1&gt;Clear Direct formátování&lt;/f1&gt; ikonu na panelu nástrojů Formát výběrem &lt;f2&gt;Clear Direct formátování&lt;/f2&gt; az kontextového menu, nebo pomocí &lt;f3&gt;Ctrl + M &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can set the language for a paragraph or a group of characters as &lt;f0&gt;None (Do not check spelling)&lt;/f0&gt; using any of the methods described above.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete nastavit jazyk pro odstavec nebo skupinu postav jako &lt;f0&gt;None (Neprovádět kontrolu pravopisu)&lt;/f0&gt; pomocí některého z výše popsaných způsobů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This option is especially useful for text such as web addresses or programming language snippets that you do not want to check for spelling.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato volba je obzvláště užitečná pro text, jako jsou webové adresy nebo programovacího jazyka úryvků, které nechcete, aby kontrolu pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The spelling checker works only for those languages in the Spelling dialog list that have a dictionary installed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kontrola pravopisu funguje pouze u těch jazyků, v dialogovém okně seznamu pravopisu, které mají nainstalovány slovník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can install additional dictionaries using &lt;f0&gt;Tools &gt; Language &gt; Writing Aids &gt; More Dictionaries Online&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete nainstalovat další slovníky s použitím &lt;f0&gt;Nástroje&gt; Jazyk&gt; Pomůcky pro psaní&gt; Další slovníky Online &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer can generate a &lt;i0/&gt;table of contents from the headings in your document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer může generovat &lt;i0 /&gt; obsah z nadpisů v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, you can use the Heading 1 style for chapter titles and the Heading 2 and Heading 3 styles for chapter subheadings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například, můžete použít styl Nadpis 1 pro názvy kapitol a Nadpis 2 a Nadpis 3 styly pro kapitolu položkám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also define your own heading styles and set them up in &lt;f1&gt;Tools &gt; Chapter Numbering&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také definovat své vlastní styly nadpisů a jejich nastavení v nabídce &lt;f1&gt;Nástroje&gt; Číslování kapitol &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you create your document, use the following paragraph styles for hierarchical heading levels (such as chapter and section headings): Heading 1, Heading 2, Heading 3, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při vytváření dokumentu, použijte následující styly odstavce pro hierarchických úrovní nadpisů (například kapitol a sekcí okruhů): Nadpis 1, Nadpis 2, Nadpis 3, a tak dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These headings are what will appear in your table of contents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato čísla jsou to, co se objeví ve svém obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Insert &gt; Table of Contents and Index &gt; Table of Contents, Index or Bibliography&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Vložit&gt; Obsah a indexovat&gt; Obsah, Index nebo bibliografii &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change nothing in the Table of Contents, Index, or Bibliography dialog (unless you want to change the number of levels shown).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna nic v Obsahu, dialog Index, nebo bibliografie (pokud budete chtít změnit počet úrovní je znázorněno).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To do this, right-click anywhere within the table of contents and choose &lt;f0&gt;Update index&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li to provést, klepněte pravým tlačítkem myši kdekoliv v obsahu a vyberte &lt;f0&gt;Index Aktualizovat&lt;/f0&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click anywhere in it and choose &lt;f0&gt;Edit Index&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na něj a zvolte &lt;f0&gt;Edit Index&lt;/f0&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 15, Tables of Contents, Indexes, Bibliographies, in the &lt;f1&gt;Writer Guide&lt;/f1&gt; describes in detail all the customizations you can choose.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 15, obsahy, rejstříky, bibliografie, ve &lt;f1&gt;Writer Guide&lt;/f1&gt; podrobně popisuje veškeré úpravy si můžete vybrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before creating some types of indexes, you first need to create index entries in your Writer document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Před vytvořením některé typy indexů, musíte nejprve vytvořit položky rejstříku v dokumentu aplikace Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 15, Tables of Contents, Indexes, Bibliographies, in the &lt;f0&gt;Writer Guide&lt;/f0&gt; describes the process in detail.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 15, obsahy, rejstříky, bibliografie, ve &lt;f0&gt;Writer Guide&lt;/f0&gt; popisuje proces v detailu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Footnotes appear at the bottom of the page on which they are referenced.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poznámky pod čarou se zobrazí v dolní části stránky, na které se odkazuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Endnotes are collected at the end of a document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vysvětlivky jsou shromážděny na konci dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To work effectively with footnotes and endnotes, you need to:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Efektivně pracovat s poznámkami pod čarou a vysvětlivky, je třeba:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert footnotes and define their format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit poznámky pod čarou a definovat jejich formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert a footnote or an endnote, put the cursor where you want the footnote or endnote marker to appear.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vložit poznámky pod čarou nebo EndNote, umístěte kurzor, kam chcete vložit poznámky pod čarou nebo vysvětlivka značky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then select &lt;f0&gt;Insert &gt; Footnote and Endnote&lt;/f0&gt; from the Menu bar and choose &lt;f1&gt;Footnote&lt;/f1&gt; or &lt;f2&gt;Endnote&lt;/f2&gt;, or click the &lt;f3&gt;Insert Footnote&lt;/f3&gt; or &lt;f4&gt;Insert Endnote&lt;/f4&gt; button on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poté zvolte &lt;f0&gt;Vložit&gt; Poznámka pod čarou a Vysvětlivky&lt;/f0&gt; v panelu nabídek a zvolte &lt;f1&gt;Poznámka&lt;/f1&gt; nebo &lt;f2&gt;Vysvětlivky &lt;/f2&gt;, nebo klepněte na tlačítko &lt;f3&gt;Vložit poznámku pod čarou&lt;/f3&gt; nebo &lt;f4&gt;Vložit Vysvětlivky&lt;/f4&gt; tlačítko na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A footnote or endnote marker is inserted in the text and, depending on your choice, the cursor is relocated either to the footnote area at the bottom of the page or to the endnote area at the end of the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poznámka pod čarou nebo vysvětlivka značka je vložen do textu a v závislosti na vašem výběru, je kurzor přemístěn buď na poznámky pod čarou prostoru ve spodní části stránky nebo na vysvětlivka prostoru na konci dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type the footnote or endnote content in this area.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte poznámky pod čarou nebo vysvětlivky obsah v této oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To format the footnotes themselves, click &lt;f0&gt;Tools &gt; Footnotes and Endnotes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K formátování poznámky pod čarou se, klikněte na &lt;f0&gt;Nástroje&gt; Poznámky a vysvětlivky &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Footnotes/Endnotes Settings dialog, choose settings as required.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Poznámky / Závěrečné poznámky nastavení, zvolte nastavení podle potřeby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 3, Working with Text: Advanced, in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more details.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 3, práci s textem: Upřesnit v &lt;f0&gt;Writer Guide&lt;/f0&gt; Více podrobností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Define the location of footnotes on the page, and the color and line styles for separator lines, if the defaults do not meet your needs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Definovat umístění poznámek pod čarou na straně a barva a styly čar pro oddělovač linek, v případě, že výchozí nevyhovují vašim potřebám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These are found on the &lt;f0&gt;Footnote&lt;/f0&gt; tab of the Page Style dialog; see Chapter 5, Formatting Pages: Basics, in the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ty se nacházejí na &lt;f0&gt;Poznámka&lt;/f0&gt; karta dialogu Page Style; viz kapitola 5, formátování stránky: Základy, v &lt;f1&gt;Writer Guide &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Images in Writer are of these basic types:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Snímky ve Writeru jsou z těchto základních typů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image files, including photos, drawings, and scanned images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrazových souborů, včetně fotografií, kreseb a obrazů snímaných</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Artwork created using clip art or Fontwork</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umělecká díla vytvořená pomocí klipartu nebo písmomalby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Charts created using LibreOffice’s Chart facility</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Grafy vytvořené pomocí LibreOffice je schéma zařízení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 11, Graphics, Gallery, and Fontwork, in this book and Chapter 11, Images and Graphics, in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 11, grafika, galerie a písmomalby, v této knize a kapitola 11, obrázky a grafiku, ve &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tables are a useful way to organize and present large amounts of information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulky jsou užitečným způsobem uspořádat a prezentovat velké množství informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A well-designed table can often help readers understand better what you are saying.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dobře navržená tabulka může často pomoci čtenáři lépe pochopit, co říkáte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to using tables for text or numbers, you could put other objects, such as pictures, in cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kromě použití tabulek pro text nebo čísla, by se dala další objekty, jako jsou obrázky v buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer’s tables can often be used as an alternative to spreadsheets, and they provide limited spreadsheet functions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>stoly Spisovatele může být často používán jako alternativa k tabulek, a oni poskytují pouze omezené funkce tabulkového procesoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To directly insert a table with the default properties, click the &lt;f0&gt;Insert Table&lt;/f0&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přímo vložit tabulku s výchozími vlastnostmi, klikněte na &lt;f0&gt;Vložit tabulku&lt;/f0&gt; na ikonu na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the drop-down graphic, choose the size of the table.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na obrázku drop-down, zvolit velikost stolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert a new table using the Insert Table dialog, where you can specify the properties for the table, position the cursor where you want the table to appear, then use any of the following methods to open the dialog:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vložit novou tabulku pomocí dialogového okna Vložit tabulku, ve kterém můžete určit vlastnosti pro tabulku, umístěte kurzor tam, kde chcete tabulku zobrazit, použijte některou z následujících metod otevřete dialogové okno:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Table &gt; Insert Table&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Tabulka&gt; Vložit tabulku&lt;/f0&gt; na liště menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press &lt;f0&gt;Ctrl+F12&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stisknutím tlačítka &lt;f0&gt;Ctrl + F12 &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Standard toolbar, click the &lt;f0&gt;Insert Table&lt;/f0&gt; icon and select &lt;f1&gt;More Options&lt;/f1&gt; at the bottom of the drop-down graphic.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Standardní klepněte na tlačítko &lt;f0&gt;Vložit tabulku&lt;/f0&gt; na ikonu a vyberte možnost &lt;f1&gt;Další možnosti&lt;/f1&gt; v dolní části rozevíracího grafikou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To enter information directly into a database or data source.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadávat informace přímo do databáze nebo datového zdroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer offers several ways to organize information fields in a form, including check boxes, option buttons, text boxes, pull-down lists, and spinners.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer nabízí několik způsobů, jak organizovat informační pole v podobě, včetně políček, přepínače, textová pole, pull-down seznamů a přadleny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Two toolbars control form creation: Form Controls and Form Design.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dva panely nástrojů řídit tvorbu forma: Controls formulář a návrh formuláře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 18, Forms, in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 18, formuláře, ve &lt;f0&gt;Writer Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
