@@ -1,0 +1,2287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Editing a Fontwork object&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;19&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt; Editování písmomalby objekt&lt;/t0&gt; &lt;f1&gt;|&lt;/f1&gt; &lt;t2&gt;19 &lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;18&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Creating a Fontwork object&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt; 18&lt;/t0&gt; &lt;s1 /&gt; &lt;f2&gt;|&lt;/f2&gt; &lt;t3&gt;Vytvoření objektu písmomalby &lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Chapter 11 Graphics, Gallery, Fontwork&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt; Kapitola 11 Graphics, galerie, písmomalby&lt;/t0&gt; &lt;s1 /&gt; &lt;f2&gt;|&lt;/f2&gt; &lt;t3&gt;3 &lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 11 Graphics, Gallery, Fontwork&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; &lt;t1&gt;4&lt;/t1&gt; &lt;/f0&gt; &lt;f2&gt;|&lt;/f2&gt; &lt;t3&gt;Kapitola 11 Graphics, galerie, písmomalby &lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 11 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 11 &lt;s0 /&gt; &lt;br1 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Images and Graphics</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrazy a grafiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pictures, Drawing Tools, Gallery, Fontwork</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázky, nástroje pro kreslení, galerie, písmomalby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document is Copyright © 2020 by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento dokument je Copyright © 2020 podle LibreOffice dokumentačního týmu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book is updated from &lt;f0&gt;Getting Started with LibreOffice 6.0&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kniha je aktualizován od &lt;f0&gt;Začínáme s LibreOffice 6.0 &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Oliver Hallot</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Oliver Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;t0&gt;March&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zveřejněny &lt;t0&gt;March&lt;/t0&gt; &lt;s1 /&gt; &lt;t2&gt;2020 &lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Based on LibreOffice 6.4.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na LibreOffice 6.4 založené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje&gt; Možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Sidebar Styles deck</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevření postranního panelu Styly palubu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating and editing images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytváření a úpravu obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Image dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialog Vložit obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy and paste</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kopírování a vkládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modifying, handling, and positioning images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravě, manipulaci a umístění obrazů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a0&gt;Using the &lt;/a0&gt;&lt;a1&gt;Image&lt;/a1&gt;&lt;a2&gt; toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;a0&gt; Pomocí tlačítek&lt;/a0&gt; &lt;a1&gt;Image&lt;/a1&gt; &lt;a2&gt;toolbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cropping images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>oříznutí snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resizing an image</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna velikosti obrazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotating or flipping an image</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rotující nebo překlopení snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other settings</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Saving modified images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uložení upravených obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exporting images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>export obrazů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compressing images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>kompresi obrazů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Positioning images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>polohovací snímky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding captions to images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidání popisků k obrázkům</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting images and themes from the Gallery</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mazání obrazů a motivů z galerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Setting or changing properties for drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavení nebo změna vlastnosti nakreslené objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Generating a QR code</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Generování kódu QR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add graphic and image files, including photos, drawings, and scanned images, to LibreOffice documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat grafických a obrazových souborů, včetně fotografií, kreseb a naskenovaných obrázků, na dokumenty LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Images in LibreOffice are of these basic types:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázky v LibreOffice jsou z těchto základních typů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image files, such as photos, drawings, PDF documents, and scanned images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrazové soubory, jako jsou fotografie, kresby, dokumenty PDF a naskenovaných obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Artwork created using clip art or Fontwork</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umělecká díla vytvořená pomocí klipartu nebo písmomalby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Charts created using LibreOffice’s Calc component</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Grafy vytvořené pomocí komponenty Calc LibreOffice je</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This chapter covers images, diagrams, and Fontwork.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kapitola se vztahuje na obrázky, diagramy a písmomalby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You might create images (also called ‘pictures’ in LibreOffice) using a graphics program, scan them, or download them from the Internet (make sure you have permission to use them), or use photos taken with a digital camera.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ty by mohly vytvářet obrazy (také volal ‚obrázky‘ v LibreOffice) za použití v grafickém programu, skenovat, nebo si je stáhnout z internetu (ujistěte se, že máte oprávnění k jejich použití), nebo užití fotografie pořízené digitálním fotoaparátem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice can import various vector (line drawing) images, and can rotate and flip such images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice může importovat různé vektoru (perokresba) obrazy a můžete otočit a překlopit takových snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice also supports raster (bitmap) file formats, the most common of which are GIF, JPG, PNG, and BMP.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice také podporuje rastrové (bitmapové) formáty souborů, nejčastější z nich jsou GIF, JPG, PNG a BMP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It can also import SmartArt images from Microsoft Office files.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To může také importovat obrázky SmartArt obrazy ze souborů Microsoft Office.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To edit photos and other bitmap images, use a bitmap editor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li upravit fotografie a jiné bitmapové obrázky, použít bitmapový editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To edit line drawings, use a vector drawing program.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li upravit perokresby, použijte vektorové kreslení program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You do not need to buy expensive programs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nemusíte kupovat drahé programy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For many graphics, LibreOffice Draw is sufficient.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro mnoho grafiky, LibreOffice Draw je dostačující.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open-source (and usually no‑cost) tools such as GIMP (bitmap editor) and Inkscape (vector drawing program) are excellent.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Open-source (a obvykle ne-cost) nástroje, jako je GIMP (bitmapový editor) a Inkscape (vektorový kreslící program) jsou vynikající.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These and many other programs work on Windows, macOS, and Linux.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto a mnohé další programy pracují na Windows, MacOS a Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Images can be added to a document in several ways: by inserting an image file, directly from a graphics program or a scanner, by dragging them from the clip art internal gallery, or by copying and pasting from a source being viewed on your computer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Snímky lze přidat do dokumentu v několika způsoby: vložení obrazového souboru, přímo z grafického programu nebo skeneru, jejich přetažením z clip art vnitřní galerie, nebo zkopírováním a vložením ze zdroje je prohlédnout na svém počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the image is in a file stored on the computer, you can insert it into a LibreOffice document using one of the following methods:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když je obraz v souboru uloženého v počítači, můžete vložit ji do LibreOffice dokumentů pomocí jednoho z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; from the Menu bar or click the &lt;f1&gt;Insert Image&lt;/f1&gt; icon in the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Vložit&gt; Image&lt;/f0&gt; na liště menu, nebo klikněte na &lt;f1&gt;Vložit obrázek&lt;/f1&gt; ikonu na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Insert Image dialog, navigate to the file to be inserted, and select it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Vložit obrázek, přejděte k souboru, který má být vložen, a vyberte jej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the bottom of the dialog (Figure &lt;t0&gt;1&lt;/t0&gt;) is a &lt;f1&gt;Link&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dolní části dialogového okna (obrázek &lt;t0&gt;1 &lt;/t0&gt;) je &lt;f1&gt;Link&lt;/f1&gt; možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See page &lt;bf2&gt;7&lt;/bf2&gt;&lt;s3/&gt;for the use of &lt;f4&gt;Link&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz strana &lt;bf2&gt;7&lt;/bf2&gt; &lt;s3 /&gt; pro použití &lt;f4&gt;Link &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It asks if you want to embed the graphic instead.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Se zeptá, zda chcete místo toho vložit grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To prevent this message from appearing again, deselect the option &lt;f4&gt;Ask when linking a graphic &lt;/f4&gt;at the bottom of the message.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aby se tato zpráva od znovu objevuje, zrušte volbu &lt;f4&gt;Zeptejte se při propojování grafiky&lt;/f4&gt; v dolní části zprávy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Insert Image dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;1 &lt;/seq0&gt;: Dialog Vložit obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Depending on the program used to open the source document, perform the interactions necessary to copy the image to the clipboard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V závislosti na použitém programu otevřete zdrojový dokument, proveďte interakce potřebné zkopírovat obrázek do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click to place the cursor where the image is to be inserted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím umístěte kurzor tam, kde má být vložen obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press &lt;f0&gt;Ctrl+V,&lt;/f0&gt; or right-click and select &lt;f1&gt;Paste&lt;/f1&gt; from the context menu, or click the &lt;f2&gt;Paste&lt;/f2&gt; icon on the Standard toolbar, to insert the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stisknutím tlačítka &lt;f0&gt;Ctrl + V &lt;/f0&gt;, nebo klepněte pravým tlačítkem myši a vyberte možnost &lt;f1&gt;Vložit&lt;/f1&gt; az kontextového menu, nebo klikněte na &lt;f2&gt;Vložit&lt;/f2&gt; ikonu na panelu nástrojů Standardní na vložce obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the application from which the image was copied is closed before the image is pasted into the target, the image stored in the clipboard could be lost.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě, že žádost, z níž byl obraz zkopírován je uzavřený, dokud snímek není vložen do cíle, obraz uložen ve schránce mohou být ztraceny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the &lt;f0&gt;Link&lt;/f0&gt; option in the Insert Image dialog is selected, LibreOffice creates a link to the file containing the image instead of saving a copy of the image in the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě, že &lt;f0&gt;Link&lt;/f0&gt; je vybrána možnost v dialogovém okně Vložit obrázek, LibreOffice vytvoří odkaz na soubor, který obsahuje obrázek namísto uložení kopie snímku v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The result is that the image is displayed in the document, but when the document is saved, it contains only a reference to the image file, not the image itself.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výsledkem je, že obraz je zobrazen v dokumentu, ale pokud je dokument uložen, obsahuje pouze odkaz na soubor s obrázkem, ne samotný obraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File size is usually not a problem on a modern computer with a reasonable amount of memory, unless the document includes many large image files; LibreOffice can handle quite large files.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikost souboru je obvykle není problém na moderním počítači s rozumným množstvím paměti, pokud dokument obsahuje mnoho velkých obrazových souborů; LibreOffice zvládne poměrně velké soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When inserting the same image several times in the document, LibreOffice embeds only one copy of the image file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při vkládání stejný obraz několikrát v dokumentu LibreOffice vloží pouze jednu kopii souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the document in LibreOffice and choose &lt;f0&gt;Edit &gt; Links to External Files&lt;/f0&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevření dokumentu v LibreOffice a zvolte &lt;f0&gt;Edit&gt; Odkazy na externí soubory&lt;/f0&gt; v panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Edit Links dialog (Figure &lt;t0&gt;2&lt;/t0&gt;), select the files you want to change from linked to embedded.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Upravit propojení (obr &lt;t0&gt;2 &lt;/t0&gt;), vyberte soubory, které chcete změnit z spojené s vložené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If &lt;i0/&gt;a &lt;i1/&gt;scanner is connected to your computer, LibreOffice can call the scanning application and insert the scanned item into the LibreOffice document as an image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li &lt;i0 /&gt; a &lt;i1 /&gt; skener připojen k počítači, LibreOffice mohou volat aplikaci pro skenování a vložit naskenovaný položky do LibreOffice dokumentu jako obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To start this procedure, choose &lt;f2&gt;Insert &gt; Media &gt; Scan &gt; Select Source&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li spustit tento postup, zvolte &lt;f2&gt;Vložit&gt; Média&gt; Skenování&gt; Select Source&lt;/f2&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then place the cursor where you want the graphic to be inserted, and choose &lt;f3&gt;Insert &gt; Media &gt; Scan &gt; Request&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poté umístěte kurzor tam, kde chcete, aby grafika má být vložena, a zvolte &lt;f3&gt;Vložit&gt; Média&gt; Skenování&gt; Poptávka &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may get better results by scanning material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete dosáhnout lepších výsledků pomocí skenování materiálu do grafického programu a čištění jej tu před vložením výsledný obraz do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Gallery (Figure &lt;t0&gt;3&lt;/t0&gt;) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>The Gallery (Obr &lt;t0&gt;3 &lt;/t0&gt;) poskytuje pohodlný způsob, jak ve skupině k opakovanému použití objektů, jako jsou obrázky a zvuky, které můžete vložit do svých dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;i1/&gt;&lt;i2/&gt;Gallery is available in the Writer, Calc, Impress, and Draw components of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;i1 /&gt; &lt;i2 /&gt; Gallery je k dispozici v aplikaci Writer, Calc, Impress a Draw komponenty LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;bf3&gt;Managing the LibreOffice Gallery&lt;/bf3&gt;” on page &lt;bf4&gt;13&lt;/bf4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;bf3&gt; Správa galerie LibreOffice &lt;/bf3&gt;“ na straně &lt;bf 4&gt;13 &lt;/BF 4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can &lt;i5/&gt;copy or link an object from the Gallery into a document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete &lt;i5 /&gt; kopírovat nebo propojit objekt z Galerie do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: The Gallery in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;3 &lt;/seq0&gt;: galerii v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Gallery&lt;/f0&gt; icon on the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Galerie&lt;/f0&gt; ikony na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a theme from the list provided.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte motiv ze seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag and drop the image into the document, or right-click on the object and choose &lt;f0&gt;Insert&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Drag and drop obrázek do dokumentu nebo klikněte pravým tlačítkem myši na objekt a zvolte &lt;f0&gt;Vložit &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert an object as a link, hold down the &lt;f0&gt;Shift&lt;/f0&gt; and &lt;f1&gt;Ctrl&lt;/f1&gt; keys and drag and drop the object into the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vložit objekt jako odkaz, podržte &lt;f0&gt;Shift&lt;/f0&gt; a &lt;f1&gt;Ctrl&lt;/f1&gt; klíče a drag and drop objekt do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert an image as the background to a Writer page, paragraph, cell, or other object, right-click the image in the Gallery and choose either &lt;f0&gt;Insert as Background &gt; Page&lt;/f0&gt; or &lt;f1&gt;Insert as Background &gt; Paragraph&lt;/f1&gt; as required.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vložit obrázek jako pozadí na Writer stránky, odstavce, buňky, nebo jiný předmět, pravým tlačítkem myši na obrázek v galerii a zvolte buď &lt;f0&gt;Vložit jako pozadí&gt; Page&lt;/f0&gt; nebo &lt;f1&gt;Vložit jako pozadí &gt; Bod &lt;/f1&gt;, jak je požadováno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice provides many tools for cropping, resizing, modifying, filtering, and positioning images; wrapping text around images; and using images as backgrounds and watermarks.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice poskytuje mnoho nástrojů pro oříznutí, změna velikosti, úpravy, filtrování, a polohy obrazu; obtékání textu kolem obrazů; a pomocí obrázků jako pozadí a vodoznaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some sophisticated adjustments are best done in an image manipulation program and the results brought into LibreOffice, rather than using LibreOffice’s built-in tools.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé sofistikované úpravy se nejlépe provádí v programu pro práci s obrázky a výsledky přinesl do LibreOffice, nikoli pomocí LibreOffice vestavěné nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the Image toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí panelu nástrojů Obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you insert an image or select one already present in the document, the Image toolbar appears.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při vložení obrázku nebo zvolit jednu již přítomné v dokumentu, zobrazí panel nástrojů Obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Two other toolbars can be opened from this one: the Image Filter toolbar, which can be torn off and placed elsewhere on the window, and the Color toolbar, which opens as a separate floating toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dva další panely nástrojů lze otevřít z tohoto jednoho: Image Filtr liště, která může být odtržena a umístěné jinde na okna a panel nástrojů Barva, která se otevírá jako samostatná plovoucí panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From these three toolbars, you can apply small corrections to the image or obtain &lt;t0/&gt;special effects: transparency, color adjustment, flipping and rotating, and applying special-effects filters.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z těchto tří panelů, můžete použít drobné opravy obrazu nebo získat &lt;t0 /&gt; speciální efekty: transparentnost, úprava barev, překlápěcí a otáčení, a žádají speciální efekty filtry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see the &lt;f1&gt;Writer Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Více informací najdete v &lt;f1&gt;Writer Guide &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you are only interested in a section of the image for the purpose of your document, you may wish to crop (cut off) parts of it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud vás zajímá pouze v úseku obrazu pro účely dokumentu, možná budete chtít, aby plodiny (odříznout) částí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice provides two ways to crop an image: the Crop Image tool and the &lt;f0&gt;Crop&lt;/f0&gt; tab of the Image dialog (accessed by right-clicking on the image in Writer and selecting the Properties option in the context menu).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice poskytuje dva způsoby, jak oříznout snímek: Nástroj Crop Image a Crop&lt;/f0&gt; pod záložkou &lt;f0&gt;dialogového okna Image (přistupovat klepnutím pravým tlačítkem myši na obrázek v aplikaci Writer a vybráním volbu Vlastnosti z kontextového menu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Crop Image tool provides a quick and easy way to crop an image; but for more control, use the Image dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroj Crop Image nabízí rychlý a snadný způsob, jak oříznout obrázek; ale pro větší kontrolu, použijte dialogové okno Image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you crop an image in LibreOffice, the image itself is not changed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Máte-li oříznout obrázek v LibreOffice, obraz sám o sobě nezmění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice hides, not cuts off, part of the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice kůže, ne uřízne, část obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you export the document to HTML, the original image is exported, not the cropped image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud exportujete dokument do formátu HTML, původní obraz se exportuje, ne oříznuté obraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For export, crop images in an external editor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na vývoz, oříznutí snímků v externím editoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resizing</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna velikosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resizing&lt;i0/&gt;&lt;i1/&gt; an image</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna velikosti &lt;i0 /&gt; &lt;i1 /&gt; snímek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To fit the image into your document, you may need to resize it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tak, aby odpovídal obrazu do dokumentu, může být nutné změnit jeho velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A quick and easy way to resize is by dragging the image’s sizing handles:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rychlý a snadný způsob, jak změny velikosti je přetažením úchytů pro změnu velikosti Obraz je:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the image, if necessary, to show the green sizing handles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na obrázek, pokud je to nutné, ukázat zelené držadla pro úpravu rozměrů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position the pointer over one of the sizing handles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte ukazatel myši nad jeden z úchytů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The pointer changes shape, giving a graphical representation of the direction of the resizing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukazatel změní tvar, což představuje grafické znázornění směru změny velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click and drag to resize the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím a přetažením změnit velikost obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The corner handles resize both the width and the height of the image simultaneously, while the other four handles resize only one dimension at a time.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rohové úchyty velikost šířku i výšku obrazu současně, zatímco ostatní čtyři madla velikost jen jednu dimenzi najednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To retain the original proportions of the image, hold down the &lt;f0&gt;Shift&lt;/f0&gt; key while dragging one of these handles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zachovat původní proporce obrázku, podržte &lt;f0&gt;Shift&lt;/f0&gt; klíče při přetažení jeden z těchto rukojetí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more accurate resizing of images, use the &lt;f0&gt;Type&lt;/f0&gt; tab of the Image dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro přesnější nastavení velikosti obrázků, použijte&lt;/f0&gt; karta &lt;f0&gt;typ dialogového okna Image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To quickly flip an image vertically or horizontally, or rotate it, right-click the image and select &lt;f0&gt;Rotate or Flip&lt;/f0&gt; in the context menu, then choose the desired option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li rychle otočit snímek vertikálně nebo horizontálně, nebo otočit ji, klepněte pravým tlačítkem myši na obrázek a vyberte možnost &lt;f0&gt;Otočit či překlopit&lt;/f0&gt; v místní nabídce, pak vyberte požadovanou volbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer provides more rotation options than the other LibreOffice components – see the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer poskytuje více možností otáčení než ostatní komponenty LibreOffice - viz &lt;f0&gt;Writer Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Image dialog has ten tabs:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialogové okno Image má deset karty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Type:&lt;/f0&gt; define the size and anchor of the image and its position on the page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Typ:&lt;/f0&gt; definovat velikost a kotvu obrazu a jeho pozice na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Options&lt;/f0&gt;: give the image a descriptive name, define the alternative text to be displayed when the mouse hovers over the image, and protect some of the image settings from changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Možnosti &lt;/f0&gt;: dát obrázek o popisný název, definovat alternativní text, který se zobrazí, když se vznáší pravým tlačítkem myši a chrání některá nastavení obrazu ze změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Wrap:&lt;/f0&gt; choose how text wraps around the image, and the spacing between the image and the text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Wrap:&lt;/f0&gt; zvolit, jak text obtéká okolo obrázku, a vzdálenost mezi obrazem a textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Hyperlink&lt;/f0&gt;: associate a hyperlink to the image, or create an image map.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; hypertextový odkaz &lt;/f0&gt;: přiřadit hypertextový odkaz na obrázek, nebo vytvořit obrazovou mapu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Image&lt;/f0&gt;: flip or rotate the image, and display the original location of the file in case the image is linked rather than embedded.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Image &lt;/f0&gt;: překlopení nebo otočení snímku, a zobrazí původní umístění souboru v případě, že obraz je spojen spíše než vložené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Crop:&lt;/f0&gt; cut off portions of the image, scale it and set its size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; plodiny:&lt;/f0&gt; vypínací části obrazu, změnit měřítko a nastavit jeho velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Borders&lt;/f0&gt;: create borders around the image and add a shadow.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Borders &lt;/f0&gt;: vytvoří okraje kolem obrazu a přidat stín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt;: change the background (color, bitmap, gradient, pattern, or hatching) of the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Area &lt;/f0&gt;: změnit pozadí (černá, bitmap, stoupání, gesto nebo šrafování) obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This setting produces the desired results only for images with a transparent color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto nastavení požadovaných výsledků pouze pro obrazy s průhlednou barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt;: set the transparency and gradient options for the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Transparentnost &lt;/f0&gt;: nastavení volby průhlednosti a přechodů pro obraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Macro&lt;/f0&gt;: associate a macro to the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; makro &lt;/f0&gt;: přiřadit makro obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can choose among the predefined macros or write your own.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si vybrat z předdefinovaných maker nebo napsat svůj vlastní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In previous versions of LibreOffice, if you saved an embedded image (by right-clicking and choosing &lt;f0&gt;Save&lt;/f0&gt; in the context menu), the saved image was the original one; modifications like rotations, cropping, and color effects were not included in the saved image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V předchozích verzích LibreOffice, pokud jste uložili vložený snímek (pomocí pravého tlačítka myši a výběrem &lt;f0&gt;Uložit&lt;/f0&gt; v kontextové nabídce), uložený snímek byl ten původní; modifikace, jako je rotace, ořezání a barevnými efekty nebyly zahrnuty v uloženém obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Starting from LibreOffice 6, you can choose whether to save the original image or the modified image through a confirmation dialog that pops up when you choose &lt;f0&gt;Save&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Počínaje LibreOffice 6, můžete si vybrat, zda chcete uložit originální obraz nebo upravený obraz prostřednictvím dialogu s potvrzením, které se objeví, když zvolíte &lt;f0&gt;Uložit &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you need to make complex adjustments to the image, or want to save the image for use in another document, you can export the image directly from your document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud potřebujete vytvořit komplexní úpravy obrazu, nebo chcete-li uložit obrázek pro použití v jiném dokumentu, můžete exportovat obrázek přímo ze svého dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the image to select it and open the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na obrázek jej vyberte a otevřete kontextovou nabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then choose &lt;f0&gt;Save&lt;/f0&gt; to open the Image Export dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pak zvolte &lt;f0&gt;Uložit&lt;/f0&gt; otevřete dialogové okno Image Export.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Depending on the original format of the image, LibreOffice will let you save the picture in many different formats.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V závislosti na původním formátu obrazu, bude LibreOffice umožňují uložit obrázek v mnoha různých formátech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Give a name to the image, select the desired image format in the file type filter list, and click &lt;f1&gt;Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pojmenovat obrazu, vyberte požadovaný formát obrazu v seznamu filtrů typu souboru, a klikněte na &lt;f1&gt;Uložit &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before the image is finally saved another dialog (not shown) opens, where you can choose various image size and format options.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Předtím, než se obraz nakonec uloží další dialog (není zobrazen) se otevře, kde si můžete vybrat různé možnosti velikosti a formátu obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The content of this dialog depends on the output file type selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obsah tohoto dialogového okna závisí na typu výstupního souboru vybrali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you insert a large image in your document and resize it to fit into the layout of the page, the complete full size original image is stored in the document file to preserve its content, resulting in a large document file to store or send by mail.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložíte-li velký obrázek v dokumentu a jeho velikost, aby se vešly do rozvržení stránky, kompletní plné velikosti původní obrázek se uloží do souboru dokumentu zachovat její obsah, což má za následek velké dokumentu ukládaného souboru nebo poslat mailem,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you can accept some loss of quality of the image rendering or want to resize it, you can compress or resize the image object to reduce its data volume while preserving its display in the page layout.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud můžete přijmout určitou ztrátu kvality vykreslování obrazu nebo chcete-li změnit jeho velikost, můžete komprimovat nebo velikost objektu snímku snížit jeho objem dat při zachování jeho zobrazení v rozvržení stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click to select the image and open the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši a vyberte obrázek a otevřete kontextovou nabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then choose &lt;f0&gt;Compress&lt;/f0&gt; to open the Compress Image dialog (Figure &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pak zvolte &lt;f0&gt;Compress&lt;/f0&gt; otevřete dialogové okno Compress Image (Obrázek &lt;t1&gt;4 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note that the &lt;f2&gt;Calculate New Size&lt;/f2&gt; button updates the image information on the dialog on each parameter set you change.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všimněte si, že tlačítko &lt;f2&gt;Vypočítat New Size&lt;/f2&gt; aktualizuje informace o obrazu v dialogovém okně na každý parametr set změníte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f3&gt;OK&lt;/f3&gt; to apply the compression settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f3&gt;OK&lt;/f3&gt; použít nastavení komprese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the resulting image is not acceptable, press &lt;f4&gt;Ctrl+Z&lt;/f4&gt; to undo and choose another compression setting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě, že výsledný obraz je nepřijatelné, stiskněte &lt;f4&gt;Ctrl + Z&lt;/f4&gt; vrátit zpět a zvolit jiné nastavení komprese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see the Help.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Více informací naleznete v nápovědě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: The Compress Image dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;4 &lt;/seq0&gt;: Dialog Compress Image</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>positioning</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>polohovací</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you add an image to a text document, you need to choose how to &lt;i0/&gt;position it with respect to the text and other images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když přidáte obrázek do textového dokumentu, je třeba zvolit, jak &lt;i0 /&gt; umístěte ho vzhledem k textu a dalších obrázků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Positioning is controlled by four settings:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Polohování je řízeno čtyřmi nastaveními:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arrangement</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>dohoda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Arrangement&lt;/f0&gt; refers to the placement of an image on an imaginary vertical axis.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Uspořádání&lt;/f0&gt; odkazuje na umístění obrázku na myšlené svislé ose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arrangement controls how images are stacked upon each other or relative to the text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ovládací prvky uspořádání, jak jsou obrazy naskládané na sebe, nebo vzhledem k textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Alignment&lt;/f0&gt; refers to the vertical or horizontal placement of an image in relation to the chosen anchor point.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Zarovnání&lt;/f0&gt; odkazuje na vertikální nebo horizontální umístění obrazu ve vztahu ke zvolené kotevního bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Anchoring&lt;/f0&gt; refers to the reference point for the images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Kotvení&lt;/f0&gt; odkazuje na referenční bod pro obrazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This point could be the page, or frame where the object is, a paragraph, or even a character.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento bod může být strana, nebo snímek, kde je objekt, odstavec, nebo dokonce charakter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An image always has an anchor point.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obraz má vždy kotevního bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Text wrapping&lt;/f0&gt; refers to the relation of images to the surrounding text, which may wrap around the graphic on one or both sides, be overprinted behind or in front of the graphic, or treat the graphic as a separate paragraph or character.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Přetáčení textu&lt;/f0&gt; odkazuje na vztah obrazů do okolního textu, který může obtékat kolem grafiky na jedné nebo obou stranách, přetiskovatelná pozadu nebo v přední části grafiky, nebo léčit grafiku jako samostatný odstavec nebo znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The settings can be accessed in a number of ways, depending on the nature of the images:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavení lze přistupovat několika způsoby, v závislosti na povaze obrázků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From the &lt;f0&gt;Format&lt;/f0&gt; menu: &lt;f1&gt;Anchor&lt;/f1&gt;, &lt;f2&gt;Wrap&lt;/f2&gt;, and &lt;f3&gt;Arrange&lt;/f3&gt; (both for images and drawing objects).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z &lt;f0&gt;Formát&lt;/f0&gt; Menu: &lt;f1&gt;Anchor&lt;/f1&gt; &lt;f2&gt;Wrap&lt;/f2&gt; a &lt;f3&gt;Uspořádat&lt;/f3&gt; (jak pro obrázky a nakreslené objekty).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From the context menu displayed when you right-click the graphic; this menu also includes an &lt;f0&gt;Align&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z kontextového menu zobrazené po klepnutí pravým tlačítkem myši na obrázek; Toto menu obsahuje také &lt;f0&gt;Align&lt;/f0&gt; opce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For images, from the &lt;f0&gt;Type&lt;/f0&gt; and &lt;f1&gt;Wrap&lt;/f1&gt; tabs of the Image dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>U snímků, z &lt;f0&gt;Typ&lt;/f0&gt; a &lt;f1&gt;Wrap&lt;/f1&gt; Záložky v dialogovém okně Image.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note that you cannot control the arrangement using the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všimněte si, že nemůžete ovládat uspořádání pomocí dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For drawing objects, from the &lt;f0&gt;Position and Size&lt;/f0&gt; tab of the Position and Size dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro kreslení objektů, z &lt;f0&gt;polohou a velikostí&lt;/f0&gt; karta dialogu poloze a velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For an embedded object (such as a Calc spreadsheet or Draw document), from the OLE-Object toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro vložený objekt (jako je například Calc nebo kreslení dokumentu), z panelu OLE objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details on all of these settings, see Chapter 11, Images and Graphics, in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobné informace o všech těchto nastaveních naleznete v kapitole 11, obrázky a grafiku, ve &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding captions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přidávání popisků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add &lt;i0/&gt;&lt;is1/&gt;captions&lt;ie2/&gt; to Writer images in three ways: automatically, by using the Caption dialog, or manually.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat &lt;i0 /&gt; &lt;is1 /&gt; titulky &lt;ie2 /&gt; pro Writer obrazů třemi způsoby: automaticky, pomocí dialogového okna Titulek, nebo ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f3&gt;Writer Guide&lt;/f3&gt; for details.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f3&gt;Writer Guide&lt;/f3&gt; Podrobnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphics in the Gallery are grouped &lt;i0/&gt;&lt;i1/&gt;by themes, such as Arrows, Diagrams, and People.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Grafika v galerii jsou seskupeny &lt;i0 /&gt; &lt;i1 /&gt; tématy, jako jsou šipky, schémata, a lidé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can display the Gallery in &lt;i0/&gt;Icon View (Figure &lt;t1&gt;3&lt;/t1&gt;) or Detailed View (Figure &lt;t2&gt;5&lt;/t2&gt;), and you can &lt;i3/&gt;hide or show the Gallery by clicking on the Sidebar’s &lt;f4&gt;Hide&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete zobrazit galerii v &lt;i0 /&gt; Icon View (Obr &lt;t1&gt;3 &lt;/t1&gt;) nebo detailní pohled (obr &lt;t2&gt;5 &lt;/t2&gt;), a můžete &lt;i3 /&gt; skrýt nebo zobrazit Gallery kliknutím na postranním panelu &lt;f4&gt;Skrýt tlačítka &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Gallery in Detailed View</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;5 &lt;/seq0&gt;: Galerie Detailní pohled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The default themes supplied with LibreOffice can not be customized, although new themes can be added; see “&lt;bf0&gt;Adding a new theme to the Gallery&lt;/bf0&gt;” on page &lt;bf1&gt;14&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výchozí motivy dodávané s LibreOffice nelze přizpůsobit, i když může být přidána nová témata; viz „&lt;bf0&gt; Přidání nové téma do galerie &lt;/bf0&gt;“ na straně &lt;bf1&gt;14 &lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The locked themes are easily recognizable by right-clicking on them; the only available option in the context menu is &lt;f2&gt;Properties&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uzamčené témata jsou snadno rozpoznatelné pravým tlačítkem myši na ně; k dispozici pouze možnost v místní nabídce je &lt;f2&gt;Vlastnosti &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may wish to add to a My Theme folder in the Gallery any images that you use frequently, for example, a company logo.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možná budete chtít přidat do složky Můj motiv v galerii všechny obrázky, které často používáte, například firemní logo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can then easily insert these graphics into a document later.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pak můžete snadno vložit tyto grafiky do dokumentu později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the My Theme folder and select &lt;f0&gt;Properties&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na složku My Téma a zvolte &lt;f0&gt;Vlastnosti&lt;/f0&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the theme’s Properties dialog, click the &lt;f0&gt;Files&lt;/f0&gt; tab (Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Vlastnosti motivu, klikněte na &lt;f0&gt;karta Soubory&lt;/f0&gt; (Obrázek &lt;t1&gt;6 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Gallery Properties dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;6 &lt;/seq0&gt;: dialog Gallery Properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add several files at once:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat několik souborů najednou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Properties dialog, click the &lt;f0&gt;Find Files&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Vlastnosti klepněte na tlačítko soubory &lt;f0&gt;Hledat &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Select Path dialog (not shown) opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se dialogové okno Select Path (není zobrazen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can enter the path for the file’s directory in the path text box, or you can navigate to locate the file’s directory.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete zadat cestu k adresáři souboru do textového pole cestu, nebo můžete přejít na vyhledání adresáře souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Select Folder&lt;/f0&gt; button to start the search.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;tlačítko Vybrat složku&lt;/f0&gt; spusťte vyhledávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use the file type drop-down list to limit the files displayed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít typ souboru rozevíracího seznamu omezit zobrazeny soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add all of the files shown in the list, click &lt;f0&gt;Add All&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat všechny soubory uvedené v seznamu, klikněte na &lt;f0&gt;Přidat vše &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Otherwise, select the files to add and then click &lt;f1&gt;Add&lt;/f1&gt; (hold down either the &lt;f2&gt;Shift&lt;/f2&gt; key or the &lt;f3&gt;Ctrl&lt;/f3&gt; key while clicking on the files).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V opačném případě vyberte soubory, které chcete přidat a potom klepněte na tlačítko &lt;f1&gt;Přidat&lt;/f1&gt; (držení dolů buď &lt;f2&gt;Shift&lt;/f2&gt; nebo &lt;f3&gt;Ctrl&lt;/f3&gt; klíče, zatímco kliknutím na soubory).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a single file:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat jeden soubor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Properties dialog, click &lt;f0&gt;Add&lt;/f0&gt; to open the Gallery dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Vlastnosti klepněte na tlačítko &lt;f0&gt;Přidat&lt;/f0&gt; otevřete dialogové okno galerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the navigation controls to locate the image to add to the theme.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí navigačních lokalizovat obrázek přidat k tématu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select it and then click &lt;f0&gt;Open&lt;/f0&gt; to add it to the theme.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte jej a potom klepněte na tlačítko &lt;f0&gt;Otevřít&lt;/f0&gt; a přidejte ji k tématu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; on the Properties dialog to close it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; na Vlastnosti dialog zavřete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;New Theme&lt;/f0&gt; button above the list of themes (Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;New Theme&lt;/f0&gt; nad seznamem motivů (Obr &lt;t1&gt;5 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To delete an image from a theme, right-click on the name of the image file or its thumbnail in the Gallery, then click &lt;f0&gt;Delete&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odstranit obrázek z tématu, klepněte pravým tlačítkem myši na název souboru obrázku nebo na její miniaturu v galerii a poté klikněte na &lt;f0&gt;Smazat&lt;/f0&gt; v kontextové nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To delete a theme from the Gallery, select it from the list of themes, right-click, then click &lt;f0&gt;Delete&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Smazat téma z Galerie, vyberte ji ze seznamu témat, klepněte pravým tlačítkem myši a poté klikněte na &lt;f0&gt;Smazat&lt;/f0&gt; v kontextové nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you add graphics to the Gallery, the files are not moved or copied; the location of each new object is simply added as a reference.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidáte-li grafiku do galerie, soubory nejsou přesunuty nebo k reprodukci; umístění každého nového objektu je přičtena jako reference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change this location, and you can copy your gallery files (SDV) to other computers.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete změnit toto umístění, a můžete kopírovat soubory galerie (SDV) do dalších počítačů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gallery themes can be packed for distribution through the LibreOffice extensions framework.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Galerie témata mohou být zabaleny pro distribuci prostřednictvím rozšíření rámce LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In that case, the location of the graphic files is determined by the extension settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V takovém případě je umístění grafických souborů je určeno nastavení rozšíření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To get more gallery themes, visit the LibreOffice extensions website at &lt;a0&gt;&lt;f1&gt;http&lt;/f1&gt;&lt;/a0&gt;&lt;a2&gt;&lt;f3&gt;s&lt;/f3&gt;&lt;/a2&gt;&lt;a4&gt;&lt;f5&gt;://extensions.libreoffice.org&lt;/f5&gt;&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li získat další galerie motivů, naleznete na webových stránkách rozšíření LibreOffice na &lt;a0&gt;&lt;f1&gt; http&lt;/f1&gt; &lt;/a0&gt; &lt;a2&gt;&lt;f3&gt; s&lt;/f3&gt; &lt;/a2&gt; &lt;a4&gt;&lt;f5&gt;: / /extensions.libreoffice.org&lt;/f5&gt; &lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An image map defines areas of an image (called hotspots) with hyperlinks to web addresses, other files on the computer, or parts of the same document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrazová mapa vymezuje oblasti obrazu (nazývaným aktivní body) s odkazy na webové adresy, ostatní soubory v počítači, nebo části stejného dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hotspots are the graphic equivalent of text hyperlinks (described in Chapter 12, Creating HTML Files).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hotspoty jsou grafický ekvivalent textových hypertextových odkazů (popsáno v kapitole 12, vytvářet HTML soubory).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the LibreOffice document, click on the picture in which you want to create the hotspots.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V LibreOffice dokumentu, klikněte na obrázek, ve kterém chcete vytvořit hotspotů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Tools &gt; ImageMap&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Nástroje&gt; ImageMap&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The ImageMap Editor dialog opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se dialogové okno Editor ImageMap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the tools and fields in the dialog to define the hotspots and links necessary.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí nástrojů a pole v dialogovém okně definovat aktivní oblasti a odkazy potřebné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The information needed for the hotspot includes the address pointed to by the hyperlink and the text you want to be displayed when the mouse pointer is moved over the hotspot.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informace potřebné k hotspotu obsahuje adresu odkazuje hypertextový odkaz a text, který chcete, aby se zobrazí, když se ukazatel myši bude pohybovat nad hotspot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Apply&lt;/f0&gt; icon to apply the settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Použít&lt;/f0&gt; ikonu použít nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When done, click the &lt;f0&gt;Save&lt;/f0&gt; icon to save the image map to a file, then close the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Až budete hotovi, klikněte na &lt;f0&gt;Uložit&lt;/f0&gt; ikona mapu uložit na disk do souboru a zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details, see Chapter 11, Images and Graphics, in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro podrobnosti viz kapitola 11, obrázky a grafiku, ve &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can place the drawing objects directly on a page in the document or insert them into a frame.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete umístit nakreslené objekty přímo na stránku v dokumentu nebo vložte je do rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To begin using the drawing tools, display the Drawing toolbar (Figure &lt;t0&gt;7&lt;/t0&gt;) by clicking &lt;f1&gt;View &gt; Toolbars &gt; Drawing&lt;/f1&gt; or by clicking on the &lt;f2&gt;Show Draw Functions&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li začít používat nástroje pro kreslení, zobrazit panel nástrojů Kreslení (Obr &lt;t0&gt;7 &lt;/t0&gt;) kliknutím na tlačítko &lt;f1&gt;Zobrazit&gt; Panely nástrojů&gt; Kresba&lt;/f1&gt; nebo kliknutím na &lt;f2&gt;Zobrazit Draw Funkce&lt;/f2 &gt; ikonu na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are planning to use the drawing tools repeatedly, you can tear off (undock) this toolbar and move it to a convenient place as a floating toolbar in the window.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud plánujete opakovaně používat kreslicí nástroje, můžete odtrhnout (odpojovací) tento panel nástrojů a přesunout ji na vhodném místě jako plovoucí panel nástrojů v okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right Triangle</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pravoúhlý trojuhelník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Flowchart</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vývojový diagram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Line</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit řádek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rectangle, Rounded</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obdélník, zaoblený</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Square</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Náměstí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Text Box</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Insert Text Box</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Curves and Polygons</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Křivky a polygony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Block Arrows</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>blokové šipky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Circle</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kruh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stars and Banners</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hvězdy a nápisy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Polygon</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Polygon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Isosceles Triangle</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>rovnoramenný trojúhelník</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Toggle Extrusion</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>toggle Vytlačování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: The Drawing toolbar (Writer version)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;7 &lt;/seq0&gt;: Panel nástrojů kreslení (Writer verze)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the tool from&lt;i0/&gt; the Drawing toolbar (Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte nástroj z &lt;i0 /&gt; kreslení panelu nástrojů (obr &lt;t1&gt;7 &lt;/t 1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The mouse pointer changes to a drawing-functions pointer and the normal Formatting toolbar changes to Drawing Object Properties toolbar (Figure &lt;f2&gt;&lt;t3&gt;8&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukazatel myši se změní na ukazatel naváděcí funkce a normální Formátování panel nástrojů změny kresba pruhu nástrojů Vlastnosti (obr &lt;f2&gt;&lt;t3&gt; 8&lt;/t3&gt; &lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To cancel the selected drawing function, press the &lt;f0&gt;Esc&lt;/f0&gt; key or click on the &lt;f1&gt;Select&lt;/f1&gt; icon (the arrow at the left-hand end of the Drawing toolbar).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zrušit zvolenou funkci kreslení, stiskněte &lt;f0&gt;Esc&lt;/f0&gt; nebo klikněte na &lt;f1&gt;Vybrat&lt;/f1&gt; ikony (šipka na konci levé straně panelu nástrojů Kreslení).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can now change the properties (fill color, line type and weight, anchoring, and others) of the drawing object using either &lt;i0/&gt;the Drawing Object Properties toolbar (Figure &lt;t1&gt;8&lt;/t1&gt;) or the choices and dialogs reached by right-clicking on the drawing object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nyní můžete měnit vlastnosti (barvu výplně, typ čáry a hmotnost, kotvení, a další) na nakreslený objekt buď pomocí &lt;l0 /&gt; na panelu nástrojů Kreslení Object Properties (obrázek &lt;t1&gt;8 &lt;/t1&gt;) nebo volby a dialogy dosaženo pomocí pravého tlačítka myši na nakreslený objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Setting or &lt;i0/&gt;changing properties for drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavení nebo &lt;i0 /&gt; mění vlastnosti nakreslené objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Drawing toolbar (Figure &lt;t0&gt;7&lt;/t0&gt;), click the &lt;f1&gt;Select&lt;/f1&gt; tool.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Kreslení (Obr &lt;t0&gt;7 &lt;/t0&gt;), klikněte na &lt;f1&gt;Vybrat&lt;/f1&gt; nástroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Drawing Object Properties toolbar (Figure &lt;t0&gt;8&lt;/t0&gt;), click on the icon for each property and select the value you want for that property.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Vlastnosti kreslení objektu (Obr &lt;t0&gt;8 &lt;/t0&gt;), klikněte na ikonu pro každou vlastnost a vyberte požadovanou hodnotu pro tuto vlastnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is not retained when you close the document or close LibreOffice, and it does not apply to any other document you open.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To není zachováno při zavření dokumentu nebo blízký LibreOffice, a to se nevztahuje na jakýkoli jiný dokument, který otevřete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the properties for an existing drawing object, select the object and continue as described above.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit vlastnosti existujícího výkresu objektu, vyberte objekt a pokračujte, jak je popsáno výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also specify the position and size, rotation, and slant and corner radius properties of the drawing object: right-click on the drawing object and then choose &lt;f0&gt;Position and Size&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také určit polohu a velikost, natočení a bočnice a rohový rádius vlastnosti objektu výkresu: Pravým tlačítkem myši na nakreslený objekt a pak zvolte &lt;f0&gt;Position a Size&lt;/f0&gt; v kontextové nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wrap Off</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Wrap Off</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Align</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Group</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Skupina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page Wrap</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Page Wrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bring to Front</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přenést do popředí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter Group</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Enter Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optimal Page Wrap</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Optimální Page Wrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward One</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Forward One</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit Group</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Exit Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wrap Left</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Wrap Left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back One</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Back One</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ungroup</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Oddělit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wrap Right</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Wrap Right</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send to Back</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odeslat nazpátek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Caption</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložte titulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fill Color</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyplň barvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wrap Through</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>zabalit Through</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To Foreground</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>do popředí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anchor</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kotva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Točit se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To Background</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na pozadí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Drawing Object Properties toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;8 &lt;/seq0&gt;: kresba nástrojů Vlastnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the object, click on one of the eight handles around it and drag it to its new size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte objekt, klikněte na jednu z osmi úchyty kolem něj a přetáhněte ji na její nové velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The object will be scaled up or down.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Objekt bude zmenšen nahoru nebo dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you grab the handle of an object and drag it, LibreOffice will resize disproportionately; if you also press the &lt;f0&gt;Shift&lt;/f0&gt; key, the resizing will keep object proportions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když se chytit rukojeť objektu a přetáhněte ji bude LibreOffice velikost nepřiměřeně; pokud jste také stisknout &lt;f0&gt;Shift&lt;/f0&gt; klíč, bude změna velikosti zachovat objekt proporce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more sophisticated control of the size of the object, choose &lt;f0&gt;Format &gt; Frame and Object &gt; Properties&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další důmyslné řízení na velikost objektu, vyberte možnost &lt;f0&gt;Format&gt; rám a Objekt&gt; Vlastnosti&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the &lt;f1&gt;Type&lt;/f1&gt; tab to set the position and size independently.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte kartu &lt;f1&gt;Typ&lt;/f1&gt; pro nastavení polohy a velikosti nezávisle na sobě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the &lt;f2&gt;Keep ratio&lt;/f2&gt; option is selected, then the two dimensions change so that the proportion is maintained, resulting in a scaled resizing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li nastavena hodnota&lt;/​​f2&gt; volba tlačítka &lt;f2&gt;poměr Keep, pak dva rozměry se mění tak, že poměr je udržován, což má za následek změnu velikosti měřítkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grouping drawing objects makes it easier to handle several objects as a single entity, while preserving their relative sizes and positions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Seskupení nakreslených objektů usnadňuje manipulaci několik objektů jako jeden celek, při zachování jejich relativní velikosti a pozice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When objects are grouped, any editing operations carried out on that group are applied to all members of the group.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když jsou objekty seskupeny veškeré editační operace prováděné v této skupině jsou aplikovány na všechny členy skupiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the objects selected, hover the mouse pointer over one of the objects and choose &lt;f0&gt;Format &gt; Group &gt; Group&lt;/f0&gt; from the Menu bar, or click the &lt;f1&gt;Group&lt;/f1&gt; icon on the Drawing Object Properties toolbar, or right-click and choose &lt;f2&gt;Group&lt;/f2&gt; in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>S objekty vybrány, umístěte kurzor myši nad jeden z objektů a zvolte &lt;f0&gt;Formát&gt; Skupina&gt; Group&lt;/f0&gt; na liště menu, nebo klikněte na &lt;f1&gt;Group&lt;/f1&gt; ikonu na vlastnosti grafického objektu toolbar, nebo pravým tlačítkem myši a zvolte &lt;f2&gt;Group&lt;/f2&gt; v kontextové nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the group and go to &lt;f0&gt;Format &gt; Group &gt; Enter Group&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Enter Group&lt;/f1&gt; from the context menu, or click the &lt;f2&gt;Enter Group&lt;/f2&gt; icon in the Drawing Object Properties toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte skupinu a přejděte na &lt;f0&gt;Formát&gt; Skupina&gt; Enter Group&lt;/f0&gt; na liště menu, nebo pravým tlačítkem myši a vyberte &lt;f1&gt;Enter Group&lt;/f1&gt; az kontextového menu, nebo klikněte na &lt;f2&gt;vstoupit do skupiny&lt;/f2&gt; ikonu ve výkresu objekt nástrojů Vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you have finished editing an individual member of a group, go to &lt;f3&gt;Format &gt; Group &gt; Exit Group&lt;/f3&gt; on the Menu bar, or right-click and select &lt;f4&gt;Exit Group&lt;/f4&gt; from the context menu, or click the &lt;f5&gt;Exit Group&lt;/f5&gt; icon in the Drawing Object Properties toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste dokončili úpravy jednotlivého člena skupiny, přejděte na &lt;f3&gt;Formát&gt; Skupina&gt; Exit Group&lt;/f3&gt; na liště menu, nebo pravým tlačítkem myši a vyberte &lt;f4&gt;Exit Group&lt;/f4&gt; z kontextu menu, nebo klikněte na &lt;f5&gt;Exit Group&lt;/f5&gt; ikonu na panelu nástrojů Vlastnosti kreslení objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To ungroup or break apart a group of objects, select the group then go to &lt;f0&gt;Format &gt; Group &gt; Ungroup&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Ungroup&lt;/f1&gt; in the context menu, or click the &lt;f2&gt;Unroup&lt;/f2&gt; icon in the Drawing Object Properties toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Oddělit nebo rozlomit skupinu objektů, vyberte skupinu a pak jít na &lt;f0&gt;Formát&gt; Skupina&gt; Oddělit&lt;/f0&gt; na liště menu, nebo klikněte pravým tlačítkem a vyberte možnost &lt;f1&gt;Oddělit&lt;/f1&gt; v kontextu menu, nebo klikněte na &lt;f2&gt;Unroup&lt;/f2&gt; ikonu na panelu nástrojů Vlastnosti kreslení objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fontwork is available with the Writer, Calc, Impress, and Draw components of LibreOffice, but you will notice small differences in the way that each component displays it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Písmomalby je k dispozici s Writer, Calc, Impress a Draw komponenty LibreOffice, ale všimnete si drobné rozdíly ve způsobu, že každá komponenta zobrazí jej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Fontwork toolbar (&lt;f0&gt;View &gt; Toolbars &gt; Fontwork&lt;/f0&gt;) or the Drawing toolbar (&lt;f1&gt;View &gt; Toolbars &gt; Drawing&lt;/f1&gt;), click the Fontwork Gallery icon, or choose &lt;f2&gt;Insert &gt; Fontwork&lt;/f2&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Písmomalba (&lt;f0&gt; Zobrazit&gt; Panely nástrojů&gt; písmomalby &lt;/f0&gt;) nebo panel nástrojů Kreslení (&lt;f1&gt; Zobrazit&gt; Panely nástrojů&gt; Kresba &lt;/f1&gt;), klikněte na ikonu písmomalby galerie, nebo zvolte &lt;f2&gt;Vložit&gt; písmomalby&lt;/f2&gt; v panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;i0/&gt;Fontwork Gallery dialog (Figure &lt;t1&gt;9&lt;/t1&gt;), select a Fontwork style, then click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně &lt;l0 /&gt; Písmomalba Galerie (Obr &lt;t1&gt;9 &lt;/t1&gt;), vyberte styl písmomalby, klepněte na tlačítko &lt;f2&gt;OK &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notice the colored squares around the edge (indicating that the object is selected) and the yellow dot; these are discussed in “&lt;bf3&gt;Moving and resizing Fontwork objects&lt;/bf3&gt;” on page &lt;bf4&gt;20&lt;/bf4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všimněte si, barevné kostky kolem hrany (označující, že je vybrán objekt) a žlutým bodem; Tyto jsou popsány v „&lt;bf3&gt; Přesun a změna velikosti písmomalby objektů &lt;/bf3&gt;“ na straně &lt;bf 4&gt;20 &lt;/BF 4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: The Fontwork Gallery dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;9 &lt;/seq0&gt;: Dialog písmomalby Gallery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click the object to edit the Fontwork text (see Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poklepáním na objekt pro editaci textu písmomalby (viz obrázek &lt;t0&gt;10 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the text and type your own text in place of the black Fontwork text that appears over the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte text a zadejte svůj vlastní text v místě černého Písmomalba textu, který se objeví nad objektem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Editing Fontwork text</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;10 &lt;/seq0&gt;: Úprava textu písmomalby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure that the Fontwork toolbar, shown in Figure &lt;t0&gt;11&lt;/t0&gt;, is visible.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že panel nástrojů písmomalby, je znázorněno na obrázku &lt;t0&gt;11 &lt;/t0&gt;, je viditelný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: The floating Fontwork toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;11 &lt;/seq0&gt;: podélná lišta písmomalby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Fontwork toolbar showing palette of shapes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;12 &lt;/seq0&gt;: písmomalby nástrojů ukazuje paletu tvarů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Left: normal letters; right: same letter heights</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;13 &lt;/seq0&gt;: Vlevo: normální písmen; vpravo: Stejné výšky dopis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can customize the Fontwork object with several more attributes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Si můžete přizpůsobit objekt písmomalby několik dalších atributů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the object; the Formatting toolbar changes to show the options for customizing the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na objekt; Panel nástrojů Formátování se změní na zobrazení možností pro přizpůsobení objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These choices are the same as the ones for other drawing objects, described earlier in this chapter.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto volby jsou stejné jako ty, pro jiné nakreslené objekty, které jsou popsané výše v této kapitole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See also the &lt;f0&gt;Draw Guide&lt;/f0&gt; for details.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz také &lt;f0&gt;Draw Guide&lt;/f0&gt; další podrobnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use some of the choices on the Format menu to anchor, align, arrange, and group selected Fontwork objects, wrap text around them, and flip them horizontally and vertically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít některé z možností v nabídce Formát na kotvě, vyrovnejte, zařídit a skupina vybraná písmomalby objekty, zalamovat text kolem nich, a flip je vodorovně a svisle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A QR code (short for Quick Response code) is a type of barcode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kód QR (zkratka pro Quick kód Response) je druh čárového kódu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>QR codes often contain data that points to a website or application.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>QR kódy často obsahují data, která odkazuje na webové stránky nebo aplikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From LibreOffice 6.4, Writer, Calc, Impress, and Draw can generate QR codes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z LibreOffice 6.4, Writer, Calc, Impress a Draw, může generovat QR kódy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Insert &gt; Object &gt; QR Code&lt;/f0&gt; on the Menu bar to open the QR Code Generator dialog (Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Vložit&gt; Objekt&gt; QR Code&lt;/f0&gt; na panelu nabídek otevřete dialogové QR Code Generator (Obr &lt;t1&gt;14 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: QR Code Generator dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;14 &lt;/seq0&gt;: dialog QR Code Generator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fill in the &lt;f0&gt;URL/Text&lt;/f0&gt; field, select a correction factor (the complexity of the graphic generated), and the width of the border around it, then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyplnit &lt;f0&gt;URL / text&lt;/f0&gt; pole vyberte korekční faktor (složitosti grafiky generované) a šířku okraje kolem něj a poté klikněte na &lt;f1&gt;OK &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,4175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Headers and footers&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;49&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt; Záhlaví a zápatí&lt;/t0&gt; &lt;f1&gt;|&lt;/f1&gt; &lt;t2&gt;49 &lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Calc main window&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt; 10&lt;/t0&gt; &lt;s1 /&gt; &lt;f2&gt;|&lt;/f2&gt; &lt;t3&gt;Calc hlavním okně &lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Chapter 5 Getting started with Calc&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;5&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt; Kapitola 5 Začínáme s Calc&lt;/t0&gt; &lt;s1 /&gt; &lt;f2&gt;|&lt;/f2&gt; &lt;t3&gt;5 &lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using spreadsheets in LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí tabulek v LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This document is Copyright © 2020 by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento dokument je Copyright © 2020 podle LibreOffice dokumentačního týmu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This chapter is updated from &lt;f0&gt;Getting Started with LibreOffice 6.0&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kapitola je aktualizován od &lt;f0&gt;Začínáme s LibreOffice 6.0 &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;t0&gt;March&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zveřejněny &lt;t0&gt;March&lt;/t0&gt; &lt;s1 /&gt; &lt;t2&gt;2020 &lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Based on LibreOffice 6.4.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na LibreOffice 6.4 založené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje&gt; Možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Sidebar Styles deck</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevření postranního panelu Styly palubu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compatibility with other spreadsheet applications</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kompatibilita s jinými aplikacemi tabulkových</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Wildcards</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>zástupné znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formula syntax</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>syntax Formula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exporting contents as an image</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Exportu obsahu jako obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hiding and showing columns and rows</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Skrytí a zobrazení sloupců a řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a0&gt;Deleting columns &lt;/a0&gt;&lt;a1&gt;or&lt;/a1&gt;&lt;a2&gt; rows</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;a0&gt; Mazání sloupce&lt;/a0&gt; &lt;a1&gt;nebo&lt;/a1&gt; &lt;a2&gt;řádky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting cells</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>mazání buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hiding and showing sheets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Skrytí a zobrazení listů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Viewing a spreadsheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazení tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entering data using the keyboard</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadávání dat pomocí klávesnice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Negative numbers</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>záporná čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a0&gt;C&lt;/a0&gt;&lt;a1&gt;ell fields</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;a0&gt; C&lt;/a0&gt; &lt;a1&gt;Ell pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AutoCorrection</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automatická oprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AutoInput tool</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nástroj AutoInput</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selection lists</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>seznamy pro výběr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changing data</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna údajů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paste Special function</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit funkci Speciální</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Splitting cells</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>rozdělení buněk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formatting fonts and text in cells</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formátování písma a text v buňkách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formatting default cell styles</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formátování výchozí styly buněk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filtering data</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>filtrování dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cell protection</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>ochrana Cell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cell comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>komentáře buněk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating formulas</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vytváření vzorců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pivot tables and pivot charts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kontingenční tabulky a kontingenční grafy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pivot charts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>kontingenční tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting a break</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odstranění pauzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Simple wildcards such as the asterisk (*), question mark (?), and tilde (~) from other spreadsheet applications are recognized by LibreOffice in formula expressions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jednoduché zástupné znaky, jako je hvězdička (*), otazníku (?), A vlnovky (~) z jiných aplikací tabulkových jsou uznány LibreOffice ve vzorci výrazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, LibreOffice Calc uses its own formula syntax, referred to as Calc A1, rather than the Excel A1 syntax that is used by Microsoft Excel.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení LibreOffice Calc používá svůj vlastní vzorec syntaxi, jen Calc A1, spíše než syntaxi Excel A1, která je používána aplikace Microsoft Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice will translate seamlessly between the two.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice bude překládat plynule mezi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, if you are familiar with Excel you may wish to change the default syntax in Calc by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula &lt;/f0&gt;and choosing &lt;f1&gt;Excel A1&lt;/f1&gt; or &lt;f2&gt;Excel R1C1&lt;/f2&gt; from the &lt;f3&gt;Formula syntax&lt;/f3&gt; drop-down menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, pokud jste obeznámeni s Excel budete chtít změnit výchozí syntaxe v Calc přechodem na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Calc&gt; Formule&lt;/f0&gt; a volbou &lt;f1&gt;Excel A1&lt;/f1&gt; nebo &lt;f2 &gt;Excel R1C1&lt;/f2&gt; od &lt;f3&gt;Formula syntaxe&lt;/f3&gt; drop-down menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on formula syntax, see Chapter 7, Using Formulas and Functions, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o vzorci syntaxe, viz kapitola 7, pomocí vzorců a funkcí, v části &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Microsoft Office uses Visual Basic for Applications (VBA) code, and LibreOffice uses Basic code based on the LibreOffice API.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Microsoft Office používá Visual Basic for Applications (VBA) kód, a LibreOffice používá základní kód na základě LibreOffice API.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although the programming languages are the same, the objects and methods are different and therefore not entirely compatible.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ačkoli programovací jazyky jsou stejné, objekty a metody jsou různé a proto není zcela kompatibilní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice can run some Excel Visual Basic scripts if you enable this feature at &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; VBA Properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice může spustit některé aplikace Excel Visual Basic skripty, pokud si tuto funkci zapnout na &lt;f0&gt;Nástroje&gt; Možnosti&gt; Load / Save&gt; VBA Vlastnosti &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, refer to Chapter 12, Calc Macros, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v kapitole 12, Calc makra ve &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc works with documents called &lt;i0/&gt;spreadsheets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc pracuje s dokumenty, nazývaných &lt;i0 /&gt; tabulek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spreadsheets consist of a number of individual &lt;i1/&gt;sheets, each sheet containing cells arranged in rows and columns.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulkové sestávají z několika jednotlivých &lt;i1 /&gt; listů, přičemž každý list obsahující buňky uspořádány v řadách a sloupcích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each spreadsheet can have up to 10,000 sheets, and each sheet can have a maximum of 1,048,576 rows and a maximum of 1024 columns.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každá tabulka může mít až 10.000 listů, a každý list může mít maximálně 1,048,576 řádků a maximálně 1024 sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The maximum number of characters in one cell is 32,767.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Maximální počet znaků v jedné buňce je 32.767.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can show or hide many of the parts as desired, using the View menu on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete zobrazit nebo skrýt mnoho částí, jak je to žádoucí, pomocí nabídky Zobrazit na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Calc main window</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;1 &lt;/seq0&gt;: vypočteno Hlavní okno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a spreadsheet is newly created from a template or a blank document, its name is &lt;f1&gt;Untitled X&lt;/f1&gt;, where X is a number.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li tabulky nově vytvořené ze šablony nebo prázdného dokumentu, jeho jméno je &lt;f1&gt;Untitled X &lt;/f1&gt;, kde X je číslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Under the Title bar is the &lt;i0/&gt;Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pod názvem bar je &lt;i0 /&gt; Panel nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select one of the menu items, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolíte-li některou z položek menu, podnabídka poklesne ukázat příkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also customize the Menu bar; see Chapter 14, Customizing LibreOffice, for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také upravit liště menu; viz kapitola 14, přizpůsobení LibreOffice, pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most of the menus are similar to those in other components of LibreOffice, although the specific commands and tools may vary.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Většina z menu jsou podobné jako v ostatních složek LibreOffice, i když specifické příkazy a nástroje se mohou lišit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The menus specific to Calc are Sheet and Data; in addition, several important data analysis tools are found in the Tools menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Systému menu specifické pro Calc je list a dat; Kromě několika důležitých analýzy dat nástroje se nacházejí v nabídce Nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Prostěradlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most often used commands for handling sheets, such as Insert and Delete Cells, Columns, Rows and Sheets; select Cell Reference Type; and Link to External Data.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejčastěji používané příkazy pro manipulaci s plechy, jako je vkládání a mazání buněk, sloupců, řádků a listů; Vyberte buňku typové označení; a Odkaz na externí data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Commands for manipulating data in the spreadsheet; for example, Define Range, Sort, Filters, Statistics, Pivot Tables, Consolidate, Forms, Groups and Outlines.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příkazy pro manipulaci s daty v tabulce; Například definovat rozsah, třídění, filtry, statistiky, kontingenčních tabulek, konsolidovat, Formuláře, skupiny a obrysů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Functions to help you check and customize the spreadsheet; for example, Spelling, Macros, Goal Seek, Solver, Scenarios, Detective, Protect Sheet, XML Filter Settings, and Extension Manager.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce, které vám pomohou kontrolovat a upravovat tabulky; Například, pravopisu, makra, Goal Seek Řešitel, scénáře, detektivní, Zamknout list, Nastavení XML Filtr a Extension Manager.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The position and use of it and other toolbars are described in Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pozice a použití ní a dalšími panely nástrojů jsou popsány v kapitole 1, Představení LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is permanently docked in this position and cannot be used as a floating toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je trvale ukotven v této poloze a nemůže být používán jako plovoucí panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, it can be hidden or made visible by going to &lt;f2&gt;View &gt; Formula Bar&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, to může být skryta nebo zviditelnit tím, že půjdete na &lt;f2&gt;Zobrazit&gt; Formula Bar&lt;/f2&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Formula Bar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;2 &lt;/seq0&gt;: Vzorec Bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From left to right, the Formula Bar includes the following:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zleva doprava, Formula Bar obsahuje následující položky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also type a cell reference in the &lt;f1&gt;Name Box&lt;/f1&gt; to jump to the referenced cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také zadat odkaz na buňku v &lt;f1&gt;Name Box&lt;/f1&gt; přejít na odkazované buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you type the name of a named range and press the &lt;f2&gt;Enter&lt;/f2&gt; key, the named range is selected and displayed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud zadáte název pojmenované oblasti a stiskněte tlačítko &lt;f2&gt;Enter&lt;/f2&gt; klíč, pojmenovaná oblast je vybrán a zobrazen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Function Wizard&lt;/f0&gt; – &lt;i1/&gt;opens a dialog from which you can search through lists of available functions and formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Funkce Wizard&lt;/f0&gt; - &lt;i1 /&gt; otevře se dialogové okno, ze kterého se můžete probírat seznamem dostupných funkcí a vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Select Function&lt;/f0&gt; – this drop-down list provides five choices: &lt;f1&gt;Sum&lt;/f1&gt;, &lt;f2&gt;Average&lt;/f2&gt;, &lt;f3&gt;Min&lt;/f3&gt;, &lt;f4&gt;Max&lt;/f4&gt;, and &lt;f5&gt;Count&lt;/f5&gt; (Figure &lt;f6&gt;&lt;t7&gt;3&lt;/t7&gt;&lt;/f6&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Select Function&lt;/f0&gt; - tento rozbalovací seznam obsahuje pět voleb: &lt;f1&gt;Sum&lt;/f1&gt; &lt;f2&gt;Střední&lt;/f2&gt; &lt;f3&gt;Min&lt;/f3&gt; &lt;f4&gt;Max &lt;/f4&gt;, a &lt;f5&gt;Počet&lt;/f5&gt; (obr &lt;f6&gt;&lt;t7&gt; 3&lt;/t7&gt; &lt;/f6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Select Function drop-down</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;3 &lt;/seq0&gt;: Select Function rozevíracího</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Formula&lt;/f0&gt; – inserts an equals (=) sign into the selected cell and the &lt;f1&gt;Input line&lt;/f1&gt;, allowing a formula to be entered.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; vzorec&lt;/f0&gt; - vloží rovná (=), znak do vybrané buňky a &lt;f1&gt;vstupního řádku &lt;/f1&gt;, což umožňuje vzorec které mají být zapsány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f2&gt;Name Box&lt;/f2&gt; now displays a drop-down list of the most frequently used functions, for a quick access to the function name and syntax.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;f2&gt;Name Box&lt;/f2&gt; nyní zobrazuje rozevírací seznam nejčastěji používaných funkcí, pro rychlý přístup k názvu funkce a syntaxe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To turn the &lt;f1&gt;Input line&lt;/f1&gt; into a multi-line input area for very long formulas, click the down arrow on the far right-hand end of the Input line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li &lt;f1&gt;linkový vstup&lt;/f1&gt; do vstupního prostoru s multi-line na velmi dlouhých vzorců, klepněte na šipku dolů na konci na pravé straně vstupního řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also directly edit the contents of a cell by double-clicking on the cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také přímo upravit obsah buňky pomocí dvojkliku na buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you enter new data into a cell, the &lt;f0&gt;Select Function&lt;/f0&gt; and &lt;f1&gt;Formula&lt;/f1&gt; icons change to &lt;f2&gt;Cancel&lt;/f2&gt; and &lt;f3&gt;Accept&lt;/f3&gt; icons.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když zadáte nová data do buňky, &lt;f0&gt;Select Function&lt;/f0&gt; a &lt;f1&gt;Formula&lt;/f1&gt; ikony změna &lt;f2&gt;Zrušit&lt;/f2&gt; a &lt;f3&gt;Přijmout&lt;/f3&gt; ikony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In a spreadsheet, the term “function” covers much more than just mathematical functions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V tabulce se pojem „funkce“ zahrnuje mnohem víc než jen matematickými funkcemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 7, Using Formulas and Functions, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 7, pomocí vzorců a funkcí, v části &lt;f0&gt;Calc Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;i0/&gt;Calc Status Bar (Figure &lt;t1&gt;4&lt;/t1&gt;) provides information about the spreadsheet as well as quick and convenient ways to change some of its features.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;i0 /&gt; Calc stavový řádek (Obr &lt;t1&gt;4 &lt;/t1&gt;) poskytuje informace o tabulky, stejně jako rychlý a pohodlný způsob, jak změnit některé ze svých funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most of the fields are similar to those in other components of LibreOffice; see Chapter 1, Introducing LibreOffice, for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Většina polí jsou podobné jako v ostatních složek LibreOffice; viz kapitola 1, Úvod do LibreOffice, pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Calc Status Bar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;4 &lt;/seq0&gt;: Calc Status Bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Status Bar has a quick way to do some math operations on selected cells in the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stavový řádek je rychlý způsob, jak udělat nějaké matematické operace na vybrané buňky v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can calculate average and sum, count elements, and more on the selection by right-clicking over the cell information area of the Status Bar and selecting the operations you want to display in the Status Bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete spočítat průměr a suma, počet prvků, a více na výběr kliknutím pravým tlačítkem myši nad informační buňka prostoru na stavovém řádku a výběru operací, které chcete zobrazit ve stavovém řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Calc Sidebar (&lt;f0&gt;View &gt; Sidebar &lt;/f0&gt;or &lt;f1&gt;Ctrl+F5&lt;/f1&gt;) is located on the right side of the window.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc Sidebar (&lt;f0&gt; Zobrazit&gt; Postranní panel&lt;/f0&gt; nebo &lt;f1&gt;Ctrl + F5 &lt;/f1&gt;) se nachází na pravé straně okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is similar to the Sidebar in Writer (shown in Chapter 1 and Chapter 4 of this book) and consists of five &lt;i2/&gt;decks: &lt;f3&gt;Properties&lt;/f3&gt;, &lt;f4&gt;Styles&lt;/f4&gt;, &lt;f5&gt;Gallery&lt;/f5&gt;, &lt;f6&gt;Navigator&lt;/f6&gt;, and &lt;f7&gt;Functions&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je to podobné jako v postranním panelu v aplikaci Writer (znázorněno v kapitole 1 a kapitoly 4 této knihy) a skládá se z pěti &lt;i2 /&gt; paluby: &lt;f3&gt;Vlastnosti&lt;/f3&gt; &lt;f4&gt;Styly&lt;/f4&gt; &lt;f5 &gt;Galerie&lt;/f5&gt; &lt;f6&gt;Navigator&lt;/f6&gt; a &lt;f7&gt;Funkce &lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each deck has a corresponding icon on the &lt;i8/&gt;Tab panel to the right of the sidebar, allowing you to switch between them.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý balíček má odpovídající ikonu na &lt;i8 /&gt; karta panel na pravé straně postranní panel, který umožňuje přepínat mezi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This deck includes five content panels.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato paluba obsahuje pět panelů obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These panels, with the exception of the Style panel, have a &lt;f0&gt;More Options&lt;/f0&gt; button that opens a dialog with additional options.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto panely, s výjimkou panelu Style mají &lt;f0&gt;Další možnosti&lt;/f0&gt; tlačítko, které otevře dialogové okno s dalšími možnostmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Style:&lt;/f0&gt; Access to the available cell styles, update cell styles, and new cell styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Style:&lt;/f0&gt; Přístup k dostupných stylů buněk, aktualizace stylů buněk a nové styly buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Character:&lt;/f0&gt; Controls for formatting the text, such as font family, size, and color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Character:&lt;/f0&gt; Ovládací prvky pro formátování textu, jako jsou rodiny písma, velikost a barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some controls, such as superscript, become active only when the text cursor is active in the &lt;f1&gt;Input line&lt;/f1&gt; of the Formula bar or the cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé ovládací prvky, například indexem, se aktivuje pouze tehdy, když je aktivní v &lt;f1&gt;linkový vstup&lt;/f1&gt; vzorce baru nebo v buňce textový kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Number Format:&lt;/f0&gt; Quickly change the format of numbers including decimals, currency, dates, percentage, or numeric text; and leading zeroes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Number Formát:&lt;/f0&gt; rychle změnit formát čísel, včetně desetinných čísel, měny, data, procentech nebo numerické textu; a vedoucí nuly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Alignment:&lt;/f0&gt; Controls to align the text in various ways, including horizontal and vertical alignment, wrapping, indenting, merging, text orientation, and vertical stacking.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Zarovnání:&lt;/f0&gt; Ovládací prvky pro zarovnání textu různými způsoby, včetně vodorovného a svislého nastavení, balení, vroubkování, slučování, orientace textu, a vertikální stohování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Cell Appearance:&lt;/f0&gt; Controls to set the appearance of cells, including cell background color, cell border formats including line color and style, and grid lines.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Cell Vzhled:&lt;/f0&gt; Ovládací prvky pro nastavení vzhledu buněk, včetně barvy pozadí buňky, buňka hraničních formátů včetně barvy čáry a styl, a čarami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Styles, Gallery, Navigator</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styly, galerie, Navigator</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These decks are similar to those in Writer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto balíčky jsou podobné těm v aplikaci Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Their use is described in more detail in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jejich použití je podrobněji popsána v &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This deck contains a list of functions organized by category.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato paluba obsahuje seznam funkcí, uspořádaných podle kategorií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is a simpler version of the Function Wizard, which is opened by selecting &lt;f0&gt;Insert &gt; Function&lt;/f0&gt; from the Menu bar, pressing the &lt;f1&gt;Function Wizard&lt;/f1&gt; icon on the Formula Bar, or by pressing &lt;f2&gt;Ctrl+F2&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jedná se o jednodušší verzi funkce Wizard, který je otevřen od výběru &lt;f0&gt;Insert&gt; Function&lt;/f0&gt; na liště menu, stisknutím tlačítka &lt;f1&gt;Funkce Wizard&lt;/f1&gt; ikona na řádku vzorců nebo stisknutím &lt;f2&gt;Ctrl + F2 &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the top of the columns and the left of the rows are a series of header boxes containing letters and numbers.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V horní části sloupů a nalevo od řádky jsou série sběrnými komorami, které obsahují písmena a číslice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These column and row headers form the cell references that appear in the &lt;f0&gt;Name Box&lt;/f0&gt; on the Formula Bar (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto sloupců a řádků záhlaví tvoří odkazy na buňky, které se objevují v &lt;f0&gt;Name Box&lt;/f0&gt; na řádku vzorců (obr &lt;t1&gt;2 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the headers are not visible on the spreadsheet, choose &lt;f2&gt;View &gt; Headers&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě, že záhlaví nejsou viditelné v tabulce, zvolte &lt;f2&gt;Zobrazit&gt; Záhlaví&lt;/f2&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each Calc spreadsheet can contain multiple sheets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každá tabulka Calc může obsahovat více listů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the bottom of the grid of cells &lt;i0/&gt;are sheet tabs indicating how many sheets are in the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dolní části mřížky buněk &lt;i0 /&gt; jsou ouška indikující kolik listy jsou v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on a tab to display that sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na záložku se zobrazí tento list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the default name for a sheet (Sheet1, Sheet2, and so on), right-click on a sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu, or double-click on the sheet tab, to open a dialog where you can type a new name for the sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit výchozí název pro list (List1, List2, a tak dále), klepněte pravým tlačítkem myši na ouško listu a vyberte možnost &lt;f0&gt;Přejmenovat list&lt;/f0&gt; az kontextového menu, nebo poklepáním na kartě plechu, otevřete dialogové okno, kde můžete zadat nový název pro list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the color of a sheet tab, right-click on the tab and select &lt;f0&gt;Tab Color&lt;/f0&gt; from the context menu to open the Tab Color dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit barvu karty listů klepněte pravým tlačítkem na záložku a vyberte možnost &lt;f0&gt;Tab Color&lt;/f0&gt; z kontextového menu otevřete dialogové okno Tab barvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a color and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte barvu a klikněte na &lt;f1&gt;ON &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add new colors to this color palette, see Chapter 14, Customizing LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat nové barvy do této barevné palety, viz kapitola 14, přizpůsobení LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comma-separated values (CSV) files are spreadsheet files in a text format where cell contents are separated by a character, for example a comma or semicolon.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubory s hodnotami oddělenými čárkou (CSV) jsou tabulkové soubory v textovém formátu, kde se obsah buňky odděleny znak, například čárky nebo středníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most CSV files come from database tables, queries, or reports, where further calculations and charting are required.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Většina CSV souborů pocházet z databázových tabulek, dotazů nebo zpráv, kde jsou vyžadovány další výpočty a grafů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;File &gt; Open &lt;/f0&gt;on the Menu bar and locate the CSV file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Soubor&gt; Otevřít&lt;/f0&gt; na panelu nabídek a vyhledejte soubor ve formátu CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most CSV files have the extension .csv.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Většina CSV soubory mají příponu CSV.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, some CSV files may have a .txt extension.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, některé soubory CSV mohou mít příponu.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Text Import dialog (Figure &lt;t0&gt;5&lt;/t0&gt;), select the required options for importing the CSV file into the Calc spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně importem textu (viz obrázek &lt;t0&gt;5 &lt;/t0&gt;), vyberte požadované možnosti importu souboru CSV do Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details about these options, see Chapter 1, Introducing Calc, in the &lt;f1&gt;Calc Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobné informace o těchto možnostech naleznete v kapitole 1, Úvod do Calc, v &lt;f1&gt;Calc Guide &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to import the file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; k importu souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For information on how to save files manually or automatically, see Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informace o tom, jak ručně nebo automaticky ukládat soubory, viz kapitola 1, Úvod do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc can save spreadsheets in a range of formats and also export spreadsheets to PDF, HTML, XHTML file formats and JPEG and PNG images formats; see Chapter 6, Printing, Exporting, E-mailing, and Signing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc lze uložit tabulky v různých formátech a také exportovat tabulky do PDF formátu HTML, XHTML souborů a JPEG a PNG formátu; viz kapitola 6, tisk, export, e-mailového a podepisování, ve &lt;f0&gt;Calc Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can save a spreadsheet in another format:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete uložit tabulku v jiném formátu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save the spreadsheet in Calc spreadsheet file format (*.ods).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Save tabulce v Calc formátu tabulkový soubor (*.ods).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar to open the Save As dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte &lt;f0&gt;Soubor&gt; Uložit jako&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Save As.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the File name field, you can enter a new file name for the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V poli název souboru, můžete zadat nový název souboru pro tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the File type drop-down list, select the type of spreadsheet format you want to use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V rozevíracím seznamu Typ souboru, vyberte typ tabulkovém formátu, který chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If &lt;f0&gt;Automatic file name extension&lt;/f0&gt; is present and selected, the correct file extension for the spreadsheet format you have selected will be added to the file name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li &lt;f0&gt;Rozšíření Automatic název souboru&lt;/f0&gt; je přítomen a vybrán správný přípona souboru pro tabulkovém formátu, který jste zvolili bude přidána k názvu souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a spreadsheet file is saved in a format other than .ods, the Confirm File Format dialog opens (Figure &lt;t0&gt;6&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když je soubor tabulky uloženy v jiné měně než.ods formátu, otevře se dialogové okno Formát Potvrdit File (obrázek &lt;t0&gt;6 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f1&gt;Use [xxx] Format&lt;/f1&gt; to continue saving in your selected spreadsheet format or click &lt;f2&gt;Use ODF Format&lt;/f2&gt; to save the spreadsheet in Calc ODS format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f1&gt;Použít [xxx] Formát&lt;/f1&gt; pokračovat v ukládání ve vámi vybraném formátu tabulky nebo kliknutím na tlačítko &lt;f2&gt;Použít ODF formát&lt;/f2&gt; a uložte tabulku ve formátu Calc ODS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Confirm File Format dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>dialog Formát Potvrdit souboru: &lt;seq0&gt;6&lt;/seq0&gt; Obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you select &lt;f0&gt;Text CSV format (*.csv)&lt;/f0&gt; for your spreadsheet, the Export Text File dialog (Figure &lt;t1&gt;7&lt;/t1&gt;) may open.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolíte-li &lt;f0&gt;ve formátu Text CSV (CSV)&lt;/f0&gt; pro tabulky, dialogové okno Export Textový soubor (obrázek &lt;t1&gt;7 &lt;/t1&gt;) může otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Export Text File dialog for CSV files</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;7 &lt;/seq0&gt;: Export dialog Textový soubor pro CSV souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once you have saved a spreadsheet in another format, all changes you make to the spreadsheet will now occur only in the format you are using.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po uložení tabulky v jiném formátu, budou všechny změny provedené v tabulce se vyskytují pouze ve formátu, který používáte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to go back to working with a *.ods version, you must save the file as a *.ods file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li se vrátit k práci s verzí * ODS, musíte uložit soubor jako * soubor ODS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To have Calc save spreadsheets by default in a file format other than the default ODS format, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li mít Calc save tabulek ve výchozím nastavení v jiném formátu než výchozí formát ODS, přejděte na &lt;f0&gt;Nástroje&gt; Možnosti&gt; Načítání / Ukládání&gt; Obecné &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f1&gt;Default File Format and ODF Settings&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;area, select &lt;f3&gt;Spreadsheet&lt;/f3&gt; in &lt;f4&gt;Document type,&lt;/f4&gt; then in &lt;f5&gt;Always save as&lt;/f5&gt;, select your preferred file format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f1&gt;výchozí formát souborů a nastavení ODF&lt;/f1&gt; &lt;f2&gt;&lt;/f2&gt; na plochu, vyberte možnost &lt;f3&gt;Spreadsheet&lt;/f3&gt; V &lt;f4&gt;Typ dokumentu,&lt;/f4&gt; pak &lt;f5&gt;Vždy uložit jako &lt;/f5&gt;, vyberte požadovaný formát souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To send a fragment of a spreadsheet to someone or publish it on the Internet, you can export a range selection or a selected group of shapes (images) to a PNG or JPG graphics format:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li poslat fragment tabulky s někým, nebo publikovat na internetu, můžete exportovat výběr rozsahu nebo vybrané skupiny tvarů (obrázků) do grafického formátu PNG nebo JPG:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the cell range or the group of shapes, then select &lt;f0&gt;File &gt; Export&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte oblast buněk nebo skupinu tvarů, vyberte &lt;f0&gt;Soubor&gt; Export &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Export dialog, type a name for the image, select the graphics file format, and mark the &lt;f0&gt;Selection&lt;/f0&gt; checkbox.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Exportovat zadejte název obrázku, vyberte grafický formát souboru, a označte &lt;f0&gt;Selection&lt;/f0&gt; políčko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Export &lt;/f0&gt;or &lt;f1&gt;Save&lt;/f1&gt;, as appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Export&lt;/f0&gt; nebo &lt;f1&gt;Uložit &lt;/f1&gt;, podle potřeby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc may open a further dialog for you to configure the settings associated with the selected graphics format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc může otevřít další dialogové okno pro konfiguraci nastavení spojená s vybranou grafického formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Mouse:&lt;/f0&gt; place the mouse pointer over the cell and click the left mouse button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Myš:&lt;/f0&gt; umístěte kurzor myši nad buňku a stiskněte levé tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Cell reference:&lt;/f0&gt; delete the existing cell reference in the &lt;f1&gt;Name Box&lt;/f1&gt; on the Formula Bar (Figure &lt;t2&gt;2&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;8&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Odkaz na buňku:&lt;/f0&gt; odstranit existující odkaz na buňku v &lt;f1&gt;Name Box&lt;/f1&gt; na řádku vzorců (obr &lt;t 2&gt;2&lt;/t 2&gt; &lt;s3 /&gt; na straně &lt;t4&gt;8 &lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type the new cell reference and press &lt;f5&gt;Enter&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte nový odkaz na buňku a stiskněte &lt;f5&gt;Enter &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cell references are case-insensitive.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buněčné odkazy jsou velká a malá písmena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Navigator:&lt;/f0&gt; press &lt;f1&gt;F5&lt;/f1&gt; to open the Navigator (Figure &lt;t2&gt;8&lt;/t2&gt;) or click the &lt;f3&gt;Navigator&lt;/f3&gt; button in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Navigator:&lt;/f0&gt; stiskněte tlačítko &lt;f1&gt;F5&lt;/f1&gt; otevřít Navigator (obrázek &lt;t2&gt;8 &lt;/t2&gt;) nebo kliknutím na tlačítko &lt;f3&gt;Navigator&lt;/f3&gt; v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type the cell reference into the &lt;f4&gt;Column&lt;/f4&gt; and &lt;f5&gt;Row&lt;/f5&gt; fields and press &lt;f6&gt;Enter&lt;/f6&gt;, or use the adjacent increment / decrement buttons.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte odkaz na buňku do &lt;f4&gt;sloupec&lt;/f4&gt; a &lt;f5&gt;Row&lt;/f5&gt; pole a stiskněte &lt;f6&gt;Enter &lt;/f6&gt;, nebo pomocí přilehlých zvyšování / snižování tlačítek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Navigator</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;8 &lt;/seq0&gt;: Navigátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Enter key:&lt;/f0&gt; moves the cell focus down in a column to the next row.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Enter:&lt;/f0&gt; přesune fokus buněk dolů ve sloupci na další řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f1&gt;Shift+Enter&lt;/f1&gt; moves the focus up in a column to the previous row.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f1&gt; Shift + Enter&lt;/f1&gt; přesune fokus ve sloupci na předchozí řadě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the action of the &lt;f2&gt;Enter&lt;/f2&gt; key; see “&lt;f3&gt;&lt;bf4&gt;Customizing the Enter key&lt;/bf4&gt;&lt;/f3&gt;” on page &lt;f5&gt;&lt;bf6&gt;16&lt;/bf6&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete změnit akci z &lt;f2&gt;Enter&lt;/f2&gt; klíč; Viz „&lt;f3&gt; &lt;bf4&gt;Vlastní klávesy Enter&lt;/BF 4&gt; &lt;/f3&gt;“ na straně &lt;f5&gt;&lt;bf6&gt; 16&lt;/bf6&gt; &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Tab key:&lt;/f0&gt; moves the cell focus right in a row to the next column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Tab klíč:&lt;/f0&gt; pohybuje právo buňky zaostření v řadě do dalšího sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f1&gt;Shift+Tab&lt;/f1&gt; moves the focus to the left in a row to the previous column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f1&gt; Shift + Tab&lt;/f1&gt; přesune fokus doleva v řadě na předchozí sloupec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Arrow keys:&lt;/f0&gt; the arrow keys on the keyboard move the cell focus in the direction of the arrow pressed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; šipkami:&lt;/f0&gt; tlačítek se šipkami na klávesnici přesunout zaměření buněk ve směru šipky stisknutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Home, End, Page Up, and Page Down keys&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Domácí, End, Page Up a Page Down tlačítka &lt;/f0&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To navigate between sheets in a spreadsheet:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro navigaci mezi listy v tabulce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Navigator&lt;/f0&gt; – double-click on any of the listed sheets to select the sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Navigator&lt;/f0&gt; - poklepáním na některý z uvedených listů vyberte list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Keyboard&lt;/f0&gt; – &lt;f1&gt;Ctrl+Page Down&lt;/f1&gt; moves one sheet to the right and &lt;f2&gt;Ctrl+Page Up&lt;/f2&gt; moves one sheet to the left.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Klávesnice&lt;/f0&gt; - &lt;f1&gt;Ctrl + Page Down&lt;/f1&gt; přesune jeden list vpravo a &lt;f2&gt;Ctrl + Page Up&lt;/f2&gt; pohybuje jeden list vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Mouse&lt;/f0&gt; – click on a sheet tab at the bottom of the spreadsheet to select that sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Myš&lt;/f0&gt; - kliknout na záložku listů ve spodní části tabulky vyberte tento list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If your spreadsheet contains a lot of sheets, then some of the sheet tabs may be hidden.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud tabulka obsahuje velké množství listů, pak některé z ouška mohou být skryty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the four buttons to the left of the sheet tabs can move the tabs into view (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí čtyř tlačítek vlevo od ouška může pohybovat západky do záběru (obr &lt;t0&gt;9 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-clicking on any of the arrows, or the +, opens a context menu where you can select a sheet (Figure &lt;t0&gt;10&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím pravým tlačítkem myši na některý z šipek, nebo +, otevře se kontextové menu, kde si můžete vybrat list (Obrázek &lt;t0&gt;10 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Depending on which sheet is open when you insert a new sheet, the new sheet may not be in its correct numerical position.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podle toho, který list otevřen při vložení nového listu, může nový list nemusí být ve správné poloze numerické.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Navigating sheet tabs</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9 &lt;/seq0&gt;: Procházení ouška</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Right-click any arrow button</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;10 &lt;/seq0&gt;: Klepněte pravým tlačítkem na tlačítko se šipkou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can navigate a spreadsheet using the keyboard, by pressing a key or a combination of keys.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete procházet tabulku pomocí klávesnice, stisknutím klávesy nebo kombinace kláves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Appendix A, Keyboard Shortcuts, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for the keys and key combinations you can use for spreadsheet navigation in Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz Dodatek A, klávesové zkratky, v &lt;f0&gt;Calc Guide&lt;/f0&gt; na klíče a kombinace kláves můžete použít k navigaci v tabulkovém procesoru Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can choose the direction in which the &lt;f0&gt;Enter&lt;/f0&gt; key moves the cell focus by going to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si vybrat směr, ve kterém &lt;f0&gt;Enter&lt;/f0&gt; klávesa přesune buňku zaměření tím, že půjdete na &lt;f1&gt;Nástroje&gt; Možnosti&gt; LibreOffice Calc&gt; Obecné &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the first two options under &lt;f2&gt;Input Settings&lt;/f2&gt; (Figure &lt;f3&gt;&lt;t4&gt;11&lt;/t4&gt;&lt;/f3&gt;) to change the &lt;f5&gt;Enter&lt;/f5&gt; key settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte první dvě možnosti v rámci &lt;f2&gt;Input Nastavení&lt;/f2&gt; (Obrázek &lt;f3&gt;&lt;t4&gt; 11&lt;/t4&gt; &lt;/f3&gt;) pro změnu &lt;f5&gt;Enter&lt;/f5&gt; hlavní nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f6&gt;Enter&lt;/f6&gt; key can also be used to switch into and out of editing mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítka &lt;f6&gt;Enter&lt;/f6&gt; klíč může být také použita k přepínači dovnitř a ven z režimu editace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Customizing the Enter key</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;11 &lt;/seq0&gt;: Vlastní klávesy Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single cell:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jediná buňka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can verify your selection by looking in the &lt;f0&gt;Name Box&lt;/f0&gt; on the Formula Bar (Figure &lt;t1&gt;2&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;8&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Si můžete ověřit svůj výběr při pohledu na tlačítko &lt;f0&gt;Name Box&lt;/f0&gt; na řádku vzorců (obr &lt;t1&gt;2&lt;/t1&gt; &lt;s2 /&gt; na straně &lt;t3&gt;8 &lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Range of contiguous cells:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozsah sousedících buněk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move the mouse to highlight the desired block of cells, then release the mouse button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesunutí myši pro zvýraznění požadované blok buněk, a pak uvolnit tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click in the cell that is to be one corner of the range of cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte do buňky, která má být jeden roh oblasti buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click in the opposite corner cell of the block of cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podržte &lt;f0&gt;Shift&lt;/f0&gt; klíč a klepněte na tlačítko v protějším rohu buňky v bloku buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also select a contiguous range of cells by first clicking in the Selection mode field on the Status Bar (Figure &lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;9&lt;/t2&gt;) and selecting &lt;f3&gt;Extending selection&lt;/f3&gt; before clicking in the opposite corner of the range of cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si také vybrat souvislou oblast buněk podle prvního tlačítka myši v poli Režim výběru na stavovém řádku (obr &lt;t0&gt;4&lt;/t0&gt; &lt;s1 /&gt; na straně &lt;t2&gt;9 &lt;/t2&gt;) a zvolením &lt;f3 &gt;Prodloužení výběr&lt;/f3&gt; před klepnutím do protilehlého rohu oblasti buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure to change back to &lt;f4&gt;Standard selection&lt;/f4&gt; or you may extend a cell selection unintentionally.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že změna zpět na &lt;f4&gt;Volba Standardní&lt;/f4&gt; nebo můžete rozšířit výběr buněk neúmyslně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also directly select a range of cells using the &lt;f0&gt;Name Box&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také přímo vybrat oblast buněk pomocí &lt;f0&gt;Name Box &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click in the &lt;f1&gt;Name Box&lt;/f1&gt; on the Formula Bar (Figure &lt;t2&gt;2&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;8&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte do &lt;f1&gt;Name Box&lt;/f1&gt; na řádku vzorců (obr &lt;t2&gt;2&lt;/t2&gt; &lt;s3 /&gt; na straně &lt;t4&gt;8 &lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter the cell reference for the upper left-hand cell, followed by a colon (:), and then the lower right-hand cell reference.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložte odkaz na buňku pro horní levé buňce, následované dvojtečkou (:), a pak odkaz na buňku v pravém dolním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, to select the range that would go from A3 to C6, you would enter &lt;f5&gt;A3:C6&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například, vyberte rozsah, který by jít od A3 až C6, měli byste zadat &lt;f5&gt;A3: C6 &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Range of non-contiguous cells:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozsah nesousedících buněk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single column or row:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jeden sloupec nebo řádek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select a single column, click on the column header (Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;7&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybrat jeden sloupec, klikněte na záhlaví sloupce (viz obrázek &lt;t0&gt;1&lt;/t0&gt; &lt;s1 /&gt; na straně &lt;t2&gt;7 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multiple columns or rows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Více sloupců nebo řádků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entire sheet:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Celý list:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select the entire sheet, click on the corner box between the column header A and the row header 1 (Figure &lt;t0&gt;12&lt;/t0&gt;), or use the key combination &lt;f1&gt;Ctrl+Shift+Space&lt;/f1&gt; to select the entire sheet, or use &lt;f2&gt;Edit &gt; Select All&lt;/f2&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybrat celý list, kliknutím na rohové pole mezi záhlaví sloupce A a záhlaví řádku 1 (obr &lt;t0&gt;12 &lt;/t0&gt;), nebo pomocí kombinace kláves &lt;f1&gt;Ctrl + Shift + Space&lt;/f1&gt; vybrat celý list, nebo pomocí &lt;f2&gt;Úpravy&gt; vybrat vše&lt;/f2&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Select All box</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;12 &lt;/seq0&gt;: Vybrat vše box</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single sheet:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jednotlivé listy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multiple contiguous sheets:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Několik po sobě jdoucích listů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key and click on the sheet tab for the last desired sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podržte &lt;f0&gt;Shift&lt;/f0&gt; klíč a klikněte na záložku závěrky za poslední požadovaný list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any actions that you perform will now affect all the highlighted sheets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Veškeré akce, které provádějí nyní ovlivní všechny zvýrazněné listy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multiple non-contiguous sheets:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Několik non-po sobě jdoucích listů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and click on the sheet tab for the each additional desired sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podržte &lt;f0&gt;Ctrl&lt;/f0&gt; klíč a klikněte na záložku list pro každý další požadovaný list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All sheets:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechny listy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click a sheet tab and choose &lt;f0&gt;Select All Sheets&lt;/f0&gt; from the context menu, or select &lt;f1&gt;Edit &gt; Select &gt; Select All Sheets&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na ouško listu a zvolte &lt;f0&gt;Vybrat všechny listy&lt;/f0&gt; az kontextového menu, nebo zvolte &lt;f1&gt;Edit&gt; Select&gt; Select Všechny listy&lt;/f1&gt; na liště menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the Sheet menu:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí nabídky listu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select either &lt;f1&gt;Insert Columns &gt; Columns Before&lt;/f1&gt;, or &lt;f2&gt;Insert Columns &gt; Columns After&lt;/f2&gt;, or &lt;f3&gt;Insert Rows &gt; Rows Above&lt;/f3&gt;, or &lt;f4&gt;Insert Rows &gt; Rows Below&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;List&lt;/f0&gt; na panelu nabídek a vyberte možnost &lt;f1&gt;Vložit sloupce&gt; Sloupce Před&lt;/f1&gt; nebo &lt;f2&gt;Vložit panely&gt; Kolony Po&lt;/f2&gt; nebo &lt;f3&gt;Vložit řádky &gt; řadách nad&lt;/f3&gt; nebo &lt;f4&gt;Vložit řádky&gt; Řádky pod &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Insert Columns Before&lt;/f0&gt;, &lt;f1&gt;Insert Columns After&lt;/f1&gt;, &lt;f2&gt;Insert Rows Above&lt;/f2&gt;, or &lt;f3&gt;Insert Rows Below&lt;/f3&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Vložit sloupce před&lt;/f0&gt; &lt;f1&gt;Vložit sloupce Po&lt;/f1&gt; &lt;f2&gt;Vložit řádky nad&lt;/f2&gt; nebo &lt;f3&gt;Vložit řádky Níže&lt;/f3&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To hide columns or rows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li skrýt sloupce nebo řádky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the row or column you want to hide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte řádek nebo sloupec, který chcete skrýt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Rows&lt;/f1&gt; or &lt;f2&gt;Columns&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Formát&lt;/f0&gt; na panelu nabídek a vyberte možnost &lt;f1&gt;řádky&lt;/f1&gt; nebo &lt;f2&gt;Sloupce &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Hide&lt;/f0&gt; from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte &lt;f0&gt;Skrýt&lt;/f0&gt; z menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, right-click on the row or column header and select &lt;f1&gt;Hide Rows&lt;/f1&gt; or &lt;f2&gt;Hide Columns&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také klepnout pravým tlačítkem myši na záhlaví řádku nebo sloupce a vyberte možnost &lt;f1&gt;skrýt řádky&lt;/f1&gt; nebo &lt;f2&gt;skrýt sloupce&lt;/f2&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To show hidden columns or rows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit skryté sloupce nebo řádky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the rows or columns on each side of the hidden row or column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte řádky a sloupce na obou stranách skrytého řádku nebo sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Show&lt;/f0&gt; from the menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Zobrazit&lt;/f0&gt; z menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, right-click on a row or column header and select &lt;f1&gt;Show Rows&lt;/f1&gt; or &lt;f2&gt;Show Columns&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také klepnout pravým tlačítkem myši na záhlaví řádku nebo sloupce a vyberte možnost &lt;f1&gt;Zobrazit řádky&lt;/f1&gt; nebo &lt;f2&gt;Zobrazit sloupce&lt;/f2&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting&lt;i0/&gt; columns or rows</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mazání &lt;i0 /&gt; sloupců nebo řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the columns or rows you want to delete.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte sloupce nebo řádky, které chcete odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Sheet&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Delete Rows&lt;/f1&gt; or &lt;f2&gt;Delete Columns&lt;/f2&gt;, or right-click and select &lt;f3&gt;Delete&lt;/f3&gt; &lt;f4&gt;Columns&lt;/f4&gt; or &lt;f5&gt;Delete Rows&lt;/f5&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;List&lt;/f0&gt; na panelu nabídek a vyberte možnost &lt;f1&gt;odstranit řádky&lt;/f1&gt; nebo &lt;f2&gt;odstranit sloupce &lt;/f2&gt;, nebo pravým tlačítkem myši a vyberte &lt;f3&gt;Smazat&lt;/f3&gt; &lt;f4&gt;Sloupce&lt;/f4&gt; nebo &lt;f5&gt;odstranit řádky&lt;/f5&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the cells you want to delete.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buňky, které chcete odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Delete Cells&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+-&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;List&gt; Odstranit Cells &lt;/f0&gt;, nebo stiskněte &lt;f1&gt;Ctrl + - &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Or, right-click on a cell and select &lt;f2&gt;Delete&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nebo klepněte pravým tlačítkem myši na buňku a vyberte možnost &lt;f2&gt;Smazat&lt;/f2&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the option you require from the Delete Cells dialog (Figure &lt;f0&gt;&lt;t1&gt;13&lt;/t1&gt;&lt;/f0&gt;) and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte požadovanou volbu v dialogovém okně Odstranit buňky (Obr &lt;f0&gt;&lt;t1&gt; 13&lt;/t1&gt; &lt;/f0&gt;) a klikněte na &lt;f2&gt;OK &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Delete Cells dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;13 &lt;/seq0&gt;: Odstranit buňky dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Add Sheet&lt;/f0&gt; (+) icon next to the sheet tabs to insert a new sheet after the last sheet in the spreadsheet without opening the Insert Sheet dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na ikonu vedle ouška na &lt;f0&gt;Přidat list&lt;/f0&gt; (+) vložit nový list po poslední list v tabulce bez otevření dialogu Vložit list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following methods open the Insert Sheet dialog (Figure &lt;t0&gt;14&lt;/t0&gt;), where you can position the new sheet, create more than one sheet, name the new sheet, or select a sheet from a file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Následující metody otevřete dialogové okno Insert Sheet (Obr &lt;t0&gt;14 &lt;/t0&gt;), kde si můžete umístit do nového listu vytvořit více než jeden list, pojmenovat nový list, nebo vyberte list ze souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Insert Sheet dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;14 &lt;/seq0&gt;: dialog Insert Sheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the sheet where you want to insert a new sheet, then go to &lt;f0&gt;Sheet &gt; Insert Sheet&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte list, kam chcete vložit nový list, pak přejděte na &lt;f0&gt;List&gt; Insert List&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can move or copy sheets within the same spreadsheet by dragging and dropping, or by using the Move/Copy Sheet dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přesunout nebo zkopírovat listy v rámci jedné tabulky přetažením nebo pomocí list dialogu Move / Copy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To move or copy a sheet into a different spreadsheet, you have to use the Move/Copy Sheet dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přesunout nebo zkopírovat list do jiné tabulky, budete muset použít list dialogu Move / Copy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Move/Copy Sheet dialog (Figure &lt;t0&gt;15&lt;/t0&gt;), you can specify exactly whether you want the sheet in the same or a different spreadsheet, its position within the spreadsheet, and the sheet name when you move or copy it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V list dialogu Move / Copy (Obr &lt;t0&gt;15 &lt;/t0&gt;), můžete určit přesně, zda chcete listu ve stejném nebo jiném tabulkovém procesoru, jeho postavení v tabulce, a název listu při přesunutí nebo zkopírovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Move/Copy Sheet dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;15 &lt;/seq0&gt;: Move dialog / Copy Sheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the current document, right-click on the sheet tab you wish to move or copy and select &lt;f0&gt;Move or Copy Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &gt; Move or Copy Sheet&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V aktuálním dokumentu, pravým tlačítkem myši na kartě plechu Chcete-li přesunout nebo kopírovat a vyberte &lt;f0&gt;Přesunout nebo zkopírovat list&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;List&gt; Přesunout nebo zkopírovat list&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Action&lt;/f0&gt; area, select &lt;f1&gt;Move&lt;/f1&gt; to move the sheet or &lt;f2&gt;Copy&lt;/f2&gt; to copy the sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Action&lt;/f0&gt; ploše vyberte &lt;f1&gt;Přesun&lt;/f1&gt; přesunout list nebo &lt;f2&gt;Kopírovat&lt;/f2&gt; zkopírovat list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type a name in the &lt;f0&gt;New name&lt;/f0&gt; box if you want to rename the sheet when it is moved or copied.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte název do pole &lt;f0&gt;Nový název&lt;/f0&gt; box, chcete-li přejmenovat list, když je přesunuta nebo zkopírována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you do not enter a name, Calc creates a default name (Sheet 2, Sheet 3, ...).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud nechcete zadat jméno, Calc vytvoří výchozí název (List 2, List 3,...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sometimes you may want to hide the contents of a sheet to preserve data from accidental editing or because its contents are not important to display.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Někdy můžete chtít skrýt obsah listu zachovat data před náhodným editaci nebo proto, že její obsah nejsou důležité pro zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To hide a sheet or many sheets, select the sheet or sheets as above, right-click to open the context menu, and select &lt;f0&gt;Hide Sheet&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Skrýt list nebo více listů, vyberte list nebo listy jak je uvedeno výše, pravým tlačítkem myši otevřete kontextovou nabídku a vyberte &lt;f0&gt;Hide List &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To show hidden sheets, right-click any sheet tab and select &lt;f0&gt;Show Sheet&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit skryté listy, klepněte pravým tlačítkem myši na jakékoli ouško listu a vyberte možnost &lt;f0&gt;Zobrazit list&lt;/f0&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A dialog will open with all hidden sheets listed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se dialogové okno se všemi skrytými listech uvedeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the desired sheets and then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte požadované listy a potom klepněte na tlačítko &lt;f1&gt;OK &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice Calc does not let you hide the last visible sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice Calc neumožňuje skrývat poslední viditelný list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, the name for each new sheet added is SheetX, where X is the number of the next sheet to be added.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení je název pro každou novou přidanou listu SheetX, kde X je číslo následujícího listu, které se doplňují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To rename a sheet, use one of these methods:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro přejmenování listu, použít jednu z těchto metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter the name in the &lt;f0&gt;Name&lt;/f0&gt; text box when you create the sheet using the Insert Sheet dialog (Figure &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;20&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte název v &lt;f0&gt;Name&lt;/f0&gt; textové pole při vytváření listu pomocí dialogu Insert Sheet (Obr &lt;t1&gt;14&lt;/t1&gt; &lt;s2 /&gt; na straně &lt;t3&gt;20 &lt;/t3&gt;),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click on a sheet tab to open the Rename Sheet dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dvojitým kliknutím na záložku listů otevřete dialogové okno Přejmenovat list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To delete a single sheet, right-click on the sheet tab you want to delete and select &lt;f0&gt;Delete Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &gt; Delete Sheet&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odstranit jeden list, klepněte pravým tlačítkem myši na kartě list, který chcete odstranit, a vyberte &lt;f0&gt;Delete list&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;List&gt; Delete list&lt;/f1&gt; V nabídce bar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To delete multiple sheets, select the sheets (see “&lt;bf0&gt;Selecting sheets&lt;/bf0&gt;” on page &lt;bf1&gt;18&lt;/bf1&gt;), then right-click one of the sheet tabs and select &lt;f2&gt;Delete Sheet&lt;/f2&gt; from the context menu, or go to &lt;f3&gt;Sheet &gt; Delete Sheet&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odstranit více listů, vyberte listy (viz „&lt;bf0&gt; Volba listy &lt;/bf0&gt;“ na straně &lt;bf1&gt;18 &lt;/bf1&gt;), klepněte pravým tlačítkem myši na jednu z ouška a vyberte &lt;f2&gt;Delete list&lt;/f2&gt; z kontextového menu, nebo přejděte na &lt;f3&gt;list&gt; Delete list&lt;/f3&gt; na liště menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;i0/&gt;the zoom function (&lt;f1&gt;View &gt; Zoom&lt;/f1&gt;) to show more or fewer cells in the window when you are working on a spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte &lt;i0 /&gt; funkce přiblížení (&lt;f1&gt; View&gt; Zoom &lt;/f1&gt;), aby prokázala více či méně buněk v okně při práci na tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more about zoom, see Chapter 1, Introducing LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o přiblížení naleznete v kapitole 1, Úvod do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Freezing is used to lock rows across the top of a spreadsheet or to lock columns on the left of a spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zmrazení se používá k uzamčení řádků v horní části tabulky nebo sloupce zámku v levé části tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;shows some frozen rows and columns.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;t0&gt;16&lt;/t0&gt; &lt;s1 /&gt; ukazuje některé zmrazené řádků a sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Frozen rows and columns</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;16 &lt;/seq0&gt;: Zmražené řádků a sloupců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Often the first row and column contain headings, which you may wish to be visible when scrolling through a long or wide spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Často prvním řádku a sloupce obsahují záhlaví, které si mohou přát, aby byly viditelné při procházení dlouhou nebo širokou tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To quickly freeze either or both of these, use the commands on the drop-down menu by the &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; icon on the Standard toolbar: &lt;f1&gt;Freeze First Row&lt;/f1&gt; and &lt;f2&gt;Freeze First Column&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li rychle zmrazit jedné nebo obou z nich, použijte příkazy drop-down menu pomocí tlačítka &lt;f0&gt;ukotvit řádky a sloupce&lt;/f0&gt; na ikonu na panelu nástrojů Standardní: &lt;f1&gt;Freeze První řádek&lt;/f1&gt; a &lt;f2 &gt;Freeze První sloupec &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To f&lt;bs0/&gt;reeze &lt;f1&gt;either&lt;/f1&gt; rows or column&lt;be2/&gt;s (single or multiple):</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro f &lt;bs0 /&gt; reeze &lt;f1&gt;buď&lt;/f1&gt; řádky nebo sloupci &lt;be2 /&gt; s (jedno nebo více):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the row header &lt;f0&gt;below&lt;/f0&gt; the rows you want the freeze or click on the column header to the &lt;f1&gt;right&lt;/f1&gt; of the columns where you want the freeze.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na řádek záhlaví &lt;f0&gt;níže&lt;/f0&gt; řádky chcete zmrazení nebo kliknutím na záhlaví sloupce na &lt;f1&gt;vpravo&lt;/f1&gt; sloupců, kde chcete zmrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click and choose &lt;f0&gt;Freeze Rows and Columns&lt;/f0&gt; from the context menu, or choose &lt;f1&gt;View &gt; Freeze Rows and Columns&lt;/f1&gt; on the Menu bar, or click the &lt;f2&gt;Freeze Rows and Columns&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši a vyberte možnost &lt;f0&gt;Freeze řádky a sloupce&lt;/f0&gt; az kontextového menu, nebo zvolte &lt;f1&gt;Zobrazit&gt; Ukotvit řádky a sloupce&lt;/f1&gt; na liště menu, nebo klepněte na &lt;f2&gt;ukotvit řádky a sloupce&lt;/f2&gt; ikonu na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To f&lt;bs0/&gt;reeze &lt;f1&gt;both&lt;/f1&gt; rows and column&lt;be2/&gt;s (single or multiple):</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro f &lt;bs0 /&gt; reeze &lt;f1&gt;i&lt;/f1&gt; řádky a sloupce &lt;be2 /&gt; s (jedno nebo více):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click in the cell that is immediately below the rows you want to freeze and immediately to the right of the columns you want frozen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte do buňky, která je bezprostředně pod řádků, které chcete zmrazit a bezprostředně napravo od sloupců, které chcete ve zmrazeném stavu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;View &gt; Freeze Rows and Columns&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Freeze Rows and Columns&lt;/f1&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Zobrazit&gt; ukotvit řádky a sloupce&lt;/f0&gt; na liště menu, nebo klikněte na &lt;f1&gt;ukotvit řádky a sloupce&lt;/f1&gt; ikonu na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To unfreeze rows or columns, either use &lt;f0&gt;View &gt; Freeze Rows and Columns&lt;/f0&gt; on the Menu bar, or click on the &lt;f1&gt;Freeze Rows and Columns&lt;/f1&gt; icon in the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li uvolnit řádků a sloupců, použijte &lt;f0&gt;Zobrazit&gt; ukotvit řádky a sloupce&lt;/f0&gt; na liště menu, nebo klikněte na řádky &lt;f1&gt;Freeze a sloupce&lt;/f1&gt; v nástrojové liště Standard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An example of splitting the screen is shown in Figure &lt;t0&gt;17&lt;/t0&gt;, where a split is indicated by additional window borders within the sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příklad Rozdělení obrazovky je znázorněn na obr &lt;t0&gt;17 &lt;/t0&gt;, kdy je dělené indikován další okno hranic v listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This could be useful for example, when a large spreadsheet has one cell containing a number that is used by three formulas in other cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To by mohlo být užitečné, například při velkém tabulky má jeden buňku obsahující číslo, které se používá třemi vzorci v jiných buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the split-screen technique, you can position the cell containing the number in one section of the view and the cells with formulas in other sections.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití techniky rozdělení obrazovky lze umístit buňku obsahující číslo v jedné části zobrazení a buňky s vzorců v jiných částech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This makes it easy to see how changing the number in one cell affects each of the formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Díky tomu je snadné pochopit, jak může změna počtu v jedné buňce ovlivňuje každého ze vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the row header &lt;f0&gt;below&lt;/f0&gt; the rows where you want to split the screen horizontally or click on the column header to the &lt;f1&gt;right&lt;/f1&gt; of the columns where you want to split the screen vertically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na řádek záhlaví &lt;f0&gt;níže&lt;/f0&gt; řádky, kde chcete rozdělit obrazovku vodorovně nebo kliknutím na záhlaví sloupce na tlačítko &lt;f1&gt;vpravo&lt;/f1&gt; sloupců, kde chcete rozdělit obrazovku vertikálně,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click and choose &lt;f0&gt;Split Window&lt;/f0&gt; from the context menu, or choose &lt;f1&gt;View &gt; Split Window&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši a zvolte &lt;f0&gt;Rozdělit okno&lt;/f0&gt; az kontextového menu, nebo zvolte &lt;f1&gt;View&gt; Split Window&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Window borders appear between the rows or columns indicating where the split has been placed, as shown in Figure &lt;t2&gt;17&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>objeví hranice Okenní mezi řádky nebo sloupci určují, kde je rozdělení byly umístěny, jak je znázorněno na obr &lt;t 2&gt;17 &lt;/t 2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To split &lt;f0&gt;both&lt;/f0&gt; horizontally and vertically at the same time:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro rozdělení &lt;f0&gt;i&lt;/f0&gt; horizontálně a vertikálně ve stejnou dobu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;View &gt; Split Window&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;View&gt; Split Window&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a &lt;f0&gt;horizontal&lt;/f0&gt; split, click on the thick black line at the top of the vertical scroll bar (Figure &lt;t1&gt;18&lt;/t1&gt;) and drag the split line below the row where you want the horizontal split positioned.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro &lt;f0&gt;horizontální&lt;/f0&gt; Split, klikněte na tlustou černou čáru v horní části svislého posuvníku (Obr &lt;t1&gt;18 &lt;/t1&gt;) a přetáhněte dělenou čáru pod řádku, kam chcete horizontální Split poloze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected, then select &lt;f1&gt;Text&lt;/f1&gt; from the Category list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že &lt;f0&gt;je vybrána karta Numbers &lt;/f0&gt;, vyberte &lt;f1&gt;Text&lt;/f1&gt; ze seznamu Kategorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The number is converted to text and, by default, left-aligned.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto číslo se převede na text a ve výchozím nastavení, zarovnán doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Text&lt;/f0&gt; in the category drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte &lt;f0&gt;text&lt;/f0&gt; v kategorii rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cells can contain several lines of text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buňky mohou obsahovat několik řádků textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to use paragraphs, press &lt;f0&gt;Ctrl+Enter&lt;/f0&gt; to create another paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít odstavce, stiskněte &lt;f0&gt;Ctrl + Enter&lt;/f0&gt; vytvořit další odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Formula bar, you can extend the &lt;f0&gt;Input line&lt;/f0&gt; if you are entering several lines of text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na řádku vzorců, můžete prodloužit &lt;f0&gt;Vstupní řádek&lt;/f0&gt; Zadáváte-li několik řádků textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f1&gt;Expand Formula Bar&lt;/f1&gt; icon located on the right-hand end of the Formula bar and the &lt;f2&gt;Input line&lt;/f2&gt; becomes multi-line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na Formule &lt;f1&gt;Rozbalit Bar&lt;/f1&gt; ikona se nachází na konci pravé části řádku vzorců a &lt;f2&gt;linkový vstup&lt;/f2&gt; se stává multi-linku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can separate the date elements with a slash (/) or a hyphen (–), or use text, for example 10 Oct 2012.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete oddělit data prvky s lomítkem (/) nebo pomlčkou (-), nebo použití textu, například 10. října 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the date or time format used by Calc:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit formát data a času používá Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the cell selected, open the Format Cells dialog (Figure &lt;t0&gt;19&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>S vybranými buňka, otevření dialogu Formát buněk (Obr &lt;t0&gt;19 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected, then select &lt;f1&gt;Date&lt;/f1&gt; or &lt;f2&gt;Time&lt;/f2&gt; from the &lt;f3&gt;Category&lt;/f3&gt; list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že &lt;f0&gt;je vybrána karta Numbers &lt;/f0&gt;, vyberte &lt;f1&gt;Datum&lt;/f1&gt; nebo &lt;f2&gt;čas&lt;/f2&gt; od &lt;f3&gt;Kategorie&lt;/f3&gt; Seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f1&gt;ON &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cell fields</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>buněčné pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can insert a field linked to the date, sheet name, or document name in a cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete vložit pole související s datem, název listu nebo název dokumentu v buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a cell and double-click to activate edit mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buňku a poklepáním Aktivace režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exceptions tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Karta výjimky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Specify the abbreviations or letter combinations that you do not want corrected automatically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Určete zkratky nebo kombinace písmen, které nechcete automaticky opravována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Options tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Karta možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the options for automatically correcting errors as you type.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte volby pro funkci automatického opravování chyb při psaní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Localized Options tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lokalizované Karta Options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset button</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko reset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset modified values back to their previous values.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vynulování změněné hodnoty zpět na jejich předchozí hodnoty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some AutoCorrect settings are applied when you press the space bar after you enter data.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některá nastavení automatických oprav jsou použity při stisknutí mezerníku po zadání data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To turn off or on Calc AutoCorrect, go to &lt;f0&gt;Tools&lt;/f0&gt; on the Menu bar and deselect or select &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vypnout nebo zapnout Calc automatických, přejděte na &lt;f0&gt;Nástroje&lt;/f0&gt; na panelu nabídek a zrušte nebo zvolte &lt;f1&gt;AutoInput &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To turn it off, go to &lt;f0&gt;Tools&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;AutoInput&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li jej vypnout, přejděte na &lt;f0&gt;Nástroje&lt;/f0&gt; na panelu nabídek a zrušte &lt;f1&gt;AutoInput &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Fill tool is used to duplicate existing content or create a series in a range of cells (see Figure &lt;t0&gt;22&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výplň nástroj se používá ke zdvojení stávající obsah, nebo vytvořit sérii v řadě buněk (viz obr &lt;t0&gt;22 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Fill Cells&lt;/f0&gt; on the Menu bar and select the direction in which you want to copy or create data (&lt;f1&gt;Fill Up&lt;/f1&gt;, &lt;f2&gt;Fill Down&lt;/f2&gt;, &lt;f3&gt;Fill Left&lt;/f3&gt;, or &lt;f4&gt;Fill Right&lt;/f4&gt;), or &lt;f5&gt;Fill Series&lt;/f5&gt;, or &lt;f6&gt;Fill Random Number&lt;/f6&gt; from the submenu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;List&gt; vyplnění buněk&lt;/f0&gt; na panelu nabídek a vybrat směr, ve kterém chcete kopírovat nebo vytvářet údaje (&lt;f1&gt; Fill Up&lt;/f1&gt; &lt;f2&gt;Vyplnit dolů&lt;/f2&gt; &lt;f3&gt;Vyplnit Left&lt;/f3&gt; nebo &lt;f4&gt;Fill Right &lt;/f4&gt;), nebo &lt;f5&gt;Vyplnit Series&lt;/f5&gt; nebo &lt;f6&gt;Vyplnit náhodné číslo&lt;/f6&gt; z podnabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Using the Fill tool</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;22 &lt;/seq0&gt;: Nástrojem Výplň</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select a series fill from &lt;f0&gt;Sheet &gt; Fill Cells &gt; Fill Series&lt;/f0&gt;, the Fill Series dialog (Figure &lt;t1&gt;23&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberete-li série výplň ze &lt;f0&gt;List&gt; vyplnění buněk&gt; Fill &lt;/f0&gt;, dialog Fill řady Series (Obr &lt;t1&gt;23 &lt;/t1&gt;) se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Fill Series dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;23 &lt;/seq0&gt;: dialog Series Fill</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To define your own sort list which can later be used as a fill series:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li definovat vlastní seřazený seznam, který může být později použit jako výplň série:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f0&gt; to open the Sort Lists dialog (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Calc&gt; Uspořádat seznamy&lt;/f0&gt; k otevření takového seznamy dialog (obrázek &lt;t1&gt;24 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This dialog shows the previously-defined series in the &lt;f2&gt;Lists&lt;/f2&gt; box and the contents of the highlighted list in the &lt;f3&gt;Entries&lt;/f3&gt; box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento dialog ukazuje dříve definované série na &lt;f2&gt;Přehledy&lt;/f2&gt; box a obsah zvýrazněné seznamu v &lt;f3&gt;Příspěvky&lt;/f3&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Sort Lists dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;24 &lt;/seq0&gt;: dialog Třídit Seznamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click and select &lt;f0&gt;Selection Lists&lt;/f0&gt; from the context menu, or press &lt;f1&gt;Alt+Down Arrow&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši a vyberte možnost &lt;f0&gt;Seznamy výběru&lt;/f0&gt; az kontextového menu, nebo stiskněte &lt;f1&gt;Alt + šipka dolů &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Select &gt; Select Sheets&lt;/f0&gt; on the Menu bar to open the Select Sheets dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Edit&gt; Select&gt; Select listy&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Vybrat listy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure you deselect the additional sheets when you are finished entering information that is going to be repeated before continuing to enter data into the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, zrušte další listy Po dokončení informace vstupující do které se bude opakován před pokračováním zadávání dat do tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When creating spreadsheets for other people to use, you may wish to ensure that they enter data that is valid and appropriate for the cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při vytváření tabulek pro ostatní lidi k použití, možná budete chtít, aby se zajistilo, že zadávání dat, které jsou platné a vhodné pro buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Depending on how validation is set up, it can also define the range of contents that can be entered, provide help messages explaining the content rules set up for the cell and what users should do when they enter invalid content.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V závislosti na tom, jak se ověření nastavení, ale také může definovat rozsah obsahu, který lze zadat, poskytovat pomoc zprávy vysvětlující pravidla pro obsah nastavit pro buňku a co uživatelé by měli dělat, když vstoupí neplatný obsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a cell or a range of cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buňku nebo oblast buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press the &lt;f0&gt;Backspace&lt;/f0&gt; key, or right-click in the cell selection and choose &lt;f1&gt;Clear Contents&lt;/f1&gt; from the context menu, or select &lt;f2&gt;Sheet &gt; Clear Cells &lt;/f2&gt;from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stisknutím tlačítka &lt;f0&gt;Backspace&lt;/f0&gt; klíč, nebo pravým tlačítkem myši na výběr buněk a zvolit &lt;f1&gt;vymazat obsah&lt;/f1&gt; az kontextového menu, nebo zvolte &lt;f2&gt;Plechové&gt; Vymazat Cells&lt;/f2&gt; od lišta menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Delete Contents dialog (Figure &lt;t0&gt;25&lt;/t0&gt;), choose any of the options or choose &lt;f1&gt;Delete all&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně smazat obsah (obrázek &lt;t0&gt;25 &lt;/t0&gt;), vyberte některou z možností nebo zvolte &lt;f1&gt;Odstranit vše &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Delete Contents dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;25 &lt;/seq0&gt;: smazat obsah dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The new data will replace the old data but will retain the cell formatting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nová data nahradí stará data, ale udrží buňku formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, select the cell and click in the &lt;f0&gt;Input line&lt;/f0&gt; on the Formula bar (Figure &lt;t1&gt;2&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;8&lt;/t3&gt;), then double-click on the data to highlight it completely and type the new data.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alternativně, vyberte buňku a kliknutím na &lt;f0&gt;vstupního řádku&lt;/f0&gt; na řádku vzorců (obr &lt;t1&gt;2&lt;/t1&gt; &lt;s2 /&gt; na straně &lt;t3&gt;8 &lt;/t3&gt;), poté dvakrát -Klikněte na základě údajů, zvýrazněte jej úplně a zadejte nové údaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2” to “Sales rose in Qtr” can be done as follows.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>2“ až ‚Prodeje vzrostly v Čtv‘ lze provést následujícím způsobem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you intend to use the keyboard to change data in cells with minimum use of the mouse, then you may want to enable &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General &gt; Press enter to switch to edit mode&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud máte v úmyslu používat klávesnici k datům změny v buňkách s minimálním použitím myši, pak budete chtít povolit &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Calc&gt; Obecné&gt;, stiskněte Enter pro přepnutí do režimu úprav &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This means that when you click in the cell to select it, the cell switches to its edit mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To znamená, že po klepnutí na tlačítko v buňce, vyberte jej buňka přepne do svého režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively you can press &lt;f1&gt;F2&lt;/f1&gt; to switch the cell to edit mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně můžete stisknout tlačítko &lt;f1&gt;F2&lt;/f1&gt; přepněte do režimu úprav buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the keyboard arrow keys to position the cursor where you want to start entering the new data in the cell, then press the &lt;f0&gt;Delete&lt;/f0&gt; key or &lt;f1&gt;Backspace&lt;/f1&gt; key to delete any unwanted data before typing the new data.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použít klávesy se šipkami umístěte kurzor tam, kde chcete začít zadávat nová data v buňce, a poté stiskněte tlačítko &lt;f0&gt;Odstranit&lt;/f0&gt; nebo &lt;f1&gt;Backspace&lt;/f1&gt; Klíčem k odstranění nežádoucí data před zadáním nových údajů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you have finished editing, press the &lt;f0&gt;Enter&lt;/f0&gt; key to save the changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po dokončení úprav stiskněte &lt;f0&gt;Enter&lt;/f0&gt; tlačítka pro uložení změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To copy text, numbers, or formulas to the target cell or cell range:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zkopírovat text, čísla nebo vzorce do cílové buňky nebo rozsahu buněk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the source cell or cell range and copy the data.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte rozsah zdroj buněk nebo buněk a kopírovat data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the target cell or cell range.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte cílovou buňku nebo oblast buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the target cell or cell range and select &lt;f0&gt;Paste Special&lt;/f0&gt; from the context menu, then select &lt;f1&gt;Unformatted Text&lt;/f1&gt;, &lt;f2&gt;Text&lt;/f2&gt;, &lt;f3&gt;Number&lt;/f3&gt;, or &lt;f4&gt;Formula&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na rozsah cílových buněk nebo buněk a vyberte &lt;f0&gt;Vložit jinak&lt;/f0&gt; az kontextového menu, pak zvolte &lt;f1&gt;Neformátovaný Text&lt;/f1&gt; &lt;f2&gt;Text&lt;/f2&gt; &lt;f3&gt;Počet&lt;/f3&gt; nebo &lt;f4&gt;vzorec &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Or, use the submenu items reached from &lt;f0&gt;Edit &gt; Paste Special&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nebo použijte podmenu dostanete z &lt;f0&gt;Upravit&gt; Vložit jinak&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use the Paste Special function to paste into another cell selected parts of the data in the original cell or cell range, for example its format or the result of its formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také použít funkci Vložit jinak vložit do jiné buňky vybrané části dat v původní buňky nebo buněčné řady, například jeho formát ani výsledek své vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a cell or a cell range.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buňku nebo oblast buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; on the Menu bar, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;, or right-click and select &lt;f2&gt;Copy&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Edit&gt; Copy&lt;/f0&gt; na liště menu, nebo stiskněte &lt;f1&gt;Ctrl + C &lt;/f1&gt;, nebo klepněte pravým tlačítkem myši a vyberte možnost &lt;f2&gt;Kopírovat&lt;/f2&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special&lt;/f0&gt; on the Menu bar, or use the keyboard shortcut &lt;f1&gt;Ctrl+Shift+V&lt;/f1&gt;, or right-click and select &lt;f2&gt;Paste Special &gt; Paste Special&lt;/f2&gt; from the context menu to open the Paste Special dialog (Figure &lt;f3&gt;&lt;t4&gt;26&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Upravit&gt; Vložit jinak&gt; Vložit jinak&lt;/f0&gt; na liště menu, nebo použijte klávesovou zkratku &lt;f1&gt;Ctrl + Shift + V &lt;/f1&gt;, nebo klepněte pravým tlačítkem myši a vyberte možnost &lt;f2&gt;Vložit jinak &gt; Vložit jinak&lt;/f2&gt; v místní nabídce pro otevření dialogu speciální pastou (obr &lt;f3&gt;&lt;t4&gt; 26&lt;/t4&gt; &lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the options for &lt;f0&gt;Selection, Operations, Options,&lt;/f0&gt; and &lt;f1&gt;Shift Cells&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte možnosti pro &lt;f0&gt;Selection, Operations, Možnosti&lt;/f0&gt; a &lt;f1&gt;Shift Cells &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to paste the data into the target cell or range of cells and close the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; vložit data do cílové buňky nebo rozsahu buněk a zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Paste Special dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;26 &lt;/seq0&gt;: Pasta dialog Speciální</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 4, Using Styles and Templates, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz Kapitola 4, Používání stylů a šablony, ve &lt;f0&gt;Calc Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu to open the Format Cells dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na buňku a vyberte možnost &lt;f0&gt;Formát buněk&lt;/f0&gt; z kontextového menu otevřete dialogové okno Formát buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f0&gt;Alignment&lt;/f0&gt; tab (Figure &lt;t1&gt;27&lt;/t1&gt;), under &lt;f2&gt;Properties&lt;/f2&gt;, select &lt;f3&gt;Wrap text automatically&lt;/f3&gt; and click &lt;f4&gt;OK&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na kartě &lt;f0&gt;Alignment&lt;/f0&gt; (Obrázek &lt;t1&gt;27 &lt;/t1&gt;), pod &lt;f2&gt;Vlastnosti &lt;/f2&gt;, vyberte &lt;f3&gt;Obtékání textu automaticky&lt;/f3&gt; a klikněte na &lt;f4&gt;OK &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Format Cells dialog – Alignment tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;27 &lt;/seq0&gt;: Dialog Formát buněk - karta Zarovnání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Properties deck of the Sidebar, open the Alignment panel (Figure &lt;f0&gt;&lt;t1&gt;28&lt;/t1&gt;&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na palubě Vlastnosti postranního panelu, otevře Alignment panel (obr &lt;f0&gt;&lt;t1&gt; 28&lt;/t 1&gt; &lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Wrap text formatting</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;28 &lt;/seq0&gt;: Wrap formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f1&gt;Input line&lt;/f1&gt; of the Formula bar, you can also press &lt;f2&gt;Shift+Enter&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f1&gt;linkový vstup&lt;/f1&gt; vzorce baru si můžete také stisknutím tlačítka &lt;f2&gt;Shift + Enter &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a manual line break is entered in a cell, the cell row height changes but the cell width does not change and the text may still overlap the end of the cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li ruční zalomení řádku vstoupil v buňce, buněčná řada výškové změny, ale buňka šířka se nemění a text může být stále překrývají konce buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You have to change the cell width manually or reposition the line break.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Budete muset ručně změnit šířku buňky nebo přemístit konce řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To do this, select the &lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; option under &lt;f1&gt;Properties&lt;/f1&gt; on the &lt;f2&gt;Alignment&lt;/f2&gt; tab of the Format Cells dialog (Figure &lt;t3&gt;27&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li to provést, vyberte &lt;f0&gt;přizpůsobení velikosti velikosti buněk&lt;/f0&gt; možnost ve skupinovém rámečku &lt;f1&gt;Vlastnosti&lt;/f1&gt; na &lt;f2&gt;Alignment&lt;/f2&gt; kartě dialogového okna Formát buněk (obrázek &lt;t3&gt;27 &lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can select contiguous cells and merge them into one as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si vybrat sousedící buňky a sloučit je do jedné takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the range of contiguous cells you want to merge.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte oblast souvislých buněk, které chcete sloučit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the selected cells and select &lt;f0&gt;Merge Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Merge Cells &gt; Merge Cells&lt;/f1&gt; or &lt;f2&gt;Merge and Center Cells&lt;/f2&gt; on the Menu bar, or click on the &lt;f3&gt;Merge and Center Cells&lt;/f3&gt; icon on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na vybrané buňky a zvolte &lt;f0&gt;Sloučit buňky&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;Formát&gt; Sloučit buňky&gt; Sloučit buňky&lt;/f1&gt; nebo &lt;f2&gt;Sloučit a Center Cells&lt;/f2&gt; na liště menu, nebo klikněte na &lt;f3&gt;Sloučit a Center článků&lt;/f3&gt; ikonu na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using &lt;f4&gt;Merge and Center Cells&lt;/f4&gt; will center align any contents in the cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí &lt;f4&gt;Merge a centrum buňky&lt;/f4&gt; se zaměří align žádný obsah v buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the cells contain any data, a small dialog (Figure &lt;f0&gt;&lt;t1&gt;29&lt;/t1&gt;&lt;/f0&gt;) opens, showing choices for moving or hiding data in the hidden cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě, že buňky obsahují veškeré údaje, malé dialogové okno (obr &lt;f0&gt;&lt;t1&gt; 29&lt;/t 1&gt; &lt;/f0&gt;) se otevře, což ukazuje možnosti k pohybu nebo ukrývání dat ve skrytých buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make your selection and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Udělej si svůj výběr a klikněte na &lt;f2&gt;OK &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Merge choices for non-empty cells</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;29 &lt;/seq0&gt;: sloučit možností pro non-prázdných buněk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Merging cells can lead to calculation errors in formulas used in the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po sloučení buněk může vést k chybám v výpočetních vzorců používaných v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can reverse or split only a cell that was created from several cells by merging.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lze zvrátit nebo rozdělit pouze buňky, která byla vytvořena z několika buněk sloučením.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a merged cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte sloučenou buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Merge Cells &gt; Split Cells&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Split Cells&lt;/f1&gt; from the context menu, or click on the &lt;f2&gt;Merge and Center Cells&lt;/f2&gt; icon on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Formát&gt; Sloučit buňky&gt; Rozdělit buňky&lt;/f0&gt; na liště menu, nebo klikněte pravým tlačítkem a vyberte možnost &lt;f1&gt;Rozdělit buňky&lt;/f1&gt; az kontextového menu, nebo klikněte na &lt;f2&gt;Merge a centrum Cells&lt;/f2&gt; na ikonu na panelu nástrojů Formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any data in the cell will remain in the first cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Veškeré údaje v buňce zůstanou v první buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the hidden cells did have any contents before the cells were merged, then you have to manually move the contents in to the correct cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě, že skryté buňky dělal mít jakýkoli obsah, než byly buňky sloučeny, pak se budete muset ručně přesunout obsah do správné buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Several number formats can be applied to cells by using icons on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé formáty čísla mohou být aplikovány do buněk pomocí ikon na panelu nástrojů Formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more control or to select other number formats, use the &lt;f0&gt;Numbers&lt;/f0&gt; tab of the Format Cells dialog (Figure &lt;t1&gt;19&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;25&lt;/t3&gt;):</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro další kontrolu, nebo zvolit jiné formáty čísel, použijte čísla&lt;/f0&gt; karta &lt;f0&gt;dialogového okna Formát buněk (obrázek &lt;t1&gt;19&lt;/t1&gt; &lt;s2 /&gt; na straně &lt;t3&gt;25&lt;/t3&gt;):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Control the number of decimal places and leading zeroes in the &lt;f0&gt;Options&lt;/f0&gt; area.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Řídit počet desetinných míst a počáteční nuly v &lt;f0&gt;Možnosti&lt;/f0&gt; oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some number formats are available from the sidebar’s Number Format panel in the Properties deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé formáty čísel jsou dostupné z postranního panelu je formát čísla panelu na palubě Vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;More Options&lt;/f0&gt; button to open the Format Cells dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;Rozšířené hledání&lt;/f0&gt; otevřete dialogové okno Formát buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For consistency in a spreadsheet, use cell styles whenever possible.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Konzistence v tabulce, použijte styly buněk, kdykoli je to možné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To manually select a font and format text for use in a cell:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li ručně vybrat text písmo a formát pro použití v buňce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a cell or cell range.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte oblast buněk nebo buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the small triangle on the right of the &lt;f0&gt;Font Name&lt;/f0&gt; box on the Formatting toolbar and select a font from the drop-down list, or use the &lt;f1&gt;Font Name&lt;/f1&gt; box in the Character panel of the Properties deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na malý trojúhelník na pravé straně &lt;f0&gt;název písma&lt;/f0&gt; na panelu nástrojů Formátování a vyberte písmo z rozbalovacího seznamu, nebo pomocí &lt;f1&gt;Font Name&lt;/f1&gt; pole v Character panel z paluby vlastnosti v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the small triangle on the right of the &lt;f0&gt;Font Size&lt;/f0&gt; box on the Formatting toolbar and select a font size from the drop-down list, or use the &lt;f1&gt;Font Size&lt;/f1&gt; box in the Character panel of the Properties deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na malý trojúhelník na pravé straně &lt;f0&gt;Velikost písma&lt;/f0&gt; na panelu nástrojů Formátování a zvolte velikost písma z rozevíracího seznamu, nebo pomocí &lt;f1&gt;Velikost písma&lt;/f1&gt; krabici znak panel paluby vlastnosti v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the character format, click on the &lt;f0&gt;Bold&lt;/f0&gt;, &lt;f1&gt;Italic&lt;/f1&gt;, or &lt;f2&gt;Underline&lt;/f2&gt; icons on the Formatting toolbar or the Characters panel of the Properties deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit formát písma, klikněte na &lt;f0&gt;Tučné&lt;/f0&gt; &lt;f1&gt;kurzíva&lt;/f1&gt; nebo &lt;f2&gt;Underline&lt;/f2&gt; ikony na formátování nástrojů nebo v panelu Znaky paluby Vlastnosti v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the horizontal paragraph alignment, click on one of the four alignment icons (&lt;f0&gt;Align Left&lt;/f0&gt;, &lt;f1&gt;Align Center&lt;/f1&gt;, &lt;f2&gt;Align Right&lt;/f2&gt;, &lt;f3&gt;Justified&lt;/f3&gt;) in the Formatting toolbar or on the &lt;t4/&gt;Alignment panel of the Properties deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit vodorovné zarovnání odstavce, klikněte na jednu ze čtyř zarovnání ikony (&lt;f0&gt; Align Left&lt;/f0&gt; &lt;f1&gt;Align Center&lt;/f1&gt; &lt;f2&gt;Align Right&lt;/f2&gt; &lt;f3&gt;odůvodněných &lt;/f3&gt;) na panelu nástrojů Formát nebo na &lt;t4 /&gt; Zarovnání panelu Vlastnosti balíčku v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more options, go to &lt;f5&gt;Format &gt; Cells &gt; Alignment&lt;/f5&gt; and select one of the options in the &lt;f6&gt;Horizontal&lt;/f6&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více možností, přejděte na &lt;f5&gt;Formát&gt; Cells&gt; Alignment&lt;/f5&gt; a vyberte jednu z možností v &lt;f6&gt;Horizontální&lt;/f6&gt; rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the vertical alignment of the text in the cell, go to &lt;f0&gt;Format &gt; Cells &gt; Alignment&lt;/f0&gt; and select one of the options in the &lt;f1&gt;Vertical&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit svislé zarovnání textu v buňce, přejděte na &lt;f0&gt;Formát&gt; Cells&gt; Alignment&lt;/f0&gt; a vyberte jednu z možností v části &lt;f1&gt;vertikální&lt;/f1&gt; v rozevíracím seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the font color, click the arrow next to the &lt;f0&gt;Font Color&lt;/f0&gt; icon on the Formatting toolbar, or on the Character panel on the Properties deck in the Sidebar, to display the color palette, then select the desired color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit barvu písma, klepněte na šipku vedle tlačítka &lt;f0&gt;Barva písma&lt;/f0&gt; na ikonu na panelu nástrojů Formát, nebo na panelu Znaky na palubě Vlastnosti v postranním panelu, aby se zobrazila paleta barev a poté vyberte požadovaný barva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To specify the language used in the cell, use the &lt;f0&gt;Font&lt;/f0&gt; tab on the Format Cells dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li určit jazyk používaný v buňce, použijte kartu &lt;f0&gt;Písmo&lt;/f0&gt; v dialogovém okně Formát buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To format the borders of a cell or a group of selected cells, click the &lt;f0&gt;Borders&lt;/f0&gt; icon on the Formatting toolbar and select a border from the palette.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li formátovat ohraničení buňky nebo skupiny vybraných buněk, klikněte na &lt;f0&gt;Borders&lt;/f0&gt; na ikonu na panelu nástrojů Formátování a vyberte ohraničení z palety.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To format the border line style, click the &lt;f0&gt;Border Style&lt;/f0&gt; icon in the Formatting toolbar and select the line style from the palette.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li formátovat styl hraniční čáry, klikněte na &lt;f0&gt;Border Style&lt;/f0&gt; ikonu na panelu nástrojů formátování a zvolit styl čáry z palety.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the color of the border lines, click the arrow at the right of the &lt;f1&gt;Border Color&lt;/f1&gt; icon in the Formatting toolbar and choose from the color palette.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Za barvu hraničních linií, klepněte na šipku na pravé straně tlačítka &lt;f1&gt;Border Color&lt;/f1&gt; ikonu na panelu nástrojů Formátování a vybrat z palety barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Cell Appearance panel of the Properties deck in the Sidebar also contains cell border, line style and line color controls.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buňka Vzhled panel z paluby Vlastnosti v postranním panelu také obsahuje ovládací prvky buněčné hranic, typ čáry a barvu čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more control, including the spacing between cell borders and any data in the cell, use the &lt;f0&gt;Borders&lt;/f0&gt; tab of the Format Cells dialog, where you can also define a shadow style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro větší kontrolu, včetně mezery mezi buněčnými hranic a veškeré údaje v buňce, použijte &lt;f0&gt;&lt;/f0&gt; kartu ohraničení z dialogového okna Formát buněk, kde si můžete také definovat stín styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clicking the &lt;f1&gt;More Options&lt;/f1&gt; button on the Cell Appearance panel, or clicking &lt;f2&gt;More Options&lt;/f2&gt; in the panel’s line style drop-down list, opens the Format Cells dialog at the &lt;f3&gt;Borders&lt;/f3&gt; tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f1&gt;More Options Tlačítko &lt;f1 /&gt; na Cell Vzhled panelu nebo kliknutím na &lt;f2&gt;Další možnosti&lt;/f2&gt; v panelu se seznamem styl čáry drop-dolů, otevře Formát buněk dialogové u &lt;f3&gt;ohraničení&lt;/f3&gt; tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 4, Using Styles and Templates, in the &lt;f0&gt;Calc Guide &lt;/f0&gt;for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz Kapitola 4, Používání stylů a šablony, ve &lt;f0&gt;Calc Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cell border properties apply only to the selected cells and can be changed only when you are editing those cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cell hraniční vlastnosti se vztahují pouze na vybrané buňky a může být změněn pouze při úpravách těchto buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To format the background color for a cell or a group of cells, click the small arrow next to the &lt;f0&gt;Background Color&lt;/f0&gt; icon on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li formátovat barvu pozadí pro buňky nebo skupiny buněk, klepněte na malou šipku vedle tlačítka &lt;f0&gt;barva pozadí&lt;/f0&gt; na ikonu na panelu nástrojů Formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use the &lt;f1&gt;Background&lt;/f1&gt; tab of the Format Cells dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také použít &lt;f1&gt;&lt;/f1&gt; karta pozadí dialogu Formát buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Cell Appearance panel of the Properties deck in the Sidebar contains a cell background control with a color palette.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buňka Vzhled panel paluby Vlastnosti na postranním panelu obsahuje řízení mobilní pozadí s barevné palety.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 4, Using Styles and Templates, in the &lt;f2&gt;Calc Guide&lt;/f2&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz Kapitola 4, Používání stylů a šablony, ve &lt;f2&gt;Calc Guide&lt;/f2&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add default styles for a cell or a group of cells, click &lt;f0&gt;Styles&lt;/f0&gt; in the Menu bar and&lt;f1&gt; &lt;/f1&gt;a menu displays the default styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat výchozí styly pro buňku nebo skupinu buněk, klepněte na tlačítko &lt;f0&gt;Styly&lt;/f0&gt; v panelu nabídek a displeje &lt;f1&gt;&lt;/f1&gt; menu výchozí styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The default styles can be applied, or modified through the Styles deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výchozí styly mohou být použity, nebo změnit prostřednictvím styly palubě v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can create custom cell styles by clicking &lt;f2&gt;Styles &gt; New Style from Selection&lt;/f2&gt; in the Menu bar, or by pressing the &lt;f3&gt;New Style from Selection &lt;/f3&gt;icon on the Styles deck of the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si vytvořit vlastní styly buněk kliknutím na tlačítko &lt;f2&gt;Styly&gt; Nový styl z výběru&lt;/f2&gt; v liště menu, nebo stisknutím &lt;f3&gt;Nový styl z výběru&lt;/f3&gt; ikona na styly palubě postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type a new name for the style or click an existing style name to update that style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte nový název pro styl nebo klikněte na existující název stylu aktualizovat tento styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply, delete, or modify the custom style in the Styles deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aplikovat, odstranit nebo upravit vlastní styl ve stylu palubě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use &lt;i0/&gt;&lt;i1/&gt;Calc’s AutoFormat&lt;i2/&gt; feature to format a table (range of cells) quickly and easily.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít &lt;i0 /&gt; &lt;i1 /&gt; Calc Automatický &lt;i2 /&gt; Funkce pro formátování tabulky (rozsah buněk) snadno a rychle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It also lets you format different tables of the sheet with the same look and feel very easily.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To také umožňuje formátovat různé tabulky listu s stejný vzhled a pocit velmi snadno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All formatting applied is direct formatting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>All formátování aplikovat přímé formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat Styles&lt;/f0&gt; on the Menu bar to open the AutoFormat dialog (Figure &lt;t1&gt;30&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát&gt; Automatický formát styly&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Automatický formát (obrázek &lt;t1&gt;30 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the formatting properties to be included in the AutoFormat style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte požadované formátování vlastnosti, které mají být zahrnuty do Automatický stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: AutoFormat dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;30 &lt;/seq0&gt;: automatický dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format the data type, font, font size, cell borders, cell background, and so on for a range of cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formátovat datový typ písma, velikost písma, ohraničení buněk, buněčné pozadí, a tak dále na oblast buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the range, of at least 4 x 4 cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte oblast, alespoň 4 x 4 buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; AutoFormat Styles&lt;/f0&gt; to open the AutoFormat dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát&gt; Automatický formát styly&lt;/f0&gt; otevřete dialogové okno Automatický.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f1&gt;Přidat &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The new AutoFormat is stored in your computer user profile and is not available to other users.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nová Automatický jsou uloženy v počítačem profilu uživatele a není k dispozici jiným uživatelům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, other users can import the new AutoFormat by selecting the table range in the spreadsheet document and defining it as a new AutoFormat.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, ostatní uživatelé mohou importovat novou Automatický výběrem rozsah tabulky v tabulkovém dokumentu a definuje ji jako nový Automatický formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc comes with a predefined set of formatting themes (set of styles) that you can apply to spreadsheets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc je dodáván s předdefinovanou sadou formátování témat (sadu stylů), které můžete použít k tabulkám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is not possible to add new themes to Calc, but you can modify the theme styles after the theme is applied to the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Není možné přidávat nová témata k Calc, ale můžete upravit téma styly po téma je aplikován do tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The modified styles are available for use only in that spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Modifikované styly jsou k dispozici pouze pro použití v této tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Spreadsheet Theme&lt;/f0&gt; on the Menu bar or click the &lt;f1&gt;Spreadsheet Theme&lt;/f1&gt; icon in the Tools toolbar to open the Theme Selection dialog (Figure &lt;f2&gt;&lt;t3&gt;31&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Formát&gt; Spreadsheet Motiv&lt;/f0&gt; na liště menu nebo klikněte na &lt;f1&gt;Spreadsheet Motiv&lt;/f1&gt; ikona se panel nástrojů pro otevření dialogu pro výběr témat (Obr &lt;f2&gt;&lt;t3&gt; 31&lt;/t3&gt; &lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The theme styles are immediately visible on the underlying spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Téma styly jsou okamžitě viditelné na základní tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you wish, you can now open the Styles deck in the Sidebar to modify specific styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud chcete, můžete nyní otevřít styly palubu v postranním panelu upravit konkrétní styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These changes do not modify the theme; they only change the appearance of the style in the specific spreadsheet you are using.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto změny nemění téma; oni jen změnit vzhled stylu v konkrétní tabulky, kterou používáte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more about modifying styles, see Chapter 3, Using Styles and Templates.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o úpravách stylů, viz kapitola 3, Používání stylů a šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Applying a new theme over an existing one will override all existing theme styles customization with the new theme styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uplatňování nové téma na existující přepíše všechny stávající téma styly přizpůsobení se novým tématických stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Theme Selection dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;31 &lt;/seq0&gt;: Téma dialog Selection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Multiple formatting options can be entered and arranged using assigned priority rules to order the importance of the conditions, allowing certain formatting options to take place before others.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Více možností formátování lze zadat a uspořádány pomocí přiřazených pravidla přednosti na zakázku význam podmínek, kdy jsou určité možnosti formátování se bude konat dříve než ostatní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conditional formatting depends upon the use of styles, and the AutoCalculate feature (&lt;f0&gt;Data &gt; Calculate &gt; AutoCalculate&lt;/f0&gt;) must be enabled.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podmíněné formátování závisí na používání stylů a funkce AutoCalculate (&lt;f0&gt; Data&gt; Spočítejte si&gt; AutoCalculate &lt;/f0&gt;) musí být povoleno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 2, Entering, Editing, and Formatting Data, in the &lt;f1&gt;Calc Guide&lt;/f1&gt; for details.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 2, vstupující, editaci a formátování dat, ve &lt;f1&gt;Calc Guide&lt;/f1&gt; Podrobnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, if column B is hidden, it is copied when you select columns A and C. When you require a hidden element again, you can reverse the process and show the element.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například pokud sloupec B je skrytý, je kopírován při výběru sloupce A a C. Pokud vyžadujete skrytý prvek znovu, můžete zvrátit proces a ukázat prvek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on how to hide and show data, including how to use outline groups and filtering, see Chapter 2, Entering, Editing, and Formatting Data, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tom, jak skrýt a zobrazit data, včetně toho, jak používat obrys skupiny a filtrování, viz kapitola 2, vkládání, editaci a formátování dat, ve &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A filter is a list of conditions that each entry has to meet to be displayed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Filtr je seznam podmínek, že každá položka musí splňovat, aby byl zobrazen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc provides three types of filter:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc nabízí tři typy filtru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Standard&lt;/f0&gt; – Specifies the logical conditions to filter the data.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Standardní&lt;/f0&gt; - určuje logické podmínky pro filtrování dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;AutoFilter&lt;/f0&gt; – Filters data according to a specific value or string.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Automatický filtr&lt;/f0&gt; - Filtry údaje v souladu s určitou hodnotu nebo řetězec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Automatically filters the selected cell range and creates one-row list boxes where you can choose the items that you want to display.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automaticky filtruje vybranou oblast buněk a vytváří seznam jednořadé boxy, kde si můžete vybrat položky, které chcete zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Advanced&lt;/f0&gt; – Uses filter criteria from specified cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Pokročilé&lt;/f0&gt; - Použití kritéria filtrování uvedených buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Setting up and using filters are explained in Chapter 2, Entering, Editing, and Formatting Data, of the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavení a používání filtrů jsou vysvětleny v kapitole 2, Vkládání, úpravy a formátování dat z &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All or some of the cells in a spreadsheet can be password protected to prevent changes being made by unauthorized users.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechny nebo některé buňky v tabulce může být chráněn heslem, aby se zabránilo změnám bylo ze strany neoprávněných uživatelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This can be handy when multiple people have access to the spreadsheet itself, but only a few are allowed to modify the data it contains.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To může být užitečné, když více lidí má přístup k samotné tabulky, ale jen málo z nich právo měnit údaje, které obsahuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Protected cells can optionally be hidden.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chráněné buňky mohou být volitelně skryty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the &lt;f0&gt;Cell Protection&lt;/f0&gt; tab of the Format Cells dialog (Figure &lt;f1&gt;&lt;t2&gt;32&lt;/t2&gt;&lt;/f1&gt;) to set up cell protection and toggle the hidden status of protected cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí &lt;f0&gt;&lt;/f0&gt; karta ochrana článků v dialogu Formát buněk (obr &lt;f1&gt;&lt;t 2&gt; 32&lt;/t2&gt; &lt;/f1&gt;) pro nastavení ochrany buněk a přepínací skryté stavu chráněných buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Cell Protection tab in Format Cells dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;32 &lt;/seq0&gt;: Buněčná karta Ochrana v dialogu Formát buněk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When all desired cells have been flagged with either a protected or unprotected status:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když jsou všechny požadované buňky byly označeny buď chráněné nebo nechráněné stavu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Protect Sheet&lt;/f0&gt;, or right-click on the sheet’s tab in the Sheet tabs area and select &lt;f1&gt;Protect Sheet&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Nástroje&gt; Zamknout list &lt;/f0&gt;, nebo klepněte pravým tlačítkem na záložce listu v oblasti ouška listů a vyberte možnost &lt;f1&gt;Zamknout list&lt;/f1&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Protect Sheet dialog will open (Figure &lt;t2&gt;33&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialog Protect list se otevře (obr &lt;t 2&gt;33 &lt;/t 2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type a password and then confirm the password.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte heslo a potvrďte heslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any cells that had been toggled as protected will no longer be editable by anyone that does not have the password.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Veškeré buňky, které bylo přepnuto jako chráněné již nebude moci upravovat kdokoli, který nemá heslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Protect Sheet dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;33 &lt;/seq0&gt;: Protect dialog Sheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The protected sheet has a lock icon in its tab, as shown in Figure &lt;f0&gt;&lt;t1&gt;34&lt;/t1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chráněný fólie má ikona zámku v jeho kartě, jak je znázorněno na obr &lt;f0&gt;&lt;t1&gt; 34&lt;/t 1&gt; &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: The lock icon in a protected sheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;34 &lt;/seq0&gt;: ikona zámku v chráněném listu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you can choose to protect the structure of the entire spreadsheet rather than individual cells on individual sheets by selecting &lt;f0&gt;Tools &gt; Protect Spreadsheet Structure&lt;/f0&gt; from the &lt;t1/&gt;Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně můžete zvolit chránit strukturu celé tabulky namísto jednotlivých buněk na jednotlivé listy výběrem &lt;f0&gt;Nástroje&gt; Protect Spreadsheet Struktura&lt;/f0&gt; od &lt;t1 /&gt; nabídkové liště.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This option enables you to protect your spreadsheet against adding, deleting, moving, or renaming sheets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato volba umožňuje chránit tabulku proti přidávání, mazání, přesouvání, nebo přejmenování listů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can optionally enter a password through the Protect Spreadsheet Structure dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Volitelně můžete zadat heslo, pomocí dialogu Protect Spreadsheet Structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on how to sort records and the sorting options available, see Chapter 2, Entering, Editing, and Formatting Data, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tom, jak třídit záznamy a možnosti třídění jsou k dispozici, viz kapitola 2, vstupující, editaci a formátování dat, ve &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To sort cells in a spreadsheet using the Sort dialog:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li seřadit buňky v tabulce pomocí dialogu Třídění:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Data &gt; Sort&lt;/f0&gt; on the Menu bar, or press the &lt;f1&gt;Sort&lt;/f1&gt; icon on the Standard toolbar, to open the Sort dialog (Figure &lt;t2&gt;35&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Data&gt; Uspořádat&lt;/f0&gt; na liště menu, nebo stiskněte &lt;f1&gt;Uspořádat&lt;/f1&gt; ikonu na panelu nástrojů Standardní, otevřete dialogové okno seřazení (obrázek &lt;t2&gt;35 &lt;/t2&gt;),</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f0&gt;Sort Criteria&lt;/f0&gt; tab, select the sort criteria from the drop down lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na &lt;f0&gt;Seřadit Kritéria kartě &lt;/f0&gt;, vyberte kritéria řazení z rozbalovacího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select either ascending order (A-Z, 0-9) or descending order (Z-A, 9-0).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buď vzestupně (A-Z, 0-9) nebo sestupně (Z-A, 9-0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adjust the settings as required on the &lt;f0&gt;Options&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upravte nastavení podle potřeby na kartě &lt;f0&gt;Možnosti &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Sort dialog, Sort Criteria tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;35 &lt;/seq0&gt;: Dialog třídění, tab Sort Criteria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comments are small notes and text that can serve as a reminder or an aside to the user.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Komentáře jsou malé poznámky a texty, které mohou sloužit jako připomínka nebo stranou pro uživatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A comment is not considered a part of the spreadsheet for calculation or printing purposes, and will only appear when hovering the mouse over the particular cell that has been commented.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Komentář není považováno za část tabulky pro výpočet nebo účely tisku a zobrazí se pouze tehdy, když se vznáší myši na konkrétní buňku, která byla komentoval.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The easiest way to insert a comment is by right-clicking on the desired cell and selecting &lt;f0&gt;Insert Comment&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejjednodušší způsob, jak vložit komentář, je pravým tlačítkem myši na požadované buňky a výběru &lt;f0&gt;Vložit komentář&lt;/f0&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you can select &lt;f1&gt;Insert &gt; Comment&lt;/f1&gt; from the Menu bar, or use &lt;f2&gt;Ctrl+Alt+C&lt;/f2&gt;, or click the &lt;f3&gt;Insert Comment&lt;/f3&gt; icon in the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně můžete zvolit &lt;f1&gt;Vložit&gt; Komentář&lt;/f1&gt; na liště menu, nebo použití &lt;f2&gt;Ctrl + Alt + C &lt;/f2&gt;, nebo klepněte na tlačítko &lt;f3&gt;Vložit komentář&lt;/f3&gt; ikona v standardní panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, comments will remain hidden and only appear when hovering the mouse.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení budou připomínky zůstávají skryté a objeví se pouze při najetí myší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cells that contain comments are marked with a red square in the upper right corner.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buňky, které obsahují poznámky jsou označeny červenou náměstí v pravém horním rohu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To toggle the visibility of comments, select &lt;f0&gt;View &gt; Comments&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přepnout viditelnost připomínky, vyberte možnost &lt;f0&gt;Zobrazit&gt; Poznámky&lt;/f0&gt; na liště menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see Chapter 11, Sharing and Reviewing Spreadsheets, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v kapitole 11, sdílení a prohlížení Spreadsheets, v &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may need more than numbers and text in a spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možná budete potřebovat více než čísel a textu v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All you have to do is enter the arguments and the calculation is made automatically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jediné, co musíte udělat, je zadat argumenty a výpočet se provede automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Functions and formulas can be entered directly into the Formula bar or by accessing the Function Wizard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce a vzorce lze zadat přímo do řádku vzorců nebo přístupu k Průvodce funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To launch the function wizard, click the &lt;f0&gt;Function Wizard&lt;/f0&gt; icon to the right of the &lt;f1&gt;Name Box&lt;/f1&gt;, or select &lt;f2&gt;Insert &gt; Function&lt;/f2&gt; on the Menu bar, or press &lt;f3&gt;Ctrl+F2&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li spustit Průvodce funkcí, klikněte na &lt;f0&gt;funkce Wizard&lt;/f0&gt; ikonu napravo od tlačítka &lt;f1&gt;Name Box &lt;/f1&gt;, nebo zvolte &lt;f2&gt;Insert&gt; Function&lt;/f2&gt; na panelu nabídek, nebo stiskněte &lt;f3&gt;Ctrl + F2 &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inside the Function Wizard, you can search, list, and narrow down the many Calc functions available.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uvnitř Průvodce funkce, můžete vyhledávat, seznam a zúžit mnoho Calc nabízených funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also choose to complete functions from within the wizard rather than having to type full formulas into the Formula bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete se také rozhodnout pro kompletní funkce zv rámci Průvodce spíše než psát plné vzorců do řádku vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each function, when selected, will display a brief explanation of its use and acceptable syntax.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každá funkce, pokud je zvoleno, zobrazí vysvětlení stručnou jeho využití a přijatelné syntaxe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will also display dialog boxes where you can enter the information required by that function and a result window showing the expected calculation from the data entered.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Bude také dialogová okna, kde můžete zadat údaje požadované touto funkcí a oknem výsledek ukazující očekávanou výpočtem z dat zadaných zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fast alternative to the Function Wizard is the Functions deck in the Sidebar, where you can quickly list and narrow down functions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rychlá alternativa k Průvodci funkcí je funkce paluba v postranním panelu, kde můžete rychle seznam a zúžit funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It provides brief explanations on their use and syntax, but does not provide the search or data entry capabilities of the full wizard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To poskytuje stručné vysvětlení k jejich použití a syntaxi, ale neposkytuje vyhledávání nebo zadávání dat Plnohodnotná průvodci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more in-depth introduction to formulas and the Function Wizard, see Chapter 7, Using Formulas and Functions, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro zavedení více do hloubky do vzorců a Průvodci funkcí, viz kapitola 7, pomocí vzorců a funkcí, v části &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Function Wizard</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;36 &lt;/seq0&gt;: Průvodce funkcí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 9, Data Analysis, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information on the tools available in Calc to analyze data.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 9, analýza dat, ve &lt;f0&gt;Calc Guide&lt;/f0&gt; Pro více informací o dostupných nástrojů v Calcu pro analýzu dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One of the most useful tools for analyzing data is the pivot table, a way to organize, manipulate, and summarize large amounts of data to make it much easier to read and understand while also allowing you to answer different questions about a spreadsheet by rearranging – or pivoting – the data in it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jedním z nejvíce užitečných nástrojů pro analýzu dat je pivot tabulky, způsob, jak organizovat, manipulovat a sumarizaci velkého množství dat, aby bylo mnohem snazší číst a rozumět a zároveň umožňuje odpovědět na různé otázky týkající tabulce tím, že přeskupí - nebo otáčení - data v něm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using a pivot table, you can view different summaries of the source data, display the details of areas of interest, and create reports.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití kontingenční tabulky, můžete zobrazit různé souhrny zdrojových dat, zobrazit podrobnosti oblastí zájmu a vytvářet zprávy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also create a pivot chart to view a graphical representation of the data in a pivot table.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si také vytvořit kontingenční tabulku zobrazit grafické znázornění dat v kontingenční tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, let’s say that you have a spreadsheet containing a list of donations to various charities by a group of recruiters in various months, but you are only interested in how much money each recruiter has collected in total.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například, řekněme, že máte tabulku obsahující seznam darů k různým charitám skupinou personalisty v jednotlivých měsících, ale zajímá jen to, kolik peněz každý Náborář shromáždila celkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You could manually calculate that amount by using the sorting and formatting options provided by Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dalo by se ručně vypočítat tuto částku pomocí třídění a možnostech formátování poskytované Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you could arrange a pivot table to make that data easier to organize and read.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nebo můžete uspořádat kontingenční tabulky, aby se, že data snadněji organizovat a číst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To access the pivot table creation dialog, choose &lt;f0&gt;Data &gt; Pivot Table &gt; Insert or Edit&lt;/f0&gt; from the Menu bar, or click the &lt;f1&gt;Insert or Edit Pivot Table&lt;/f1&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li otevřít dialogové okno kontingenční tabulky tvorbu, zvolte &lt;f0&gt;Data&gt; Pivot Tabulka&gt; Vložit nebo Úpravy&lt;/f0&gt; na liště menu, nebo klikněte na &lt;f1&gt;Insert nebo Edit kontingenční tabulky&lt;/f1&gt; ikonu na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Pivot Table Layout dialog will intelligently guess the column headings from the provided raw data and insert them into the &lt;f2&gt;Available Fields&lt;/f2&gt; selection box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialogové okno kontingenční tabulky rozložení bude inteligentně odhadnout na záhlaví sloupce z dodaného nezpracovaných dat a vložte je do &lt;f2&gt;dostupných polí&lt;/f2&gt; pole výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From there, you can drag and drop your desired information into column, row, data, or filter fields to organize accordingly and click &lt;f3&gt;OK&lt;/f3&gt; to view the results.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odtud můžete přetáhnout požadované informace do sloupců, řádek, dat nebo filtračních polí odpovídajícím způsobem uspořádat a klikněte na &lt;f3&gt;OK&lt;/f3&gt; k zobrazení výsledků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To choose new information to display, or to alter the layout of the existing information, right-click anywhere in the existing pivot table to bring up the context menu and choose &lt;f0&gt;Properties&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolit nové informace k displeji, nebo pro změnu rozložení existující informace, klikněte pravým tlačítkem myši kdekoli v existující kontingenční tabulce vyvolejte kontextovou nabídku a vyberte &lt;f0&gt;Vlastnosti &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also access the same dialog by selecting &lt;f1&gt;Data &gt; Pivot Table &gt; Insert or Edit&lt;/f1&gt; on the Menu bar, or clicking the &lt;f2&gt;Insert or Edit Pivot Table&lt;/f2&gt; icon on the Standard toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také přistupovat ke stejnému dialog výběrem &lt;f1&gt;Data&gt; kontingenční tabulky&gt; Insert nebo Edit&lt;/f1&gt; na liště menu, nebo kliknutím na &lt;f2&gt;Insert nebo Edit kontingenční tabulky&lt;/f2&gt; na ikonu na panelu nástrojů Standardní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For an in-depth explanation of pivot tables and the preconditions necessary to use them, see Chapter 8, Using Pivot Tables, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro vysvětlení hloubkové kontingenčních tabulek a předpokladů nutných pro jejich použití, viz kapitola 8, pomocí kontingenčních tabulek, v &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To get a quick visual representation of the data contained in a pivot table, you can generate a pivot chart.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li získat rychlý vizuální reprezentaci dat obsažených v kontingenční tabulce, můžete generovat kontingenční tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Functionally, pivot charts are nearly identical to regular charts except in two key areas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkčně, pivot tabulky jsou téměř totožné s pravidelnými grafy s výjimkou dvou klíčových oblastech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First, as the data in the pivot table is altered, the pivot chart will adjust itself automatically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Za prvé, jak jsou data v kontingenční tabulce se změní, otočný graf se automaticky nastaví sám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Second, it includes field buttons, graphical elements that allow you to filter the content of the pivot table from within the pivot chart itself.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Za druhé, obsahuje pole tlačítek, grafické prvky, které vám umožňují filtrovat obsah kontingenční tabulce zevnitř otočného grafu sám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on pivot charts and charts in general, see Chapter 3, Creating Charts and Graphs, and Chapter 8, Using Pivot Tables, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o kontingenční tabulky a grafy obecně, viz kapitola 3, vytvoření tabulek a grafů, a kapitola 8, s použitím kontingenčních tabulek, v &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Printing from Calc is much the same &lt;i0/&gt;as printing&lt;i1/&gt; from other LibreOffice components (see Chapter 10, Printing, Exporting, E-mailing, and Signing Documents).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při tisku z Calc je téměř stejné &lt;i0 /&gt; as tisk &lt;i1 /&gt; z jiných LibreOffice složek (viz kapitola 10, tisk, export, e-mailing, a podepisování dokumentů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, some details of printing in Calc are different, especially regarding preparation for printing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, některé detaily tisku v Calcu se liší, zejména pokud jde o přípravu pro tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After print ranges have been defined, they are formatted with automatic page breaks.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poté, co byly definovány tiskové rozsahy, které jsou formátovány pomocí automatických přestávek stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To view the page breaks, go to &lt;f0&gt;View &gt; Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit konce stránek, přejděte na &lt;f0&gt;Zobrazit&gt; Konec stránky&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information about using print ranges, see Chapter 6, Printing, Exporting, E-mailing, and Signing in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o použití tiskových rozsahů, viz kapitola 6, tisk, export, e-mailing, a podepisování v &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Define&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát&gt; Tisk rozsahy&gt; Definovat&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Automatic page break lines are displayed on screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automatický konec stránky čáry jsou zobrazeny na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To check the print range, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar, press &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt;, or click the &lt;f2&gt;Toggle Print Preview&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zjistit rozsah tisku, přejděte na &lt;f0&gt;Soubor&gt; Tisk Náhled&lt;/f0&gt; na liště menu, stiskněte &lt;f1&gt;Ctrl + Shift + O &lt;/f1&gt;, nebo klepněte na tlačítko &lt;f2&gt;Toggle Tisk Náhled&lt;/f2 &gt; ikonu na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc will display only the cells in the print range.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc se zobrazí pouze buňky v rozsah tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To check the print ranges, go to &lt;f0&gt;File &gt; Print Preview&lt;/f0&gt; on the Menu bar, press &lt;f1&gt;Ctrl+Shift+O&lt;/f1&gt;, or click the &lt;f2&gt;Toggle Print Preview&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zkontrolovat tiskové rozsahy, přejděte na &lt;f0&gt;Soubor&gt; Tisk Náhled&lt;/f0&gt; na liště menu, stiskněte &lt;f1&gt;Ctrl + Shift + O &lt;/f1&gt;, nebo klepněte na tlačítko &lt;f2&gt;Toggle Tisk Náhled&lt;/f2 &gt; ikonu na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To remove all the defined print ranges, go to &lt;f0&gt;Format &gt; Print Ranges &gt; Clear&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odstranit všechny definované tiskové rozsahy, přejděte na &lt;f0&gt;Formát&gt; Tiskové Rozsahy&gt; Clear&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After the print ranges have been removed, the default page break lines will appear on the screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poté, co byly odstraněny tiskové rozsahy, bude výchozí stránku zlomu čáry se objeví na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the Edit Print Ranges dialog where you can define the print range.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát&gt; Tisk rozsahy&gt; Edit&lt;/f0&gt; na panelu nabídek otevřete Edit Print dialog, ve kterém můžete definovat rozsah tisku intervaly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar to open the Page Style dialog (Figure &lt;t1&gt;37&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Formát&gt; Stránka&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Styl stránky (obrázek &lt;t1&gt;37 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Page Style dialog – Sheet tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;37 &lt;/seq0&gt;: Page Style dialog - tab Sheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Print Ranges &gt; Edit&lt;/f0&gt; on the Menu bar to open the Edit Print Ranges dialog (Figure &lt;t1&gt;38&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Formát&gt; Tisk rozsahy&gt; Edit&lt;/f0&gt; na panelu nabídek otevřete Edit Print dialog rozsahy (obr &lt;t1&gt;38 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type the row identifiers in the &lt;f0&gt;Rows to Repeat&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte identifikátory řádků v &lt;f0&gt;opakovat řádky&lt;/f0&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, to repeat rows 1 and 2, type $1:$2.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například opakovat řádky 1 a 2, typ $ 1: $ 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This automatically changes &lt;f1&gt;Rows to Repeat&lt;/f1&gt; from &lt;f2&gt;- none -&lt;/f2&gt; &lt;s3/&gt;to &lt;f4&gt;- user defined -&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tím se automaticky změní &lt;f1&gt;opakovat řádky&lt;/f1&gt; od &lt;f2&gt;- none -&lt;/f2&gt; &lt;s3 /&gt; na &lt;f4&gt;- uživatelsky definovatelné - &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type the column identifiers in the &lt;f0&gt;Columns to Repeat&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sem identifikátorů sloupců v &lt;f0&gt;sloupce Opakovat&lt;/f0&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, to repeat column A, type $A.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například pro opakované sloupci, zadejte $ A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f1&gt;Columns to Repeat&lt;/f1&gt; list, &lt;f2&gt;- none -&lt;/f2&gt; changes to &lt;f3&gt;- user defined -&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f1&gt;Sloupce Opakovat&lt;/f1&gt; Seznam, &lt;f2&gt;- none -&lt;/f2&gt; se změní na &lt;f3&gt;- uživatelsky definovatelné - &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on editing print ranges, see Chapter 6, Printing, Exporting, E-mailing, and Signing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o úpravách tiskové rozsahy, viz kapitola 6, tisk, export, e-mailing, a podepisování, ve &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;38&lt;/seq0&gt;: Edit Print Ranges dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;38 &lt;/seq0&gt;: Edit Print dialog rozsahy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>While defining a print range can be a powerful tool, it may sometimes be necessary to manually adjust the Calc printout manually using a manual or page break.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zatímco definuje rozsah tisku může být mocným nástrojem, může být někdy nutné ručně upravit Calc výtisk ručně pomocí ruční nebo konec stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A page break helps to ensure that &lt;t0/&gt;the data prints properly according to the page size and page orientation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zlom stránky pomáhá zajistit, aby &lt;t0 /&gt; datové vytiskne správně v závislosti na velikosti stránky a orientace stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on manual breaks, see Chapter 6, Printing, Exporting, E-mailing, and Signing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o manuálních přestávky, viz kapitola 6, tisk, export, e-mailing, a podpis, v &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Insert Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;List&gt; Vložit konec stránky&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f1&gt;Column Break&lt;/f1&gt; to create a page break to the left of the selected cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte &lt;f1&gt;zalomení sloupce&lt;/f1&gt; vytvořit konec stránky vlevo od vybrané buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Delete Page Break&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;List&gt; Delete Konec stránky&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Row Break&lt;/f0&gt; or &lt;f1&gt;Column Break&lt;/f1&gt; as needed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Row Přestávka&lt;/f0&gt; nebo &lt;f1&gt;Column break&lt;/f1&gt; podle potřeby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on setting and defining headers and footers, see Chapter 6, Printing, Exporting, E-mailing, and Signing, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Více informací o nastavení a definování záhlaví a zápatí, viz kapitola 6, tisk, export, e-mailového a podepisování, ve &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on page styles in Calc, see Chapter 4, Using Styles and Templates, in the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o stylů stránky v Calcu, viz kapitola 4, Používání stylů a šablony, ve &lt;f0&gt;Calc Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select to the sheet that you want to set the header or footer for.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte v listu, který chcete nastavit záhlaví nebo zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Page&lt;/f0&gt; on the Menu bar to open the Page Style dialog (Figure &lt;t1&gt;39&lt;/t1&gt;) and select the &lt;f2&gt;Header&lt;/f2&gt; or &lt;f3&gt;Footer&lt;/f3&gt; tab (Figure &lt;f4&gt;&lt;t5&gt;39&lt;/t5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Formát&gt; Stránka&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Styl stránky (viz obrázek &lt;t1&gt;39 &lt;/t1&gt;) a vyberte &lt;f2&gt;Hlavička&lt;/f2&gt; nebo &lt;f3&gt;Zápatí&lt;/karta f3&gt; (obr &lt;f4&gt;&lt;t5&gt; 39&lt;/t5&gt; &lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Same content on left and right pages&lt;/f0&gt; if you want the same header or footer to appear on all the printed pages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte &lt;f0&gt;Stejný obsah vlevo a vpravo stránek&lt;/f0&gt; Pokud chcete stejné záhlaví nebo zápatí na všech výtiscích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also select &lt;f0&gt;AutoFit height&lt;/f0&gt; to automatically adjust the height of the header or footer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si také vybrat &lt;f0&gt;Přizpůsobit výšku&lt;/f0&gt; automaticky nastavit výšku záhlaví nebo zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the appearance of the header or footer, click on &lt;f0&gt;More&lt;/f0&gt; to open the Border / Background dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit vzhled záhlaví nebo zápatí, klepněte na tlačítko &lt;f0&gt;Více&lt;/f0&gt; otevřete dialogové okno Border / pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To set the contents, for example page number, date and so on, that appear in the header or footer, click &lt;f0&gt;Edit&lt;/f0&gt; to open the Header (or Footer) dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li nastavit obsah, na počtu příklad stránky, datum a tak dále, které se objeví v záhlaví nebo zápatí, klepněte na tlačítko &lt;f0&gt;dialog Upravit&lt;/f0&gt; otevřít záhlaví (nebo zápatí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;39&lt;/seq0&gt;: Header tab of Page Style dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;39 &lt;/seq0&gt;: karta Hlavička dialog Page Style</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

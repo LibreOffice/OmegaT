@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer provides many methods to format tables and the contents of cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer poskytuje mnoho metod k formátování tabulek a obsahu buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refer to Chapter 13, Tables of Data, in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 13, tabulky dat, v &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 10, Printing, Exporting, E-mailing, and Signing Documents, in this book and Chapter 7 in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details on previewing pages before printing, selecting print options, printing in black and white on a color printer, printing brochures, and other printing features.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 10, tisk, export odesílání e-mailů, a podepisování dokumentů, v této knize a v kapitole 7 v části &lt;f0&gt;Writer Guide&lt;/f0&gt; Podrobnosti o náhledu stránky před tiskem, výběrem možností tisku, tisk v černé a bílé na barevné tiskárně, tisk brožur a dalších funkcí tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 10 also covers exporting a Writer document to PDF (Portable Document Format) or EPUB (a popular e-book format).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 10 zahrnuje také export Writer dokument do PDF (Portable Document Format) nebo EPUB (populární e-book formátu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All these features use data from a Writer table or another registered data source (a spreadsheet or database containing name and address records or other information).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechny tyto funkce používají data z Writer tabulky nebo jiného registrovaného zdroje dat (tabulkového procesoru nebo databáze název, který obsahuje i adresy záznamů nebo jiných informací).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 14 in the &lt;f0&gt;Writer Guide&lt;/f0&gt; describes the merge processes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 14 v &lt;f0&gt;Writer Guide&lt;/f0&gt; popisuje slučovací procesy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Recommended) Use Writer’s change marks (often &lt;i0/&gt;&lt;i1/&gt;called “redlines” or “revision marks”) to show where you have added or deleted material, or changed formatting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>změna znaménka (doporučeno) Použití Spisovatele (často &lt;i0 /&gt; &lt;i1 /&gt; s názvem „Redlines“ nebo „revizní značky“), které ukazují, kde jste přidali nebo odstraněn materiál, nebo ke změně formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f2&gt;Edit &gt; Track Changes &gt; Record&lt;/f2&gt; before starting to edit.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f2&gt;Úpravy&gt; Sledování změn&gt; Record&lt;/f2&gt; před zahájením úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f3&gt;Edit &gt; Track Changes &gt; Show&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f3&gt;Úpravy&gt; Sledování změn&gt; Zobrazit &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on an individual change and choose &lt;f4&gt;Accept Change&lt;/f4&gt; or &lt;f5&gt;Reject Change&lt;/f5&gt; from the context menu, or choose &lt;f6&gt;Edit &gt; Track Changes &gt; Manage&lt;/f6&gt; to view the list of changes and accept or reject them.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na jednotlivé změny a zvolte &lt;f4&gt;Přijmout změny&lt;/f4&gt; nebo &lt;f5&gt;Odmítnout Změnit&lt;/f5&gt; z kontextového menu, nebo zvolte &lt;f6&gt;Úpravy&gt; Sledování změn&gt; Správa&lt;/f6&gt; do zobrazení seznam změn a přijmout nebo odmítnout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details are in Chapter 3, Working with Text: Advanced, in the &lt;f7&gt;Writer Guide&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnosti jsou uvedeny v kapitole 3, Práce s textem: Advanced, v &lt;f7&gt;Writer Guide &lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A document with track changes activated but with the changes not shown carries an invisible history of document editing that the current user may not be aware of.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dokument s sledování změn aktivována, ale se změnami, které nejsou znázorněny nese neviditelné historie úprav dokumentu, že aktuální uživatel nemusí být vědomi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>While this is a feature, it is also a potential privacy risk.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>I když se jedná o funkce, to je také potenciální riziko soukromí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use them for data that changes (such as the current date or the total number of pages) and for inserting document properties such as name, author, and date of last update.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete je použít pro data, která změny (například aktuální datum nebo celkového počtu stran) a pro vkládání vlastnosti dokumentu, jako je jméno, autora a datum poslední aktualizace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fields are the basis of cross-referencing (see below); automatic numbering of figures, tables, headings, and other elements; and a wide range of other functions—too many to describe here.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pole jsou základem vzájemného odkazování (viz níže); automatické číslování obrázků, tabulek, záhlaví a dalších prvků; a celou řadu dalších funkcí, příliš mnoho popisovat zde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 17, Fields, in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for details.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 17, pole, v &lt;f0&gt;Writer Guide&lt;/f0&gt; další podrobnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you manually type in cross-references to other parts of a document, those references can easily get out of date if you reorganize the order of topics, add or remove material, or reword a heading.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud ručně zadat křížových odkazů na jiné části dokumentu, mohou tyto odkazy snadno dostat zastaralé, pokud reorganizovat pořadí témat, přidávat nebo odebírat materiál, nebo přeformulovat záhlaví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writer provides two ways to ensure that your references are up to date: hyperlinks and cross-references.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Writer nabízí dva způsoby, jak zajistit, že vaše odkazy jsou aktuální: hypertextové odkazy a křížové odkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Both methods insert links to other parts of the same document or to an external source, taking you directly to the cross-referenced item.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obě metody vkládání odkazů na jiné části stejného dokumentu nebo k externímu zdroji, která vás přímo na cross-odkazováno položky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, they have major differences:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mají však velké rozdíly:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The text in a hyperlink does not automatically update if you change the text of the linked item (although you can change it manually), but changed text does automatically update in a cross-reference.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Text v hypertextový odkaz automaticky neaktualizuje, pokud změníte text propojené položky (i když jej můžete změnit ručně), ale změněný text se automaticky aktualizují v křížovém odkazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When using a hyperlink, you do not have a choice about the type of content linked to (such as text or page number), but when using a cross-reference, you have several choices, including bookmarks.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při použití hypertextového odkazu, nemáte na výběr o typu obsahu spojené (například text nebo číslo stránky), ale při použití křížový odkaz, máte několik možností, včetně záložek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To hyperlink to an object such as a graphic, and have the hyperlink show useful text such as &lt;f0&gt;Figure 6&lt;/f0&gt;, you need to give such an object a useful name (instead of a default name like Graphics6), or use the Hyperlink dialog to modify the visible text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li hypertextový odkaz na objekt, jako je grafika, a mají hyperlink ukázat užitečnou text, například &lt;f0&gt;Obrázek 6 &lt;/f0&gt;, budete muset dát takový objekt užitečnou název (namísto výchozí název jako Graphics6), nebo pomocí dialogového okna hypertextový odkaz upravit zobrazený text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In contrast, cross-references to figures with captions can automatically show useful text, and you have a choice of several variations of the name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na rozdíl od křížové odkazy na obrázky s titulky mohou automaticky zobrazovat užitečný text, a máte na výběr z několika variant názvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Both remain active when the document is exported to PDF.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Oba zůstanou aktivní, když je dokument exportován do formátu PDF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 12, Creating Web Pages/HTML Files, for details on creating hyperlinks within a document and to other documents and websites.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 12, tvorba www stránek souborů / HTML, Podrobnější informace o vytvoření hypertextových odkazů v rámci dokumentu nebo na jiné dokumenty a webové stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Cross-references&lt;/f0&gt; tab of the Fields dialog lists some items, such as &lt;i1/&gt;headings, bookmarks, figures, tables, or numbered items such as steps in a procedure.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;f0&gt;křížové odkazy&lt;/f0&gt; karta seznamů v dialogovém Fields některé položky, jako například &lt;i1 /&gt; nadpisy, záložky, obrázky, tabulky nebo číslované položky, jako jsou kroky v procesu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also create your own reference items; see “Setting References” in Chapter 17, Fields, in the &lt;f2&gt;Writer Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si také vytvořit svůj vlastní referenční položky; viz „Nastavení reference“ v kapitole 17, Fields, v &lt;f2&gt;Writer Guide &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To &lt;i0/&gt;insert a cross-reference:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K &lt;i0 /&gt; vložka křížový odkaz:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the document, place the cursor where you want the cross-reference to appear.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dokumentu, umístěte kurzor tam, kde chcete zobrazit cross-reference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f1&gt;Cross-references&lt;/f1&gt; tab (Figure &lt;t2&gt;28&lt;/t2&gt;), in the &lt;f3&gt;Type&lt;/f3&gt; list, select the type of item to be referenced (for example, &lt;f4&gt;Headings&lt;/f4&gt; or &lt;f5&gt;Figure&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na kartě &lt;f1&gt;Křížové odkazy&lt;/f1&gt; (Obrázek &lt;t2&gt;28 &lt;/t2&gt;), v části &lt;f3&gt;Typ&lt;/f3&gt; seznamu vyberte typ položky, která má být odkazovaný (například &lt; f4&gt;Nadpisy&lt;/f4&gt; nebo &lt;f5&gt;Obr &lt;/f5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can type some characters in the top box under &lt;f1&gt;Selection&lt;/f1&gt; to filter the list in the selection box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete zadat některé znaky v horní skříňce pod &lt;f1&gt;Selection&lt;/f1&gt; filtrovat seznam ve výběrovém poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Insert reference to&lt;/f0&gt; list, select the option needed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Vložit odkazem na&lt;/f0&gt; seznamu vyberte možnost zapotřebí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The options determine the text inserted for the hyperlink and how it is formatted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto volby určují text vložený na hypertextový odkaz a jak je naformátován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The list varies according to the &lt;f1&gt;Type&lt;/f1&gt; chosen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento seznam se liší v závislosti na &lt;f1&gt;typ&lt;/f1&gt; zvolené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most commonly used options are &lt;f2&gt;Reference&lt;/f2&gt; (to insert the full text of a heading or caption), &lt;f3&gt;Category and Number&lt;/f3&gt; (to insert a figure number preceded by the word Figure or Table, but without the caption text), &lt;f4&gt;Numbering&lt;/f4&gt; (to insert only the figure or table number, without the word Figure or Table), or &lt;f5&gt;Page&lt;/f5&gt; (to insert the number of the page the referenced text is on).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejčastěji používané volby jsou &lt;f2&gt;Reference&lt;/f2&gt; (vložit celý text nadpisu nebo titulku), &lt;f3&gt;Kategorie a číslo&lt;/f3&gt; (vložit číslo obrázku předchází slova obrázku či tabulky, ale bez textu titulku), &lt;f4&gt;Číslování&lt;/f4&gt; (vložit pouze na obrázku, nebo číslo tabulky, bez slova obrázek či tabulka), nebo &lt;f5&gt;stránka&lt;/f5&gt; (vložit číslo z stránka je odkazovaný text je zapnuto).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f6&gt;Insert&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f6&gt;Vložit &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can leave this dialog open while you insert many cross-references.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete zanechat tento dialog otevřený při vkládání mnoho křížové odkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use bookmarks to rapidly navigate or link to specific locations in a document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte záložky do rychle navigovat nebo odkaz na konkrétní místa v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are listed in the Navigator and can be accessed directly from there with a single mouse click.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jsou uvedeny v navigátoru a lze přistupovat přímo odtud s jediným kliknutím myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To create a bookmark:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro vytvoření záložky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type a name for this new bookmark in the top box, and then click &lt;f1&gt;Insert&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte název pro tuto novou záložku v pravém horním poli a potom klepněte na tlačítko &lt;f1&gt;Vložit &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A master document joins separate text documents into one larger document, and unifies the formatting, table of contents, bibliography, index, and other tables or lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní dokument připojí samostatné textové dokumenty do jednoho většího dokumentu a sjednocuje formátování obsahu, bibliografie, rejstříku a jiných tabulek nebo seznamů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Master documents are typically used for producing long documents such as a book, thesis, or long report.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní dokumenty jsou obvykle používány pro výrobu dlouhých dokumentů, jako jsou knihy, práce, nebo dlouhé zprávy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They are especially handy when different people are writing different sections of a document, eliminating the need to continually share the full document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Oni jsou zvláště užitečné, když jsou různí lidé psát různé části dokumentu, což eliminuje potřebu neustále sdílet celý dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details on using master documents, see Chapter 16 in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobné informace o použití hlavních dokumentů, viz kapitola 16 v &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add master document templates to LibreOffice in the same way as ordinary document templates.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat šablony Hlavní dokument na LibreOffice stejným způsobem jako obyčejné šablon dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating a new document based on a master document template creates a master document with the same initial content as the template it is based upon.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvoření nový dokument založený na šabloně hlavního dokumentu vytvoří hlavní dokument se stejným počátečním obsahem jako šablony je na základě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Document classification and security are important for businesses and governments.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>třídění a zabezpečení dokumentů jsou důležité pro podniky a vlády.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Where sensitive information is exchanged between users and organizations, the parties agree how such information will be identified and handled.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tam, kde je citlivé informace vyměňované mezi uživateli a organizacemi, se strany dohodnou, jakým způsobem budou tyto informace označeny a řešeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice provides standardized means for sensitive information to be identified and protected, using a set of standard fields that can be used to hold sensitive information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice poskytuje standardizované prostředky pro citlivé informace, které mají být identifikovány a chráněny pomocí sady standardních polí, které lze použít k držení citlivých informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice implemented the open standards produced by TSCP (Transglobal Secure Collaboration Participation, Inc.).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice implementovány otevřené standardy produkované TSCP (Transglobal Secure Collaboration Participation, Inc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It contains three BAF (Business Authentication Framework) categories: Intellectual Property, National Security and Export Control.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obsahuje tři BAF (Business Authentication Framework) Kategorie: duševní vlastnictví, národní bezpečnost a kontrolu vývozu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each category has four BAILS (Business Authorization Identification and Labeling Scheme) levels: Non-Business, General Business, Confidential, and Internal Only.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každá kategorie má čtyři balls (Business autorizační identifikaci a označování schéma) úrovně: nepodnikatelské, všeobecné obchodní, důvěrné a pouze pro interní použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To enable document classification, open the TSCP bar (&lt;f0&gt;View &gt; Toolbars &gt; TSCP Classification&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro klasifikaci dokumentů, otevřete TSCP bar (&lt;f0&gt; Zobrazit&gt; Panely nástrojů&gt; TSCP Klasifikace &lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This toolbar contains list boxes to help in selecting the security of the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento panel obsahuje seznamy pro pomoc při výběru zabezpečení dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice then adds custom fields in the document properties (&lt;f1&gt;File &gt; Properties, &lt;/f1&gt;&lt;f2&gt;Custom Properties&lt;/f2&gt; tab) to store the classification policy as document metadata.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice pak přidává vlastní pole ve vlastnostech dokumentu (&lt;f1&gt; Soubor&gt; Vlastnosti&lt;/f1&gt; &lt;f2&gt;Uživatelské vlastnosti &lt;/tab f2&gt;) pro uložení klasifikace politiku jako metadata dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To prevent a breach in security policy, contents with a higher classification level cannot be pasted into documents with a lower classification level.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aby nedošlo k porušení v bezpečnostní politice, obsah s vyšším stupněm utajení nelze vložit do dokumentů s nižším stupněm utajení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In a standard text document, such as a report, any text can be edited.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve standardním textovém dokumentu, jako je například zpráva, libovolný text lze upravovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By contrast, a form has sections that are not to be edited, and other sections that are designed for the reader to fill in information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Naproti tomu forma má oddíly, které nemají být editovány a další části, které jsou určeny pro čtenáře k vyplnění informací.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Split screen example</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;17 &lt;/seq0&gt;: Split příklad obrazovky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are two ways to split a screen horizontally or vertically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Existují dva způsoby, jak rozdělit obrazovku vodorovně nebo svisle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To split &lt;f0&gt;either&lt;/f0&gt; horizontally or vertically:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro rozdělení &lt;f0&gt;buď&lt;/f0&gt; vodorovně nebo svisle:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Similarly, for a &lt;f0&gt;vertical&lt;/f0&gt; split, click on the thick black line at the right of the horizontal scroll bar and drag the split line to the right of the column where you want the vertical split positioned.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podobně, po &lt;f0&gt;vertikální&lt;/f0&gt; Split, klikněte na tlustou černou čárou na pravé straně vodorovného posuvníku a táhněte rozdělit čáru na pravé straně sloupce, kam chcete vertikální rozdělení umístěnou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;18 &lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Split screen bars</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozdělená obrazovka tyče</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click on each split line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dvojitým kliknutím na každé dělící linie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on and drag the split lines back to their default positions at the ends of the scroll bars.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na a tažením dělené čáry zpět do výchozích pozic na koncích posuvníků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselect &lt;f1&gt;Split Window&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Zobrazit&lt;/f0&gt; na panelu nabídek a zrušte &lt;f1&gt;Split Window &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on a column or row heading and deselect &lt;f0&gt;Split Window&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na sloupec nebo řádek záhlaví a zrušte &lt;f0&gt;Split Window&lt;/f0&gt; v kontextové nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most data entry in Calc can be done using the keyboard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Most zadávání dat v Calcu lze provést pomocí klávesnice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The result for both methods of entry will be the same, –1234.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výsledkem obou metod vstupu bude stejný, -1234.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a number is entered with leading zeroes, for example 01481, by default Calc will drop the leading zero.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li zadané číslo s nulami, například 01481, standardně Calc klesne úvodní nulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To retain a minimum number of characters in a cell when entering numbers and retain the number format, for example 1234 and 0012, use one of these methods to add leading zeroes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Udržet minimální počet znaků v buňce, při zadávání čísel a udržet číselný formát, například 1234 a 0012, pomocí jedné z těchto metod se přidat počáteční nuly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the cell selected, right-click on the cell, select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog (Figure &lt;t3&gt;19&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>S vybranými buňky, klepněte pravým tlačítkem myši na buňku, vyberte &lt;f0&gt;Formát buněk&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;Formát&gt; Cells&lt;/f1&gt; na liště menu, nebo použijte klávesovou zkratku &lt;f2&gt;Ctrl + 1 &lt;/f2&gt;, otevřít Formát buněk dialog (obr &lt;t3&gt;19 &lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Format Cells dialog – Numbers tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;19 &lt;/seq0&gt;: Dialog Formátování buněk - záložka Numbers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure the &lt;f0&gt;Numbers&lt;/f0&gt; tab is selected, then select &lt;f1&gt;Number&lt;/f1&gt; in the &lt;f2&gt;Category&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že &lt;f0&gt;je vybrána karta Numbers &lt;/f0&gt;, vyberte &lt;f1&gt;číslo&lt;/f1&gt; V &lt;f2&gt;Kategorie&lt;/f2&gt; Seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Leading zeroes&lt;/f0&gt; field within the &lt;f1&gt;Options&lt;/f1&gt; area, enter the minimum number of characters required.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V úvodní nuly&lt;/f0&gt; poli &lt;f0&gt;v rámci &lt;f1&gt;Možnosti&lt;/f1&gt; oblasti, zadejte minimální počet požadovaných znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any number less than four characters will have leading zeroes added, for example 12 becomes 0012.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakékoliv číslo menší než čtyři znaky budou mít přidané nuly na začátku, například 12 se označuje 0012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Sidebar, go to the Properties deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V postranním panelu, přejděte na palubu Vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If necessary, click the Open Panel icon (+ or arrow) by &lt;f0&gt;Number Format&lt;/f0&gt; to open that panel (Figure &lt;f1&gt;&lt;t2&gt;20&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je to nutné, klikněte na ikonu Otevřít panelu (+ nebo šipka) pomocí &lt;f0&gt;Formát čísel&lt;/f0&gt; otevřít tento panel (Obr &lt;f1&gt;&lt;t2&gt; 20&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Number&lt;/f0&gt; in the category drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte &lt;f0&gt;číslo&lt;/f0&gt; V kategorii rozevírací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Set the &lt;f0&gt;Leading zeroes&lt;/f0&gt; value box to 4.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavte &lt;f0&gt;nulami&lt;/f0&gt; hodnota pole 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Set leading zeroes in Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;20 &lt;/seq0&gt;: Nastavení nuly na začátku v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To format numbers with only decimal places, but without a leading zero (for example, 019 instead of 0.019), then in the &lt;f0&gt;Format code&lt;/f0&gt; box (Figure &lt;f1&gt;&lt;t2&gt;19&lt;/t2&gt;&lt;/f1&gt;), type a .</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formátovat čísla pouze s desetinná místa, ale bez úvodní nuly (například 019 namísto 0,019), pak v &lt;f0&gt;Formát code&lt;/f0&gt; box (Obr &lt;f1&gt;&lt;t2&gt; 19&lt;/t2&gt; &lt;/f1&gt;), typ a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(period or full stop) followed by ?</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>(Období nebo tečka) následovaný?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(question marks) to represent the number of decimal places required.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>(Otazníky) reprezentovat počet desetinných míst potřebných.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, for 3 decimal places, type .???</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například pro 3 desetinná místa, psát.???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>a klikněte na &lt;f3&gt;OK &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any number with only decimal places will then have no leading zero.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Libovolný počet se jen desetinných míst pak bude mít žádný úvodní nulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If numerical characters do not need to be treated as numbers in calculations (for example when entering zip codes), you can type an apostrophe (') before the number, for example '01481.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud číselné znaky nemusí být zacházeno jako s čísly při výpočtech (například při zadávání poštovní směrovací čísla), můžete zadat apostrof ( ‚) před číslem, například‘ 01481.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you move the cell focus, the apostrophe is removed, the leading zeroes are retained, and the number is converted to left-aligned text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při přesunutí fokusu buňky, apostrof je odstraněn, vedoucí nuly jsou zachovány, a číslo se převede na textů zarovnaných vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the cell selected, right-click on the cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Cells&lt;/f1&gt; on the Menu bar, or use the keyboard shortcut &lt;f2&gt;Ctrl+1&lt;/f2&gt;, to open the Format Cells dialog (Figure &lt;t3&gt;19&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>S vybranými buňky, klepněte pravým tlačítkem myši na buňku a vyberte &lt;f0&gt;Formát buněk&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;Formát&gt; Cells&lt;/f1&gt; na liště menu, nebo použijte klávesovou zkratku &lt;f2&gt;Ctrl + 1 &lt;/f2&gt;, otevřít Formát buněk dialog (obr &lt;t3&gt;19 &lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change this feature in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Formula&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tuto funkci &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Calc&gt; Formule&lt;/f0&gt; můžete změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In &lt;f1&gt;Detailed Calculation Settings&lt;/f1&gt;, select &lt;f2&gt;Custom (conversion of text to numbers and more)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f1&gt;podrobný výpočet Nastavení &lt;/f1&gt;, vyberte &lt;f2&gt;Custom (převod textu k číslům a více) &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f3&gt;Details&lt;/f3&gt; button, and then select the proper treatment in the pop-up dialog (&lt;f4&gt;Conversion from text to number&lt;/f4&gt; drop-down list).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f3&gt;tlačítko Podrobnosti&lt;/f3&gt; a vyberte správnou léčbu v dialogovém okně pop-up (&lt;f4&gt; Převod z textu na číslo&lt;/f4&gt; rozevíracího seznamu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click and select &lt;f0&gt;Insert Field &gt; Date&lt;/f0&gt;, or &lt;f1&gt;Sheet Name&lt;/f1&gt;, or &lt;f2&gt;Document Title&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši a vyberte &lt;f0&gt;Insert field&gt; Datum&lt;/f0&gt; nebo &lt;f1&gt;název listu&lt;/f1&gt; nebo &lt;f2&gt;dokumentu název&lt;/f2&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Insert Field &gt; Document Title&lt;/f0&gt; command inserts the name of the spreadsheet and not the title defined in the &lt;f1&gt;Description&lt;/f1&gt; tab in the Properties dialog for the file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;f0&gt;Vložit Field&gt; Název dokumentu&lt;/f0&gt; příkaz vložek je uveden název tabulky a nikoli název definované v &lt;f1&gt;Popis&lt;/karta f1&gt; v dialogovém okně Vlastnosti souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The fields are refreshed when the spreadsheet is saved or recalculated when using the &lt;f0&gt;Ctrl+Shift+F9&lt;/f0&gt; shortcut.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pole jsou aktualizovány, když je tabulka uložit nebo přepočítány při použití &lt;f0&gt;Ctrl + Shift + F9&lt;/f0&gt; Zástupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the autocorrect options, go to &lt;f0&gt;Tools &gt; AutoCorrect Options&lt;/f0&gt; on the Menu bar to open the AutoCorrect dialog (Figure &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit Možnosti automatických oprav, přejděte na &lt;f0&gt;Nástroje&gt; Možnosti automatických oprav&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Automatické opravy (obrázek &lt;t1&gt;21 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replace tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>kartu vyměnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the replacement table for automatically correcting or replacing words or abbreviations.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upravit tabulku náhrad pro automatické opravy nebo nahrazení slova nebo zkratky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See also “&lt;f2&gt;&lt;bf3&gt;AutoInput tool&lt;/bf3&gt;&lt;/f2&gt;” below.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz také „&lt;f2&gt; &lt;bf3&gt;AutoInput nástroj&lt;/bf3&gt; &lt;/f2&gt;“ níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: AutoCorrect dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;21 &lt;/seq0&gt;: automatických dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most basic ability is to drag and drop the contents of one cell to another with a mouse.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejzákladnější schopnost je přetáhnout obsah jedné buňky do druhé s myší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They include the Fill tool, Selection lists, and the ability to input information into multiple sheets of the same document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Patří mezi ně výplň, seznamy selekci a možnost zadávat informace do více listů stejného dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The AutoInput tool in Calc automatically completes entries, based on other entries in the same column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroj AutoInput v Calcu automaticky dokončí položky, založený na jiné položky ve stejném sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When text is highlighted in a cell, AutoInput can be used as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když je zvýrazněný text v buňce, AutoInput lze použít takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To accept the completion, press &lt;f0&gt;Enter,&lt;/f0&gt; or &lt;f1&gt;F2,&lt;/f1&gt; or click the mouse button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přijmout dokončení stiskněte &lt;f0&gt;Enter&lt;/f0&gt; nebo &lt;f1&gt;F2,&lt;/f1&gt; nebo klepnutím na tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To view more completions, use the key combinations &lt;f0&gt;Ctrl+Tab&lt;/f0&gt; to scroll forward, or &lt;f1&gt;Ctrl+Shift+Tab&lt;/f1&gt; to scroll backward.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit další doplnění v pomocí kombinace kláves &lt;f0&gt;Ctrl + Tab&lt;/f0&gt; rolovat dopředu, nebo &lt;f1&gt;Ctrl + Shift + Tab&lt;/f1&gt; posouvat dozadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To see a list of all available AutoInput text items for the current column, use the keyboard combination &lt;f0&gt;Alt+Down Arrow&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit seznam všech dostupných AutoInput textové položky pro aktuální sloupec, pomocí kombinace kláves &lt;f0&gt;Alt + šipka dolů &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When typing formulas using characters that match previous entries, a Help tip will appear listing the last ten functions used in the Function Wizard from all defined range names and from the content of all label ranges.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při psaní vzorců pomocí znaků, které odpovídají předchozí položky, bude tip nápovědy zobrazí seznam posledních deset funkce použité v Průvodci funkcí ze všech definovaných názvů rozsahu az obsahu všech etiket rozsahů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AutoInput ignores the case sensitivity of any data you enter.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>AutoInput ignoruje citlivost případě jakýchkoliv údajů, které zadáte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, AutoInput is activated in Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení AutoInput je aktivována v aplikaci Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you select the &lt;f0&gt;AutoFill&lt;/f0&gt; option on the Fill Series dialog, type some text in the &lt;f1&gt;Start value&lt;/f1&gt; field, and press &lt;f2&gt;OK&lt;/f2&gt;, Calc will check if one of your predefined sort lists contains that text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberete-li &lt;f0&gt;Předvyplnění&lt;/f0&gt; možnost v dialogovém okně Series výplně, zadejte nějaký text v &lt;f1&gt;hodnotě Začátek&lt;/f1&gt; pole a stiskněte &lt;f2&gt;OK &lt;/f2&gt;, Calc zkontroluje, zda jeden z vašich předdefinovaných seznamů třídění obsahuje tento text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If there is a sort list containing that text, Calc uses the entries in that sort list to fill cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li seznam seřadit obsahující tento text, Calc používá položky na tomto seznamu třídění zaplnit buňkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f3&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Sort Lists&lt;/f3&gt; to view your currently defined sort lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f3&gt;Nástroje&gt; Možnosti&gt; LibreOffice Calc&gt; Uspořádat seznamy&lt;/f3&gt; k zobrazení aktuálně definované seznamy řazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 2, Entering, Editing, and Formatting Data, in the &lt;f0&gt;Calc Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 2, vstupující, editaci a formátování dat, ve &lt;f0&gt;Calc Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To delete only the data in a cell or range of cells, without deleting any of the cell formatting, select the cells and then press the &lt;f0&gt;Delete&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odstranit pouze data v buňce nebo oblasti buněk, bez odstranění buňky formátování, vyberte požadované buňky a stiskněte &lt;f0&gt;Odstranit&lt;/f0&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To completely delete cells, rows, or columns, see the instructions on page &lt;f0&gt;&lt;bf1&gt;19&lt;/bf1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zcela odstranit buňky, řádky nebo sloupce, viz pokyny na straně &lt;f0&gt;&lt;bf1&gt; 19&lt;/bf1&gt; &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use &lt;f0&gt;Edit &gt; Cell Edit Mode&lt;/f0&gt; on the Menu bar to put the cell in edit mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také použít &lt;f0&gt;Upravit&gt; Cell Edit Mode&lt;/f0&gt; na panelu nabídek dát buňku do režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single-click to select the cell, then move the cursor to the &lt;f0&gt;Input line&lt;/f0&gt; on the Formula bar and click at the position where you want to start editing data in the cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jednoduchým kliknutím vyberte buňku, přesuňte kurzor na &lt;f0&gt;linkový vstup&lt;/f0&gt; na řádku vzorců a klepněte v místě, kde chcete začít upravovat data v buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you have finished, click away from the cell to deselect it and save the changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když jste hotovi, klikněte pryč od buňky jej zrušte zaškrtnutí a uložení změn.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
