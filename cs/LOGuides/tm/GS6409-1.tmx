@@ -1,0 +1,3287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In  color blue bold "isosceles" "triangles, the base angles are equal"</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V barevné modré tučně „rovnoramenného“ „trojúhelníky základnové úhly jsou rovny“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>creates the following text in a formula</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vytvoří následující text vzorec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice Math does not have a command for aligning formulas on a particular character.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice Math nemá příkaz pro zarovnání vzorců na konkrétním charakteru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can reduce the spacing on each side of the equals sign if you change the inter-column spacing of the matrix.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete snížit odstup na obou stranách rovnítka při změně mezery mezi sloupce matice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;f0&gt;&lt;bf1&gt;Adjusting formula spacing&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;21&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;for &lt;/f4&gt;more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;f0&gt; &lt;bf1&gt;Úprava vzorec odstup&lt;/bf1&gt; &lt;/f0&gt;“ na straně &lt;f2&gt;&lt;bf3&gt; 21&lt;/bf3&gt; &lt;/f2&gt; &lt;f4&gt;&lt;s5 /&gt; k&lt;/f4&gt; více informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the font size used for a formula already inserted in Math or another LibreOffice component:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro změnu velikosti písma použitého pro vzorec již vložena do Math nebo jiné součásti LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; uložte změny a zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An example result when you change font size is shown below.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jako příklad výsledku při změně velikosti písma je uveden níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default font size 12pt:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výchozí velikost písma 12pt:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the Font Sizes dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; uložte změny a zavřete dialog velikostí písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have already inserted formulas into your document and you change the default font size, only formulas inserted after the change in default font size will use the new default settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste již vložili vzorců do dokumentu a změnit výchozí velikost písma, bude jen formule vkládají po změně výchozí velikosti písma použít nové výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You have to individually change the font size of formulas already inserted if you want these formulas to use the same font size as the default settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Budete muset individuálně změnit velikost písma vzorců již vložených, pokud chcete tyto vzorce použít stejnou velikost písma jako výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There is an extension “Formatting of All Math Formulas” that allows you to change font name and font size for all or only for selected formulas in your document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K dispozici je rozšíření „Formátování Všech matematické vzorce“, která vám umožní změnit název písma a velikost písma pro všechny nebo jen pro vybrané vzorců v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can download it from the official extension site: &lt;a0&gt;https://extensions.libreoffice.org/extensions/formatting-of-all-math-formulas&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si jej stáhnout z oficiálních rozšíření site: &lt;a0&gt;https://extensions.libreoffice.org/extensions/formatting-of-all-math-formulas &lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Font Sizes dialog (Figure &lt;f0&gt;&lt;t1&gt;7&lt;/t1&gt;&lt;/f0&gt;) specifies the font sizes for your formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>The velikosti písma dialogové okno (viz obrázek &lt;f0&gt;&lt;t1&gt; 7&lt;/t1&gt; &lt;/f0&gt;) určuje velikost písma pro vaše vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a base size and all elements of the formula will be scaled in relation to this base.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte základní velikost a všechny prvky obecného vzorce bude zmenšen vzhledem k této základně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Base size&lt;/f0&gt; – all elements of a formula are proportionally scaled to the base size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Základní velikost&lt;/f0&gt; - všechny prvky vzorce jsou úměrně zmenšen na velikost základny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the base size, select or type in the desired point (pt) size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro změnu velikosti základny, vyberte nebo typ v požadovaném bodě (Pt) velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use other units of measure or other metrics, which are then automatically converted to points.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít i jiné jednotky měření nebo jiné metriky, které jsou pak automaticky převedeny na body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, if you enter &lt;f1&gt;1in&lt;/f1&gt; or &lt;f2&gt;1”&lt;/f2&gt;, Math converts the value to 72 pt.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například pokud zadáte &lt;f1&gt;1in&lt;/f1&gt; nebo &lt;f2&gt;1“ &lt;/f2&gt;, Math konvertuje hodnotu 72 bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Relative Sizes&lt;/f0&gt; – in this section, you can determine the relative sizes for each type of element with reference to the base size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; relativní velikosti&lt;/f0&gt; - v této sekci můžete určit relativní velikosti pro každý typ prvku s ohledem na velikost základny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; – select the size for text in a formula relative to the base size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Text&lt;/f0&gt; - zvolení velikosti textu ve vzorci vzhledem k velikosti základny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Indexes&lt;/f0&gt; – select the relative size for the indexes in a formula in proportion to the base size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Indexes&lt;/f0&gt; - vyberte relativní velikost pro indexy ve vzorci v poměru k velikosti základny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Functions&lt;/f0&gt; – select the relative size for names and other function elements in a formula in proportion to the base size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Funkce&lt;/f0&gt; - vyberte relativní velikosti pro jmen a ostatních funkčních prvků ve vzorci v poměru k velikosti základny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Operators&lt;/f0&gt; – select the relative size of the mathematical operators in a formula in proportion to the base size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Provozovatelé&lt;/f0&gt; - vyberte relativní velikost matematických operátorů ve vzorci v poměru k velikosti základny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Limits&lt;/f0&gt; – select the relative size for the limits in a formula in proportion to the base size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Limity&lt;/f0&gt; - zvolit relativní velikost pro omezení ve vzorci v poměru k velikosti základny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Default&lt;/f0&gt; – clicking this button saves any changes as a default for all new formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Výchozí&lt;/f0&gt; - Kliknutím na toto tlačítko se uloží veškeré změny jako výchozí pro všechny nové vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A confirmation message appears before saving any changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazí se potvrzovací zpráva před uložením změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the fonts used for the current formula in Math or another LibreOffice component:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna písma použitá pro aktuální vzorce v Math nebo jiného LibreOffice složky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Fonts&lt;/f0&gt; on the Menu bar to open the Fonts dialog (Figure &lt;f1&gt;&lt;t2&gt;8&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Formát&gt; Fonts&lt;/f0&gt; na panelu nabídek otevřete dialogové Fonts (Obr &lt;f1&gt;&lt;t2&gt; 8&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a new font for each of the various options from the drop-down lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte nové písmo pro každou z různých možností z rozevíracích seznamů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the font you want to use does not appear in the drop-down list, click &lt;f0&gt;Modify&lt;/f0&gt; and select the option from the context menu to open a fonts dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud není font, který chcete použít nezobrazí v rozevíracím seznamu, klikněte na &lt;f0&gt;Upravit&lt;/f0&gt; a vyberte volbu z kontextového menu, otevře se dialogové okno písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the font you want to use and click &lt;f1&gt;OK&lt;/f1&gt; to add it to the drop-down list for that option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte písmo, které chcete použít, a klikněte na tlačítko &lt;f1&gt;OK&lt;/f1&gt; a přidejte ji do rozevíracího seznamu pro tuto možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the Fonts dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; uložte změny a zavřete dialogové okno písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Fonts dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;8 &lt;/seq0&gt;: Dialog Písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the default fonts used for all formulas in Math or another LibreOffice component:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit výchozí písmo používané pro všechny vzorce v matematice nebo jiné součásti LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before inserting any formulas in your document, go to &lt;f0&gt;Format &gt; Fonts&lt;/f0&gt; on the Menu bar to open the Fonts dialog (Figure &lt;f1&gt;&lt;t2&gt;8&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Před vložením nějaké vzorce v dokumentu, přejděte na &lt;f0&gt;Formát&gt; Fonts&lt;/f0&gt; na panelu nabídek otevřete dialogové Fonts (Obr &lt;f1&gt;&lt;t2&gt; 8&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Default&lt;/f0&gt; and confirm your changes to the fonts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Výchozí&lt;/f0&gt; a potvrďte změny písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any formulas created from this point on will use the new font for formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakékoli vzorce vytvořené z této chvíle bude používat nové písmo vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have already inserted formulas into your document and you change the default fonts, only formulas inserted after the change in default fonts will use the new default settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste již vložili vzorců do dokumentu a změnit výchozí písmo, bude jen formule vkládají po změně výchozích písem použít nové výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You have to individually change the font of formulas already inserted if you want these formulas to use the same font as the default settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Budete muset individuálně změnit font vzorců již vložena, pokud chcete tyto vzorce použít stejný font jako výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Defines the fonts that can be applied to formula elements.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Definuje písma, které mohou být použity ke vzorci prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Formula Fonts&lt;/f0&gt; – defines the fonts used for the variables, functions, numbers and inserted text that form the elements of a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Formule písma&lt;/f0&gt; - definuje písma použitá pro proměnné, funkce, čísla a vložený text, které tvoří prvky vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Variables&lt;/f0&gt; – selects the fonts for the variables in your formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Proměnné&lt;/f0&gt; - Výběr písma pro proměnné ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, in the formula x=SIN(y), x and y are variables and will reflect the assigned font.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například ve vzorci x = sin (y), X a Y jsou proměnné a bude odrážet přiřazené písmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Functions&lt;/f0&gt; – selects the fonts for names and properties of functions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Funkce&lt;/f0&gt; - vybere písma pro názvy a vlastnosti funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, the functions in the formula x=SIN(y) are =SIN( ).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například funkce v vzorce x = sin (y), jsou = SIN ().</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Numbers&lt;/f0&gt; – selects the fonts for the numbers in a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; čísla&lt;/f0&gt; - Výběr písma pro čísla ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Text&lt;/f0&gt; – defines the fonts for the text in a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Text&lt;/f0&gt; - určuje písma pro text ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Custom Fonts&lt;/f0&gt; – in this section of the Fonts dialog (Figure &lt;f1&gt;&lt;t2&gt;8&lt;/t2&gt;&lt;/f1&gt;), fonts are defined which format other text components in a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Vlastní písma&lt;/f0&gt; - v této sekci dialogu Písma (Obr &lt;f1&gt;&lt;t2&gt; 8&lt;/t2&gt; &lt;/f1&gt;), písma jsou definovány jakém formátu další textové složky ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The three basic fonts Serif, Sans and Fixed are available.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tři základní písma Serif, Sans a Pevné jsou k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other fonts can be added to each standard installed basic font using the &lt;f3&gt;Modify&lt;/f3&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další písma lze přidat ke každému standardu instalovány základní písmo pomocí &lt;f3&gt;tlačítko Upravit &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Every font installed on a computer system is available for use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý font instalován v počítačovém systému je k dispozici pro použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Serif&lt;/f0&gt; – specifies the font to be used for the font serif format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Patková&lt;/f0&gt; - Určuje písmo, které mají být použity pro formát písma serif.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Serifs are the small "guides" that can be seen, for example, at the bottom of a capital A when the Times serif font is used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Patky jsou malé „průvodci“, které lze vidět například na dně kapitálové A když se použije The Times serif font.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Sans-serif&lt;/f0&gt; – specifies the font to be used for sans font formatting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Sans-serif&lt;/f0&gt; - určuje písmo, které mají být použity pro sans písmo formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Fixed-width&lt;/f0&gt; – specifies the font to be used for fixed font formatting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; s pevnou šířkou&lt;/f0&gt; - Určuje písmo, které mají být použity pro formátování pevné písmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Modify&lt;/f0&gt; – click one of the options from the context menu to access the Fonts dialog, where the font and attributes can be defined for the respective formula and for custom fonts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Upravit&lt;/f0&gt; - klepněte na jednu z možností kontextového menu pro přístup k dialogu Písma, kde může být písmo a atributy definované pro příslušné vzorce a pro vlastní fonty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a new font is selected for a formula, the old font remains in the list alongside the new one and can be selected again.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li zvolen nový font pro vzorec, staré písmo zůstane v seznamu vedle nového a může být znovu zvolen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Variables should be written in &lt;f0&gt;italics&lt;/f0&gt;, so make sure that the &lt;f1&gt;Italic&lt;/f1&gt; option is selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proměnné by měly být v písemné formě &lt;f0&gt;kurzíva &lt;/f0&gt;, takže se ujistěte, že je vybrán &lt;f1&gt;kurzíva&lt;/f1&gt; možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the font you want to use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro písmo, které chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For all other elements, use the basic form of a font.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>U všech ostatních prvků, použijte základní podobu písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The style can be easily altered in the formula itself by using the commands &lt;f2&gt;italic&lt;/f2&gt; or &lt;f3&gt;bold&lt;/f3&gt; to set these characteristics and &lt;f4&gt;nitalic&lt;/f4&gt; or &lt;f5&gt;nbold&lt;/f5&gt; to unset them.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styl lze snadno měnit v samotném vzorci pomocí příkazů &lt;f2&gt;kurzíva&lt;/f2&gt; nebo &lt;f3&gt;tučně&lt;/f3&gt; k nastavení těchto vlastností a &lt;f4&gt;nitalic&lt;/f4&gt; nebo &lt;f5&gt;nbold&lt;/f5&gt; je zrušit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the Spacing dialog (Figure &lt;t0&gt;9&lt;/t0&gt;) to determine the spacing between formula elements.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí mezery dialog (obr &lt;t0&gt;9 &lt;/t0&gt;) k určení vzdálenosti mezi vzorce prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The spacing is specified as a percentage in relation to the defined base size for font sizes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozteč je uvedeno jako procento ve vztahu k definované základní velikosti pro velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Spacing dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;9 &lt;/seq0&gt;: Rozteč dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the spacing used for the current formula in Math or another LibreOffice component:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro změnu rozteče použité pro aktuální vzorce v Math nebo jiného LibreOffice složky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Spacing&lt;/f0&gt; on the Menu bar to open the Spacing dialog (Figure &lt;f1&gt;&lt;t2&gt;9&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Formát&gt; Mezery&lt;/f0&gt; na panelu nabídek otevřete dialogové mezery (obrázek &lt;f1&gt;&lt;t2&gt; 9&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Category&lt;/f0&gt; and select one of the options from the drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Kategorie&lt;/f0&gt; a vyberte jednu z možností z rozbalovacího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The options in the Spacing dialog change according to the category selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Volby v rozestupu dialogu se mění podle vybrané kategorie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter new values for the spacing category and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte nové hodnoty pro kategorii rozteč a klikněte na &lt;f0&gt;OK &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Check the result in your formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zkontrolujte výsledek ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If not to your satisfaction, repeat the above steps.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud tomu tak není k vaší spokojenosti, opakujte výše uvedené kroky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the default spacing used for all formulas in Math or another LibreOffice component:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit výchozí mezery použitý pro všechny vzorce v matematice nebo jiné součásti LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before inserting any formulas in your document, go to &lt;f0&gt;Format &gt; Spacing&lt;/f0&gt; on the Menu bar to open the Spacing dialog (Figure &lt;f1&gt;&lt;t2&gt;9&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Před vložením nějaké vzorce v dokumentu, přejděte na &lt;f0&gt;Formát&gt; Mezery&lt;/f0&gt; na panelu nabídek otevřete dialogové mezery (obrázek &lt;f1&gt;&lt;t2&gt; 9&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter new values for the spacing category.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte nové hodnoty pro kategorii rozteč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Default&lt;/f0&gt; and confirm your changes to the formula spacing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Výchozí&lt;/f0&gt; a potvrdit změny vzorce odstupu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any formulas created from this point on will use the new spacing for formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakékoli vzorce vytvořené z této chvíle bude používat nový mezery pro vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the Spacing dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; uložte změny a zavřete dialogové okno mezery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have already inserted formulas into your document and you change the spacing, only formulas inserted after the change in spacing will use the new default settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste již vložili vzorců do dokumentu a změnit mezery, bude jen formule vkládají po změně odstupu použít nové výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You have to individually change the spacing of formulas already inserted if you want these formulas to use the same spacing as the default settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Budete muset individuálně měnit rozestup vzorců již vložena, pokud chcete tyto vzorce použít stejný odstup jako výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use Category in the Spacing dialog (Figure &lt;f0&gt;&lt;t1&gt;9&lt;/t1&gt;&lt;/f0&gt;) to determine the formula element for which you would like to specify the spacing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kategorie použití v Kosmické dialogu (obr &lt;f0&gt;&lt;t1&gt; 9&lt;/t 1&gt; &lt;/f0&gt;) pro určení vzorec prvek, pro který chcete určit mezery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The appearance of the dialog depends on the selected category.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzhled dialogového okna závisí na zvolené kategorii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A preview window shows you which spacing is modified through the respective boxes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Okna náhledu vám ukáže, které rozteč je modifikován prostřednictvím příslušných boxů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Category&lt;/f0&gt; – pressing this button allows you to select the category for which you would like to change the spacing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Kategorie&lt;/f0&gt; - stisknutím tohoto tlačítka můžete vybrat kategorii, pro kterou chcete změnit mezery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Spacing&lt;/f0&gt; – defines the spacing between variables and operators, between lines, and between root signs and radicals.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Rozteč&lt;/f0&gt; - určuje vzdálenost mezi proměnnými a provozovateli, mezi linkami, a mezi kořenových příznaků a radikály.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Spacing &lt;/f0&gt;– determines the spacing between variables and operators.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Rozteč&lt;/f0&gt; - určuje vzdálenost mezi proměnnými a operátory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Line spacing&lt;/f0&gt; – determines the spacing between lines.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Linková odstup&lt;/f0&gt; - určuje mezery mezi řádky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Root spacing&lt;/f0&gt; – determines the spacing between the root sign and radicals.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Root odstup&lt;/f0&gt; - určuje vzdálenost mezi kořenového znaku a radikály.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Indexes&lt;/f0&gt; – defines the spacing for superscript and subscript indexes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Indexy&lt;/f0&gt; - určuje vzdálenost k horního a dolního indexu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Superscript&lt;/f0&gt; – determines the spacing for superscript indexes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Horní index&lt;/f0&gt; - určuje vzdálenost k horním indexu indexy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Subscript&lt;/f0&gt; – determines the spacing for subscript indexes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; index&lt;/f0&gt; - určuje vzdálenost k dolní index indexy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Fractions&lt;/f0&gt; – defines the spacing between the fraction bar and the numerator or denominator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Frakce&lt;/f0&gt; - určuje vzdálenost mezi tyče frakce a čitatele a jmenovatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Numerator&lt;/f0&gt; – determines the spacing between the fraction bar and the numerator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; čitatel&lt;/f0&gt; - určuje vzdálenost mezi tyče frakce a čitatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Denominator&lt;/f0&gt; – determines the spacing between the fraction bar and the denominator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Jmenovatel&lt;/f0&gt; - určuje vzdálenost mezi tyče frakce a jmenovatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Fraction Bars&lt;/f0&gt; – defines the excess length and line weight of the fraction bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Zlomky Bary&lt;/f0&gt; - definuje přebytečné délky a čáry hmotnost frakce baru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Excess length&lt;/f0&gt; – determines the excess length of the fraction line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Přebytečná délka&lt;/f0&gt; - určuje přebytečnou délku frakce linky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Weight&lt;/f0&gt; – determines the weight of the fraction line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Hmotnost&lt;/f0&gt; - určuje hmotnost frakce linky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Limits&lt;/f0&gt; – defines the spacing between the sum symbol and the limit conditions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Limity&lt;/f0&gt; - určuje vzdálenost mezi symbolem sumy a mezních podmínek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Upper limit&lt;/f0&gt; – determines the spacing between the sum symbol and the upper limit.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Horní limit&lt;/f0&gt; - určuje vzdálenost mezi symbolem sumy a horní limit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Lower limit&lt;/f0&gt; – determines the spacing between the sum symbol and the lower limit.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Dolní mez&lt;/f0&gt; - určuje vzdálenost mezi symbolem sumy a dolní limit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Brackets&lt;/f0&gt; – defines the spacing between brackets and the content.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Konzoly&lt;/f0&gt; - určuje vzdálenost mezi držáky a obsahem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Excess size (left/right)&lt;/f0&gt; – determines the vertical distance between the upper edge of the contents and the upper end of the brackets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Nadměrná velikost (vlevo / vpravo)&lt;/f0&gt; - určuje vertikální vzdálenost mezi horní hranou obsahu a horním konci konzol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Spacing&lt;/f0&gt; – determines the horizontal distance between the contents and the upper end of the brackets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Rozteč&lt;/f0&gt; - určuje vodorovnou vzdálenost mezi obsahem a horním konci třmenů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Scale all brackets&lt;/f0&gt; – scales all types of brackets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Scale všechny závorky&lt;/f0&gt; - váhy všechny typy držáků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you then enter ( a over b) in the Formula Editor, the brackets will surround the whole height of the argument.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud potom zadejte (s více než b) v editoru vzorců, budou závorky obklopují celou výšku argumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You normally achieve this effect by entering left ( a over b right ).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obvykle dosažení tohoto efektu zadáním nechal (a přes b vpravo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Excess size&lt;/f0&gt; – adjusts the percentage excess size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Excess Velikost&lt;/f0&gt; - Upraví procento nadbytku velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At 0% the brackets are set so that they surround the argument at the same height.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na 0% v závorkách jsou nastaveny tak, že obklopí argument ve stejné výšce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The higher the entered value is, the larger the vertical gap between the contents of the brackets and the external border of the brackets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Čím vyšší je zadaná hodnota, tím větší je vertikální mezera mezi obsahem držáků a vnější hranici konzol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The field can only be used in combination with &lt;f1&gt;Scale all brackets&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pole může být použit pouze v kombinaci s &lt;f1&gt;Scale všechny závorky &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Matrices&lt;/f0&gt; – defines the relative spacing for the elements in a matrix.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Matice&lt;/f0&gt; - určuje relativní mezery pro prvky v matrici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Line spacing&lt;/f0&gt; – determines the spacing between matrix elements in a row.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Linková odstup&lt;/f0&gt; - určuje vzdálenost mezi maticové prvky v řadě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Column spacing&lt;/f0&gt; – determines the spacing between matrix elements in a column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Sloupec odstup&lt;/f0&gt; - určuje vzdálenost mezi maticových prvků ve sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Symbols&lt;/f0&gt; – defines the spacing of symbols in relation to variables</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Symboly&lt;/f0&gt; - určuje vzdálenost symbolů ve vztahu k proměnné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Primary height&lt;/f0&gt; – defines the height of the symbols in relation to the baseline.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Primární výška&lt;/f0&gt; - určuje výšku symbolů vzhledem k základní linii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Minimum spacing&lt;/f0&gt; – determines the minimum distance between a symbol and variable.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Minimální odstup&lt;/f0&gt; - určuje minimální vzdálenost mezi symbolem a proměnné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Operators&lt;/f0&gt; – defines the spacing between operators and variables or numbers.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Provozovatelé&lt;/f0&gt; - určuje vzdálenost mezi provozovateli a proměnných nebo čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Excess size&lt;/f0&gt; – determines the height from the variable to the operator upper edge.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Nadměrná velikost&lt;/f0&gt; - určuje výšku od proměnné na operátora horní okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Spacing&lt;/f0&gt; – determines the horizontal distance between operators and variables.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Rozteč&lt;/f0&gt; - určuje vodorovnou vzdálenost mezi operátory a proměnné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Borders&lt;/f0&gt; – adds a border to a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Borders&lt;/f0&gt; - přidá ohraničení vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This option is particularly useful if you want to integrate the formula into a text file in Writer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato volba je zvláště užitečná, pokud chcete integrovat vzorec do textového souboru v aplikaci Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When making settings, make sure that you do not use 0 as a size as this creates viewing problems for text that surrounds the insertion point.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při provádění nastavení, ujistěte se, že nechcete použít 0 jako o velikosti, protože to vytváří problémy pro prohlížení textu, který obklopuje kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Left&lt;/f0&gt; – the left border is positioned between the formula and background.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Left&lt;/f0&gt; - levý okraj je umístěn mezi vzorci a pozadím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Right&lt;/f0&gt; – the right border is positioned between the formula and background.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Right&lt;/f0&gt; - pravý okraj je umístěn mezi vzorci a pozadím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Top&lt;/f0&gt; – the top border is positioned between the formula and background.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Top&lt;/f0&gt; - horní hranice je umístěna mezi vzorci a pozadím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Bottom&lt;/f0&gt; – the bottom border is positioned between the formula and background.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Spodní&lt;/f0&gt; - spodní okraj je umístěn mezi vzorcem a pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Preview Field&lt;/f0&gt; – displays a preview of the current selection.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Pole náhledu&lt;/f0&gt; - Zobrazí náhled aktuálního výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Default&lt;/f0&gt; – saves any changes as default settings for all new formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Výchozí&lt;/f0&gt; - uloží všechny změny, jako výchozí nastavení pro všechny nové vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A confirmation dialog will appear before saving these changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>potvrzovací dialog bude před uložením těchto změn se zobrazí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The alignment settings determine how formula elements located above one another are aligned horizontally relative to each other.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavení zarovnání určuje, jak vzorec prvky, umístěné nad sebou jsou orientovány horizontálně vzhledem k sobě navzájem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is not possible to align formulas on a particular character and formula alignment does not apply to text elements.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Není možné zarovnat vzorců na konkrétní znak a formule vyrovnání se nevztahuje na textových prvků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text elements are always aligned left.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Textové prvky jsou vždy v souladu odešel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Independent of using formula alignment given below, it is possible to align formulas using the commands &lt;f0&gt;alignl&lt;/f0&gt;, &lt;f1&gt;alignc&lt;/f1&gt; and &lt;f2&gt;alignr&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nezávisle na použití vzorce zarovnání níže uvedených, je možné sladit vzorců pomocí příkazů &lt;f0&gt;alignl&lt;/f0&gt; &lt;f1&gt;alignc&lt;/f1&gt; a &lt;f2&gt;alignr &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These commands also work for text elements.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto příkazy také pracovat pro textové prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the alignment used for the current formula in Math or another LibreOffice component:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna zarovnání pro probíhající vzorce v Math nebo jiného LibreOffice složky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Alignment&lt;/f0&gt; on the Menu bar to open the Alignment dialog (Figure &lt;f1&gt;&lt;t2&gt;10&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Format&gt; Alignment&lt;/f0&gt; na panelu nabídek otevřete dialogové Alignment (Obr &lt;f1&gt;&lt;t2&gt; 10&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select either &lt;f0&gt;Left&lt;/f0&gt;, &lt;f1&gt;Centered&lt;/f1&gt;, or &lt;f2&gt;Right&lt;/f2&gt; for horizontal alignment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte možnost &lt;f0&gt;Left&lt;/f0&gt; &lt;f1&gt;střed&lt;/f1&gt; nebo &lt;f2&gt;Right&lt;/f2&gt; pro horizontální vyrovnání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and check the result in your formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; a zkontrolovat výsledek ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Alignment dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;10 &lt;/seq0&gt;: Zarovnání dialogové</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the default alignment used for all formulas in Math or another LibreOffice component:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit výchozí zarovnání použitý pro všechny vzorce v matematice nebo jiné součásti LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before inserting any formulas in your document, go to &lt;f0&gt;Format &gt; Alignment&lt;/f0&gt; on the Menu bar to open the Alignment dialog (Figure &lt;f1&gt;&lt;t2&gt;10&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Před vložením nějaké vzorce v dokumentu, přejděte na &lt;f0&gt;Format&gt; Alignment&lt;/f0&gt; na panelu nabídek otevřete dialogové Alignment (Obr &lt;f1&gt;&lt;t2&gt; 10&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Default&lt;/f0&gt; and confirm your changes to the formula alignment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Výchozí&lt;/f0&gt; a potvrďte změny v uspořádání vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any formulas created from this point on will use the new alignment for formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakékoli vzorce vytvořené z této chvíle bude používat nové zarovnání vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have already inserted formulas into your document and you change the formula alignment, only formulas inserted after the change in alignment will use the new default settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste již vložili vzorců do dokumentu a změnit zarovnání vzorec, bude jen formule vkládají po změně uspořádání použít nové výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You have to individually change the alignment of formulas already inserted if you want these formulas to use the same alignment as the default settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Budete muset individuálně měnit zarovnání vzorců již vložena, pokud chcete tyto vzorce použít stejný zarovnání jako výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formula color for the characters used in a formula is changed by using the command color in the mark up language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>barva vzorec pro charaktery používané v vzorci je změnit pomocí barvy příkazový jazyk mark up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This command only works on the formula element immediately after the color name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento příkaz lze použít pouze u vzorce prvku bezprostředně po jménu barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, entering the markup language &lt;f0&gt;color red ABC 5 times 4&lt;/f0&gt;&lt;f1&gt; gives the result &lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;df4&gt;&lt;d5/&gt;&lt;di6/&gt;&lt;/df4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například zadáním značkovací jazyk &lt;f0&gt;barva červená ABC 5x 4&lt;/f0&gt; &lt;f1&gt;dává výsledek &lt;s2 /&gt;&lt;/f1&gt; &lt;f3&gt;&lt;df4&gt; &lt;d5 /&gt; &lt;di6 /&gt;&lt;/df4&gt; &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the color of the whole formula, you have to enclose the whole formula within brackets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit barvu celého vzorce, musíte přiložit celý vzorec uvnitř závorek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, entering the markup language &lt;f0&gt;color red {ABC 5 times 4}&lt;/f0&gt; gives the result&lt;f1&gt;&lt;f2&gt;&lt;df3&gt;&lt;d4/&gt;&lt;di5/&gt;&lt;/df3&gt;&lt;/f2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například zadáním značkovací jazyk &lt;f0&gt;barva červená {ABC 5 krát 4}&lt;/f0&gt; dává výsledek &lt;f1&gt;&lt;f2&gt; &lt;df3&gt;&lt;d4 /&gt; &lt;di5 /&gt;&lt;/df3&gt; &lt;/f2&gt; &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For information on the colors available in Math, see Appendix A, Commands Reference, in the &lt;f0&gt;Math Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informace o dostupných barev v matematice, viz Příloha A, příkazů, v &lt;f0&gt;Math Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is not possible to select a background color for formulas in Math.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Není možné vybrat barvu pozadí pro vzorců v matematice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The background color for a formula is by default the same color as the document or frame that the formula has been inserted into.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Barva pozadí vzorec je standardně stejnou barvu jako dokumentu nebo rámu, že vzorec byl vložen do.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, in LibreOffice documents, you can use object properties to change the background color for a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně v dokumentech LibreOffice, můžete použít vlastnosti objektu pro změnu barvy pozadí pro vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on using a background color (area fill for objects) with a formula, please refer to the user guides for Writer, Calc, Draw and Impress.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o použití barvy pozadí (plocha výplně pro objekty) s vzorce, naleznete v uživatelských příručkách pro Writer, Calc, Impress a Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you regularly insert the same formulas into your documents, you can create a formula library using formulas that you have created using the Formula Editor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud pravidelně vkládání stejných vzorců do dokumentů, můžete vytvořit vzorec knihovny pomocí vzorce, které jste vytvořili pomocí editoru vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Individual formulas can be saved as separate files using the ODF format for formulas with the file suffix of .odf, or in MathML format with the file suffix of .mml.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jednotlivé vzorce mohou být uloženy jako samostatné soubory pomocí formátu ODF pro vzorcích se souborem příponou.odf, nebo ve formátu MathML se souborů příponou.mml.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use Math, Writer, Calc, Draw, or Impress to create formulas and build up your formula library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít Math, Writer, Calc, Draw nebo Impress vytváření vzorců a vybudovat svůj vzorec knihovnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a folder on your computer to contain your formulas and give the folder a memorable name, for example Formula Library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořte složku v počítači obsahovat vaše vzorce a dát do složky nezapomenutelný název, například vzorec knihovny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In LibreOffice, go to &lt;f0&gt;File &gt; New &gt; Formula&lt;/f0&gt; on the Menu bar, or click on &lt;f1&gt;Math Formula&lt;/f1&gt; in the opening splash screen to open Math and create your formula using the Formula Editor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V LibreOffice, přejděte na &lt;f0&gt;Soubor&gt; Nový&gt; Formula&lt;/f0&gt; na liště menu, nebo klikněte na &lt;f1&gt;Matematický vzorec&lt;/f1&gt; na obrazovce otevření úvodní otevřít Math a vytvořit si vzorec pomocí vzorce editoru,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;f2&gt;&lt;bf3&gt;Formulas as separate documents or files&lt;/bf3&gt;&lt;/f2&gt;” on page &lt;f4&gt;&lt;bf5&gt;5&lt;/bf5&gt;&lt;/f4&gt;&lt;f6&gt;&lt;s7/&gt;for more information.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;f2&gt; &lt;bf3&gt;Vzorce jako samostatné dokumenty nebo soubory&lt;/bf3&gt; &lt;/f2&gt;“ na straně &lt;f4&gt;&lt;bf5&gt; 5&lt;/bf5&gt; &lt;/f4&gt; &lt;f6&gt;&lt;s7 /&gt; Více informací. &lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Save As&lt;/f0&gt; on the Menu bar or use the keyboard shortcut &lt;f1&gt;Ctrl+Shift+S&lt;/f1&gt; to open a Save As dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Soubor&gt; Uložit jako&lt;/f0&gt; na liště menu, nebo použijte klávesovou zkratku &lt;f1&gt;Ctrl + Shift + S&lt;/f1&gt; otevřete dialogové okno Save As.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigate to the folder you have created for your formula library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte do složky, kterou jste vytvořili pro svůj vzorec knihovny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type in a memorable name for your formula in the File name text box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sem v památné jméno pro své vzorce v textovém poli název souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select from the File type drop-down list either &lt;f0&gt;ODF Formula (.odf)&lt;/f0&gt; or &lt;f1&gt;MathML 2.0 (.mml)&lt;/f1&gt; as the file type for your formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte si z Typ souboru rozevíracího seznamu buď &lt;f0&gt;ODF vzorec (.odf)&lt;/f0&gt; nebo &lt;f1&gt;MathML 2.0 (.mml)&lt;/f1&gt; jako typ souboru pro vaše vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt; to save your formula and close the Save As dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Uložit&lt;/f0&gt; uložíte vzorec a zavřít dialogové okno Save As.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open a document using Writer, Calc, Draw, or Impress.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevření dokumentu pomocí Writer, Calc, kreslit nebo Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Object &gt; Formula&lt;/f0&gt; on the Menu bar to open the Formula Editor and create your formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Vložit&gt; Objekt&gt; Formula&lt;/f0&gt; na panelu nabídek otevřete editor vzorců a vytvořit svůj vzorec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;f1&gt;&lt;bf2&gt;Formulas in LibreOffice documents&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;6&lt;/bf4&gt;&lt;/f3&gt;&lt;f5&gt;&lt;s6/&gt;for more information.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;f1&gt; &lt;bf2&gt;Vzorce v dokumentech LibreOffice&lt;/bf2&gt; &lt;/f1&gt;“ na straně &lt;f3&gt;&lt;bf 4&gt; 6 ​​&lt;/BF 4&gt;&lt;/f3&gt; &lt;f5&gt;&lt;s6 /&gt; Další informace. &lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on your formula object and select &lt;f0&gt;Save Copy as&lt;/f0&gt; from the context menu to open a Save As dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na vzorec objekt a vyberte možnost &lt;f0&gt;Uložit kopii jako&lt;/f0&gt; v kontextovém menu otevírá dialog Save As.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type a memorable name for your formula in the File name text box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sem nezapomenutelný název vzorce v textovém poli název souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You cannot insert a formula from your library into a document by dragging and dropping using the mouse, nor by using &lt;f0&gt;Insert &gt; File&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nemůžete vložit vzorec z knihovny do dokumentu přetažením myší, ani pomocí &lt;f0&gt;Vložit&gt; Soubor&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You must insert a formula from your library into your document as an OLE object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Musíte vložit vzorec z knihovny do dokumentu jako objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open your document in Writer, Calc, Draw, or Impress.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete dokument v aplikaci Writer, Calc, kreslit nebo Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object&lt;/f0&gt; on the Menu bar to open the Insert OLE Object dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Vložit&gt; Objekt&gt; OLE objekt&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Vložit objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the option &lt;f0&gt;Create from file&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte možnost &lt;f0&gt;Vytvořit ze souboru &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Search&lt;/f0&gt; to open your file browser dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Vyhledávání&lt;/f0&gt; otevřete dialogové okno prohlížeče souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the formula you want to insert and click &lt;f0&gt;Open&lt;/f0&gt;, or double-click on the formula you want to insert.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte vzorec, který chcete vložit a klepněte na tlačítko &lt;f0&gt;Otevřít &lt;/f0&gt;, nebo poklepáním na vzorec, který chcete vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to insert your formula as an OLE object in your document and close the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; vložit svůj vzorec jako OLE objekt v dokumentu a zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a formula is inserted into a document, Writer inserts the formula into a frame and treats the formula as an OLE object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li vložena vzorec do dokumentu, Writer vloží vzorec do rámu a zachází vzorec jako objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-clicking on an inserted formula will open the Formula Editor in Math allowing you to edit the formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dvojitým kliknutím na vloženém vzorci se otevře editor Formula v matematice, který umožňuje upravit vzorec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This section explains what options you can change for each individual formula within a Writer document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato část vysvětluje, jaké možnosti můžete změnit pro jednotlivé vzorce v dokumentu aplikace Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please refer to the chapters on styles in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for information on how to change the default settings for frame styles for OLE objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Naleznete v kapitolách o stylech na &lt;f0&gt;Writer Guide&lt;/f0&gt; Informace o tom, jak změnit výchozí nastavení pro styly rámců pro OLE objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Automatic numbering of formulas for cross reference purposes can only be carried out in Writer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automatické číslování vzorců pro křížové referenční účely mohou být prováděny pouze v aplikaci Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The easiest way to add numbered formulas in sequence is to use the AutoText entry &lt;f0&gt;fn&lt;/f0&gt; (for '&lt;f1&gt;formula numbered&lt;/f1&gt;').</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejjednodušší způsob, jak přidat číslované vzorce v pořadí je použít položku automatického textu &lt;f0&gt;fn&lt;/f0&gt; (k ‚&lt;f1&gt; vzorce číslovány &lt;/f1&gt;‘).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start a new line in your document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Začít nový řádek v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type &lt;f0&gt;fn&lt;/f0&gt; and then press the &lt;f1&gt;F3&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sem &lt;f0&gt;fn&lt;/f0&gt; a poté stiskněte tlačítko &lt;f1&gt;F3&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A two column table with no borders is inserted into your document with the left column containing a sample formula and the right column containing a reference number, as shown below.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve dvou sloupcích tabulky bez okrajů je vložen do dokumentu s v levém sloupci, který obsahuje vzorek vzorec a v pravém sloupci, obsahující referenční číslo, jak je uvedeno níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete the sample formula and insert your formula as an object in the left column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vymazat ukázkový vzorec a vložit vzorec jako objekt v levém sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, you can first insert your formula into the document, then carry out Steps 1 and 2 above replacing the sample formula with your formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně můžete nejprve vložit vzorec do dokumentu a pak provést kroky 1 a 2 výše výměnou ukázkový vzorec se vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Fields dialog – Cross-references tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;11 &lt;/seq0&gt;: Pole Dialog - karta Křížové odkazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click in your document where you want the cross reference to appear.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte v dokumentu, kde chcete zobrazit cross reference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Cross-reference&lt;/f0&gt; on the Menu bar to open the Fields dialog (Figure &lt;f1&gt;&lt;t2&gt;11&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Vložit&gt; Křížový odkaz&lt;/f0&gt; na panelu nabídek otevřete dialogové pole (Obr &lt;f1&gt;&lt;t2&gt; 11&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Cross-references&lt;/f0&gt; tab, then select &lt;f1&gt;Text&lt;/f1&gt; in the &lt;f2&gt;Type&lt;/f2&gt; section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na záložku &lt;f0&gt;křížové odkazy &lt;/f0&gt;, vyberte &lt;f1&gt;Text&lt;/f1&gt; V &lt;f2&gt;Typ&lt;/f2&gt; oddílu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Selection&lt;/f0&gt; section, select the formula number you want to refer to.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;výběr&lt;/f0&gt; oddílu, vyberte vzorec číslo, které chcete odkázat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Insert reference to&lt;/f0&gt; section, select &lt;f1&gt;Reference&lt;/f1&gt; and click &lt;f2&gt;Insert&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;vlož odkaz na&lt;/f0&gt; oddíl, vyberte &lt;f1&gt;Reference&lt;/f1&gt; a klikněte na &lt;f2&gt;Vložit &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you have finished creating cross references, click &lt;f0&gt;Close&lt;/f0&gt; to close the Fields dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste dokončili vytváření křížové odkazy, klikněte na &lt;f0&gt;Zavřít&lt;/f0&gt; zavřete dialogové okno pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert the cross reference number without parentheses, select &lt;f0&gt;Numbering&lt;/f0&gt; instead of &lt;f1&gt;Reference&lt;/f1&gt; in the &lt;f2&gt;Insert reference to&lt;/f2&gt; section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit křížový referenčního čísla bez závorek, zvolte &lt;f0&gt;Číslování&lt;/f0&gt; namísto &lt;f1&gt;Reference&lt;/f1&gt; V &lt;f2&gt;vlož odkaz na&lt;/f2&gt; sekci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to use square parentheses instead of round ones, or if you want the cross reference number to be separated from the formula by tabs instead of using a table, then refer to the chapter on automatic text in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li používat hranaté závorky namísto kulaté, nebo chcete-li kříž referenční číslo, které mají být odděleny od vzorci kartách namísto použití tabulky, pak naleznete v kapitole o automatickém textu v &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A formula is treated as an object within Writer and its default anchoring is &lt;f0&gt;To character&lt;/f0&gt; within a paragraph when it is inserted into a document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzorec je považován za předmět v Writer a jeho výchozí kotvení je &lt;f0&gt;charakteru&lt;/f0&gt; v rámci odstavce, když je vložen do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the anchoring of a formula object:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro změnu zakotvení vzorce objektu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the selected formula object and select &lt;f0&gt;Anchor&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na vybranou vzorce objekt a vyberte &lt;f0&gt;Anchor&lt;/f0&gt; z kontextového menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a new anchoring option from the context sub-menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte nové kotevní volbu z sub-kontextovém menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The anchoring positions available are &lt;f0&gt;To Page&lt;/f0&gt;, &lt;f1&gt;To Paragraph&lt;/f1&gt;, &lt;f2&gt;To Character&lt;/f2&gt;, or &lt;f3&gt;As Character&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kotvící pozice Dostupné jsou &lt;f0&gt;na stránku&lt;/f0&gt; &lt;f1&gt;odstavce&lt;/f1&gt; &lt;f2&gt;charakteru&lt;/f2&gt; nebo &lt;f3&gt;Jako znak &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Object dialog – Type tab with Anchor options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;12 &lt;/seq0&gt;: Object dialog - karta typu s možností Kotevní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, right-click on the selected formula object and select &lt;f0&gt;Properties&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Frame and Object &gt; Properties&lt;/f1&gt; on the Menu bar to open the Object dialog (Figure &lt;f2&gt;&lt;t3&gt;12&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také klepnout pravým tlačítkem myši na vybranou vzorce objekt a vyberte &lt;f0&gt;Vlastnosti&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;Formát&gt; Rám a Objekt&gt; Vlastnosti&lt;/f1&gt; na panelu nabídek na otevření objektu dialog (obr &lt;f2&gt;&lt;t3&gt; 12&lt;/t3&gt; &lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure the &lt;f0&gt;Type&lt;/f0&gt; tab is selected and select a new anchoring position from the &lt;f1&gt;Anchor&lt;/f1&gt; section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že &lt;f0&gt;Sem je vybrána karta&lt;/​​f0&gt; a vyberte novou pozici kotvicí od &lt;f1&gt;Anchor&lt;/f1&gt; oddílu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the Object dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; uložte změny a zavřete dialogové okno objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The anchoring options are not available in the Object dialog when you are making changes to the various options available for frame styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnosti kotvení nejsou k dispozici v dialogovém okně objektu, když jste provádění změn různých možnostech stylů rámu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on how to modify frame styles, please refer to the chapters on styles in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tom, jak upravovat styly rámu, naleznete v kapitolách o stylech v &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The normal default setting for vertical alignment for formula objects is to use the text base line as a reference.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Normální Výchozí nastavení pro výškové vyrovnání pro vzorec objektů je použití textu základní linie jako reference.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This default setting can be changed by modifying the Formula frame style, see the chapters on styles in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto výchozí nastavení lze změnit úpravou rámečku styl Formula, naleznete v kapitolách o stylech na &lt;f0&gt;Writer Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the vertical alignment position of an individual formula object (assuming that the &lt;f0&gt;As character&lt;/f0&gt; anchoring option is selected):</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro změnu vertikální vyrovnání polohy jednotlivého vzorce objektu (za předpokladu, že &lt;f0&gt;Jak je znakem&lt;/f0&gt; je vybrána volba kotvení):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the selected formula object and select &lt;f0&gt;Properties&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Frame and Object &gt; Properties&lt;/f1&gt; to open the Object dialog (Figure &lt;f2&gt;&lt;t3&gt;12&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na vybranou vzorce objekt a vyberte &lt;f0&gt;Vlastnosti&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;Formát&gt; Rám a Objekt&gt; Vlastnosti&lt;/f1&gt; otevřete dialogové okno Object (Obr &lt;f2&gt;&lt;t3&gt; 12&lt;/t3&gt; &lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure the &lt;f0&gt;Type&lt;/f0&gt; tab is selected and select a new alignment position from the drop-down list in the &lt;f1&gt;Position&lt;/f1&gt; section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že &lt;f0&gt;Sem karta&lt;/​​f0&gt; je vybrána a vyberte novou pozici zarovnání z rozevíracího seznamu v části &lt;f1&gt;Pozice&lt;/f1&gt; sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The vertical alignment options available are &lt;f2&gt;Top&lt;/f2&gt;, &lt;f3&gt;Bottom&lt;/f3&gt;, &lt;f4&gt;Center,&lt;/f4&gt; or &lt;f5&gt;From bottom&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Svislé zarovnání dispozici jsou &lt;f2&gt;Top&lt;/f2&gt; &lt;f3&gt;Bottom&lt;/f3&gt; &lt;f4&gt;Center,&lt;/f4&gt; nebo &lt;f5&gt;Ze dna &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If necessary, type in the text box a plus or minus value for vertical alignment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je to nutné, zadejte do textového pole plus nebo mínus hodnoty pro vertikální polohy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This option is only available if &lt;f0&gt;From bottom&lt;/f0&gt; vertical alignment has been selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato volba je dostupná pouze v případě &lt;f0&gt;Zdola bylo vybráno&lt;/f0&gt; Svislé zarovnání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the type of text alignment from the drop-down list in the &lt;f0&gt;Position&lt;/f0&gt; section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte typ zarovnání textu z rozevíracího seznamu v &lt;f0&gt;Position&lt;/f0&gt; oddílu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The text alignment options available are &lt;f1&gt;Base line&lt;/f1&gt;, &lt;f2&gt;Character,&lt;/f2&gt; and &lt;f3&gt;Row&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnosti zarovnání textu K dispozici jsou &lt;f1&gt;Základní řada&lt;/f1&gt; &lt;f2&gt;Character,&lt;/f2&gt; a &lt;f3&gt;Row &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the &lt;f0&gt;Position&lt;/f0&gt; section in the Object dialog is greyed out and not available, then go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f1&gt; and uncheck the option &lt;f2&gt;Math baseline alignment&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jestliže &lt;f0&gt;Position&lt;/f0&gt; v dialogovém okně objektu je šedě a není k dispozici, pak přejděte na &lt;f1&gt;Nástroje&gt; Možnosti&gt; LibreOffice Writer&gt; Pomůcky pro formátování&lt;/f1&gt; a zrušte zaškrtnutí políčka &lt;f2&gt;Math linie zarovnání &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any new documents created will also use this setting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Veškeré nové dokumenty vytvořené budou také používat toto nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A formula object, when inserted into a Writer document, has spacing each side of the formula object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzorec objekt, při vložení do dokumentu aplikace Writer, má rozteč každou stranu vzorce objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The default value used for spacing is set within the frame style for formula objects and can be changed by modifying the Formula frame style, see the chapters on styles in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výchozí hodnota používaná pro rozestup je zasazen do stylu rámu pro vzorec objektů a může být změněn úpravou rámečku styl Formula, naleznete v kapitolách o stylech na &lt;f0&gt;Writer Guide&lt;/f0&gt; Další informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can individually adjust the spacing for each formula object within your document as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete individuálně nastavit rozestup pro každý vzorec objekt v dokumentu takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create your formula in your Writer document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořte si vzorec ve svém dokumentu aplikace Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on your selected formula object and select &lt;f0&gt;Properties&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Frame and Object &gt; Properties&lt;/f1&gt; on the Menu bar to open the Object dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na zvolené vzorce objekt a zvolte &lt;f0&gt;Vlastnosti&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;Format&gt; rám a Objekt&gt; Vlastnosti&lt;/f1&gt; na panelu nabídek otevřete dialogové okno objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Wrap&lt;/f0&gt; tab to open the Wrap page in the Object dialog (Figure &lt;f1&gt;&lt;t2&gt;13&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;kartu Wrap&lt;/f0&gt; otevřete stránku zalomit v dialogovém okně objektu (Obr &lt;f1&gt;&lt;t2&gt; 13&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Spacing&lt;/f0&gt; section, enter the spacing value for &lt;f1&gt;Left&lt;/f1&gt;, &lt;f2&gt;Right&lt;/f2&gt;, &lt;f3&gt;Top&lt;/f3&gt; and &lt;f4&gt;Bottom&lt;/f4&gt; spacing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Mezery&lt;/f0&gt; oddílu, zadejte hodnotu řádkování pro &lt;f1&gt;Left&lt;/f1&gt; &lt;f2&gt;Right&lt;/f2&gt; &lt;f3&gt;Top&lt;/f3&gt; a &lt;f4&gt;Bottom&lt;/f4&gt; rozteč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Object dialog – Wrap tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;13 &lt;/seq0&gt;: Dialog Object - tab Wrap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In large formulas placed within a line of text, the formula elements can often be higher than the text height.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve velkých vzorcích umístěných v řádku textu, vzorec prvky mohou být často vyšší, než je výška textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, to make large formulas easier to read, it is recommended to always insert a large formula into a separate paragraph of its own so that it is separated from text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proto, aby se velká formule čitelnější, doporučuje se vždy vložit velké vzorce do samostatného odstavce vlastní tak, že je oddělen od textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, if it is necessary to place a large formula within a line of text, double-click on the formula to open the Formula Editor and then go to &lt;f0&gt;Format &gt; Text Mode&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, pokud je to nezbytné umístit velký vzorec v řádku textu, poklepejte na vzorce otevřete editor vzorců a pak jít do &lt;f0&gt;Format&gt; Režim Text&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Formula Editor will try to shrink the formula to fit the text height.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formule Editor se pokusí zmenšit vzorec tak, aby odpovídal výšku textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The numerators and denominators of fractions are shrunk, and the limits of integrals and sums are placed beside the integral/sum sign, as shown in the following example.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Čitatele a jmenovatele frakcí se zmenšil, a meze integrálů a součty jsou umístěny vedle integrálním / součet znak, jak je uvedeno v následujícím příkladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and the same formula embedded into a line of text using text mode format:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>a stejný vzorec vložit do řádku textu pomocí formátu v textovém režimu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The default setting for background (area fill) and borders for formula objects is set by the formula frame style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výchozí nastavení pozadí (plocha výplně) a hranice pro vzorec předmětů je dán stylem formule rámu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change this default setting for formula frame style, refer to the chapters on styles in the &lt;f0&gt;Writer Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit toto výchozí nastavení pro styl formule rámu, naleznete v kapitolách o stylech na &lt;f0&gt;Writer Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, for individual formulas in your document, you can change the background and borders.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Avšak pro jednotlivé vzorce v dokumentu, můžete změnit pozadí a ohraničení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The size of the frame that a formula is placed in when inserted into a document cannot be changed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikost rámu, který vzorec je umístěn v, když je vložena do dokumentu nelze změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The frame size for a formula object depends on the setting of the formula font size; see “&lt;f0&gt;&lt;bf1&gt;Creating formulas&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;7&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;and “&lt;/f4&gt;&lt;f6&gt;&lt;bf7&gt;Editing formulas&lt;/bf7&gt;&lt;/f6&gt;” on page &lt;f8&gt;&lt;bf9&gt;12&lt;/bf9&gt;&lt;/f8&gt;&lt;f10&gt;&lt;s11/&gt;for more information.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikost rámu pro vzorec objektu závisí na nastavení velikosti písma vzorec; viz „&lt;f0&gt; &lt;bf1&gt;Vytváření vzorců&lt;/bf1&gt; &lt;/f0&gt;“ na straně &lt;f2&gt;&lt;bf3&gt; 7&lt;/bf3&gt; &lt;/f2&gt; &lt;f4&gt;&lt;s5 /&gt; a „&lt;/f4&gt; &lt; f6&gt;&lt;bf7&gt; Úprava formule&lt;/bf7&gt; &lt;/f6&gt;“na straně &lt;f8&gt;&lt;bf9&gt; 12&lt;/bf9&gt; &lt;/f8&gt; &lt;f10&gt;&lt;s11 /&gt; Další informace. &lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backgrounds</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>zázemím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In your document, select the formula where you want to change the background.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dokumentu, vyberte vzorec, kde chcete změnit pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the formula and select &lt;f0&gt;Properties&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Format &gt; Frame and Object &gt; Properties&lt;/f1&gt; on the Menu bar to open the Object dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na vzorce a vyberte &lt;f0&gt;Vlastnosti&lt;/f0&gt; az kontextového menu, nebo přejděte na &lt;f1&gt;Format&gt; rám a Objekt&gt; Vlastnosti&lt;/f1&gt; na panelu nabídek otevřete dialogové okno objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Area&lt;/f0&gt; tab and use the buttons to select the type of fill you want to use for your formula (Figure &lt;f1&gt;&lt;t2&gt;14&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;kartě Oblast&lt;/f0&gt; a pomocí tlačítek vyberte typ výplně, kterou chcete použít pro vaše vzorce (Obr &lt;f1&gt;&lt;t2&gt; 14&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the options you want to use for your formula background.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte možnosti, které chcete použít pro vaše vzorce pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The options change depending on the type of fill selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnosti se mění v závislosti na typu výplně vybraného.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Borders</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>hranice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In your document, select the formula where you want to change the borders.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dokumentu, vyberte vzorec, kde chcete změnit hranice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Borders&lt;/f0&gt; tab and select the options you want to use for your formula borders (Figure &lt;f1&gt;&lt;t2&gt;15&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;kartě ohraničení&lt;/f0&gt; a vyberte možnosti, které chcete použít pro vaše vzorce hranicích (Obr &lt;f1&gt;&lt;t2&gt; 15&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Object dialog – Area tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;14 &lt;/seq0&gt;: Dialog Object - tab Area</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Object dialog – Borders tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;15 &lt;/seq0&gt;: Dialog Object - tab Borders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can quickly insert a formula into your Writer document without opening the Formula Editor, if you know the markup language for the formula:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete rychle vložit vzorec do svého dokumentu aplikace Writer bez otevření editoru vzorců, pokud víte, značkovací jazyk pro vzorce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type the formula markup language into your document at the position where you want the formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte vzorec značkovací jazyk do dokumentu na místo, kam chcete vzorec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the markup language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte značkovací jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Object&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Formula&lt;/f1&gt; to create a formula from the selected markup language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Vložit&gt; Objekt&lt;/f0&gt; na panelu nabídek a vyberte možnost &lt;f1&gt;Formule&lt;/f1&gt; vytvořit vzorec z vybrané značkovací jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Calc, Draw, and Impress, formulas are inserted as OLE objects without any background (area fill) or borders.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V Calcu, Draw a Impress, vzorce jsou vloženy jako objekty OLE bez pozadí (plocha výplně) nebo hranic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each formula object is inserted into a spreadsheet, drawing, or slide as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý vzorec objekt je vložen do tabulkového procesoru, kresbu, nebo snímku následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Calc, formulas are inserted into a selected cell in a spreadsheet with no style assigned to the formula object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V Calc, vzorce jsou vloženy do vybrané buňky v tabulce bez stylu přiřazeného vzorce objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Draw and Impress, formulas are inserted into a central position on your drawing or slide and, by default, are assigned the drawing object style &lt;f0&gt;Object with no fill and no line&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V Draw a Impress, vzorce jsou vloženy do středové polohy na výkresu nebo snímku a ve výchozím nastavení, jsou přiřazeny kresba styl &lt;f0&gt;objekt bez výplně a bez řádku &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on how to modify or assign drawing object styles, see the &lt;f1&gt;Draw Guide&lt;/f1&gt; or the &lt;f2&gt;Impress Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tom, jak změnit nebo přiřadit výkresové styly objektů, naleznete v části &lt;f1&gt;Draw Guide&lt;/f1&gt; nebo &lt;f2&gt;Impress Guide &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A formula object can be anchored into your spreadsheet as &lt;f0&gt;To Page&lt;/f0&gt; (default setting), or as &lt;f1&gt;To Cell&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzorec objekt může být ukotvena do tabulky jako &lt;f0&gt;na stranu&lt;/f0&gt; (výchozí nastavení), nebo jako &lt;f1&gt;Cell &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the anchoring type of formulas in a Calc spreadsheet:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro změnu typu kotvení vzorců v Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the formula object in your spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte vzorec objekt v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the formula and select &lt;f0&gt;Anchor &gt; To Page&lt;/f0&gt; or &lt;f1&gt;To Cell&lt;/f1&gt; from the context menu</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na vzorce a vyberte &lt;f0&gt;Kotva&gt; na stránku&lt;/f0&gt; nebo &lt;f1&gt;Cell&lt;/f1&gt; z kontextového menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, go to &lt;f0&gt;Format &gt; Anchor&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;To Page&lt;/f1&gt; or &lt;f2&gt;To Cell&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně přejděte na &lt;f0&gt;Formát&gt; Anchor&lt;/f0&gt; na panelu nabídek a vyberte možnost &lt;f1&gt;Page&lt;/f1&gt; nebo &lt;f2&gt;Cell &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw and Impress</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Draw a Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a formula is inserted into a drawing or slide, it is inserted as a floating OLE object and is not anchored to any particular position in a drawing or slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li vložena vzorec do výkresu nebo šoupátka, je vložen jako plovoucí objekt OLE a není ukotvena na konkrétní pozici ve výkresu nebo šoupátka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formula objects in Calc, Draw, and Impress can be modified just like any other object that has been placed in your spreadsheet, drawing, or presentation, with the exception of formula object size and changing the format of any text within a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formule objekty Calc Draw a Impress může být upraven stejně jako jakýkoli jiný objekt, který byl umístěn v tabulce, kreslení, nebo prezentace, s výjimkou velikosti formule objektu a změně formátu libovolného textu v rámci vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on how to change object properties, see the &lt;f0&gt;Calc Guide&lt;/f0&gt;, &lt;f1&gt;Draw Guide&lt;/f1&gt; and &lt;f2&gt;Impress Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tom, jak změnit vlastnosti objektu, viz &lt;f0&gt;Calc Guide&lt;/f0&gt; &lt;f1&gt;Draw Guide&lt;/f1&gt; a &lt;f2&gt;Impress Guide &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following points will help you select which dialog to use if you want to change the properties of formula objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Následující body vám pomohou vybrat, které dialog pouze v případě, že chcete změnit vlastnosti vzorce objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For formula backgrounds, use the various options in the tabs of the Area dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro vzorec zázemím, používat různé možnosti v záložkách dialogu prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For formula borders, use the various options in the Line dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro vzorec hranic, používat různé možnosti v dialogovém řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note that formula borders are separate from cell borders in a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všimněte si, že vzorec hranice jsou odděleny od buněčných hranic v Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To accurately re-position a formula object, use the various options in tabs of the Position and Size dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K přesnému přemístěte formuli objektu, použít různé možnosti v záložkách dialogu poloze a velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Draw and Impress, you can arrange, align, group, flip, convert, break, combine, and edit points of formula objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V Draw a Impress, můžete si sjednat, align, skupina, flip, konvertita, zlomu, kombinovat a upravovat body vzorce objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You cannot change the text attributes of a formula object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nemůžete změnit textové atributy vzorce objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The text used in a formula is set when you create the formula in the Formula Editor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Text použitý ve vzorci je nastavena při vytvoření vzorec v editoru vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formula object size is set by the formula font size when the formula is created in the Formula Editor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikost vzorec objekt je nastaven podle velikosti písma vzorce, když je vytvořen vzorec ve vzorci Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The formula object size is protected in the Position and Size dialog, but this can be deselected if you wish.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikost vzorec objekt je chráněn v dialogu polohou a velikostí, ale to může být zrušen, pokud si budete přát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, this is not recommended as resizing a formula object using the Position and Size dialog could lead to distortion of a formula making it difficult to read.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, toto se nedoporučuje, protože velikosti formuli objekt pomocí dialogového okna svou polohou a velikostí může vést k narušení hospodářské formule takže je obtížně čitelný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A chart in a Calc spreadsheet is itself an OLE object, therefore, you cannot use the Formula Editor to create and insert a formula into a chart.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Graf v Calc je sám objektem OLE, proto nelze použít vzorec editor pro vytváření a vložit vzorec do grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert a formula into a chart, create the formula first using the Formula Editor and copy the formula to the clipboard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro vložení vzorec do grafu, vytvořit vzorec nejprve pomocí vzorce Editor a zkopírovat vzorec do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You then create your chart in Calc and paste the formula into your chart.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Potom vytvořit graf v Calcu a vložit vzorec do grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The formula is automatically converted into the correct format for insertion into the chart.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzorec je automaticky převedeny do správného formátu pro vložení do grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to change the formula at a later date, then you must repeat the whole process of creating, copying, and pasting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit vzorec k pozdějšímu datu, potom je nutné opakovat celý proces vytváření, kopírování a vkládání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This section explains how you can customize Math to suit the way you create formulas for use in LibreOffice documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato část vysvětluje, jak si můžete přizpůsobit tak, aby vyhovovaly matematiku tak, jak si vytvořit vzorce pro použití v dokumentech LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also, refer to Chapter 14, &lt;f0&gt;Customizing LibreOffice&lt;/f0&gt;, of this Guide for more general information on how to customize LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Také naleznete v kapitole 14, &lt;f0&gt;Přizpůsobení LibreOffice&lt;/f0&gt; této příručky pro obecnější informace o tom, jak přizpůsobit LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The primary purpose of Math is to create mathematical formulas, but it can also be used to write chemical formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Primárním cílem matematiky je vytvářet matematické vzorce, ale to může být také použit k napsání chemické vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, in chemical formulas, the chemical symbols are normally written in uppercase using non-italic characters.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, v chemických vzorcích, chemické symboly jsou obvykle napsáno velké použití non-kurzívou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following table shows some examples of chemical formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V následující tabulce jsou uvedeny některé příklady chemických vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Markup Language</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Markup Language</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>H_2 SO_4</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>H_2 SO_4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;df0&gt;&lt;d1/&gt;&lt;di2/&gt;&lt;s3&gt;formula&lt;/s3&gt;&lt;/df0&gt;or</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;df0&gt; &lt;d1 /&gt; &lt;di2 /&gt; &lt;s3&gt;vzorec&lt;/s3&gt; &lt;/df0&gt; nebo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;SO_4^{2-{}}&lt;/f0&gt;&lt;f1&gt; or &lt;/f1&gt;&lt;f2&gt;SO_4^{2"-"}&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; SO_4 ^ {2 - {}}&lt;/f0&gt; &lt;f1&gt;nebo&lt;/f1&gt; &lt;f2&gt;SO_4 ^ {2 „-"} &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To create chemical formulas using Math, you have to change the font used for variables to a non-italic font.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vytvořit chemické vzorce pomocí matematiku, budete muset změnit písmo používané pro proměnné, které mají non-kurzívou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on how to change fonts in a formula, see “&lt;bf0&gt;Formula fonts&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tom, jak změnit písma ve vzorci, naleznete v části „&lt;bf0&gt; Formule písma &lt;/bf0&gt;“ na straně &lt;bf1&gt;19 &lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For reversible reactions in chemical formulas, there is no symbol you can use for a double arrow in Math.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro vratné reakce v chemických vzorců, není tam žádný symbol můžete použít pro dvojitou šipku v Math.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have a font available with correct symbols for use in chemical formulas, then you can add these symbols to the Catalog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Máte-li písmo k dispozici se správnými symboly pro použití v chemických vzorců, pak můžete přidat tyto symboly do katalogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;f0&gt;&lt;bf1&gt;Catalog customization&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;34&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;for more information on how to add symbols to the Catalog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;f0&gt; &lt;bf1&gt;Katalog přizpůsobení&lt;/bf1&gt; &lt;/f0&gt;“ na straně &lt;f2&gt;&lt;bf3&gt; 34&lt;/bf3&gt; &lt;/f2&gt; &lt;f4&gt;&lt;s5 /&gt;&lt;/f4&gt; více informací o tom, jak přidat symboly katalogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Formula Editor and Elements dock can cover a large part of your document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formula Editor a Elements dock může pokrýt velkou část dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To help create more space and/or allow you to move either the Formula Editor or Elements dock out of the way, you can turn both of them into floating dialogs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přispět k vytvoření více prostoru a / nebo vám umožní přesunout buď Formula Editor nebo Elements ukotvit z cesty, můžete se obrátit oba do plovoucí dialogy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position the cursor on the frame.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Najeďte kurzorem na rámu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hold down the &lt;f0&gt;Ctrl&lt;/f0&gt; key and double-click.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podržte &lt;f0&gt;Ctrl&lt;/f0&gt; klíč a poklepejte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This turns the Formula Editor into the Commands dialog (Figure &lt;f1&gt;&lt;t2&gt;16&lt;/t2&gt;&lt;/f1&gt;) and the Elements dock into the Elements dialog (Figure &lt;f3&gt;&lt;t4&gt;17&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato technologie mění editor vzorců do dialogového příkazy (obr &lt;f1&gt;&lt;t 2&gt; 16&lt;/t2&gt; &lt;/f1&gt;) a prvky ukotvit do dialogu Elements (obr &lt;f3&gt;&lt;t4&gt; 17&lt;/t4&gt; &lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Commands dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;16 &lt;/seq0&gt;: Dialog Příkazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Elements dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;17 &lt;/seq0&gt;: Dialog Elements</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To return the Commands dialog and Elements dialog back to their default positions:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro návrat dialog příkazy a prvky dialogového zpět do svých výchozích pozic:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position the cursor on the frame of the dialog, NOT the title bar at the top of the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte kurzor na rámu dialogu, nikoli záhlaví v horní části dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add keyboard shortcuts to LibreOffice to make creating documents much easier and to match your workflow.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat klávesové zkratky pro LibreOffice, aby se vytváření dokumentů mnohem jednodušší a aby odpovídaly svůj pracovní postup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you regularly use a symbol that is not available in Math, you can add it to the Symbols dialog (Figure &lt;f0&gt;&lt;t1&gt;18&lt;/t1&gt;&lt;/f0&gt;) by opening the Edit Symbols dialog (Figure &lt;f2&gt;&lt;t3&gt;19&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud pravidelně používáte symbol, který není k dispozici v matematice, můžete ji přidat do dialogového okna symboly (obr &lt;f0&gt;&lt;t1&gt; 18&lt;/t1&gt; &lt;/f0&gt;) otevřením Upravit symboly dialog (viz obrázek &lt;f2&gt;&lt;t3&gt; 19&lt;/t3&gt; &lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the Edit Symbols dialog you can add symbols to a symbol set, edit symbol sets, or modify symbol notations.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Používání symbolů Úpravy dialogu můžete přidávat symboly sadu symbolů, upravovat znakových sad, nebo změnit symbol notace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also define new symbol sets, assign names to symbols, or modify existing symbol sets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také definovat nové sady symbolů, přiřadit jména k symbolům, nebo upravit existující sady symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Symbols&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Symbols&lt;/f1&gt; icon in the Tools toolbar to open the Symbols dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Nástroje&gt; Symboly&lt;/f0&gt; na liště menu, nebo klikněte na &lt;f1&gt;Symboly&lt;/f1&gt; ikony v panelu nástrojů Nástroje pro otevření dialogu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt; button to open the Edit Symbols dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;tlačítko Upravit&lt;/f0&gt; otevřete dialogové okno Upravit symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a font from the &lt;f0&gt;Font&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte písmo ze &lt;f0&gt;Písmo&lt;/f0&gt; rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a symbol character that you want to add from the preview box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte symbol znak, který chcete připojit, v okně náhledu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may have to scroll down in the preview box to locate the symbol you want to use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možná se budete muset posunout dolů v náhledovém okně vyhledejte symbol, který chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The small right preview box displays the new symbol.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Malý vpravo náhled okno zobrazí nový symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Symbol&lt;/f0&gt; box, type a memorable name for the symbol you are adding.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Symbol&lt;/f0&gt; box, zadejte zapamatovatelné jméno pro symbol, který přidáváte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Symbol set&lt;/f0&gt; box, select a symbol set from the drop-down list to add your new symbol to, or type a new name to create a new symbol set for your new symbol.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Sada symbolů&lt;/f0&gt; vyberte sadu znaků, z rozevíracího seznamu přidat novou značku, nebo zadejte nový název pro vytvoření nové sady symbolů pro váš nový symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If required, select a font style from the &lt;f0&gt;Style&lt;/f0&gt; drop-down list – &lt;f1&gt;Standard&lt;/f1&gt;, &lt;f2&gt;Italic&lt;/f2&gt;, &lt;f3&gt;Bold&lt;/f3&gt;, or &lt;f4&gt;Bold, Italic&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je to nutné, vyberte styl písma z tlačítek &lt;f0&gt;Styl&lt;/f0&gt; rozevíracího seznamu - &lt;f1&gt;standardní&lt;/f1&gt; &lt;f2&gt;kurzíva&lt;/f2&gt; &lt;f3&gt;Tučné &lt;/f3&gt;, nebo &lt;f4&gt;tučné, kurzíva &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Add&lt;/f0&gt;, then click &lt;f1&gt;OK&lt;/f1&gt; to close the Edit Symbols dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Přidat &lt;/f0&gt;, klepněte na tlačítko &lt;f1&gt;OK&lt;/f1&gt; zavřete dialogové okno Upravit symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The new symbol and, if created, new symbol set are now available for use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nový symbol a pokud je vytvořen nový symbol set jsou nyní k dispozici pro použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Symbols dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;18 &lt;/seq0&gt;: Dialog symboly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: The Edit Symbols dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;19 &lt;/seq0&gt;: Dialog Upravit symboly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a new symbol is added to the catalog, you can type a percentage sign (%) followed by the new name into the markup language in the Formula Editor and your new symbol will appear in your formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li nový symbol přidán do katalogu, můžete zadat procentuální znak (%) následovaný novým názvem do značkovacího jazyka ve vzorci editoru a váš nový symbol se objeví ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remember that symbol names are case sensitive, for example, &lt;f0&gt;%prime&lt;/f0&gt; is a different symbol to &lt;f1&gt;%Prime&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nezapomeňte, že názvy symbolů jsou velká a malá písmena, například &lt;f0&gt;% prime&lt;/f0&gt; je jiný symbol &lt;f1&gt;% Prime &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Numerous free fonts are available that contain several symbols if you cannot find a symbol to use in the fonts already installed on your computer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Četné fonty jsou zdarma k dispozici, který obsahuje několik symbolů, pokud nemůžete najít symbol, který bude použit v písmech již nainstalované v počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, the STIX font was developed specially for writing mathematical and technical texts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například STIX font byl vyvinut speciálně pro psaní matematických a odborných textů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also, the DejaVu and Lucida fonts have a wide range of symbols that you can use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Také, DejaVu a Lucida písma mají širokou škálu značek, které můžete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When LibreOffice is installed on a computer, only those user-defined symbols that actually occur in the document are stored with it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li LibreOffice nainstalován v počítači, pouze ty uživatelem definované symboly, které ve skutečnosti se vyskytují v dokumentu jsou uloženy s ním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sometimes it is useful to embed all the user-defined symbols, so that when the document is transferred to another computer it can be edited by another person.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Někdy je vhodné, aby v sobě nesou všechny uživatelem definovaných symbolů, takže když je dokument převeden na jiný počítač může být upravován jinou osobou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Math &gt; Settings&lt;/f0&gt;, uncheck the option &lt;f1&gt;Embed only used symbols (smaller file size)&lt;/f1&gt;.This setting is only available when you are working with LibreOffice Math.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Math&gt; Nastavení &lt;/f0&gt;, zrušte zatržení u volby &lt;f1&gt;Vložit pouze použité symboly (menší velikost souboru)&lt;/f1&gt; Nastavení.To je k dispozici pouze v případě, že pracujete s LibreOffice Math,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the name of a symbol as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete změnit název symbolu takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the symbol name you want to change from the &lt;f0&gt;Old symbol&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte název symbolu, který chcete změnit z &lt;f0&gt;Old symbol&lt;/f0&gt; rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The symbol appears in the left preview pane at the bottom of the Edit Symbols dialog (&lt;f1&gt;Figure &lt;s2/&gt;&lt;/f1&gt;&lt;f3&gt;&lt;t4&gt;19&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Symbol se objeví v levém panelu náhledu v dolní části dialogu Upravit symboly (&lt;f1&gt; Obr &lt;s2 /&gt;&lt;/f1&gt; &lt;f3&gt;&lt;t4&gt; 19&lt;/t4&gt; &lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type a new name for the symbol in the &lt;f0&gt;Symbol&lt;/f0&gt; text box, or select a new name from the &lt;f1&gt;Symbol&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte nový název symbolu v &lt;f0&gt;Symbol&lt;/f0&gt; textového pole, nebo vybrat nový název z &lt;f1&gt;Symbol&lt;/f1&gt; rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The new symbol name appears above the right preview pane at the bottom of the Edit Symbols dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nový název se objeví symbol nad pravým podokně náhledu v dolní části dialogového okna Upravit symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Modify&lt;/f0&gt; and the symbol name is changed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Upravit&lt;/f0&gt; a název symbol je změněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Edit Symbols dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;OK&lt;/f0&gt; zavřete dialogové okno Upravit symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can move a symbol from one symbol set to another as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přesunout z jednoho symbolu symbol sady do druhého takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Old symbol set&lt;/f0&gt; drop-down list, select the symbol set where the symbol you want to move is located.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Old Sada symbolů&lt;/f0&gt; V rozevíracím seznamu vyberte sadu symbolů, kde se nachází symbol, který chcete přesunout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the symbol name you want move from the &lt;f0&gt;Old symbol&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte název symbolu chcete pohybovat od &lt;f0&gt;Old symbol&lt;/f0&gt; rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The symbol appears in the left preview pane at the bottom of the Edit Symbols dialog (Figure &lt;f1&gt;&lt;t2&gt;19&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Symbol se objeví v levém panelu náhledu v dolní části dialogu Upravit symboly (obr &lt;f1&gt;&lt;t 2&gt; 19&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Symbol set&lt;/f0&gt; drop-down list, select the symbol set that you want to move the symbol to.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Sada symbolů&lt;/f0&gt; drop-down list, vyberte symbolovou sadu, kterou chcete přesunout na symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The new symbol set name appears below the right preview pane at the bottom of the Edit Symbols dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nový symbol set název se objeví pod pravém podokně náhledu v dolní části dialogového okna Upravit symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Modify&lt;/f0&gt; and the symbol is moved to the new symbol set.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Upravit&lt;/f0&gt; a symbol je přesunuta do nového sadu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can delete a symbol from a symbol set as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete odstranit symbol z symbol je stanovena následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Old symbol set&lt;/f0&gt; drop-down list, select the symbol set from which you want to delete the symbol.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Old Sada symbolů&lt;/f0&gt; V rozevíracím seznamu vyberte sadu symbolů, ze kterého chcete odstranit značku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the symbol name you want delete from the &lt;f0&gt;Old symbol&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte název symbolu, který chcete vymazat ze &lt;f0&gt;Old symbol&lt;/f0&gt; rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Delete&lt;/f0&gt; and the symbol is deleted from the symbol set without any confirmation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Smazat&lt;/f0&gt; a symbol je odstraněn ze sady symbolů bez potvrzení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The only way you can delete a symbol set is by deleting all of the symbols in that set.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jediný způsob, jak můžete odstranit sadu symbolů je smazáním všechny symboly v tomto setu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you delete the last symbol from a set, the set is also deleted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při odstranění posledního symbolu ze sady, sada také odstraněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Old symbol – select the name of the current symbol.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Starý symbol - vyberte název aktuálního symbolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The symbol, the name of the symbol, and the set that the symbol belongs to are displayed in the left preview pane at the bottom of the Edit Symbols dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Symbol, jméno symbolu, a soubor, který symbol patří jsou zobrazeny v levé části okna náhledu v dolní části dialogového okna Upravit symboly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Old symbol set – this list box contains the name of the current symbol set.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Starý symbol set - tento seznam obsahuje název aktuální sadu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also select a different symbol set using this list box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také zvolit jinou sadu symbolů pomocí tohoto seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Symbol – lists the names for the symbols in the current symbol set.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Symbol - uvádí názvy symbolů v aktuální sadu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a name from the list or type a name for a newly added symbol.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte jméno ze seznamu nebo zadejte název nově přidaného symbolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Symbol set – this list box contains the names of all existing symbol sets.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sada symbolů - tento seznam obsahuje názvy všech existujících znakových sad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can modify a symbol set or create a new one.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete upravit sadu znaků nebo vytvořit novou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font – displays the name of the current font and enables you to select a different font.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Písma - zobrazí název aktuálního písma a umožňuje vybrat jiné písmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subset – if you selected a non-symbol font in the Font list box, you can select a Unicode subset in which to place your new or edited symbol.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podmnožina - pokud jste vybrali non-symbol písmo v seznamu písmo, můžete si vybrat podmnožinu Unicode, ve kterém umístit své nové nebo upravené symbol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a subset has been selected, all symbols belonging to this subset of the current symbol set are displayed in the Symbol list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když byla vybrána podmnožina, všechny symboly, které patří do této podskupiny aktuální sadu symbolů jsou zobrazeny v seznamu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Style – the current style of font is displayed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Style - zobrazí se aktuální styl písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the font style by selecting one from the list box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete změnit styl písma výběrem některého ze seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add – click this button to add the symbol shown in the right preview window to the current symbol set.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidat - kliknutím na toto tlačítko přidáte symbol zobrazený v pravém náhledovém okně na současnou sadu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will be saved under the name displayed in the Symbol list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Bude uložen pod názvem zobrazeným v seznamu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You must specify a name under Symbol or Symbol set to be able to use the Add button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je nutné zadat název, pod Symbol nebo sadu symbolů, aby bylo možné použít tlačítko Přidat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Names cannot be used more than once.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jména nelze použít více než jednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modify – click this button to replace the name of the symbol shown in the left preview window (the old name is displayed in the Old symbol list) with the new name you have entered in the Symbol list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Modifikovat - po kliknutí na toto tlačítko nahradí název symbolu uvedeného v levém náhledovém okně (starý název je zobrazen v historickém seznamu symbolů) s novým jménem, ​​které jste zadali v seznamu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete – click this button to remove the symbol shown in the left preview window from the current symbol set.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vymazat - klikněte na toto tlačítko k odstranění symbol zobrazený v levém náhledovém okně ze stávajícího sadu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There will be confirmation of deletion.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Bude potvrzení vymazání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting the last remaining symbol of a symbol set also deletes the symbol set.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Smazání poslední zbývající symbol symbol sady smaže také sadu symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel – click this button at any time to close the dialog without saving any of the changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Storno - klikněte na toto tlačítko kdykoli zavřít dialogové okno bez uložení změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The grave accent (`) inserts an additional small space and the tilde (~) inserts an additional large space into formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Čárka ( `) vloží přídavný malý prostor, a vlnovka (~) vloží další velký prostor do vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, in the basic installation of LibreOffice, these symbols are ignored when they occur at the end of a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, v základní instalaci LibreOffice, tyto symboly jsou ignorovány, pokud se vyskytují na konci vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are working with running text in a formula, it may be necessary to include spacing at the end of formulas as well.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud pracujete s běžící text ve vzorci, může být nezbytné, aby zahrnovala rozteč na konci vzorců stejně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This customization is only required when you are working with a Math document and is not required when you are inserting a formula into another LibreOffice component.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto přizpůsobení je nutné pouze v případě, že pracujete s dokumentem Math a není nutná, když se vloží vzorec do jiného LibreOffice komponentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add spacing at the end of formula in Math, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Math &gt; Settings&lt;/f0&gt; on the Menu bar and uncheck &lt;f1&gt;Ignore ~ and ` at the end of the line&lt;/f1&gt; in the &lt;f2&gt;Miscellaneous Options&lt;/f2&gt; section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat řádkování na konec vzorce v Math, přejděte na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Math&gt; Nastavení&lt;/f0&gt; na panelu nabídek a zrušte &lt;f1&gt;Ignorovat ~ a `na konci řádku&lt;/f1 &gt; v &lt;f2&gt;Další možnosti&lt;/f2&gt; oddílu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you create formulas frequently in your documents, you can customize LibreOffice by adding extensions that are designed to help you create formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud vytvoříte vzorec často ve svých dokumentech, můžete přizpůsobit LibreOffice přidáním rozšíření, které jsou navrženy tak, aby vám pomohou vytvořit vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extensions are easily installed using the Extension Manager.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozšíření lze snadno instalovat pomocí aplikace Extension Manager.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on how to install extensions, see Chapter 14 of the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tom, jak instalovat rozšíření, viz kapitola 14 o &lt;f0&gt;Getting Started Guide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One extension that is recommended for installation is &lt;f0&gt;Dmaths&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jedním z rozšíření, které je doporučeno pro instalaci je &lt;f0&gt;Dmaths &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This extension is designed for use in Writer and adds a mathematical macro package providing five toolbars for creating formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto rozšíření je určen pro použití v aplikaci Writer a dodává matematický makro balík poskytuje pět panely nástrojů pro vytváření vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on this extension, go to the website &lt;a1&gt;http://www.dmaths.org&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tomto rozšíření, jděte na webové stránky &lt;a1&gt;http://www.dmaths.org &lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A second extension that is recommended is &lt;f0&gt;Formatting of All Math Formulas&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Druhé rozšíření, které je doporučeno je &lt;f0&gt;Formátování Všechny Math Formulas &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It allows you to format all Math formulas in your Writer, Calc, Draw, or Impress document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To umožňuje formátovat všechny vzorců Math v aplikaci Writer, Calc, kreslit nebo Impress dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change font and font size for all formulas or only for selected formulas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete změnit písmo a velikost písma pro všechny vzorcích nebo pouze u vybraných vzorcích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on this extension, go to &lt;a1&gt;https://extensions.libreoffice.org/extensions/formatting-of-all-math-formulas&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací o tomto rozšíření, přejděte na &lt;a1&gt;https://extensions.libreoffice.org/extensions/formatting-of-all-math-formulas &lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to exporting documents as PDFs, LibreOffice offers the possibility of saving formulas in the MathML format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kromě exportu dokumentů ve formátu PDF, LibreOffice nabízí možnost ukládání vzorců ve formátu MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This allows you or another person to insert formulas into documents that were created in other software, for example, Microsoft Office or an internet browser.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To umožňuje, nebo jiná osoba vložit vzorce do dokumentů, které byly vytvořeny v jiném softwaru, například Microsoft Office nebo internetový prohlížeč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some internet browsers do not fully support the MathML format and your formula may not display correctly.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé internetové prohlížeče nejsou plně podporují formát MathML a váš vzorec nemusí správně zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are working on a Math document, go to &lt;f0&gt;File &gt; Save as&lt;/f0&gt; on the Menu bar or use the keyboard combination &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;Shift&lt;/f2&gt;+&lt;f3&gt;S&lt;/f3&gt; to open the Save as dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud pracujete na dokumentu Math, přejděte na &lt;f0&gt;Soubor&gt; Uložit jako&lt;/f0&gt; na liště menu nebo pomocí kombinace kláves &lt;f1&gt;Ctrl&lt;/f1&gt; + &lt;f2&gt;Shift&lt;/f2&gt; + &lt; f3&gt;S&lt;/f3&gt; otevřete dialog Uložit jako.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select MathML from the list of available file formats to save your formula as MathML.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte MathML ze seznamu dostupných formátů pro uložení vzorec jako MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are working in another LibreOffice component, right-click on the formula object and select &lt;f0&gt;Save copy as&lt;/f0&gt; from the context menu to open the Save as dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud pracujete v jiném LibreOffice složky, klepněte pravým tlačítkem myši na vzorec objekt a vyberte možnost &lt;f0&gt;Uložit kopii jako&lt;/f0&gt; z kontextového menu a otevře se dialog Uložit jako.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select MathML from the list of available file formats to save the formula object as MathML.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte MathML ze seznamu dostupných formátů uložit vzorec objekt jako MathML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Math you can also import a MathML formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V Math můžete také importovat MathML vzorec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Tools &gt; Import MathML from Clipboard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte &lt;f0&gt;Nástroje&gt; import MathML ze schránky &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To control how formulas in Microsoft format are imported and exported using LibreOffice, go to &lt;f0&gt;Tools &gt; Options &gt; Load/Save &gt; Microsoft Office&lt;/f0&gt; on the Menu bar and select or deselect the options for &lt;f1&gt;MathType to LibreOffice Math or reverse&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li určit, jak vzorce ve formátu Microsoft je importovat a exportovat pomocí LibreOffice, přejděte na &lt;f0&gt;Nástroje&gt; Možnosti&gt; Načítání / Ukládání&gt; Microsoft Office&lt;/f0&gt; na panelu nabídek a vyberte nebo zrušte výběr volby pro &lt;f1&gt;MathType na LibreOffice Math nebo vzad &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select this option if Microsoft OLE objects are to be converted into the specified LibreOffice OLE object when a Microsoft document is opened in LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tuto možnost vyberte, pokud mají být převedeny na zadaný objekt LibreOffice OLE, když je dokument Microsoft otevře v LibreOffice objekty Microsoft OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For formulas, any embedded MathType objects must not exceed the MathType 3.1 specifications to be successfully loaded and converted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro vzorců, musí vnořené MathType objekty, které nejsou vyšší než specifikace MathType 3.1, které mají být úspěšně zavést a převedeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information on MathType format can be found on the website &lt;a0&gt;http://www.dessci.com/en&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informace o formátu MathType je možné nalézt na webových stránkách &lt;a0&gt;http://www.dessci.com/en &lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a document containing OMML formulas has been saved in .docx format and then converted to the older .doc format, then any OMML objects are converted into graphics, which will be displayed in LibreOffice as graphics.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li dokument obsahující OMML vzorců byl uložen ve formátu.docx a pak převede na starším formátu.doc, pak jakékoliv předměty OMML jsou přeměněny na grafiku, které budou zobrazeny v LibreOffice jako grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select this option if LibreOffice OLE objects are to be converted and saved in Microsoft file format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tuto možnost vyberte, pokud mají být převedeny a uloženy ve formátu Microsoft objekty LibreOffice OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice converts any formulas into a format that can be read and modified by Microsoft Equation Editor and MathType.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice převede všechny receptury do formátu, který lze číst a upravovat Microsoft Editor rovnic a MathType.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When this option is not selected, the formula is treated as an OLE object on conversion into a .doc format and remains linked to LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Není-li tato možnost vybrána, vzorec je zacházeno jako OLE objekt na konverzi do formátu DOC a zůstává spojena s LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A double-click on the object in Microsoft Office will attempt to launch LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dvojitým kliknutím na objekt v Microsoft Office se pokusí spustit LibreOffice.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

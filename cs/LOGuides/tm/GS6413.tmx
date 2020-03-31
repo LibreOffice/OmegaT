@@ -1,0 +1,2151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Python macros&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;27&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt; Python makra&lt;/t0&gt; &lt;f1&gt;|&lt;/f1&gt; &lt;t2&gt;27 &lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;28&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Finding more information&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt; 28&lt;/t0&gt; &lt;s1 /&gt; &lt;f2&gt;|&lt;/f2&gt; &lt;t3&gt;Vyhledání více informací &lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;s0/&gt;&lt;t1&gt;March&lt;/t1&gt;&lt;s2/&gt;&lt;t3&gt;2020&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zveřejněny &lt;s0 /&gt; &lt;t1&gt;March&lt;/t1&gt; &lt;s2 /&gt; &lt;t3&gt;2020 &lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Defining variables using DIM</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Definování proměnné pomocí DIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using extensions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>pomocí rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Overview of BeanShell, JavaScript, and Python macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přehled BeanShell, JavaScriptu a Python makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BeanShell macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>BeanShell makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JavaScript macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>makra JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Python macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>python makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Printed and ebook materials</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tištěný a ebook materiály</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A macro is a set of commands or keystrokes that are stored for later use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makro je sada příkazů nebo stisky kláves, které jsou uloženy pro pozdější použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An example of a simple macro is one that enters your address into an open document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příklad jednoduchého makra, je ten, který zadá svoji adresu do otevřeného dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use macros to automate both simple and complex tasks.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít makra pro automatizaci jednoduchých i složitých úkolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Macros are very useful when you have to repeat the same task in the same way.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makra jsou velmi užitečné, když budete muset opakovat stejný úkol stejným způsobem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The simplest way to create a macro is to record a series of actions through LibreOffice’s user interface.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejjednodušší způsob, jak vytvořit makro je zaznamenat řadu akcí přes uživatelské rozhraní LibreOffice je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice saves recorded macros using the open source LibreOffice Basic scripting language, which is a dialect of the well-known BASIC programming language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice ukládá zaznamenané makra pomocí open source LibreOffice Basic skriptovací jazyk, který je dialekt známý BASIC programovacího jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Such macros can be edited and enhanced after recording using the built-in LibreOffice Basic Integrated Development Environment (IDE).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto makra mohou být editovány a posílena po nahrávání pomocí vestavěného v LibreOffice Basic integrované vývojové prostředí (IDE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most powerful macros in LibreOffice are created by writing code using one of the four supported scripting languages (LibreOffice Basic, BeanShell, JavaScript, and Python).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejvýkonnější makra v LibreOffice jsou vytvořeny psaní kódu pomocí jednoho ze čtyř podporovaných skriptovacích jazyků (LibreOffice Basic, BeanShell, JavaScript a Python).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This chapter provides an overview of LibreOffice’s macro facilities, mostly focused on its default macro scripting language, LibreOffice Basic.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kapitola poskytuje přehled makro zařízení LibreOffice je převážně zaměřena na svou standardní makro skriptovací jazyk, LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some examples are included for the BeanShell, JavaScript, and Python scripting languages but fuller descriptions of the facilities for these languages are beyond the scope of this chapter.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé příklady jsou zahrnuty pro skriptovací jazyky BeanShell, JavaScript a Python ale plnější popisy zařízení pro tyto jazyky jsou nad rámec této kapitoly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You should create a library and module to contain your macro; see “&lt;bf3&gt;Macro organization&lt;/bf3&gt;” on page &lt;bf4&gt;16&lt;/bf4&gt;&lt;s5/&gt;for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Měli byste vytvořit knihovnu a modul obsahovat makra; viz „&lt;bf3&gt; Makro organizace &lt;/bf3&gt;“ na straně &lt;bf 4&gt;16&lt;/BF 4&gt; &lt;s5 /&gt; Další informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; Základní&lt;/f0&gt; pro otevření dialogu LibreOffice Basic makra (Obr &lt;t1&gt;1 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the LibreOffice Basic Macro Organizer dialog (Figure &lt;t1&gt;2&lt;/t1&gt;) and select the &lt;f2&gt;Libraries&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Organizér&lt;/f0&gt; otevřete dialogové okno makra LibreOffice Basic Organizátor (Obr &lt;t1&gt;2 &lt;/t1&gt;) a vyberte &lt;f2&gt;kartu knihovny &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Set the &lt;f0&gt;Location&lt;/f0&gt; drop-down to &lt;f1&gt;My Macros &amp; Dialogs&lt;/f1&gt;, which is the default location.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavte &lt;f0&gt;Umístění&lt;/f0&gt; drop-dolů &lt;f1&gt;My Makra a dialogy &lt;/f1&gt;, což je výchozí místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; to open the New Library dialog (not shown here).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Nová&lt;/f0&gt; otevřete dialogové okno pro novou knihovnu (zde není zobrazen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter a library name, for example &lt;f0&gt;TestLibrary&lt;/f0&gt;, and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte název knihovny, například &lt;f0&gt;TestLibrary&lt;/f0&gt; a klikněte na &lt;f1&gt;OK &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the LibreOffice Basic Macro Organizer dialog, select the &lt;f0&gt;Modules&lt;/f0&gt; tab (Figure &lt;f1&gt;&lt;t2&gt;3&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na Makro dialogu LibreOffice Basic Organizátor, vyberte &lt;f0&gt;kartu moduly&lt;/f0&gt; (Obrázek &lt;f1&gt;&lt;t2&gt; 3&lt;/t2&gt; &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Module&lt;/f0&gt; list, expand &lt;f1&gt;My Macros&lt;/f1&gt; and select your library (in the example, &lt;f2&gt;TestLibrary&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;modulu&lt;/f0&gt; seznamu, rozbalte &lt;f1&gt;My Makra&lt;/f1&gt; a vyberte knihovnu (v příkladu, &lt;f2&gt;TestLibrary &lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A module named &lt;f3&gt;Module1&lt;/f3&gt; already exists and can contain your macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Modul s názvem &lt;f3&gt;Module1&lt;/f3&gt; již existuje a může obsahovat makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you wish, you can click &lt;f4&gt;New&lt;/f4&gt; to create another module in the library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud chcete, můžete kliknout na tlačítko &lt;f4&gt;Nový&lt;/f4&gt; vytvořit další modul v knihovně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Module1&lt;/f0&gt;, or the new module that you created, and click &lt;f1&gt;Edit&lt;/f1&gt; to open the Integrated Development Environment (IDE) (Figure &lt;t2&gt;4&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Module1 &lt;/f0&gt;, nebo nový modul, který jste vytvořili, a klikněte na &lt;f1&gt;Edit&lt;/f1&gt; otevřít integrované vývojové prostředí (IDE) (obrázek &lt;t2&gt;4 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The IDE is a text editor and associated facilities that are built into LibreOffice and allow you to create, edit, run, and debug macros.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>IDE je textový editor a související zařízení, které jsou postaveny do LibreOffice a umožňují vytvářet, upravovat, běh a ladění maker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: LibreOffice Basic Macro Organizer dialog, Libraries tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;2 &lt;/seq0&gt;: Makro dialog Organizátor, Záložka LibreOffice Basic Libraries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: LibreOffice Basic Macro Organizer dialog, Modules tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;3 &lt;/seq0&gt;: LibreOffice Basic Macro dialog Organizátor, Záložka Moduly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Integrated Development Environment window</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;4 &lt;/seq0&gt;: Okno Integrated Development Environment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a new module is created, it contains a comment and an empty macro named &lt;f0&gt;Main&lt;/f0&gt;, which does nothing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když je vytvořen nový modul obsahuje komentář a prázdné makro s názvem &lt;f0&gt;Main &lt;/f0&gt;, který nedělá nic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add the new macro either before &lt;f0&gt;Sub Main&lt;/f0&gt; or after &lt;f1&gt;End Sub&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidat nové makro buď před &lt;f0&gt;Sub Main&lt;/f0&gt; nebo po &lt;f1&gt;End Sub &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;t2&gt;2&lt;/t2&gt;&lt;s3/&gt;shows the new macro has been added before &lt;f4&gt;Sub Main&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;t2&gt;2&lt;/t2&gt; &lt;s3 /&gt; ukazuje, že nové makro bylo před &lt;f4&gt;Sub Main&lt;/f4&gt; přidal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Compile&lt;/f0&gt; icon on the Macro toolbar to compile the macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Compile&lt;/f0&gt; na ikonu na panelu nástrojů Makro sestavit makro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Place the cursor in the &lt;f0&gt;HelloMacro&lt;/f0&gt; subroutine and click the &lt;f1&gt;Run&lt;/f1&gt; icon on the Macro toolbar, or press the &lt;f2&gt;F5&lt;/f2&gt; key, to run the &lt;f3&gt;HelloMacro&lt;/f3&gt; subroutine in the module.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte kurzor v &lt;f0&gt;HelloMacro&lt;/f0&gt; podprogram a klikněte na &lt;f1&gt;Spustit&lt;/f1&gt; ikony na makro panelu nástrojů nebo stiskněte &lt;f2&gt;F5 &lt;/f2&gt;, o spuštění &lt;f3&gt;HelloMacro&lt;/f3&gt; podprogram v modulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select and run any macro in the module, click the &lt;f0&gt;Select Macro&lt;/f0&gt; icon on the Standard toolbar or go to &lt;f1&gt;Tools &gt; Organize Macros &gt; Basic&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybrat a spustit libovolnou makro v modulu, klikněte na &lt;f0&gt;Vybrat Makro&lt;/f0&gt; ikonu na panelu nástrojů Standardní nebo přejděte na &lt;f1&gt;Nástroje&gt; Organizovat makra&gt; Základní &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;2&lt;/seq0&gt;: Module1 after adding the new macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;2 &lt;/seq0&gt;: Module1 po přidání nové makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, if something else is copied to the clipboard, the contents of the clipboard are changed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se však něco jiného se zkopíruje do schránky, obsah schránky se změní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For some cases when you want to repeatedly enter information into a document, it may be more convenient to create an AutoText.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>U některých případů, kdy si přejete opakovaně zadávat informace do dokumentu, může být výhodnější vytvořit automatického textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 2, Working with Text: Basics, in the &lt;f0&gt;Writer Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz kapitola 2, práci s textem: Basics, v &lt;f0&gt;Writer Guide&lt;/f0&gt; pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure macro recording is enabled by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; and selecting the option &lt;f1&gt;Enable macro recording&lt;/f1&gt; under &lt;f2&gt;Optional Features&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že záznam maker je povolen tím, že půjdete na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Pokročilé&lt;/f0&gt; a výběrem možnosti &lt;f1&gt;Povolit nahrávání makro&lt;/f1&gt; pod &lt;f2&gt;Volitelné vlastnosti &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; to start recording a macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje&gt; Makra&gt; Record Macro&lt;/f0&gt; na začátek záznamu makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A small dialog with a &lt;f1&gt;Stop Recording&lt;/f1&gt; button is displayed indicating that LibreOffice is recording a macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Malý dialog s &lt;f1&gt;Stop tlačítko nahrávání&lt;/f1&gt; Zobrazí naznačuje, že LibreOffice je záznam makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Stop Recording&lt;/f0&gt; on the small dialog &lt;i1/&gt;and the LibreOffice Basic Macros dialog opens (similar to Figure &lt;t2&gt;1&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;5&lt;/t4&gt;, but with different action buttons).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Zastavit záznam&lt;/f0&gt; na malé dialogové &lt;i1 /&gt; a otevře se dialogové okno LibreOffice Basic Makra (podobný obrázek &lt;t2&gt;1&lt;/t2&gt; &lt;s3 /&gt; na straně &lt;t4&gt;5 &lt;/t4 &gt;, ale s různými akčními tlačítky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find the library named &lt;f0&gt;Standard&lt;/f0&gt; in &lt;f1&gt;My Macros&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Najít knihovnu s názvem &lt;f0&gt;standardní&lt;/f0&gt; V &lt;f1&gt;My Makra &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note that every library container has a library named &lt;f2&gt;Standard&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všimněte si, že každý kontejner knihovna má knihovnu s názvem &lt;f2&gt;standardní &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the &lt;f0&gt;Standard&lt;/f0&gt; library and click &lt;f1&gt;New Module&lt;/f1&gt; to create a &lt;i2/&gt;new module to contain the macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte &lt;f0&gt;standardní&lt;/f0&gt; knihovnu a klikněte na &lt;f1&gt;Nový modul&lt;/f1&gt; vytvořit &lt;i2 /&gt; nový modul obsahovat makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The LibreOffice Basic Macros dialog now displays the name of the new module in the &lt;f2&gt;Standard&lt;/f2&gt; library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém LibreOffice Basic Makra nyní zobrazuje název nového modulu v &lt;f2&gt;standardní&lt;/f2&gt; knihovny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Macro Name&lt;/f0&gt; text box, type a name for the macro you have just recorded, for example &lt;f1&gt;EnterMyName&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;název makra&lt;/f0&gt; textového pole, zadejte název makra, které jste právě nahráli, například &lt;f1&gt;EnterMyName &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you followed all of the above steps, the &lt;f0&gt;Standard&lt;/f0&gt; library now contains a module named &lt;f1&gt;RecordsInsertText&lt;/f1&gt; and this module contains the &lt;f2&gt;EnterMyName&lt;/f2&gt; macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste postupovali podle všech výše uvedených kroků je &lt;f0&gt;standardní&lt;/f0&gt; Knihovna nyní obsahuje modul s názvem &lt;f1&gt;RecordsInsertText&lt;/f1&gt; a tento modul obsahuje &lt;f2&gt;EnterMyName&lt;/f2&gt; Makro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When LibreOffice creates a new module, it automatically adds the macro named &lt;f0&gt;Main&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když LibreOffice vytvoří nový modul automaticky přidá makro s názvem &lt;f0&gt;Main &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; to open the Macro Selector dialog (Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje&gt; Makra&gt; Spustit makro&lt;/f0&gt; otevřete dialogové okno Makro voliče (obr &lt;t1&gt;5 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, select your newly created macro &lt;f0&gt;EnterMyName&lt;/f0&gt; and click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například, vyberte nově vytvořený makra &lt;f0&gt;EnterMyName&lt;/f0&gt; a klikněte na &lt;f1&gt;Spustit &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog (Figure &lt;f1&gt;&lt;t2&gt;1&lt;/t2&gt;&lt;/f1&gt;), select your macro and click &lt;f3&gt;Run&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně přejděte na &lt;f0&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; Základní&lt;/f0&gt; pro otevření dialogu LibreOffice Basic makra (Obr &lt;f1&gt;&lt;t2&gt; 1&lt;/t2&gt; &lt;/f1&gt;), vyberte makro a klikněte &lt;f3&gt;Spustit &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Macro Selector dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;5 &lt;/seq0&gt;: Makro dialog na výběr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; Základní&lt;/f0&gt; pro otevření dialogu LibreOffice Basic makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select your new macro &lt;f0&gt;EnterMyName&lt;/f0&gt; and click &lt;f1&gt;Edit&lt;/f1&gt;.The Basic &lt;is2/&gt;&lt;is3/&gt;IDE&lt;ie4/&gt;&lt;ie5/&gt; will open and the macro &lt;f6&gt;EnterMyName&lt;/f6&gt; will be shown as in Listing &lt;t7&gt;3&lt;/t7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte si nové makro &lt;f0&gt;EnterMyName&lt;/f0&gt; a klikněte na &lt;f1&gt;Edit&lt;/f1&gt; tyto Základní &lt;is2 /&gt; &lt;is3 /&gt; IDE &lt;ie4 /&gt; &lt;ie5 /&gt; se otevře a makra &lt;f6&gt;EnterMyName&lt;/f6&gt; se zobrazí jako ve výpisu &lt;t7&gt;3 &lt;/t7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The discussion starts with first line of the macro and describes features through the whole listing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Diskuse začíná částí první řádek makra a popisuje funkce přes celý seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;3&lt;/seq0&gt;: Generated EnterMyname macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;3 &lt;/seq0&gt;: Vygenerovaný EnterMyname makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All comments in Basic macro coding begin with REM, which stands for remark.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechny komentáře v základní makro kódování začít s REM, což je zkratka pro poznámku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Individual macros are stored in subroutines and these subroutines begin with the keyword &lt;f0&gt;SUB&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jednotlivé makra jsou uloženy v podprogramech a tyto podprogramy začít s klíčovým slovem &lt;f0&gt;SUB &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The end of a subroutine is indicated by the words &lt;f1&gt;END SUB&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Konec podprogramu je označen slovy &lt;f1&gt;end sub &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The code starts by defining the subroutine named &lt;f2&gt;Main&lt;/f2&gt;, which is empty and does nothing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kód začíná tím, že definuje podprogram s názvem &lt;f2&gt;Main &lt;/f2&gt;, která je prázdná a nic nedělá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The next subroutine, &lt;f3&gt;EnterMyName&lt;/f3&gt;, contains the generated code for your macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příští podprogram, &lt;f3&gt;EnterMyName &lt;/f3&gt;, obsahuje vygenerovaný kód makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Another kind of subroutine is called a function, which is a subroutine that can return a value as a result of its work.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další druh podprogramu se nazývá funkce, což je podprogram, který může vrátit hodnotu jako výsledek své práce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Functions are defined by the keyword &lt;f0&gt;FUNCTION&lt;/f0&gt; at the beginning.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce jsou definovány pomocí klíčového slova &lt;f0&gt;FUNCTION&lt;/f0&gt; na začátku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Recorded macros in LibreOffice create subroutines only.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nahrané makra v LibreOffice vytvořit pouze podprogramy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Defining &lt;i0/&gt;variables using &lt;is1/&gt;&lt;is2/&gt;DIM</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Definice &lt;i0 /&gt; proměnné pomocí &lt;is1 /&gt; &lt;is2 /&gt; DIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;DIM&lt;/f0&gt; keyword originally stood for Dimension and was used to define the dimensions of an array.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;f0&gt;DIM&lt;/f0&gt; klíčové slovo původně stál na rozměr a byl použit pro definování rozměrů pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f1&gt;DIM&lt;/f1&gt; statement used in the &lt;f2&gt;EnterMyName&lt;/f2&gt; macro is similar to setting aside a piece of paper to be used to store a message or note.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f1&gt; DIM&lt;/f1&gt; prohlášení použit v &lt;f2&gt;EnterMyName&lt;/f2&gt; makro je podobné zrušení kus papíru, který bude použit pro uložení zprávy nebo poznámky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;EnterMyName&lt;/f0&gt; macro, the variables &lt;f1&gt;document&lt;/f1&gt; and &lt;f2&gt;dispatcher&lt;/f2&gt; are defined as the type object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;EnterMyName&lt;/f0&gt; makro proměnné &lt;f1&gt;dokument&lt;/f1&gt; a &lt;f2&gt;dispečer&lt;/f2&gt; jsou definovány jako objekt typu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other common variable types include string, integer, and date.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jiné typy běžné variabilní patří řetězec, celé číslo a datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A third variable, named &lt;t3/&gt;&lt;f4&gt;args1&lt;/f4&gt;, is an array of property values.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Třetí proměnná s názvem &lt;t3 /&gt; &lt;f4&gt;args1 &lt;/f4&gt;, je pole hodnot vlastností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A variable of type array allows a single variable to contain multiple values, similar to storing multiple pages in a single book.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proměnná typu pole umožňuje jediná variabilní, že obsahuje více hodnot, podobné ukládání více stránek v jedné knize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following is an explanation of the code used in the &lt;f0&gt;EnterMyName&lt;/f0&gt; macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Následuje vysvětlení kód použitý v &lt;f0&gt;EnterMyName&lt;/f0&gt; makro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Defines the start of the &lt;f0&gt;EnterMyName&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Definuje začátek &lt;f0&gt;EnterMyName&lt;/f0&gt; &lt;f1&gt;&lt;/f1&gt; makro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Defines &lt;f0&gt;document&lt;/f0&gt; as an object variable.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Definuje &lt;f0&gt;dokument&lt;/f0&gt; jako objektové proměnné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Objects are a specific variable type with multiple fields (s&lt;bk1/&gt;ometimes they are called properties) and actions (also they are called methods).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Objekty jsou specifické pro typ proměnná s více polí (y &lt;bk1 /&gt; ometimes nazývají vlastnosti) a akce (také se nazývají metody).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sometimes the word service is used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Někdy se používá služba slovo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Defines &lt;f0&gt;dispatcher&lt;/f0&gt; as an &lt;bs1/&gt;object&lt;be2/&gt; variable.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Definuje &lt;f0&gt;dispečer&lt;/f0&gt; jako &lt;bs1 /&gt; &lt;objektu be2 /&gt; proměnné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;ThisComponent&lt;/f0&gt; refers to the current document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; ThisComponent&lt;/f0&gt; odkazuje k aktuálnímu dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;CurrentController&lt;/f0&gt; is a property referring to a service that controls the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; CurrentController&lt;/f0&gt; je vlastnost odkazuje na služby, která řídí dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f1&gt;CurrentController&lt;/f1&gt; then dispatches the changes to the document frame.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f1&gt; CurrentController&lt;/f1&gt; pak odesílá změny v rámci dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Frame&lt;/f0&gt; is a controller property that returns the main frame for a document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; Frame&lt;/f0&gt; je řadič vlastnost, která vrátí hlavní rám pro dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, the variable named &lt;f1&gt;document&lt;/f1&gt; refers to a document’s frame, which receives dispatched commands.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proto je proměnná s názvem &lt;f1&gt;dokument&lt;/f1&gt; odkazuje na snímku dokumentu, což obdrží odesílají příkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice includes&lt;i0/&gt; &lt;i1/&gt;a &lt;f2&gt;DispatchHelper&lt;/f2&gt; service, which provides an easy way to dispatch a URL using one call instead of multiple ones and does most of the work when using dispatches in macros.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice obsahuje &lt;i0 /&gt; &lt;i1 /&gt; a &lt;f2&gt;DispatchHelper&lt;/f2&gt; služba, která poskytuje snadný způsob, jak vyslat URL pomocí jednoho volání namísto ty více a dělá většinu práce při použití telegramy v makrech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The method &lt;f3&gt;CreateUnoService&lt;/f3&gt; accepts the name of a service and it tries to create an instance of that service.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Metoda &lt;f3&gt;CreateUnoService&lt;/f3&gt; přijímá jméno služby a snaží se vytvořit instanci této služby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On completion, the dispatcher variable contains a reference to a &lt;f4&gt;DispatchHelper&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po dokončení dispečer proměnná obsahuje odkaz na &lt;f4&gt;DispatchHelper &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;com.sun.star.beans.PropertyValue&lt;/f0&gt; expression is a Universal Network Objects (UNO) structure.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;f0&gt;com.sun.star.beans.PropertyValue&lt;/f0&gt; Výraz je Universal Network Objects (UNO) strukturu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Structures are special variable types that contain other variables &lt;bk1/&gt;united by logical &lt;bk2/&gt;basis.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Struktury jsou speciální typy proměnných, které obsahují jiné proměnné &lt;bk1 /&gt; Spojené logickým &lt;bk2 /&gt; základ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An explanation of UNO and user structures &lt;bk3/&gt;goes far &lt;t4/&gt;beyond the scope of this book.&lt;bk5/&gt; For more information on creating and using structures, see the LibreOffice Help system and other Basic guides.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vysvětlení UNO a uživatelské struktuře &lt;bk3 /&gt; dalece &lt;t4 /&gt; nad rámec této knihy. &lt;bk5 /&gt; Další informace o vytváření a používání struktur, viz systém nápovědy LibreOffice a další základní vodítka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The next two arguments, frame name and search flags, are beyond the scope of this book.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Následující dva argumenty, název rámu a vyhledávání vlajky, jsou mimo rámec této knihy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The last argument is the array of property values to be used while executing the command &lt;f2&gt;InsertText&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poslední argument je pole hodnot vlastností, které mají být použity při provádění příkazu &lt;f2&gt;InsertText &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A common task is to copy rows and columns of data from a website and format them as a table in a text document as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Společným úkolem je zkopírovat řádky a sloupce dat z webových stránek a formátovat jako tabulku v textovém dokumentu takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy the data from the website to the clipboard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zkopírovat data z webové stránky do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reformat the text with tabs between columns so that it can be converted into a table using &lt;f0&gt;Table &gt; Convert &gt; Text to Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přeformátování textu s kartami mezi sloupy tak, aby mohl být převeden do tabulky pomocí &lt;f0&gt;Tabulka&gt; Převést&gt; Text na tabulku &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An example of copied data showing the FontWeight constants group from the API website is shown in Figure &lt;t0&gt;6&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příkladem zkopírovaných dat, která ukazují konstant skupinu FontWeight z webové stránky API je znázorněno na obr &lt;t0&gt;6 &lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure macro recording is enabled by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; and selecting the option &lt;f1&gt;Enable macro recording&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že záznam maker je povolen tím, že půjdete na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Pokročilé&lt;/f0&gt; a výběrem možnosti &lt;f1&gt;Povolit makra nahrávání &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, this feature is turned off when LibreOffice is installed on your computer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení je tato funkce vypnuta, když je LibreOffice nainstalován v počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; to start recording.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje&gt; Makra&gt; Record Macro&lt;/f0&gt; k zahájení nahrávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press &lt;f0&gt;Delete&lt;/f0&gt; to delete the lower case “s” and then press &lt;f1&gt;Shift+S&lt;/f1&gt; to add an upper case “S”.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stisknutím tlačítka &lt;f0&gt;Smazat&lt;/f0&gt; odstranit písmena „s“ a stiskněte tlačítko &lt;f1&gt;Shift + S&lt;/f1&gt; přidat velká písmena „S“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press &lt;f0&gt;Down Arrow&lt;/f0&gt; to move to the next line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stisknutím tlačítka &lt;f0&gt;šipku dolů&lt;/f0&gt; se přesuňte na další řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stop recording the macro and save the macro, see “&lt;bf0&gt;Recording a macro&lt;/bf0&gt;” on page &lt;bf1&gt;7&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zastavit záznam makra a uložit makro v části „&lt;bf0&gt; Záznam makra &lt;/bf0&gt;“ na straně &lt;bf1&gt;7 &lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The generated macro code in Listing &lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;has been modified to contain the step number in the comments to match the code to the steps above.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vygenerovaný kód makra ve výpisu &lt;t0&gt;4&lt;/t0&gt; &lt;s1 /&gt; byl změněn, aby obsahoval číslo kroku v komentářích, aby odpovídal kódu na výše uvedené kroky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If run on the DONTKNOW line, the word weight is moved to the front of the line, and the first “The” is changed to “She”.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud běh na DONTKNOW linii, váha slovo se přesune do přední linie a první „jen“ se změní na „ona“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is tedious to repeatedly run the macro using &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; when the macro can be run from the &lt;is1/&gt;IDE&lt;ie2/&gt; (Figure &lt;t3&gt;4&lt;/t3&gt;&lt;s4/&gt;on page &lt;t5&gt;6&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je to únavné opakovaně spustit makro pomocí &lt;f0&gt;Nástroje&gt; Makra&gt; Spustit makro &lt;/f0&gt;, když je makro lze spustit z &lt;is1 /&gt; IDE &lt;ie2 /&gt; (Obrázek &lt;t3&gt;4&lt;/t3&gt; &lt; S4 /&gt; na straně &lt;t5&gt;6 &lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here are a few tips to do the work easier.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde je několik tipů, jak dělat svou práci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you create a temporary macro using the same name, you can add that macro into the &lt;f0&gt;Main&lt;/f0&gt; subroutine and delete your macro after using.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Máte-li vytvořit dočasnou makro pomocí stejného názvu, můžete dodat, že makro do &lt;f0&gt;Main&lt;/f0&gt; podprogramu a vymazání makra po použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog (Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; Základní&lt;/f0&gt; pro otevření dialogu LibreOffice Basic makra (Obr &lt;t1&gt;1&lt;/t1&gt; &lt;s2 /&gt; na straně &lt;t3&gt;5 &lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unless you changed the first macro, it is the empty macro named &lt;f0&gt;Main&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste změnili první makro, to je prázdné makro s názvem &lt;f0&gt;Main &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modify &lt;f1&gt;Main&lt;/f1&gt; so that it reads as shown in Listing &lt;t2&gt;5&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upravit &lt;f1&gt;Main&lt;/f1&gt; tak, aby přečte, jak je uvedeno ve výpisu &lt;t2&gt;5 &lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now, you can run &lt;f0&gt;CopyNumToCol1&lt;/f0&gt; when you run the &lt;f1&gt;Main&lt;/f1&gt; macro by clicking the &lt;f2&gt;Run&lt;/f2&gt; icon in the Macro toolbar of the IDE, or pressing &lt;f3&gt;F5&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nyní můžete spustit &lt;f0&gt;CopyNumToCol1&lt;/f0&gt; při spuštění &lt;f1&gt;Main&lt;/f1&gt; makro kliknutím na &lt;f2&gt;Spustit&lt;/f2&gt; ikona Makro panelu nástrojů IDE, nebo stisknutím klávesy &lt;f3 &gt;F5 &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; and select the &lt;f1&gt;Keyboard&lt;/f1&gt; tab in the Customize dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Nástroje&gt; Vlastní&lt;/f0&gt; a vyberte f1&gt; / kartu &lt;klávesnice &lt;f1&gt;v dialogovém okně Vlastní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a shortcut key in the &lt;f0&gt;Shortcut Keys&lt;/f0&gt; list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte klávesovou zkratku v &lt;f0&gt;klávesových zkratek&lt;/f0&gt; seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then select &lt;f1&gt;LibreOffice Macros&lt;/f1&gt;, and further, a library container, a library, and a module in the &lt;f2&gt;Category&lt;/f2&gt; list where your &lt;bk3/&gt;modified &lt;f4&gt;Main&lt;/f4&gt; macro is.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poté zvolte &lt;f1&gt;LibreOffice Makra &lt;/f1&gt;, a dále, knihovna kontejner, knihovna a modul v &lt;f2&gt;Kategorie&lt;/f2&gt; seznam, kde se vaše &lt;bk3 /&gt; modifikované &lt;f4&gt;Main&lt;/f4 &gt; makro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the &lt;f5&gt;Main&lt;/f5&gt; macro in the &lt;f6&gt;Function&lt;/f6&gt; list and click the &lt;f7&gt;Modify&lt;/f7&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte &lt;f5&gt;Hlavní&lt;/f5&gt; makro v &lt;f6&gt;Funkce&lt;/f6&gt; seznamu a klikněte na &lt;f7&gt;tlačítko Upravit &lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;f0&gt;&lt;bf1&gt;How to run a macro&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;19&lt;/bf3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;for more information.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;f0&gt; &lt;bf1&gt;Jak spustit makro&lt;/bf1&gt; &lt;/f0&gt;“ na straně &lt;f2&gt;&lt;bf3&gt; 19&lt;/bf3&gt; &lt;/f2&gt; &lt;f4&gt;&lt;s5 /&gt; Další informace. &lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;5&lt;/seq0&gt;: Modify Main to call CopyNumToCol1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;5 &lt;/seq0&gt;: Změnit Hlavní volat CopyNumToCol1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using &lt;f2&gt;File &gt; Save&lt;/f2&gt;, the shortcut keys &lt;f3&gt;Ctrl+S&lt;/f3&gt;, or clicking the &lt;f4&gt;Save&lt;/f4&gt; icon on the Standard toolbar are all commands that are translated into the same “dispatch command”.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí &lt;f2&gt;Soubor&gt; Uložit &lt;/f2&gt;, klávesové zkratky &lt;f3&gt;Ctrl + S&lt;/f3&gt; nebo kliknutím na tlačítko &lt;f4&gt;Uložit&lt;/f4&gt; ikonu na panelu nástrojů Standardní jsou všechny příkazy, které se převádějí do stejný „odeslání příkazu“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The dispatch framework can also be used to send “commands” back to the user interface (UI).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rámec odeslání může být také použity k odesílání „příkazy“ zpátky do uživatelského rozhraní (UI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A dispatch command is text, for example &lt;f0&gt;.uno:InsertObject&lt;/f0&gt; or &lt;f1&gt;.uno:GoToStartOfLine&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příkaz odeslání je text, například &lt;f0&gt;.uno: InsertObject&lt;/f0&gt; nebo &lt;f1&gt;.uno: GoToStartOfLine &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The recorder is a relatively simple tool to use and the same commands that are issued are recorded for later use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rekordér je poměrně jednoduchý nástroj k použití a stejné příkazy, které jsou vydávány jsou zaznamenány pro pozdější použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If while recording a macro you use &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; to open and modify configuration items, the generated macro does not record any configuration changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když během záznamu makra použít &lt;f0&gt;Nástroje&gt; Možnosti&lt;/f0&gt; otevřít a upravovat konfigurační položky, generované makro nezaznamená žádné změny konfigurace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;t8&gt;7&lt;/t8&gt;&lt;s9/&gt;shows an example of the hierarchical structure of macro libraries in LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;t8&gt;7&lt;/t8&gt; &lt;s9 /&gt; znázorňuje příklad hierarchické struktury knihoven maker v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All available library containers are shown in the &lt;f4&gt;Macro From&lt;/f4&gt; list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechny dostupné knihovny kontejnery jsou uvedeny v &lt;f4&gt;makro z&lt;/f4&gt; seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The application itself acts as two library containers, one container for macros distributed with LibreOffice called &lt;f5&gt;LibreOffice Macros&lt;/f5&gt;, and one container for personal macros called &lt;f6&gt;My Macros&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Samotná aplikace se chová jako dvě knihovny kontejnerů, jeden kontejner pro makra distribuované s LibreOffice nazývá &lt;f5&gt;LibreOffice Makra&lt;/f5&gt; a jeden kontejner pro osobní makra s názvem &lt;f6&gt;My Makra &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;LibreOffice Macros&lt;/f0&gt; are stored with the application runtime code, which may not be editable to you unless you are an administrator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;f0&gt;LibreOffice Makra&lt;/f0&gt; jsou uloženy s aplikační runtime kód, který nemusí být editovatelné pro vás, pokud jste správce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This helps protect these macros because they should not be changed and you should not store your own macros in the &lt;f1&gt;LibreOffice Macros&lt;/f1&gt; container.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To pomáhá chránit tato makra, protože by se nemělo měnit a vy byste neměli ukládat svá vlastní makra v &lt;f1&gt;LibreOffice makra&lt;/f1&gt; kontejneru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unless your macros are applicable to a single document, and only to a single document, your macros will probably be stored in the &lt;f0&gt;My Macros&lt;/f0&gt; container.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Není-li vaše makra jsou použitelné pro jediného dokumentu, a to pouze do jednoho dokumentu, vaše makra budou pravděpodobně uloženy v &lt;f0&gt;Moje makra&lt;/f0&gt; kontejneru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f1&gt;My Macros&lt;/f1&gt; container is stored in your user area or home directory.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f1&gt; My Makra&lt;/f1&gt; Nádoba je uložena v uživatelském prostoru nebo domovském adresáři.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a macro is contained in a document, then a recorded macro will attempt to work on that document, because it primarily uses “ThisComponent” for its actions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li makro obsažená v dokumentu, pak zaznamenané makro se pokusí práci na tomto dokumentu, protože se v první řadě používá „ThisComponent“ za svou činnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is better to create your own libraries with meaningful names than to use the &lt;f1&gt;Standard&lt;/f1&gt; library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je lepší vytvořit vlastní knihovny s smysluplné názvy, než použít &lt;f1&gt;standardní&lt;/f1&gt; knihovnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not only are meaningful names easier to manage, but they can also be imported into other library containers whereas the &lt;f2&gt;Standard&lt;/f2&gt; library cannot.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejen, že jsou smysluplné názvy snazší řídit, ale mohou být také importovat do jiných knihoven nádob, zatímco tlačítka &lt;f2&gt;standardní&lt;/f2&gt; knihovna nemůže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice allows you to import libraries into a library container, but it will not allow you to overwrite the library named &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice umožňuje importovat knihovny do kontejneru knihovny, ale to vám nedovolí přepsat knihovnu s názvem &lt;f0&gt;standardní &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Therefore, if you store your macros in the &lt;f1&gt;Standard&lt;/f1&gt; library, you cannot import them into another library container.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proto, pokud chcete ukládat makra ve &lt;f1&gt;standardní&lt;/f1&gt; knihovny, nelze importovat do jiné nádoby knihovny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, LibreOffice uses names such as &lt;f0&gt;Module1&lt;/f0&gt;, &lt;f1&gt;Module2&lt;/f1&gt;, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení LibreOffice používá jména jako &lt;f0&gt;Module1&lt;/f0&gt; &lt;f1&gt;Module2&lt;/f1&gt; a tak dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Macros stored in the application library container named &lt;f0&gt;My Macros&lt;/f0&gt;, however, are globally available to all documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makra uložená v obalu knihovny aplikace s názvem &lt;f0&gt;My Makra &lt;/f0&gt;, jsou však globálně k dispozici všechny dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, in contrast to other libraries, the &lt;f0&gt;Standard&lt;/f0&gt; and &lt;f1&gt;Template&lt;/f1&gt; libraries are automatically loaded.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, na rozdíl od jiných knihoven se &lt;f0&gt;Standardní&lt;/f0&gt; a &lt;f1&gt;Šablona&lt;/f1&gt; knihovny jsou automaticky načten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Paths&lt;/f0&gt; to view where other configuration data are stored.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Cesty&lt;/f0&gt; na zobrazení, kde jsou uloženy další konfigurační data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>User macros written in Basic are stored in &lt;f1&gt;LibreOffice\4\user\basic&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uživatelská makra napsané v Basic jsou uloženy v &lt;f1&gt;LibreOffice \ 4 \ uživatel \ basic &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Macros &gt; Organize Dialogs&lt;/f0&gt; to open the LibreOffice Basic Macro Organizer dialog (Figure &lt;t1&gt;2&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje&gt; Makra&gt; Uspořádat Dialogy&lt;/f0&gt; otevřete dialogové okno makra LibreOffice Basic Organizátor (Obr &lt;t1&gt;2&lt;/t1&gt; &lt;s2 /&gt; na straně &lt;t3&gt;5 &lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, go to &lt;f4&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f4&gt; to open the LibreOffice Basic Macros dialog (Figure &lt;t5&gt;1&lt;/t5&gt;&lt;s6/&gt;on page &lt;t7&gt;5&lt;/t7&gt;) and then click the &lt;f8&gt;Organizer&lt;/f8&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně přejděte na &lt;f4&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; Základní&lt;/f4&gt; pro otevření dialogu LibreOffice Basic makra (Obr &lt;t5&gt;1&lt;/t5&gt; &lt;s6 /&gt; na straně &lt;t7&gt;5&lt;/t7&gt;) a poté klikněte na &lt;f8&gt;tlačítko Organizátor &lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;i0/&gt;LibreOffice Basic Macro Organizer dialog allows you to import macro libraries into your document as well as creating, deleting, and renaming libraries, modules, and dialogs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;i0 /&gt; LibreOffice Basic Macro dialog Organizátor umožňuje importovat knihovny maker do dokumentu, stejně jako vytváření, mazání a přejmenování knihovny, moduly a dialogová okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f0&gt;Libraries&lt;/f0&gt; tab, select the library container to use and then click &lt;f1&gt;Import&lt;/f1&gt; to import macro libraries.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na kartě &lt;f0&gt;Knihovny &lt;/f0&gt;, vyberte kontejner knihovna použít a potom klepněte na tlačítko &lt;f1&gt;Import&lt;/f1&gt; importovat knihovny maker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigate to the directory containing the library to import (Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte do adresáře, který obsahuje knihovnu importu (obrázek &lt;t0&gt;8 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are usually two files from which to choose, &lt;f1&gt;dialog.xlb&lt;/f1&gt; and &lt;f2&gt;script.xlb&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tam jsou obvykle dva soubory, z nichž si vybrat, &lt;f1&gt;dialog.xlb&lt;/f1&gt; a &lt;f2&gt;script.xlb &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You cannot import the library named &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nelze importovat knihovnu s názvem &lt;f0&gt;standardní &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Navigating to a macro library</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;8 &lt;/seq0&gt;: Navigace k makro knihovna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On Linux, the LibreOffice-specific files are stored in the home directory of a user, in a subdirectory whose name begins with a dot prefix (usually .config/).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V operačním systému Linux, soubory LibreOffice specifické jsou uloženy v domovském adresáři uživatele, do podadresáře, jehož název začíná tečkou prefix (obvykle.config /).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If using LibreOffice dialogs, rather than the operating system specific dialogs, type the name of the desired directory in the &lt;f0&gt;Name&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud používáte LibreOffice dialogy, spíše než dialogy konkrétní operační systém, zadejte název požadovaného adresáře na &lt;f0&gt;Name&lt;/f0&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a file and click &lt;f0&gt;Open&lt;/f0&gt; to continue and open the Import Libraries dialog (Figure &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte soubor a klikněte na &lt;f0&gt;Otevřít&lt;/f0&gt; pokračovat a otevřete dialogové okno pro import knihovny (Obr &lt;t1&gt;9 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Insert as reference (read-only)&lt;/f0&gt; if you want to use the library as reference, but not import it into the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Vložit jako reference (pouze pro čtení)&lt;/f0&gt; Chcete-li použít knihovnu jako reference, ale ne importovat do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;bf0&gt;Adding a macro&lt;/bf0&gt;” on page &lt;bf1&gt;4&lt;/bf1&gt;&lt;s2/&gt;on how to add macros to your macro library and “&lt;bf3&gt;Viewing and editing macros&lt;/bf3&gt;” on page &lt;bf4&gt;8&lt;/bf4&gt;&lt;s5/&gt;on how to edit macros using the Basic IDE.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;bf0&gt; Přidání makro &lt;/bf0&gt;“ na straně &lt;bf1&gt;4&lt;/bf1&gt; &lt;s2 /&gt; o tom, jak přidávat makra do vaší knihovny maker a „&lt;bf3&gt; Prohlížení a zpracování makra &lt;/bf3&gt;“ na stránce &lt;bf4&gt;8&lt;/BF 4&gt; &lt;s5 /&gt; o tom, jak upravovat makra pomocí jazyka IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although you can use &lt;f0&gt;Tools &gt; Macros &gt; Run&lt;/f0&gt; to run all macros, this is not efficient for frequently run macros.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>I když můžete použít &lt;f0&gt;Nástroje&gt; Makra&gt; Spustit&lt;/f0&gt; spustit všechna makra, to není efektivní pro často spustit makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;bf1&gt;Running a macro&lt;/bf1&gt;” on page &lt;bf2&gt;8&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;bf1&gt; Spuštění makra &lt;/bf1&gt;“ na straně &lt;bf2&gt;8&lt;/bf2&gt; &lt;s3 /&gt; Další informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a &lt;i0/&gt;menu item, &lt;i1/&gt;keyboard shortcut, or &lt;i2/&gt;toolbar icon that calls a macro, use &lt;i3/&gt;the Customize dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat &lt;i0 /&gt; položku menu, &lt;i1 /&gt; klávesové zkratky, nebo &lt;i2 /&gt; toolbar ikonu, která volá makro, použijte &lt;i3 /&gt; dialogové okno Upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To open this dialog, go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li otevřít toto dialogové okno, přejděte na &lt;f0&gt;Nástroje&gt; Vlastní &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use of the &lt;f1&gt;Menus&lt;/f1&gt;, &lt;f2&gt;Toolbars&lt;/f2&gt;, &lt;f3&gt;Context Menus&lt;/f3&gt;, and &lt;f4&gt;Keyboard&lt;/f4&gt; tabs are covered in Chapter 14, Customizing LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití tlačítka &lt;f1&gt;Menu&lt;/f1&gt; &lt;f2&gt;Panely&lt;/f2&gt; &lt;f3&gt;Kontextové menu&lt;/f3&gt; a &lt;f4&gt;Klávesnice&lt;/f4&gt; Karty jsou uvedeny v kapitole 14, přizpůsobení LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Full coverage of event handlers is well beyond the scope of this chapter, but a little knowledge can accomplish much.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úplné pokrytí obsluh událostí značně přesahuje rámec této kapitoly, ale trochu znalostí může dokázat hodně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One possible result is that your event handler will force you to kill LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jedním možným výsledkem je, že vaše rutina události vás donutí zabít LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; to open the Customize dialog and select the &lt;f1&gt;Events&lt;/f1&gt; tab (Figure &lt;t2&gt;10&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jdi na &lt;f0&gt;Nástroje&gt; Vlastní&lt;/f0&gt; otevřete dialogové okno Přizpůsobit a vyberte f1&gt; &lt;kartu Události&lt;/f1&gt; (Obrázek &lt;t2&gt;10 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the &lt;f0&gt;Save In&lt;/f0&gt; drop-down, select &lt;f1&gt;LibreOffice&lt;/f1&gt;, or a specific document from the menu to save your event.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Uložit do&lt;/f0&gt; rozevíracího zvolte &lt;f1&gt;LibreOffice &lt;/f1&gt;, nebo určitý dokument z nabídky uložit událost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the desired event and click &lt;f0&gt;Macro&lt;/f0&gt; to open the Macro Selector dialog (similar to Figure &lt;t1&gt;5&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;8&lt;/t3&gt;&lt;s4/&gt;but with different action buttons).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte požadovanou akci a klikněte na &lt;f0&gt;makro&lt;/f0&gt; otevřít makro dialog voliče (podobně jako u obrázku &lt;t1&gt;5&lt;/t1&gt; &lt;s2 /&gt; na straně &lt;t3&gt;8&lt;/t3&gt; &lt;s4 /&gt; ale s různými akčními tlačítky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f1&gt;Events&lt;/f1&gt; tab will show that the event has been assigned to a macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Karta &lt;f1&gt;Akce&lt;/f1&gt; ukáže, že tato událost byla přiřazena k makru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Even double-clicking on a graphic opens a dialog with a &lt;f0&gt;Macros&lt;/f0&gt; tab that allows you to assign a macro to an event.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se dokonce poklepáním na grafiku dialog s &lt;f0&gt;Makra&lt;/f0&gt; karta, která umožňuje přiřadit makra události.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Events tab in Customize dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;10 &lt;/seq0&gt;: karta události v dialogu Vlastní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Extensions can be grouped into types, for example:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozšíření mohou být rozděleny do typů, například:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc add-ins, which provide new functionality for Calc, including new functions that act like normal built-in functions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc doplňků, které poskytují nové funkce pro aplikaci Calc, včetně nových funkcí, které se chovají jako normální vestavěných funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chart add-ins with new chart types.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Graf doplňky s novými typy grafů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also write macros that directly access the objects that comprise LibreOffice if you are &lt;t0/&gt;confident in writing computer code.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také vytvářet makra, které mají přímý přístup k objektům, které obsahují LibreOffice pokud jste &lt;t0 /&gt; důvěru v psaní počítačového kódu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;: Append the text “Hello” to the current document</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;6 &lt;/seq0&gt;: Připojit text „Hello“ k aktuálnímu dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>REM Verify that this is a text document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>REM Ověřte, zda se jedná o textový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>REM Move the cursor to the end of the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>REM Přesuňte kurzor na konec dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>REM Insert text "Hello" at the end of the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>REM Vložit text „Hello“ na konci dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Many programmers may not be familiar with LibreOffice Basic, so LibreOffice supports macros written in three other languages that may be more familiar: BeanShell, JavaScript, and Python.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mnoho programátorů nemusí být obeznámeni s LibreOffice Basic, takže LibreOffice podporuje makra napsané ve třech dalších jazycích, které mohou být známější: BeanShell, JavaScript a Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Macros are organized in the same way for all four scripting languages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makra jsou organizovány stejným způsobem pro všechny čtyři skriptovací jazyky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;LibreOffice Macros&lt;/f0&gt; container holds all the macros that are supplied in the LibreOffice installation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tlačítko &lt;f0&gt;LibreOffice Makra&lt;/f0&gt; kontejner obsahuje všechny makra, které jsou dodávány do instalace LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f1&gt;My Macros&lt;/f1&gt; library container holds your macros that are available to any of your LibreOffice documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f1&gt; My Makra&lt;/f1&gt; kontejner knihovna pořádá maker, které jsou pro některý z vašich LibreOffice dokumentů k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each document can also contain your macros that are not available to any other document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý dokument může také obsahovat vaše makra, které nejsou dostupné na jakémkoli jiném dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you use the macro recording facility, LibreOffice creates the macro in LibreOffice Basic.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijete-li makro záznamové zařízení, LibreOffice vytvoří makro v LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To use the other available scripting languages, you must write the code yourself.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít jiné dostupné skriptovacích jazyků, musíte napsat kód sami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select to run a macro using &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt;, LibreOffice displays the Macro Selector dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberete-li spustit makro pomocí &lt;f0&gt;Nástroje&gt; Makra&gt; Spustit makro &lt;/f0&gt;, LibreOffice zobrazí dialog Makro Selector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This dialog enables selection and running of any available macro, coded in any of the available languages (Figure &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento dialog umožňuje výběr a běží veškeré dostupné makro, kódované v některém z dostupných jazyků (obr &lt;t1&gt;11 &lt;/t 1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select to edit a macro using &lt;f0&gt;Tools &gt; Macros &gt; Edit Macros&lt;/f0&gt;, LibreOffice displays the LibreOffice Basic IDE.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberete-li pro úpravy makra pomocí &lt;f0&gt;Nástroje&gt; Makra&gt; Edit Makra &lt;/f0&gt;, LibreOffice zobrazuje LibreOffice Basic IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This dialog enables selection and editing of any available LibreOffice Basic macro, but not macros in other languages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento dialog umožňuje výběr a úpravu jakéhokoliv dostupného LibreOffice Basic makra, ale ne makra v jiných jazycích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Macro Selector dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;11 &lt;/seq0&gt;: Makro dialog na výběr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The component model used in LibreOffice is known as Universal Network Objects or UNO.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Součást model použitý v LibreOffice je známá jako Universal síťové objekty či OSN.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice macros in any scripting language use a UNO runtime application programming interface (API).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice makra v jakékoliv skriptovací jazyk používat UNO runtime rozhraní pro programování aplikací (API).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The XSCRIPTCONTEXT interface is provided to macro scripts in all four languages, and provides a means of access to the various interfaces which they might need to perform some action on a document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>XSCRIPTCONTEXT rozhraní je poskytována makro skripty ve všech čtyřech jazycích a poskytuje prostředky pro přístup k jednotlivým rozhraním, které může být zapotřebí provést nějakou akci na dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BeanShell is a Java-like scripting language that was first released in 1999.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>BeanShell je Java jako skriptovací jazyk, který byl poprvé vydán v roce 1999.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; BeanShell&lt;/f0&gt;, LibreOffice displays the BeanShell Macros dialog (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberete-li &lt;f0&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; BeanShell &lt;/f0&gt;, LibreOffice zobrazí dialogové BeanShell makra (Obr &lt;t1&gt;12 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: BeanShell Macros dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;12 &lt;/seq0&gt;: Dialog BeanShell makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt; button on the BeanShell Macros dialog to access the BeanShell Debug Window (Figure &lt;t1&gt;13&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;tlačítko Upravit &lt;f0 /&gt; v dialogovém okně BeanShell makra pro přístup k BeanShell Debug okno (Obr &lt;t1&gt;13 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: BeanShell Debug Window</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;13 &lt;/seq0&gt;: BeanShell okno ladění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;t0&gt;7&lt;/t0&gt;&lt;s1/&gt;is an example of a BeanShell macro that inserts the text “Hello World from BeanShell” in cell A1 of the active Calc spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;t0&gt;7&lt;/t0&gt; &lt;s1 /&gt; je příkladem BeanShell makro, které vloží text „Hello World od BeanShell“ v buňce A1 aktivní Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;7&lt;/seq0&gt;: Sample BeanShell macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;7 &lt;/seq0&gt;: Sample BeanShell makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>import com.sun.star.uno.UnoRuntime;&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>com.sun.star.uno.UnoRuntime množství; &lt;br0 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>import com.sun.star.sheet.XSpreadsheetView;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>import com.sun.star.sheet.XSpreadsheetView; &lt;br1 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>import com.sun.star.text.XText;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>import com.sun.star.text.XText;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>model = XSCRIPTCONTEXT.getDocument();&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Model = XSCRIPTCONTEXT.getDocument (); &lt;br0 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>controller = model.getCurrentController();&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Regulátor = model.getCurrentController (); &lt;br2 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>view = UnoRuntime.queryInterface(XSpreadsheetView.class, controller);&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>pohled = UnoRuntime.queryInterface (XSpreadsheetView.class, regulátor); &lt;br4 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br5 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sheet = view.getActiveSheet();&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>list = view.getActiveSheet (); &lt;br6 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;pokračování /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cell = sheet.getCellByPosition(0, 0);&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>buňka = sheet.getCellByPosition (0, 0); &lt;br8 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br9 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cellText = UnoRuntime.queryInterface(XText.class, cell);&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>cellText = UnoRuntime.queryInterface (XText.class, mobilní); &lt;br10 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br11 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>textCursor = cellText.createTextCursor();&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>textCursor = cellText.createTextCursor (); &lt;br12 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cellText.insertString(textCursor, "Hello World from BeanShell", true);&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>cellText.insertString (textCursor, „Hello World od BeanShell“, true); &lt;br14 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br15 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>return 0;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>return 0;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JavaScript is a high-level scripting language that was first released in 1995.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>JavaScript je na vysoké úrovni, skriptovací jazyk, který byl poprvé vydán v roce 1995.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; JavaScript&lt;/f0&gt;, LibreOffice displays the JavaScript Macros dialog (Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberete-li &lt;f0&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; JavaScript &lt;/f0&gt;, LibreOffice zobrazí dialogové okno makra v JavaScriptu (viz obrázek &lt;t1&gt;14 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: JavaScript Macros dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;14 &lt;/seq0&gt;: dialog JavaScript Makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt; button on the JavaScript Macros dialog to access the Rhino JavaScript Debugger (Figure &lt;t1&gt;15&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;tlačítko Upravit &lt;f0 /&gt; v dialogovém okně JavaScript makra přístup Rhino JavaScript Debugger (Obr &lt;t1&gt;15 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Detailed instructions for using this tool can be found on Mozilla’s website at &lt;a2&gt;https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino/Debugger&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobný návod k použití tohoto nástroje lze nalézt na internetových stránkách Mozilly na &lt;a2&gt;https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino/Debugger &lt;/a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Rhino JavaScript Debugger</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;15 &lt;/seq0&gt;: Rhino JavaScript Debugger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;t0&gt;8&lt;/t0&gt;&lt;s1/&gt;is an example of a JavaScript macro that inserts the text “Hello World from JavaScript” in cell A1 of the first sheet in a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;t0&gt;8&lt;/t0&gt; &lt;s1 /&gt; je příklad makro JavaScript, který vloží text „Hello World od JavaScript“ v buňce A1 první vrstvy v Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;8&lt;/seq0&gt;: Sample JavaScript macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;8 &lt;/seq0&gt;: Ukázka JavaScript makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>importClass(Packages.com.sun.star.uno.UnoRuntime);&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>importClass (Packages.com.sun.star.uno.UnoRuntime); &lt;br0 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>importClass(Packages.com.sun.star.sheet.XSpreadsheetDocument);&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>importClass (Packages.com.sun.star.sheet.XSpreadsheetDocument); &lt;br1 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>importClass(Packages.com.sun.star.container.XIndexAccess);&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>importClass (Packages.com.sun.star.container.XIndexAccess); &lt;br2 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>importClass(Packages.com.sun.star.table.XCellRange);&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>importClass (Packages.com.sun.star.table.XCellRange); &lt;br3 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>importClass(Packages.com.sun.star.table.XCell);&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>importClass (Packages.com.sun.star.table.XCell); &lt;br4 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>documentRef = XSCRIPTCONTEXT.getDocument();</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>documentRef = XSCRIPTCONTEXT.getDocument ();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spreadsheetInterface = UnoRuntime.queryInterface(XSpreadsheetDocument, documentRef);&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>spreadsheetInterface = UnoRuntime.queryInterface (XSpreadsheetDocument, documentRef); &lt;br0 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>allSheets = UnoRuntime.queryInterface(XIndexAccess, spreadsheetInterface.getSheets());&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>allSheets = UnoRuntime.queryInterface (XIndexAccess, spreadsheetInterface.getSheets ()); &lt;br2 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>theSheet = allSheets.getByIndex(0);&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>theSheet = allSheets.getByIndex (0); &lt;br4 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cells = UnoRuntime.queryInterface(XCellRange,theSheet);&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buňky = UnoRuntime.queryInterface (XCellRange, theSheet); &lt;br6 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cellA1 = Cells.getCellByPosition(0,0);&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>cellA1 = Cells.getCellByPosition (0,0); &lt;br8 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>theCell = UnoRuntime.queryInterface(XCell,cellA1);&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>theCell = UnoRuntime.queryInterface (XCell, cellA1); &lt;br10 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>theCell.setFormula("Hello World from JavaScript");</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>theCell.setFormula ( „Hello World od JavaScriptu");</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Python is a high-level, general-purpose programming language that was first released in 1991.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Python je na vysoké úrovni, general-purpose programovací jazyk, který byl poprvé vydán v roce 1991.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Python&lt;/f0&gt;, LibreOffice displays the Python Macros dialog (Figure &lt;t1&gt;16&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberete-li &lt;f0&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; Python &lt;/f0&gt;, LibreOffice zobrazí dialogové Python makra (Obr &lt;t1&gt;16 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Python Macros dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obr &lt;seq0&gt;16 &lt;/seq0&gt;: Dialog Python makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Facilities to edit and debug Python scripts are not currently integrated into the standard LibreOffice user interface.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zařízení k úpravě a ladění skriptů v Pythonu nejsou v současné době integrovány do standardního uživatelského rozhraní LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, you can edit Python scripts with your preferred text editor or an external IDE.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, můžete upravovat Python skripty pomocí vašeho oblíbeného textového editoru nebo externí IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Alternative Python Script Organizer (APSO) extension eases the editing of Python scripts, in particular when embedded in a document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozšíření Alternativní Python Script Organizer (Apso) usnadňuje editaci skriptů v Pythonu, zejména při vložené do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using APSO you can configure your preferred source code editor, start the integrated Python shell and debug Python scripts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Používání Apso můžete nastavit svůj preferovaný editor zdrojového kódu, spuštění integrované Python shell a ladění Python skripty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information search for Python in the LibreOffice Help system and visit the &lt;f0&gt;Designing &amp; Developing Python Applications&lt;/f0&gt; section of The Document Foundation’s wiki, &lt;a1&gt;https://wiki.documentfoundation.org/Macros/Python_Design_Guide&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací hledání Python v systému LibreOffice nápovědy a navštívit &lt;f0&gt;Projektování a Vývoj Python Applications&lt;/f0&gt; sekce wiki Foundation Document &lt;a1&gt;https://wiki.documentfoundation.org/Macros/Python_Design_Guide &lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt;is an example of a Python macro that sets cell A1 of the first sheet in a Calc spreadsheet to the text “Hello World from Python”.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;t0&gt;9&lt;/t0&gt; &lt;s1 /&gt; je příklad Python makro sady buňky A1 prvního listu v Calc na text „Hello World Python“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;9&lt;/seq0&gt;: Sample Python macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;9 &lt;/seq0&gt;: Sample Python makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>import uno&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>importovat jeden &lt;br0 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>def HelloWorld():&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>def HelloWorld (): &lt;br2 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s3/&gt;doc = XSCRIPTCONTEXT.getDocument()&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s3 /&gt; doc = XSCRIPTCONTEXT.getDocument () &lt;br4 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s5/&gt;cell = doc.Sheets[0]['A1']&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s5 /&gt; buňka = doc.Sheets [0] [ 'A1'] &lt;br6 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s7/&gt;cell.setString('Hello World from Python')&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s7 /&gt; cell.setString ( 'Hello World Python') &lt;br8 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s9/&gt;return</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;xia /&gt; retarn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Help &gt; LibreOffice Help,&lt;/f0&gt; or press the &lt;f1&gt;F1&lt;/f1&gt; key, to open the LibreOffice help pages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Nápověda&gt; LibreOffice Help&lt;/f0&gt; nebo stisknutím tlačítka &lt;f1&gt;F1&lt;/f1&gt; klíč k otevření stránky LibreOffice nápovědy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To view the help for Basic, choose &lt;f2&gt;Basic&lt;/f2&gt; from this list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit nápovědu pro Basic, zvolte &lt;f2&gt;Základní&lt;/f2&gt; z tohoto seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; to open the LibreOffice Basic Macros dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Nástroje&gt; Makra&gt; Organizovat makra&gt; Základní&lt;/f0&gt; pro otevření dialogu LibreOffice Basic makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Expand the &lt;f1&gt;Tools&lt;/f1&gt; library in the &lt;f2&gt;LibreOffice&lt;/f2&gt; library container.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozbalte &lt;f1&gt;Nástroje&lt;/f1&gt; Knihovna v kontejneru &lt;f2&gt;LibreOffice&lt;/f2&gt; knihovny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inspect the &lt;f3&gt;Debug&lt;/f3&gt; module — some good examples include &lt;f4&gt;WritedbgInfo&lt;/f4&gt; (document) and &lt;f5&gt;printdbgInfo&lt;/f5&gt; (sheet).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zkontrolujte, zda není &lt;f3&gt;ladění&lt;/f3&gt; modul - některé dobré příklady zahrnují &lt;f4&gt;WritedbgInfo&lt;/f4&gt; (dokumentu) a &lt;f5&gt;printdbgInfo&lt;/f5&gt; (list).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a0&gt;https://ask.libreoffice.org/&lt;/a0&gt; (a Q &amp; A site where volunteers answer questions related to LibreOffice)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;a0&gt; https://ask.libreoffice.org/&lt;/a0&gt; (Q &amp; A místo, kde dobrovolníci odpovídat na otázky týkající se LibreOffice)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a0&gt;https://wiki.documentfoundation.org/Documentation/Other_Documentation_and_Resources&lt;/a0&gt; (look in Programmers section for BASIC Programmers’ Guide and Developers’ Guide; the latter contains a detailed explanation)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;a0&gt; https://wiki.documentfoundation.org/Documentation/Other_Documentation_and_Resources&lt;/a0&gt; (vzhled v části programátory pro Guide a vývojáři základní Programmers Guide, druhá obsahuje podrobný popis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information in the following books is mostly applicable to LibreOffice; the books are available for purchase in both printed and ebook form from their publishers:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informace obsažené v těchto knihách je většinou použitelná pro LibreOffice; knihy jsou k dispozici ke koupi v tištěné i ebook podobě od svých vydavatelů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dr. Mark Alexander Bain’s Learn OpenOffice.org Spreadsheet Macro Programming.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dr. Mark Alexander Bain je Naučte OpenOffice.org Spreadsheet Makro programování. &lt;br0 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;a1&gt;http://www.packtpub.com/openoffice-ooobasic-calc-automation/book&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;a1&gt;http://www.packtpub.com/openoffice-ooobasic-calc-automation/book &lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Roberto Benitez's Database Programming with OpenOffice.org Base &amp; Basic.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Roberto Benítez v programování databází s OpenOffice.org Base &amp; Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br0 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;a1&gt;http://www.lulu.com/product/paperback/database-programming-with-openofficeorg-base-basic/3568728&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;a1&gt;http://www.lulu.com/product/paperback/database-programming-with-openofficeorg-base-basic/3568728 &lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
