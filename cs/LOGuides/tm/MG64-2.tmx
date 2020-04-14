@@ -1,0 +1,1231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ldline &lt;?&gt; rdline</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>ldline &lt;?&gt;rdline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left double line only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze levý dvojitá čára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>\ldline &lt;?&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>\ Ldline &lt;?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right double line only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>jedině správné dvojitá čára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;?&gt; \rdline</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;?&gt; \ Rdline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable round brackets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Škálovatelné kulaté závorky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left ( &lt;?&gt; right )</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left (&lt;?&gt; right)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left round bracket only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable levá kulatá závorka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left ( &lt;?&gt; right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left (&lt;?&gt; vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right round bracket only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable pořád dokola držák</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left none &lt;?&gt; right )</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left none &lt;?&gt;right)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable square brackets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Škálovatelné hranaté závorky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left [ &lt;?&gt; right ]</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left [&lt;?&gt; right]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left square bracket only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable levou hranatou závorku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left [ &lt;?&gt; right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left [&lt;?&gt; vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right square bracket only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable pravá hranatá závorka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left none &lt;?&gt; right ]</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left none &lt;?&gt;right]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable double square brackets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Škálovatelné dvojité hranaté závorky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left ldbracket &lt;?&gt; right rdbracket</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left ldbracket &lt;?&gt;vpravo rdbracket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left double square bracket only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable levá double hranatou závorku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left ldbracket &lt;?&gt; right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left ldbracket &lt;?&gt;vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right double square bracket only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable hned double hranatou závorku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left none &lt;?&gt; right rdbracket</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left none &lt;?&gt;vpravo rdbracket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable braces</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>škálovatelné šle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left lbrace &lt;?&gt; right rbrace</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left lbrace &lt;?&gt;vpravo rbrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left brace only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable levá vzpěra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left lbrace {&lt;?&gt;} right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left lbrace {&lt;?&gt;} vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right brace only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable pravá složená závorka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left none {&lt;?&gt;} right rbrace</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left none {&lt;?&gt;} vpravo rbrace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable angle brackets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable úhelníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left langle &lt;?&gt; right rangle</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left langle &lt;?&gt;rangle vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left angle bracket only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable levá lomená závorka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left langle {&lt;?&gt;} right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left langle {&lt;?&gt;} vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right angle bracket only</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pouze Scalable pravý úhel závorka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left none {&lt;?&gt;} right rangle</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left none {&lt;?&gt;} vpravo rangle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable operator brackets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Škálovatelné konzoly operátora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left langle &lt;?&gt; mline &lt;?&gt; right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left langle &lt;?&gt;mline &lt;?&gt;vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left operator bracket</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable bracket left operátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right operator bracket</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable pravá závorka operátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left none &lt;?&gt; mline &lt;?&gt; right rangle</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left none &lt;?&gt;mline &lt;?&gt;rangle vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable ceiling (upper half square brackets)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable strop (horní polovina hranaté závorky)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left lceil &lt;?&gt; right rceil</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left lceil &lt;?&gt;vpravo rceil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left ceiling</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable levé stropní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left lceil &lt;?&gt; right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left lceil &lt;?&gt;vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right ceiling</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable vpravo strop</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left none &lt;?&gt; right rceil</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left none &lt;?&gt;vpravo rceil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable floor (lower half square brackets)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable patro (dolní polovina hranatých závorek)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left lfloor &lt;?&gt; right rfloor</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left lfloor &lt;?&gt;vpravo rfloor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left floor</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable levá podlaha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left lfloor &lt;?&gt; right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left lfloor &lt;?&gt;vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right floor</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable vpravo patro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left single line</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable levá jednořádkový</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left lline &lt;?&gt; right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left lline &lt;?&gt;vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right single line</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable vpravo jednořádkový</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable left double line</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable levá dvojitá čára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left ldline &lt;?&gt; right none</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left ldline &lt;?&gt;vpravo none</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable right double line</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable hned dvojitá čára</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>left none &lt;?&gt; right rdline</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>left none &lt;?&gt;vpravo rdline</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable top brace</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable top rovnátka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{&lt;?&gt;} overbrace {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>{&lt;?&gt;} V ortézy {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Scalable bottom brace</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Scalable spodní výztuha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{&lt;?&gt;} underbrace {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>{&lt;?&gt;} V závorkách {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>formats commands (Math)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formáty příkazů (Math)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To access the icons used for entering markup language for format commands into the Formula Editor, select Formats from the drop-down list at the top of the Elements Dock.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro přístup k ikony používané pro zadávání značkovací jazyk pro formátování příkazů do Formule Editor, vyberte formáty z rozevíracího seznamu v horní části Elements Dock.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Power (superscript right)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Power (index vpravo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;&lt;?&gt;^{&lt;?&gt;}&lt;/f0&gt; or &lt;f1&gt;&lt;?&gt;sup{&lt;?&gt;}&lt;/f1&gt; or&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; &lt;?&gt;^ {&lt;?&gt;}&lt;/f0&gt; nebo &lt;f1&gt;&lt;?&gt; Sup {&lt;?&gt;}&lt;/f1&gt; nebo &lt;br2 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f3&gt;&lt;?&gt;rsub{&lt;?&gt;}&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f3&gt; &lt;?&gt;Rsub {&lt;?&gt;} &lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Superscript left</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Horní index left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;?&gt;lsup{&lt;?&gt;}</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;?&gt; Lsup {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subscript left</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>index levý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;?&gt;lsub{&lt;?&gt;}</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;?&gt; Lsub {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Superscript center</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>centrum Superscript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;?&gt;csup{&lt;?&gt;}</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;?&gt; ČSUP {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subscript center</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>index centrum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;?&gt;csub{&lt;?&gt;}</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;?&gt; Csub {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New line</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nový řádek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>newline</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nový řádek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Small gap</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>malá mezera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Blank or large gap</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Prázdné nebo velká mezera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No space (suppresses space between elements)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Žádný prostor (potlačuje prostor mezi prvky)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>nospace {&lt;?&gt;}</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nospace {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align left</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Align left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alignl &lt;?&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>alignl &lt;?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align center</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zarovnat na střed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alignc &lt;?&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>alignc &lt;?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align right</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zarovnání doprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alignr &lt;?&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>alignr &lt;?&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vertical stack (2 elements)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Svislý komín (2 prvky)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>binom{&lt;?&gt;}{&lt;?&gt;}</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Binom {&lt;?&gt;} {&lt;?&gt;}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vertical stack (more than 2 elements)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Svislý komín (více než 2 prvky)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, text characters are aligned to the center in a formula.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení textové znaky jsou zarovnány do středu ve vzorci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the &lt;f0&gt;alignl&lt;/f0&gt; and &lt;f1&gt;alignr&lt;/f1&gt; commands to align text characters in a formula to the left or right when a formula has more than one line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí tlačítka &lt;f0&gt;alignl&lt;/f0&gt; a &lt;f1&gt;alignr&lt;/f1&gt; příkazy k zarovnání textu znaky ve vzorci doleva nebo doprava, když vzorec obsahuje více než jeden řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use the align commands in conjunction with the stack commands to align multi-line formulas on a specific formula element, for example, the equals sign (=).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lze také použít zarovnání příkazy ve spojení s příkazy zásobníku zarovnat více linkami vzorce na konkrétní vzorce prvku, například rovnítko (=).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>miscellaneous commands (Math)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Různé příkazy (Math)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To access the icons used for entering markup language for other commands into the Formula Editor, select Others from the drop-down list at the top of the Elements Dock, or click the Others icon in the Elements dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro přístup k ikony používané pro zadávání značkovací jazyk pro další příkazy do Formule Editor, zvolte Jiné z rozevíracího seznamu v horní části Elements Dock, nebo klepnutím na ikonu Ostatní v dialogu Elements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Placeholder</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>zástupný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Infinity</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nekonečno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;infinity&lt;/f0&gt; or &lt;f1&gt;infty&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; nekonečno&lt;/f0&gt; nebo &lt;f1&gt;infty &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Partial derivative or set margin</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Parciální derivace nebo stanovenou hodnotu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>partial</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>částečný</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Nabla vector operator</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nabla operátor vector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>nabla</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nabla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Existential quantifier, there is at least one</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Existenční kvantifikátor, existuje alespoň jedna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>exists</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>existuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Existential quantifier, there does not exist</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Existenční kvantifikátor, neexistuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>notexists</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>notexists</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Universal quantifier, for all</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Univerzální kvantifikátor, pro všechny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>forall</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>pro všechny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>H-bar constant</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>H-bar konstantní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>hbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lambda bar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>lambda bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>lambdabar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>lambdabar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Real part of a complex number</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Reálná část komplexního čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>re</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>re</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Imaginary part of a complex number</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Imaginární část komplexního čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>im</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>v</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Weierstrass p function</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce Weierstrassova p</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>wp</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>wp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left arrow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šipka vlevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>leftarrow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>šipka vlevo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right arrow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>šipka vpravo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rightarrow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>rightarrow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Up arrow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šipka nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>uparrow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>šipka nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Down arrow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šipka dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>downarrow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>šipka dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dotslow</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>dotslow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Math axis ellipsis</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Math osa elipsy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dotsaxis</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>dotsaxis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vertical ellipsis</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vertikální elipsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dotsvert</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>dotsvert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upward diagonal ellipsis</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzestupný diagonální tečky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;dotsup&lt;/f0&gt; or &lt;f1&gt;dotsdiag&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt; dotsup&lt;/f0&gt; nebo &lt;f1&gt;dotsdiag &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Downward diagonal ellipsis</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dolů diagonální tečky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dotsdown</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>dotsdown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>characters – Greek (Math)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>znaky - Greek (Math)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Greek characters are normally entered into a formula using the Symbols dialog (see &lt;f0&gt;&lt;bf1&gt;Chapter 1 Creating &amp; Editing Formulas&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;for more information).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Řecká písmena jsou obvykle vloženy do vzorce pomocí dialogu Symboly (viz &lt;f0&gt;&lt;bf1&gt; Chapter 1 Tvorba &amp; Editace Vzorce&lt;/bf1&gt; &lt;/f0&gt; &lt;f2&gt;&lt;s3 /&gt; pro více informací).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, if you know the &lt;/f2&gt;name of the Greek character, you can type a percentage sign (%) followed by the name of the Greek character into the Formula Editor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, pokud víte, že&lt;/f2&gt; jméno řeckého charakteru, můžete zadat procentuální znak (%) následovaný jménem řeckého znaku do Formule Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Table &lt;f10&gt;&lt;t11&gt;5&lt;/t11&gt;&lt;/f10&gt;&lt;f12&gt;&lt;s13/&gt;for a full list of italic uppercase Greek characters and &lt;/f12&gt;Table &lt;f14&gt;&lt;t15&gt;6&lt;/t15&gt;&lt;/f14&gt;&lt;f16&gt;&lt;s17/&gt;for a full list of italic &lt;/f16&gt;lowercase Greek characters.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz tabulka &lt;f10&gt;&lt;t11&gt; 5&lt;/t11&gt; &lt;/f10&gt; &lt;f12&gt;&lt;s13 /&gt; pro úplný seznam kurzíva velká písmena řecké znaky a&lt;/f12&gt; Tab &lt;f14&gt;&lt;t15&gt; 6&lt;/t15&gt; &lt;/f14&gt; &lt;f16&gt;&lt;s17 /&gt; pro úplný seznam kurzívou&lt;/f16&gt; malými řeckými znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In localized versions of LibreOffice, the names of Greek characters are also localized.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V lokalizovaných verzích LibreOffice, jména řecké znaky jsou také lokalizovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a document is not localized to the same language, then the names of Greek characters in the following tables may not work correctly.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li dokument není lokalizován do stejného jazyka, pak jména řecké znaky v následujících tabulkách nemusí fungovat správně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If this happens, you can use the Symbols dialog to select the required Greek character.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se to stane, můžete použít symboly dialogu vyberte požadovanou řecký charakter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When selected in the Symbols dialog, the name of the Greek character is displayed at the bottom of the Symbols dialog in the correct language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při výběru v dialogovém okně symboly, jméno řeckého znaku se zobrazí v dolní části dialogového okna symbolů ve správném jazyce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;f0&gt;&lt;bf1&gt;Chapter 1 Creating &amp; Editing Formulas&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;for more information on Greek characters and the Symbols dialog.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f0&gt;&lt;bf1&gt; Chapter 1 Tvorba &amp; Editace Vzorce&lt;/bf1&gt; &lt;/f0&gt; &lt;f2&gt;&lt;s3 /&gt; Více informací o řecké znaky a symboly dialogu. &lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, if you know the &lt;/f2&gt;name of the special character, you can type a percentage sign (%) followed by the name of the special character into the Formula Editor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nicméně, pokud víte, že&lt;/f2&gt; názvu speciální znak, můžete zadat procentuální znak (%) následovaný názvem speciální znak do Formule Editor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In localized versions of LibreOffice, the names of special characters are also localized.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V lokalizovaných verzích LibreOffice, jména speciální znaky jsou také lokalizovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a document is not localized to the same language, then the names of special characters in the following table may not work correctly.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je-li dokument není lokalizován do stejného jazyka, pak názvy speciálních znaků v následující tabulce nemusí pracovat správně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If this happens, you can use the Symbols dialog to select the required special character.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se to stane, můžete použít symboly dialogu zvolte požadovaný speciální znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When selected in the Symbols dialog, the name of the special character is displayed at the bottom of the Symbols dialog in the correct language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při výběru v dialogovém okně Symboly název speciálního znaku se zobrazí v dolní části dialogového okna symbolů ve správném jazyce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;f0&gt;&lt;bf1&gt;Chapter 1 Creating &amp; Editing Formulas&lt;/bf1&gt;&lt;/f0&gt;&lt;f2&gt;&lt;s3/&gt;for more information on &lt;/f2&gt;special characters and the Symbols dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f0&gt;&lt;bf1&gt; Chapter 1 Tvorba &amp; Editace Vzorce&lt;/bf1&gt; &lt;/f0&gt; &lt;f2&gt;&lt;s3 /&gt; Další informace o&lt;/f2&gt; Speciální znaky a symboly v dialogovém okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you simply type &lt;f0&gt;A purple B&lt;/f0&gt; in the Formula Editor, the resulting formula is&lt;f1&gt;&lt;df2&gt;&lt;d3/&gt;&lt;di4/&gt;&lt;s5&gt;formula&lt;/s5&gt;&lt;/df2&gt;&lt;/f1&gt;, which is incorrect and the error is shown by the upside question mark.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud pouze typ &lt;f0&gt;fialový B&lt;/f0&gt; ve vzorci Editor, výsledný vzorec &lt;f1&gt;&lt;df2&gt; &lt;d3 /&gt; &lt;di4 /&gt; &lt;s5&gt;vzorec&lt;/s5&gt; &lt;/df2&gt; &lt;/f1&gt;, což je nesprávné a chyba je znázorněno na růstovém otazníkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To correct this error, type A "purple" B in the Formula Editor using double quotes each side of the word purple and the resulting correct formula is&lt;f6&gt;&lt;df7&gt;&lt;d8/&gt;&lt;di9/&gt;&lt;s10&gt;formula&lt;/s10&gt;&lt;/df7&gt;&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tuto chybu, typ A „fialová“ B ve vzorci editoru v uvozovkách každou stranu slova fialové a výsledný správný vzorec je &lt;f6&gt;&lt;df7&gt; &lt;d8 /&gt; &lt;di9 /&gt; &lt;s10&gt;vzorec&lt;/s10&gt; &lt;/df7&gt; &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The reserved words used in Math are listed in the above tables for commands in markup language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyhrazená slova používaná v matematice jsou uvedeny ve výše uvedených tabulkách pro příkazy v značkovací jazyk.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
