@@ -1,0 +1,3991 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Running a slide show&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;37&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Spouštění prezentace&lt;/t0&gt;&lt;f1&gt;|&lt;/f1&gt;&lt;t2&gt;37&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Running a slide show&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;38&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;Spouštění prezentace&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Chapter 6 Getting Started with Impress&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Kapitola 6 Začínáme s Impressem&lt;/t0&gt;&lt;s1 /&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 6 Getting Started with Impress&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;Kapitola 6 Začínáme s Impressem&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Amanda M Labby</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Amanda M. Labby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drew Jensen</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Drew Jensen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;t0&gt;April&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Publikováno &lt;t0&gt;April&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020 &lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a0&gt;To &lt;/a0&gt;&lt;a1&gt;prev&lt;/a1&gt;&lt;a2&gt;io&lt;/a2&gt;&lt;a3&gt;us&lt;/a3&gt;&lt;a4&gt; editions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;a0&gt;Do &lt;/a0&gt;&lt;a1&gt;prev&lt;/a1&gt;&lt;a2&gt;io&lt;/a2&gt;&lt;a3&gt;us&lt;/a3&gt;&lt;a4&gt;vydání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modifying the appearance of all slides</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úprava vzhledu všech snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Working with master slides and styles</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Práce s předlohami a styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Master slides</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní snímky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating a master slide</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvoření hlavního snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Applying a master slide</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití hlavního snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading additional master slides</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Načítání dalších hlavních snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modifying a master slide</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úprava hlavního snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating handouts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytváření letáků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating a photo album</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvoření fotoalba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Playing sounds</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přehrávání zvuků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Animation effects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Animační efekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Applying animation effects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití efektů animace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a0&gt;Present&lt;/a0&gt;&lt;a1&gt;er&lt;/a1&gt;&lt;a2&gt; Console</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;a0&gt;Předchozí&lt;/a0&gt;&lt;a1&gt;er&lt;/a1&gt;&lt;a2&gt;Konzola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using Impress Remote control</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití dálkového ovládání Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Getting Impress Remote</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dálkové ovládání Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Connecting the mobile device to the computer</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Připojení mobilního zařízení k počítači</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enabling remote control in Impress</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Povolení dálkového ovládání v aplikaci Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Running a slide show with Impress Remote</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Spuštění prezentace pomocí aplikace Impress Remote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress also includes a spelling checker, a thesaurus, and styles for drawings, text, and backgrounds.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress také zahrnuje kontrolu pravopisu, tezauru a styly pro kresby, text a pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This chapter includes instructions to guide you through the Impress environment while designing your presentations.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kapitola obsahuje pokyny, které vás provedou prostředím Impress při navrhování vašich prezentací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating drawings in Impress is similar to the Draw component of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytváření kreseb v Impressu je podobné komponentě Draw v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For this reason, we recommend that you also see &lt;f0&gt;Chapter 3, Using Styles and Templates&lt;/f0&gt;&lt;f1&gt;,&lt;/f1&gt; and &lt;f2&gt;Chapter 7, Getting Started with Draw&lt;/f2&gt;&lt;f3&gt;, in this guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z tohoto důvodu doporučujeme, abyste si také prohlédli &lt;f0&gt;Kapitola 3, Používání stylů a šablon&lt;/f0&gt;&lt;f1&gt;,&lt;/f1&gt; a &lt;f2&gt;Kapitola 7, Začínáme s Draw&lt;/f2&gt;&lt;f3&gt;, v této příručce &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may also wish to consult the &lt;f4&gt;Draw Guide&lt;/f4&gt; for more details on how to use the drawing tools.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možná budete také chtít nahlédnout do &lt;f4&gt;Draw Guide &lt;/f4&gt;, kde najdete další podrobnosti o tom, jak používat kreslicí nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you start Impress, it opens with the Select a Template dialog (Figure &lt;f0&gt;&lt;t1&gt;1&lt;/t1&gt;&lt;/f0&gt;) displayed over the workspace, unless you have turned off this feature.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když spustíte Impress, otevře se dialogové okno Vybrat šablonu (Obrázek &lt;f0&gt;&lt;t1&gt;1&lt;/t1&gt;&lt;/f0&gt;) zobrazené nad pracovním prostorem, pokud tuto funkci nevypnete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Templates are included to fit two standard sizes of presentation slides: 4:3 and 16:9 ratios.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šablony jsou zahrnuty tak, aby odpovídaly dvěma standardním velikostem prezentačních snímků: poměry 4: 3 a 16: 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other slides sizes are available in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další velikosti diapozitivů jsou k dispozici na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Select a Template dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;1 &lt;/seq0&gt;: Vyberte dialogové okno Šablona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To start Impress without the Select a Template dialog, deselect &lt;f0&gt;Show this dialog at startup&lt;/f0&gt; in the lower left of the dialog, or go to &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f1&gt; and deselect &lt;f2&gt;Start with Template Selection&lt;/f2&gt;&lt;f3&gt; under New Document&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li spustit Impress bez dialogu Vybrat šablonu, zrušte výběr &lt;f0&gt;Zobrazit tento dialog při spuštění&lt;/f0&gt; v levé dolní části dialogu, nebo přejděte do &lt;f1&gt;Nástroje&gt; Možnosti&gt; LibreOffice Impress&gt; General&lt;/f1&gt; a zrušte výběr možnosti &lt;f2&gt;Začít s výběrem šablony&lt;/f2&gt;&lt;f3&gt;pod Nový dokument &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;i0/&gt;main Impress window (Figure &lt;t1&gt;2&lt;/t1&gt;) has three parts: the &lt;f2&gt;Slides pane&lt;/f2&gt;, &lt;f3&gt;Workspace&lt;/f3&gt;, and &lt;f4&gt;Sidebar&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní okno &lt;i0 /&gt; Impress (Obrázek &lt;t1&gt;2 &lt;/t1&gt;) má tři části: &lt;f2&gt;panel Snímky &lt;/f2&gt;, &lt;f3&gt;Pracovní prostor&lt;/f3&gt; a &lt;f4&gt;Postranní panel &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the top is a Menu bar and usually some toolbars.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nahoře je panel nabídek a obvykle některé panely nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These and other toolbars can be displayed or hidden during the creation of a presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto a další panely nástrojů lze během vytváření prezentace zobrazit nebo skrýt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To reopen a pane, select &lt;f5&gt;View &gt; Slide Pane&lt;/f5&gt; or &lt;f6&gt;Sidebar&lt;/f6&gt; again.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li znovu otevřít podokno, znovu vyberte &lt;f5&gt;Zobrazit&gt; Podokno snímků&lt;/f5&gt; nebo &lt;f6&gt;Boční panel &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also maximize the &lt;f0&gt;Workspace&lt;/f0&gt; area by clicking on the &lt;f1&gt;Hide/Show&lt;/f1&gt; marker in the middle of the vertical separator line (highlighted in Figure &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také maximalizovat oblast &lt;f0&gt;Pracovní prostor&lt;/f0&gt; kliknutím na značku &lt;f1&gt;Skrýt / Zobrazit&lt;/f1&gt; uprostřed svislé oddělovací čáry (zvýrazněno na obrázku &lt;t2&gt;2 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It has five views: &lt;f2&gt;Normal&lt;/f2&gt;, &lt;f3&gt;Outline&lt;/f3&gt;, &lt;f4&gt;Notes&lt;/f4&gt;, &lt;f5&gt;Handout&lt;/f5&gt;, and &lt;f6&gt;Slide Sorter&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Má pět zobrazení: &lt;f2&gt;Normální &lt;/f2&gt;, &lt;f3&gt;Obrys &lt;/f3&gt;, &lt;f4&gt;Poznámky &lt;/f4&gt;, &lt;f5&gt;Podklad&lt;/f5&gt; a &lt;f6&gt;Sorter &lt;/f6 &gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The workspace views are described on page &lt;bf7&gt;9&lt;/bf7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazení pracovních prostorů je popsáno na stránce &lt;bf7&gt;9 &lt;/bf7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Main window of Impress; ovals indicate the Hide/Show markers</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;2 &lt;/seq0&gt;: Hlavní okno Impress; ovály označují značky Hide / Show</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Impress Menu bar provides several menus common to all LibreOffice components, although the commands on them may differ (File, Edit, View, Insert, Format, Tools, Window, Help), plus Slide and Slide Show.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lišta nabídky Impress poskytuje několik společných nabídek pro všechny komponenty LibreOffice, ačkoli příkazy na nich se mohou lišit (File, Edit, View, Insert, Format, Tools, Window, Help), plus Slide and Slide Show.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select one of the menus, a sub-menu drops down to show commands.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud vyberete jednu z nabídek, rozevře se podnabídka a zobrazí příkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can customize the Menu bar; see &lt;f0&gt;Chapter 14, Customizing LibreOffice&lt;/f0&gt;, for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přizpůsobit panel nabídek; Další informace viz &lt;f0&gt;Kapitola 14, Přizpůsobení LibreOffice &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Slides pane&lt;/f0&gt; contains thumbnail pictures of the slides in the presentation in the order in which they will be shown, unless you change the slide show order.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podokno &lt;f0&gt;Snímky&lt;/f0&gt; obsahuje miniatury obrázků snímků v prezentaci v pořadí, v jakém budou zobrazeny, pokud nezměníte pořadí prezentací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a slide is in the Workspace, you can make changes to it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je snímek v pracovním prostoru, můžete v něm provést změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Several additional operations can be performed on one or more slides in the Slides pane:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na jednom nebo více snímcích v podokně Snímky lze provést několik dalších operací:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Duplicate a slide (copy and paste).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Duplikujte snímek (zkopírujte a vložte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move a slide to another place in the slide stack by dragging and dropping it to the desired position.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přetáhněte snímek na jiné místo v zásobníku snímků přetažením do požadované polohy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the position is not visible in the slide pane, the slide stack will scroll up or down.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud pozice není v podokně viditelná, bude se skluzavka posouvat nahoru nebo dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also perform the following operations, although there are more efficient methods than using the Slides pane:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také provést následující operace, i když existují účinnější metody než použití podokna Snímky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change the slide transition following the selected slide or after each slide in a group.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změňte přechod snímku po vybraném snímku nebo po každém snímku ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Impress &lt;f0&gt;Sidebar is usually located on the right side of the window.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Boční panel Impress &lt;f0&gt;je obvykle umístěn na pravé straně okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is similar to the Sidebar in Writer (shown in &lt;/f0&gt;&lt;f1&gt;Chapter 1&lt;/f1&gt;&lt;f2&gt; and &lt;/f2&gt;&lt;f3&gt;Chapter 4&lt;/f3&gt;&lt;f4&gt; of this guide) and consists of seven &lt;/f4&gt;decks.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je podobný postrannímu panelu v Writeru (zobrazen v této příručce) a skládá se z&lt;/f0&gt;&lt;f1&gt;Kapitola 1&lt;/f1&gt;&lt;f2&gt;a&lt;/f2&gt;&lt;f3&gt;Kapitola 4&lt;/f3&gt;&lt;f4&gt;tohoto průvodce) sedmi paluby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each deck has a corresponding icon on the &lt;i5/&gt;Tab panel to the right of the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý balíček má odpovídající ikonu na panelu &lt;i5 /&gt; Tab napravo od postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To display a deck, click on its icon or click on the Sidebar Settings icon at the top of the Tab panel and select a deck from the drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit balíček, klikněte na jeho ikonu nebo klikněte na ikonu Nastavení postranního panelu v horní části panelu Karta a vyberte balíček z rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This deck has two panels.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento balíček má dva panely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Slide panel shows the characteristics of the selected slide, which you can modify in the panel, and the available slide layouts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel Snímek zobrazuje vlastnosti vybraného snímku, které můžete v panelu upravovat, a dostupná rozvržení snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can choose a layout and use it as it is, or modify it to meet your requirements.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si vybrat rozvržení a použít ho tak, jak je, nebo jej upravit tak, aby vyhovoval vašim požadavkům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;f0&gt;&lt;bf1&gt;Selecting slide layout&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;13&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;f0&gt;&lt;bf1&gt;Výběr rozložení snímku&lt;/bf1&gt;&lt;/f0&gt;“ na stránce &lt;f2&gt;&lt;bf3&gt;13&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Provides quick selection of slide transition options and transition speed (slow, medium, fast), automatic or manual transition, and how long the selected slide should be shown (automatic transition only).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poskytuje rychlý výběr možností přechodu snímku a rychlosti přechodu (pomalý, střední, rychlý), automatický nebo ruční přechod a dobu, po kterou by se měl vybraný snímek zobrazit (pouze automatický přechod).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see “&lt;f0&gt;&lt;bf1&gt;Slide transitions&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;35&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v části „&lt;f0&gt;&lt;bf1&gt;Přechody snímků&lt;/bf1&gt;&lt;/f0&gt;“ na stránce &lt;f2&gt;&lt;bf3&gt;35&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Animation</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Animace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This panel provides an easy way to add, change, or remove animations.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento panel poskytuje snadný způsob přidání, změny nebo odstranění animací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See page &lt;f0&gt;&lt;bf1&gt;36&lt;/bf1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz strana &lt;f0&gt;&lt;bf1&gt;36&lt;/bf1&gt;&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Master Slides</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Master Slides</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you choose the slide style for your presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde vyberete styl prezentace pro svou prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress includes several designs for Master Slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress obsahuje několik návrhů pro Master Slide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One of them (Default) is blank; the others have a background and styled text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jeden z nich (výchozí) je prázdný; ostatní mají pozadí a stylizovaný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see “&lt;f0&gt;&lt;bf1&gt;Working with master slides and styles&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;23&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v části „&lt;f0&gt;&lt;bf1&gt;Práce s předlohami a styly&lt;/bf1&gt;&lt;/f0&gt;“ na stránce &lt;f2&gt;&lt;bf3&gt;23&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you can quickly apply drawing (graphic and text) styles and presentation styles, create new drawing styles, and open style dialogs to modify both types of styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde můžete rychle použít styly výkresu (grafické a textové) a styly prezentace, vytvářet nové styly výkresu a otevřít dialogy stylů pro úpravu obou typů stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you save changes to a style, the changes are applied to all of the elements formatted with that style in the presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při uložení změn stylu se změny použijí na všechny prvky formátované tímto stylem v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;f0&gt;&lt;bf1&gt;Styles&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;24&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „&lt;f0&gt;&lt;bf1&gt;Styly&lt;/bf1&gt;&lt;/f0&gt;“ na stránce &lt;f2&gt;&lt;bf3&gt;24&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f0&gt;Impress Guide&lt;/f0&gt; for details.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnosti najdete v &lt;f0&gt;Průvodci zobrazováním &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Many toolbars can be used during slide creation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Během vytváření snímku lze použít mnoho panelů nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They can be displayed or hidden by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar and selecting from the submenu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lze je zobrazit nebo skrýt tak, že přejdete do nabídky &lt;f0&gt;Zobrazit&gt; Panely nástrojů&lt;/f0&gt; na panelu nabídek a výběrem z podnabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see &lt;f1&gt;Chapter 1, Introducing LibreOffice&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace viz &lt;f1&gt;Kapitola 1, Představujeme LibreOffice &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Status bar&lt;/f0&gt; (Figure &lt;t1&gt;3&lt;/t1&gt;), located at the bottom of the Impress window, contains information that you may find useful when working on a presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stavový řádek &lt;f0&gt;&lt;/f0&gt; (Obrázek &lt;t1&gt;3 &lt;/t1&gt;), umístěný ve spodní části okna Impress, obsahuje informace, které by se vám při práci na prezentaci mohly hodit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details on the contents and use of these fields, see &lt;f2&gt;Chapter 1, Introducing LibreOffice&lt;/f2&gt;&lt;f3&gt;,&lt;/f3&gt; in this guide and&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Chapter 1, Introducing Impress&lt;/f5&gt;&lt;f6&gt;, in the &lt;/f6&gt;&lt;f7&gt;Impress Guide&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnosti o obsahu a použití těchto polí naleznete v &lt;f2&gt;Kapitola 1, Představujeme LibreOffice&lt;/f2&gt;&lt;f3&gt;,&lt;/f3&gt; v této příručce a &lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;Kapitola 1, Představujeme Impress&lt;/f5&gt;&lt;f6&gt;, v&lt;/f6&gt;&lt;f7&gt;Impress Guide &lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can hide the Status Bar by going to &lt;f0&gt;View&lt;/f0&gt; on the Main menu bar and deselecting &lt;f1&gt;Status Bar&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stavový řádek můžete skrýt tak, že přejdete do &lt;f0&gt;Zobrazit&lt;/f0&gt; na hlavním panelu nabídky a zrušíte výběr &lt;f1&gt;stavového řádku &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slide number</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Číslo snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The slide number currently displayed in the Workspace and the total number of slides in the presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Číslo snímku aktuálně zobrazené v pracovním prostoru a celkový počet snímků v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information area</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informační oblast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This changes depending on the object selected on the slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To se mění v závislosti na objektu vybraném na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Examples are shown in the following table.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příklady jsou uvedeny v následující tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Master slide name</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní název snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;The style associated with the slide, handout, or notes page currently in the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Styl spojený se stránkou snímku, letáku nebo poznámek aktuálně v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click to pop up a list of available master slides; pick one to apply it to the selected slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím pravým tlačítkem myši zobrazíte seznam dostupných hlavních snímků; vyberte jednu a použijte ji na vybraný snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click to open the Available Master Slides dialog (see page &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;27&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poklepáním otevřete dialog Dostupné hlavní snímky (viz stránka &lt;/f0&gt;&lt;f1&gt;&lt;t2&gt;27&lt;/t2&gt;&lt;/f1&gt;&lt;f3&gt;).&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cursor position</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poloha kurzoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The position of the cursor or of the top left corner of the selection measured from the top left corner of the slide, followed by the width and height of the selection or text box where the cursor is located.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poloha kurzoru nebo levého horního rohu výběru měřená od levého horního rohu snímku, následovaná šířkou a výškou výběru nebo textového pole, kde je kurzor umístěn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The sizes are given in the current measurement unit as defined in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikosti jsou uvedeny v aktuální měrné jednotce, jak je definováno v &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Impress&gt; General &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Object size</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikost objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indicates the size of a selected object on the slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Označuje velikost vybraného objektu na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This icon indicates if there are any unsaved changes in your presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato ikona označuje, zda se v prezentaci vyskytly nějaké neuložené změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Digital signatures</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Digitální podpisy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indicates if your presentation has a digital signature.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Označuje, zda má vaše prezentace digitální podpis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text language</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jazyk textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indicates the language used for any text on your presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Označuje jazyk používaný pro jakýkoli text v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fit slide</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přizpůsobit snímek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When this icon is clicked on, the slide in the workspace zooms to fit in the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po klepnutí na tuto ikonu se snímek v pracovním prostoru přiblíží tak, aby se vešel do pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When moved, the slide changes its viewing zoom in the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po přesunutí snímek změní své zvětšení zobrazení v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indicates the zoom level of the slide displayed in the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Označuje úroveň přiblížení snímku zobrazeného v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Impress workspace has four views: &lt;f0&gt;Normal&lt;/f0&gt;, &lt;f1&gt;Outline&lt;/f1&gt;, &lt;f2&gt;Notes&lt;/f2&gt;, and &lt;f3&gt;Slide Sorter&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pracovní plocha Impress má čtyři zobrazení: &lt;f0&gt;Normální &lt;/f0&gt;, &lt;f1&gt;Obrys &lt;/f1&gt;, &lt;f2&gt;Poznámky&lt;/f2&gt; a &lt;f3&gt;Sorter &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can display a row of View buttons above the workspace by choosing &lt;f4&gt;View &gt; Views Tab Bar&lt;/f4&gt; from the Menu bar, or you can switch between them using entries on the View menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Řadu tlačítek Zobrazit můžete zobrazit nad pracovním prostorem volbou &lt;f4&gt;Zobrazit&gt; Panel záložek Pohledy&lt;/f4&gt; na liště nabídky, nebo můžete mezi nimi přepínat pomocí položek v nabídce Zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each of the workspace views is designed to ease the completion of certain tasks.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý z pohledů pracovního prostoru je navržen tak, aby usnadnil dokončení určitých úkolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is therefore useful to familiarize yourself with them in order to accomplish those tasks quickly.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je proto užitečné se s nimi seznámit, aby tyto úkoly byly splněny rychle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each workspace view displays a different set of toolbars when selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každé zobrazení pracovního prostoru zobrazí po výběru jinou sadu panelů nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These toolbar sets can be customized by going to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; on the Menu bar, then check or uncheck the toolbars you want to add or remove.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto sady panelů nástrojů lze přizpůsobit tak, že přejdete do &lt;f0&gt;Zobrazit&gt; Panely nástrojů&lt;/f0&gt; na panelu nabídek a poté zaškrtnete nebo zrušíte zaškrtnutí panelů nástrojů, které chcete přidat nebo odebrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;View &gt; Normal&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;is the main view for working with individual slides.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zobrazit&gt; Normální&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; je hlavní pohled pro práci s jednotlivými snímky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To place a slide in the slide design area (Normal view) (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;6&lt;/t2&gt;), click the slide thumbnail in the Slides pane or double-click it in the Navigator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li umístit snímek do návrhové oblasti snímku (normální zobrazení) (obrázek &lt;t0&gt;2&lt;/t0&gt;&lt;s1 /&gt; na stránce &lt;t2&gt;6 &lt;/t2&gt;), klepněte na miniaturu snímku v podokně Snímky nebo dvakrát klepněte na něj v Navigátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;View &gt; Outline&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;(Figure &lt;t2&gt;4&lt;/t2&gt;) contains all the slides of the presentation in their numbered sequence.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zobrazit&gt; Obrys&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; (Obrázek &lt;t2&gt;4 &lt;/t2&gt;) obsahuje všechny snímky prezentace v jejich očíslované posloupnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use Outline view to do the following tasks:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí zobrazení osnovy můžete provádět následující úkoly:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quickly insert text for fast content creation or editing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rychle vkládejte text pro rychlé vytváření nebo úpravy obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make changes in the text of a slide:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proveďte změny v textu snímku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add and delete the text in a slide as in the Normal view.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidejte a odstraňte text na snímku stejně jako v normálním zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move the paragraphs of text in the selected slide up or down by using the up and down arrow buttons (&lt;f0&gt;Move Up&lt;/f0&gt; or &lt;f1&gt;Move Down&lt;/f1&gt;) on the Outline toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesuňte odstavce textu ve vybraném snímku nahoru nebo dolů pomocí tlačítek se šipkami nahoru a dolů (&lt;f0&gt; Posunout nahoru&lt;/f0&gt; nebo &lt;f1&gt;Posunout dolů &lt;/f1&gt;) na panelu nástrojů Osnova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change the outline level for any of the paragraphs in a slide using the left and right arrow buttons (&lt;f0&gt;Promote&lt;/f0&gt; or &lt;f1&gt;Demote&lt;/f1&gt;) on the Outline toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí tlačítek se šipkami vlevo a vpravo (&lt;f0&gt; Povýšit&lt;/f0&gt; nebo &lt;f1&gt;Snížení &lt;/f1&gt;) na panelu nástrojů Osnova změňte úroveň osnovy pro kterýkoli z odstavců na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Notes view</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;5 &lt;/seq0&gt;: Zobrazení poznámek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Use &lt;/f0&gt;&lt;f1&gt;View &gt; Notes&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;(Figure &lt;t3&gt;5&lt;/t3&gt;) to add notes to a slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Pomocí&lt;/f0&gt;&lt;f1&gt;Zobrazit&gt; Poznámky&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; (Obrázek &lt;t3&gt;5 &lt;/t3&gt;) můžete do snímku přidat poznámky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These notes are for your information and are not seen by the audience when the presentation is shown.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto poznámky slouží pouze pro informaci a publikum se nezobrazí, když je prezentace zobrazena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the words &lt;f4&gt;Click to add notes&lt;/f4&gt; and begin typing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na slova &lt;f4&gt;Klepnutím přidáte poznámky&lt;/f4&gt; a začnete psát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can resize the Notes text box using the colored resizing handles that appear when you click on the box and move the box by clicking and dragging.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikost textového pole Poznámky můžete změnit pomocí barevných úchytů pro změnu velikosti, které se zobrazí po kliknutí na pole, a přesunout pole kliknutím a přetažením.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To make changes in the text style, click on the &lt;f0&gt;Styles&lt;/f0&gt; tab on the Sidebar and select &lt;f1&gt;Notes&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit styl textu, klikněte na postranním panelu na kartu &lt;f0&gt;Styly&lt;/f0&gt; a vyberte &lt;f1&gt;Poznámky &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; (Figure &lt;t1&gt;6&lt;/t1&gt;) contains all of the slide thumbnails.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zobrazit&gt; Třídění snímků&lt;/f0&gt; (Obrázek &lt;t1&gt;6 &lt;/t1&gt;) obsahuje všechny miniatury snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Slide Sorter view</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6 &lt;/seq0&gt;: Zobrazení řazení snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Toolbars&lt;/f0&gt; and select &lt;f1&gt;Slide Sorter&lt;/f1&gt; and &lt;f2&gt;Slide View&lt;/f2&gt; to show or hide the Slide Sorter and Slide View toolbars (Figure &lt;t3&gt;8&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Zobrazit&gt; Panely nástrojů&lt;/f0&gt; a vyberte &lt;f1&gt;Sorter&lt;/f1&gt; a &lt;f2&gt;Slide View&lt;/f2&gt; pro zobrazení nebo skrytí panelů nástrojů Sorter a View Slide (Obrázek &lt;t3&gt;8 &lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Slide Sorter and Slide View toolbars</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7 &lt;/seq0&gt;: Panel nástrojů Sorter a View View</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the slide and the slide is highlighted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte na snímek a snímek je zvýrazněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All of the other slides between the first and the last slide are selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jsou vybrány všechny ostatní snímky mezi prvním a posledním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To move a group of slides, select them and then drag and drop the group to their new location.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přesunout skupinu snímků, vyberte je a poté skupinu přetáhněte na nové místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;New Slide&lt;/f0&gt; – adds a new slide after the selected slide (see “&lt;bf1&gt;New slide&lt;/bf1&gt;” on page &lt;bf2&gt;12&lt;/bf2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nový snímek&lt;/f0&gt; - přidá nový snímek za vybraný snímek (viz „&lt;bf1&gt; Nový snímek &lt;/bf1&gt;“ na stránce &lt;bf2&gt;12 &lt;/bf2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Duplicate Slide&lt;/f0&gt; – creates a duplicate of the selected slide and places the new slide immediately after the selected slide (see “&lt;bf1&gt;Duplicate slide&lt;/bf1&gt;” on page &lt;bf2&gt;12&lt;/bf2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Duplikovat snímek&lt;/f0&gt; - vytvoří duplikát vybraného snímku a umístí nový snímek bezprostředně za vybraný snímek (viz „&lt;bf1&gt; Duplikovat snímek &lt;/bf1&gt;“ na stránce &lt;bf2&gt;12&lt;/bf2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Rename Slide&lt;/f0&gt; – rename the selected slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Přejmenovat snímek&lt;/f0&gt; - přejmenovat vybraný snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Layout&lt;/f0&gt; – select a different layout for the selected slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Rozložení&lt;/f0&gt; - vyberte jiné rozvržení pro vybraný snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Move&lt;/f0&gt; – move the selected slide up or down or to the first or last position.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Přesunout&lt;/f0&gt; - přesune vybraný snímek nahoru nebo dolů nebo na první nebo poslední pozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Copy&lt;/f0&gt; – copies the selected slide to the clipboard without removing it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Kopírovat&lt;/f0&gt; - zkopíruje vybraný snímek do schránky bez jeho odstranění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A new slide can be inserted into a presentation after the selected slide in any of these ways:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nový snímek lze za vybraný snímek vložit do prezentace některým z těchto způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Slide &gt; New Slide&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek použijte &lt;f0&gt;snímek&gt; nový snímek&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on a slide in the Slides Pane or Slide Sorter view and select &lt;f0&gt;New Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na snímek v zobrazení Podložky nebo Sorter snímků a z kontextové nabídky vyberte &lt;f0&gt;Nový snímek &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;New Slide&lt;/f0&gt; icon in the Presentation toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Prezentace klikněte na ikonu &lt;f0&gt;Nový snímek &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also select the layout of the new slide by clicking on the small downward arrow of the icon.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také vybrat rozvržení nového snímku kliknutím na malou šipku dolů ikony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the Presentation toolbar is not visible, go to &lt;f1&gt;View &gt; Toolbars&lt;/f1&gt; on the Menu bar and select &lt;f2&gt;Presentation&lt;/f2&gt; from the list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud není panel nástrojů Prezentace zobrazen, přejděte na &lt;f1&gt;Zobrazit&gt; Panely nástrojů&lt;/f1&gt; na panelu nabídek a vyberte ze seznamu &lt;f2&gt;Prezentace &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press &lt;f0&gt;Ctrl+M&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stiskněte &lt;f0&gt;Ctrl + M &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sometimes, rather than starting from a new slide you may want to duplicate a slide already in the presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Někdy, spíše než začít od nového snímku, můžete chtít duplikovat snímek již v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then do one of the following:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Potom proveďte jednu z následujících akcí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Slide &gt; Duplicate Slide&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek použijte &lt;f0&gt;snímek&gt; Duplikovat snímek &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the slide in the Slides Pane or Slide Sorter view and select &lt;f0&gt;Duplicate Slide&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pravým tlačítkem myši klepněte na snímek v zobrazení Podložky nebo Třídění snímků az kontextové nabídky vyberte &lt;f0&gt;Duplikovat snímek &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the triangle to the right of the &lt;f0&gt;Slide&lt;/f0&gt; icon in the Presentation toolbar and select &lt;f1&gt;Duplicate Slide&lt;/f1&gt; from the submenu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na trojúhelník napravo od ikony &lt;f0&gt;Snímek&lt;/f0&gt; na panelu nástrojů Prezentace a v podnabídce vyberte &lt;f1&gt;Duplikovat snímek &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The first slide of a presentation is usually a title slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>První snímek prezentace je obvykle titulní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to the Properties deck on the Sidebar and open the &lt;f0&gt;Layouts&lt;/f0&gt; panel to show the available layouts (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na postranním panelu přejděte do balíčku Vlastnosti a otevřete panel &lt;f0&gt;Rozvržení &lt;/f0&gt;. Zobrazí se dostupná rozvržení (Obrázek &lt;t1&gt;8 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Or, click on the &lt;f0&gt;Slide Layout&lt;/f0&gt; icon on the Presentation Toolbar to display the available layouts (Figure &lt;f1&gt;&lt;t2&gt;9&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nebo kliknutím na ikonu &lt;f0&gt;Rozvržení snímků&lt;/f0&gt; na panelu nástrojů Prezentace zobrazte dostupná rozvržení (obrázek &lt;f1&gt;&lt;t2&gt;9&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To create a title, if one of the title layouts has been selected, click on &lt;f0&gt;Click to add title&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;and then type the title text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vytvořit název, pokud bylo vybráno jedno z rozvržení titulů, klikněte na &lt;f0&gt;Klepnutím přidejte název&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; a zadejte text názvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add text content, depending on the slide layout selected, click on &lt;f2&gt;Click to add text&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat textový obsah, v závislosti na vybraném rozvržení snímku klikněte na &lt;f2&gt;Klepnutím přidejte text &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To adjust the formatting of the title, subtitle or content modify the presentation style; see&lt;f3&gt; Chapter 2, Using master slides, Styles, and Templates, in the &lt;/f3&gt;&lt;f4&gt;Impress Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li upravit formátování názvu, titulků nebo obsahu, upravte styl prezentace; viz &lt;f3&gt;Kapitola 2, Používání předloh, stylů a šablon, v&lt;/f3&gt;&lt;f4&gt;Příručce pro zobrazení &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Slide layouts in Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8 &lt;/seq0&gt;: Rozložení snímků v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Slide layouts in Presentation toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9 &lt;/seq0&gt;: Rozložení snímků na panelu nástrojů Prezentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text and graphical elements can be readjusted at any time during the preparation of the presentation, but changing the layout of a slide that already contains some content can have an effect on the content format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Textové a grafické prvky lze kdykoli během přípravy prezentace upravit, ale změna rozložení snímku, který již obsahuje nějaký obsah, může mít vliv na formát obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To view the names for the included layouts, use the Tooltip feature: position the cursor on an icon in the Layout section and its name will be displayed in a small rectangle.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit názvy zahrnutých rozvržení, použijte funkci Popis: umístěte kurzor na ikonu v sekci Rozvržení a jeho název se zobrazí v malém obdélníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; General &gt; Help&lt;/f0&gt;, select the &lt;f1&gt;Extended tips&lt;/f1&gt; option to get more detailed tooltip information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Obecné&gt; Nápověda&lt;/f0&gt; vyberte možnost &lt;f1&gt;Rozšířené tipy&lt;/f1&gt; a získejte podrobnější informace o popisech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select or change the layout of a slide, select the slide in the Slides Pane so that it appears in the Workspace, then select the desired layout from the Layouts section in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybrat nebo změnit rozvržení snímku, vyberte snímek v podokně snímků tak, aby se zobrazil v pracovním prostoru, a poté vyberte požadované rozvržení v části Rozvržení na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each of these content boxes can be configured to contain text, movies, images, charts, or tables.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každé z těchto obsahových polí lze nakonfigurovat tak, aby obsahovalo text, filmy, obrázky, grafy nebo tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can choose the type of content by clicking on the corresponding icon that is displayed in the middle of the content box as shown in Figure &lt;t0&gt;10&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Typ obsahu si můžete vybrat kliknutím na odpovídající ikonu, která se zobrazí uprostřed rámečku obsahu, jak je znázorněno na obrázku &lt;t0&gt;10 &lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you intend to use the content box for text, click on &lt;f1&gt;Click to add text&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud chcete použít textové pole pro text, klikněte na &lt;f1&gt;Klepnutím přidáte text &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Selecting content type</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10 &lt;/seq0&gt;: Výběr typu obsahu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A slide contains elements that were included in the master slide, as well as those elements included in the selected slide layout.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Snímek obsahuje prvky, které byly zahrnuty v hlavním snímku, jakož i prvky obsažené ve vybraném rozvržení snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, it is unlikely that the predefined layouts will suit all your needs for the presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je však nepravděpodobné, že předdefinovaná rozvržení budou vyhovovat všem vašim potřebám prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although Impress does not allow you to create new layouts, you can resize and move the layout elements.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přestože vám Impress neumožňuje vytvářet nová rozvržení, můžete změnit velikost a přesunout prvky rozvržení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To move it, place the mouse cursor on the frame so that the cursor changes shape.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li jej přesunout, umístěte kurzor myši na rámeček tak, aby kurzor změnil tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To remove any unwanted element:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odstranit jakýkoli nežádoucí prvek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The resizing handles show that it is selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úchyty pro změnu velikosti ukazují, že je vybrána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changes to any of the layouts included in Impress can only be made using &lt;f0&gt;View &gt; Normal&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změny v jakémkoli rozvržení zahrnutém v aplikaci Impress lze provést pouze pomocí &lt;f0&gt;Zobrazit&gt; Normální &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attempting any changes by modifying a master slide, although possible, may result in unpredictable results and requires extra care as well as a certain amount of trial and error.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokus o jakékoli změny úpravou hlavního snímku, ačkoli je to možné, může vést k nepředvídatelným výsledkům a vyžaduje zvláštní péči, jakož i určité množství pokusů a chyb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the outline level of each paragraph as well as its position within the text by using the arrow buttons on the &lt;f1&gt;Outline&lt;/f1&gt; toolbar (see Figure &lt;t2&gt;11&lt;/t2&gt;&lt;s3/&gt;and “&lt;bf4&gt;Outline view&lt;/bf4&gt;” on page &lt;bf5&gt;9&lt;/bf5&gt;) or using the &lt;f6&gt;Tab&lt;/f6&gt; key while positioning the cursor at the beginning of the paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úroveň osnovy každého odstavce a jeho polohu v textu můžete změnit pomocí tlačítek se šipkami na panelu nástrojů &lt;f1&gt;Obrys&lt;/f1&gt; (viz obrázek &lt;t2&gt;11&lt;/t2&gt;&lt;s3 /&gt; a „ &lt;bf4&gt;Zobrazení osnovy&lt;/bf4&gt; ”na stránce &lt;bf5&gt;9 &lt;/bf5&gt;) nebo pomocí klávesy &lt;f6&gt;Tab&lt;/f6&gt; při umístění kurzoru na začátek odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on text, see “&lt;bf7&gt;Adding and formatting text&lt;/bf7&gt;” on page &lt;bf8&gt;16&lt;/bf8&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o textu naleznete v části „&lt;bf7&gt; Přidávání a formátování textu &lt;/bf7&gt;“ na stránce &lt;bf8&gt;16 &lt;/bf8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Outline toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;11 &lt;/seq0&gt;: Panel nástrojů Obrys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see “&lt;bf1&gt;Adding pictures, tables, charts, and media&lt;/bf1&gt;” on page &lt;bf2&gt;21&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v části „&lt;bf1&gt; Přidávání obrázků, tabulek, tabulek a médií &lt;/bf1&gt;“ na stránce &lt;bf2&gt;21 &lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the background and other characteristics of all slides in the presentation, you need to &lt;i0/&gt;modify the master page or choose a different master slide as explained in “&lt;bf1&gt;Working with master slides and styles&lt;/bf1&gt;” on page &lt;bf2&gt;23&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit pozadí a další vlastnosti všech snímků v prezentaci, musíte &lt;i0 /&gt; upravit hlavní stránku nebo zvolit jiný hlavní snímek, jak je vysvětleno v části „&lt;bf1&gt; Práce s předlohami a styly &lt;/bf1&gt;“ na stránka &lt;bf2&gt;23 &lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A&lt;f0&gt; Master&lt;/f0&gt; &lt;f1&gt;Slide &lt;/f1&gt;has a specified set of characteristics that acts as a template and is used as the starting point for creating other slides.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Master&lt;/f0&gt;&lt;f1&gt;Slide&lt;/f1&gt; má specifikovanou sadu charakteristik, která funguje jako šablona a používá se jako výchozí bod pro vytváření dalších snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress has a range of master slides, which are found in the &lt;f0&gt;Master Slides&lt;/f0&gt; deck of the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress má řadu hlavních snímků, které se nacházejí v balíčku &lt;f0&gt;Hlavní snímky&lt;/f0&gt; na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also create and save additional master slides or add more from other sources.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také vytvořit a uložit další hlavní snímky nebo přidat další z jiných zdrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Chapter 2, Using Master Slides, Styles, and Templates&lt;/f2&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;Impress Guide&lt;/f4&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace viz &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Kapitola 2, Použití předloh, stylů a šablon&lt;/f2&gt;&lt;f3&gt;v&lt;/f3&gt;&lt;f4&gt;Průvodci zobrazováním &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Slide &gt; Properties&lt;/f0&gt; on the Menu bar and go to the &lt;f1&gt;Background&lt;/f1&gt; tab on the &lt;f2&gt;Slide Setup&lt;/f2&gt; dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek vyberte &lt;f0&gt;Snímek&gt; Vlastnosti&lt;/f0&gt; a přejděte na kartu &lt;f1&gt;Pozadí&lt;/f1&gt; v dialogu &lt;f2&gt;Nastavení snímku &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the desired background (a color, gradient, bitmap, pattern, or hatching) and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte požadované pozadí (barvu, přechod, bitmapu, vzor nebo šrafování) a klikněte na &lt;f0&gt;OK &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; if you want all the slides modified and Impress will modify the master page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Ano &lt;/f0&gt;, pokud chcete upravit všechny snímky a Impress upraví hlavní stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inserting and correctly formatting a background is beyond the scope of this chapter, but you can find all the information you need in&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Chapter 4, Changing Object Attributes&lt;/f1&gt;&lt;f2&gt; of the &lt;/f2&gt;&lt;f3&gt;Draw Guide&lt;/f3&gt; or in&lt;f4&gt; &lt;/f4&gt;&lt;f5&gt;Chapter 6, Formatting Graphic Objects&lt;/f5&gt;&lt;f6&gt; of the &lt;/f6&gt;&lt;f7&gt;Impress Guide&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vkládání a správné formátování pozadí je nad rámec této kapitoly, ale všechny potřebné informace najdete v &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Kapitola 4, Změna atributů objektů&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;Průvodce kreslením&lt;/f3&gt; nebo v &lt;f4&gt;&lt;/f4&gt;&lt;f5&gt;Kapitola 6, Formátování grafických objektů&lt;/f5&gt;&lt;f6&gt;&lt;/f6&gt;&lt;f7&gt;Průvodce zobrazením &lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most of your slides are likely to contain some text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Většina vašich snímků pravděpodobně obsahuje nějaký text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This section gives some guidelines on how to add text and change its appearance.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato část obsahuje několik pokynů, jak přidat text a změnit jeho vzhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on adding and formatting text, see&lt;f1&gt; &lt;/f1&gt;&lt;f2&gt;Chapter 3, Adding and Formatting Text&lt;/f2&gt;&lt;f3&gt; in the &lt;/f3&gt;&lt;f4&gt;Impress Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o přidávání a formátování textu naleznete v &lt;f1&gt;&lt;/f1&gt;&lt;f2&gt;Kapitola 3, Přidávání a formátování textu&lt;/f2&gt;&lt;f3&gt;v&lt;/f3&gt;&lt;f4&gt;Průvodci zobrazováním &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use two types of text boxes on a slide:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na snímku můžete použít dva typy textových polí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose a predefined layout from the &lt;f0&gt;Layouts&lt;/f0&gt; section of the Sidebar and do not select any special content type.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V části &lt;f0&gt;Rozložení&lt;/f0&gt; na postranním panelu vyberte předdefinované rozvržení a nevybírejte žádný zvláštní typ obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the Text toolbar to create text boxes or callouts on a blank slide or a slide with pre-existing text boxes, images, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí panelu nástrojů Text můžete vytvořit textová pole nebo popisky na prázdném snímku nebo snímku s již existujícími textovými poli, obrázky atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can move, resize, and delete text boxes of both types.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přesouvat, měnit velikost a mazat textová pole obou typů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click in the text box that reads &lt;f0&gt;Click to add Text&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte do textového pole s textem &lt;f0&gt;Klepnutím přidejte text &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and type or paste your text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>a zadejte nebo vložte text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Standard toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;12 &lt;/seq0&gt;: Standardní panel nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Text toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;13 &lt;/seq0&gt;: Panel nástrojů Text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Text&lt;/f0&gt; icon on the Standard (&lt;f1&gt;&lt;t2&gt;12&lt;/t2&gt;&lt;/f1&gt;) or Text (&lt;f3&gt;&lt;t4&gt;13&lt;/t4&gt;&lt;/f3&gt;) toolbar or use the keyboard shortcut &lt;f5&gt;F2&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Text&lt;/f0&gt; na Standardní (&lt;f1&gt;&lt;t2&gt;12&lt;/t2&gt;&lt;/f1&gt;) nebo Text (&lt;f3&gt;&lt;t4&gt;13&lt;/t4&gt;&lt;/f3&gt;) nebo použijte klávesovou zkratku &lt;f5&gt;F2 &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the Standard or Text toolbars are not visible, go to &lt;f6&gt;View &gt; Toolbars&lt;/f6&gt; on the Menu bar and select &lt;f7&gt;Standard&lt;/f7&gt; or &lt;f8&gt;Text&lt;/f8&gt; as needed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud nejsou viditelné panely nástrojů Standard nebo Text, přejděte na &lt;f6&gt;Zobrazit&gt; Panely nástrojů&lt;/f6&gt; na panelu nabídek a podle potřeby vyberte &lt;f7&gt;Standardní&lt;/f7&gt; nebo &lt;f8&gt;Text &lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cursor appears in the text box, which is now in edit mode (a colored border shown in Figure &lt;t0&gt;14&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kurzor se objeví v textovém poli, které je nyní v režimu úprav (barevné ohraničení na obrázku &lt;t0&gt;14 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type or paste your text in the text box, then click outside the text box to deselect it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte nebo vložte text do textového pole a kliknutím mimo textové pole zrušte výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Creating and editing text boxes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;14 &lt;/seq0&gt;: Vytváření a úpravy textových polí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In addition to normal text boxes where text is horizontally aligned, it is possible to insert text boxes where the text is aligned vertically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kromě běžných textových polí, kde je text vodorovně zarovnán, je možné vložit textová pole, kde je text svisle zarovnán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f1&gt;Vertical Text&lt;/f1&gt; icon in the Vertical Text toolbar (&lt;f2&gt;&lt;t3&gt;15&lt;/t3&gt;&lt;/f2&gt;) to create a vertical text box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na ikonu &lt;f1&gt;Svislý text&lt;/f1&gt; na panelu nástrojů Svislý text (&lt;f2&gt;&lt;t3&gt;15&lt;/t3&gt;&lt;/f2&gt;) vytvoříte vertikální textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Vertical text toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;15 &lt;/seq0&gt;: Panel nástrojů pro svislý text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress has an &lt;f0&gt;Increase Font Size&lt;/f0&gt; icon and a &lt;f1&gt;Decrease Font Size&lt;/f1&gt; icon on the Text Formatting toolbar (highlighted in &lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;) to quickly change the font size of selected text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress má ikonu &lt;f0&gt;Zvětšit velikost písma&lt;/f0&gt; a ikonu &lt;f1&gt;Zmenšit velikost písma&lt;/f1&gt; na panelu nástrojů Formátování textu (zvýrazněno v &lt;f2&gt;&lt;t3&gt;16&lt;/t3&gt;&lt;/f2&gt;) k rychlé změně velikosti písma vybraného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Quick font resizing</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;16 &lt;/seq0&gt;: Rychlá změna velikosti písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>AutoLayout text boxes can automatically resize fonts to let the box contain all the text you insert.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Textová pole AutoLayout mohou automaticky měnit velikost písma, aby pole obsahovalo veškerý text, který vložíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you insert a long piece of text, the font size may shrink to fit into the box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud vložíte dlouhý kus textu, může se velikost písma zmenšit, aby se vešla do pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Otherwise, the font keeps its default size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jinak si písmo zachová svou výchozí velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This may be what you want on some occasions; however, in most cases you want to make sure that the presentation is consistent and does not become a patchwork of different styles, font types, bullet points, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To může být v některých případech to, co chcete; však ve většině případů se chcete ujistit, že prezentace je konzistentní a nestane se směsicí různých stylů, typů písma, odrážek atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Or click on the small triangle next to the &lt;f0&gt;Paste&lt;/f0&gt; icon in the Standard toolbar and select &lt;f1&gt;Unformatted text&lt;/f1&gt; from the submenu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nebo klikněte na malý trojúhelník vedle ikony &lt;f0&gt;Vložit&lt;/f0&gt; na panelu nástrojů Standardní a v podnabídce vyberte &lt;f1&gt;Neformátovaný text &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The unformatted text will be formatted with the outline or paragraph style at the cursor position in an AutoLayout text box or with the default style in a normal text box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Neformátovaný text bude formátován stylem osnovy nebo odstavce na pozici kurzoru v textovém poli AutoLayout nebo s výchozím stylem v normálním textovém poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When formatting pasted text, you can use the tools available on the Text Formatting toolbar, or the tools available in the &lt;f0&gt;Character&lt;/f0&gt; and &lt;f1&gt;Paragraph&lt;/f1&gt; sections of the &lt;f2&gt;Properties&lt;/f2&gt; deck in the Sidebar (Figure &lt;t3&gt;17&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při formátování vloženého textu můžete použít nástroje dostupné na panelu nástrojů Formátování textu nebo nástroje dostupné v sekcích &lt;f0&gt;Znak&lt;/f0&gt; a &lt;f1&gt;Odstavec&lt;/f1&gt; v &lt;f2&gt;Vlastnosti&lt;/f2 &gt; balíček v postranním panelu (obrázek &lt;t3&gt;17 &lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Sidebar Character pane</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;17 &lt;/seq0&gt;: Podokno Postranní znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek vyberte &lt;f0&gt;Formát&gt; Vymazat přímé formátování &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the four arrow buttons on &lt;i0/&gt;the Outline toolbar to move the text to the appropriate position and give it the appropriate outline level.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí čtyř tlačítek se šipkami na &lt;i0 /&gt; panelu nástrojů Osnova přesuňte text na vhodné místo a přidělte mu odpovídající úroveň osnovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can get the same result by placing the cursor at the beginning of the paragraph and pressing the &lt;f0&gt;Shift+Tab&lt;/f0&gt; keys.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stejného výsledku můžete dosáhnout umístěním kurzoru na začátek odstavce a stisknutím kláves &lt;f0&gt;Shift + Tab &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press the &lt;f0&gt;Tab&lt;/f0&gt; key to get the same result after placing the cursor at the beginning of the paragraph.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stisknutím klávesy &lt;f0&gt;Tab&lt;/f0&gt; získáte stejný výsledek po umístění kurzoru na začátek odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you are pasting text in a &lt;f0&gt;text box&lt;/f0&gt;, you can still use styles to &lt;i1/&gt;&lt;i2/&gt;format the text quickly.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud vkládáte text do textového pole &lt;f0&gt;&lt;/f0&gt;, můžete stále používat styly pro rychlé formátování textu &lt;i1 /&gt;&lt;i2 /&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only one style can be applied to the pasted text, as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na vložený text lze použít pouze jeden styl následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the desired drawing style to format the text from the default drawing styles available in Impress.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte požadovaný styl kreslení pro formátování textu z výchozích stylů kreslení dostupných v aplikaci Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also create your own drawing styles in Impress.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V aplikaci Impress můžete také vytvořit vlastní styly kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These drawing styles are only available for the Impress presentation that you have created and saved.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto styly kreslení jsou k dispozici pouze pro prezentaci Impress, kterou jste vytvořili a uložili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also create templates in Impress that include any drawing styles that you have created.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V Impressu můžete také vytvořit šablony, které zahrnují všechny vytvořené styly kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see the &lt;f0&gt;Impress Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v &lt;f0&gt;Průvodci zobrazováním &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The procedure to create &lt;i0/&gt;a bulleted or numbered list is slightly different depending on the type of text box used, although the tools to manage the list and customize the appearance are the same.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postup vytvoření seznamu s odrážkami nebo číslovaných seznamů se mírně liší v závislosti na typu použitého textového pole, i když nástroje pro správu seznamu a přizpůsobení vzhledu jsou stejné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For normal text boxes, an additional step is required to create a bulleted list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro normální textová pole je nutný další krok k vytvoření seznamu s odrážkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In both cases, you can create numbered lists or change bulleted lists to numbered.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V obou případech můžete vytvořit číslované seznamy nebo změnit seznamy s odrážkami na číslované.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Methods for changing the appearance of a list are explained in “&lt;f1&gt;&lt;bf2&gt;Changing list appearance&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;f3&gt;&lt;bf4&gt;20&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Způsoby změny vzhledu seznamu jsou vysvětleny v části „&lt;f1&gt;&lt;bf2&gt;Změna vzhledu seznamu&lt;/bf2&gt;&lt;/f1&gt;“ na stránce &lt;f3&gt;&lt;bf4&gt;20&lt;/bf4&gt;&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a slide with a bulleted list as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořte snímek se seznamem s odrážkami takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the text box, click on &lt;f0&gt;Click to add text&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V textovém poli klikněte na &lt;f0&gt;Klepnutím přidejte text&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A bullet appears near the left edge of the box.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kulka se objeví poblíž levého okraje pole.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the list to a numbered list, select the list and click the &lt;f0&gt;Toggle Numbered List&lt;/f0&gt; icon&lt;f1&gt;&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;f4&gt; &lt;s5/&gt;on the Text Formatting toolbar.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li seznam změnit na číslovaný seznam, vyberte jej a klikněte na ikonu &lt;f0&gt;Přepnout číslovaný seznam&lt;/f0&gt;&lt;f1&gt;&lt;df2&gt;&lt;di3 /&gt;&lt;/df2&gt;&lt;/f1&gt;&lt;f4&gt;&lt;s5 / &gt; na panelu nástrojů Formátování textu.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The new line will have the same indentation as the previous&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nový řádek bude mít stejné odsazení jako předchozí řádek &lt;df1&gt;&lt;di2 /&gt;&lt;/df1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To switch off bullets altogether, click the &lt;f3&gt;Toggle Bulleted List&lt;/f3&gt; icon &lt;s4/&gt;on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li kulky úplně vypnout, klikněte na ikonu &lt;f3&gt;Přepnout seznam odrážek&lt;/f3&gt;&lt;s4 /&gt; na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the Text Formatting toolbar is not visible, go to &lt;f5&gt;View &gt; Toolbar &gt; Text Formatting&lt;/f5&gt; to turn it on.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud není panel nástrojů pro formátování textu viditelný, zapněte jej do &lt;f5&gt;Zobrazit&gt; Panel nástrojů&gt; Formátování textu &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a bulleted or numbered list in a text box as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořte seznam s odrážkami nebo číslovaný seznam v textovém poli následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Text&lt;/f0&gt; icon on the Standard toolbar and draw a text box on the slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Text&lt;/f0&gt; na panelu nástrojů Standardní a nakreslete do snímku textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Toggle Bulleted List&lt;/f0&gt; icon or the &lt;f1&gt;Toggle Numbered List&lt;/f1&gt; icon on the Text Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Přepnout seznam odrážek&lt;/f0&gt; nebo na ikonu &lt;f1&gt;Přepnout číslovaný seznam&lt;/f1&gt; na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In AutoLayout text boxes, create a new outline level as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V textových polích AutoLayout vytvořte novou úroveň osnovy takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To demote a list entry (move it to the right), press the &lt;f0&gt;Tab&lt;/f0&gt; key or click the &lt;f1&gt;Demote&lt;/f1&gt; (right arrow) icon on the Text Formatting toolbar or use the keyboard shortcut &lt;f2&gt;Alt+Shift+Right&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li položku seznamu snížit (přesunout doprava), stiskněte klávesu &lt;f0&gt;Tab&lt;/f0&gt; nebo klikněte na ikonu &lt;f1&gt;Snížit&lt;/f1&gt; (šipka vpravo) na panelu nástrojů Formátování textu nebo použijte klávesovou zkratku &lt;f2&gt;Alt + Shift + Right &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To promote a list entry (move it to the left), press &lt;f0&gt;Shift+Tab&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;or click the &lt;f2&gt;Promote&lt;/f2&gt; (left arrow) icon on the Text Formatting toolbar or use the keyboard shortcut &lt;f3&gt;Alt+Shift+Left&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li propagovat položku seznamu (přesunout ji doleva), stiskněte &lt;f0&gt;Shift+Tab&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; nebo klikněte na ikonu &lt;f2&gt;Povýšit&lt;/f2&gt; (šipka vlevo) na Text Panel nástrojů pro formátování nebo použijte klávesovou zkratku &lt;f3&gt;Alt + Shift + Left &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To create a new list entry at the same level as the previous one, press &lt;f0&gt;Enter&lt;/f0&gt; again.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vytvořit novou položku seznamu na stejné úrovni jako předchozí, stiskněte znovu klávesu &lt;f0&gt;Enter &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In AutoLayout text boxes, promoting or demoting an item in the list corresponds to applying a different outline style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V textových polích AutoLayout odpovídá propagace nebo degradace položky v seznamu použití jiného stylu osnovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A change in level and style produces other changes, for example, to font size, bullet type, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna úrovně a stylu způsobí další změny, například velikost písma, typ odrážky atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In text boxes, a new outline level can only be created by using the &lt;f0&gt;Tab&lt;/f0&gt; key to demote the list entry and the &lt;f1&gt;Shift+Tab&lt;/f1&gt; key combination to promote the list entry.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V textových polích lze novou úroveň osnovy vytvořit pouze pomocí klávesy &lt;f0&gt;Tab&lt;/f0&gt; k degradaci položky seznamu a kombinaci kláves &lt;f1&gt;Shift + Tab&lt;/f1&gt; k propagaci položky seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Due to the way that styles work in Impress, it is not possible to change the level in this way.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzhledem k tomu, jak styly fungují v Impressu, není možné tímto způsobem změnit úroveň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All of the changes can be made using the Bullets and Numbering dialog (Figure &lt;t0&gt;18&lt;/t0&gt;), which is accessed by going to &lt;f1&gt;Format &gt; Bullets and Numbering&lt;/f1&gt; on the Menu bar or by right-clicking on selected text and choosing &lt;f2&gt;Bullets and Numbering&lt;/f2&gt; from the context menu..</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechny změny lze provést pomocí dialogu Odrážky a číslování (Obrázek &lt;t0&gt;18 &lt;/t0&gt;), ke kterému se dostanete přístupem do &lt;f1&gt;Formát&gt; Odrážky a číslování&lt;/f1&gt; na panelu nabídek nebo zprava -klikněte na vybraný text a z kontextové nabídky vyberte &lt;f2&gt;Odrážky a číslování &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Format &gt; Bullets and Numbering&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek vyberte &lt;f0&gt;Formát&gt; Odrážky a číslování &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On &lt;i0/&gt;the Bullets and Numbering dialog (Figure &lt;t1&gt;18&lt;/t1&gt;), select the type of list in &lt;f2&gt;Type&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V &lt;i0 /&gt; dialogu Odrážky a číslování (Obrázek &lt;t1&gt;18 &lt;/t1&gt;) vyberte typ seznamu v &lt;f2&gt;Typu &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choices on the dialog will change depending on the type of list selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnosti v dialogu se změní v závislosti na vybraném typu seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Then,</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pak,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a bullet list, select the bullet character from the &lt;f0&gt;Character&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro seznam odrážek vyberte odrážku z rozevíracího seznamu &lt;f0&gt;Znak &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a graphics bullet style, click &lt;f0&gt;Select Image&lt;/f0&gt;&lt;f1&gt; to choose one&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít grafický styl odrážek, klikněte na &lt;f0&gt;Vyberte obrázek&lt;/f0&gt;&lt;f1&gt;a vyberte jeden &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a numbered list, select one of the numbering styles under&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Type&lt;/f1&gt; and then other options such as position, alignment, spacing, and indentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě očíslovaného seznamu vyberte v části &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Typ&lt;/f1&gt; jeden ze stylů číslování a poté další možnosti, například polohu, zarovnání, mezery a odsazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details on all the choices and options available, see the Help or the Impress Guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnosti o všech dostupných možnostech a možnostech naleznete v nápovědě nebo v příručce Impress Guide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;18 &lt;/seq0&gt;: Odrážky a číslování dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A contents box can contain pictures, tables, charts, or media as well as text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obsahové pole může obsahovat obrázky, tabulky, grafy nebo média, jakož i text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Insert Image&lt;/f1&gt; icon (Figure &lt;t2&gt;10&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;14&lt;/t4&gt;) on the new slide and select the file from the Insert Image dialog that opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Vložit&gt; Obrázek&lt;/f0&gt; nebo klikněte na ikonu &lt;f1&gt;Vložit obrázek&lt;/f1&gt; (Obrázek &lt;t2&gt;10&lt;/t2&gt;&lt;s3 /&gt; na stránce &lt;t4&gt;14 &lt;/t4&gt;) na novém snímku a vyberte soubor z dialogového okna Vložit obrázek, které se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To see a preview of the picture, select &lt;f5&gt;Preview&lt;/f5&gt; at the bottom of the Insert Image dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit náhled obrázku, vyberte &lt;f5&gt;Náhled&lt;/f5&gt; v dolní části dialogového okna Vložit obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The picture will automatically resize to fill the area of the content box.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek se automaticky změní velikost tak, aby vyplnil oblast obsahového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Position and Size&lt;/f0&gt; from the context menu and make sure that &lt;f1&gt;Keep ratio&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;is selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z místní nabídky vyberte &lt;f0&gt;Poloha a velikost&lt;/f0&gt; a ujistěte se, že je vybrána možnost &lt;f1&gt;Zachovat poměr&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As you adjust one dimension, both dimensions will change to keep the width and height ratio the same, ensuring that the picture will not become distorted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když upravíte jednu kótu, změní se obě kóty, aby poměr šířky a výšky zůstal stejný, což zajistí, že obraz nebude zkreslený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Table&lt;/f0&gt; on the Menu bar, or click the &lt;f1&gt;Table&lt;/f1&gt; icon on the new slide, or click the &lt;f2&gt;Table&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Vložit&gt; Tabulka&lt;/f0&gt; nebo klikněte na ikonu &lt;f1&gt;Tabulka&lt;/f1&gt; na novém snímku nebo klikněte na ikonu &lt;f2&gt;Tabulka&lt;/f2&gt; na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Sidebar Table Design pane</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;19 &lt;/seq0&gt;: Návrh podokna tabulky bočního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If there is a table already on the slide and it is selected, click the &lt;f0&gt;Table&lt;/f0&gt; icon on the Table toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud již na snímku existuje tabulka a je vybrána, klikněte na ikonu &lt;f0&gt;Tabulka&lt;/f0&gt; na panelu nástrojů Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Table toolbar is only visible after selecting &lt;f1&gt;View &gt; Toolbars &gt; Table&lt;/f1&gt; on the Menu bar and when a table is selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel nástrojů Tabulka je viditelný pouze po výběru &lt;f1&gt;Zobrazit&gt; Panely nástrojů&gt; Tabulka&lt;/f1&gt; na panelu nabídek a po výběru tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the number of rows and columns required.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte požadovaný počet řádků a sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a design style from the available options for your table in the Table Design pane in the Properties deck of the Sidebar (Figure &lt;t0&gt;19&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte styl designu z dostupných možností pro vaši tabulku v podokně Návrh tabulky v balíčku Vlastnosti na postranním panelu (Obrázek &lt;t0&gt;19 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the &lt;f1&gt;Table Design&lt;/f1&gt; pane does not automatically open after inserting or selecting a table, click on the &lt;f2&gt;Properties&lt;/f2&gt; icon at the side of the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se podokno &lt;f1&gt;Návrh tabulky&lt;/f1&gt; po vložení nebo výběru tabulky automaticky neotevře, klikněte na ikonu &lt;f2&gt;Vlastnosti&lt;/f2&gt; na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To use Sum and Sort in your presentation, you have to insert a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li v prezentaci použít součet a řazení, musíte vložit tabulku Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on working with tables see&lt;f0&gt; Chapter 3, Adding and Formatting Text, in the &lt;/f0&gt;&lt;f1&gt;Impress Guide&lt;/f1&gt; and&lt;f2&gt; Chapter 13, Tables of Data, in the &lt;/f2&gt;&lt;f3&gt;Writer Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o práci s tabulkami naleznete v &lt;f0&gt;Kapitola 3, Přidávání a formátování textu, v&lt;/f0&gt;&lt;f1&gt;Průvodci zobrazováním&lt;/f1&gt; a &lt;f2&gt;Kapitola 13, Tabulky dat, v&lt;/f2 &gt;&lt;f3&gt;Průvodce pro spisovatele &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press the &lt;f0&gt;Tab&lt;/f0&gt; key to move to the next cell on the right and press &lt;f1&gt;Shift+Tab&lt;/f1&gt; to move to the next cell on the left.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stisknutím klávesy &lt;f0&gt;Tab&lt;/f0&gt; přejděte na další buňku vpravo a stisknutím klávesy &lt;f1&gt;Shift + Tab&lt;/f1&gt; přejděte na další buňku vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Chart&lt;/f0&gt; on the Menu bar or click on the &lt;f1&gt;Chart&lt;/f1&gt; icon in the Standard toolbar, or click on the &lt;f2&gt;Insert Chart&lt;/f2&gt; icon on the new slide (Figure &lt;t3&gt;10&lt;/t3&gt;&lt;s4/&gt;on page &lt;t5&gt;14&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Vložit&gt; Graf&lt;/f0&gt; nebo klikněte na ikonu &lt;f1&gt;Graf&lt;/f1&gt; na panelu nástrojů Standardní, nebo klikněte na ikonu &lt;f2&gt;Vložit graf&lt;/f2&gt; na nový snímek (Obrázek &lt;t3&gt;10&lt;/t3&gt;&lt;s4 /&gt; na stránce &lt;t5&gt;14 &lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To modify the chart type, insert your own data, and change the formatting, refer to &lt;f0&gt;Chapter 7, Spreadsheets, Charts, and Other Objects&lt;/f0&gt; in the &lt;f1&gt;Impress Guide&lt;/f1&gt;, or, for more details and examples, &lt;f2&gt;Chapter 3, Creating Charts and Graphs&lt;/f2&gt; in the &lt;f3&gt;Calc Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit typ grafu, vložte vlastní data a změňte formátování, viz &lt;f0&gt;Kapitola 7, Tabulky, grafy a další objekty&lt;/f0&gt; v &lt;f1&gt;Příručce zobrazení &lt;/f1&gt;, nebo, další podrobnosti a příklady, &lt;f2&gt;Kapitola 3, Vytváření grafů a grafů&lt;/f2&gt; v &lt;f3&gt;Příručce pro výpočet &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Audio or Video&lt;/f0&gt; on the Menu bar, or click on the &lt;f1&gt;Insert Audio or Video&lt;/f1&gt; icon on the new slide (Figure &lt;t2&gt;10&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;14&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Vložit&gt; Zvuk nebo video&lt;/f0&gt; nebo klikněte na ikonu &lt;f1&gt;Vložit zvuk nebo video&lt;/f1&gt; na novém snímku (Obrázek &lt;t2&gt;10&lt;/t2&gt;&lt; s3 /&gt; na stránce &lt;t4&gt;14 &lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the file browser that opens, find and select the required file and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V prohlížeči souborů, který se otevře, najděte a vyberte požadovaný soubor a klikněte na &lt;f0&gt;Otevřít &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphics, such as shapes, callouts, and arrows, are often useful to complement the text on a slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Grafiku, jako jsou tvary, popisky a šipky, je často užitečné doplnit text na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Chapter 7, Getting Started with Draw&lt;/f1&gt;, or the &lt;f2&gt;Impress Guide&lt;/f2&gt;&lt;f3&gt; Chapters 4, 5&lt;/f3&gt;, and 6, or &lt;f4&gt;the &lt;/f4&gt;&lt;f5&gt;Draw Guide&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Kapitola 7, Začínáme s Drawem&lt;/f1&gt; nebo v &lt;f2&gt;Průvodci zobrazováním&lt;/f2&gt;&lt;f3&gt;Kapitoly 4, 5 &lt;/f3&gt;, a 6 nebo &lt;f4&gt;&lt;f4&gt;&lt;f5&gt;Draw Guide&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spreadsheets embedded in Impress include most of the functionality of Calc spreadsheets and are capable of performing complex calculations and data analysis.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulky vložené v aplikaci Impress zahrnují většinu funkcí tabulek Calc a jsou schopny provádět složité výpočty a analýzu dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you need to analyze your data or apply formulas, these operations are best performed in a Calc spreadsheet and the results displayed in an embedded Calc spreadsheet or in an Impress table.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud potřebujete analyzovat svá data nebo použít vzorce, tyto operace se nejlépe provedou v tabulce Calc a výsledky se zobrazí ve vložené tabulce Calc nebo v tabulce Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně přejděte na &lt;f0&gt;Vložit&gt; Objekt&gt; OLE objekt&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can select from options that include a LibreOffice Spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete si vybrat z možností, které zahrnují tabulku LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also insert into a slide various other objects such as Writer documents, Math formulas, Draw drawings, or another presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Do snímku můžete také vložit různé jiné objekty, například dokumenty spisovatele, matematické vzorce, kresby výkresů nebo jinou prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details on using these objects, refer to&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Chapter 7, Including Spreadsheets, Charts, and Other Objects&lt;/f1&gt;&lt;f2&gt; in the &lt;/f2&gt;&lt;f3&gt;Impress Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnosti o používání těchto objektů naleznete v &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Kapitola 7, Včetně tabulkových procesorů, grafů a dalších objektů&lt;/f1&gt;&lt;f2&gt;v&lt;/f2&gt;&lt;f3&gt;Příručce k zobrazení &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A master slide is a slide that is used as the starting point for other slides.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní snímek je snímek, který se používá jako výchozí bod pro ostatní snímky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A slide show can have more than one master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Prezentace může mít více než jeden hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A master slide has a defined set of characteristics, including background colors, graphics, gradients; and other objects (such as logos, decorative lines and so on), headers and footers, placement and size of text frames, and text format.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní snímek má definovanou sadu charakteristik, včetně barev pozadí, grafiky, přechodů; a další objekty (například loga, ozdobné čáry atd.), záhlaví a zápatí, umístění a velikost textových rámečků a textový formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All of the characteristics of master slides are controlled by styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechny vlastnosti hlavních snímků jsou ovládány styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New slides that you create using a master slide have styles that are inherited from the master slide which was used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nové snímky, které vytvoříte pomocí hlavního snímku, mají styly zděděné z použitého hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changing a style in a master slide results in changes to all slides based on that master slide, but you can modify individual slides without affecting the master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna stylu v hlavním snímku má za následek změny všech snímků na základě tohoto hlavního snímku, ale můžete upravit jednotlivé snímky, aniž by to ovlivnilo hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although it is highly recommended to use master slides whenever possible, there are occasions where manual changes are needed for a particular slide, for example to enlarge the chart area when the text and chart layout is used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přestože je vysoce doporučeno používat hlavní snímky, kdykoli je to možné, existují případy, kdy jsou pro konkrétní snímek nutné ruční změny, například pro zvětšení oblasti grafu, když je použit text a rozvržení grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Master slides have two types of styles associated with them: &lt;f0&gt;presentation styles&lt;/f0&gt; and &lt;f1&gt;drawing styles&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K hlavním snímkům jsou přiřazeny dva typy stylů: &lt;f0&gt;styly prezentace&lt;/f0&gt; a &lt;f1&gt;styly kreslení &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The included presentation styles can be modified, but new presentation styles cannot be created.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zahrnuté styly prezentace lze upravit, ale nové styly prezentace nelze vytvořit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For drawing styles, you can modify the included styles and also create new styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>U stylů kreslení můžete upravovat zahrnuté styly a také vytvářet nové styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Presentation styles affect three elements of a master slide: background, background objects (such as icons, decorative lines, and text frames), and text placed on the slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styly prezentace ovlivňují tři prvky hlavního snímku: pozadí, objekty na pozadí (například ikony, ozdobné čáry a textové rámečky) a text umístěný na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing styles are not restricted and can affect many of the elements of a slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styly kreslení nejsou omezeny a mohou ovlivnit mnoho prvků snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress comes with a collection of master slides.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress je dodáván s kolekcí hlavních snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These master slides are shown in &lt;i0/&gt;the Master Slides deck of the Sidebar (Figure &lt;t1&gt;20&lt;/t1&gt;), which has three panels: &lt;f2&gt;Used in This Presentation&lt;/f2&gt;, &lt;f3&gt;Recently Used&lt;/f3&gt;, and &lt;f4&gt;Available for Use&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto hlavní snímky jsou zobrazeny v &lt;i0 /&gt; balíčku Master Slides na postranním panelu (obrázek &lt;t1&gt;20 &lt;/t1&gt;), který má tři panely: &lt;f2&gt;použité v této prezentaci &lt;/f2&gt;, &lt;f3&gt;Nedávno Používá se&lt;/f3&gt; a &lt;f4&gt;k dispozici pro použití &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the expansion sign (+ or arrow) next to the name of a panel to expand it to show thumbnails of the slides or collapse it to hide the thumbnails.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na značku rozbalení (+ nebo šipka) vedle názvu panelu rozbalte panel a zobrazte miniatury snímků nebo sbalením skryjte miniatury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Sidebar Master Slides deck</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;20 &lt;/seq0&gt;: Hlavní panel postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each of the master slides shown in the &lt;f0&gt;Available for Use&lt;/f0&gt; list is from a template of the same name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý z hlavních snímků zobrazených v seznamu &lt;f0&gt;Dostupné pro použití&lt;/f0&gt; je ze šablony se stejným názvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have created your own templates, or added templates from other sources, master slides from those templates will also appear in this list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste vytvořili vlastní šablony nebo přidali šablony z jiných zdrojů, v tomto seznamu se také zobrazí hlavní snímky z těchto šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating a &lt;i0/&gt;new master slide is similar to modifying the default master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvoření nového hlavního snímku &lt;i0 /&gt; je podobné úpravě výchozího hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enable editing of master slides by selecting &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the Menu bar and the &lt;f1&gt;Master View&lt;/f1&gt; toolbar opens (&lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Povolte úpravy hlavních snímků výběrem &lt;f0&gt;Zobrazit&gt; Hlavní snímek&lt;/f0&gt; na panelu nabídek a otevře se lišta nástrojů &lt;f1&gt;Hlavní zobrazení&lt;/f1&gt; (&lt;t2&gt; 21 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the Master View toolbar does not appear, go to &lt;f3&gt;View &gt; Toolbars&lt;/f3&gt; and select &lt;f4&gt;Master View&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se hlavní panel nástrojů nezobrazí, přejděte na &lt;f3&gt;Zobrazit&gt; Panely nástrojů&lt;/f3&gt; a vyberte &lt;f4&gt;Hlavní zobrazení&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;On the Master View toolbar, click the &lt;/f0&gt;&lt;f1&gt;New Master&lt;/f1&gt;&lt;f2&gt; icon, or right-click on any slide in the Slides Pane and choose &lt;/f2&gt;&lt;f3&gt;New Master&lt;/f3&gt;&lt;f4&gt; from the context menu.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Na panelu nástrojů Master View klikněte na ikonu&lt;/f0&gt;&lt;f1&gt;New Master&lt;/f1&gt;&lt;f2&gt;nebo klikněte pravým tlačítkem na libovolný snímek v podokně Slides a vyberte&lt;/f2&gt;&lt;f3&gt;New Master&lt;/f3&gt;&lt;f4&gt;z místní nabídky.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;A new master slide appears in the Slides pane.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;V podokně Snímky se objeví nový hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modify this master slide to suit your requirements.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upravte tento hlavní snímek tak, aby vyhovoval vašim požadavkům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(See “&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Modifying a master slide&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;” on page &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;bf7&gt;27&lt;/bf7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;.)&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>(Viz „&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;bf3&gt;Úprava hlavního snímku&lt;/bf3&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f4&gt;“ na stránce &lt;/f4&gt;&lt;f5&gt;&lt;f6&gt;&lt;bf7 &gt; 27&lt;/bf7&gt;&lt;/f6&gt;&lt;/f5&gt;&lt;f8&gt;.)&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Master view toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;21 &lt;/seq0&gt;: Panel nástrojů hlavního zobrazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is also recommended that you rename this new master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Doporučujeme také přejmenovat tento nový hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the slide in the Slides pane and select &lt;f0&gt;Rename master&lt;/f0&gt; from the context menu, or click the &lt;f1&gt;Rename master&lt;/f1&gt; icon on the Master View toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na snímek v podokně Snímky a z kontextové nabídky vyberte &lt;f0&gt;Přejmenovat master&lt;/f0&gt; nebo klepněte na ikonu &lt;f1&gt;Přejmenovat master&lt;/f1&gt; na panelu nástrojů Pohled zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When finished creating a master slide, click the &lt;f0&gt;Close Master View&lt;/f0&gt; icon on the Master View toolbar and return to normal slide editing mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po dokončení vytváření hlavního snímku klikněte na ikonu &lt;f0&gt;Zavřít hlavní zobrazení&lt;/f0&gt; na panelu nástrojů Hlavní zobrazení a vraťte se do normálního režimu úpravy snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To apply a master slide to all the slides in your presentation:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít hlavní snímek na všechny snímky v prezentaci:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Master Pages deck in the Sidebar (Figure &lt;t0&gt;20&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete balíček hlavních stránek v postranním panelu (obrázek &lt;t0&gt;20 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on one of the master slides select &lt;f0&gt;Apply to All Slides&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na jeden z hlavních snímků a vyberte v kontextové nabídce &lt;f0&gt;Použít na všechny snímky &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To apply a master slide to one or more selected slides:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití hlavního snímku na jeden nebo více vybraných snímků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Slides Pane, select the slide or slides where you want to use a new master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V podokně snímky vyberte snímek nebo snímky, na kterých chcete použít nový hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Master Pages deck on the Sidebar, right-click on the master slide you want to apply to the selected slides, and select &lt;f0&gt;Apply to Selected Slides&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V paletě Master Pages na postranním panelu klepněte pravým tlačítkem na hlavní snímek, který chcete použít na vybrané snímky, a v kontextové nabídce vyberte &lt;f0&gt;Použít na vybrané snímky &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sometimes, in the same set of slides, you may need to use master slides that belong to different templates.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Někdy může být ve stejné sadě snímků nutné použít hlavní snímky, které patří do různých šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, you may need a completely different layout for the first slide of the presentation, or you may want to add to your presentation a slide from a different presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete například potřebovat úplně jiné rozvržení pro první snímek prezentace nebo můžete do prezentace přidat snímek z jiné prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the slide, then go to &lt;f0&gt;Slide &gt; Change master slide&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte snímek a na panelu nabídek přejděte na &lt;f0&gt;Snímek&gt; Změnit hlavní snímek &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Available Master Slides dialog (Figure &lt;t1&gt;22&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se dialogové okno Dostupné hlavní snímky (obrázek &lt;t1&gt;22 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add more master slides, click the &lt;f0&gt;Load&lt;/f0&gt; button to open the Load Master Slide dialog (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat další hlavní snímky, kliknutím na tlačítko &lt;f0&gt;Načíst&lt;/f0&gt; otevřete dialogové okno Načíst hlavní snímky (obrázek &lt;t1&gt;23 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f2&gt;Preview&lt;/f2&gt; to expand the dialog to show a preview of the slide designs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím na &lt;f2&gt;Náhled&lt;/f2&gt; rozbalte dialog a zobrazte náhled návrhů snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the template from which to load the master slide and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte šablonu, ze které chcete načíst hlavní snímek, a klikněte na &lt;f0&gt;OK &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; again to close the Available Master Slides dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím na &lt;f0&gt;OK&lt;/f0&gt; znovu zavřete dialogové okno Dostupné hlavní snímky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Available Master Slides dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;22 &lt;/seq0&gt;: Dostupné dialogové okno Hlavní snímky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Load Master Slide dialog, expanded to show preview</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;23 &lt;/seq0&gt;: Načíst dialogové okno Hlavní snímek, rozbalené pro zobrazení náhledu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The master slides in the template you selected are now shown in the &lt;f0&gt;Available for use&lt;/f0&gt; pane of the Master Slides deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní snímky ve vybrané šabloně jsou nyní zobrazeny v podokně &lt;f0&gt;Dostupné pro použití&lt;/f0&gt; na hlavním panelu Prezentace na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the following items on a master slide:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na hlavním snímku můžete změnit následující položky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Background (color, gradient, hatching, pattern, or bitmap)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pozadí (barva, přechod, šrafování, vzorek nebo bitmapa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on modifying master slides, see&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Chapter 2, Using Master Slides, Styles, and Templates&lt;/f1&gt;&lt;f2&gt; in the &lt;/f2&gt;&lt;f3&gt;Impress Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o úpravě hlavních snímků naleznete v &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Kapitola 2, Používání hlavních snímků, stylů a šablon&lt;/f1&gt;&lt;f2&gt;v&lt;/f2&gt;&lt;f3&gt;Příručce k tisku &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek vyberte &lt;f0&gt;Zobrazit&gt; Hlavní snímek &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This unlocks the properties of a master slide so you can edit it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tím se odemknou vlastnosti hlavního snímku, takže jej můžete upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a master slide in the Slides pane on the left of the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte hlavní snímek v podokně Snímky na levé straně pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select an object on the master slide in the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte objekt na hlavním snímku v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Properties deck in the Sidebar will then display the properties that can be changed for the selected object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu vlastností v postranním panelu se zobrazí vlastnosti, které lze pro vybraný objekt změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;t0&gt;24&lt;/t0&gt;&lt;s1/&gt;shows an image selected with the &lt;f2&gt;Image&lt;/f2&gt; pane open on the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;t0&gt;24&lt;/t0&gt;&lt;s1 /&gt; ukazuje obrázek vybraný s podoknem &lt;f2&gt;Obrázek&lt;/f2&gt; otevřeným na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make all necessary changes to the master slide, then click the &lt;f0&gt;Close Master View&lt;/f0&gt; icon on the Master View toolbar or go to &lt;f1&gt;View &gt; Normal&lt;/f1&gt; on the Menu bar to exit from editing master slides.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proveďte všechny nezbytné změny na hlavním snímku a poté klepněte na ikonu &lt;f0&gt;Zavřít hlavní zobrazení&lt;/f0&gt; na panelu nástrojů Hlavní zobrazení nebo přejděte na &lt;f1&gt;Zobrazit&gt; Normální&lt;/f1&gt; na panelu nabídek a ukončete úpravy hlavní diapozitivy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save the presentation file before continuing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Před pokračováním uložte soubor prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Editing a master slide</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;24 &lt;/seq0&gt;: Úpravy hlavního snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any changes made to one slide when in Master View mode will appear on &lt;f0&gt;all&lt;/f0&gt; slides using this master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakékoli změny provedené na jednom snímku v režimu Master View se objeví na &lt;f0&gt;všech&lt;/f0&gt; snímcích využívajících tento hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Always make sure you close Master View and return to Normal view before working on any of the presentation slides.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Než začnete pracovat na kterémkoli z prezentačních snímků, vždy se ujistěte, že jste zavřeli hlavní zobrazení a vrátili se do normálního zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The changes made to one of the slides in Normal view (for example, changes to the bullet point style, the color of the title area, and so on) will not be overridden by subsequent changes to the master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změny provedené na jednom snímku v normálním zobrazení (například změny stylu odrážek, barvy titulní oblasti atd.) Nebudou přepsány následnými změnami hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are cases, however, where it is desirable to revert a manually modified element of the slide to the style defined in the master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Existují však případy, kdy je žádoucí vrátit ručně upravený prvek snímku do stylu definovaného v hlavním snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To revert back to default formatting, select the element and select &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li se vrátit zpět na výchozí formátování, vyberte prvek a na panelu nabídek vyberte &lt;f0&gt;Formát&gt; Vymazat přímé formátování &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add text, footers, or fields to a master slide so those elements appear on every slide in your presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na hlavní snímek můžete přidat text, zápatí nebo pole, aby se tyto prvky objevily na každém snímku v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Headers are not normally added to slides.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Záhlaví se za normálních okolností na snímky nepřidávají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the Menu bar to open Master View (Figure &lt;t1&gt;25&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Zobrazit&gt; Hlavní snímek&lt;/f0&gt; na panelu nabídek a otevřete hlavní zobrazení (obrázek &lt;t1&gt;25 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click and drag in the master slide to draw a text object and then type or paste your text into the text object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím a tažením v hlavním snímku nakreslíte textový objekt a potom do textového objektu zadejte nebo vložte text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the Menu bar or click the &lt;f1&gt;Close Master View&lt;/f1&gt; icon on the Master View toolbar when you have finished.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Zobrazit&gt; Normální&lt;/f0&gt; nebo klepněte na ikonu &lt;f1&gt;Zavřít hlavní pohled&lt;/f1&gt; na panelu nástrojů Hlavní zobrazení, když jste hotovi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Example master view</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;25 &lt;/seq0&gt;: Příklad hlavního zobrazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Header and Footer dialog in Impress</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;26 &lt;/seq0&gt;: Dialog záhlaví a zápatí v zobrazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Master View (Figure &lt;t0&gt;25&lt;/t0&gt;), go to &lt;f1&gt;Insert &gt; Header and Footer&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V hlavním zobrazení (obrázek &lt;t0&gt;25 &lt;/t0&gt;) přejděte na &lt;f1&gt;Vložit&gt; Záhlaví a zápatí&lt;/f1&gt; na liště nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Header and Footer dialog (Figure &lt;f0&gt;&lt;t1&gt;26&lt;/t1&gt;&lt;/f0&gt;), go to the Slides tab and choose items to display and type in the footer text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogu záhlaví a zápatí (obrázek &lt;f0&gt;&lt;t1&gt;26&lt;/t1&gt;&lt;/f0&gt;) přejděte na kartu Snímky a vyberte položky, které chcete zobrazit a napište text zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Apply to All&lt;/f0&gt; to apply your changes to all the master slides in the presentation, or click &lt;f1&gt;Apply&lt;/f1&gt; to apply your changes only to the selected master slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím na &lt;f0&gt;Použít na všechny&lt;/f0&gt; použijete změny na všechny hlavní snímky v prezentaci, nebo kliknutím na &lt;f1&gt;Použít&lt;/f1&gt; provedete změny pouze na vybraný hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a field into an object or as a separate object on a slide, select &lt;f0&gt;Insert &gt; Fields&lt;/f0&gt; on the Menu bar and select the required field from the submenu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat pole do objektu nebo jako samostatný objekt na snímku, vyberte v panelu nabídek &lt;f0&gt;Vložit&gt; Pole&lt;/f0&gt; a vyberte požadované pole z podnabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to edit this field in your slide, see &lt;f1&gt;Chapter 3, Adding and Formatting Text&lt;/f1&gt;&lt;f2&gt; in the &lt;/f2&gt;&lt;f3&gt;Impress Guide&lt;/f3&gt; for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud chcete toto pole na snímku upravit, viz další informace v části &lt;f1&gt;Kapitola 3, Přidávání a formátování textu&lt;/f1&gt;&lt;f2&gt;v&lt;/f2&gt;&lt;f3&gt;Průvodce zobrazením &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The fields you can use in Impress are:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pole, která můžete použít v aplikaci Impress, jsou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Author: first and last names listed in the LibreOffice user data (see Tip below)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Autor: jméno a příjmení uvedené v uživatelských datech LibreOffice (viz Tip níže)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slide Number: the sequence number of the slide, without the word “Slide”</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Číslo snímku: pořadové číslo snímku bez slova „Slide“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slide Title: defaults to Slide 1, Slide 2, ... if you have not renamed the slides</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Název titulu: výchozí nastavení Snímek 1, Snímek 2,..., pokud jste přejmenovali snímky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slide Count: the number of slides in the presentation</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Počet snímků: počet snímků v prezentaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the author information, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit informace o autorovi, přejděte na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Uživatelská data&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the number format (&lt;f0&gt;1,2,3&lt;/f0&gt; or &lt;f1&gt;a,b,c&lt;/f1&gt; or &lt;f2&gt;i,ii,iii&lt;/f2&gt;, and so on) for the number field, go to &lt;f3&gt;Slide &gt; Properties&lt;/f3&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit formát čísla (&lt;f0&gt; 1,2,3&lt;/f0&gt; nebo &lt;f1&gt;a, b, c&lt;/f1&gt; nebo &lt;f2&gt;i, ii, iii&lt;/f2&gt; atd.) Pro v poli číslo přejděte na &lt;f3&gt;Snímek&gt; Vlastnosti&lt;/f3&gt; na liště nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Slide Setup dialog, select a format from the &lt;f4&gt;Slide numbers&lt;/f4&gt; list in the &lt;f5&gt;Layout Settings&lt;/f5&gt; area (&lt;f6&gt;&lt;t7&gt;27&lt;/t7&gt;&lt;/f6&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogovém okně Nastavení snímku vyberte formát ze seznamu &lt;f4&gt;Čísla snímků&lt;/f4&gt; v oblasti &lt;f5&gt;Nastavení rozvržení&lt;/f5&gt; (&lt;f6&gt;&lt;t7&gt;27&lt;/t7&gt;&lt;/f6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change a paragraph style throughout the presentation, open the Styles deck in the Sidebar and modify the appropriate style.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit styl odstavců v celé prezentaci, otevřete balíček Styly na postranním panelu a upravte příslušný styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Choosing slide number format</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;27 &lt;/seq0&gt;: Volba formátu čísla snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Inserting comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;28 &lt;/seq0&gt;: Vložení komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Normal View, go to &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;on the Menu bar to open a blank comment (Figure &lt;t2&gt;28&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V normálním zobrazení přejděte na &lt;f0&gt;Vložit&gt; Komentář&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; na liště Menu a otevřete prázdný komentář (Obrázek &lt;t2&gt;28 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A small box containing your initials appears in the upper left-hand corner of the slide, with a larger &lt;t3/&gt;text box beside it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V levém horním rohu snímku se zobrazí malé pole obsahující vaše iniciály a vedle něj větší textové pole &lt;t3 /&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If more than one person edits the document, each person is automatically allocated a different background color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud dokument upraví více než jedna osoba, každé osobě je automaticky přidělena jiná barva pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Choose &lt;/f0&gt;&lt;f1&gt;View &gt; Master Handout&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;to set up the layout of slides for printed (or PDF) handouts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zvolte&lt;/f0&gt;&lt;f1&gt;Zobrazit&gt; Hlavní podklady&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; a nastavte rozložení snímků pro tištěné (nebo PDF) podklady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f3&gt;Handout&lt;/f3&gt; tab in the workspace to open the Properties deck on the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím na kartu &lt;f3&gt;Handout&lt;/f3&gt; v pracovním prostoru otevřete balíček vlastností na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Expand the &lt;f4&gt;Layouts&lt;/f4&gt; pane (Figure &lt;t5&gt;29&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozbalte podokno &lt;f4&gt;Rozložení&lt;/f4&gt; (obrázek &lt;t5&gt;29 &lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you can choose to print 1, 2, 3, 4, 6, or 9 slides per page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde si můžete zvolit tisk 1, 2, 3, 4, 6 nebo 9 snímků na stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Handout layouts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;29 &lt;/seq0&gt;: Rozložení podkladů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Header and Footer dialog – Notes and Handouts page</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;30 &lt;/seq0&gt;: Dialog záhlaví a zápatí - stránka Poznámky a podklady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refer to &lt;f0&gt;Chapter 10, Printing, Emailing, Exporting, and Saving Slide Shows&lt;/f0&gt; in the &lt;f1&gt;Impress Guide&lt;/f1&gt; for instructions on printing slides, handouts, and notes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokyny pro tisk snímků, podkladů a poznámek naleznete v &lt;f0&gt;Kapitola 10, Tisk, odesílání e-mailů, export a ukládání prezentací&lt;/f0&gt; v &lt;f1&gt;Průvodce tiskem &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Header and Footer&lt;/f0&gt; on the Menu bar to open the Header and Footer dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Vložit&gt; Záhlaví a zápatí&lt;/f0&gt; na panelu nabídek a otevřete dialog záhlaví a zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f1&gt;Notes and Handouts&lt;/f1&gt; tab (Figure &lt;t2&gt;30&lt;/t2&gt;), select the elements you want to appear on each handout page and their contents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na kartě &lt;f1&gt;Poznámky a podklady&lt;/f1&gt; (Obrázek &lt;t2&gt;30 &lt;/t2&gt;) vyberte prvky, které chcete zobrazit na každé stránce podkladů, a jejich obsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More details on how to use this dialog are provided in the &lt;f3&gt;Impress Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další podrobnosti o používání tohoto dialogu jsou uvedeny v &lt;f3&gt;Průvodci zobrazováním &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress can create a photo album from a set of images, usually with one photo per slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress může vytvořit fotoalbum ze sady obrázků, obvykle s jednou fotografií na snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This photo album can be a multimedia show with graphics and images or even collect your latest vacation pictures into a presentation file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto fotoalbum může být multimediální show s grafikou a obrázky nebo dokonce sbírat vaše poslední fotografie z dovolené do prezentačního souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert a photo album into your presentation:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložení fotoalba do prezentace:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open an existing or blank presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete existující nebo prázdnou prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to the slide that precedes the photo album.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na snímek, který předchází fotoalbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Insert &gt; Media &gt; Photo Album&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvolte &lt;f0&gt;Vložit&gt; Média&gt; Fotoalbum &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Create Photo Album dialog (Figure &lt;t0&gt;31&lt;/t0&gt;), click &lt;f1&gt;Add&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogu Vytvořit fotoalbum (Obrázek &lt;t0&gt;31 &lt;/t0&gt;) klikněte na &lt;f1&gt;Přidat &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A standard file browser opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se standardní prohlížeč souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Locate and select the photos you want to include.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyhledejte a vyberte fotografie, které chcete zahrnout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If several images are in the same folder, you can select a group of photos using the &lt;f0&gt;Shift&lt;/f0&gt; or &lt;f1&gt;Ctrl&lt;/f1&gt; keys while clicking on their filenames.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je ve stejné složce několik obrázků, můžete vybrat skupinu fotografií pomocí kláves &lt;f0&gt;Shift&lt;/f0&gt; nebo &lt;f1&gt;Ctrl&lt;/f1&gt; a kliknutím na jejich názvy souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Open&lt;/f0&gt; to add the files to the photo album.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím na &lt;f0&gt;Otevřít&lt;/f0&gt; přidejte soubory do fotoalba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Create Photo Album dialog with photo preview</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;31 &lt;/seq0&gt;: Dialog Vytvořit fotoalbum s náhledem fotografie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on a file name to display it in the Preview area.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na název souboru jej zobrazíte v oblasti Náhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the number of images per slide in the &lt;f0&gt;Slide layout&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V rozevíracím seznamu &lt;f0&gt;Rozložení snímků&lt;/f0&gt; vyberte počet obrázků na snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optionally select the &lt;f0&gt;Add caption to each slide o&lt;/f0&gt;ption to insert a text box for the caption.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Volitelně vyberte &lt;f0&gt;Přidat titulek do každého snímku o&lt;/f0&gt; a vložte textové pole pro titulek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create the required sequence by removing images or moving them up or down in the list of images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořte požadovanou sekvenci odstraněním obrázků nebo jejich přesunutím nahoru nebo dolů v seznamu obrázků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the sequence of images is ready, click &lt;f0&gt;Insert Slides&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Až bude sekvence obrázků hotová, klikněte na &lt;f0&gt;Vložit snímky &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(You can change the sequence and remove or insert images later, as you can with any slides.)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>(Sekvenci můžete změnit a později odebrat nebo vložit obrázky, stejně jako u jiných snímků.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress will create a presentation with as many pages as needed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress vytvoří prezentaci s tolika stránkami, kolik bude potřeba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you selected &lt;f0&gt;Add caption to each slide&lt;/f0&gt;, there will be a placeholder for the image caption (title) on each slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste vybrali &lt;f0&gt;Přidat titulek ke každému snímku &lt;/f0&gt;, bude na každém snímku vyhrazen zástupný symbol pro titulek obrázku (název).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the Slide Sorter (see page &lt;bf0&gt;11&lt;/bf0&gt;) to reorder your photo album.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte třídění snímků (viz stránka &lt;bf0&gt;11 &lt;/bf0&gt;) a uspořádejte své fotoalbum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use slide transitions (page &lt;bf1&gt;35&lt;/bf1&gt;) to go smoothly from one photo to the following photo.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí přechodů snímků (strana &lt;bf1&gt;35 &lt;/bf1&gt;) můžete plynule přecházet z jedné fotografie na následující.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use audio resources (page &lt;bf2&gt;23&lt;/bf2&gt;) to insert a musical background.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí zvukových zdrojů (stránka &lt;bf2&gt;23 &lt;/bf2&gt;) vložte hudební pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress allocates reasonable default settings for slide shows, while at the same time allowing for customizing many aspects of the slide show experience.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress přiděluje přiměřené výchozí nastavení pro prezentace a současně umožňuje přizpůsobení mnoha aspektů prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This section covers only some aspects; more advanced techniques are explained in&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Chapter 9, Slide Shows&lt;/f1&gt;&lt;f2&gt; in the &lt;/f2&gt;&lt;f3&gt;Impress Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato část se zabývá pouze některými aspekty; pokročilejší techniky jsou vysvětleny v &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Kapitola 9, Prezentace snímků&lt;/f1&gt;&lt;f2&gt;v&lt;/f2&gt;&lt;f3&gt;Průvodci zobrazováním &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Slide Sorter&lt;/f0&gt; on the Menu bar or click the Slide Sorter tab (if visible) at the top of the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Zobrazit&gt; Třídění snímků&lt;/f0&gt; nebo klepněte na kartu Třídění snímků (pokud je viditelná) v horní části pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the slide you want to hide in the Slide Pane or Slide Sorter view in the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte snímek, který chcete skrýt, v zobrazení Podokno snímků nebo Sorter snímků v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Slide &gt; Hide Slide&lt;/f0&gt; on the Menu bar or right-click on the slide thumbnail and select &lt;f1&gt;Hide Slide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Snímek&gt; Skrýt snímek&lt;/f0&gt; nebo klepněte pravým tlačítkem myši na miniaturu snímku a vyberte &lt;f1&gt;Skrýt snímek &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hidden slides are marked by a diagonal bar across the slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Skryté snímky jsou označeny diagonálním pruhem přes snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Custom Slide Show&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Prezentace&gt; Vlastní prezentace &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;New&lt;/f0&gt; button to create a new sequence of slides and save it with a different name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na tlačítko &lt;f0&gt;Nový&lt;/f0&gt; vytvoříte novou sekvenci snímků a uložíte je pod jiným názvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A slide transition is the effect that takes place between slides when one slide changes to the next slide in a presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přechod snímku je efekt, ke kterému dochází mezi snímky, když se jeden snímek změní v prezentaci na další snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To configure the slide transition:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li nakonfigurovat přechod snímku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Slide Transition deck in the Sidebar to display the transitions available.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete balíček Slide Transition v postranním panelu a zobrazte dostupné přechody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To apply the transition to all of the slides in your presentation, click &lt;f0&gt;Apply Transition to All Slides&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít přechod na všechny snímky v prezentaci, klikněte na &lt;f0&gt;Použít přechod na všechny snímky&lt;/f0&gt;&lt;f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Otherwise, &lt;/f1&gt;select one or more slides in the Slides pane to configure different transitions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jinak&lt;/f1&gt; vyberte jeden nebo více snímků v panelu Snímky a nakonfigurujte různé přechody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the bottom of the Slide Transition deck, select the &lt;f0&gt;Automatic preview&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve spodní části balíčku Slide Transition vyberte možnost &lt;f0&gt;Automatický náhled &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select its checkbox and when you make any changes in a slide transition, the new slide is previewed in the Workspace, including its transition effect.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zaškrtněte jeho políčko a když provedete jakékoli změny v přechodu snímku, zobrazí se nový snímek v pracovním prostoru včetně jeho přechodového efektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can set the presentation &lt;i0/&gt;to advance automatically to the next slide after a set amount of time from the Slide Transition deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete nastavit prezentaci &lt;i0 /&gt; tak, aby se automaticky posunula na další snímek po uplynutí nastavené doby z balíčku Transition Slide na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Advance Slide&lt;/f0&gt; and select the &lt;f1&gt;Automatically after&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Advance Slide&lt;/f0&gt; a vyberte možnost &lt;f1&gt;Automaticky po &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Apply Transition to All Slides&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na tlačítko &lt;f0&gt;Použít přechod na všechny snímky &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Rehearse Timings&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Prezentace&gt; Zkoušet časování &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The slide show begins in full-screen mode and a timer appears in the lower left corner of the display.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Prezentace začne v režimu celé obrazovky a v levém dolním rohu displeje se objeví časovač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you are ready to advance to the next slide, click on the display background or press the right arrow or space bar on your keyboard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Až budete připraveni postoupit na další snímek, klikněte na pozadí displeje nebo stiskněte pravou šipku nebo mezerník na klávesnici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress will memorize the timings for each slide and will advance to the next slide automatically using these timings when you run the slide show.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress si zapamatuje časování pro každý snímek a při spuštění prezentace automaticky přejde na další snímek pomocí těchto časování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To restart a slide show automatically after the last slide has been displayed (kiosk mode):</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automatické restartování prezentace po zobrazení posledního snímku (režim kiosku):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Slide Show &gt; Slide Show Settings&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek přejděte na &lt;f0&gt;Prezentace&gt; Nastavení prezentace &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Presentation Mode section, select &lt;f0&gt;Loop and repeat after&lt;/f0&gt; and the timing of the pause between slide shows.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V části Režim prezentace vyberte &lt;f0&gt;Smyčka a opakujte po&lt;/f0&gt; a načasování pauzy mezi prezentacemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; when you have finished.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po dokončení klikněte na &lt;f1&gt;OK &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use the Slide Transition pane to select a sound or song that is played throughout your presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí podokna Slide Transition můžete vybrat zvuk nebo skladbu, která se bude přehrávat v celé prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the slide where you want the sound to start.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte snímek, na kterém chcete spustit zvuk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Sidebar, go to the Slide Transition deck.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na postranním panelu přejděte na balíček Slide Transition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Modify transition section, select &lt;f0&gt;Other sound&lt;/f0&gt; from the Sound drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V části Změnit přechod vyberte z rozevíracího seznamu Zvuk &lt;f0&gt;Jiný zvuk &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Open dialog, navigate to the sound file, select it, and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogu Otevřít přejděte na zvukový soubor, vyberte jej a klikněte na &lt;f0&gt;Otevřít &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Slide Transition deck, select &lt;f0&gt;Loop until next sound&lt;/f0&gt; if you want the sound to restart when it is finished.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud chcete, aby se zvuk po dokončení znovu spustil, vyberte na plošině Slide Transition možnost &lt;f0&gt;Smyčka do dalšího zvuku &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slide &lt;is0/&gt;animations&lt;ie1/&gt; are similar to transitions, but they are applied to individual elements (title, chart, shape, or individual bullet point) in a single slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Snímky &lt;is0 /&gt; animace &lt;ie1 /&gt; jsou podobné přechodům, ale aplikují se na jednotlivé prvky (název, graf, tvar nebo jednotlivé odrážky) v jediném snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, you may wish each bullet point to appear when you are ready to discuss it, instead of having all of them visible as soon as the slide is opened.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete například chtít, aby se každý odrážkový bod objevil, až budete připraveni o něm diskutovat, namísto toho, aby byly všechny viditelné ihned po otevření snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Animation effects are applied from Normal view so that you can select individual objects on a single slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Animační efekty jsou aplikovány z normálního zobrazení, takže můžete vybrat jednotlivé objekty na jednom snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details, see &lt;f0&gt;Chapter 9, Slide Shows&lt;/f0&gt; in the &lt;f1&gt;Impress Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnosti viz &lt;f0&gt;Kapitola 9, Prezentace snímků&lt;/f0&gt; v &lt;f1&gt;Průvodci zobrazováním &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can apply animation effects to the elements on a master slide, so that all slides based on that master slide use the same animation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na prvky na hlavním snímku můžete použít efekty animace, takže všechny snímky založené na tomto hlavním snímku používají stejnou animaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Normal view, display the desired slide and then select the text or object you want to animate.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V normálním zobrazení zobrazte požadovaný snímek a poté vyberte text nebo objekt, který chcete animovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An object such as a graphic or an entire text box will have selection handles around it when selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Objekt, jako je například grafika nebo celé textové pole, bude mít po výběru kolem popisovače výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you choose only a portion of the text in a text box, you may not see any selection handles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud v textovém poli vyberete pouze část textu, pravděpodobně se nezobrazí žádné popisovače výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Sidebar, open the &lt;f0&gt;Animation&lt;/f0&gt; deck (&lt;t1&gt;32&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na postranním panelu otevřete balíček &lt;f0&gt;Animation&lt;/f0&gt; (&lt;t1&gt; 32 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select an animation category, then select an effect.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte kategorii animace a poté vyberte efekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More than one type of animation effect can be applied to an object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na objekt lze použít více než jeden typ animačního efektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Entrance&lt;/f0&gt; effects apply when an object is placed on the screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Vstupní efekty&lt;/f0&gt; platí, když je objekt umístěn na obrazovku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Emphasis&lt;/f0&gt; effects apply to an object, for example changing font color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Efekty &lt;f0&gt;Zdůraznění&lt;/f0&gt; se vztahují na objekt, například na změnu barvy písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Exit&lt;/f0&gt; effects apply when an object leaves the screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Ukončit&lt;/f0&gt; efekty se použijí, když objekt opustí obrazovku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Motion Paths&lt;/f0&gt; effects cause an object to move along a line or curve.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Efekty &lt;f0&gt;Motion Paths&lt;/f0&gt; způsobují, že se objekt pohybuje podél čáry nebo křivky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select from the &lt;f0&gt;Start&lt;/f0&gt; drop-down list how the animation effect starts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z rozevíracího seznamu &lt;f0&gt;Start&lt;/f0&gt; vyberte, jak začíná animační efekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;On click&lt;/f0&gt; − the animation does not start until you click the mouse.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Po kliknutí&lt;/f0&gt; - animace se nespustí, dokud nekliknete myší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;With previous&lt;/f0&gt; − the animation runs at the same time as the previous animation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;S předchozím&lt;/f0&gt; - animace běží současně s předchozí animací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;After previous&lt;/f0&gt; − the animation runs as soon as the previous animation ends.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Po předchozí&lt;/f0&gt; - animace se spustí, jakmile předchozí animace skončí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the duration of the animation effect from the &lt;f0&gt;Duration&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V rozevíracím seznamu &lt;f0&gt;Doba trvání&lt;/f0&gt; vyberte trvání animačního efektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If required, select &lt;f0&gt;Automatic preview&lt;/f0&gt; so you can check the animation effect on the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě potřeby vyberte &lt;f0&gt;Automatický náhled &lt;/f0&gt;, abyste mohli zkontrolovat efekt animace na objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Play&lt;/f0&gt; to check how the animation effects looks on the slide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na &lt;f0&gt;Přehrát&lt;/f0&gt; zkontrolujete, jak na snímku vypadají animační efekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Animation deck in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;32 &lt;/seq0&gt;: Animační balíček na postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Slide Show &gt; Start from First Slide&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nabídek klikněte na &lt;f0&gt;Prezentace&gt; Spustit od prvního snímku &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Start from First Slide&lt;/f0&gt; icon on the Presentation toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Prezentace klikněte na ikonu &lt;f0&gt;Start from First Slide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can restart a slide show where you left off by selecting &lt;f0&gt;Start from Current Slide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Prezentaci můžete restartovat tam, kde jste skončili, výběrem &lt;f0&gt;Start from Current Slide &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Presenter Console (Figure &lt;t0&gt;34&lt;/t0&gt;) provides extra control over slide shows by using different views on your computer display and on the display that the audience sees.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Konzola Presenter Console (Obrázek &lt;t0&gt;34 &lt;/t0&gt;) poskytuje zvláštní kontrolu nad prezentacemi pomocí různých pohledů na obrazovce počítače a na displeji, které vidí publikum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To enable the Presenter Console, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt; and select &lt;f1&gt;Enable Presenter Console&lt;/f1&gt; in the Presentation area (Figure &lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li povolit konzolu Presenter, přejděte do &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Impress&gt; General&lt;/f0&gt; a vyberte &lt;f1&gt;Enable Presenter Console&lt;/f1&gt; v oblasti prezentace (Obrázek &lt;f2&gt;&lt;t3&gt; 33&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you run the slide show, the Presenter Console will be activated automatically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při spuštění prezentace se konzole Presenter Console automaticky aktivuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information and details about using the Presenter Console, see&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Chapter 9, Slide Shows&lt;/f1&gt;&lt;f2&gt; in the &lt;/f2&gt;&lt;f3&gt;Impress Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace a podrobnosti o používání konzoly Presenter Console naleznete v &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Kapitola 9, Prezentace snímků&lt;/f1&gt;&lt;f2&gt;v&lt;/f2&gt;&lt;f3&gt;Průvodci zobrazováním &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Enabling Impress remote control and Presentation Console</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;33 &lt;/seq0&gt;: Povolení dálkového ovládání Impress a Presentation Console</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Impress Remote is a mobile application developed by the community for Android and iOS systems that allows you to control a live presentation with a mobile device such as a phone or tablet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impress Remote je mobilní aplikace vyvinutá komunitou pro systémy Android a iOS, která vám umožňuje ovládat živou prezentaci pomocí mobilního zařízení, jako je telefon nebo tablet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The connection between your mobile device and the computer running your presentation is made through a Bluetooth pairing or a local network connection between the two.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Spojení mezi vaším mobilním zařízením a počítačem, na kterém je spuštěna vaše prezentace, je vytvořeno prostřednictvím Bluetooth párování nebo místního síťového spojení mezi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To get the software, access your mobile device application store, either Google Play Store for Android devices or Apple App Store for iOS devices.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li získat software, přejděte do obchodu s mobilními zařízeními, buď do obchodu Google Play pro zařízení Android nebo Apple App Store pro zařízení iOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search for “LibreOffice Impress Remote” and select the one that is from The Document Foundation and install it in your device.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyhledejte „LibreOffice Impress Remote“, vyberte ten, který je z The Document Foundation a nainstalujte ho do zařízení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The iOS version of Impress Remote does not work with iOS version 11 or later.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Verze Impress Remote pro iOS nefunguje s iOS verze 11 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Activate Bluetooth on both devices, then pair the devices.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aktivujte Bluetooth na obou zařízeních a poté spárujte zařízení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refer to the manuals for your mobile device and computer operating system for instructions on enabling, setting up a Bluetooth identifier, and pairing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokyny k povolení, nastavení identifikátoru Bluetooth a párování naleznete v příručkách k mobilnímu zařízení a operačnímu systému počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once the pairing is established, your mobile device is ready to control your presentation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po navázání párování je mobilní zařízení připraveno ovládat vaši prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An Impress slide show with remote control is not enabled by default.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Impresivní prezentace s dálkovým ovládáním není ve výchozím nastavení povolena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To enable it, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Impress &gt; General&lt;/f0&gt; and select &lt;f1&gt;Enable Remote Control&lt;/f1&gt; in the Presentation area of the dialog (see Figure &lt;f2&gt;&lt;t3&gt;33&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li ji povolit, přejděte do &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice Impress&gt; General&lt;/f0&gt; a vyberte &lt;f1&gt;Enable Remote Control&lt;/f1&gt; v prezentační oblasti dialogu (viz obrázek &lt;f2&gt;&lt;t3&gt; 33&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To run a slide show using Impress Remote, follow these steps:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li spustit prezentaci pomocí aplikace Impress Remote, postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On both devices, make sure Bluetooth is already enabled and configured.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>U obou zařízení se ujistěte, že Bluetooth je již povolen a nakonfigurován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On your computer, open the presentation you would like to present.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V počítači otevřete prezentaci, kterou chcete prezentovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On your phone:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V telefonu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open Impress Remote from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete aplikaci Impress Remote z nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select your computer, tap its name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybrat počítač, klepněte na jeho název.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The presentation opened on the computer begins automatically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Prezentace otevřená v počítači se spustí automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To advance the presentation</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postup prezentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tap the slide thumbnail or use the phone’s physical volume up button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte na miniaturu snímku nebo použijte tlačítko pro zvýšení fyzické hlasitosti telefonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To go backwards</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li jít zpět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-tap the slide thumbnail or use the phone’s physical volume down button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poklepejte na miniaturu snímku nebo použijte tlačítko pro snížení fyzické hlasitosti telefonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To skip slide animations and transitions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přeskočení animací a přechodů snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Swipe left to go to the next slide, or swipe right to go backwards.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejetím doleva přejdete na další snímek nebo přejetím doprava se vrátíte zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To end the presentation, use the Back button of the phone, or open the menu and select &lt;f0&gt;Stop slide show&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li prezentaci ukončit, použijte tlačítko Zpět na telefonu nebo otevřete nabídku a vyberte &lt;f0&gt;Zastavit prezentaci &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
