@@ -1,0 +1,2967 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Kapitola 7 Začínáme s programem Draw&lt;segment 17323 ¶&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 7 Začínáme s programem Nakreslete &lt;segment 17323 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Inserting comments in a drawing&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;33&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Vložení komentářů do výkresu&lt;/t0&gt;&lt;f1&gt;|&lt;/f1&gt;&lt;t2&gt;33&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Working with 3D objects&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;32&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;Práce s 3D objekty&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Chapter 7 Getting Started with Draw&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Kapitola 7 Začínáme s Draw&lt;/t0&gt;&lt;s1 /&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 7 Getting Started with Draw&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;|&lt;/f2&gt;&lt;t3&gt;Kapitola 7 Začínáme s Draw&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;t0&gt;April&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Publikováno &lt;t0&gt;April&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020 &lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pages pane</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podokno stránek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Layers bar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vrstvy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Working with layers</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Práce s vrstvami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding a layer</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidání vrstvy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing a dimension line</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kreslení kótovací čáry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using glue points and connectors</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití lepicích bodů a konektorů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moving objects and adjusting object size</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pohybující se objekty a úprava velikosti objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the Properties deck in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití balíčku Vlastnosti na postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formatting area fills</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyplní se oblast formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotating or slanting an object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otočení nebo naklonění objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Flipping an object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Převrácení objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arranging, aligning, and distributing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uspořádání, zarovnání a distribuce objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inserting and editing images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vkládání a úpravy obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice Draw is &lt;i0/&gt;a vector graphics drawing program, although it can also perform some operations on raster graphics (pixels).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice Draw je &lt;i0 /&gt; program pro kreslení vektorové grafiky, ačkoli může také provádět některé operace s rastrovou grafikou (pixely).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vector graphics store and display an image as an assembly of simple geometric elements such as lines, circles, and polygons, rather than a collection &lt;i0/&gt;of pixels (points on the screen).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vektorová grafika ukládá a zobrazuje obrázek jako soubor jednoduchých geometrických prvků, jako jsou čáry, kruhy a mnohoúhelníky, spíše než soubor &lt;i0 /&gt; pixelů (body na obrazovce).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also work with drawings directly from within Writer or Impress, using a subset of the functions and tools from Draw.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>S kresbami můžete také pracovat přímo z aplikace Writer nebo Impress, a to pomocí podmnožiny funkcí a nástrojů z aplikace Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f0&gt;Draw Guide&lt;/f0&gt; and the Help for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v &lt;f0&gt;Draw Guide&lt;/f0&gt; a nápovědě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The main components of &lt;i0/&gt;the&lt;i1/&gt; Draw main window are shown in Figure &lt;t2&gt;1&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavní komponenty &lt;i0 /&gt; hlavního okna &lt;i1 /&gt; Draw jsou znázorněny na obrázku &lt;t2&gt;1 &lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The large area in the center of the Draw main window (Workspace) is where you create your drawings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na velké ploše uprostřed hlavního okna Kreslení (Pracovní prostor) jsou vaše kresby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This drawing area can be surrounded with toolbars and information areas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato oblast kreslení může být obklopena panely nástrojů a informačními oblastmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The number and position of the visible tools vary with the task in hand and user preferences, therefore your setup may look different from Figure &lt;t0&gt;1&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Počet a umístění viditelných nástrojů se liší v závislosti na úkolu a uživatelských preferencích, proto se vaše nastavení může lišit od obrázku &lt;t0&gt;1 &lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The maximum size of a drawing page in LibreOffice Draw is limited by your computer setup and the page size that you can set and use in your printer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Maximální velikost stránky výkresu v programu LibreOffice Draw je omezena nastavením počítače a velikostí stránky, kterou můžete v tiskárně nastavit a použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, the Workspace consists of three layers (&lt;f0&gt;Layout&lt;/f0&gt;, &lt;f1&gt;Controls&lt;/f1&gt; and &lt;f2&gt;Dimension Lines&lt;/f2&gt;) and the tabs for these default layers appear in the bottom left corner of the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení se pracovní prostor skládá ze tří vrstev (&lt;f0&gt; Layout &lt;/f0&gt;, &lt;f1&gt;Controls&lt;/f1&gt; a &lt;f2&gt;Dimension Lines &lt;/f2&gt;) a karty pro tyto výchozí vrstvy se zobrazují vlevo dole rohu pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The default layers cannot be deleted or renamed, but you can add layers as and when necessary.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výchozí vrstvy nelze odstranit ani přejmenovat, ale můžete je přidat podle potřeby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Pages pane, on the left side of the Draw main window, gives an overview of the pages that you create in your drawing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podokno Stránky na levé straně hlavního okna Kreslení poskytuje přehled stránek, které ve výkresu vytvoříte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the Pages pane is not visible, go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Page Pane&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud není podokno stránek viditelné, přejděte na &lt;f0&gt;Zobrazit&lt;/f0&gt; na panelu nabídek a vyberte &lt;f1&gt;Podokno stránky &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To make changes to the page order, drag and drop one or more pages.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit pořadí stránek, přetáhněte jednu nebo více stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A layer is a workspace where you insert your drawings elements and objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vrstva je pracovní prostor, do kterého vkládáte prvky a objekty výkresů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Layers bar is located on the bottom of the workplace and contains the guides for layer selection and layer command.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel Vrstvy je umístěn ve spodní části pracoviště a obsahuje vodítka pro výběr vrstvy a příkaz vrstvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on layers, see “&lt;bf0&gt;Working with layers&lt;/bf0&gt;“ on page &lt;bf1&gt;9&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o vrstvách naleznete v části „&lt;bf0&gt; Práce s vrstvami &lt;/bf0&gt;“ na stránce &lt;bf1&gt;9 &lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Draw main window</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;1 &lt;/seq0&gt;: Nakreslete hlavní okno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Sidebar has five main decks in Draw.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Boční panel má v Draw pět hlavních balíčků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To expand a deck, click on its icon or click on the small triangle at the top of the icons and select a deck from the drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li rozbalit balíček, klikněte na jeho ikonu nebo klikněte na malý trojúhelník v horní části ikon a vyberte balíček z rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the Sidebar is not visible, go to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Sidebar&lt;/f1&gt; from the submenu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud postranní panel není viditelný, přejděte na &lt;f0&gt;Zobrazit&lt;/f0&gt; na panelu nabídek a v podnabídce vyberte &lt;f1&gt;Postranní panel &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contains panes for object properties: &lt;f0&gt;Page&lt;/f0&gt;, &lt;f1&gt;Character&lt;/f1&gt;, &lt;f2&gt;Paragraph&lt;/f2&gt;, &lt;f3&gt;Lists&lt;/f3&gt;, &lt;f4&gt;Area&lt;/f4&gt;, &lt;f5&gt;Shadow&lt;/f5&gt;, &lt;f6&gt;Line&lt;/f6&gt;, and &lt;f7&gt;Position and Size&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obsahuje panely pro vlastnosti objektu: &lt;f0&gt;Stránka &lt;/f0&gt;, &lt;f1&gt;Znak &lt;/f1&gt;, &lt;f2&gt;Odstavec &lt;/f2&gt;, &lt;f3&gt;Seznamy &lt;/f3&gt;, &lt;f4&gt;Oblast&lt;/f4&gt;, &lt;f5&gt;Shadow &lt;/f5&gt;, &lt;f6&gt;Line&lt;/f6&gt; a &lt;f7&gt;Position and Size &lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The visible panes change depending on the object selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viditelné panely se mění v závislosti na vybraném objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Provides quick selection of most items on the Drawing toolbar: Lines &amp; Arrows, Curves, Connectors, Basic Shapes, Symbols, Block Arrows, Flowchart symbols, Callouts, Stars, and 3D Objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poskytuje rychlý výběr většiny položek na panelu nástrojů Kreslení: Čáry a šipky, Křivky, Konektory, Základní tvary, Symboly, Blokové šipky, Symboly vývojového diagramu, Popisy, Hvězdy a 3D objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you can edit and apply Drawing styles to objects within your drawing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde můžete upravovat a aplikovat styly kreslení na objekty ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you edit a style, the changes are automatically applied to all of the elements formatted with this style in your drawing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při úpravě stylu se změny automaticky použijí na všechny prvky formátované tímto stylem ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(In Draw, Presentation styles are not available.)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>(V aplikaci Draw nejsou styly prezentace k dispozici.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens the Draw Navigator, in which you can quickly move between pages in your drawing or select an object on the drawing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře navigátor kreslení, ve kterém se můžete rychle pohybovat mezi stránkami ve výkresu nebo vybrat objekt ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If they are not visible, you can enable them by selecting &lt;f1&gt;View &gt; Rulers&lt;/f1&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud nejsou viditelné, můžete je povolit výběrem &lt;f1&gt;Zobrazit&gt; Pravítka&lt;/f1&gt; na liště nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The rulers show the size of a selected object on the page using double lines (highlighted in Figure &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pravítka ukazují velikost vybraného objektu na stránce pomocí dvojitých řádků (zvýrazněno na obrázku &lt;t2&gt;2 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use the rulers to manage object handles and guide lines when positioning objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pravítka můžete také použít ke správě popisovačů objektů a vodicích čar při umisťování objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The margin area is indicated by the grayed out area on the rulers as shown in Figure &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Oblast okraje je označena šedou oblastí na pravítkách, jak je znázorněno na obrázku &lt;t0&gt;2 &lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the measurement units of the rulers, which can be defined independently, right-click on a ruler and select the measurement unit from the drop down list, as illustrated for the horizontal ruler in Figure &lt;t0&gt;3&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit měrné jednotky pravítek, které lze definovat nezávisle, klepněte pravým tlačítkem myši na pravítko a vyberte měrnou jednotku z rozevíracího seznamu, jak je znázorněno pro vodorovné pravítko na obrázku &lt;t0&gt;3 &lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Status bar (&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;) is located at the bottom of the workspace in all LibreOffice components.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stavový řádek (&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;) je umístěn ve spodní části pracovního prostoru ve všech komponentách LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It includes several Draw-specific fields.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obsahuje několik polí specifických pro Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For details on the contents and use of these fields, see &lt;f2&gt;Chapter 1, Introducing LibreOffice&lt;/f2&gt; in this guide and &lt;f3&gt;Chapter 1, Introducing Draw&lt;/f3&gt; in the &lt;f4&gt;Draw Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnosti o obsahu a použití těchto polí najdete v &lt;f2&gt;Kapitola 1, Představujeme LibreOffice&lt;/f2&gt; v této příručce a &lt;f3&gt;Kapitola 1, Představujeme Draw&lt;/f3&gt; v &lt;f4&gt;Draw Guide &lt;/f4 &gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can hide the Status Bar by going to &lt;f0&gt;View&lt;/f0&gt; on the Menu bar and deselecting &lt;f1&gt;Status Bar&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stavový řádek můžete skrýt tak, že přejdete do &lt;f0&gt;Zobrazit&lt;/f0&gt; na panelu nabídek a zrušíte výběr &lt;f1&gt;stavového řádku &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Status bar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;4 &lt;/seq0&gt;: Stavový řádek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The sizes are given in the current measurement unit.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Velikosti jsou uvedeny v aktuální měrné jednotce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They might not be the same as the ruler units.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nemusí být stejné jako vládní jednotky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To display or hide the various &lt;i0/&gt;Draw toolbars&lt;i1/&gt;, go to &lt;f2&gt;View &gt; Toolbars&lt;/f2&gt; on the Menu bar and select which toolbars you want to display.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit nebo skrýt různé panely nástrojů &lt;i0 /&gt; Kreslení &lt;i1 /&gt;, přejděte na &lt;f2&gt;Zobrazit&gt; Panely nástrojů&lt;/f2&gt; na panelu nabídek a vyberte, které panely nástrojů chcete zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, the Standard toolbar is shown, but the Line and Filling, Text Formatting, and Options toolbars are not shown.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení je zobrazen panel nástrojů Standardní, ale nejsou zobrazeny panely nástrojů Čára a Vyplňování, Formátování textu a Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tools available in the Draw toolbars are described below.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje dostupné na panelu nástrojů Kreslení jsou popsány níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See also “&lt;f0&gt;&lt;bf1&gt;Editing objects&lt;/bf1&gt;&lt;/f0&gt;” on page &lt;f2&gt;&lt;bf3&gt;22&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz také „&lt;f0&gt;&lt;bf1&gt;Úpravy objektů&lt;/bf1&gt;&lt;/f0&gt;“ na stránce &lt;f2&gt;&lt;bf3&gt;22&lt;/bf3&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The appearance of the toolbar icons may vary depending on your operating system and the selection of icon size and style in &lt;f4&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vzhled ikon na panelu nástrojů se může lišit v závislosti na operačním systému a výběru velikosti a stylu ikon v &lt;f4&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Zobrazit &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information about working with toolbars, see &lt;f5&gt;Chapter 1, Introducing LibreOffice&lt;/f5&gt; in this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o práci s panely nástrojů naleznete v &lt;f5&gt;Kapitola 1, Představení LibreOffice&lt;/f5&gt; v této příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Standard toolbar is the same for all LibreOffice components and is not described in detail in this chapter.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel nástrojů Standardní je stejný pro všechny komponenty LibreOffice a není podrobně popsán v této kapitole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, it is located just under the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení se nachází těsně pod pruhem nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Drawing toolbar contains all the necessary functions for drawing various geometric and freehand shapes and for organizing them on the page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel nástrojů Kreslení obsahuje všechny potřebné funkce pro kreslení různých geometrických tvarů a tvarů od ruky a pro jejich uspořádání na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, it is docked vertically on the left side of the Draw window.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení je ukotvena svisle na levé straně okna Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;i0/&gt;the Line and Filling toolbar to modify the main properties of a drawing object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí &lt;i0 /&gt; panelu nástrojů Čára a výplně můžete upravit hlavní vlastnosti nakresleného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The icons and pull-down lists vary according to the type of object selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ikony a rozevírací seznamy se liší podle typu vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The functions on this toolbar are also provided in the Properties pane of the sidebar when a drawing object is selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce na tomto panelu nástrojů jsou také k dispozici v podokně Vlastnosti postranního panelu, když je vybrán objekt kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If&lt;i0/&gt; the selected object is text, the Sidebar shows relevant formatting choices in the Properties pane.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je &lt;i0 /&gt; vybraný objekt text, postranní panel zobrazuje relevantní volby formátování v podokně Vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have enabled both the Line and Filling toolbar and the Text Formatting toolbar, Draw switches between them depending on what object is selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste povolili lištu nástrojů Linka a Výplň a lištu nástrojů Formátování textu, Draw přepíná mezi nimi podle toho, který objekt je vybrán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the Options toolbar to activate or deactivate various drawing aids.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí panelu nástrojů Možnosti můžete aktivovat nebo deaktivovat různé pomůcky pro kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use layers to create a complex drawing by stacking simpler drawings in each layer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí vrstev vytvořte složitý výkres skládáním jednodušších kreseb v každé vrstvě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The area of a layer that does not contain an object is transparent.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Oblast vrstvy, která neobsahuje objekt, je průhledná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add any number of layers in a drawing document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Do výkresového dokumentu můžete přidat libovolný počet vrstev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Layers are common to all pages of the drawing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vrstvy jsou společné pro všechny stránky výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Draw document contains three default layers that you cannot delete or rename.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dokument Draw obsahuje tři výchozí vrstvy, které nelze odstranit ani přejmenovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here are the common ways of using them:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde jsou běžné způsoby jejich použití:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Layout&lt;/f0&gt;: on this layer you place title, text, and object placeholders on your page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Rozložení &lt;/f0&gt;: na tuto vrstvu umístíte zástupné symboly nadpisů, textů a objektů na svou stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Controls&lt;/f0&gt;: on this layer is always on the top of any other.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Ovládací prvky &lt;/f0&gt;: v této vrstvě je vždy na vrcholu jakéhokoli jiného.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you put buttons and other controls on your drawing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde umístíte tlačítka a další ovládací prvky do výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Dimension Lines&lt;/f0&gt;: on this layer you place the dimension lines for your object, if relevant.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Čáry kótování &lt;/f0&gt;: do této vrstvy umístíte kótovací čáry pro svůj objekt, pokud je to relevantní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A layer can be set to visible or hidden, printable or not, locked or unlocked.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vrstva může být nastavena na viditelnou nebo skrytou, potisknutelnou nebo ne, zamknutou nebo odemknutou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To quickly toggle the attributes for a selected layer, you can use keyboard shortcuts:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li rychle přepnout atributy pro vybranou vrstvu, můžete použít klávesové zkratky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Shift+click&lt;/f0&gt; – toggle visible/hidden layer</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Shift + kliknutí&lt;/f0&gt; - přepíná viditelnou / skrytou vrstvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Ctrl+click&lt;/f0&gt; – lock/unlock layer</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Ctrl + kliknutí&lt;/f0&gt; - vrstva zamykání / odemykání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Ctrl+Shift+click&lt;/f0&gt; – toggle printable/not printable layer</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Ctrl + Shift + klepnutí&lt;/f0&gt; - přepíná vrstvu pro tisk / netisknutelnou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a layer to your drawing, select &lt;f0&gt;Insert &gt; Layer&lt;/f0&gt; from the Menu bar or right-click any layer tab in the Layers bar on the bottom of the workspace (Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;on page &lt;f3&gt;&lt;t4&gt;6&lt;/t4&gt;&lt;/f3&gt;) and choose &lt;f5&gt;Insert Layer&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li do výkresu přidat vrstvu, vyberte z panelu nabídek &lt;f0&gt;Vložit&gt; Vrstva&lt;/f0&gt; nebo klepněte pravým tlačítkem myši na kteroukoli vrstvu vrstvy na liště Vrstvy ve spodní části pracovního prostoru (Obrázek &lt;t1&gt;1&lt;/t1&gt;&lt;s2 /&gt; na stránce &lt;f3&gt;&lt;t4&gt;6&lt;/t4&gt;&lt;/f3&gt;) a vyberte &lt;f5&gt;Vložit vrstvu &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Insert Layer dialog opens (Figure &lt;t6&gt;5&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se dialog Vložit vrstvu (obrázek &lt;t6&gt;5 &lt;/t6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a name, title, and description of the layer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidejte název, název a popis vrstvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select if you want it printable or not, visible or hidden, or locked to prevent further changes or accidental edits.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud chcete zabránit dalším změnám nebo náhodným úpravám, vyberte, zda chcete tisknout či nikoli, je viditelný nebo skrytý nebo zamčený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A hidden layer still shows in the Layers bar, but its name is in blue.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu Vrstvy se stále zobrazuje skrytá vrstva, ale její název je modrý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You cannot reorder layers in the Layers bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu Vrstvy nemůžete změnit uspořádání vrstev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Layers do not determine the stacking order of objects on the page, except for the Controls layer which is always in front of other layers.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vrstvy neurčují pořadí překrývání objektů na stránce, s výjimkou vrstvy Controls, která je vždy před ostatními vrstvami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The stacking order of objects is determined by the sequence in which you add the objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pořadí stohování objektů je určeno posloupností, ve které objekty přidáváte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can rearrange the stacking order by right-clicking on an object and choosing &lt;f0&gt;Arrange&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete uspořádat pořadí překrývání kliknutím pravým tlačítkem myši na objekt a výběrem &lt;f0&gt;Uspořádat &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Insert Layer dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;5 &lt;/seq0&gt;: Dialog Vložit vrstvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Color Bar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;6 &lt;/seq0&gt;: Barevný pruh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Area dialog - Color</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;7 &lt;/seq0&gt;: Oblast dialog - Barva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To display &lt;i0/&gt;the color palette currently in use (Figure &lt;t1&gt;6&lt;/t1&gt;), select &lt;f2&gt;View &gt; Color Bar&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit &lt;i0 /&gt; aktuálně používanou paletu barev (obrázek &lt;t1&gt;6 &lt;/t1&gt;), vyberte &lt;f2&gt;Zobrazit&gt; Barevný pruh &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By default, the Color Bar is displayed to the right of the Workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve výchozím nastavení je panel barev zobrazen napravo od pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To close the &lt;f3&gt;Color Bar&lt;/f3&gt;, go to &lt;f4&gt;View&lt;/f4&gt; on the Main menu bar and deselect &lt;f5&gt;Color Bar&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zavřít &lt;f3&gt;Barevný pruh &lt;/f3&gt;, přejděte na &lt;f4&gt;Zobrazit&lt;/f4&gt; na hlavním panelu a zrušte výběr &lt;f5&gt;Barevný pruh &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the &lt;f6&gt;Color Bar&lt;/f6&gt;, you can rapidly choose the color of objects in your drawing (lines, areas, and 3D effects).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí &lt;f6&gt;Barevného pruhu&lt;/f6&gt; můžete rychle vybrat barvu objektů ve výkresu (čáry, oblasti a 3D efekty).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The box with the X at the bottom left of the &lt;f7&gt;Color Bar&lt;/f7&gt; corresponds to none (no color).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Krabice s X v levé dolní části &lt;f7&gt;Barevný pruh&lt;/f7&gt; neodpovídá žádné (žádná barva).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: SidebarArea and Line Color</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;8 &lt;/seq0&gt;: SidebarArea a barva čáry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Pick a Color dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;9 &lt;/seq0&gt;: Vyberte dialogové okno Color</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also access several &lt;i0/&gt;specialized color palettes in Draw, as well as change individual colors to your own taste.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také přistupovat k několika &lt;i0 /&gt; specializovaným barevným paletám v aplikaci Draw a také měnit jednotlivé barvy podle svého vkusu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To do this, go to &lt;f1&gt;Format &gt; Area &lt;/f1&gt;on the Main menu bar to open the &lt;f2&gt;Color&lt;/f2&gt; section in the &lt;f3&gt;Area&lt;/f3&gt; dialog (Figure &lt;f4&gt;&lt;t5&gt;7&lt;/t5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li to provést, přejděte do &lt;f1&gt;Formát&gt; Oblast&lt;/f1&gt; na hlavním panelu nabídky a otevřete sekci &lt;f2&gt;Barva&lt;/f2&gt; v dialogu &lt;f3&gt;Oblast&lt;/f3&gt; (Obrázek &lt;f4&gt;&lt; t5&gt; 7&lt;/t5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To choose another palette, click on the &lt;f0&gt;Palette&lt;/f0&gt; drop down list and select one of the palettes available in LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zvolit jinou paletu, klikněte na rozevírací seznam &lt;f0&gt;Paleta&lt;/f0&gt; a vyberte jednu z palet dostupných v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, when an object in your drawing is selected, click on &lt;f0&gt;Area&lt;/f0&gt; or &lt;f1&gt;Line&lt;/f1&gt; in the Sidebar and select a color from the Color drop down list to change the area or line color of your object (Figure &lt;f2&gt;&lt;t3&gt;8&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alternativně, když je vybrán objekt ve výkresu, klikněte na postranním panelu na &lt;f0&gt;Oblast&lt;/f0&gt; nebo &lt;f1&gt;Čára&lt;/f1&gt; a vyberte barvu z rozevíracího seznamu Barva pro změnu oblasti nebo barvy čáry vašeho objektu (obrázek &lt;f2&gt;&lt;t3&gt;8&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a custom color to the custom palette, first select your color by clicking the &lt;f0&gt;Pick&lt;/f0&gt; button in the &lt;f1&gt;Area – Color&lt;/f1&gt; dialog to open the &lt;f2&gt;Pick a Color&lt;/f2&gt; dialog (Figure &lt;f3&gt;&lt;t4&gt;9&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat vlastní barvu do vlastní palety, nejprve vyberte barvu kliknutím na tlačítko &lt;f0&gt;Vybrat&lt;/f0&gt; v dialogu &lt;f1&gt;Oblast - Barva&lt;/f1&gt; a otevřete &lt;f2&gt;Vyberte barvu&lt;/f2&gt; dialog (Obrázek &lt;f3&gt;&lt;t4&gt;9&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you can change any color by either by dragging the round cursor to different locations on the visible color palette, or by modifying the numerical values in the fields provided to the right of the color palette in either CMYK or RGB color schemes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde můžete změnit jakoukoli barvu buď přetažením kulatého kurzoru do různých umístění na paletě viditelných barev, nebo změnou číselných hodnot v polích napravo od barevné palety v barevných schématech CMYK nebo RGB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed description of color palettes and their options, as well as more on the difference between the CMYK and RGB color schemes, refer to &lt;f0&gt;Chapter 11, Advanced Draw Techniques&lt;/f0&gt; in the &lt;f1&gt;Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější popis barevných palet a jejich možností a další informace o rozdílech mezi barevnými schématy CMYK a RGB naleznete v &lt;f0&gt;Kapitola 11, Pokročilé techniky kreslení&lt;/f0&gt; v &lt;f1&gt;Průvodci kreslení &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw provides a wide range of shapes, located in palettes accessed from the Drawing toolbar or from the Shapes deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kreslení poskytuje širokou škálu tvarů umístěných v paletách přístupných z panelu nástrojů Kreslení nebo z palety Shapes v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some of the icons on the Drawing toolbar will change according to the shape that has been selected from the choices available.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé z ikon na panelu nástrojů Kreslení se změní podle tvaru, který byl vybrán z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you draw a basic shape or select one for editing, the Information field in the status bar changes to reflect the present action: for example Line created, Text frame xxyy selected, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když nakreslíte základní tvar nebo vyberete pro úpravy, změní se pole Informace ve stavovém řádku tak, aby odráželo současnou akci: například Vytvořený řádek, Vybraný textový rámeček xxyy atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use one of the following options to start drawing a line:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K nakreslení čáry použijte jednu z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;insert Line&lt;/f0&gt; icon in the &lt;f1&gt;Drawing&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů &lt;f1&gt;Kreslení&lt;/f1&gt; klikněte na ikonu &lt;f0&gt;vložit čáru &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the small triangle on the right of the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; icon in the &lt;f1&gt;Drawing&lt;/f1&gt; toolbar and select the &lt;f2&gt;Insert Line&lt;/f2&gt; icon from the drop down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na malý trojúhelník na pravé straně ikony &lt;f0&gt;Čárky a šipky&lt;/f0&gt; na panelu nástrojů &lt;f1&gt;Kreslení&lt;/f1&gt; a z rozevíracího seznamu vyberte ikonu &lt;f2&gt;Vložit čáru &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Insert Line&lt;/f0&gt; icon in the &lt;f1&gt;Lines and Arrows&lt;/f1&gt; section of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Vložit čáru&lt;/f0&gt; v sekci &lt;f1&gt;Čáry a šipky&lt;/f1&gt; na paletě Shapes na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Place the cursor at the point where you want to start the line (Figure &lt;t0&gt;10&lt;/t0&gt;) and drag the mouse while keeping the mouse button pressed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte kurzor na místo, kde chcete zahájit čáru (obrázek &lt;t0&gt;10 &lt;/t0&gt;) a přetáhněte myš, zatímco držíte stisknuté tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Line starting point</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;10 &lt;/seq0&gt;: Počáteční bod čáry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keep the &lt;f0&gt;Shift&lt;/f0&gt; key pressed while drawing a line to restrict the drawing angle of the line to a multiple of 45 degrees (0, 45, 90, 135, and so on).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podržte klávesu &lt;f0&gt;Shift&lt;/f0&gt; během kreslení čáry, abyste omezili úhel kreslení čáry na násobek 45 stupňů (0, 45, 90, 135 atd.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, if the option &lt;f1&gt;When creating or moving objects&lt;/f1&gt; in the &lt;f2&gt;Constrain Objects&lt;/f2&gt; section of &lt;f3&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f3&gt; has been selected, the action of the &lt;f4&gt;Shift&lt;/f4&gt; key is the opposite.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud však byla vybrána možnost &lt;f1&gt;Při vytváření nebo přesunu objektů&lt;/f1&gt; v &lt;f2&gt;Omezení objektů&lt;/f2&gt; v části &lt;f3&gt;Nástroje&gt; Možnosti&gt; Kreslení LibreOffice&gt; Mřížka &lt;/f3&gt;, akce klávesy &lt;f4&gt;Shift&lt;/f4&gt; je opakem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lines will automatically be drawn at a multiple of 45 degrees unless the &lt;f5&gt;Shift&lt;/f5&gt; key is pressed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Čáry budou automaticky kresleny ve více 45 stupních, pokud nestisknete klávesu &lt;f5&gt;Shift &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keep the &lt;f0&gt;Alt&lt;/f0&gt; key pressed while drawing a line to cause the line to extend outwards symmetrically in both directions from the start point.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podržte klávesu &lt;f0&gt;Alt&lt;/f0&gt; stisknutou při kreslení čáry, aby se čára symetricky vysunula směrem ven v obou směrech od počátečního bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change any of these attributes, select a line by clicking on it, then go to the &lt;f0&gt;Properties&lt;/f0&gt; deck on the Sidebar and open the &lt;f1&gt;Line&lt;/f1&gt; pane (Figure &lt;f2&gt;&lt;t3&gt;8&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5/&gt;&lt;/f4&gt;on page &lt;f6&gt;&lt;t7&gt;11&lt;/t7&gt;&lt;/f6&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit některý z těchto atributů, vyberte čáru kliknutím na ni, potom přejděte na balíček &lt;f0&gt;Vlastnosti&lt;/f0&gt; na postranním panelu a otevřete podokno &lt;f1&gt;Řádek&lt;/f1&gt; (Obrázek &lt;f2&gt;&lt;t3 &gt; 8&lt;/t3&gt;&lt;/f2&gt;&lt;f4&gt;&lt;s5 /&gt;&lt;/f4&gt; na stránce &lt;f6&gt;&lt;t7&gt;11&lt;/t7&gt;&lt;/f6&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, right-click and select &lt;f8&gt;Line&lt;/f8&gt; from the context menu or go to &lt;f9&gt;Format &gt; Line&lt;/f9&gt; on the Menu bar to open the &lt;f10&gt;Line&lt;/f10&gt; dialog (Figure &lt;f11&gt;&lt;t12&gt;25&lt;/t12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;s14/&gt;on page &lt;/f13&gt;&lt;f15&gt;&lt;t16&gt;26&lt;/t16&gt;&lt;/f15&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně klepněte pravým tlačítkem myši a vyberte z kontextové nabídky &lt;f8&gt;řádek&lt;/f8&gt; nebo přejděte do &lt;f9&gt;Formát&gt; řádek&lt;/f9&gt; na liště nabídky a otevřete dialog &lt;f10&gt;Řádek&lt;/f10&gt; (obrázek) &lt;f11&gt;&lt;t12&gt;25&lt;/t12&gt;&lt;/f11&gt;&lt;f13&gt;&lt;s14 /&gt; na stránce &lt;/f13&gt;&lt;f15&gt;&lt;t16&gt;26&lt;/t16&gt;&lt;/f15&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Line style, line width, and line color can also be changed using the controls in the Line and Filling toolbar (if visible) at the top of the workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styl čáry, šířka čáry a barva čáry lze také změnit pomocí ovládacích prvků na panelu nástrojů Linka a Vyplňování (pokud jsou viditelné) v horní části pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw &lt;i0/&gt;classifies arrows as a subgroup of lines: lines with arrowheads.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kreslení &lt;i0 /&gt; klasifikuje šipky jako podskupinu řádků: čáry se šipkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The information field on the Status bar shows them only as lines.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informační pole na stavovém řádku je zobrazuje pouze jako řádky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use one of the following options to start drawing an arrow:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K zahájení kreslení šipky použijte jednu z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; icon in the &lt;f1&gt;Drawing&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů &lt;f1&gt;Kreslení&lt;/f1&gt; klikněte na ikonu &lt;f0&gt;Čáry a šipky &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the small triangle on the right of the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; icon in the &lt;f1&gt;Drawing&lt;/f1&gt; toolbar and select the type of arrow you require from the drop down list (Figure &lt;f2&gt;&lt;t3&gt;11&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na malý trojúhelník na pravé straně ikony &lt;f0&gt;Čáry a šipky&lt;/f0&gt; na panelu nástrojů &lt;f1&gt;Kreslení&lt;/f1&gt; a vyberte požadovaný typ šipky z rozevíracího seznamu (Obrázek &lt;f2&gt;&lt; t3&gt; 11&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the icon of the type of arrow you require in the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; section of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu požadovaného typu šipky v části &lt;f0&gt;Čáry a šipky&lt;/f0&gt; na paletě Shapes na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Place the cursor at the point where you want to start the arrow and drag the mouse while keeping the mouse button pressed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte kurzor na místo, kde chcete spustit šipku a přetáhněte myš, zatímco držíte stisknuté tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The arrowhead is drawn at the end point of the arrow when you release the mouse button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šipka je nakreslena v koncovém bodě šipky, když uvolníte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Lines and Arrows</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;11 &lt;/seq0&gt;: Čáry a šipky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hovering the mouse cursor over each of the type of arrows available will tell you the type of line endings each icon will draw.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podržením kurzoru myši nad každým z dostupných typů šipek se dozvíte, jaký typ zakončení čáry bude kreslit každá ikona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The line endings available are lines, arrows, circles, squares, dimension lines and 45 degree lines.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dostupné konce čar jsou čáry, šipky, kružnice, čtverce, kótovací čáry a 45 stupňové čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The icon for the tool used most recently will already be selected on the Drawing toolbar to make it easier to use the same tool again.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ikona naposledy použitého nástroje bude již vybrána na panelu nástrojů Kreslení, aby bylo možné znovu použít stejný nástroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After drawing the line, you can change the arrow style by opening the &lt;f0&gt;Line&lt;/f0&gt; dialog (Figure 25 on page 23) and going to the &lt;f1&gt;Arrow Styles&lt;/f1&gt; page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po nakreslení čáry můžete změnit styl šipek otevřením dialogu &lt;f0&gt;Čára&lt;/f0&gt; (Obrázek 25 na stránce 23) a přechodem na stránku &lt;f1&gt;Styly šipek &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Here you will find a larger selection of line endings to use in your drawing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zde najdete větší výběr koncovek čar, které se použijí ve výkresu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dimension lines display a measurement of an object in the drawing (Figure &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Čárky kóty zobrazují měření objektu ve výkresu (obrázek &lt;t0&gt;12 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The dimension line does not belong to the object itself, but it is usually placed close to it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kótovací čára nepatří k samotnému objektu, ale obvykle je umístěna blízko něj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An object can have as many dimension lines as necessary to indicate measures of its sides, edges, and distances.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Objekt může mít tolik kótovacích čar, kolik je potřeba k označení míry jeho stran, hran a vzdáleností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use one of the following options to start drawing a dimension line:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K zahájení kreslení kótovací čáry použijte jednu z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the small triangle on the right of the &lt;f0&gt;Lines and Arrows&lt;/f0&gt; icon in the &lt;f1&gt;Drawing&lt;/f1&gt; toolbar and select &lt;f2&gt;Dimension Line&lt;/f2&gt; from the drop down list (Figure &lt;f3&gt;&lt;t4&gt;11&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na malý trojúhelník na pravé straně ikony &lt;f0&gt;Čáry a šipky&lt;/f0&gt; na panelu nástrojů &lt;f1&gt;Kreslení&lt;/f1&gt; a z rozevíracího seznamu vyberte &lt;f2&gt;Kóta&lt;/f2&gt; (Obrázek &lt; f3&gt;&lt;t4&gt; 11&lt;/t4&gt;&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Dimension Line&lt;/f0&gt; icon in the &lt;f1&gt;Lines and Arrows&lt;/f1&gt; section of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;kótovací čára&lt;/f0&gt; v sekci &lt;f1&gt;Čáry a šipky&lt;/f1&gt; na paletě Shapes na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Place the cursor at the point where you want to start the dimension line and drag the mouse while keeping the mouse button pressed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte kurzor na místo, kde chcete zahájit kótovací čáru a přetáhněte myš, zatímco držíte stisknuté tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The dimension line is drawn and automatically calculates and displays the linear dimension.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Čára kóty je nakreslena a automaticky vypočítá a zobrazí lineární kótu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can control the display of a dimension line components and appearance by selecting it, right-clicking, and choosing &lt;f0&gt;Dimensions&lt;/f0&gt; in the context menu to display the &lt;f1&gt;Dimension line&lt;/f1&gt;&lt;f2&gt; dialog &lt;s3/&gt;(&lt;/f2&gt;Figure &lt;f4&gt;&lt;t5&gt;13&lt;/t5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazení komponent a vzhledu kótovací čáry můžete ovládat výběrem, klepnutím pravým tlačítkem a výběrem &lt;f0&gt;Kóty&lt;/f0&gt; v kontextové nabídce pro zobrazení dialogu &lt;f1&gt;kótovací čáry&lt;/f1&gt;&lt;f2&gt;&lt;s3 /&gt; (&lt;/f2&gt; Obrázek &lt;f4&gt;&lt;t5&gt;13&lt;/t5&gt;&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Measuring an object with dimension lines</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;12 &lt;/seq0&gt;: Měření objektu pomocí kótovacích čar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Dimension line settings dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;13 &lt;/seq0&gt;: Dialogové okno nastavení kótovací čáry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Rectangle&lt;/f0&gt; icon in the &lt;f1&gt;Drawing&lt;/f1&gt; toolbar or select &lt;f2&gt;Rectangle&lt;/f2&gt; icon in &lt;f3&gt;Basic Shapes&lt;/f3&gt; on the &lt;f4&gt;Shapes&lt;/f4&gt; deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Obdélník&lt;/f0&gt; na panelu nástrojů &lt;f1&gt;Kreslení&lt;/f1&gt; nebo vyberte ikonu &lt;f2&gt;Obdélník&lt;/f2&gt; v &lt;f3&gt;Základní tvary&lt;/f3&gt; na &lt;f4&gt;Tvary&lt;/f4&gt; balíček v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As you draw the rectangle with the mouse cursor, the rectangle appears with its bottom right corner attached to the cursor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když nakreslíte obdélník kurzorem myši, zobrazí se obdélník s pravým dolním rohem připojeným k kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To draw a square, click on the &lt;f1&gt;Rectangle&lt;/f1&gt; icon and hold down the &lt;f2&gt;Shift&lt;/f2&gt; key while you draw a square.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li nakreslit čtverec, klikněte na ikonu &lt;f1&gt;Obdélník&lt;/f1&gt; a podržte klávesu &lt;f2&gt;Shift &lt;/f2&gt;, zatímco nakreslíte čtverec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the option &lt;f0&gt;When creating or moving objects&lt;/f0&gt; has been selected in the Constrain Object section of &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f1&gt;, the action of the &lt;f2&gt;Shift&lt;/f2&gt; key is reversed: the Rectangle tool draws a square.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud byla v sekci Omezit objekt &lt;f1&gt;Nástroje&gt; Možnosti&gt; Kreslení LibreOffice&gt; Mřížka&lt;/f1&gt; vybrána možnost &lt;f0&gt;Při vytváření nebo přesunu objektů &lt;/f0&gt;, akce &lt;f2&gt;Shift&lt;/f2&gt; klávesa je obrácená: nástroj Obdélník nakreslí čtverec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To draw a rectangle, press the &lt;f3&gt;Shift&lt;/f3&gt; key.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li nakreslit obdélník, stiskněte klávesu &lt;f3&gt;Shift &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To draw an ellipse (also called an oval):</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nakreslení elipsy (nazývané také ovál):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Ellipse&lt;/f0&gt; icon in the &lt;f1&gt;Drawing&lt;/f1&gt; toolbar or select &lt;f2&gt;Ellipse&lt;/f2&gt; icon in &lt;f3&gt;Basic Shapes&lt;/f3&gt; on the &lt;f4&gt;Shapes&lt;/f4&gt; deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Ellipse&lt;/f0&gt; na panelu nástrojů &lt;f1&gt;Kreslení&lt;/f1&gt; nebo vyberte ikonu &lt;f2&gt;Ellipse&lt;/f2&gt; v &lt;f3&gt;Základní tvary&lt;/f3&gt; na &lt;f4&gt;Tvary&lt;/f4&gt; balíček v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To draw a circle, click on the &lt;f0&gt;Ellipse&lt;/f0&gt; icon and hold down the &lt;f1&gt;Shift&lt;/f1&gt; key while you draw a circle.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li nakreslit kruh, klikněte během nakreslení kruhu na ikonu &lt;f0&gt;Ellipse&lt;/f0&gt; a podržte klávesu &lt;f1&gt;Shift &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To draw an ellipse or circle from its center, position the cursor on the drawing, press the mouse button and then hold down the &lt;f0&gt;Alt&lt;/f0&gt; key while dragging with the cursor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li nakreslit elipsu nebo kružnici z jejího středu, umístěte kurzor na výkres, stiskněte tlačítko myši a při tažení kurzorem přidržte klávesu &lt;f0&gt;Alt &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use one of the following options to start drawing a curve or polygon.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K nakreslení křivky nebo mnohoúhelníku použijte jednu z následujících možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moving the mouse cursor over one of the icons shows a tooltip giving the type of curve or polygon:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesunutím kurzoru myši nad některou z ikon se zobrazí popis s typem křivky nebo mnohoúhelníku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the small triangle on the right of the &lt;f0&gt;Curve and Polygons&lt;/f0&gt; icon in the &lt;f1&gt;Drawing&lt;/f1&gt; toolbar and select the type of curve or polygon from the drop down list (Figure &lt;f2&gt;&lt;t3&gt;14&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na malý trojúhelník na pravé straně ikony &lt;f0&gt;Křivka a mnohoúhelníky&lt;/f0&gt; na panelu nástrojů &lt;f1&gt;Kreslení&lt;/f1&gt; a vyberte typ křivky nebo mnohoúhelníku z rozevíracího seznamu (Obrázek &lt;f2&gt;&lt; t3&gt; 14&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select and click the type of curve or polygon in the &lt;f0&gt;Curve and Polygons&lt;/f0&gt; section of the Shapes deck on the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte a klikněte na typ křivky nebo mnohoúhelníku v sekci &lt;f0&gt;Křivka a mnohoúhelníky&lt;/f0&gt; na paletě Shapes na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hold down the &lt;f0&gt;Shift&lt;/f0&gt; key when drawing curves or polygons to restrict the angles between the lines to 45 or 90 degrees.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při kreslení křivek nebo polygonů podržte klávesu &lt;f0&gt;Shift &lt;/f0&gt;, abyste omezili úhly mezi čarami na 45 nebo 90 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Curves and Polygons</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;14 &lt;/seq0&gt;: Křivky a mnohoúhelníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The icon for the tool used most recently is shown on the Drawing toolbar to make it easier to use the same tool again</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Kreslení se zobrazí ikona naposledy použitého nástroje, aby bylo možné znovu použít stejný nástroj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click and hold the left mouse button to create the starting point of the curve, then drag from the starting point to draw a line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím a podržením levého tlačítka myši vytvoříte počáteční bod křivky a potom přetažením z počátečního bodu nakreslíte čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Release the mouse button and continue to drag the cursor to bend the line into a curve.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uvolněte tlačítko myši a pokračujte tažením kurzoru, abyste ohnuli čáru do křivky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To continue with the line, drag the mouse cursor to draw a straight line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li pokračovat s čarou, přetažením kurzoru myši nakreslete přímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A double-click ends the drawing of your line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dvojitým kliknutím ukončíte kreslení čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A filled curve automatically joins the last point to the first point to close off the figure and fills it with the selected fill color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyplněná křivka automaticky spojí poslední bod s prvním bodem, aby se obrázek uzavřel a vyplní vybranou barvou výplně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A filled polygon automatically joins the last point to the first point to close off the figure and fills it with the selected fill color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyplněný mnohoúhelník se automaticky spojí s posledním bodem k prvnímu bodu a uzavře obrázek a vyplní jej vybranou barvou výplně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Like ordinary polygons, these are formed from lines, but the angles between lines are restricted to 45 or 90 degrees when the &lt;f0&gt;Shift&lt;/f0&gt; key is held down as you draw the line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stejně jako běžné polygony jsou tyto vytvořeny z čar, ale úhly mezi čarami jsou omezeny na 45 nebo 90 stupňů, když je klávesa &lt;f0&gt;Shift&lt;/f0&gt; podržena při kreslení čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Press and hold the left mouse button and drag the cursor to the shape you require.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stiskněte a podržte levé tlačítko myši a přetáhněte kurzor na požadovaný tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is not necessary to end the drawing with a double-click, just release the mouse button and the drawing is completed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Není nutné ukončit výkres dvojitým kliknutím, stačí uvolnit tlačítko myši a výkres je dokončen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If &lt;f0&gt;Freeform Line Filled&lt;/f0&gt; is selected, the end point is joined automatically to the start point and the object is filled with the selected color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je vybrána možnost &lt;f0&gt;Volný řádek vyplněný &lt;/f0&gt;, koncový bod se automaticky spojí s počátečním bodem a objekt se vyplní vybranou barvou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To activate the text tool, click on the &lt;f0&gt;Text&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li aktivovat textový nástroj, klikněte na ikonu &lt;f0&gt;Text &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can display the Text Formatting toolbar (&lt;f1&gt;View &gt; Toolbars&lt;/f1&gt;) or use the Character pane in the Properties deck of the Sidebar to select font type, font size, and other text properties before you start typing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete zobrazit panel nástrojů Formátování textu (&lt;f1&gt; Zobrazit&gt; Panely nástrojů &lt;/f1&gt;) nebo pomocí podokna Znaky v paletě Vlastnosti postranního panelu vyberte typ písma, velikost písma a další vlastnosti textu, než začnete psát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The information field in the status bar shows that you are editing text and also provides details about the current cursor location using paragraph, row, and column numbers (Figure &lt;t0&gt;15&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informační pole ve stavovém řádku ukazuje, že upravujete text a také poskytuje podrobnosti o aktuálním umístění kurzoru pomocí čísel odstavců, řádků a sloupců (obrázek &lt;t0&gt;15 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Text information on Status bar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;15 &lt;/seq0&gt;: Textové informace na stavovém řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can insert a line break with &lt;f0&gt;Shift+Enter&lt;/f0&gt; or start a new paragraph using &lt;f1&gt;Enter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Konec řádku můžete vložit pomocí &lt;f0&gt;Shift + Enter&lt;/f0&gt; nebo můžete začít nový odstavec pomocí &lt;f1&gt;Enter &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can create Drawing styles that you can reuse for other text frames using the &lt;f0&gt;Styles&lt;/f0&gt; deck on the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styly Kreslení, které můžete znovu použít pro jiné textové rámečky, můžete vytvořit pomocí balíčku &lt;f0&gt;Styly&lt;/f0&gt; na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing styles affect all of the text within a text frame.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styly kreslení ovlivňují veškerý text v textovém rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To only format parts of the text, use direct formatting with the &lt;f1&gt;Text Formatting&lt;/f1&gt; toolbar or the &lt;f2&gt;Character&lt;/f2&gt; and &lt;f3&gt;Paragraph&lt;/f3&gt; panes in the &lt;f4&gt;Properties&lt;/f4&gt; deck of the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li formátovat pouze části textu, použijte přímé formátování pomocí panelu nástrojů &lt;f1&gt;Formátování textu&lt;/f1&gt; nebo &lt;f2&gt;Znaky&lt;/f2&gt; a &lt;f3&gt;Odstavec&lt;/f3&gt; v &lt;f4&gt;Vlastnosti&lt;/f4&gt; paluba postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See also “&lt;f5&gt;&lt;bf6&gt;Using styles&lt;/bf6&gt;&lt;/f5&gt;” on page &lt;f7&gt;&lt;bf8&gt;25&lt;/bf8&gt;&lt;/f7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz také „&lt;f5&gt;&lt;bf6&gt;Používání stylů&lt;/bf6&gt;&lt;/f5&gt;“ na stránce &lt;f7&gt;&lt;bf8&gt;25&lt;/bf8&gt;&lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text frames can also have fill colors, shadows, and other attributes, just like any other object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Textové rámečky mohou mít také barvy výplně, stíny a další atributy, stejně jako jakýkoli jiný objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To keep text within the borders of the object, you have to use paragraphs, line breaks, or smaller text size, increase the object size, or a combination of all four methods.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li udržet text v rámci ohraničení objektu, musíte použít odstavce, konce řádků nebo menší velikost textu, zvětšit velikost objektu nebo kombinaci všech čtyř metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information about text, see &lt;f0&gt;Chapter 2, Drawing Basic Shapes&lt;/f0&gt; and &lt;f1&gt;Chapter 9, Adding and Formatting Text&lt;/f1&gt; in the &lt;f2&gt;Draw Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o textu naleznete v &lt;f0&gt;Kapitola 2, Kreslení základních tvarů&lt;/f0&gt; a &lt;f1&gt;Kapitola 9, Přidávání a formátování textu&lt;/f1&gt; v &lt;f2&gt;Draw Guide &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Glue points become visible when the &lt;f0&gt;Connectors&lt;/f0&gt; icon is selected on the Drawing toolbar or when a &lt;f1&gt;Connector&lt;/f1&gt; is selected in the &lt;f2&gt;Shapes&lt;/f2&gt; deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lepicí body se stanou viditelnými, když je na panelu nástrojů Kreslení vybrána ikona &lt;f0&gt;Konektory &lt;/f0&gt;, nebo když je vybrána &lt;f1&gt;Konektor&lt;/f1&gt; v balíčku &lt;f2&gt;Tvary&lt;/f2&gt; v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most objects have four glue points (Figure &lt;t0&gt;16&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Většina objektů má čtyři lepicí body (obrázek &lt;t0&gt;16 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add more glue points and customize them, using the &lt;f1&gt;Glue Points&lt;/f1&gt; toolbar (Figure &lt;t2&gt;17&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat další lepicí body a přizpůsobit je pomocí panelu nástrojů &lt;f1&gt;Lepicí body&lt;/f1&gt; (obrázek &lt;t2&gt;17 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f3&gt;View &gt; Toolbars &gt; Glue Points&lt;/f3&gt; to open the toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li otevřít panel nástrojů, přejděte na &lt;f3&gt;Zobrazit&gt; Panely nástrojů&gt; Lepicí body &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selection handles are for moving or changing the shape of an object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Popisovací úchyty slouží k přesunutí nebo změně tvaru objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Glue points are used to fix or glue a connector to an object so that when the object moves, the connector stays fixed to the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lepicí body se používají k upevnění nebo přilepení konektoru k objektu tak, aby při pohybu objektu zůstal konektor pevně spojen s objektem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed description on the use of glue points, see &lt;f0&gt;Chapter 3, Working with Objects and Object Points&lt;/f0&gt; and &lt;f1&gt;Chapter 8, Connections, Flowcharts, and Organization Charts&lt;/f1&gt; in the &lt;f2&gt;Draw Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější popis použití lepených bodů naleznete v &lt;f0&gt;Kapitola 3, Práce s objekty a body objektů&lt;/f0&gt; a &lt;f1&gt;Kapitola 8, Připojení, vývojové diagramy a organizační diagramy&lt;/f1&gt; v &lt; f2&gt;Draw Guide &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Glue points</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;16 &lt;/seq0&gt;: Lepicí body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Glue points toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;17 &lt;/seq0&gt;: Panel nástrojů Lepicí body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;t2&gt;18&lt;/t2&gt;&lt;s3/&gt;shows an example of two objects and a connector.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;t2&gt;18&lt;/t2&gt;&lt;s3 /&gt; ukazuje příklad dvou objektů a konektoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Drawing toolbar, click on the triangle next to the &lt;f0&gt;Connector&lt;/f0&gt; icon to open the &lt;f1&gt;Connectors&lt;/f1&gt; toolbar (Figure &lt;t2&gt;19&lt;/t2&gt;), or select a connector from &lt;f3&gt;Connectors&lt;/f3&gt; section in the &lt;f4&gt;Shapes&lt;/f4&gt; deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Kreslení kliknutím na trojúhelník vedle ikony &lt;f0&gt;Connector&lt;/f0&gt; otevřete panel nástrojů &lt;f1&gt;Connectors&lt;/f1&gt; (obrázek &lt;t2&gt;19 &lt;/t2&gt;) nebo vyberte konektor z &lt;f3&gt;Konektory&lt;/f3&gt; v sekci &lt;f4&gt;Tvary&lt;/f4&gt; v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed description of the use of connectors, see &lt;f5&gt;Chapter 8, Connections, Flowcharts, and Organization Charts&lt;/f5&gt; in the &lt;f6&gt;Draw Guide&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější popis použití konektorů naleznete v &lt;f5&gt;Kapitola 8, Připojení, vývojové diagramy a organizační diagramy&lt;/f5&gt; v &lt;f6&gt;Draw Guide &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Connector between two objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;18 &lt;/seq0&gt;: Spojnice mezi dvěma objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Connectors toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;19 &lt;/seq0&gt;: Panel nástrojů Konektory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The icons for drawing geometric shapes are located on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ikony pro kreslení geometrických tvarů jsou umístěny na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The geometric shapes are explained in the following sections.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Geometrické tvary jsou vysvětleny v následujících částech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clicking on the triangle to the right of the icon on the Drawing toolbar opens a floating toolbar giving access to the tools for that shape.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na trojúhelník vpravo od ikony na panelu nástrojů Kreslení se otevře plovoucí panel nástrojů, který umožňuje přístup k nástrojům pro daný tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These shapes are also available on the Shapes deck in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto tvary jsou k dispozici také na palubě Shapes v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The use of these tools for geometric shapes is similar to the tool used for drawing rectangles or squares.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití těchto nástrojů pro geometrické tvary je podobné nástroji používanému pro kreslení obdélníků nebo čtverců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see page &lt;bf0&gt;15&lt;/bf0&gt;&lt;s1/&gt;in this chapter or &lt;f2&gt;Chapter 2, Drawing Basic Shapes&lt;/f2&gt; in the &lt;f3&gt;Draw Guide&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete na stránce &lt;bf0&gt;15&lt;/bf0&gt;&lt;s1 /&gt; v této kapitole nebo &lt;f2&gt;Kapitola 2, Kreslení základních tvarů&lt;/f2&gt; v &lt;f3&gt;Průvodce kreslením &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add text to all of these geometric shapes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ke všem těmto geometrickým tvarům můžete přidat text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see &lt;f0&gt;Chapter 2&lt;/f0&gt; and &lt;f1&gt;Chapter 11&lt;/f1&gt; in the &lt;f2&gt;Draw Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace viz &lt;f0&gt;Kapitola 2&lt;/f0&gt; a &lt;f1&gt;Kapitola 11&lt;/f1&gt; v &lt;f2&gt;Draw Guide &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The creation of flowcharts, organization charts, and similar planning tools is further described in &lt;f0&gt;Chapter 8, Connections, Flowcharts, and Organization Charts&lt;/f0&gt; in the &lt;f1&gt;Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytváření vývojových diagramů, organizačních diagramů a podobných plánovacích nástrojů je podrobněji popsáno v &lt;f0&gt;kapitole 8, Připojení, vývojové diagramy a organizační diagramy&lt;/f0&gt; v &lt;f1&gt;Draw Guide &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3D Objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>3D objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select or deselect more than one object, hold the &lt;f0&gt;Shift&lt;/f0&gt; key down while clicking.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybrat nebo zrušit výběr více než jednoho objektu, podržte při klepnutí klávesu &lt;f0&gt;Shift &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also select several objects at once by dragging the mouse cursor to draw a rectangle (also known as a marquee) around the objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také vybrat několik objektů najednou přetažením kurzoru myši, abyste kolem objektů nakreslili obdélník (známý také jako ohraničení).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Only objects that lie entirely within the rectangle will be selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Budou vybrány pouze objekty, které leží zcela uvnitř obdélníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select multiple objects by framing, the &lt;f0&gt;Select&lt;/f0&gt; icon&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt; on the &lt;f3&gt;Drawing&lt;/f3&gt; toolbar must be active.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybrat více objektů rámováním, musí být aktivní ikona &lt;f0&gt;Vybrat&lt;/f0&gt;&lt;df1&gt;&lt;di2 /&gt;&lt;/df1&gt; na panelu nástrojů &lt;f3&gt;Kreslení &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If there are several hidden objects, keep holding down the &lt;f1&gt;Alt&lt;/f1&gt;&lt;f2&gt; key&lt;/f2&gt; and clicking until you reach the object you want.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud existuje několik skrytých objektů, držte stisknutou klávesu &lt;f1&gt;Alt&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt; a klepejte, dokud nedosáhnete požadovaného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To cycle through the objects in reverse order, hold down the &lt;f3&gt;Alt+Shift&lt;/f3&gt;&lt;f4&gt; keys&lt;/f4&gt; and click.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li procházet objekty v opačném pořadí, podržte stisknuté klávesy &lt;f3&gt;Alt+Shift&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt; a klepněte na.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a quick way to reach an object, but it may not be practical if there a large number of objects in a drawing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je to rychlý způsob, jak dosáhnout objektu, ale nemusí být praktické, pokud je ve výkresu velké množství objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the &lt;f0&gt;Alt&lt;/f0&gt; key method works on computers using Windows or macOS.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití metody kláves &lt;f0&gt;Alt&lt;/f0&gt; funguje na počítačích používajících Windows nebo MacOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On Linux, use the &lt;f1&gt;Tab&lt;/f1&gt; key to cycle through the objects, stopping at the object you want to select.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V systému Linux můžete pomocí objektů &lt;f1&gt;Tab&lt;/f1&gt; procházet objekty a zastavit se u objektu, který chcete vybrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To cycle through the objects in reverse order, press &lt;f2&gt;Shift+Tab&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li procházet objekty v obráceném pořadí, stiskněte &lt;f2&gt;Shift + Tab &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can rearrange the stacking order by moving an object forward or backward using one of the following methods:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pořadí objektů můžete uspořádat přesunutím objektu dopředu nebo dozadu jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select an object, go to &lt;f0&gt;Shape &gt; Arrange&lt;/f0&gt; on the main menu bar, or right-click on the object and select &lt;f1&gt;Arrange&lt;/f1&gt; from the drop down menu, then select one of the following options:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte objekt, přejděte na &lt;f0&gt;Tvar&gt; Uspořádat&lt;/f0&gt; na hlavním panelu nabídky nebo klepněte pravým tlačítkem myši na objekt a v rozevírací nabídce vyberte &lt;f1&gt;Uspořádat &lt;/f1&gt;, poté vyberte jeden z následující možnosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bring Forward</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Předložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send Backward</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odeslat zpět</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Front of Object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Před objektem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Behind Object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Za objektem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select an object, then use one of the following keyboard shortcuts:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte objekt a poté použijte jeden z následujících klávesových zkratek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Ctrl+Shift++&lt;/f0&gt; (bring to front)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Ctrl + Shift ++&lt;/f0&gt; (přenést dopředu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Ctrl++&lt;/f0&gt; (bring forward)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Ctrl ++&lt;/f0&gt; (přenést vpřed)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Ctrl+-&lt;/f0&gt; (send backward)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Ctrl + -&lt;/f0&gt; (poslat zpět)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Ctrl+Shift+-&lt;/f0&gt; (send to back)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Ctrl + Shift + -&lt;/f0&gt; (poslat zpět)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select an object, then select one of the &lt;f0&gt;Arrange&lt;/f0&gt; icons (Figure &lt;f1&gt;&lt;t2&gt;20&lt;/t2&gt;&lt;/f1&gt;) on left of the &lt;f3&gt;Line and Filling&lt;/f3&gt; toolbar on the main menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte objekt a poté vyberte jednu z ikon &lt;f0&gt;Uspořádat&lt;/f0&gt; (obrázek &lt;f1&gt;&lt;t2&gt;20&lt;/t2&gt;&lt;/f1&gt;) vlevo od &lt;f3&gt;čáry a výplně&lt;/f3&gt; na hlavním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you hover the mouse cursor over one of the icons, its function will be indicated.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když umístíte kurzor myši na jednu z ikon, zobrazí se její funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Arrange icons</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;20 &lt;/seq0&gt;: Uspořádat ikony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When moving an object or changing its size, check the information area of the Status bar at the bottom of the Draw window (Figure &lt;t0&gt;21&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při přesunu objektu nebo změně jeho velikosti zkontrolujte informační oblast na stavovém řádku ve spodní části okna Kreslení (Obrázek &lt;t0&gt;21 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From left to right, it shows what object is selected, its position on the drawing in X/Y coordinates and dimensions of the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zleva doprava ukazuje, který objekt je vybrán, jeho polohu na výkresu v souřadnicích X / Y a rozměry objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on moving and adjusting object size, see &lt;f0&gt;Chapter 3, Working with Objects and Object Points&lt;/f0&gt; in the &lt;f1&gt;Draw Guide&lt;/f1&gt;&lt;f2&gt;.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o přesunu a úpravě velikosti objektu naleznete v &lt;f0&gt;Kapitola 3, Práce s objekty a body objektů&lt;/f0&gt; v &lt;f1&gt;Průvodci kreslením&lt;/f1&gt;&lt;f2&gt;. &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Left end of status bar when moving or adjusting an object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;21 &lt;/seq0&gt;: Levý konec stavového řádku při pohybu nebo úpravě objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During movement, a ghost image of the object appears to help with repositioning (Figure &lt;t0&gt;22&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Během pohybu se objeví obraz ducha objektu, který pomáhá s přemístěním (obrázek &lt;t0&gt;22 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Moving an object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;22 &lt;/seq0&gt;: Přesun objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As you change the size of the object, a ghosted outline of the object appears (Figure &lt;t0&gt;23&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když změníte velikost objektu, objeví se obrys ducha (obrázek &lt;t0&gt;23 &lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To resize an object along one axis, use a side, top, or bottom handle.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit velikost objektu podél jedné osy, použijte boční, horní nebo dolní úchyt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Adjusting object size</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;23 &lt;/seq0&gt;: Nastavení velikosti objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, if &lt;f1&gt;When creating or moving objects&lt;/f1&gt; has been selected in the Constrain Objects section of&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f3&gt;, the action of the &lt;f4&gt;Shift&lt;/f4&gt; key is reversed and the aspect ratio will be preserved &lt;f5&gt;unless&lt;/f5&gt; the &lt;f6&gt;Shift&lt;/f6&gt; key is pressed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud však byl v sekci Omezení objektů v &lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;Nástroje&gt; Možnosti&gt; Kreslení LibreOffice&gt; Mřížka&lt;/f3&gt; vybrán &lt;f1&gt;Při vytváření nebo přesunu objektů &lt;/f1&gt;, akce klávesa &lt;f4&gt;Shift&lt;/f4&gt; je obrácena a poměr stran bude zachován &lt;f5&gt;, dokud nebude stisknuta klávesa &lt;f6&gt;Shift &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To edit an object or change attributes such as color or border width, you can use the &lt;f0&gt;Properties&lt;/f0&gt; deck in the Sidebar or display and use the &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar or the &lt;f2&gt;Text Formatting&lt;/f2&gt; toolbar, or right-click on an object to pop up a context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li upravit objekt nebo změnit atributy, jako je barva nebo šířka ohraničení, můžete použít panel &lt;f0&gt;Vlastnosti&lt;/f0&gt; na postranním panelu nebo zobrazit a použít panel nástrojů &lt;f1&gt;Řádek a výplň&lt;/f1&gt; nebo &lt;f2 &gt;Panel nástrojů Formátování textu&lt;/f2&gt; nebo klepnutím pravým tlačítkem myši na objekt zobrazíte místní nabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The functions are similar to those described for creating objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce jsou podobné těm, které jsou popsány pro vytváření objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on editing objects and changing attributes, see &lt;f3&gt;Chapter 4, Changing Object Attributes&lt;/f3&gt; in the &lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o úpravách objektů a změně atributů naleznete v &lt;f3&gt;Kapitola 4, Změna atributů objektů&lt;/f3&gt; v &lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;f5&gt;. &lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select an object in your drawing, the sections in the &lt;f0&gt;Properties&lt;/f0&gt; deck of the Sidebar become active.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když vyberete objekt ve výkresu, aktivují se sekce v balíčku &lt;f0&gt;Vlastnosti&lt;/f0&gt; postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the properties or options of an object without having to open a dialog or use any of the toolbars provided by Draw.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete změnit vlastnosti nebo možnosti objektu, aniž byste museli otevírat dialogové okno, nebo použít jakýkoli panel nástrojů, který nabízí Draw.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To expand a section, click on the arrow (^) sign next to the title of the section.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li rozbalit sekci, klikněte na znaménko se šipkou (^) vedle názvu sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In LibreOffice the term &lt;f0&gt;line&lt;/f0&gt; applies to a freestanding segment (line), the outer edge of a shape (border), or an arrow.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V LibreOffice se termín &lt;f0&gt;čára&lt;/f0&gt; vztahuje na volně stojící segment (čáru), vnější okraj tvaru (ohraničení) nebo šipku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In most cases the properties of the line you can modify are its style (solid, dashed, invisible, and so on), its width, and its color.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve většině případů jsou vlastnosti čáry, kterou můžete upravit, její styl (plná, přerušovaná, neviditelná atd.), Její šířka a barva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the line you need to format and then use the controls on the &lt;f0&gt;Line&lt;/f0&gt; section in the Sidebar to change the most common options (Figure &lt;f1&gt;&lt;t2&gt;24&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte řádek, který potřebujete naformátovat, a poté pomocí ovládacích prvků v části &lt;f0&gt;Řádek&lt;/f0&gt; na postranním panelu změňte nejběžnější možnosti (Obrázek &lt;f1&gt;&lt;t2&gt;24&lt;/t2&gt;&lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you need to fine tune the appearance of a line, choose &lt;f0&gt;Format &gt; Line&lt;/f0&gt; from the Menu bar, or right-click on the line and select &lt;f1&gt;Line&lt;/f1&gt; from the context menu, or select the &lt;f2&gt;More Options&lt;/f2&gt; icon on the right of the section title in the Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud potřebujete doladit vzhled čáry, zvolte &lt;f0&gt;Formát&gt; Řádek&lt;/f0&gt; na liště nabídky nebo klikněte pravým tlačítkem na řádek a z kontextové nabídky vyberte &lt;f1&gt;Řádek &lt;/f1&gt;, nebo vyberte ikonu &lt;f2&gt;Další možnosti&lt;/f2&gt; napravo od názvu sekce na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All of these methods open the &lt;f3&gt;Line&lt;/f3&gt; dialog (Figure &lt;f4&gt;&lt;t5&gt;25&lt;/t5&gt;&lt;/f4&gt;), where you can set line properties.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechny tyto metody otevírají dialog &lt;f3&gt;Řádek&lt;/f3&gt; (obrázek &lt;f4&gt;&lt;t5&gt;25&lt;/t5&gt;&lt;/f4&gt;), kde můžete nastavit vlastnosti čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This dialog contains three pages: &lt;f6&gt;Line&lt;/f6&gt;, &lt;f7&gt;Line Styles&lt;/f7&gt;, and &lt;f8&gt;Arrow Styles&lt;/f8&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento dialog obsahuje tři stránky: &lt;f6&gt;Čára &lt;/f6&gt;, &lt;f7&gt;Styly čar&lt;/f7&gt; a &lt;f8&gt;Styly šipek &lt;/f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arrows, arrowheads, and other line endings are usually referred to as arrows and can be treated the same as lines when editing and changing attributes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šipky, šipky a další konce řádků se obvykle označují jako šipky a při úpravě a změně atributů se s nimi může zacházet stejně jako s linkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each end of a line can have a different arrowhead or no arrowhead.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý konec řádku může mít jinou šipku nebo žádnou šipku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Line section in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;24 &lt;/seq0&gt;: Řádek v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Line dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;25 &lt;/seq0&gt;: Linkový dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The term &lt;f0&gt;area fill&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;refers to the inside of an object, which can be a uniform color, gradient, hatching, pattern, or bitmap.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Termín &lt;f0&gt;vyplnění oblasti&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; se týká vnitřku objektu, což může být jednotná barva, gradient, šrafování, vzor nebo bitmapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In most cases, you will choose one of the standard area fill options, which are all available in the &lt;f2&gt;Area&lt;/f2&gt; section of the &lt;f3&gt;Properties&lt;/f3&gt; deck on the Sidebar or from the &lt;f4&gt;Line and Filling&lt;/f4&gt; toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve většině případů si vyberete jednu ze standardních možností vyplnění oblasti, které jsou všechny dostupné v sekci &lt;f2&gt;Oblast&lt;/f2&gt; v balíčku &lt;f3&gt;Vlastnosti&lt;/f3&gt; na postranním panelu nebo z &lt;f4&gt;Lišta a výplň &lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on area, see &lt;f5&gt;Chapter 4, Changing Object Attributes&lt;/f5&gt; in the &lt;f6&gt;Draw Guide&lt;/f6&gt;&lt;f7&gt;.&lt;/f7&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o oblasti naleznete v &lt;f5&gt;Kapitola 4, Změna atributů objektů&lt;/f5&gt; v &lt;f6&gt;Draw Guide&lt;/f6&gt;&lt;f7&gt;. &lt;/f7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Area section in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;26 &lt;/seq0&gt;: Oblast v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Styles allow you to define a set of formats (a style) and then apply that set of formats to multiple objects with one click.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Styly vám umožňují definovat sadu formátů (styl) a pak použít tuto sadu formátů na více objektů jediným kliknutím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Draw, you can define several styles for different types of lines, shapes, and text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V části Kreslit můžete definovat několik stylů pro různé typy čar, tvarů a textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Styles deck in Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;27 &lt;/seq0&gt;: Balíček stylů v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on styles, see &lt;f0&gt;Chapter 3, Using Styles and Templates&lt;/f0&gt; in this guide; &lt;f1&gt;Chapter 8, Introduction to Styles&lt;/f1&gt; in the &lt;f2&gt;Writer Guide&lt;/f2&gt;&lt;f3&gt;; &lt;/f3&gt;and &lt;f4&gt;Chapter 4, Changing Object Attributes&lt;/f4&gt; in the &lt;f5&gt;Draw Guide&lt;/f5&gt;&lt;f6&gt;.&lt;/f6&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o stylech naleznete v &lt;f0&gt;Kapitola 3, Používání stylů a šablon&lt;/f0&gt; v této příručce; &lt;f1&gt;Kapitola 8, Úvod do stylů&lt;/f1&gt; v &lt;f2&gt;Příručce pro spisovatele&lt;/f2&gt;&lt;f3&gt;;&lt;/f3&gt; a &lt;f4&gt;Kapitola 4, Změna atributů objektů&lt;/f4&gt; v &lt;f5&gt;Draw Guide&lt;/f5&gt;&lt;f6&gt;. &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The snap function is easier to work with at the highest zoom values that are practical for your display.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>S funkcí snap je snadnější pracovat s nejvyššími hodnotami zoomu, které jsou praktické pro váš displej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more detailed information about the snap function, see &lt;f0&gt;Chapter 3, Working with Objects and Object Points&lt;/f0&gt; and &lt;f1&gt;Chapter 11, Advanced Draw Techniques&lt;/f1&gt; in the &lt;f2&gt;Draw Guide&lt;/f2&gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější informace o funkci přichycení naleznete v &lt;f0&gt;Kapitola 3, Práce s objekty a body objektů&lt;/f0&gt; a &lt;f1&gt;Kapitola 11, Pokročilé techniky kreslení&lt;/f1&gt; v &lt;f2&gt;Průvodci kreslení&lt;/f2 &gt;&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Snap &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;to grid&lt;/f2&gt; to position an object to a grid point.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí &lt;f0&gt;Snap &lt;/f0&gt;&lt;i1/&gt;&lt;f2&gt;můžete mřížku&lt;/f2&gt; umístit objekt do bodu mřížky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f3&gt;View &gt; Snap Guides &gt; Snap to Grid&lt;/f3&gt; on the Main menu bar or click on the &lt;f4&gt;Snap to Grid&lt;/f4&gt; icon on the &lt;f5&gt;Options&lt;/f5&gt; toolbar (Figure &lt;f6&gt;&lt;t7&gt;28&lt;/t7&gt;&lt;/f6&gt;) to turn on or off the snap to grid function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f3&gt;Zobrazit&gt; Průvodci přichycením&gt; Přichytit k mřížce&lt;/f3&gt; na hlavním panelu nebo klikněte na ikonu &lt;f4&gt;Přichytit k mřížce&lt;/f4&gt; na panelu nástrojů &lt;f5&gt;Možnosti&lt;/f5&gt; (obrázek) &lt;f6&gt;&lt;t7&gt;28&lt;/t7&gt;&lt;/f6&gt;) pro zapnutí nebo vypnutí funkce snap to grid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the &lt;f8&gt;Options&lt;/f8&gt; toolbar is not visible, you can go to &lt;f9&gt;View &gt; Toolbars &gt; Options&lt;/f9&gt; on the Main menu bar to display it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud není panel nástrojů &lt;f8&gt;Možnosti&lt;/f8&gt; viditelný, můžete jej zobrazit na &lt;f9&gt;Zobrazit&gt; Panely nástrojů&gt; Možnosti&lt;/f9&gt; na hlavním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Options toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;28 &lt;/seq0&gt;: Panel nástrojů Možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Configuring the grid</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;29 &lt;/seq0&gt;: Konfigurace mřížky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To display the grid in Draw or to switch off the grid, go to &lt;f0&gt;View &gt; Grid and Helplines &gt; Display Grid&lt;/f0&gt; on the Main menu bar or click the &lt;f1&gt;Display Grid&lt;/f1&gt; icon on the &lt;f2&gt;Options&lt;/f2&gt; toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit mřížku v aplikaci Draw nebo vypnout mřížku, přejděte na &lt;f0&gt;Zobrazit&gt; Mřížka a linky pomoci&gt; Zobrazit mřížku&lt;/f0&gt; na hlavním panelu nabídky nebo klikněte na ikonu &lt;f1&gt;Zobrazit mřížku&lt;/f1&gt; na Panel nástrojů &lt;f2&gt;Možnosti &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The resolution, snap, and snap position of the grid points can be configured.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozlišení, zaklapnutí a zaklapnutí bodů mřížky lze nakonfigurovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f0&gt; on the Main menu bar to open the &lt;f1&gt;Options&lt;/f1&gt; dialog for the grid (Figure &lt;f2&gt;&lt;t3&gt;29&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Nástroje&gt; Možnosti&gt; Kreslení LibreOffice&gt; Mřížka&lt;/f0&gt; na hlavním panelu a otevřete dialogové okno &lt;f1&gt;Možnosti&lt;/f1&gt; pro mřížku (obrázek &lt;f2&gt;&lt;t3&gt; 29&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, if the resolution is 1 cm horizontal and 2 cm vertical, the grid consists of rectangles 2 cm high and 1 cm wide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například pokud je rozlišení 1 cm horizontální a 2 cm vertikální, mřížka se skládá z obdélníků 2 cm vysokých a 1 cm širokých.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Objects can snap to subdivisions as well as to the corners of the grid.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Objekty se mohou přichytávat k podoblastem i do rohů mřížky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the color of the grid points, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f0&gt; on the Main menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit barvu bodů mřížky, přejděte na &lt;f0&gt;Nástroje&gt; Možnosti&gt; LibreOffice&gt; Barvy aplikací&lt;/f0&gt; na hlavním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw has help lines to help you to position an object using the rulers at the top and left side of the workspace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kreslení obsahuje nápovědy, které vám pomohou umístit objekt pomocí pravítek na horní a levé straně pracovního prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To turn on or off the help lines, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; View&lt;/f0&gt; on the Main menu bar and select &lt;f1&gt;Helplines while moving&lt;/f1&gt; or go to the &lt;f2&gt;Options&lt;/f2&gt; toolbar and click the &lt;f3&gt;Helplines While Moving&lt;/f3&gt; icon.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zapnout nebo vypnout linky nápovědy, přejděte na &lt;f0&gt;Nástroje&gt; Možnosti&gt; Kreslení LibreOffice&gt; Zobrazit&lt;/f0&gt; na hlavní liště a vyberte &lt;f1&gt;Helplines při pohybu&lt;/f1&gt; nebo přejděte na &lt;f2&gt;Možnosti&lt;/f2&gt; a klikněte na ikonu &lt;f3&gt;Helplines When Moving &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on special effects, see &lt;f0&gt;Chapter 3, Working with Objects and Object Points&lt;/f0&gt; and &lt;f1&gt;Chapter 4, Changing Object Attributes&lt;/f1&gt;&lt;f2&gt; in the &lt;/f2&gt;&lt;f3&gt;Draw Guide&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o speciálních efektech naleznete v &lt;f0&gt;Kapitola 3, Práce s objekty a body objektů&lt;/f0&gt; a &lt;f1&gt;Kapitola 4, Změna atributů objektů&lt;/f1&gt;&lt;f2&gt;v&lt;/f2&gt;&lt;f3&gt;Průvodce kreslením&lt;/f3&gt;&lt;f4&gt;.&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To access the tools used for special effects, go to &lt;f0&gt;View &gt; Toolbars &gt; Transformations&lt;/f0&gt; (Figure &lt;f1&gt;&lt;t2&gt;30&lt;/t2&gt;&lt;/f1&gt;) &lt;f3&gt;or go to&lt;/f3&gt; &lt;f4&gt;Shapes &gt; Transformations&lt;/f4&gt; on the Main menu bar, or &lt;f5&gt;Transformations&lt;/f5&gt; on the Standard toolbar, or right-click on the object and use the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li získat přístup k nástrojům používaným pro speciální efekty, přejděte na &lt;f0&gt;Zobrazit&gt; Panely nástrojů&gt; Transformace&lt;/f0&gt; (obrázek &lt;f1&gt;&lt;t2&gt;30&lt;/t2&gt;&lt;/f1&gt;) &lt;f3&gt;nebo přejděte na&lt;/f3 &gt;&lt;f4&gt;Tvary&gt; Transformace&lt;/f4&gt; na hlavním panelu nabídky nebo &lt;f5&gt;Transformace&lt;/f5&gt; na panelu nástrojů Standardní, nebo klepněte pravým tlačítkem myši na objekt a použijte místní nabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;30&lt;/seq0&gt;: Transformations toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;30 &lt;/seq0&gt;: Panel nástrojů Transformace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To rotate or slant an object (or a group of objects), select the object, then go to rotation mode:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li objekt (nebo skupinu objektů) otočit nebo naklonit, vyberte objekt a přejděte do režimu rotace:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the object or group and select &lt;f0&gt;Transformations &gt; Rotate&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na objekt nebo skupinu a vyberte &lt;f0&gt;Transformace&gt; Otočit &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the arrow next to the &lt;f0&gt;Transformations&lt;/f0&gt; icon on the Standard toolbar, then select &lt;f1&gt;Rotate&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na šipku vedle ikony &lt;f0&gt;Transformace&lt;/f0&gt; na panelu nástrojů Standardní a vyberte možnost &lt;f1&gt;Otočit &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Rotation&lt;/f0&gt; icon on the &lt;f1&gt;Transformations&lt;/f1&gt; toolbar (Figure &lt;f2&gt;&lt;t3&gt;30&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Rotace&lt;/f0&gt; na panelu nástrojů &lt;f1&gt;Transformace&lt;/f1&gt; (obrázek &lt;f2&gt;&lt;t3&gt;30&lt;/t3&gt;&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The selection handles will change shape and color (Figure &lt;t0&gt;31&lt;/t0&gt;) and a rotation point will appear in the center of the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úchyty výběru změní tvar a barvu (obrázek &lt;t0&gt;31 &lt;/t0&gt;) a ve středu objektu se objeví bod rotace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As you move the mouse cursor over the handles, the cursor changes shape.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při pohybu kurzoru myši nad úchyty změní kurzor tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The corner handles are for rotating an object and the top, bottom, and side handles are to slant an object).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rohové úchyty slouží k otáčení objektu a horní, spodní a boční úchyty mají sklonit předmět).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;31&lt;/seq0&gt;: Rotating an object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;31 &lt;/seq0&gt;: Otočení objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you press the &lt;f0&gt;Shift&lt;/f0&gt; key while rotating or slanting an object, movement will be restricted to 15° of movement.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud stisknete klávesu &lt;f0&gt;Shift&lt;/f0&gt; během otáčení nebo naklonění objektu, pohyb bude omezen na 15 ° pohybu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;This is the default behavior of the &lt;/f0&gt;&lt;f1&gt;Shift&lt;/f1&gt;&lt;f2&gt; key.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Toto je výchozí chování klávesy &lt;/f0&gt;&lt;f1&gt;Shift&lt;/f1&gt;&lt;f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, if &lt;/f2&gt;&lt;f3&gt;When creating or moving objects&lt;/f3&gt;&lt;f4&gt; has been selected in the Constrain Objects section of &lt;/f4&gt;&lt;f5&gt;Tools &gt; Options &gt; LibreOffice Draw &gt; Grid&lt;/f5&gt;&lt;f6&gt;, the action of the &lt;/f6&gt;&lt;f7&gt;Shift&lt;/f7&gt;&lt;f8&gt; key is reversed and rotation or slanting will be restricted to 15° of movement unless the &lt;/f8&gt;&lt;f9&gt;Shift&lt;/f9&gt;&lt;f10&gt; key is pressed.&lt;/f10&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud však byl v sekci Omezit objekty&lt;/f4&gt;&lt;f5&gt;Nástroje&gt; Možnosti&gt; Kreslení LibreOffice&gt; Mřížka&lt;/f5&gt; vybrán&lt;/f2&gt;&lt;f3&gt;Při vytváření nebo přesunu objektů&lt;/f3&gt;&lt;f4&gt;&lt;f6&gt;, akce klávesy &lt;/f6&gt;&lt;f7&gt;Shift&lt;/f7&gt;&lt;f8&gt;je obrácena a rotace nebo šikmost bude omezena na 15 ° pohybu, pokud není&lt;/f8&gt;&lt;f9&gt;Shift&lt;/f9&gt;&lt;f10&gt;stisknuto.&lt;/f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotation works differently for 3D objects because rotation occurs around global axes and not around a single axis.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rotace funguje pro 3D objekty jinak, protože k rotaci dochází kolem globálních os a ne kolem jediné osy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see &lt;f0&gt;Chapter 7, Working with 3D Objects&lt;/f0&gt; in the &lt;f1&gt;Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace viz &lt;f0&gt;Kapitola 7, Práce s 3D objekty&lt;/f0&gt; v &lt;f1&gt;Průvodci kreslení &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To slant a selected object, use the handles located at the midpoints on the top, bottom and sides of the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybraný objekt naklonit, použijte úchyty umístěné ve středu nahoře, dole a po stranách objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click and hold the mouse button, then move the cursor to slant the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte a podržte tlačítko myši a potom pohybem kurzoru nakloňte objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A ghost image of the object being slanted appears (Figure &lt;t0&gt;32&lt;/t0&gt;) and the current angle of slant is shown in the status bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Objeví se duchový obraz šikmého objektu (obrázek &lt;t0&gt;32 &lt;/t0&gt;) a ve stavovém řádku se zobrazí aktuální úhel sklonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;32&lt;/seq0&gt;: Slanting an object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;32 &lt;/seq0&gt;: Naklonění objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click and select &lt;f0&gt;Flip &gt; Vertically&lt;/f0&gt; or &lt;f1&gt;Horizontally&lt;/f1&gt;, or go to &lt;f2&gt;Shape &gt; Flip &gt; Vertically&lt;/f2&gt; or &lt;f3&gt;Horizontally&lt;/f3&gt; on the Menu bar, or click on the &lt;f4&gt;Vertically&lt;/f4&gt; or &lt;f5&gt;Horizontally&lt;/f5&gt; icon on the &lt;f6&gt;Line and Filling&lt;/f6&gt; toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte možnost &lt;f0&gt;Převrátit&gt; svisle&lt;/f0&gt; nebo &lt;f1&gt;vodorovně&lt;/f1&gt; nebo přejděte na &lt;f2&gt;Tvar&gt; Převrátit&gt; svisle&lt;/f2&gt; nebo &lt;f3&gt;vodorovně&lt;/f3&gt; na liště nabídky nebo klikněte na ikonu &lt;f4&gt;vertikálně&lt;/f4&gt; nebo &lt;f5&gt;vodorovně&lt;/f5&gt; na panelu nástrojů &lt;f6&gt;Řádek a výplň &lt;/f6&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, the &lt;f0&gt;Flip&lt;/f0&gt; tool on the &lt;f1&gt;Transformations&lt;/f1&gt; toolbar provides greater control over the flipping process.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroj &lt;f0&gt;Převrátit&lt;/f0&gt; na panelu nástrojů &lt;f1&gt;Transformace&lt;/f1&gt; však poskytuje větší kontrolu nad procesem převracení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use the &lt;f2&gt;Flip&lt;/f2&gt; tool to change the position and angle that the object flips over, as described in &lt;f3&gt;Chapter 4, Changing Object Attributes&lt;/f3&gt; in the &lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí nástroje &lt;f2&gt;Převrátit&lt;/f2&gt; můžete změnit polohu a úhel, na který se objekt převrátí, jak je popsáno v &lt;f3&gt;Kapitola 4, Změna atributů objektu&lt;/f3&gt; v &lt;f4&gt;Průvodce kreslením&lt;/f4&gt;&lt;f5&gt;.&lt;/f5&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Three tools on the &lt;f0&gt;Transformations&lt;/f0&gt; toolbar let you drag the corners and edges of an object to distort the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tři nástroje na panelu nástrojů &lt;f0&gt;Transformace&lt;/f0&gt; umožňují přetáhnout rohy a hrany objektu a zkreslit obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Distort&lt;/f0&gt; tool distorts an object in perspective.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroj &lt;f0&gt;Deformovat&lt;/f0&gt; zkresluje objekt v perspektivě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Set in Circle (perspective)&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;creates a pseudo three-dimensional effect.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nastavit v kruhu (perspektiva)&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; vytváří pseudo trojrozměrný efekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Set to Circle (slant)&lt;/f0&gt; creates a pseudo three-dimensional effect.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nastavit na kruh (šikmo)&lt;/f0&gt; vytváří pseudo trojrozměrný efekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Despite the (slant) in the name of this tool, it operates differently to the slanting created by the &lt;f1&gt;Rotate&lt;/f1&gt; tool.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přes (šikmé) v názvu tohoto nástroje funguje jinak než šikmé vytvořené pomocí nástroje &lt;f1&gt;Rotate &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;f1&gt;Chapter 4, Changing Object Attributes&lt;/f1&gt; in the &lt;f2&gt;Draw Guide&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;for more information on how to distort an object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f1&gt;Kapitola 4, Změna atributů objektů&lt;/f1&gt; v &lt;f2&gt;Draw Guide&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;, kde najdete další informace o tom, jak zkreslit objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Interactive Transparency&lt;/f0&gt; and &lt;f1&gt;Interactive Gradient&lt;/f1&gt; tools on the &lt;f2&gt;Transformations&lt;/f2&gt; toolbar dynamically control transparency and color gradients.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje &lt;f0&gt;Interaktivní průhlednost&lt;/f0&gt; a &lt;f1&gt;Interaktivní přechod&lt;/f1&gt; na panelu nástrojů &lt;f2&gt;Transformace&lt;/f2&gt; dynamicky řídí průhlednost a barevné přechody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;f3&gt;Chapter 4, Changing Object Attributes&lt;/f3&gt; in the &lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;for more information on how to create transparencies and gradients in an object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f3&gt;Kapitola 4, Změna atributů objektu&lt;/f3&gt; v &lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;, kde najdete další informace o tom, jak vytvořit průhlednosti a přechody v objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on an object or group of objects and go to &lt;f0&gt;Edit &gt; Duplicate&lt;/f0&gt; or &lt;f1&gt;Shape &gt; Duplicate&lt;/f1&gt; on the Menu bar, or press &lt;f2&gt;Shift+F3&lt;/f2&gt;, to open the &lt;f3&gt;Duplicate&lt;/f3&gt; dialog (Figure &lt;t4&gt;33&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na objekt nebo skupinu objektů a přejděte na &lt;f0&gt;Úpravy&gt; Duplikovat&lt;/f0&gt; nebo &lt;f1&gt;Tvar&gt; Duplikovat&lt;/f1&gt; na liště nabídky nebo stiskněte &lt;f2&gt;Shift + F3 &lt;/f2&gt;, otevřete dialog &lt;f3&gt;Duplikovat&lt;/f3&gt; (Obrázek &lt;t4&gt;33 &lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, when the options in the dialog are applied to a rectangle, they produce the result shown in Figure &lt;t0&gt;34&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například když jsou možnosti v dialogu použity na obdélník, vytvoří výsledek zobrazený na obrázku &lt;t0&gt;34 &lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Cross-fading&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Cross-fading&lt;/f1&gt; dialog (Figure &lt;t2&gt;35&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Shape&gt; Cross-fading&lt;/f0&gt; na panelu nabídek a otevřete dialog &lt;f1&gt;Cross-fading&lt;/f1&gt; (obrázek &lt;t2&gt;35 &lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and the result is a new group of objects with the first object selected as the start object and the second object selected as the end object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; a výsledkem je nová skupina objektů, přičemž první objekt byl vybrán jako počáteční objekt a druhý objekt byl vybrán jako koncový objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, when the options in the dialog are applied to a rectangle and a triangle, the cross fade produces the result shown in Figure &lt;t1&gt;36&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například když jsou možnosti v dialogu použity na obdélník a trojúhelník, zesílení kříže vytvoří výsledek znázorněný na obrázku &lt;t1&gt;36 &lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;33&lt;/seq0&gt;: Duplicate dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;33 &lt;/seq0&gt;: Duplicitní dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;34&lt;/seq0&gt;: Duplication result</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;34 &lt;/seq0&gt;: Výsledek duplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;35&lt;/seq0&gt;: Cross-fading dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;35 &lt;/seq0&gt;: Dialog prolnutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;36&lt;/seq0&gt;: Cross-fading result</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;36 &lt;/seq0&gt;: Výsledek křížového vyblednutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see &lt;f0&gt;Chapter 5, Combining Multiple Objects&lt;/f0&gt; in the &lt;f1&gt;Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace viz &lt;f0&gt;Kapitola 5, Kombinace více objektů&lt;/f0&gt; v &lt;f1&gt;Draw Guide &lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A group can always be undone (ungroup) and the objects that make up the group can always be manipulated separately.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Skupinu lze vždy vrátit zpět (seskupit) a objekty, které tvoří skupinu, lze vždy manipulovat samostatně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A &lt;i0/&gt;temporary grouping is when several objects are selected using the &lt;f1&gt;Select&lt;/f1&gt; icon on the Drawing toolbar or using the mouse to drag a rectangle (also known as a marquee) around the objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dočasné seskupení &lt;i0 /&gt; je, když je vybráno několik objektů pomocí ikony &lt;f1&gt;Vybrat&lt;/f1&gt; na panelu nástrojů Kreslení nebo pomocí myši přetahovat kolem objektů obdélník (známý také jako rámeček).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A permanent grouping of objects can be created after you have selected your objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po výběru objektů lze vytvořit trvalé seskupení objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Shape &gt; Group &gt; Group&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;on the Main menu bar, or right-click on the selection and select &lt;f2&gt;Group&lt;/f2&gt; from the context menu, or use the keyboard shortcut &lt;f3&gt;Ctrl+Shift+G&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Tvar&gt; Skupina&gt; Skupina&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; na hlavním menu nebo klikněte pravým tlačítkem myši na výběr a v kontextové nabídce vyberte &lt;f2&gt;Skupina&lt;/f2&gt; nebo použijte klávesovou zkratku &lt;f3&gt;Ctrl + Shift + G &lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you deselect your selection, the objects remain grouped together.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když zrušíte výběr, objekty zůstanou seskupeny dohromady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the group and go to &lt;f0&gt;Shape &gt; Group &gt; Enter Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Enter Group&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;F3&lt;/f2&gt;, or double-click on the group.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte skupinu a přejděte na &lt;f0&gt;Tvar&gt; Skupina&gt; Zadat skupinu&lt;/f0&gt; nebo klepněte pravým tlačítkem a vyberte &lt;f1&gt;Zadat skupinu&lt;/f1&gt; z kontextové nabídky, nebo použijte klávesovou zkratku &lt;f2&gt;F3&lt;/f2&gt; nebo dvakrát klikněte na skupinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you have finished editing an individual member of a group, go to &lt;f0&gt;Shape &gt; Group &gt; Exit Group&lt;/f0&gt;, or right-click and select &lt;f1&gt;Exit Group&lt;/f1&gt;, or use the keyboard shortcut &lt;f2&gt;Shift+F3&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po dokončení úprav jednotlivého člena skupiny přejděte na &lt;f0&gt;Tvar&gt; Skupina&gt; Ukončit skupinu&lt;/f0&gt; nebo klikněte pravým tlačítkem a vyberte &lt;f1&gt;Ukončit skupinu&lt;/f1&gt; nebo použijte klávesovou zkratku &lt; f2&gt;Shift + F3 &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To ungroup or break apart a group of objects, select the group then go to &lt;f0&gt;Shape &gt; Group &gt; Ungroup&lt;/f0&gt; on the Menu bar, or right-click and select &lt;f1&gt;Ungroup&lt;/f1&gt; from the context menu or use the keyboard shortcut &lt;f2&gt;Ctrl+Alt+Shift+G&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li rozdělit nebo rozdělit skupinu objektů, vyberte skupinu a na panelu nabídek přejděte na &lt;f0&gt;Tvar&gt; Skupina&gt; Oddělit&lt;/f0&gt; nebo klikněte pravým tlačítkem a vyberte z kontextu &lt;f1&gt;Oddělit &lt;/f1&gt;. nebo použijte klávesovou zkratku &lt;f2&gt;Ctrl + Alt + Shift + G &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select several objects, then go to &lt;f0&gt;Shape &gt; Combine&lt;/f0&gt; on the Main menu bar, or right-click on the objects and select &lt;f1&gt;Shapes &gt; Combine&lt;/f1&gt; from the context menu, or use the keyboard shortcut &lt;f2&gt;Ctrl+Shift+K&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte několik objektů a potom přejděte na &lt;f0&gt;Tvar&gt; Kombinovat&lt;/f0&gt; na hlavním panelu nabídky, nebo klepněte pravým tlačítkem myši na objekty a vyberte &lt;f1&gt;Tvary&gt; Kombinovat&lt;/f1&gt; z místní nabídky, nebo použijte klávesová zkratka &lt;f2&gt;Ctrl + Shift + K &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;f3&gt;Chapter 5, Combining Multiple Objects&lt;/f3&gt; in the &lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;f5&gt; &lt;/f5&gt;for more information on these functions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o těchto funkcích naleznete v &lt;f3&gt;Kapitola 5, Kombinace více objektů&lt;/f3&gt; v &lt;f4&gt;Draw Guide&lt;/f4&gt;&lt;f5&gt;&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Draw you can arrange, align, and distribute selected objects in relation to each other:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V aplikaci Draw můžete uspořádat, zarovnat a distribuovat vybrané objekty ve vztahu k sobě navzájem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align objects with respect to each other using &lt;f0&gt;Left&lt;/f0&gt;, &lt;f1&gt;Centered&lt;/f1&gt;, or &lt;f2&gt;Right&lt;/f2&gt; for horizontal alignment and &lt;f3&gt;Top&lt;/f3&gt;, &lt;f4&gt;Center&lt;/f4&gt;, or &lt;f5&gt;Bottom&lt;/f5&gt; for vertical alignment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zarovnejte objekty vůči sobě navzájem pomocí &lt;f0&gt;doleva &lt;/f0&gt;, &lt;f1&gt;na střed&lt;/f1&gt; nebo &lt;f2&gt;vpravo&lt;/f2&gt; pro vodorovné zarovnání a &lt;f3&gt;nahoře &lt;/f3&gt;, &lt;f4 &gt;Střed&lt;/f4&gt; nebo &lt;f5&gt;Dolní&lt;/f5&gt; pro vertikální zarovnání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;f0&gt;Chapter 5, Combining Multiple Objects&lt;/f0&gt; in the &lt;f1&gt;Draw Guide&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;for more information on arranging and aligning objects in relation to each other.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f0&gt;Kapitola 5, Kombinace více objektů&lt;/f0&gt; v &lt;f1&gt;Průvodce kreslením&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;, kde najdete další informace o uspořádání a zarovnání objektů ve vztahu k sobě navzájem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw contains a number of functions for editing images (also called pictures, raster graphics, or bitmaps); for example, photos and scanned images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Draw obsahuje řadu funkcí pro úpravy obrázků (nazývaných také obrázky, rastrové grafiky nebo bitmapy); například fotografie a naskenované obrázky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This includes the import and export of images, &lt;i0/&gt;and &lt;i1/&gt;conversion from one image format to another.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To zahrnuje import a export obrázků, &lt;i0 /&gt; a &lt;i1 /&gt; převod z jednoho obrazového formátu do druhého.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw includes a large range of filters so that it can read and display several image file formats.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kreslení zahrnuje velké množství filtrů, takže dokáže číst a zobrazovat několik formátů obrazových souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It also includes several tools for working with images, but does not have the same functionality as specialized programs like GIMP or Adobe Photoshop.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obsahuje také několik nástrojů pro práci s obrázky, ale nemá stejnou funkčnost jako specializované programy jako GIMP nebo Adobe Photoshop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;f0&gt;Chapter 6, Editing Images&lt;/f0&gt; in the &lt;f1&gt;Draw Guide&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v části &lt;f0&gt;Kapitola 6, Úpravy obrázků&lt;/f0&gt; v &lt;f1&gt;Draw Guide&lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add images from several sources:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat obrázky z několika zdrojů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Directly from a scanner (&lt;f0&gt;Insert &gt; Media &gt; Scan&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přímo ze skeneru (&lt;f0&gt; Vložit&gt; Média&gt; Skenovat &lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Created by another program, including photographs from a digital camera (&lt;f0&gt;Insert &gt; Image&lt;/f0&gt;)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořeno jiným programem, včetně fotografií z digitálního fotoaparátu (&lt;f0&gt; Vložit&gt; Obrázek &lt;/f0&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Draw Gallery; see &lt;f0&gt;Chapter 11, Images and Graphics&lt;/f0&gt; in this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Galerie Draw; viz &lt;f0&gt;Kapitola 11, Obrázky a grafika&lt;/f0&gt; v této příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although Draw does not match the functionality of specialized drawing or image editing programs, it is capable of producing and editing very good 3D drawings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přestože Draw neodpovídá funkcím specializovaných programů pro kreslení nebo editaci obrázků, je schopen vytvářet a upravovat velmi dobré 3D kresby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can create a 3D object by selecting a 3D shape from the &lt;f0&gt;Shapes&lt;/f0&gt; deck in the Sidebar, or by converting a 2D object (right-click and choose &lt;f1&gt;Convert &gt; To 3D&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>3D objekt můžete vytvořit výběrem 3D tvaru z balíčku &lt;f0&gt;Shapes&lt;/f0&gt; na postranním panelu nebo převodem 2D objektu (klikněte pravým tlačítkem a vyberte &lt;f1&gt;Převést&gt; do 3D &lt;/f1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw also offers several methods of editing a 3D object, using the 3D Effects dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kreslení také nabízí několik metod úpravy 3D objektu pomocí dialogu 3D efekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See&lt;f0&gt; &lt;/f0&gt;&lt;f1&gt;Chapter 7, Working with 3D Objects&lt;/f1&gt; in the &lt;f2&gt;Draw Guide &lt;/f2&gt;for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace viz &lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;Kapitola 7, Práce s 3D objekty&lt;/f1&gt; v &lt;f2&gt;Draw Guide &lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draw saves images in the Open Document Format *.odg.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Draw ukládá obrázky ve formátu Open Document Format *.odg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To save an image or the entire Draw file in another format, use &lt;f0&gt;File &gt; Export&lt;/f0&gt; and select a format from the drop-down list.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li uložit obrázek nebo celý soubor Draw v jiném formátu, použijte &lt;f0&gt;Soubor&gt; Exportovat&lt;/f0&gt; a vyberte formát z rozevíracího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image formats that Draw can export and save to are listed in &lt;f1&gt;Appendix B, Open Source, Open Standards, OpenDocument&lt;/f1&gt; in this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrazové formáty, které může Draw exportovat a uložit, jsou uvedeny v &lt;f1&gt;Dodatku B, Open Source, Open Standards, OpenDocument&lt;/f1&gt; v této příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>PDF export from LibreOffice is described in &lt;f0&gt;Chapter 10, Printing, Exporting, Emailing, and Signing&lt;/f0&gt; in this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Export PDF z LibreOffice je popsán v &lt;f0&gt;kapitole 10, Tisk, export, e-mail a podpis&lt;/f0&gt; v této příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see &lt;f3&gt;Chapter 12, Creating HTML Files&lt;/f3&gt; in this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace viz &lt;f3&gt;Kapitola 12, Vytváření souborů HTML&lt;/f3&gt; v této příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can insert comments into your drawing in a similar process to the one used in Writer and Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Do výkresu můžete vkládat komentáře podobným způsobem, jaký se používá v programech Writer a Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; on the Main menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte na &lt;f0&gt;Vložit&gt; Komentář&lt;/f0&gt; na hlavním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A small box containing your initials appears in the upper left-hand corner of your drawing with a larger text box beside it (Figure &lt;t1&gt;37&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V levém horním rohu výkresu se objeví malé pole obsahující vaše iniciály a vedle něj je větší textové pole (obrázek &lt;t1&gt;37 &lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To show or hide the comment markers, go to &lt;f0&gt;View &gt; Comments&lt;/f0&gt; on the Main menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit nebo skrýt značky komentářů, přejděte na &lt;f0&gt;Zobrazit&gt; Komentáře&lt;/f0&gt; na hlavním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options &gt; User Data&lt;/f0&gt; to enter the name and initials you want to appear in the comment marker and in the Author field of the comment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejděte do &lt;f0&gt;Nástroje&gt; Možnosti&gt; Uživatelská data&lt;/f0&gt; a zadejte jméno a iniciály, které chcete zobrazit ve značce komentářů a do pole Autor komentáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;37&lt;/seq0&gt;: Inserting comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek &lt;seq0&gt;37 &lt;/seq0&gt;: Vložení komentářů</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
