@@ -1,4 +1,3 @@
-# Branch 'sk'
 ## Notice
 Branch 'sk' is used solely for translation of LibreOffice guides to Slovak (for some unkown reason processing of the Slovak part of the 'master' branch is in OmegaT very slow. Use 'master' for translation to other languages. **Do not merge the 'sk' branch with the 'master' branch**.
 
