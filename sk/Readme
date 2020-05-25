@@ -1,6 +1,6 @@
 Nachádzate sa v úložisku využívanom pri prekladaní príručiek LibreOffice do slovenčiny. Pri preklade používame CAT program OmegaT.
 
-Momentálne pripravujeme preklad príručky Začíname s LibreOffice 6.0.
+Momentálne prekladáme príručky Začíname s LibreOffice 6.4 a LibreOffice Online 6. 3.
 
 Ak sa chcete zapojiť, prihláste sa do skupiny https://groups.google.com/forum/#!forum/sk-libreoffice-guides
 
@@ -9,8 +9,10 @@ Preklad príručky Začíname s LibreOffice 4.2 je dostupný na adrese https://w
 Ako začať:
 1. Nainštalujte si program OmegaT so stránky http://omegat.org/
 2. V OmegaT zvoľte Project/Download team project
-3. Do poľa Repository Url vložte adresu https://github.com/LibreOffice/OmegaT/trunk/sk/LOGuides. Ak všetko beží, ako má, po chvíli sa pod týmto poľom objaví text "This is a subversion repository"
+3. Do poľa Repository Url vložte adresu https://github.com/LibreOffice/OmegaT/branches/sk/LOGuides. Ak všetko beží, ako má, po chvíli sa pod týmto poľom objaví text "This is a subversion repository"
 4. Zvoľte Local Folder a kliknite na OK.
 5. Zvoľte súbor na preklad a môžete začať. Niektoré vety už sú preložené na základe prekladovej pamäte, ktorá sa stiahla zo servera. 
+Upozornenie: Od mája 2020 sa na prekladanie do slovenčiny používa samostatná vetva Github úložiska 'sk': https://github.com/LibreOffice/OmegaT/tree/sk (OmegaT pracuje s túto vetvou neporovnateľne rýchlejšie ako s vetvou master). 
 
+Notice: Branch 'sk' is used for translation to Slovak. Do not merge it with master.
 
