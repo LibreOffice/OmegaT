@@ -15,7 +15,7 @@ Preklad príručky Začíname s LibreOffice 4.2 je dostupný na adrese https://w
 ## Ako začať
 1. Nainštalujte si program OmegaT so stránky http://omegat.org/
 1. V OmegaT zvoľte Project/Download team project
-1. Do poľa Repository Url vložte adresu https://github.com/LibreOffice/OmegaT/branches/sk/LOGuides. Ak všetko beží, ako má, po chvíli sa pod týmto poľom objaví text "This is a subversion repository"
+1. Do poľa Repository Url vložte adresu https://github.com/LibreOffice/OmegaT/branches/sk/sk/LOGuides. Ak všetko beží, ako má, po chvíli sa pod týmto poľom objaví text "This is a subversion repository"
 1. Zvoľte Local Folder a kliknite na OK.
 1. Zvoľte súbor na preklad a môžete začať. Niektoré vety už sú preložené na základe prekladovej pamäte, ktorá sa stiahla zo servera. 
 
