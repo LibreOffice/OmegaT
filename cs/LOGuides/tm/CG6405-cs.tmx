@@ -1,0 +1,2383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 5 Using Graphics in Calc&lt;segment 5854 ¶&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 5 Použití grafiky v programu Calc &lt;segment 5854 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Using LibreOffice’s drawing tools&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Použití nástrojů kreslení LibreOffice&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 5 Using Graphics in Calc&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;16 &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;Kapitola 5 Použití grafiky v programu Calc&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Chapter 5 Using Graphics in Calc&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Kapitola 5 Použití grafiky v programu Calc &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 5 Using Graphics in Calc&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt; | &lt;t1&gt;Kapitola 5 Použití grafiky v programu Calc&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; at &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;K dispozici je dokumentace pro LibreOffice &lt;/f0&gt;&lt;f1&gt; v &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt; https://documentation.libreoffice.org/en/ &lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 5 &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 5 &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using Graphics</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití grafiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book is adapted and updated from the &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;Calc Guide&lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kniha je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt; Průvodce kalkulačkou &lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;t0&gt;June&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed list, see the application Help and Appendix A (Keyboard Shortcuts) to this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější seznam najdete v nápovědě k aplikaci a v příloze A (Klávesové zkratky) této příručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;Q&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; + &lt;f1&gt;Q&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit / quit LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukončit / ukončit LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Sidebar’s Styles deck</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete balíček Styly postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding graphics (images) to a spreadsheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidání grafiky (obrázků) do tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Linking or embedding an image file</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Propojení nebo vložení obrazového souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modifying images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úprava obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;a0&gt;Using the Properties &lt;/a0&gt;&lt;a1&gt;deck&lt;/a1&gt;&lt;a2&gt; in the Sidebar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;a0&gt;Použití vlastností &lt;/a0&gt;&lt;a1&gt; paluba &lt;/a1&gt;&lt;a2&gt; v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Positioning, resizing, and arranging images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístění, změna velikosti a uspořádání obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the Position and Size dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí dialogu Poloha a velikost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arranging images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uspořádání obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anchoring images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukotvení obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Aligning images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zarovnání obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grouping and ungrouping images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Seskupování a seskupování obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Setting the properties of drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavení vlastností nakreslených objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resizing drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změna velikosti výkresových objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grouping and ungrouping drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Seskupení a zrušení seskupení kreslených objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional tools</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc is used to present and analyze data and to make forecasts and predictions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc se používá k prezentaci a analýze dat ak vytváření předpovědí a předpovědí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphics can turn an average spreadsheet into a more memorable document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Grafika může proměnit průměrnou tabulku v památnější dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc can import various vector (line drawing) and raster (bitmap or photo) file formats.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aplikace Calc může importovat různé formáty vektorových (kresba čar) a rastrových (bitmapových nebo fotografických) souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most commonly used graphic formats are GIF, JPG, and PNG.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejčastěji používané grafické formáty jsou GIF, JPG a PNG.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See LibreOffice Help for a full list of the formats that Calc can import.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úplný seznam formátů, které může Calc importovat, najdete v nápovědě LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphics in Calc are of three basic types:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Grafika v Calc je tří základních typů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image files, such as photographs, drawings, and scanned images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubory obrázků, jako jsou fotografie, kresby a naskenované obrázky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Charts and graphs created using LibreOffice’s Chart facility; see Chapter 3, Creating Charts and Graphs, for more information</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Grafy a grafy vytvořené pomocí nástroje LibreOffice&amp;#39;s Chart; Další informace viz Kapitola 3, Vytváření grafů a grafů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using graphics in Calc is similar to using graphics in other components of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití grafiky v programu Calc je podobné použití grafiky v jiných komponentách LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more detailed descriptions, please refer to the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; or the &lt;f1&gt;Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější popis naleznete v části &lt;f0&gt;Příručka Začínáme&lt;/f0&gt; nebo &lt;f1&gt;Nakreslete průvodce&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In LibreOffice, the terms &lt;f0&gt;graphics&lt;/f0&gt; and &lt;f1&gt;images&lt;/f1&gt; refer to both pictures and drawing objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V LibreOffice, podmínky &lt;f0&gt;grafika&lt;/f0&gt; a &lt;f1&gt;snímky&lt;/f1&gt; viz obrázky i kreslící objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Often the word images is used when referring to pictures and other graphics that are not drawing objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázky slov se často používají při odkazování na obrázky a jiné grafiky, které nejsou kreslícími objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Graphics or images (sometimes called pictures in LibreOffice), such as corporate logos and photographs, are probably the most common types of graphics added to a spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Grafika nebo obrázky (někdy nazývané obrázky v LibreOffice), jako jsou firemní loga a fotografie, jsou pravděpodobně nejčastějšími typy grafiky přidanými do tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They may be downloaded from the Internet, scanned, created with a graphics program, photographs taken with a digital camera, or clip art in the Gallery.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mohou být staženy z internetu, naskenovány, vytvořeny grafickým programem, fotografie pořízené digitálním fotoaparátem nebo klipartem v galerii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>embedding images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vkládání obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting from file</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vkládání ze souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>linking images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>propojení obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the image is in a file stored on the computer, you can insert it into a spreadsheet using one of the following methods.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je obrázek v souboru uloženém v počítači, můžete jej vložit do tabulky pomocí jedné z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag the image into the spreadsheet and drop it where you want it to appear.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přetáhněte obrázek do tabulky a umístěte jej tam, kde se má zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;bf1/&gt;&lt;bf2&gt;Linking or embedding an image file&lt;/bf2&gt;” on page &lt;bf3&gt;5&lt;/bf3&gt;&lt;s4/&gt;for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „ &lt;bf1/&gt;&lt;bf2&gt; Propojení nebo vložení obrazového souboru&lt;/bf2&gt; „ na stránce &lt;bf3&gt;5 &lt;/bf3&gt;&lt;s4/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click in the spreadsheet where you want the image to appear.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte do tabulky, kde se má obrázek zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Insert &gt; Image&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Vložit &gt; Obrázek&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Insert Image dialog (Figure &lt;t0&gt;1&lt;/t0&gt;), navigate to the file to be inserted, and select it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogu Vložit obrázek (obrázek 5) &lt;t0&gt;1&lt;/t0&gt;), přejděte na soubor, který chcete vložit, a vyberte jej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At the bottom of the dialog is an &lt;f0&gt;Insert as Link&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve spodní části dialogu je &lt;f0&gt;Vložit jako odkaz&lt;/f0&gt; volba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select it if you want to link the file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte jej, pokud chcete soubor propojit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The file is inserted into the spreadsheet and is anchored to the cell in which the cursor was placed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor je vložen do tabulky a je ukotven k buňce, ve které byl umístěn kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you have selected to link the image, Calc may present a confirmation dialog with options to continue with the link or to embed the image instead.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste se rozhodli pro propojení obrázku, Calc může předložit potvrzovací dialog s možnostmi pokračovat s odkazem nebo vložit obrázek místo toho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An option is provided on this dialog to prevent it being displayed in future.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V tomto dialogu je k dispozici možnost, jak zabránit jeho budoucímu zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>embedding and linking</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vkládání a propojení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Embedding an image into a spreadsheet makes the image a permanent part of the spreadsheet file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložením obrázku do tabulky se obrázek stane trvalou součástí souboru tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any changes you make to an embedded image will appear only in that spreadsheet; the original image will not be affected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakékoli změny vloženého obrázku se zobrazí pouze v této tabulce; původní obrázek nebude ovlivněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you select the &lt;f0&gt;Insert as Link&lt;/f0&gt; option in the Insert Image dialog, or use &lt;f1&gt;Ctrl+Shift&lt;/f1&gt; during the drag and drop method, Calc creates a link to the file containing the image instead of embedding it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud vyberete &lt;f0&gt;Vložit jako odkaz&lt;/f0&gt; v dialogovém okně Vložit obrázek nebo použijte &lt;f1&gt;Ctrl + Shift&lt;/f1&gt; během metody drag and drop Calc vytvoří namísto vložení odkaz na soubor obsahující obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image is displayed in the document, but when the document is saved, it contains only a reference to the image file, not the image itself.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek je zobrazen v dokumentu, ale když je dokument uložen, obsahuje pouze odkaz na soubor obrázku, nikoli samotný obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advantage – You can modify the image file separately.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výhoda - Obrazový soubor můžete upravovat samostatně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The modified image will appear when you next open the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upravený obrázek se objeví při příštím otevření tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advantage – Linking can reduce the file size of the spreadsheet when it is saved, because the image file itself is not included.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výhoda - Propojení může snížit velikost souboru tabulky, když je uložen, protože samotný soubor obrázku není zahrnut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, file size is usually not a problem on modern computers, and Calc can easily handle large files.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na moderních počítačích však velikost souboru obvykle není problém a Calc dokáže snadno zpracovat velké soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disadvantage – If you send the document to someone else, or move it to a different computer, you must also send the image files and keep the same file structure.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nevýhoda - Pokud dokument odešlete někomu jinému nebo jej přesunete do jiného počítače, musíte také odeslat obrazové soubory a zachovat stejnou strukturu souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, you might keep image files in a subfolder named &lt;f0&gt;Images&lt;/f0&gt; inside the same folder containing the Calc document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například můžete uložit obrazové soubory do podsložky pojmenované &lt;f0&gt;snímky&lt;/f0&gt; uvnitř stejné složky obsahující dokument Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any recipient of the spreadsheet needs to put the image files in a subfolder with the same name in the same named folder as the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý příjemce tabulky musí umístit obrazové soubory do podsložky se stejným názvem ve stejné pojmenované složce jako tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When inserting the same image several times in a document, it might appear beneficial to create links.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při vkládání stejného obrázku do dokumentu může být užitečné vytvořit odkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, this is not necessary, as LibreOffice embeds only one copy of the image file in the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To však není nutné, protože LibreOffice vloží do dokumentu pouze jednu kopii obrazového souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting one or more of the copies does not affect the other copies of the same file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odstranění jedné nebo více kopií neovlivní ostatní kopie stejného souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you originally linked the images, you can easily embed one or more of them later.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jste původně propojili obrázky, můžete je snadno vložit později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Edit &gt; Links to External Files&lt;/f0&gt; on the Menu bar to open the Edit Links dialog (Figure &lt;t1&gt;2&lt;/t1&gt;), which shows all the linked files.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Úpravy &gt; Odkazy na externí soubory&lt;/f0&gt; na panelu nabídek otevřete dialog Upravit odkazy (Obrázek &lt;t1&gt;2&lt;/t1&gt;), který zobrazuje všechny propojené soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Edit Links dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Dialogové okno Upravit odkazy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the files you want to change from linked to embedded.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte soubory, které chcete změnit, z propojených na vložené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Break Link&lt;/f0&gt; and confirm you want to remove the selected link.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Break Link&lt;/f0&gt; a potvrďte, že chcete vybraný odkaz odebrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The file then becomes embedded into the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor se poté vloží do tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Going from embedded to linked images is not so easy.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přechod z vložených na propojené obrázky není tak snadné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You must replace them one at a time, selecting the &lt;f0&gt;Insert as Link&lt;/f0&gt; option when you reinsert each file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Musíte je vyměnit jeden po druhém a vybrat &lt;f0&gt;Vložit jako odkaz&lt;/f0&gt; možnost při opětovném vložení každého souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>clipboard, inserting image from</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>schránky, vkládání obrázku z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting from clipboard</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vkládání ze schránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the clipboard, you can copy images into a Calc spreadsheet from another LibreOffice document and from other programs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí schránky můžete kopírovat obrázky do tabulky Calc z jiného dokumentu LibreOffice az jiných programů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the source document, copy the image to the clipboard – the exact interactions will vary from program to program.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve zdrojovém dokumentu zkopírujte obrázek do schránky - přesné interakce se budou lišit od programu k programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click to place the cursor in the cell where the image is to be anchored.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím umístíte kurzor do buňky, kde má být obrázek ukotven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click and select &lt;f0&gt;Paste&lt;/f0&gt; to insert the image, or select &lt;f1&gt;Edit &gt; Paste&lt;/f1&gt;, or click the &lt;f2&gt;Paste&lt;/f2&gt; icon in the Standard toolbar, or press &lt;f3&gt;Ctrl+V&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte &lt;f0&gt;Vložit&lt;/f0&gt; pro vložení obrázku nebo vyberte &lt;f1&gt;Úpravy &gt; Vložit&lt;/f1&gt; nebo klikněte na ikonu &lt;f2&gt;Vložit&lt;/f2&gt; na panelu nástrojů Standardní nebo stiskněte tlačítko &lt;f3&gt;Ctrl + V&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the application from which the image was copied is closed before the image is pasted into the target, the image stored on the clipboard could be lost.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je aplikace, ze které byl obraz zkopírován, uzavřena před vložením obrázku do cíle, mohl by se obrázek uložený ve schránce ztratit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting from scanner</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vkládání ze skeneru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scanner, using to insert image</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>skener, pomocí k vložení obrázku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a scanner is connected to your computer, LibreOffice can call the scanning application and insert the scanned item into the LibreOffice document as an image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je k počítači připojen skener, může LibreOffice zavolat do aplikace pro skenování a vložit naskenovanou položku do dokumentu LibreOffice jako obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To start this procedure, choose &lt;f0&gt;Insert &gt; Media &gt; Scan &gt; Select Source&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zahájit tento postup, zvolte &lt;f0&gt;Vložit &gt; Média &gt; Skenovat &gt; Vybrat zdroj&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After selecting the scanner, place the cursor where you want the image to be inserted, and choose &lt;f1&gt;Insert &gt; Media &gt; Scan &gt; Request&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po výběru skeneru umístěte kurzor na místo, kam chcete obrázek vložit, a zvolte &lt;f1&gt;Vložit &gt; Média &gt; Skenovat &gt; Žádost&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Lepších výsledků můžete dosáhnout předáním naskenovaného materiálu do grafického programu a jeho očištěním před vložením výsledného obrázku do LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inserting from Gallery deck</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vkládání z paluby Galerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Gallery (Figure &lt;t0&gt;3&lt;/t0&gt;) provides a convenient way to group reusable objects such as images and sounds that you can insert into your documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Galerie (obrázek &lt;t0&gt;3&lt;/t0&gt;) poskytuje pohodlný způsob seskupení opakovaně použitelných objektů, jako jsou obrázky a zvuky, které můžete vložit do svých dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Gallery is available in all components of LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Galerie je k dispozici ve všech komponentách LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add your own images as well as using the ones supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat své vlastní obrázky i pomocí obrázků dodaných s LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see the &lt;f1&gt;Getting Started Guide&lt;/f1&gt; Chapter 11, Images and Graphics.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací viz &lt;f1&gt;Příručka Začínáme&lt;/f1&gt; Kapitola 11, Obrázky a grafika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert an image from the Gallery:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložení obrázku z Galerie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Gallery&lt;/f0&gt; icon in the Sidebar, or select &lt;f1&gt;View &gt; Gallery&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Galerie&lt;/f0&gt; na postranním panelu nebo vyberte &lt;f1&gt;Zobrazit &gt; Galerie&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also right-click on the object and choose &lt;f0&gt;Insert,&lt;/f0&gt; in which case the image will be positioned according to the cells selected in the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také kliknout pravým tlačítkem myši na objekt a vybrat &lt;f0&gt;Vložit,&lt;/f0&gt; v takovém případě bude obrázek umístěn podle buněk vybraných v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To insert an image as a link, hold down the &lt;f0&gt;Shift&lt;/f0&gt; and &lt;f1&gt;Ctrl&lt;/f1&gt; keys while dragging the object into the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vložit obrázek jako odkaz, podržte klávesu &lt;f0&gt;Posun&lt;/f0&gt; a &lt;f1&gt;Ctrl&lt;/f1&gt; klávesy při přetahování objektu do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>modifying images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>úpravy obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you insert a new image, you may need to modify it to suit the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když vložíte nový obrázek, bude možná nutné jej upravit tak, aby vyhovoval dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any changes made in Calc do not affect the original image, whether it is an embedded or linked image file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jakékoli změny provedené v programu Calc nemají vliv na původní obrázek, ať už se jedná o vložený nebo propojený soubor obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc provides several tools for working with images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc poskytuje několik nástrojů pro práci s obrázky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These tools are sufficient for most requirements.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto nástroje jsou dostatečné pro většinu požadavků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, for professional results it is generally better to use Draw or other software designed to modify image files, and then insert the result into Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro profesionální výsledky je však obecně lepší použít Draw nebo jiný software určený k úpravě obrazových souborů a výsledek vložit do programu Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel nástrojů obrázku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Image</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>obraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you insert an image or select one already present in the spreadsheet, the Image toolbar replaces the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když vložíte obrázek nebo vyberete ten, který již je v tabulce, panel nástrojů Formát nahradí panel nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If it does not appear, go to &lt;f0&gt;View &gt; Toolbars &gt; Image&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se neobjeví, přejděte na &lt;f0&gt;Zobrazení &gt; Panely nástrojů &gt; Obrázek&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The tools available on the Image toolbar are described below.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje dostupné na panelu nástrojů Obrázek jsou popsány níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changes to image properties affect only the display and printing of the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změny ve vlastnostech obrázku ovlivňují pouze zobrazení a tisk obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The original image file remains unchanged.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Původní obrazový soubor zůstává nezměněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Anchor&lt;/f0&gt; – choose between anchoring the image to a cell (with or without resize) or to a page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Kotva&lt;/f0&gt; - vyberte mezi ukotvením obrázku do buňky (s nebo bez změny velikosti) nebo na stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;bf1&gt;Anchoring images&lt;/bf1&gt;” on page &lt;bf2&gt;12&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „ &lt;bf1&gt;Ukotvení obrázků&lt;/bf1&gt; „ na stránce &lt;bf2&gt;12&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Align&lt;/f0&gt; – if two or more images are selected, you can adjust the horizontal and vertical alignment of the images in relation to each other.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zarovnat&lt;/f0&gt; - pokud jsou vybrány dva nebo více obrázků, můžete upravit vodorovné a svislé zarovnání obrázků ve vztahu k sobě navzájem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;bf1&gt;Aligning images&lt;/bf1&gt;” on page &lt;bf2&gt;12&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „ &lt;bf1&gt;Zarovnání obrázků&lt;/bf1&gt; „ na stránce &lt;bf2&gt;12&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Six buttons for arrangement (the position of images in the stacking order): &lt;f0&gt;Bring to Front&lt;/f0&gt;, &lt;f1&gt;Forward One&lt;/f1&gt;, &lt;f2&gt;Back One&lt;/f2&gt;, &lt;f3&gt;Send to Back&lt;/f3&gt;, &lt;f4&gt;To Foreground&lt;/f4&gt;, &lt;f5&gt;To Background&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šest tlačítek pro uspořádání (umístění obrázků v pořadí stohování): &lt;f0&gt;Přiveďte dopředu&lt;/f0&gt;, &lt;f1&gt;Vpřed jeden&lt;/f1&gt;, &lt;f2&gt;Zpět jedna&lt;/f2&gt;, &lt;f3&gt;Odeslat nazpátek&lt;/f3&gt;, &lt;f4&gt;Do popředí&lt;/f4&gt;, &lt;f5&gt;Na pozadí&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See “&lt;bf6&gt;Arranging images&lt;/bf6&gt;” on page &lt;bf7&gt;11&lt;/bf7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz „ &lt;bf6&gt;Uspořádání obrázků&lt;/bf6&gt; „ na stránce &lt;bf7&gt;11&lt;/bf7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Line Style&lt;/f0&gt;, &lt;f1&gt;Line Width&lt;/f1&gt;, &lt;f2&gt;Line Color&lt;/f2&gt; – set the attributes of the border around the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Styl čáry&lt;/f0&gt;, &lt;f1&gt;Šířka čáry&lt;/f1&gt;, &lt;f2&gt;Barva čáry&lt;/f2&gt; - nastavit atributy ohraničení kolem obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Area Style / Filling&lt;/f0&gt; – sets the color or other characteristics of the background area that contains the image, not the image itself.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Styl oblasti / plnění&lt;/f0&gt; - nastavuje barvu nebo jiné vlastnosti oblasti pozadí, která obsahuje obrázek, nikoli samotný obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To see the background, you must set the transparency of the image to a suitably high value.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit pozadí, musíte nastavit průhlednost obrázku na vhodně vysokou hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f1&gt;Draw Guide&lt;/f1&gt; for more information on how to modify areas.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f1&gt;Nakreslete průvodce&lt;/f1&gt; Další informace o tom, jak upravit oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Shadow&lt;/f0&gt; – sets the default shadow effect around the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Stín&lt;/f0&gt; - nastaví výchozí stínový efekt kolem obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To adjust the shadow effect, open the Area dialog (&lt;f1&gt;Format &gt; Object &gt; Area&lt;/f1&gt;) and choose the &lt;f2&gt;Shadow&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li upravit efekt stínu, otevřete dialogové okno Oblast ( &lt;f1&gt;Formát &gt; Objekt &gt; Oblast&lt;/f1&gt;) a vyberte &lt;f2&gt;Stín&lt;/f2&gt; tab.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Filter&lt;/f0&gt; – opens the Image Filter toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Filtr&lt;/f0&gt; - otevře panel nástrojů Image Filter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f1&gt;Draw Guide&lt;/f1&gt; for details on image filters.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f1&gt;Nakreslete průvodce&lt;/f1&gt; Podrobnosti o obrazových filtrech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Image Mode&lt;/f0&gt; – changes the display of the image from color (&lt;f1&gt;Default&lt;/f1&gt;) to grayscale, black and white, or a watermark.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Režim obrazu&lt;/f0&gt; - změní zobrazení barvy z barvy ( &lt;f1&gt;Výchozí&lt;/f1&gt;) do odstínů šedé, černé a bílé nebo vodoznak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This setting affects only the display and printing of the image; the original image file remains unchanged.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto nastavení ovlivní pouze zobrazení a tisk obrázku; původní obrazový soubor zůstává nezměněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Crop Image&lt;/f0&gt; – places cropping handles around the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Oříznout obrázek&lt;/f0&gt; - umístí ořezové úchytky kolem obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag a handle to crop (hide) the edges of the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přetažením úchytu oříznete (skryjete) okraje obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Flip Horizontally&lt;/f0&gt; and &lt;f1&gt;Flip Vertically&lt;/f1&gt; – changes the orientation of the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Překlopit vodorovně&lt;/f0&gt; a &lt;f1&gt;Překlopit svisle&lt;/f1&gt; - mění orientaci obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Rotate&lt;/f0&gt; – places rotation handles around the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Točit se&lt;/f0&gt; - umísťuje kolem obrázku úchyty pro otočení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt; – adjusts the degree of transparency of the image between 0% (opaque) and 100% (fully transparent).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Průhlednost&lt;/f0&gt; - upravuje stupeň průhlednosti obrazu mezi 0% (neprůhledný) a 100% (zcela průhledný).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Color&lt;/f0&gt; – opens the Color toolbar (Figure &lt;t1&gt;4&lt;/t1&gt;) to adjust the values of the red, green, blue colors, brightness, contrast and gamma.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Barva&lt;/f0&gt; - otevře panel nástrojů Barva (obrázek 5) &lt;t1&gt;4&lt;/t1&gt;) k úpravě hodnot červené, zelené, modré barvy, jasu, kontrastu a gama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Color toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Barevný panel nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>using with images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>použití s obrázky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties deck, using with drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Balíček vlastností, použití s kreslícími objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some of the settings in the Image toolbar are also available in the Properties deck in the Sidebar when an image is selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některá nastavení na panelu nástrojů Obraz jsou k dispozici také v paletě Vlastnosti na postranním panelu, když je vybrán obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These include the &lt;f0&gt;Color&lt;/f0&gt;, &lt;f1&gt;Line&lt;/f1&gt;, and &lt;f2&gt;Transparency&lt;/f2&gt; settings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Patří mezi ně &lt;f0&gt;Barva&lt;/f0&gt;, &lt;f1&gt;Čára&lt;/f1&gt;, a &lt;f2&gt;Průhlednost&lt;/f2&gt; nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding text to</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přidání textu do</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding to images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přidávání do obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding to drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přidání do výkresových objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add text to an image or drawing object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Do obrázku nebo kresleného objektu můžete přidat text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>That text will move with the image when the image is repositioned.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento text se bude pohybovat s obrázkem, když je obrázek přemístěn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on adding text to images, see the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o přidávání textu do obrázků naleznete na stránce &lt;f0&gt;Nakreslete průvodce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click on the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poklepejte na obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The text cursor flashes in the center of the image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve středu obrázku bliká textový kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Text Formatting toolbar automatically opens at the top of the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel nástrojů Formátování textu se automaticky otevře v horní části tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Text Formatting toolbar for images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Panel nástrojů pro formátování textu pro obrázky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type your text and use the tools on the Text Formatting toolbar to format it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte text a naformátujte jej pomocí nástrojů na panelu nástrojů Formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Most of the tools are the same as those for formatting text in cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Většina nástrojů je stejná jako nástroje pro formátování textu v buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To adjust the position of the text or how it appears in the image, right-click on the image (when the text cursor is flashing) and select &lt;f0&gt;Text&lt;/f0&gt; from the context menu to open the Text dialog (Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li upravit polohu textu nebo jeho vzhled v obrázku, klepněte pravým tlačítkem myši na obrázek (když textový kurzor bliká) a vyberte &lt;f0&gt;Text&lt;/f0&gt; z kontextové nabídky otevřete dialogové okno Text (obrázek 5) &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Text dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Textové dialogové okno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make any necessary changes and click &lt;f0&gt;OK&lt;/f0&gt; to close the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proveďte potřebné změny a klikněte &lt;f0&gt;OK&lt;/f0&gt; zavřete dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>positioning images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>umísťování obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To move an image to a new position in your spreadsheet, click on the image and drag it to a new position.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li obrázek přesunout na nové místo v tabulce, klikněte na obrázek a přetáhněte jej na nové místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image will still be anchored as it was originally (that is, &lt;f0&gt;To Cell&lt;/f0&gt;, &lt;f1&gt;To Cell (resize with cell)&lt;/f1&gt;, or &lt;f2&gt;To Page&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek bude stále ukotven tak, jak byl původně (tj. &lt;f0&gt;Do buňky&lt;/f0&gt;, &lt;f1&gt;Do buňky (změna velikosti pomocí buňky)&lt;/f1&gt;, nebo &lt;f2&gt;Na stránku&lt;/f2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To resize an image:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit velikost obrázku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the image to display the selection handles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepnutím na obrázek zobrazíte popisky výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position the cursor over one of the selection handles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěte kurzor na jednu z úchytů výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cursor changes shape, giving a graphical representation of the direction of the resizing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kurzor mění tvar a poskytuje grafické znázornění směru změny velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The corner handles resize both the width and the height of the image simultaneously.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rohové úchyty mění velikost šířky i výšky obrázku současně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The top, bottom, left and right handles only resize one dimension at a time.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Horní, dolní, levá a pravá úchytka mění velikost pouze jedné dimenze současně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To retain the original proportions of the image, click and drag one of the corner handles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zachovat původní proporce obrázku, klikněte a přetáhněte jednu z rohových úchytů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to change the original proportions, &lt;f0&gt;Shift+click&lt;/f0&gt; one of the corner handles, then drag.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud chcete změnit původní proporce, &lt;f0&gt;Shift + kliknutí&lt;/f0&gt; jednu z rohových úchytů a potom přetáhněte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To accurately position and size an image in your spreadsheet, click on the image and then go to &lt;f0&gt;Format &gt; Object &gt; Position and Size&lt;/f0&gt; on the Menu bar, or right-click on the image and select &lt;f1&gt;Position and Size&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přesně umístit a velikost obrázku v tabulce, klikněte na obrázek a poté přejděte na &lt;f0&gt;Formát &gt; Objekt &gt; Pozice a velikost&lt;/f0&gt; na panelu nabídek nebo klikněte pravým tlačítkem myši na obrázek a vyberte možnost &lt;f1&gt;Pozice a velikost&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f0&gt;Position and Size&lt;/f0&gt; tab (Figure &lt;t1&gt;7&lt;/t1&gt;) of the Position and Size dialog, you can set these values:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na &lt;f0&gt;Pozice a velikost&lt;/f0&gt; (Obrázek &lt;t1&gt;7&lt;/t1&gt;) v dialogu Pozice a velikost můžete nastavit tyto hodnoty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Position&lt;/f0&gt; – the location of the selected image on the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Pozice&lt;/f0&gt; - umístění vybraného obrázku v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Position X&lt;/f0&gt; – the horizontal distance from the base point selected in the grid.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Pozice X&lt;/f0&gt; - horizontální vzdálenost od základního bodu vybraného v mřížce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Position Y&lt;/f0&gt; – the vertical distance from the base point selected in the grid.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Pozice Y&lt;/f0&gt; - vertikální vzdálenost od základního bodu vybraného v mřížce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Size&lt;/f0&gt; – the width and height of the image with respect to the selected base point.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Velikost&lt;/f0&gt; - šířka a výška obrázku vzhledem k vybranému základnímu bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Protect&lt;/f0&gt; – to prevent accidental movement or resizing of the image, select the relevant option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Chránit&lt;/f0&gt; - Chcete-li zabránit náhodnému pohybu nebo změně velikosti obrázku, vyberte příslušnou možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The units of measurement used for X / Y coordinates and the width and height of the image are set by going to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General &gt; Measurement unit&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Měřicí jednotky použité pro souřadnice X / Y a šířka a výška obrázku jsou nastaveny pomocí &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Calc &gt; Obecné &gt; Měřící jednotka&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The default location of the base points for position and size is the upper left corner of the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výchozí umístění základních bodů pro polohu a velikost je levý horní roh tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can temporarily change this base point to make positioning or dimensioning simpler by clicking on a position corresponding to the location of the base point you want to use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tento základní bod můžete dočasně změnit, aby se zjednodušilo určování polohy nebo kótování kliknutím na pozici odpovídající umístění základního bodu, který chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This change in base point is only valid for single use and the base point is reset to the standard position of top left corner when you close the Position and Size dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato změna základního bodu je platná pouze pro jedno použití a základní bod je resetován na standardní polohu levého horního rohu, když zavřete dialogové okno Pozice a velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also rotate or slant an image (using the &lt;f0&gt;Rotation&lt;/f0&gt; or &lt;f1&gt;Slant &amp; Corner Radius&lt;/f1&gt; tabs of the Position and Size dialog).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také otočit nebo naklonit obrázek (pomocí &lt;f0&gt;Otáčení&lt;/f0&gt; nebo &lt;f1&gt;Poloměr sklonu a rohu&lt;/f1&gt; karty Dialogové okno Pozice a velikost).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the &lt;f2&gt;Draw Guide&lt;/f2&gt; for details.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz &lt;f2&gt;Nakreslete průvodce&lt;/f2&gt; pro detaily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Position and Size dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Dialog Pozice a velikost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arranging images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>aranžování obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arranging (stacking)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>aranžování (stohování)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stacking images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>stohování obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each image that you place in a spreadsheet is successively stacked on the preceding image, whether or not they overlap.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý obrázek, který umístíte do tabulky, je postupně naskládán na předchozí obrázek, ať se překrývají nebo ne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the arrange commands to change the stacking order of images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí příkazů uspořádat můžete změnit pořadí překrývání obrázků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You cannot change the stacking order of text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nelze změnit pořadí překrývání textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the image you want to change.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte obrázek, který chcete změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Arrange&lt;/f0&gt; on the Menu bar, or right-click on the image, select &lt;f1&gt;Arrange&lt;/f1&gt; from the context menu, and select one of the arrangement options described below.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jít do &lt;f0&gt;Formát &gt; Uspořádat&lt;/f0&gt; na panelu nabídek nebo klepněte pravým tlačítkem myši na obrázek a vyberte možnost &lt;f1&gt;Uspořádat&lt;/f1&gt; z kontextové nabídky a vyberte jednu z níže uvedených možností uspořádání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, click on one of the six arrangement icons on the Image toolbar to quickly move the image up or down the stacking order.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Případně můžete klepnutím na jednu ze šesti ikon uspořádání na panelu nástrojů Obrázek rychle přesunout obrázek nahoru nebo dolů v pořadí stohování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The arrangement options are as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnosti uspořádání jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Bring to Front&lt;/f0&gt; – moves the selected image to the top of the stacking order, so that it is in front of other images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Přiveďte dopředu&lt;/f0&gt; - přesune vybraný obrázek na začátek pořadí stohování tak, aby byl před jinými obrázky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Forward One&lt;/f0&gt; – moves the selected image up one level, so that it is closer to top of the stacking order.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Vpřed jeden&lt;/f0&gt; - přesune vybraný obrázek o jednu úroveň výše, aby byl blíže k hornímu okraji pořadí stohování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Back One&lt;/f0&gt; – moves the selected image down one level, so that it is closer to the bottom of the stacking order.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zpět jedna&lt;/f0&gt; - přesune vybraný obrázek o jednu úroveň dolů, aby byl blíže ke spodní části pořadí stohování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Send to Back&lt;/f0&gt; – moves the selected image to the bottom of the stacking order, so that it is behind the other images.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Odeslat nazpátek&lt;/f0&gt; - přesune vybraný obrázek na konec pořadí stohování, aby byl za ostatními obrázky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;To Foreground&lt;/f0&gt; – moves the selected image in front of text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Do popředí&lt;/f0&gt; - přesune vybraný obrázek před text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;To Background&lt;/f0&gt; – moves the selected image behind text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Na pozadí&lt;/f0&gt; - přesune vybraný obrázek za text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To select a background image so that you can modify or replace it, you have to use the Navigator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li vybrat obrázek na pozadí, abyste jej mohli upravit nebo nahradit, musíte použít Navigátor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other methods of selection, such as clicking or double-clicking, do not work.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jiné metody výběru, například kliknutí nebo poklepání, nefungují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>anchoring images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>ukotvení obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anchor images so they stay in their position in relation to other items.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukotvte obrázky, aby zůstaly ve své poloze ve vztahu k ostatním položkám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;To Page&lt;/f0&gt; – anchor an image to the page to position it in a specific place.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Na stránku&lt;/f0&gt; - ukotvit obrázek na stránku a umístit jej na konkrétní místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The image does not move when cells are added or deleted; it will always stay in the same position on the page where it is placed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po přidání nebo odstranění buněk se obrázek nepohybuje; na stránce, kde je umístěn, zůstane vždy na stejné pozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;To Cell&lt;/f0&gt; – anchor an image to a cell to ensure that the image always stays with the content it is originally anchored to.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Do buňky&lt;/f0&gt; - ukotvit obrázek do buňky, aby se zajistilo, že obrázek vždy zůstane s obsahem, ke kterému byl původně ukotven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If an image is anchored to cell B10, and a new row is inserted above row 10, the image will then be anchored to cell B11.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je obraz ukotven k buňce B10 a nad řádek 10 je vložen nový řádek, bude obraz ukotven k buňce B11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;To Cell (resize with cell)&lt;/f0&gt; – similar to &lt;f1&gt;To Cell&lt;/f1&gt; but with the additional property that the image resizes as you resize the cell to which it is anchored.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Do buňky (změna velikosti pomocí buňky)&lt;/f0&gt; - podobný &lt;f1&gt;Do buňky&lt;/f1&gt; ale s další vlastností, kterou se velikost obrazu změní, když změníte velikost buňky, ke které je ukotven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To anchor an image or change the type of anchor used:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jak ukotvit obrázek nebo změnit typ použité kotvy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Anchor &gt; To Page&lt;/f0&gt; or &lt;f1&gt;To Cell&lt;/f1&gt; or &lt;f2&gt;To Cell (resize with cell) &lt;/f2&gt;on the Menu bar, or right-click on the image and select &lt;f3&gt;Anchor &gt; To Page&lt;/f3&gt; or &lt;f4&gt;To Cell&lt;/f4&gt; or &lt;f5&gt;To Cell (resize with cell) &lt;/f5&gt;from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jít do &lt;f0&gt;Formát &gt; Kotva &gt; Na stránku&lt;/f0&gt; nebo &lt;f1&gt;Do buňky&lt;/f1&gt; nebo &lt;f2&gt;Do buňky (změna velikosti pomocí buňky)&lt;/f2&gt; na panelu nabídek nebo klikněte pravým tlačítkem myši na obrázek a vyberte možnost &lt;f3&gt;Ukotvit &gt; Na stránku&lt;/f3&gt; nebo &lt;f4&gt;Do buňky&lt;/f4&gt; nebo &lt;f5&gt;Do buňky (změna velikosti pomocí buňky)&lt;/f5&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternatively, click on the &lt;f0&gt;Anchor&lt;/f0&gt; icon on the Image toolbar and select &lt;f1&gt;To Page&lt;/f1&gt; or &lt;f2&gt;&lt;f3&gt;To Cell &lt;/f3&gt;&lt;/f2&gt;or&lt;f4&gt; To Cell (resize with cell)&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nebo klikněte na &lt;f0&gt;Kotva&lt;/f0&gt; na panelu nástrojů Obrázek a vyberte &lt;f1&gt;Na stránku&lt;/f1&gt; nebo &lt;f2&gt;&lt;f3&gt; Do buňky &lt;/f3&gt;&lt;/f2&gt; nebo &lt;f4&gt;Do buňky (změna velikosti pomocí buňky)&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>aligning images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>zarovnání obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you have more than one image in your spreadsheet, you can align these images to give your spreadsheet a more professional look.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud máte v tabulce více než jeden obrázek, můžete tyto obrázky zarovnat a vytvořit tak profesionální vzhled tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The options include three for aligning the images horizontally (left, centered, right) and three for aligning the images vertically (top, center, bottom).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnosti zahrnují tři pro vodorovné zarovnání obrázků (vlevo, na střed, vpravo) a tři pro zarovnání obrázků svisle (nahoře, uprostřed, dole).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select all of the images to be aligned (select one and hold down the &lt;f0&gt;Shift&lt;/f0&gt; key while selecting others).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte všechny obrázky, které chcete zarovnat (vyberte jeden a podržte klávesu &lt;f0&gt;Posun&lt;/f0&gt; při výběru ostatních).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Align&lt;/f0&gt; on the Menu bar, or right-click on one of the images and select &lt;f1&gt;Align &lt;/f1&gt;from the context menu, or click on the &lt;f2&gt;Align&lt;/f2&gt; icon on the Image toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jít do &lt;f0&gt;Formát &gt; Zarovnat&lt;/f0&gt; na panelu nabídek nebo klikněte pravým tlačítkem myši na jeden z obrázků a vyberte možnost &lt;f1&gt;Zarovnat&lt;/f1&gt; z kontextové nabídky, nebo klikněte na &lt;f2&gt;Zarovnat&lt;/f2&gt; na panelu nástrojů Obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select one of the options available for alignment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte jednu z dostupných možností pro zarovnání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grouping and ungrouping</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>seskupování a oddělování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To group several images so that they become a single object in the spreadsheet:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li seskupit několik obrázků tak, aby se staly jediným objektem v tabulce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the images you want to group (select one and hold down the &lt;f0&gt;Shift&lt;/f0&gt; key while selecting others).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte obrázky, které chcete seskupit (vyberte jeden a podržte &lt;f0&gt;Posun&lt;/f0&gt; při výběru ostatních).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Group &gt; Group&lt;/f0&gt; on the Menu bar, or right-click on one of the selected images and select &lt;f1&gt;Group&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jít do &lt;f0&gt;Formát &gt; Skupina &gt; Skupina&lt;/f0&gt; na panelu nabídek nebo klepněte pravým tlačítkem myši na jeden z vybraných obrázků a vyberte možnost &lt;f1&gt;Skupina&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To ungroup images:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postup seskupení obrázků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the image group you want to ungroup.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte skupinu obrázků, kterou chcete oddělit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Group &gt; Ungroup&lt;/f0&gt; on the Menu bar, or right-click on one of the selected images and select &lt;f1&gt;Ungroup&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jít do &lt;f0&gt;Formát &gt; Skupina &gt; Oddělit&lt;/f0&gt; na panelu nabídek nebo klepněte pravým tlačítkem myši na jeden z vybraných obrázků a vyberte možnost &lt;f1&gt;Oddělte se&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To edit an image in a group:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li upravit obrázek ve skupině:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the image group where you want to edit an image within the group.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte skupinu obrázků, ve které chcete upravit obrázek ve skupině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Group &gt; Enter Group&lt;/f0&gt; on the Menu bar, or right-click on one of the selected images and select &lt;f1&gt;Enter Group&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jít do &lt;f0&gt;Formát &gt; Skupina &gt; Zadejte skupinu&lt;/f0&gt; na panelu nabídek nebo klepněte pravým tlačítkem myši na jeden z vybraných obrázků a vyberte možnost &lt;f1&gt;Zadejte skupinu&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the image you want to make changes to and make the changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte obrázek, který chcete změnit, a proveďte změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Group &gt; Exit Group&lt;/f0&gt; on the Menu bar, or right-click on one of the selected images and select &lt;f1&gt;Exit Group&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jít do &lt;f0&gt;Formát &gt; Skupina &gt; Ukončit skupinu&lt;/f0&gt; na panelu nabídek nebo klepněte pravým tlačítkem myši na jeden z vybraných obrázků a vyberte možnost &lt;f1&gt;Ukončete skupinu&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc, like all other components of LibreOffice, has a range of tools to create drawings such as simple diagrams, using rectangles, circles, lines, text, and other shapes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc, stejně jako všechny ostatní komponenty LibreOffice, má řadu nástrojů k vytváření výkresů, jako jsou jednoduché diagramy, použití obdélníků, kružnic, čar, textu a dalších tvarů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can group several drawing objects to make sure they maintain their relative position and proportion if you move or resize them.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete seskupit několik kreslených objektů, abyste se ujistili, že si udržují svou relativní polohu a poměr, pokud je přesunete nebo změníte jejich velikost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use the drawing tools to annotate photographs, screen captures, or other illustrations produced by other programs, but this is not recommended.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kreslicí nástroje můžete také použít k anotaci fotografií, snímků obrazovky nebo jiných ilustrací vytvořených jinými programy, ale to se nedoporučuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you need to create complex drawings, it is recommended to use LibreOffice Draw and then insert the drawing into your spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud potřebujete vytvořit složité výkresy, doporučujeme použít LibreOffice Draw a vložit výkres do tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed explanation, see the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro podrobnější vysvětlení viz &lt;f0&gt;Nakreslete průvodce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To begin using the drawing tools, go to &lt;f0&gt;View &gt; Toolbars &gt; Drawing&lt;/f0&gt; to open the Drawing toolbar, which appears in its default position at the bottom of the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li začít používat nástroje pro kreslení, přejděte na &lt;f0&gt;Zobrazení &gt; Panely nástrojů &gt; Kreslení&lt;/f0&gt; otevřete panel nástrojů Kreslení, který se zobrazí v jeho výchozí poloze ve spodní části tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can make this toolbar a floating toolbar and move it to a convenient position.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete udělat z tohoto panelu nástrojů plovoucí panel nástrojů a přesunout jej na vhodné místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the Drawing toolbar opens, it opens with a default set of tools as shown in Figure &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když se otevře panel nástrojů Kreslení, otevře se s výchozí sadou nástrojů, jak je znázorněno na obrázku &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hover the mouse pointer over a tool to see a tooltip describing its function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Umístěním ukazatele myši na nástroj zobrazíte popis popisující jeho funkci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Icons with small arrows to the right side open with palettes of tools.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ikony s malými šipkami na pravé straně se otevírají pomocí palet nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add tools to the Drawing toolbar, right-click in an empty area on the toolbar and select &lt;f1&gt;Visible Buttons&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat nástroje na panel nástrojů Kreslení, klepněte pravým tlačítkem do prázdné oblasti na panelu nástrojů a vyberte &lt;f1&gt;Viditelná tlačítka&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Drawing toolbar</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Panel nástrojů Kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the tool in the Drawing toolbar (Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na nástroj na panelu nástrojů Kreslení (obrázek 5) &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The mouse pointer changes to a drawing-functions pointer &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;and the normal Formatting toolbar changes to the Drawing Object Properties toolbar, becoming a floating toolbar (Figure &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukazatel myši se změní na ukazatel kreslení &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt; a normální panel nástrojů Formátování se změní na panel nástrojů Vlastnosti výkresového objektu a stane se plovoucím panelem nástrojů (obrázek 5) &lt;t4&gt;9&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move the cross-hair pointer to the place in the document where you want the drawing object to appear and then click and drag to create the object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesuňte ukazatel příčné vlasy na místo v dokumentu, kde chcete, aby se kreslící objekt objevil, a potom klepnutím a tažením vytvořte objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To cancel the selected drawing function, click on the tool’s icon again, press the &lt;f0&gt;Esc&lt;/f0&gt; key or click on the &lt;f1&gt;Select&lt;/f1&gt; icon (the arrow) on the Drawing toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zrušit vybranou funkci kreslení, klikněte znovu na ikonu nástroje a stiskněte klávesu &lt;f0&gt;Esc&lt;/f0&gt; nebo klikněte na &lt;f1&gt;Vybrat&lt;/f1&gt; ikona (šipka) na panelu nástrojů Kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can now change the properties (fill color, line type and weight, anchoring, and others) of the drawing object using the Drawing Object Properties toolbar (Figure &lt;t0&gt;9&lt;/t0&gt;), the Properties deck on the Sidebar, or the choices reached by right-clicking on the drawing object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nyní můžete změnit vlastnosti (barvu výplně, typ a hmotnost čáry, ukotvení atd.) Nakresleného objektu pomocí panelu nástrojů Vlastnosti nakresleného objektu (obrázek) &lt;t0&gt;9&lt;/t0&gt;), panel Vlastnosti na postranním panelu nebo volby dosažené kliknutím pravým tlačítkem myši na nakreslený objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drawing Object Properties, overview</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vlastnosti kresleného objektu, přehled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>using with drawing objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>použití při kreslení objektů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>setting the properties of</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nastavení vlastností</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties deck, using with images</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vlastnosti balíčku, použití s obrázky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information on the properties of drawing objects, see the &lt;f0&gt;Draw Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o vlastnostech nakreslených objektů naleznete v části &lt;f0&gt;Nakreslete průvodce&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can set some default properties for a drawing object before you draw an object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Před nakreslením objektu můžete nastavit některé výchozí vlastnosti pro nakreslený objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These default properties are applied only to the current spreadsheet and are not retained when you close the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto výchozí vlastnosti se použijí pouze na aktuální tabulku a při zavření tabulky se nezachovají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The properties apply only to drawing objects.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vlastnosti se vztahují pouze na nakreslené objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Select&lt;/f0&gt; on the Drawing toolbar (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Vybrat&lt;/f0&gt; na panelu nástrojů Kreslení (obrázek 5) &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Drawing Object Properties toolbar (Figure &lt;t0&gt;9&lt;/t0&gt;), set the values you want to use for each property.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Vlastnosti kresleného objektu (obrázek 5) &lt;t0&gt;9&lt;/t0&gt;), nastavte hodnoty, které chcete použít pro každou vlastnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select area or line properties, dialogs open where you can set the values used for area or line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když vyberete vlastnosti oblasti nebo čáry, otevřou se dialogy, kde můžete nastavit hodnoty použité pro oblast nebo čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After you draw an object or group it with another object, more properties become active.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po nakreslení objektu nebo seskupení s jiným objektem se aktivují další vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These appear on the toolbar (Figure &lt;t0&gt;10&lt;/t0&gt;) and some are shown in the Properties deck of the Sidebar (Figure &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ty se objeví na panelu nástrojů (obrázek 5) &lt;t0&gt;10&lt;/t0&gt;) a některé jsou zobrazeny v balíčku vlastností na postranním panelu (obrázek 5) &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Drawing Object Properties toolbar after inserting an object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Panel nástrojů Vlastnosti výkresu po vložení objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the properties of an existing drawing object (fill color, line type and weight, anchoring, and so on) using the Drawing Object Properties toolbar (Figure &lt;t0&gt;9&lt;/t0&gt;), the Properties deck on the Sidebar, or the context menu when you right-click on the drawing object.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí panelu nástrojů Vlastnosti objektu kreslení (obrázek) můžete změnit vlastnosti existujícího výkresového objektu (barvu výplně, typ a hmotnost čáry, ukotvení atd.) &lt;t0&gt;9&lt;/t0&gt;), paletu Vlastnosti na postranním panelu nebo místní nabídku, když klepnete pravým tlačítkem myši na nakreslený objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Properties deck in Sidebar for drawing object</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Balíček vlastností v postranním panelu pro kreslení objektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the object and click on one of the selection handles then drag the object to its new size.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte objekt a klikněte na jednu z úchytů výběru a potom přetáhněte objekt do nové velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a scaled resizing, select one of the corner handles and keep the &lt;f0&gt;Shift&lt;/f0&gt; key pressed while dragging the handle.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit měřítko, vyberte jednu z rohových úchytů a ponechte &lt;f0&gt;Posun&lt;/f0&gt; stisknuté tlačítko při tažení rukojeti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see “&lt;bf1&gt;Positioning, resizing, and arranging images&lt;/bf1&gt;” on page &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v části „ &lt;bf1&gt;Umístění, změna velikosti a uspořádání obrázků&lt;/bf1&gt; „ na stránce &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For grouping, ungrouping, and editing grouped drawing objects, see “&lt;bf0&gt;Grouping and ungrouping images&lt;/bf0&gt;” on page &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Informace o seskupování, zrušení seskupování a úpravách seskupených kreslených objektů naleznete v části „ &lt;bf0&gt;Seskupování a seskupování obrázků&lt;/bf0&gt; „ na stránce &lt;bf1&gt;12&lt;/bf1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>additional tools in context menu</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>další nástroje v kontextové nabídce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some additional tools are available when you right-click on an image or drawing object and open the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé další nástroje jsou k dispozici, když klepnete pravým tlačítkem myši na obrázek nebo nakreslený objekt a otevřete místní nabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add metadata in the form of a title and description to an image.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K obrázku můžete přidat metadata ve formě názvu a popisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This information is used by accessibility tools (such as screen reader software) and as ALT (alternative text) attributes if you export the document to HTML.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto informace používají nástroje pro usnadnění přístupu (například software pro čtení z obrazovky) a atributy ALT (alternativní text), pokud exportujete dokument do HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can add a custom name to be assigned to an image; this will make the image easier to find in the Navigator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete přidat vlastní název, který má být přiřazen k obrázku; tím usnadníte nalezení obrázku v Navigátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Also, assigning names to images helps identify them when teams of people are working on the same multi-page spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přiřazení jmen obrázkům také pomáhá identifikovat je, když týmy lidí pracují na stejné vícestránkové tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate or Flip</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otočit nebo převrátit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can rotate the image or flip it horizontally or vertically.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete obrázek otočit nebo převrátit vodorovně nebo svisle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign Macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přiřadit makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens the Assign Macro dialog so you can add programmable functionality to the graphic.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře dialogové okno Přiřadit makro, takže můžete do grafiky přidat programovatelné funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc has a very good macro functionality.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc má velmi dobrou funkci makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see Chapter 12, Macros.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v kapitole 12, Makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Hyperlink</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upravit hypertextový odkaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can define a hyperlink from an image to another location in your spreadsheet, another document, or a web page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete definovat hypertextový odkaz z obrázku na jiné místo v tabulce, jiném dokumentu nebo webové stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Edit Hyperlink&lt;/f0&gt; from the context menu to open the Hyperlink dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Upravit hypertextový odkaz&lt;/f0&gt; z místní nabídky otevřete dialogové okno Hyperlink.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Chapter 10, Linking Data, for more information on hyperlinks.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o hypertextových odkazech naleznete v kapitole 10, Propojení dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compress</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Komprimovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can compress images to reduce the file size of the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete komprimovat obrázky a zmenšit tak velikost souboru tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Compress&lt;/f0&gt; from the context menu to open a Compress Image dialog where you can set the compression options.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Komprimovat&lt;/f0&gt; z kontextové nabídky otevřete dialog Komprimovat obrázek, kde můžete nastavit možnosti komprese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Option not available for drawing objects.)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>(Možnost není k dispozici pro kreslení objektů.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit with External Tool</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upravit pomocí externího nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can edit an image with an external tool.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrázek můžete upravit pomocí externího nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The dialog that opens will depend on your computer setup.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialog, který se otevře, bude záviset na nastavení vašeho počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fontwork objects</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Písmo objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With Fontwork, you can create graphical text art objects to make your work more attractive.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>S Fontwork můžete vytvářet grafické grafické textové objekty, aby byla vaše práce atraktivnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Fontwork toolbar (&lt;f0&gt;View &gt; Toolbars &gt; Fontwork&lt;/f0&gt;) or the Drawing toolbar (&lt;f1&gt;View &gt; Toolbars &gt; Drawing&lt;/f1&gt;), click the &lt;f2&gt;Fontwork&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na panelu nástrojů Písmo ( &lt;f0&gt;Zobrazení &gt; Panely nástrojů &gt; Písmo&lt;/f0&gt;) nebo panel nástrojů Kreslení ( &lt;f1&gt;Zobrazení &gt; Panely nástrojů &gt; Kreslení&lt;/f1&gt;), klikněte na &lt;f2&gt;Písmo&lt;/f2&gt; ikona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Fontwork Gallery (Figure &lt;t0&gt;12&lt;/t0&gt;), select a Fontwork style, then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V Galerii písem (obrázek &lt;t0&gt;12&lt;/t0&gt;), vyberte styl písma a klikněte na &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Fontwork object will appear in the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dokumentu se objeví objekt Fontwork.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click the object to edit the Fontwork text (see Figure &lt;t0&gt;13&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poklepáním na objekt upravte text písma (viz obrázek &lt;t0&gt;13&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: The Fontwork Gallery</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : The Fontwork Gallery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Editing Fontwork text</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Úpravy textu písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To do this, you can use the Fontwork toolbar, the Formatting toolbar, or menu options.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li to provést, můžete použít panel nástrojů Písmo, panel nástrojů Formát nebo možnosti nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information, see Chapter 11, Images and Graphics, in the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace naleznete v kapitole 11, Obrázky a grafika, v &lt;f0&gt;Příručka Začínáme&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,3847 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 12 Calc Macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 12 Výpočet maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 12 Calc Macros&lt;segment 11586 ¶&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 12 Výpočet maker &lt;segment 11586 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Python macros&lt;/t0&gt; | &lt;t1&gt;25&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Makra Pythonu&lt;/t0&gt; | &lt;t1&gt;25&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Conclusion&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;26 &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;Závěr&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Chapter 12 Calc Macros&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Kapitola 12 Výpočet maker &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 12 Calc Macros&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt; | &lt;t1&gt;Kapitola 12 Výpočet maker&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; at &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;K dispozici je dokumentace pro LibreOffice &lt;/f0&gt;&lt;f1&gt; v &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt; https://documentation.libreoffice.org/en/ &lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 12&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 12 &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Automating repetitive tasks</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automatizace opakujících se úkolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book is adapted and updated from the &lt;f0&gt;LibreOffice 6.2&lt;/f0&gt; &lt;f1&gt;&lt;ud2&gt;Calc Guide&lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kniha je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt; Průvodce kalkulačkou &lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Simon Brydon</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Simon Brydon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;t0&gt;June&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed list, see the application Help and Appendix A (Keyboard Shortcuts) to this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější seznam najdete v nápovědě k aplikaci a v příloze A (Klávesové zkratky) této příručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;Q&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; + &lt;f1&gt;Q&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit / quit LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukončit / ukončit LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Sidebar’s Styles deck</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete balíček Styly postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using the macro recorder</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Write your own functions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Napište vlastní funkce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create function macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořit funkční makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using a macro as a function</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití makra jako funkce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Macro security warnings</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upozornění na zabezpečení makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loaded / unloaded libraries</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Načtené / nezatížené knihovny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Passing arguments to a macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Předávání argumentů makru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arguments are passed as values</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Argumenty jsou předávány jako hodnoty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Writing macros that act like built-in functions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Psaní maker, která fungují jako vestavěné funkce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deleting LibreOffice Basic macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odstranění základních maker LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Accessing cells directly</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přímý přístup k buňkám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorting</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Třídění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Závěr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Basic macro programming</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Základní makro programování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>writing in LibreOffice Basic</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>psaní v LibreOffice Basic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice Basic macro programming</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice Základní programování maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 13 of the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; (entitled &lt;f1&gt;Getting Started with Macros&lt;/f1&gt;) is an introduction to the macro facilities that are available in LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 13 &lt;f0&gt;Příručka Začínáme&lt;/f0&gt; (s názvem &lt;f1&gt;Začínáme s makry&lt;/f1&gt;) je úvodem do makra zařízení, která jsou dostupná v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The current chapter provides further introductory information about the use of macros within a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kapitola obsahuje další úvodní informace o použití maker v tabulce Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An example of a simple macro is one that enters your address into the current cell of an open spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příkladem jednoduchého makra je makro, které zadá vaši adresu do aktuální buňky otevřené tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use macros to automate both simple and complex tasks, and they enable you to introduce new features that are not built into Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makra můžete použít k automatizaci jednoduchých i složitých úkolů a umožňují vám představit nové funkce, které nejsou zabudovány do programu Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The simplest way to create a macro is to record a series of actions through Calc’s user interface.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejjednodušší způsob, jak vytvořit makro, je zaznamenat řadu akcí prostřednictvím uživatelského rozhraní Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc saves recorded macros using the open source LibreOffice Basic scripting language, which is a dialect of the well-known BASIC programming language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc ukládá zaznamenaná makra pomocí otevřeného zdrojového skriptovacího jazyka LibreOffice Basic, což je dialekt známého programovacího jazyka BASIC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The most powerful macros in Calc are created by writing code using one of the four supported scripting languages (LibreOffice Basic, BeanShell, JavaScript, and Python).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejvýkonnější makra v programu Calc jsou vytvářena zápisem kódu pomocí jednoho ze čtyř podporovaných skriptovacích jazyků (LibreOffice Basic, BeanShell, JavaScript a Python).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This chapter provides an overview of Calc’s macro facilities, mostly focused on its default macro scripting language, LibreOffice Basic.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kapitola poskytuje přehled makro funkcí společnosti Calc, většinou zaměřených na výchozí jazyk pro skriptování maker, LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some examples are included for the BeanShell, JavaScript and Python scripting languages but fuller descriptions of the facilities for these languages are beyond the scope of this document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé příklady jsou uvedeny pro skriptovací jazyky BeanShell, JavaScript a Python, ale podrobnější popisy zařízení pro tyto jazyky jsou mimo rozsah tohoto dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recording macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>záznam makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 13 of the &lt;f0&gt;Getting Started Guide&lt;/f0&gt; includes examples showing how to use the macro recorder and understand the generated LibreOffice Basic scripts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 13 &lt;f0&gt;Příručka Začínáme&lt;/f0&gt; obsahuje příklady ukazující, jak používat záznamník maker a jak porozumět vygenerovaným skriptům LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following steps give a further example, specific to a Calc spreadsheet, without the more detailed explanations of the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Následující kroky uvádějí další příklad, specifický pro tabulku Calc, bez podrobnějších vysvětlení &lt;f1&gt;Příručka Začínáme&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A macro is created and saved which performs a paste special with multiply operation across a range of spreadsheet cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je vytvořeno a uloženo makro, které provádí vložení speciálně s násobením operací v celé řadě buněk tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Advanced&lt;/f0&gt; from the Menu bar and select the &lt;f1&gt;Enable macro recording&lt;/f1&gt; option to enable the macro recorder.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Upřesnit&lt;/f0&gt; z panelu nabídek a vyberte ikonu &lt;f1&gt;Povolit záznam makra&lt;/f1&gt; možnost povolení makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;File &gt; New &gt; Spreadsheet&lt;/f0&gt; from the Menu bar to create a new spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Soubor &gt; Nový &gt; Tabulka&lt;/f0&gt; z panelu nabídek vytvořte novou tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter the numbers shown in Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;into cells A1:C3 of the first sheet in the new spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte čísla uvedená na obrázku &lt;t0&gt;1 &lt;/t0&gt;&lt;s1/&gt; do buněk A1: C3 prvního listu v nové tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Enter numbers into cells A1:C3</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Zadejte čísla do buněk A1: C3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select cell A3, which contains the number 3, and use &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt; from the Menu bar to copy the value to the clipboard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buňku A3, která obsahuje číslo 3, a použijte &lt;f0&gt;Úpravy &gt; Kopírovat&lt;/f0&gt; z panelu nabídek zkopírujte hodnotu do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select all cells in the range A1:C3.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte všechny buňky v rozsahu A1: C3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Record Macro&lt;/f0&gt; from the Menu bar to start the macro recorder.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Nástroje &gt; Makra &gt; Záznam makra&lt;/f0&gt; z panelu nabídek spusťte záznam makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc displays the Record Macro dialog, which includes a &lt;f1&gt;Stop Recording&lt;/f1&gt; button (Figure &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc zobrazí dialogové okno Záznam makra, které obsahuje a &lt;f1&gt;Zastavte nahrávání&lt;/f1&gt; tlačítko (obrázek &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Record Macro dialog with Stop Recording button</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Dialogové okno Záznam makra pomocí tlačítka Zastavit záznam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Edit &gt; Paste Special &gt; Paste Special&lt;/f0&gt; from the Menu bar to open the Paste Special dialog (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Úpravy &gt; Vložit jinak &gt; Vložit jinak&lt;/f0&gt; z panelu nabídek otevřete dialog Vložit jinak (obrázek &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Paste Special dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Vložit speciální dialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the &lt;f0&gt;Paste all&lt;/f0&gt; option in the &lt;f1&gt;Selection&lt;/f1&gt; area and the &lt;f2&gt;Multiply&lt;/f2&gt; option in the &lt;f3&gt;Operations&lt;/f3&gt; area, and click &lt;f4&gt;OK&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Vložit vše&lt;/f0&gt; možnost v &lt;f1&gt;Výběr&lt;/f1&gt; oblast a &lt;f2&gt;Násobit&lt;/f2&gt; možnost v &lt;f3&gt;Operace&lt;/f3&gt; a klikněte na &lt;f4&gt;OK&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The values in cells A1:C3 are now multiplied by 3 (Figure &lt;t5&gt;4&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hodnoty v buňkách A1: C3 se nyní vynásobí 3 (obr &lt;t5&gt;4&lt;/t5&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Cells A1:C3 multiplied by 3</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Buňky A1: C3 vynásobené 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Stop Recording&lt;/f0&gt; button to stop the macro recorder.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Zastavte nahrávání&lt;/f0&gt; tlačítko pro zastavení makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc displays a variant of the Basic Macros dialog (Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc zobrazí variantu dialogového okna Basic Macros (obrázek) &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Save Macro In&lt;/f0&gt; area of the Basic Macros dialog shows the existing LibreOffice Basic macros, hierarchically structured into library containers, libraries, modules, and macros as described in Chapter 13 of the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Uložit makro do&lt;/f0&gt; oblast dialogu Základní makra zobrazuje stávající makra LibreOffice Basic, hierarchicky členěná do knihovních kontejnerů, knihoven, modulů a maker, jak je popsáno v kapitole 13 &lt;f1&gt;Příručka Začínáme&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;t2&gt;5&lt;/t2&gt;&lt;s3/&gt;shows the &lt;f4&gt;My Macros&lt;/f4&gt; library container, the &lt;f5&gt;LibreOffice Macros&lt;/f5&gt; library container, the library container for the open &lt;f6&gt;Balance.ods&lt;/f6&gt; file, and the library container for the untitled file created at step &lt;bf7&gt;2&lt;/bf7&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;t2&gt;5 &lt;/t2&gt;&lt;s3/&gt; ukazuje &lt;f4&gt;Moje makra&lt;/f4&gt; knihovní kontejner, &lt;f5&gt;LibreOffice Makra&lt;/f5&gt; kontejner knihovny, kontejner knihovny pro otevřené &lt;f6&gt;Balance.ods&lt;/f6&gt; soubor a kontejner knihovny pro soubor bez názvu vytvořený v kroku &lt;bf7&gt;2&lt;/bf7&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the expand / collapse icons to the left of each library container name to view the libraries, modules and macros within that container.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí ikon rozbalení / sbalení vlevo od každého názvu kontejneru knihovny zobrazíte knihovny, moduly a makra v tomto kontejneru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My Macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Moje makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current document</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aktuální dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;LibreOffice&lt;/f0&gt;&lt;f1&gt; Macros&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;LibreOffice &lt;/f0&gt;&lt;f1&gt; Makra&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new library</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořit novou knihovnu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Expand/collapse icon</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Rozbalte / sbalte ikonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create new module in library</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvoření nového modulu v knihovně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open documents</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřené dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Macros in selected module</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makra ve vybraném modulu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Parts of the Basic Macros dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Části dialogu Základní makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the entry for the current document in the &lt;f0&gt;Save Macro In&lt;/f0&gt; area.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte položku aktuálního dokumentu v &lt;f0&gt;Uložit makro do&lt;/f0&gt; plocha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As the current document in this example has not been saved, it is referred to by its default name &lt;f1&gt;Untitled 1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Protože aktuální dokument v tomto příkladu nebyl uložen, označuje se jeho výchozí název &lt;f1&gt;Bez názvu 1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Documents that have been saved include a macro library named &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uložené dokumenty zahrnují knihovnu maker pojmenovanou &lt;f0&gt;Standard&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This library is not created until the document is saved or the library is needed, so at this point in the example procedure your new document does not contain a library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato knihovna se nevytvoří, dokud není dokument uložen nebo dokud není potřeba knihovna, takže v tomto bodě v příkladu postup váš nový dokument neobsahuje knihovnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can create a new library to contain the macro you have just created, but this is not necessary.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete vytvořit novou knihovnu obsahující makro, které jste právě vytvořili, ale není to nutné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;New Module&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Nový modul&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc displays the New Module dialog (Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc zobrazí dialogové okno Nový modul (Obr &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type a name for the new module or leave the name as the default &lt;f2&gt;Module1&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte název nového modulu nebo ponechte název jako výchozí &lt;f2&gt;Modul 1&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: New Module dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Dialog Nový modul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The libraries, modules and macro names must follow some strict rules.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Knihovny, moduly a názvy maker se musí řídit některými přísnými pravidly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Following the main rules, the names must:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podle hlavních pravidel musí jména:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Begin with a letter</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Začněte dopisem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comprise lower case letters (a..z), upper case letters (A..Z), digits (0..9), and underscore characters (_)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Skládejte malá písmena (a..z), velká písmena (A..Z), číslice (0,.9) a znaky podtržítka (_)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not contain any other spaces, punctuation symbols, or special characters (including accents)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Neobsahují žádné další mezery, interpunkční symboly ani speciální znaky (včetně akcentů)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;OK&lt;/f0&gt; button to create a new module.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;OK&lt;/f0&gt; tlačítko pro vytvoření nového modulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As no macro libraries exist in our current document, Calc automatically creates and uses a &lt;f1&gt;Standard&lt;/f1&gt; library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Protože v našem aktuálním dokumentu neexistují žádné makro knihovny, Calc automaticky vytvoří a použije a &lt;f1&gt;Standard&lt;/f1&gt; knihovna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Basic Macros dialog, select the entry for the newly created module in the &lt;f0&gt;Save Macro In&lt;/f0&gt; area, type the text &lt;f1&gt;PasteMultiply&lt;/f1&gt; in the &lt;f2&gt;Macro Name&lt;/f2&gt; box, and click the &lt;f3&gt;Save&lt;/f3&gt; button (Figure &lt;t4&gt;7&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogu Základní makra vyberte položku nově vytvořeného modulu v dialogu &lt;f0&gt;Uložit makro do&lt;/f0&gt; zadejte text &lt;f1&gt;PasteMultiply&lt;/f1&gt; v &lt;f2&gt;Název makra&lt;/f2&gt; a klikněte na &lt;f3&gt;Uložit&lt;/f3&gt; tlačítko (obrázek &lt;t4&gt;7&lt;/t4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Select the module and name the macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Vyberte modul a pojmenujte makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The macro is saved with the name &lt;f0&gt;PasteMultiply&lt;/f0&gt; in the newly created module within the &lt;f1&gt;Standard&lt;/f1&gt; library of the &lt;f2&gt;Untitled 1&lt;/f2&gt; document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makro je uloženo se jménem &lt;f0&gt;PasteMultiply&lt;/f0&gt; v nově vytvořeném modulu v rámci &lt;f1&gt;Standard&lt;/f1&gt; knihovna knihovny &lt;f2&gt;Bez názvu 1&lt;/f2&gt; dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;t3&gt;1&lt;/t3&gt;&lt;s4/&gt;shows the contents of the macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;t3&gt;1 &lt;/t3&gt;&lt;s4/&gt; ukazuje obsah makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recorded macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>zaznamenané makro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>macro examples</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>makro příklady</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;1&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;Paste special with multiply macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; Vložit speciální pomocí násobení makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sub PasteMultiply&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>sub PasteMultiply &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s1/&gt;rem --------------------------------------------------------------&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s1/&gt; rem ------------------------------------------------- ------------- &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s3/&gt;rem define variables&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s3/&gt; rem definovat proměnné &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s5/&gt;dim document &lt;s6/&gt;as object&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s5/&gt; tlumený dokument &lt;s6/&gt; jako objekt &lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s8/&gt;dim dispatcher as object&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s8/&gt; dim dispečer jako objekt &lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s10/&gt;rem --------------------------------------------------------------&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s10/&gt; rem ------------------------------------------------- ------------- &lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s12/&gt;rem get access to the document&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s12/&gt; získat přístup k dokumentu &lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s14/&gt;document &lt;s15/&gt;= ThisComponent.CurrentController.Frame&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s14/&gt; dokument &lt;s15/&gt; = ThisComponent.CurrentController.Frame &lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s17/&gt;dispatcher = createUnoService("com.sun.star.frame.DispatchHelper")&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s17/&gt; dispatcher = createUnoService ("com.sun.star.frame.DispatchHelper") &lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s20/&gt;rem --------------------------------------------------------------&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s20/&gt; rem ------------------------------------------------- ------------- &lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s22/&gt;dim args1(5) as new com.sun.star.beans.PropertyValue&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s22/&gt; dim args1 (5) jako nový com.sun.star.beans.PropertyValue &lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s24/&gt;args1(0).Name = "Flags"&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s24/&gt; args1 (0).Name = „Flags“ &lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s26/&gt;args1(0).Value = "A"&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s26/&gt; args1 (0).Value = „A“ &lt;br27/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s28/&gt;args1(1).Name = "FormulaCommand"&lt;br29/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s28/&gt; args1 (1).Name = „FormulaCommand“ &lt;br29/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s30/&gt;args1(1).Value = 3&lt;br31/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s30/&gt; args1 (1). Hodnota = 3 &lt;br31/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s32/&gt;args1(2).Name = "SkipEmptyCells"&lt;br33/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s32/&gt; args1 (2).Name = „SkipEmptyCells“ &lt;br33/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s34/&gt;args1(2).Value = false&lt;br35/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s34/&gt; args1 (2). Hodnota = false &lt;br35/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s36/&gt;args1(3).Name = "Transpose"&lt;br37/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s36/&gt; args1 (3).Name = „Transpose“ &lt;br37/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s38/&gt;args1(3).Value = false&lt;br39/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s38/&gt; args1 (3). Hodnota = false &lt;br39/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s40/&gt;args1(4).Name = "AsLink"&lt;br41/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s40/&gt; args1 (4).Name = „AsLink“ &lt;br41/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s42/&gt;args1(4).Value = false&lt;br43/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s42/&gt; args1 (4). Hodnota = false &lt;br43/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s44/&gt;args1(5).Name = "MoveMode"&lt;br45/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s44/&gt; args1 (5).Name = „MoveMode“ &lt;br45/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s46/&gt;args1(5).Value = 4&lt;br47/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s46/&gt; args1 (5). Hodnota = 4 &lt;br47/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br48/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br48/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s49/&gt;dispatcher.executeDispatch(document, ".uno:InsertContents", "", 0, args1())&lt;br50/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s49/&gt; dispatcher.executeDispatch (document, „.uno: InsertContents“, „“, 0, args1 ()) &lt;br50/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br51/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br51/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>creating with macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vytváření pomocí maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>creating your own functions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vytváření vlastních funkcí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can write a macro and then call it as you would call a Calc function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete napsat makro a pak jej zavolat, jako byste nazvali funkci Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the following steps to create a simple function macro:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K vytvoření jednoduchého makra funkce použijte následující kroky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new spreadsheet, save it with the name &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt;, and leave it open in Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvořte novou tabulku a uložte ji se jménem &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt; a nechte ji otevřenou v aplikaci Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; from the Menu bar to open the Basic Macros dialog (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Nástroje &gt; Makra &gt; Uspořádat makra &gt; Základní&lt;/f0&gt; z panelu nabídek otevřete dialog Základní makra (obrázek &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note that the layout of the Basic Macros dialog in this circumstance is different from the version that Calc displays when the user clicks the &lt;f2&gt;Stop Recording&lt;/f2&gt; button on the Record Macro dialog (see Figure &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uvědomte si, že rozvržení dialogového okna Základní makra se za těchto okolností liší od verze, kterou aplikace Calc zobrazí, když uživatel klepne na ikonu &lt;f2&gt;Zastavte nahrávání&lt;/f2&gt; tlačítko v dialogu Záznam makra (viz obr &lt;t3&gt;5&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Macro From&lt;/f0&gt; area lists the available macro library containers, including those relating to any LibreOffice documents that are currently open.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Makro od&lt;/f0&gt; oblast obsahuje seznam dostupných kontejnerů knihoven maker, včetně kontejnerů vztahujících se k aktuálně otevřeným dokumentům LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f1&gt;My Macros&lt;/f1&gt; contains macros that you write or add to LibreOffice and are available to more than one document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f1&gt;Moje makra&lt;/f1&gt; obsahuje makra, která píšete nebo přidáte do LibreOffice a jsou k dispozici pro více než jeden dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f2&gt;LibreOffice Macros&lt;/f2&gt; contains macros that were included with your LibreOffice installation and should not be changed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f2&gt;LibreOffice Makra&lt;/f2&gt; obsahuje makra, která byla součástí vaší instalace LibreOffice a neměla by se měnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Organizer&lt;/f0&gt; to open the Basic Macro Organizer dialog (Figure &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Organizátor&lt;/f0&gt; otevřete dialog Základní organizátor makra (Obr &lt;t1&gt;9&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Basic Macros dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Dialog Základní makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Basic Macro Organizer</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Základní makro organizátor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the &lt;f0&gt;Libraries&lt;/f0&gt; tab and, in the &lt;f1&gt;Location:&lt;/f1&gt; area, select the entry for the name of the current document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Knihovny&lt;/f0&gt; kartu a v &lt;f1&gt;Umístění:&lt;/f1&gt; vyberte položku pro název aktuálního dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f2&gt;Library:&lt;/f2&gt; area updates to show the name of the empty &lt;f3&gt;Standard&lt;/f3&gt; library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f2&gt;Knihovna:&lt;/f2&gt; aktualizace oblasti zobrazující název prázdné &lt;f3&gt;Standard&lt;/f3&gt; knihovna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;New&lt;/f0&gt; to open the New Library dialog to create a new library for this document (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Nový&lt;/f0&gt; otevřete dialogové okno Nová knihovna a vytvořte novou knihovnu pro tento dokument (obr &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: New Library dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Dialog Nová knihovna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter a descriptive library name (such as &lt;f0&gt;AuthorsCalcMacros&lt;/f0&gt;) and click &lt;f1&gt;OK&lt;/f1&gt; to create the library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte popisný název knihovny (například &lt;f0&gt;AutořiCalcMacros&lt;/f0&gt;) a klikněte na &lt;f1&gt;OK&lt;/f1&gt; vytvořit knihovnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f2&gt;Library:&lt;/f2&gt; area of the Basic Macro Organizer dialog updates to include the name of the newly created library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f2&gt;Knihovna:&lt;/f2&gt; oblast aktualizací dialogového okna Základní makro organizátor, aby zahrnovala název nově vytvořené knihovny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A library name can comprise up to 30 characters.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Název knihovny může obsahovat až 30 znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note that in some cases, the dialog may show only a portion of the name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V některých případech může dialog zobrazovat pouze část názvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: The new library is shown in the Library: area</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Nová knihovna se zobrazí v oblasti Library:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integrated Development Environment (IDE) for Basic macro programming</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Integrované vývojové prostředí (IDE) pro základní makro programování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the &lt;f0&gt;AuthorsCalcMacros&lt;/f0&gt; entry in the &lt;f1&gt;Library:&lt;/f1&gt; area and click &lt;f2&gt;Edit&lt;/f2&gt; to edit the library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;AutořiCalcMacros&lt;/f0&gt; zápis do &lt;f1&gt;Knihovna:&lt;/f1&gt; oblast a klikněte &lt;f2&gt;Upravit&lt;/f2&gt; upravit knihovnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc automatically creates a module named &lt;f3&gt;Module1&lt;/f3&gt; and a macro named &lt;f4&gt;Main&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc automaticky vytvoří modul s názvem &lt;f3&gt;Modul 1&lt;/f3&gt; a makro pojmenováno &lt;f4&gt;Hlavní&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc displays the LibreOffice Basic Integrated Development Environment (IDE), shown in Figure &lt;t5&gt;12&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc zobrazí základní integrované vývojové prostředí LibreOffice (IDE), zobrazené na obrázku &lt;t5&gt;12&lt;/t5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: LibreOffice Basic Integrated Development Environment</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : LibreOffice Základní integrované vývojové prostředí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;t0&gt;12&lt;/t0&gt;&lt;s1/&gt;shows the default configuration for the LibreOffice Basic IDE.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;t0&gt;12 &lt;/t0&gt;&lt;s1/&gt; zobrazuje výchozí konfiguraci pro základní IDE LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This comprises:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To zahrnuje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Two toolbars (Macro and Standard).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dva panely nástrojů (Macro a Standard).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Macro toolbar provides various icons for editing and testing programs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel nástrojů Makro poskytuje různé ikony pro úpravy a testování programů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Object Catalog, enabling selection of the required library container, library, module, and macro.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Katalog objektů, který umožňuje výběr požadovaného kontejneru knihovny, knihovny, modulu a makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Editor Window, in which you can edit the LibreOffice Basic program code.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Okno Editor, ve kterém můžete upravovat programový kód LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The column on the left side is used to set breakpoints in the program code.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sloupec na levé straně slouží k nastavení bodů přerušení v programovém kódu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Watch Window (located at the left, below the Object Catalog and Editor Window) displays the contents of variables or arrays during a single step process.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Okno sledování (umístěné vlevo, pod oknem Katalog objektů a editor) zobrazuje obsah proměnných nebo polí během procesu jednoho kroku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Call Stack Window (located to the right, below the Object Catalog and Editor Window) provides information about the call stack of procedures and functions when a program runs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Okno zásobníku volání (umístěné vpravo pod oknem Katalog objektů a editor) poskytuje informace o zásobníku procedur a funkcí při spuštění programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A tab control area.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ovládací oblast karty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A status bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stavový řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The LibreOffice Basic IDE provides powerful facilities for the development and debugging of LibreOffice Basic macros.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice Basic IDE poskytuje výkonné prostředky pro vývoj a ladění maker LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description of this facility is beyond the scope of this document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější popis tohoto zařízení je nad rámec tohoto dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Editor Window, modify the code so that it is the same as that shown in Listing &lt;t0&gt;2&lt;/t0&gt;.The important addition is the creation of the NumberFive function, which returns the value 5.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V okně editoru upravte kód tak, aby byl stejný jako v seznamu &lt;t0&gt;2&lt;/t0&gt;. Důležitým doplňkem je vytvoření funkce NumberFive, která vrací hodnotu 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Option Explicit&lt;/f0&gt; statement forces all variables to be declared before they are used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Možnost Explicitní&lt;/f0&gt; Příkaz vynutí všechny proměnné, které mají být deklarovány před jejich použitím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If &lt;f1&gt;Option Explicit&lt;/f1&gt; is omitted, variables are automatically defined at first use as type &lt;f2&gt;Variant&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Li &lt;f1&gt;Možnost Explicitní&lt;/f1&gt; je vynechán, proměnné jsou automaticky definovány při prvním použití jako typ &lt;f2&gt;Varianta&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>writing your own functions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>psaní vlastních funkcí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;2&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;Function that returns the value 5</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; Funkce, která vrací hodnotu 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>REM &lt;s0/&gt;***** &lt;s1/&gt;BASIC &lt;s2/&gt;*****&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>REM &lt;s0/&gt; ***** &lt;s1/&gt; ZÁKLADNÍ &lt;s2/&gt; ***** &lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option Explicit&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost Explicitní &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sub Main&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sub Main &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End Sub&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>End Sub &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function NumberFive ()&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce NumberFive () &lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s11/&gt;NumberFive = 5&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s11/&gt; NumberFive = 5 &lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End Function</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukončit funkci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the &lt;f0&gt;Save&lt;/f0&gt; button of the Standard toolbar within the LibreOffice Basic IDE to save the modified Module1.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte &lt;f0&gt;Uložit&lt;/f0&gt; tlačítko Standardního panelu nástrojů v LibreOffice Basic IDE k uložení modifikovaného modulu1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Using your newly created &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt; spreadsheet, select a cell and enter the formula &lt;f1&gt;=NumberFive()&lt;/f1&gt; (Figure &lt;t2&gt;13&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí nově vytvořeného &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt; vyberte buňku a zadejte vzorec &lt;f1&gt;= NumberFive ()&lt;/f1&gt; (Postava &lt;t2&gt;13&lt;/t2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc finds the macro, calls it, and displays the result (5) in that cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc najde makro, volá jej a zobrazí výsledek (5) v dané buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Use the NumberFive macro as a Calc function</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Jako funkci Calc použijte makro NumberFive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function names are not case sensitive.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Názvy funkcí nerozlišují velká a malá písmena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Figure &lt;t0&gt;13&lt;/t0&gt;, the function name was entered as &lt;f1&gt;NumberFive()&lt;/f1&gt; but Calc displays it as &lt;f2&gt;NUMBERFIVE()&lt;/f2&gt; in the Formula bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na obrázku &lt;t0&gt;13&lt;/t0&gt;, název funkce byl zadán jako &lt;f1&gt;NumberFive ()&lt;/f1&gt; ale Calc ji zobrazí jako &lt;f2&gt;NUMBERFIVE ()&lt;/f2&gt; ve formuláři.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>security warnings</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>bezpečnostní varování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>security warnings for macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>bezpečnostní varování pro makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You should now save the Calc document, close it, and open it again.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nyní byste měli dokument Calc uložit, zavřít a znovu otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Depending on your settings in the Macro Security dialog accessed using &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Macro Security&lt;/f0&gt; from the Menu bar, Calc may display one of the warnings shown in Figures &lt;t1&gt;14&lt;/t1&gt;&lt;s2/&gt;and &lt;t3&gt;15&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V závislosti na vašich nastaveních v dialogu Zabezpečení maker, ke kterému máte přístup &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Zabezpečení &gt; Zabezpečení maker&lt;/f0&gt; z panelu nabídek může Calc zobrazit jedno z varování zobrazených na obrázcích &lt;t1&gt;14 &lt;/t1&gt;&lt;s2/&gt; a &lt;t3&gt;15&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of the warning shown in Figure &lt;t0&gt;14&lt;/t0&gt;, you will need to click &lt;f1&gt;Enable Macros&lt;/f1&gt;, or Calc will not allow any macros to be run in the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě výstrahy znázorněné na obrázku &lt;t0&gt;14&lt;/t0&gt;, budete muset kliknout &lt;f1&gt;Povolit makra&lt;/f1&gt; nebo Calc neumožní v dokumentu spustit žádná makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you do not expect a document to contain a macro, it is safer to click &lt;f2&gt;Disable Macros&lt;/f2&gt; in case the macro is a virus.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud neočekáváte, že dokument obsahuje makro, je bezpečnější kliknout &lt;f2&gt;Zakázat makra&lt;/f2&gt; v případě, že makro je virus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the case of the warning shown in Figure &lt;t0&gt;15&lt;/t0&gt;, Calc will not allow any macros to be run in the document and you should click the &lt;f1&gt;OK&lt;/f1&gt; button to remove the warning from the screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V případě výstrahy znázorněné na obrázku &lt;t0&gt;15&lt;/t0&gt;, Calc nedovolí v dokumentu spustit žádná makra a měli byste kliknout na &lt;f1&gt;OK&lt;/f1&gt; tlačítko pro odstranění varování z obrazovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When the document loads with macros disabled, Calc will not be able to find any macro functions and will indicate an error in any affected cell by displaying the text &lt;f0&gt;#NAME?&lt;/f0&gt; in that cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když se dokument načte s deaktivovanými makry, Calc nebude schopen najít žádné funkce maker a zobrazí chybu v postižené buňce zobrazením textu &lt;f0&gt;#NÁZEV?&lt;/f0&gt; v té cele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Warning that a document contains macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Upozornění, že dokument obsahuje makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Warning that macros in the document are disabled</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Varování, že makra v dokumentu jsou zakázána</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>loading and unloading libraries</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>načítání a vykládání knihoven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>loading / unloading macro libraries</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>načítání / vykládání makro knihoven</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When it opens a spreadsheet, Calc does not open all macro libraries that it can find in the available library containers because this would be a waste of resources.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když program Calc otevře tabulku, neotevře všechny knihovny maker, které může najít v dostupných kontejnerech knihovny, protože by to byla ztráta zdrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Instead Calc automatically loads just the &lt;f0&gt;Standard&lt;/f0&gt; library within the &lt;f1&gt;My Macros&lt;/f1&gt; library container and the document’s own &lt;f2&gt;Standard&lt;/f2&gt; library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Místo toho Calc automaticky načte jen &lt;f0&gt;Standard&lt;/f0&gt; knihovna v rámci &lt;f1&gt;Moje makra&lt;/f1&gt; kontejner knihovny a vlastní dokument &lt;f2&gt;Standard&lt;/f2&gt; knihovna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No other libraries are automatically loaded.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Žádné další knihovny nejsou automaticky načteny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you re-open your &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt; spreadsheet, Calc does not contain a function named &lt;f1&gt;NumberFive()&lt;/f1&gt;, so it checks all visible, loaded macro libraries for the function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když znovu otevřete &lt;f0&gt;CalcTestMacros.ods&lt;/f0&gt; tabulka, Calc neobsahuje funkci pojmenovanou &lt;f1&gt;NumberFive ()&lt;/f1&gt;, zkontroluje funkci všechny viditelné a načtené makro knihovny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loaded libraries in &lt;f2&gt;LibreOffice Macros&lt;/f2&gt;, &lt;f3&gt;My Macros&lt;/f3&gt;, and the document are checked for an appropriately named function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Načtené knihovny v &lt;f2&gt;LibreOffice Makra&lt;/f2&gt;, &lt;f3&gt;Moje makra&lt;/f3&gt; a dokument je zkontrolován na vhodně pojmenovanou funkci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In our initial implementation, the &lt;f4&gt;NumberFive()&lt;/f4&gt; function is stored in the &lt;f5&gt;AuthorsCalcMacros&lt;/f5&gt; library, which is not automatically loaded when the document is opened.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V naší počáteční implementaci &lt;f4&gt;NumberFive ()&lt;/f4&gt; funkce je uložena v &lt;f5&gt;AutořiCalcMacros&lt;/f5&gt; knihovna, která se při otevření dokumentu automaticky nenačte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hence the &lt;f6&gt;NumberFive()&lt;/f6&gt; function is not found and an error condition appears in the cell where it is called (Figure &lt;t7&gt;16&lt;/t7&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Z tohoto důvodu &lt;f6&gt;NumberFive ()&lt;/f6&gt; funkce nebyla nalezena a v buňce, kde je volána, se objeví chybový stav (obrázek č &lt;t7&gt;16&lt;/t7&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: The macro function is not available</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : Funkce makro není k dispozici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; from the Menu bar to open the Basic Macros dialog (Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Nástroje &gt; Makra &gt; Uspořádat makra &gt; Základní&lt;/f0&gt; z panelu nabídek otevřete dialog Základní makra (obrázek &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The icon for a loaded library (for example, &lt;f2&gt;Standard&lt;/f2&gt;) has a different appearance to the icon for a library that is not loaded (for example, &lt;f3&gt;AuthorsCalcMacros&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ikona načtené knihovny (například &lt;f2&gt;Standard&lt;/f2&gt;) má jiný vzhled než ikona knihovny, která není načtena (například &lt;f3&gt;AutořiCalcMacros&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the expand icon next to &lt;f0&gt;AuthorsCalcMacros&lt;/f0&gt; to load the library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu rozbalení vedle &lt;f0&gt;AutořiCalcMacros&lt;/f0&gt; načíst knihovnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The icon changes appearance to indicate that the library is now loaded.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ikona změní vzhled, což znamená, že knihovna je nyní načtena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f1&gt;Close&lt;/f1&gt; to close the Basic Macros dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f1&gt;Zavřít&lt;/f1&gt; zavřete dialog Základní makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Different symbols for loaded and unloaded libraries</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Různé symboly pro načtené a nezatížené knihovny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unfortunately, the cell containing &lt;f0&gt;=NumberFive()&lt;/f0&gt; in our initial implementation is still in error.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Bohužel buňka obsahuje &lt;f0&gt;= NumberFive ()&lt;/f0&gt; v naší počáteční implementaci je stále chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc does not recalculate cells in error unless you edit them or somehow change them.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc nepřepočítává buňky omylem, pokud je neupravujete nebo je nějak nezměníte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The usual solution is to store macros used as functions in the &lt;f1&gt;Standard&lt;/f1&gt; library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obvyklým řešením je ukládat makra použitá jako funkce do &lt;f1&gt;Standard&lt;/f1&gt; knihovna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the macro is large or if there are many macros, a stub with the desired name is stored in the &lt;f2&gt;Standard&lt;/f2&gt; library.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je makro velké nebo existuje-li mnoho maker, je do souboru uložen pahýl s požadovaným názvem &lt;f2&gt;Standard&lt;/f2&gt; knihovna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The stub macro loads the library containing the implementation and then calls the implementation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makro inzerátu načte knihovnu obsahující implementaci a poté zavolá implementaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following steps illustrate this method.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tuto metodu ilustrují následující kroky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; in the Menu bar to open the Basic Macros dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Nástroje &gt; Makra &gt; Uspořádat makra &gt; Základní&lt;/f0&gt; na panelu nabídek otevřete dialog Základní makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the &lt;f1&gt;NumberFive&lt;/f1&gt; macro and click &lt;f2&gt;Edit&lt;/f2&gt; to open the macro for editing (Figure &lt;t3&gt;18&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f1&gt;NumberFive&lt;/f1&gt; makro a klikněte &lt;f2&gt;Upravit&lt;/f2&gt; pro otevření makra pro úpravy (obr &lt;t3&gt;18&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Select a macro and click Edit</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;18&lt;/seq0&gt; : Vyberte makro a klikněte na Upravit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc displays the LibreOffice Basic IDE (Figure &lt;t0&gt;12&lt;/t0&gt;), with the input cursor in the Editor Window at the line &lt;f1&gt;Function NumberFive ()&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc zobrazí základní IDE LibreOffice (obrázek &lt;t0&gt;12&lt;/t0&gt;), se vstupním kurzorem v okně Editoru na řádku &lt;f1&gt;Funkce NumberFive ()&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change the name of &lt;f2&gt;NumberFive&lt;/f2&gt; to &lt;f3&gt;NumberFive_Implementation&lt;/f3&gt; so that the function’s code matches Listing &lt;t4&gt;3&lt;/t4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změňte název &lt;f2&gt;NumberFive&lt;/f2&gt; na &lt;f3&gt;NumberFive_Implementation&lt;/f3&gt; aby kód funkce odpovídal výpisu &lt;t4&gt;3&lt;/t4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;3&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;3&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;Change the name of NumberFive to NumberFive_Implementation</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; Změňte název NumberFive na NumberFive_Implementation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function NumberFive_Implementation ()&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce NumberFive_Implementation () &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s1/&gt;NumberFive_Implementation = 5&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s1/&gt; NumberFive_Implementation = 5 &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Select Macro&lt;/f0&gt; button in the Standard toolbar of the LibreOffice Basic IDE to open the Basic Macros dialog (Figure &lt;t1&gt;18&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Vyberte makro&lt;/f0&gt; tlačítko na panelu nástrojů Standardní v IDE LibreOffice Basic pro otevření dialogu Základní makra (obrázek 5) &lt;t1&gt;18&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the &lt;f0&gt;Standard&lt;/f0&gt; library in the &lt;f1&gt;CalcTestMacros.ods&lt;/f1&gt; document and click the &lt;f2&gt;New&lt;/f2&gt; button to create a new module.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Standard&lt;/f0&gt; knihovna v &lt;f1&gt;CalcTestMacros.ods&lt;/f1&gt; dokument a klikněte na &lt;f2&gt;Nový&lt;/f2&gt; tlačítko pro vytvoření nového modulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter a meaningful name such as &lt;f3&gt;CalcFunctions&lt;/f3&gt; and click &lt;f4&gt;OK&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte smysluplný název, například &lt;f3&gt;CalcFunctions&lt;/f3&gt; a klikněte &lt;f4&gt;OK&lt;/f4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc automatically creates a macro named Main and opens the module for editing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc automaticky vytvoří makro s názvem Main a otevře modul pro úpravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a macro in the &lt;f0&gt;CalcFunctions&lt;/f0&gt; module of the &lt;f1&gt;Standard&lt;/f1&gt; library that loads the &lt;f2&gt;AuthorsCalcMacros&lt;/f2&gt; library if it is not already loaded, and then calls the implementation function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V makru vytvořte makro &lt;f0&gt;CalcFunctions&lt;/f0&gt; modul &lt;f1&gt;Standard&lt;/f1&gt; knihovna, která načte &lt;f2&gt;AutořiCalcMacros&lt;/f2&gt; knihovna, pokud ještě není načtena, a poté zavolá implementační funkci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Listing &lt;t3&gt;4&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz Výpis &lt;t3&gt;4&lt;/t3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;4&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;Create a new NumberFive function to call the NumberFive_Implementation function</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; Vytvořte novou funkci NumberFive a zavolejte funkci NumberFive_Implementation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function NumberFive()&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce NumberFive () &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s1/&gt;If NOT BasicLibraries.isLibraryLoaded("AuthorsCalcMacros") Then&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s1/&gt; Pokud NENÍ BasicLibrary.isLibraryLoaded („AuthorsCalcMacros“), pak &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s3/&gt;BasicLibraries.LoadLibrary("AuthorsCalcMacros")&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s3/&gt; BasicLibrary.LoadLibrary ("AuthorsCalcMacros") &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s5/&gt;End If&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s5/&gt; Konec If &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s7/&gt;NumberFive = NumberFive_Implementation()&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s7/&gt; NumberFive = NumberFive_Implementation () &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save, close, and reopen the Calc document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uložte, zavřete a znovu otevřete dokument Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This time, if macros are enabled, the &lt;f0&gt;NumberFive()&lt;/f0&gt; function works as expected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tentokrát, pokud jsou povolena makra, &lt;f0&gt;NumberFive ()&lt;/f0&gt; funkce funguje podle očekávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>passing arguments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>předávání argumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arguments, passing to macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>argumenty, předávání do maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To illustrate a function that accepts arguments, we will write a macro that calculates the sum of its arguments that are positive.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro ilustraci funkce, která přijímá argumenty, napíšeme makro, které vypočítá součet jeho argumentů, které jsou pozitivní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It will ignore arguments that are less than zero (see Listing &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Bude ignorovat argumenty, které jsou menší než nula (viz Výpis &lt;t0&gt;5&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;5&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;PositiveSum calculates the sum of its positive arguments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; PositiveSum vypočítá součet svých pozitivních argumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function PositiveSum(Optional x)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce PositiveSum (volitelně x) &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s1/&gt;Dim TheSum As Double&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s1/&gt; Dim TheSum As Double &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s3/&gt;Dim iRow As Integer&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s3/&gt; Dim iRow As Integer &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s5/&gt;Dim iCol As Integer&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s5/&gt; Dim iCol jako celé číslo &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s8/&gt;TheSum = 0.0&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s8/&gt; TheSum = 0,0 &lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s10/&gt;If NOT IsMissing(x) Then&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s10/&gt; Pokud NENÍ IsMissing (x) Pak &lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s12/&gt;If NOT IsArray(x) Then&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s12/&gt; Pokud NENÍ IsArray (x), pak &lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s14/&gt;If x &gt; 0 Then TheSum = x&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s14/&gt; Pokud x &gt; 0, pak TheSum = x &lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s16/&gt;Else&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s16/&gt; Jiný &lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s18/&gt;For iRow = LBound(x, 1) To UBound(x, 1)&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s18/&gt; Pro iRow = LBound (x, 1) Do UBound (x, 1) &lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s20/&gt;For iCol = LBound(x, 2) To UBound(x, 2)&lt;br21/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s20/&gt; Pro iCol = LBound (x, 2) Do UBound (x, 2) &lt;br21/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s22/&gt;If x(iRow, iCol) &gt; 0 Then TheSum = TheSum + x(iRow, iCol)&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s22/&gt; Pokud x (iRow, iCol) &gt; 0 Pak TheSum = TheSum + x (iRow, iCol) &lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s24/&gt;Next&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s24/&gt; další &lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s26/&gt;Next&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s26/&gt; další &lt;br27/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s28/&gt;End If&lt;br29/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s28/&gt; Konec If &lt;br29/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s30/&gt;End If&lt;br31/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s30/&gt; Konec If &lt;br31/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s32/&gt;PositiveSum = TheSum&lt;br33/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s32/&gt; PositiveSum = TheSum &lt;br33/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The macro in &lt;t0&gt;Listing 5&lt;/t0&gt;&lt;s1/&gt;demonstrates some important techniques:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makro v &lt;t0&gt;Výpis 5 &lt;/t0&gt;&lt;s1/&gt; demonstruje některé důležité techniky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The argument &lt;f0&gt;x&lt;/f0&gt; is &lt;f1&gt;Optional&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Argument &lt;f0&gt;X&lt;/f0&gt; je &lt;f1&gt;Volitelný&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When an argument is not &lt;f2&gt;Optional&lt;/f2&gt; and the function is called without it, Calc outputs a warning message every time the macro is called.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když argument není &lt;f2&gt;Volitelný&lt;/f2&gt; a funkce je volána bez ní, Calc vydá varovnou zprávu při každém vyvolání makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If Calc calls the function many times, then the error is displayed many times.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud Calc volá funkci mnohokrát, pak se chyba zobrazí mnohokrát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The function &lt;f0&gt;IsMissing&lt;/f0&gt; checks that an argument was passed before it is used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce &lt;f0&gt;Chybí&lt;/f0&gt; před použitím zkontroluje, zda byl předán argument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The function &lt;f0&gt;IsArray&lt;/f0&gt; checks to see if the argument is a single value, or an array.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce &lt;f0&gt;IsArray&lt;/f0&gt; zkontroluje, zda argument je jedna hodnota nebo pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, &lt;f1&gt;=PositiveSum(7)&lt;/f1&gt; or &lt;f2&gt;=PositiveSum(A4)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například, &lt;f1&gt;= PositiveSum (7)&lt;/f1&gt; nebo &lt;f2&gt;= PositiveSum (A4)&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the first case, the number 7 is &lt;t3/&gt;passed as an argument, and in the second case, the value of cell A4 is passed to the function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V prvním případě je číslo 7 &lt;t3/&gt; předán jako argument, a ve druhém případě je hodnota buňky A4 předána funkci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In both these cases, &lt;f4&gt;IsArray&lt;/f4&gt; returns the value &lt;f5&gt;False&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V obou těchto případech &lt;f4&gt;IsArray&lt;/f4&gt; vrátí hodnotu &lt;f5&gt;Nepravdivé&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a range is passed to the function, it is passed as a two-dimensional array of values; for example, &lt;f0&gt;=PositiveSum(A2:B5)&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je funkci předán rozsah, je předán jako dvourozměrné pole hodnot; například, &lt;f0&gt;= PositiveSum (A2: B5)&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The functions &lt;f1&gt;LBound&lt;/f1&gt; and &lt;f2&gt;UBound&lt;/f2&gt; are used to determine the array bounds that are used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce &lt;f1&gt;LBound&lt;/f1&gt; a &lt;f2&gt;UBound&lt;/f2&gt; se používají k určení hranic pole, které se používají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although the lower bound is one, it is considered safer to use &lt;f3&gt;LBound&lt;/f3&gt; in case it changes in the future.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přestože dolní mez je jedna, považuje se za bezpečnější použití &lt;f3&gt;LBound&lt;/f3&gt; v případě, že se v budoucnu změní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The macro in Listing &lt;t0&gt;5&lt;/t0&gt;&lt;s1/&gt;is careful and checks to see if the argument is an array or a single argument.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makro v seznamu &lt;t0&gt;5 &lt;/t0&gt;&lt;s1/&gt; je opatrný a zkontroluje, zda je argument pole nebo jediný argument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The macro does not verify that each value is numeric.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Makro neověřuje, že každá hodnota je číselná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may be as careful as you like.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete být tak opatrní, jak chcete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The more things you check, the more robust the macro is, but the slower it runs.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Čím více věcí zkontrolujete, tím robustnější je makro, ale čím pomaleji běží.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Passing one argument is as easy as passing two: add another argument to the function definition (see Listing &lt;t0&gt;6&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Předání jednoho argumentu je stejně snadné jako předání dvou: přidejte do definice funkce další argument (viz Výpis &lt;t0&gt;6&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When calling a function with two arguments, separate the arguments with a comma; for example, &lt;f1&gt;=TestMax(3, -4)&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při volání funkce se dvěma argumenty oddělte argumenty čárkou; například, &lt;f1&gt;= TestMax (3, -4)&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;6&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;6&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;TestMax accepts two arguments and returns the larger</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; TestMax přijímá dva argumenty a vrací větší</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function TestMax(x, y)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce TestMax (x, y) &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s1/&gt;If x &gt;= y Then&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s1/&gt; Pokud x &gt; = y, pak &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s3/&gt;TestMax = x&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s3/&gt; TestMax = x &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s5/&gt;Else&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s5/&gt; Jiný &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s7/&gt;TestMax = y&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s7/&gt; TestMax = y &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s9/&gt;End If&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s9/&gt; Konec If &lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arguments passed to a macro from Calc are always values.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Argumenty předávané makru z Calc jsou vždy hodnoty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is not possible to know what cells, if any, are used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Není možné vědět, jaké buňky jsou použity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, &lt;f0&gt;=PositiveSum(A3)&lt;/f0&gt; passes the value of cell A3, and &lt;f1&gt;PositiveSum&lt;/f1&gt; has no way of knowing that cell A3 was used.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například, &lt;f0&gt;= PositiveSum (A3)&lt;/f0&gt; předá hodnotu buňky A3 a &lt;f1&gt;PositiveSum&lt;/f1&gt; nemá možnost vědět, že byla použita buňka A3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you must know which cells are referenced rather than the values in the cells, pass the range as a string, parse the string, and obtain the values in the referenced cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud musíte vědět, na které buňky se odkazuje spíše než na hodnoty v buňkách, předejte rozsah jako řetězec, analyzujte řetězec a získejte hodnoty v odkazovaných buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although Calc finds and calls macros as normal functions, they do not really behave as built-in functions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přestože program Calc najde a volá makra jako normální funkce, ve skutečnosti se nechová jako vestavěné funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, macros do not appear in the function lists.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například makra se neobjeví v seznamech funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It is possible to write functions that behave as regular functions by writing an Add-In.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Je možné psát funkce, které se chovají jako normální funkce, zapsáním doplňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, this is an advanced topic that is for experienced programmers and is beyond the scope of this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jedná se však o pokročilé téma, které je určeno zkušeným programátorům a je nad rámec této příručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the following steps to delete an unwanted macro:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odstranit nežádoucí makro, použijte následující kroky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt; in the Menu bar to open the Basic Macros dialog (see Figure &lt;t1&gt;18&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;14&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f0&gt;Nástroje &gt; Makra &gt; Uspořádat makra &gt; Základní&lt;/f0&gt; v panelu nabídek otevřete dialog Základní makra (viz obrázek 1) &lt;t1&gt;18 &lt;/t1&gt;&lt;s2/&gt; na stránce &lt;t3&gt;14&lt;/t3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the macro to be deleted and click the &lt;f0&gt;Delete&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte makro, které chcete odstranit, a klepněte na &lt;f0&gt;Vymazat&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc displays a confirmation dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc zobrazí potvrzovací dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; to continue.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Ano&lt;/f0&gt; pokračovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Close&lt;/f0&gt; button to remove the Basic Macros dialog from the screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Zavřít&lt;/f0&gt; tlačítko pro odstranění dialogu Základní makra z obrazovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the following steps to delete an unwanted module:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li odstranit nežádoucí modul, použijte následující kroky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Organizer&lt;/f0&gt; button to open the Basic Macro Organizer dialog (Figure &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Organizátor&lt;/f0&gt; tlačítko pro otevření dialogového okna Basic Macro Organizer (Obr &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make sure that the &lt;f0&gt;Modules&lt;/f0&gt; tab is selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ujistěte se, že &lt;f0&gt;Moduly&lt;/f0&gt; je vybrána karta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Basic Macro Organizer dialog, Modules tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;19&lt;/seq0&gt; : Dialog Základní organizátor makra, karta Moduly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the module to be deleted in the &lt;f0&gt;Module&lt;/f0&gt; area.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V modulu vyberte modul, který chcete odstranit &lt;f0&gt;Modul&lt;/f0&gt; plocha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Delete&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Vymazat&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Close&lt;/f0&gt; button to remove the Basic Macro Organizer dialog from the screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Zavřít&lt;/f0&gt; tlačítko pro odstranění dialogu Basic Macro Organizer z obrazovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Close&lt;/f0&gt; button to close the Basic Macros dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Zavřít&lt;/f0&gt; zavřete dialogové okno Základní makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accessing cells with</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přístup k buňkám pomocí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can access the LibreOffice internal objects directly to manipulate a Calc document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přímý přístup k interním objektům LibreOffice umožňuje manipulaci s dokumentem Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For example, the macro in Listing &lt;t0&gt;7&lt;/t0&gt;&lt;s1/&gt;adds the values in cell A2 from every sheet in the current document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Například makro v seznamu &lt;t0&gt;7 &lt;/t0&gt;&lt;s1/&gt; přidá hodnoty v buňce A2 z každého listu aktuálního dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f2&gt;ThisComponent&lt;/f2&gt; is automatically set to reference the current document when the macro starts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f2&gt;Tento komponent&lt;/f2&gt; Při spuštění makra se automaticky nastaví odkaz na aktuální dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Calc document contains sheets and the macro accesses these via a call to &lt;f3&gt;ThisComponent.getSheets()&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dokument Calc obsahuje listy a makro k nim přistupuje prostřednictvím volání &lt;f3&gt;ThisComponent.getSheets ()&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use &lt;f4&gt;getCellByPosition(col, row)&lt;/f4&gt; to return a cell at a specific row and column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití &lt;f4&gt;getCellByPosition (sloupec, řádek)&lt;/f4&gt; vrátit buňku na konkrétní řádek a sloupec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accessing cells directly</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přímý přístup k buňkám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;7&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;7&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;SumCellsAllSheets adds the values in cell A2 of every sheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; SumCellsAllSheets přidá hodnoty do buňky A2 každého listu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Function SumCellsAllSheets()&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Funkce SumCellsAllSheets () &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s3/&gt;Dim i As integer&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s3/&gt; Dim i As integer &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s5/&gt;Dim oSheets&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s5/&gt; Dim oSheets &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s7/&gt;Dim oSheet&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s7/&gt; Dim oSheet &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s9/&gt;Dim oCell&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s9/&gt; Dim oCell &lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t12/&gt; &lt;s13/&gt;TheSum = 0&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t12/&gt;&lt;s13/&gt; TheSum = 0 &lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s15/&gt;oSheets = ThisComponent.getSheets()&lt;br16/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s15/&gt; oSheets = ThisComponent.getSheets () &lt;br16/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s17/&gt;For i = 0 To oSheets.getCount() - 1&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s17/&gt; Pro i = 0 na oSheets.getCount () - 1 &lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s19/&gt;oSheet = oSheets.getByIndex(i)&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s19/&gt; oSheet = oSheets.getByIndex (i) &lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s21/&gt;oCell = oSheet.getCellByPosition(0, 1) ' GetCell A2&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s21/&gt; oCell = oSheet.getCellByPosition (0, 1) &amp;#39;GetCell A2 &lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s23/&gt;TheSum = TheSum + oCell.getValue()&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s23/&gt; TheSum = TheSum + oCell.getValue () &lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s25/&gt;Next&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s25/&gt; další &lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s27/&gt;SumCellsAllSheets = TheSum&lt;br28/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s27/&gt; SumCellsAllSheets = TheSum &lt;br28/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A cell object supports the methods getValue(), getString(), and getFormula() to get the numerical value, the string value, or the formula used in a cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buňkový objekt podporuje metody getValue (), getString () a getFormula () pro získání numerické hodnoty, hodnoty řetězce nebo vzorce použitého v buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the corresponding set functions to set appropriate values.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte odpovídající sady funkcí k nastavení příslušných hodnot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use oSheet.getCellRangeByName("A2") to return a range of cells by name.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pomocí oSheet.getCellRangeByName ("A2") vraťte rozsah buněk podle názvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a single cell is referenced, then a cell object is returned.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se odkazuje na jednu buňku, je vrácen objekt buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a cell range is given, then an entire range of cells is returned (see Listing &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud je uveden rozsah buněk, je vrácena celá řada buněk (viz Výpis &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notice that a cell range returns data as an array of arrays, which is more cumbersome than treating it as an array with two dimensions as is done in Listing &lt;t1&gt;5&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všimněte si, že oblast buněk vrací data jako pole polí, což je těžkopádnější než to, že se s nimi zachází jako s poli se dvěma dimenzemi, jako je tomu v seznamu. &lt;t1&gt;5&lt;/t1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;8&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;8&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;SumCellsAllSheets adds the values in cells A2:C5 of every sheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; SumCellsAllSheets přidá hodnoty do buněk A2: C5 každého listu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s3/&gt;Dim iRow As Integer, iCol As Integer, i As Integer&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s3/&gt; Dim iRow As Integer, iCol As Integer, i As Integer &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s5/&gt;Dim oSheets, oSheet, oCells&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s5/&gt; Dim oSheets, oSheet, oCells &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s7/&gt;Dim oRow(), oRows()&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s7/&gt; Dim oRow (), oRows () &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s10/&gt;TheSum = 0&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s10/&gt; TheSum = 0 &lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s12/&gt;oSheets = ThisComponent.getSheets()&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s12/&gt; oSheets = ThisComponent.getSheets () &lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s14/&gt;For i = 0 To oSheets.getCount() - 1&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s14/&gt; Pro i = 0 na oSheets.getCount () - 1 &lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s16/&gt;oSheet = oSheets.getByIndex(i)&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s16/&gt; oSheet = oSheets.getByIndex (i) &lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s18/&gt;oCells = oSheet.getCellRangeByName("A2:C5")&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s18/&gt; oCells = oSheet.getCellRangeByName ("A2: C5") &lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s21/&gt;REM The getDataArray() method returns strings &lt;f22&gt;and numbers&lt;br23/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s21/&gt; REM Metoda getDataArray () vrací řetězce &lt;f22&gt;a čísla &lt;br23/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s24/&gt;REM but is not used in this function.&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s24/&gt; REM, ale v této funkci se nepoužívá. &lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;/f22&gt;&lt;br26/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;/f22&gt;&lt;br26/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s27/&gt;REM The getData() method returns only numbers &lt;f28&gt;and is applicable&lt;br29/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s27/&gt; REM Metoda getData () vrací pouze čísla &lt;f28&gt;a je použitelné &lt;br29/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s30/&gt;REM to this function&lt;/f28&gt;.&lt;br31/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s30/&gt; REM k této funkci&lt;/f28&gt;. &lt;br31/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br32/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br32/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s33/&gt;oRows() = oCells.getData()&lt;br34/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s33/&gt; oRows () = oCells.getData () &lt;br34/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s35/&gt;For iRow = LBound(oRows()) To UBound(oRows())&lt;br36/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s35/&gt; Pro iRow = LBound (oRows ()) Do UBound (oRows ()) &lt;br36/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s37/&gt;oRow() = oRows(iRow)&lt;br38/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s37/&gt; oRow () = oRows (iRow) &lt;br38/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s39/&gt;For iCol = LBound(oRow()) To UBound(oRow())&lt;br40/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s39/&gt; Pro iCol = LBound (oRow ()) Do UBound (oRow ()) &lt;br40/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s41/&gt;TheSum = TheSum + oRow(iCol)&lt;br42/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s41/&gt; TheSum = TheSum + oRow (iCol) &lt;br42/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s43/&gt;Next&lt;br44/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s43/&gt; další &lt;br44/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s45/&gt;Next&lt;br46/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s45/&gt; další &lt;br46/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s47/&gt;Next&lt;br48/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s47/&gt; další &lt;br48/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s49/&gt;SumCellsAllSheets = TheSum&lt;br50/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s49/&gt; SumCellsAllSheets = TheSum &lt;br50/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When a macro is called as a Calc function, the macro cannot modify any value in the sheet from which the macro was called, except the value of the cell that contains the function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když je makro nazýváno jako funkce Calc, makro nemůže upravit žádnou hodnotu v listu, ze kterého bylo makro vyvoláno, s výjimkou hodnoty buňky, která obsahuje funkci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sorting with</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>třídění s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>using macros</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>pomocí maker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sorting</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>třídění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Consider sorting the data shown in Figure &lt;t0&gt;20&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvažte třídění dat uvedených na obrázku &lt;t0&gt;20&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First, sort on column B descending and then on column A ascending.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nejprve seřaďte sloupec B sestupně a poté sloupec A vzestupně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Sort column B descending and column A ascending</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;20&lt;/seq0&gt; : Seřadit sloupec B sestupně a sloupec A vzestupně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The example in Listing &lt;t0&gt;9&lt;/t0&gt;&lt;s1/&gt;demonstrates how to sort on these two columns.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příklad v seznamu &lt;t0&gt;9 &lt;/t0&gt;&lt;s1/&gt; ukazuje, jak seřadit podle těchto dvou sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Run the macro by clicking the &lt;f2&gt;Run&lt;/f2&gt; icon in the Macro toolbar of the LibreOffice Basic IDE.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Spusťte makro kliknutím na &lt;f2&gt;Běh&lt;/f2&gt; na panelu nástrojů Makro základního IDE LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;9&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;9&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;SortRange sorts cells A1:C5 of Sheet 1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; SortRange třídí buňky A1: C5 listu 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sub SortRange&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podřazené řazení &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s1/&gt;Dim oSheet &lt;s2/&gt;' Calc sheet containing data to sort.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s1/&gt; Dim oSheet &lt;s2/&gt; &amp;#39;Vypočítat list obsahující data k třídění. &lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s4/&gt;Dim oCellRange &lt;s5/&gt;' Data range to sort.&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s4/&gt; Dim oCellRange &lt;s5/&gt; „Rozsah dat k řazení. &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s8/&gt;REM An array of sort fields determines the columns that are&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s8/&gt; REM Pole sloupců určuje sloupce, které jsou &lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s10/&gt;REM sorted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s10/&gt; REM seřazeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is an array with two elements, 0 and 1.&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto je pole se dvěma prvky, 0 a 1. &lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s12/&gt;REM To sort on only one column, use:&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s12/&gt; REM Chcete-li seřadit pouze do jednoho sloupce, použijte: &lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s14/&gt;REM Dim oSortFields(0) As New com.sun.star.util.SortField&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s14/&gt; REM Dim oSortFields (0) jako nový com.sun.star.util.SortField &lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s16/&gt;Dim oSortFields(1) As New com.sun.star.util.SortField&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s16/&gt; Dim oSortFields (1) Jako nový com.sun.star.util.SortField &lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br18/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br18/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s19/&gt;REM The sort descriptor is an array of properties.&lt;br20/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s19/&gt; REM Deskriptor řazení je pole vlastností. &lt;br20/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s21/&gt;REM The primary property contains the sort fields.&lt;br22/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s21/&gt; REM Primární vlastnost obsahuje pole řazení. &lt;br22/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s23/&gt;Dim oSortDesc(0) As New com.sun.star.beans.PropertyValue&lt;br24/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s23/&gt; Dim oSortDesc (0) jako nový com.sun.star.beans.PropertyValue &lt;br24/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br25/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br25/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s26/&gt;REM Get the sheet named "Sheet1"&lt;br27/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s26/&gt; REM Získejte list s názvem „List1“ &lt;br27/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s28/&gt;oSheet = ThisComponent.Sheets.getByName("Sheet1")&lt;br29/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s28/&gt; oSheet = ThisComponent.Sheets.getByName ("Sheet1") &lt;br29/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br30/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br30/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s31/&gt;REM Get the cell range to sort&lt;br32/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s31/&gt; REM Získejte rozsah buněk k třídění &lt;br32/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s33/&gt;oCellRange = oSheet.getCellRangeByName("A1:C5")&lt;br34/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s33/&gt; oCellRange = oSheet.getCellRangeByName ("A1: C5") &lt;br34/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br35/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br35/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s36/&gt;REM Select the range to sort.&lt;br37/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s36/&gt; REM Vyberte rozsah, který chcete třídit. &lt;br37/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s38/&gt;REM The only purpose would be to emphasize the sorted data.&lt;br39/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s38/&gt; REM Jediným účelem by bylo zdůraznit tříděná data. &lt;br39/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s40/&gt;'ThisComponent.getCurrentController.select(oCellRange)&lt;br41/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s40/&gt; &amp;#39;ThisComponent.getCurrentController.select (oCellRange) &lt;br41/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br42/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br42/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s43/&gt;REM The columns are numbered starting with 0, so&lt;br44/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s43/&gt; REM Sloupce jsou číslovány počínaje 0, tedy &lt;br44/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s45/&gt;REM column A is 0, column B is 1, etc.&lt;br46/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s45/&gt; Sloupec REM je 0, sloupec B je 1 atd. &lt;br46/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s47/&gt;REM Sort column B (column 1) descending.&lt;br48/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s47/&gt; REM Seřadit sloupec B (sloupec 1) sestupně. &lt;br48/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s49/&gt;oSortFields(0).Field = 1&lt;br50/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s49/&gt; oSortFields (0).Field = 1 &lt;br50/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s51/&gt;oSortFields(0).SortAscending = FALSE&lt;br52/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s51/&gt; oSortFields (0).SortAscending = FALSE &lt;br52/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t53/&gt;&lt;br54/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t53/&gt;&lt;br54/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s55/&gt;REM If column B has two cells with the same value,&lt;br56/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s55/&gt; REM Pokud má sloupec B dvě buňky se stejnou hodnotou, &lt;br56/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s57/&gt;REM then use column A ascending to decide the order.&lt;br58/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s57/&gt; REM pak pomocí sloupce A vzestupně rozhodne o pořadí. &lt;br58/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s59/&gt;oSortFields(1).Field = 0&lt;br60/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s59/&gt; oSortFields (1).Field = 0 &lt;br60/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s61/&gt;oSortFields(1).SortAscending = TRUE&lt;br62/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s61/&gt; oSortFields (1).SortAscending = PRAVDA &lt;br62/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br63/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br63/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s64/&gt;REM Setup the sort descriptor.&lt;br65/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s64/&gt; REM Nastavte popisovač řazení. &lt;br65/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s66/&gt;oSortDesc(0).Name = "SortFields"&lt;br67/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s66/&gt; oSortDesc (0).Name = „SortFields“ &lt;br67/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s68/&gt;oSortDesc(0).Value = oSortFields()&lt;br69/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s68/&gt; oSortDesc (0).Hodnota = oSortFields () &lt;br69/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br70/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br70/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s71/&gt;REM Sort the range.&lt;br72/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s71/&gt; REM Seřadit rozsah. &lt;br72/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;s73/&gt;oCellRange.Sort(oSortDesc())&lt;br74/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;s73/&gt; oCellRange.Sort (oSortDesc ()) &lt;br74/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End Sub</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>End Sub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Many programmers may not be familiar with LibreOffice Basic and so Calc supports macros written in three other languages that may be more familiar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mnoho programátorů nemusí znát LibreOffice Basic, a proto Calc podporuje makra napsaná ve třech dalších jazycích, které mohou být lépe známy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These are BeanShell, JavaScript, and Python.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jedná se o BeanShell, JavaScript a Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The primary macro scripting language for Calc is LibreOffice Basic and the standard LibreOffice installation provides a powerful integrated development environment (IDE) together with more options for this language.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Primárním skriptovacím jazykem pro program Calc je LibreOffice Basic a standardní instalace LibreOffice poskytuje výkonné integrované vývojové prostředí (IDE) spolu s dalšími možnostmi pro tento jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you use the macro recording facility, Calc creates the macro in LibreOffice Basic.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při použití funkce záznamu makra Calc vytvoří makro v LibreOffice Basic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To use the other available scripting languages you must write the code yourself.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít další dostupné skriptovací jazyky, musíte tento kód napsat sami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select to run a macro using &lt;f0&gt;Tools &gt; Macros &gt; Run Macro&lt;/f0&gt; from the Menu bar, Calc displays the Macro Selector dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když vyberete spuštění makra pomocí &lt;f0&gt;Nástroje &gt; Makra &gt; Spustit makro&lt;/f0&gt; na panelu nabídek zobrazí Calc dialogové okno Výběr makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This dialog enables selection and running of any available macro, coded in any of the available languages (Figure &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Toto dialogové okno umožňuje výběr a spuštění jakéhokoli dostupného makra, kódovaného v kterémkoli z dostupných jazyků (obrázek 5) &lt;t1&gt;21&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select to edit a macro using &lt;f0&gt;Tools &gt; Macros &gt; Edit Macros&lt;/f0&gt; from the Menu bar, Calc displays the LibreOffice Basic IDE.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když se rozhodnete upravit makro pomocí &lt;f0&gt;Nástroje &gt; Makra &gt; Upravit makra&lt;/f0&gt; z lišty nabídek zobrazí Calc základní IDE LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Macro Selector dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;21&lt;/seq0&gt; : Dialog pro výběr makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BeanShell macro programming</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Programování makro BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>writing in Beanshell</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>psaní v Beanshell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; BeanShell&lt;/f0&gt; from the Menu bar, Calc displays the BeanShell Macros dialog (Figure &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když vyberete &lt;f0&gt;Nástroje &gt; Makra &gt; Uspořádat makra &gt; BeanShell&lt;/f0&gt; z panelu nabídek Calc zobrazí dialogové okno Makra BeanShell (obrázek 5) &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt; button on the BeanShell Macros dialog to access the BeanShell Debug Window (Figure &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Upravit&lt;/f0&gt; tlačítko v dialogu Makra BeanShell pro přístup do okna ladění BeanShell (obrázek &lt;t1&gt;23&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: BeanShell Macros dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;22&lt;/seq0&gt; : Dialogové okno Makra BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: BeanShell Debug Window</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;23&lt;/seq0&gt; : Debianové okno BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt;is an example of a BeanShell macro that inserts the text “Hello World from BeanShell” in cell A1 of the active Calc spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;t0&gt;10 &lt;/t0&gt;&lt;s1/&gt; je příklad makra BeanShell, které vkládá text „Hello World from BeanShell“ do buňky A1 aktivní tabulky Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Beanshell</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Beanshell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;10&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;10&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;Sample BeanShell macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; Ukázkové makro BeanShell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>writing in JavaScript</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>psaní v JavaScriptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JavaScript macro programming</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Programování makra JavaScriptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; JavaScript&lt;/f0&gt; from the Menu bar, Calc displays the JavaScript Macros dialog (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když vyberete &lt;f0&gt;Nástroje &gt; Makra &gt; Uspořádat makra &gt; JavaScript&lt;/f0&gt; z panelu nabídek Calc zobrazí dialogové okno Makra JavaScriptu (obrázek) &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: JavaScript Macros dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;24&lt;/seq0&gt; : Dialogová okna Makra JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rhino JavaScript debugger</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ladicí program pro Rhino JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Edit&lt;/f0&gt; button on the JavaScript Macros dialog to access the Rhino JavaScript Debugger (Figure &lt;t1&gt;25&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Upravit&lt;/f0&gt; tlačítko v dialogovém okně Makra JavaScriptu pro přístup k Debuggeru JavaScript pro Rhino (obrázek &lt;t1&gt;25&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Rhino JavaScript Debugger</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;25&lt;/seq0&gt; : Debugger JavaScriptu pro Rhino</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;t0&gt;11&lt;/t0&gt;&lt;s1/&gt;is an example of a JavaScript macro that inserts the text “Hello World from JavaScript” in cell A1 of the first sheet in a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;t0&gt;11 &lt;/t0&gt;&lt;s1/&gt; je příklad makra JavaScriptu, které vkládá text „Ahoj svět z JavaScriptu“ do buňky A1 prvního listu tabulky Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>JavaScript</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>JavaScript</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;11&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;11&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;Sample JavaScript macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; Ukázkové makro JavaScriptu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>documentRef = XSCRIPTCONTEXT.getDocument();&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>documentRef = XSCRIPTCONTEXT.getDocument (); &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t7/&gt;&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t7/&gt;&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spreadsheetInterface = UnoRuntime.queryInterface(XSpreadsheetDocument, documentRef);&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>spreadsheetInterface = UnoRuntime.queryInterface (XSpreadsheetDocument, documentRef); &lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>allSheets = UnoRuntime.queryInterface(XIndexAccess, spreadsheetInterface.getSheets());&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>allSheets = UnoRuntime.queryInterface (XIndexAccess, spreadsheetInterface.getSheets ()); &lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>theSheet = allSheets.getByIndex(0);&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>theSheet = allSheets.getByIndex (0); &lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;br14/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;br14/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cells = UnoRuntime.queryInterface(XCellRange,theSheet);&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Buňky = UnoRuntime.queryInterface (XCellRange, theSheet); &lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cellA1 = Cells.getCellByPosition(0,0);&lt;br17/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>cellA1 = Cells.getCellByPosition (0,0); &lt;br17/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>theCell = UnoRuntime.queryInterface(XCell,cellA1);&lt;br19/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>theCell = UnoRuntime.queryInterface (XCell, cellA1); &lt;br19/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Python macro programming</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Programování maker v Pythonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>writing in Python</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>psaní v Pythonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you select &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Python&lt;/f0&gt; from the Menu bar, Calc displays the Python Macros dialog (Figure &lt;t1&gt;26&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když vyberete &lt;f0&gt;Nástroje &gt; Makra &gt; Uspořádat makra &gt; Python&lt;/f0&gt; z panelu nabídek zobrazí Calc dialogové okno Python Macros (obrázek) &lt;t1&gt;26&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Python Macros dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;26&lt;/seq0&gt; : Dialog Python Makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternative Python Script Organizer (APSO) extension</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alternativní Python Script Organizer (APSO) rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternative Python Script Organizer (APSO)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alternativní organizátor skriptů Python (APSO)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However you can edit Python scripts with your preferred text editor or an external IDE.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Skripty Pythonu však můžete upravit pomocí preferovaného textového editoru nebo externího IDE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For more information search for Python in the LibreOffice Help system and visit the &lt;f0&gt;Designing &amp; Developing Python Applications&lt;/f0&gt; section of The Document Foundation’s wiki (&lt;a1&gt;https://wiki.documentfoundation.org/Macros/Python_Design_Guide&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro více informací hledejte Python v systému nápovědy LibreOffice a navštivte stránku &lt;f0&gt;Navrhování a vývoj aplikací Python&lt;/f0&gt; část wiki Nadace dokumentů ( &lt;a1&gt;https://wiki.documentfoundation.org/Macros/Python_Design_Guide&lt;/a1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;t0&gt;12&lt;/t0&gt;&lt;s1/&gt;is an example of a Python macro that sets cell A1 of the first sheet in a Calc spreadsheet to the text “Hello World from Python”.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;t0&gt;12 &lt;/t0&gt;&lt;s1/&gt; je příklad makra Python, které nastaví buňku A1 prvního listu tabulky Calc na text „Hello World from Python“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Python</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Krajta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Listing &lt;seq0&gt;12&lt;/seq0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výpis &lt;seq0&gt;12&lt;/seq0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;i1/&gt;Sample Python macro</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;i1/&gt; Ukázkové makro Python</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>def HelloWorld():</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>def HelloWorld ():</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>doc = XSCRIPTCONTEXT.getDocument()</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>doc = XSCRIPTCONTEXT.getDocument ()</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cell = doc.Sheets[0]['A1']</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>cell = doc.Sheets [0] [&amp;#39;A1&amp;#39;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cell.setString('Hello World from Python')</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>cell.setString („Ahoj svět z Pythonu“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>return</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>vrátit se</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This chapter provides an overview of how to create libraries and modules, using the macro recorder, using macros as Calc functions, and writing your own macros without the macro recorder.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kapitola poskytuje přehled o tom, jak vytvářet knihovny a moduly, pomocí makra, používání maker jako funkcí Calc a psaní vlastních maker bez makra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each topic deserves at least one chapter, and writing your own macros for Calc could easily fill an entire book.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každé téma si zaslouží alespoň jednu kapitolu a psaní vlastních maker pro Calc může snadno zaplnit celou knihu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In other words, this is just the beginning of what you can learn.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jinými slovy, toto je jen začátek toho, co se můžete naučit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional detail about Calc’s macro facilities can be obtained from the Help system, The Document Foundation’s wiki pages (for example &lt;a0&gt;https://wiki.documentfoundation.org/Macros&lt;/a0&gt;) and other Internet sources (for example the &lt;a1&gt;http://ask.libreoffice.org/&lt;/a1&gt; Q&amp;A site).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další podrobnosti o makro zařízeních společnosti Calc lze získat ze systému nápovědy, například na wiki stránkách The Document Foundation &lt;a0&gt;https://wiki.documentfoundation.org/Macros&lt;/a0&gt;) a další internetové zdroje (například Internet &lt;a1&gt;http://ask.libreoffice.org/&lt;/a1&gt; Otázky a odpovědi).</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

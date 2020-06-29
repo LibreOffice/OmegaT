@@ -1,0 +1,2135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 11 Reviewing and Sharing Spreadsheets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 11 Kontrola a sdílení tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 11 Reviewing and Sharing Spreadsheets&lt;segment 11187 ¶&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 11 Kontrola a sdílení tabulek &lt;segment 11187 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Saving versions&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Ukládání verzí&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;12&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 11 Reviewing and Sharing Spreadsheets&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;12 &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;Kapitola 11 Kontrola a sdílení tabulek&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Chapter 11 Reviewing and Sharing Spreadsheets&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Kapitola 11 Kontrola a sdílení tabulek &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 11 Reviewing and Sharing Spreadsheets&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;4&lt;/t0&gt; | &lt;t1&gt;Kapitola 11 Kontrola a sdílení tabulek&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Documentation for LibreOffice is available&lt;/f0&gt;&lt;f1&gt; at &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt;https://documentation.libreoffice.org/en/&lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;K dispozici je dokumentace pro LibreOffice &lt;/f0&gt;&lt;f1&gt; v &lt;/f1&gt;&lt;a2&gt;&lt;f3&gt;&lt;f4&gt; https://documentation.libreoffice.org/en/ &lt;/f4&gt;&lt;/f3&gt;&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chapter 11 &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kapitola 11 &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sharing and Reviewing Spreadsheets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sdílení a recenze tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book is adapted and updated from the &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;Calc Guide&lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kniha je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt; Průvodce kalkulačkou &lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;t0&gt;June&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For a more detailed list, see the application Help and Appendix A (Keyboard Shortcuts) to this guide.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnější seznam najdete v nápovědě k aplikaci a v příloze A (Klávesové zkratky) této příručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;Q&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; + &lt;f1&gt;Q&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit / quit LibreOffice</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukončit / ukončit LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the Sidebar’s Styles deck</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete balíček Styly postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sharing spreadsheets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sdílení tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Setting up a spreadsheet for sharing</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastavení tabulky pro sdílení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opening a shared spreadsheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevření sdílené tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Saving a shared spreadsheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uložení sdílené tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reviewing documents</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kontrola dokumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preparing a document for review (optional)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příprava dokumentu ke kontrole (volitelné)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Recording changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Záznam změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding comments to changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidávání komentářů ke změnám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editing comments on changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy komentářů ke změnám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding other (general) comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidání dalších (obecných) komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Editing general comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Editace obecných komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formatting general comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formátování obecných komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finding general comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nalezení obecných komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Accepting or rejecting changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přijímání nebo odmítání změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Merging documents</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sloučení dokumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comparing documents</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Porovnání dokumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Saving versions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukládání verzí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This chapter covers methods for collaboration through sharing and reviewing spreadsheets: simultaneous editing, recording changes, adding comments, reviewing changes, merging and comparing documents, saving, and using document versions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kapitola se zabývá metodami spolupráce prostřednictvím sdílení a kontroly tabulek: simultánní úpravy, zaznamenávání změn, přidávání komentářů, prohlížení změn, slučování a porovnávání dokumentů, ukládání a používání verzí dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some menu commands are not available (grayed out) when sharing or change tracking are active.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé příkazy nabídky nejsou k dispozici (jsou zobrazeny šedě), když jsou aktivní sdílení nebo změna sledování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sharing with other users</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>sdílení s ostatními uživateli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shared  spreadsheets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>sdílené tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sharing a spreadsheet allows several users to open the same file for editing at the same time.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sdílení tabulky umožňuje několika uživatelům otevřít stejný soubor pro úpravy současně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The spreadsheet needs to be on a shared drive, server, website, or similar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulka musí být na sdílené jednotce, serveru, webu nebo podobně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some conditions must be met on operating systems with user permission management:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V operačních systémech musí být splněny některé podmínky pro správu uživatelských oprávnění:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The shared file needs to reside in a location which is accessible by all collaborators.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sdílený soubor musí být umístěn na místě, které je přístupné všem spolupracovníkům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The file permissions for both the document and the corresponding lock file need to be set so that all collaborators can create, delete, and change the files.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Oprávnění k souboru pro dokument i odpovídající soubor zámku je třeba nastavit, aby všichni spolupracovníci mohli soubory vytvářet, mazat a měnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Consult your operating system’s documentation for details on setting file permissions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Podrobnosti o nastavení oprávnění k souborům najdete v dokumentaci k operačnímu systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See also “Opening and saving files on remote servers” in Chapter 1, Introducing LibreOffice, in the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz také „Otevření a uložení souborů na vzdálených serverech“ v kapitole 1, Představujeme LibreOffice, v systému Windows &lt;f0&gt;Příručka Začínáme&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each collaborator should enter their name in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý spolupracovník by měl zadat své jméno do &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Uživatelská data&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>setting up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With the spreadsheet open, choose &lt;f0&gt;Tools &gt; Share Spreadsheet&lt;/f0&gt; to enable or disable sharing.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete tabulku a zvolte &lt;f0&gt;Nástroje &gt; Sdílet tabulku&lt;/f0&gt; pro povolení nebo zakázání sdílení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Choosing to share a spreadsheet</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Výběr sdílení tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To enable sharing, select the checkbox at the top of the dialog (Figure &lt;t0&gt;1&lt;/t0&gt;) and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li sdílení povolit, zaškrtněte políčko v horní části dialogu (obrázek 5) &lt;t0&gt;1&lt;/t0&gt;) a klikněte na &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the spreadsheet has been saved previously, a message appears stating that you must save it to activate shared mode; click &lt;f2&gt;Yes&lt;/f2&gt; to continue.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud byla tabulka dříve uložena, zobrazí se zpráva, že ji musíte uložit pro aktivaci sdíleného režimu; klikněte &lt;f2&gt;Ano&lt;/f2&gt; pokračovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the spreadsheet has not been saved previously, the Save dialog opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud dosud nebyla tabulka uložena, otevře se dialogové okno Uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After saving, the text “(shared)” is shown on the Title bar, after the title.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po uložení se za nadpisem v záhlaví zobrazí text „(sdílený)“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Tools &gt; Share Spreadsheet&lt;/f0&gt; can also be used to switch a spreadsheet from shared to unshared.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nástroje &gt; Sdílet tabulku&lt;/f0&gt; lze také použít k přepínání tabulky ze sdíleného na nesdílený.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However, this means that other users can no longer edit it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To však znamená, že ostatní uživatelé ji již nemohou upravovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Instead, you may wish to save a copy of the shared spreadsheet using another name or path, thus creating a copy of the shared spreadsheet, and then switch the copy to unshared.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Místo toho můžete chtít uložit kopii sdílené tabulky pod jiným jménem nebo cestou, čímž vytvoříte kopii sdílené tabulky a poté přepnete kopii na nesdílenou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>list of disabled features</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>seznam zakázaných funkcí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you open a shared spreadsheet, a message appears stating that some features are not available in this mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když otevřete sdílenou tabulku, zobrazí se zpráva, že některé funkce nejsou v tomto režimu k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to open the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; otevřít dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can select the option to not show the warning again.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete vybrat možnost, aby se varování již nezobrazovalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The following features are disabled in a shared spreadsheet:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ve sdílené tabulce jsou zakázány následující funkce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Edit &gt; Track Changes&lt;/f0&gt;, except for &lt;f1&gt;Merge Document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Úpravy &gt; Sledovat změny&lt;/f0&gt;, až na &lt;f1&gt;Sloučit dokument&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Insert &gt; Media &gt; Audio or Video&lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Vložit &gt; Média &gt; Zvuk nebo Video &lt;/f0&gt;&lt;f1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Comment&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Komentář &lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Object&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Objekt &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Chart&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Graf &lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;/f1&gt;&lt;f6&gt;Insert &gt; Named Range or Expression&lt;/f6&gt;&lt;f7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;/f1&gt;&lt;f6&gt; Vložit &gt; Pojmenovaný rozsah nebo výraz &lt;/f6&gt;&lt;f7&gt;&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;/f7&gt;&lt;f9&gt;Insert &gt; Pivot Table&lt;/f9&gt;&lt;f10&gt;&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;/f7&gt;&lt;f9&gt; Vložit &gt; Kontingenční tabulka &lt;/f9&gt;&lt;f10&gt;&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Floating Frame&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Plovoucí rám &lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;/f10&gt;&lt;f13&gt;Insert &gt; Fontwork&lt;/f13&gt;&lt;f14&gt;&lt;br15/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;/f10&gt;&lt;f13&gt; Vložit &gt; Písmo &lt;/f13&gt;&lt;f14&gt;&lt;br15/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;/f14&gt;&lt;f16&gt;Insert &gt; Signature Line&lt;/f16&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;/f14&gt;&lt;f16&gt; Vložit &gt; Podpisový řádek&lt;/f16&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Merge Cells&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Sloučit buňky &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Print Ranges</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Rozsahy tisku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Sheet &gt; Move or Copy &lt;/f0&gt;&lt;f1&gt;Sheet &lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;List &gt; Přesunout nebo Kopírovat &lt;/f0&gt;&lt;f1&gt; Prostěradlo &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; &lt;/f1&gt;&lt;f3&gt;Delete &lt;/f3&gt;&lt;f4&gt;Sheet&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; &lt;/f1&gt;&lt;f3&gt; Vymazat &lt;/f3&gt;&lt;f4&gt; Prostěradlo &lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Insert Sheet from File&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Vložit list ze souboru &lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Named Ranges and Expressions&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Pojmenované rozsahy a výrazy &lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Rename Sheet&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Přejmenovat list &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Sheet Tab Color&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Barva karty List&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Data &gt; Define Range&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Data &gt; Definujte rozsah &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Sort&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Seřadit &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;/f0&gt;&lt;f3&gt;Data &gt; Sort Ascending&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;/f0&gt;&lt;f3&gt; Data &gt; Seřadit vzestupně &lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Sort Descending&lt;/f3&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Seřadit sestupně &lt;/f3&gt;&lt;f5&gt;&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Subtotals&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Mezisoučty &lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Validity&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Platnost &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Multiple Operations&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Více operací &lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Consolidate&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Konsolidovat &lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Grou&lt;/f5&gt;&lt;f11&gt;p and &lt;/f11&gt;&lt;f12&gt;Outline&lt;br13/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Grou &lt;/f5&gt;&lt;f11&gt; pa &lt;/f11&gt;&lt;f12&gt; Obrys &lt;br13/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Pivot Table&lt;/f12&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Kontingenční tabulka&lt;/f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Tools &gt; Protect Shee&lt;/f0&gt;&lt;f1&gt;t&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nástroje &gt; Chránit shee &lt;/f0&gt;&lt;f1&gt; t &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;/f1&gt;&lt;f3&gt;Tools &gt; Protect Spreadsheet Structure&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;/f1&gt;&lt;f3&gt; Nástroje &gt; Chránit strukturu tabulky&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you save a shared spreadsheet, if it has not been modified and saved by another user since you opened it, it is saved as usual.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud sdílenou tabulku uložíte, pokud nebyla změněna a uložena jiným uživatelem od jejího otevření, uloží se jako obvykle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the spreadsheet has been modified and saved by another user since you opened it, one of the following will occur:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud byla tabulka od jejího otevření upravena a uložena jiným uživatelem, dojde k jedné z následujících situací:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the changes do not conflict, the document is saved, the message “Your spreadsheet has been updated with changes saved by other users” appears, and any cells modified by the other user are shown with a red border.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud změny nejsou v konfliktu, dokument se uloží, zobrazí se zpráva „Vaše tabulka byla aktualizována se změnami uloženými jinými uživateli“ a všechny buňky upravené jiným uživatelem se zobrazí s červeným rámečkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Resolve Conflicts dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Dialog Vyřešit konflikty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the changes conflict, the Resolve Conflicts dialog (Figure &lt;t0&gt;2&lt;/t0&gt;) is shown.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud dojde ke konfliktu změn, zobrazí se dialog Řešení konfliktů (obrázek 2) &lt;t0&gt;2&lt;/t0&gt;) je ukázáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You must decide for each conflict which version to keep, yours or the other person’s.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Musíte se rozhodnout pro každý konflikt, kterou verzi si ponecháte, vaši nebo jinou osobu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When all conflicts are resolved, the document is saved.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po vyřešení všech konfliktů se dokument uloží.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>While you are resolving the conflicts, no other user can save the shared document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Během řešení konfliktů nemůže žádný sdílený dokument uložit žádný jiný uživatel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If another user is trying to save the shared spreadsheet and resolve conflicts, they see a message that the file is locked due to a merge in progress.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se jiný uživatel pokouší uložit sdílenou tabulku a vyřešit konflikty, zobrazí se zpráva, že soubor je uzamčen kvůli probíhající sloučení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>They can cancel the Save command and retry saving later.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mohou zrušit příkaz Uložit a zkusit znovu uložit později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you successfully save a shared spreadsheet, the document shows the latest version of all changes saved by all users.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když úspěšně uložíte sdílenou tabulku, dokument zobrazí nejnovější verzi všech změn uložených všemi uživateli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reviewing</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>revize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use several methods to review, edit, and comment on a spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>K prohlížení, úpravám a komentování tabulky můžete použít několik metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each reviewer works on a separate copy of the document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Každý recenzent pracuje na samostatné kopii dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use change marks to show added and deleted material.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít značky změn k zobrazení přidaného a odstraněného materiálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Later, you or another person can review the document and accept or reject each change.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Později můžete vy nebo jiná osoba dokument zkontrolovat a každou změnu přijmout nebo odmítnout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can make changes to a copy of the document (stored in a different folder, under a different name, or both), then use Calc to compare the files and show the changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete provést změny na kopii dokumentu (uloženého v jiné složce, pod jiným názvem nebo pod oběma) a poté pomocí Calc porovnat soubory a zobrazit změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can save versions that are stored as part of the original file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete uložit verze, které jsou uloženy jako součást původního souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reviewers can leave comments in the document, either attached to specific changes or standalone.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Recenzenti mohou v dokumentu zanechat komentáře buď připojené ke konkrétním změnám, nebo samostatně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>preparing a document for review</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>příprava dokumentu k přezkoumání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reviewing spreadsheets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>prohlížení tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before you send a spreadsheet to someone else to review or edit, you may want to set it up so that the editor or reviewer does not have to remember to turn on the revision marks.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Než odešlete tabulku někomu jinému ke kontrole nebo úpravě, můžete ji nastavit tak, aby si editor nebo recenzent nemusel pamatovat zapnutí revizních značek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After you have turned on revision marks, you can optionally password protect the spreadsheet so that any user must enter the correct password in order to accept or reject changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po zapnutí značek revizí můžete volitelně chránit tabulku heslem, takže každý uživatel musí zadat správné heslo, aby mohl přijmout nebo odmítnout změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the spreadsheet and select &lt;f0&gt;Edit &gt; Track Changes &gt; Record&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete tabulku a vyberte &lt;f0&gt;Úpravy &gt; Sledování změn &gt; Záznam&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use &lt;f1&gt;File &gt; Properties &gt; Security&lt;/f1&gt; and select &lt;f2&gt;Record changes&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také použít &lt;f1&gt;Soubor &gt; Vlastnosti &gt; Zabezpečení&lt;/f1&gt; a vyberte &lt;f2&gt;Zaznamenejte změny&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Optional) Click &lt;f0&gt;Edit &gt; Track Changes &gt; Protect&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>(Volitelné) Klikněte na &lt;f0&gt;Úpravy &gt; Sledovat změny &gt; Chránit&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the Protect Records dialog, type a password (twice) and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V dialogu Chránit záznamy zadejte heslo (dvakrát) a klikněte na &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also use &lt;f2&gt;File &gt; Properties &gt; Security&lt;/f2&gt; and click the &lt;f3&gt;Protect&lt;/f3&gt; button to open the Enter Password dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také použít &lt;f2&gt;Soubor &gt; Vlastnosti &gt; Zabezpečení&lt;/f2&gt; a klikněte na &lt;f3&gt;Chránit&lt;/f3&gt; otevřete dialogové okno Zadat heslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tracking changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>sledování změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recording changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nahrávání změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recording / tracking</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nahrávání / sledování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To record changes, open the spreadsheet and make sure that the &lt;f0&gt;Edit &gt; Track Changes &gt; Record&lt;/f0&gt; menu item has a check mark next to it, indicating that change recording is active.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zaznamenat změny, otevřete tabulku a ujistěte se, že &lt;f0&gt;Úpravy &gt; Sledování změn &gt; Záznam&lt;/f0&gt; položka nabídky má vedle ní zaškrtnutí, což znamená, že změna záznamu je aktivní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After making some changes, do &lt;f0&gt;not&lt;/f0&gt; turn off change recording.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po provedení některých změn proveďte &lt;f0&gt;ne&lt;/f0&gt; vypněte nahrávání změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Turning off change recording in Calc causes all the recorded changes to be accepted and no longer shown as changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vypnutí záznamu změn v programu Calc způsobí, že všechny zaznamenané změny budou přijaty a nebudou již zobrazeny jako změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A message box will warn you if you try to do this.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud se to pokusíte, zobrazí se okno se zprávou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When changes are made in a cell, a colored border with a dot in the upper left-hand corner appears around the cell (Figure &lt;t0&gt;3&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když jsou změny provedeny v buňce, kolem buňky se objeví barevný rámeček s tečkou v levém horním rohu (obrázek 5) &lt;t0&gt;3&lt;/t0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A deleted column or row is marked by a heavy colored bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odstraněný sloupec nebo řádek je označen těžkým barevným pruhem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Edited document with red border on changed cells</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Upravený dokument s červeným rámečkem na změněných buňkách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To see the changed information, hover the mouse pointer over the changed cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit změněné informace, umístěte ukazatel myši na změněnou buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Showing details of the change</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Zobrazují se podrobnosti o změně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some changes, for example cell formatting, are not recorded and marked.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé změny, například formátování buněk, nejsou zaznamenány a označeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To change the color that indicates a changed cell, select &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Changes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li změnit barvu označující změněnou buňku, vyberte &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Calc &gt; Změny&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You may want to explain your rationale for the changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možná budete chtít vysvětlit své změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can do this by adding comments to the changes you made or by adding general comments to the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To lze provést přidáním komentářů k provedeným změnám nebo přidáním obecných komentářů do tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding comments on</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přidávání komentářů k</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc automatically adds to any recorded change a comment that describes what was changed (for example, &lt;f0&gt;Cell B4 changed from ‘9’ to ‘4’&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc automaticky přidá ke každé zaznamenané změně komentář, který popisuje, co bylo změněno (například &lt;f0&gt;Buňka B4 se změnila z „9“ na „4“&lt;/f0&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reviewers and authors can add their own comments to explain their reasons for the changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Recenzenti a autoři mohou přidat své vlastní komentáře, aby vysvětlili své důvody ke změnám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a comment to a change:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přidání komentáře ke změně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Make the change to the spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Proveďte změnu v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the cell with the change.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buňku se změnou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;Edit &gt; Track Changes &gt; Comment&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Úpravy &gt; Sledovat změny &gt; Komentář&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A small dialog opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se malý dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type your comment and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zadejte svůj komentář a klikněte &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See Figure &lt;t2&gt;5&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Viz obrázek &lt;t2&gt;5&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do &lt;f0&gt;not&lt;/f0&gt; use &lt;f1&gt;Insert &gt; Comment&lt;/f1&gt; from the Menu bar or the context menu for this purpose.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dělat &lt;f0&gt;ne&lt;/f0&gt; použití &lt;f1&gt;Vložit &gt; Komentář&lt;/f1&gt; z panelu nabídek nebo z místní nabídky pro tento účel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comments inserted using that method are handled differently (see page &lt;bf2&gt;9&lt;/bf2&gt;) and do not appear in the Manage Changes dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Komentáře vložené touto metodou jsou zpracovávány odlišně (viz stránka &lt;bf2&gt;9&lt;/bf2&gt;) a nezobrazí se v dialogu Spravovat změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Entering a comment associated with a change</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Vložení komentáře spojeného se změnou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After you have added a comment to a changed cell, you can see the change and the comment by hovering the mouse pointer over the cell, as shown in Figure &lt;t0&gt;6&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po přidání komentáře ke změněné buňce můžete vidět změnu a komentář tak, že umístíte kurzor myši na buňku, jak je znázorněno na obrázku &lt;t0&gt;6&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Comment added to cell B3</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Komentář byl přidán do buňky B3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The comment also appears in the dialog when you are accepting and rejecting changes, as shown in the first line of Figure &lt;t0&gt;10&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;11&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Komentář se také zobrazí v dialogu, když přijímáte a odmítáte změny, jak je uvedeno v prvním řádku obrázku &lt;t0&gt;10 &lt;/t0&gt;&lt;s1/&gt; na stránce &lt;t2&gt;11&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>editing comments on</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>editace komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the cell with the change comment that you want to edit.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buňku s komentářem ke změně, který chcete upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The box shown in Figure &lt;t1&gt;5&lt;/t1&gt;&lt;s2/&gt;opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Box znázorněný na obrázku &lt;t1&gt;5 &lt;/t1&gt;&lt;s2/&gt; otevře se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the comment and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Upravte komentář a klikněte na &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The automatically-added comment provided by Calc cannot be edited.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Automaticky přidaný komentář poskytovaný programem Calc nelze upravovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can move through the comments by using the arrows at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete se pohybovat v komentářích pomocí šipek ve spodní části dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>using (general) comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>pomocí (obecných) komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adding comments to changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přidávání komentářů ke změnám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comments</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>komentáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc provides another type of comments, which authors and reviewers often use to exchange ideas or ask for suggestions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc poskytuje další typ komentářů, které autoři a recenzenti často používají k výměně nápadů nebo k žádání o návrhy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To add a general comment:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li přidat obecný komentář:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the cell that the comment applies to.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte buňku, pro kterou se komentář použije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Insert &gt; Comment&lt;/f0&gt; or right-click and select &lt;f1&gt;Insert Comment&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Vložit &gt; Komentář&lt;/f0&gt; nebo klikněte pravým tlačítkem a vyberte &lt;f1&gt;Vložte komentář&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The box shown in Figure &lt;t2&gt;7&lt;/t2&gt;&lt;s3/&gt;appears.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Box znázorněný na obrázku &lt;t2&gt;7 &lt;/t2&gt;&lt;s3/&gt; objeví se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Inserting a comment</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Vložení komentáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type your comment in the box, then click outside the box to close it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Do pole zadejte svůj komentář a kliknutím mimo rámeček jej uzavřete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now the cell to which you added the comment has a colored dot in the upper right-hand corner, as shown in Figure &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nyní má buňka, do které jste přidali komentář, v pravém horním rohu barevnou tečku, jak je znázorněno na obrázku &lt;t0&gt;8&lt;/t0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It does not have a colored border, unless the cell was also changed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nemá barevné ohraničení, pokud nebyla také změněna buňka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Colored dot in cell containing a comment</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Barevná tečka v buňce obsahující komentář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the colors Calc uses for comments by selecting &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f0&gt; and adjusting the color for &lt;f1&gt;Notes background.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Výběrem můžete změnit barvy, které Calc používá pro komentáře &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Barvy aplikace&lt;/f0&gt; a úpravu barvy pro &lt;f1&gt;Poznámky pozadí.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To view the comment you just added, hover the mouse pointer over the cell that has a comment; the comment appears, as shown below.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit právě přidaný komentář, umístěte ukazatel myši na buňku, která má komentář; objeví se komentář, jak je znázorněno níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Viewing a comment</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Prohlížení komentáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>editing comments on changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>úpravy komentářů ke změnám</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can edit and format the text of a general comment, just as you do for any other text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete upravovat a formátovat text obecného komentáře, stejně jako u jakéhokoli jiného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the cell containing the comment marker and choose &lt;f0&gt;Edit comment&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na buňku obsahující značku komentáře a vyberte &lt;f0&gt;Upravit komentář&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc shows the cell’s comment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc ukazuje komentář buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The cursor changes to the usual text-entry cursor, and the Formatting toolbar changes to show text attributes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kurzor se změní na obvyklý kurzor pro zadávání textu a panel nástrojů Formátování se změní tak, aby zobrazoval atributy textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When editing is done, click outside the comment to deselect it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po dokončení úprav klepnutím mimo komentář zrušte výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>formatting</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can change the background color, border style, transparency, and other attributes of a comment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete změnit barvu pozadí, styl ohraničení, průhlednost a další atributy komentáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-click on the cell containing the comment marker, and choose &lt;f0&gt;Show comment&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na buňku obsahující značku komentáře a vyberte &lt;f0&gt;Zobrazit komentář&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the comment itself.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na samotný komentář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Formatting toolbar changes to show many of the comment formatting options.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Panel nástrojů Formátování se změní a zobrazí mnoho možností formátování komentářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These are the same as the options for formatting graphics; see Chapter 5, Using Graphics, for more information.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Jsou stejné jako možnosti formátování grafiky; Další informace viz Kapitola 5, Používání grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also right-click on the comment to see a menu of choices, some of which lead to dialogs in which you can fine-tune the formatting; these dialogs are also discussed in Chapter 5.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také kliknout pravým tlačítkem na komentář a zobrazit nabídku možností, z nichž některé vedou k dialogům, ve kterých můžete doladit formátování; tyto dialogy jsou také popsány v kapitole 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When done, click outside the comment to deselect it.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Až budete hotovi, klikněte mimo komentář a zrušte výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To hide the comment again, right-click on the cell and choose &lt;f0&gt;Hide Comment&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li komentář znovu skrýt, klepněte pravým tlačítkem myši na buňku a vyberte &lt;f0&gt;Skrýt komentář&lt;/f0&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>finding</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>nález</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The small comment markers in the corners of cells can be difficult to see, so Calc provides two other ways to find them: by showing all comments and by using the Navigator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Malé značky komentářů v rozích buněk mohou být obtížně viditelné, takže Calc poskytuje další dva způsoby, jak je najít: zobrazením všech komentářů a pomocí Navigátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To show all general comments, choose &lt;f0&gt;View &gt; Comments&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zobrazit všechny obecné komentáře, zvolte &lt;f0&gt;Zobrazit &gt; Komentáře&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To hide all comments, choose &lt;f1&gt;View Comments&lt;/f1&gt; again.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li skrýt všechny komentáře, zvolte &lt;f1&gt;Zobrazit komentáře&lt;/f1&gt; znovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If any general comments are in the spreadsheet, the Navigator shows a symbol (usually a + or an arrow) next to the word &lt;f0&gt;Comments&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud jsou v tabulce nějaké obecné poznámky, zobrazí Navigátor vedle slova symbol (obvykle + nebo šipku) &lt;f0&gt;Komentáře&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on this symbol to display a list of comments.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kliknutím na tento symbol zobrazíte seznam komentářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click on a comment in the list to jump directly to the cell it is associated with.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poklepáním na komentář v seznamu přejdete přímo na buňku, se kterou je spojen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;View &gt; Comments&lt;/f0&gt; and the Navigator show general comments but not the comments associated with tracked changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zobrazit &gt; Komentáře&lt;/f0&gt; a Navigátor zobrazí obecné komentáře, ale nikoli komentáře spojené se sledovanými změnami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accepting or rejecting</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přijetí nebo odmítnutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rejecting changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>odmítnutí změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accepting changes</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>přijímání změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you receive a document with changes, you can step through each change and decide how to proceed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Když obdržíte dokument se změnami, můžete projít každou změnou a rozhodnout se, jak pokračovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To begin this process:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li zahájit tento proces:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the edited document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete upravený dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Edit &gt; Track Changes &gt; Manage&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Úpravy &gt; Sledování změn &gt; Spravovat&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The Manage Changes dialog shown in Figure &lt;t1&gt;10&lt;/t1&gt;&lt;s2/&gt;appears.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialog Správa změn zobrazený na obrázku &lt;t1&gt;10 &lt;/t1&gt;&lt;s2/&gt; objeví se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can step through the changes one at a time, choosing to accept or reject each change as you go through.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete procházet změny jeden po druhém a rozhodnout se přijmout nebo odmítnout každou změnu, jak procházíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also accept or reject all changes at one time.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také přijmout nebo odmítnout všechny změny najednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Comment&lt;/f0&gt; column by default contains an explanation of the change that was made.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Komentář&lt;/f0&gt; sloupec ve výchozím nastavení obsahuje vysvětlení provedené změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the reviewer added a comment to the change, it is displayed, followed by the description of the change.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud recenzent přidal ke změně komentář, zobrazí se a následuje popis změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If a change has been superseded by a later change (by either the same person or another person), the changes are hierarchically arranged with an expansion symbol for opening up the hierarchy.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud byla změna nahrazena pozdější změnou (stejnou osobou nebo jinou osobou), jsou změny hierarchicky uspořádány se symbolem rozšíření pro otevření hierarchie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Below the list of changes to be accepted or rejected are shown any changes that have previously been dealt with.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pod seznamem změn, které mají být přijaty nebo odmítnuty, jsou uvedeny všechny změny, které byly dříve řešeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>On the &lt;f0&gt;Filter&lt;/f0&gt; tab of this dialog (Figure &lt;t1&gt;11&lt;/t1&gt;), you can choose how to filter the list of changes: by date, author, cell range, or comments containing specific terms.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Na &lt;f0&gt;Filtr&lt;/f0&gt; záložka tohoto dialogu (obr &lt;t1&gt;11&lt;/t1&gt;), můžete si vybrat, jak filtrovat seznam změn: podle data, autora, rozsahu buněk nebo komentářů obsahujících konkrétní výrazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After selecting the filter criteria, switch back to the &lt;f2&gt;List&lt;/f2&gt; tab to see the results.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po výběru kritérií filtru přepněte zpět na &lt;f2&gt;Seznam&lt;/f2&gt; zobrazíte výsledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filtering the changes affects only the contents of the &lt;f3&gt;List&lt;/f3&gt; tab on the dialog, you will not see any filtered results in your spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Filtrování změn ovlivní pouze obsah &lt;f3&gt;Seznam&lt;/f3&gt; Na kartě v dialogu se v tabulce nezobrazí žádné filtrované výsledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Manage Changes dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Dialogové okno Spravovat změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Filters set here affect the list of changes shown on the List tab</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Zde nastavené filtry ovlivňují seznam změn zobrazených na kartě Seznam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>merging</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>slučování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>merging spreadsheets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>slučování tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The processes discussed to this point are effective when you have one reviewer at a time.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Procesy diskutované v tomto bodě jsou účinné, pokud máte jednoho recenzenta najednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sometimes, however, multiple reviewers all return edited versions of a document at the same time.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Někdy však více recenzentů vrací všechny upravené verze dokumentu najednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this case, it may be faster to review all of the changes at once, rather than one review at a time.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V takovém případě může být rychlejší zkontrolovat všechny změny najednou, než jednu kontrolu najednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For this purpose, you can merge documents in Calc.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Za tímto účelem můžete sloučit dokumenty do aplikace Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To merge documents, all of the edited documents need to have recorded changes in them.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li sloučit dokumenty, musí všechny upravené dokumenty v nich zaznamenat změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the original document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete původní dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Edit &gt; Track Changes &gt; Merge Document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Úpravy &gt; Sledování změn &gt; Sloučit dokument&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A file selection dialog opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se dialogové okno pro výběr souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a file you want to merge and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte soubor, který chcete sloučit, a klikněte na &lt;f0&gt;otevřeno&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After the documents merge, the Manage Changes dialog opens, showing changes by more than one reviewer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po sloučení dokumentů se otevře dialog Spravovat změny, který ukazuje změny více než jedním recenzentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you want to merge more documents, close the dialog and then repeat steps 2 and 3.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud chcete sloučit více dokumentů, zavřete dialog a opakujte kroky 2 a 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Now all of the changes are combined into one document and you can accept or reject the changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nyní jsou všechny změny sloučeny do jednoho dokumentu a změny můžete přijmout nebo odmítnout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changes from different authors appear in cells outlined in different colors.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Změny od různých autorů se objevují v buňkách v různých barvách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comparing spreadsheets</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>porovnání tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comparing</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>porovnání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sometimes reviewers may not record the changes they make.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Recenzenti někdy nemusí zaznamenat provedené změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc can find the changes by comparing documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc dokáže najít změny porovnáním dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In order to compare documents you need to have the original document and the one that is edited.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Abyste mohli porovnat dokumenty, musíte mít původní dokument a ten, který je upravován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To compare them:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li je porovnat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open the edited document that you want to compare with the original document.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevřete upravený dokument, který chcete porovnat s původním dokumentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select &lt;f0&gt;Edit &gt; Track Changes &gt; Compare Document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Úpravy &gt; Sledování změn &gt; Porovnání dokumentu&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An open document dialog appears.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazí se dialogové okno otevřeného dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select the original document and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyberte původní dokument a klikněte na &lt;f0&gt;otevřeno&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Calc finds and marks the changes as follows:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Calc zjistí a označí změny následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All data that occurs in the edited document but not in the original is identified as inserted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechna data, která se vyskytují v upraveném dokumentu, ale nikoli v originálu, jsou označena jako vložená.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All data in the original document that is not in the edited document is identified as deleted.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechna data v původním dokumentu, která nejsou v upraveném dokumentu, jsou označena jako smazaná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All data that is changed is marked as changed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Všechna změněná data jsou označena jako změněná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From this point you can go through and accept or reject changes as described earlier.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Od tohoto okamžiku můžete procházet a přijímat nebo odmítat změny, jak je popsáno výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>versions, saving</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>verze, ukládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>saving versions</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>ukládání verzí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For auditing and other purposes, you may need to save new versions of a spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pro účely auditu a pro jiné účely budete možná muset uložit nové verze tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can do this by saving a copy of the spreadsheet (under a different name) after each revision, or by using Calc’s version feature.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>To lze provést uložením kopie tabulky (pod jiným názvem) po každé revizi nebo pomocí funkce verze Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you select &lt;f0&gt;File &gt; Save As&lt;/f0&gt; for a document with different versions stored in it, the old versions are not saved in the new file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud vyberete &lt;f0&gt;Soubor &gt; Uložit jako&lt;/f0&gt; u dokumentu s různými verzemi v něm nejsou staré verze uloženy do nového souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To use version management in Calc:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použití správy verzí v Calc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &lt;f0&gt;File &gt; Versions&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybrat &lt;f0&gt;Soubor &gt; Verze&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A version management dialog (Figure &lt;t1&gt;12&lt;/t1&gt;) opens, showing a list of the existing versions saved in this file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialog pro správu verzí (obrázek &lt;t1&gt;12&lt;/t1&gt;) se zobrazí seznam existujících verzí uložených v tomto souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Version management dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Dialog pro správu verzí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click the &lt;f0&gt;Save New Version&lt;/f0&gt; button to save a new version.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Uložit novou verzi&lt;/f0&gt; tlačítko pro uložení nové verze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A dialog (Figure &lt;t1&gt;13&lt;/t1&gt;) opens where you can enter comments about this version.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dialog (Obr &lt;t1&gt;13&lt;/t1&gt;), kde můžete zadat komentáře k této verzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Insert Version Comment dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Dialog Vložit komentář verze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After you enter your comment and click &lt;f0&gt;OK&lt;/f0&gt;, the new version is included in the Existing Versions list (Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po zadání komentáře a kliknutí na &lt;f0&gt;OK&lt;/f0&gt;, nová verze je zahrnuta do seznamu Existující verze (obrázek &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Updated version list</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Aktualizovaný seznam verzí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save the file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uložte soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Both versions are now included in the same file.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obě verze jsou nyní součástí stejného souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From this point you can:</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Od tohoto okamžiku můžete:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View an old version – Select the version and click &lt;f0&gt;Open&lt;/f0&gt;: a read-only copy of a previous version opens.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit starou verzi - Vyberte verzi a klikněte na &lt;f0&gt;otevřeno&lt;/f0&gt; : otevře se kopie předchozí verze pouze pro čtení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compare all versions – Clicking &lt;f0&gt;Compare&lt;/f0&gt; performs an action similar to merging documents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Porovnat všechny verze - kliknutím &lt;f0&gt;Porovnat&lt;/f0&gt; provede akci podobnou sloučení dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Manage Changes dialog opens, showing all of the changes through the different versions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře se dialog Spravovat změny, zobrazující všechny změny v různých verzích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Review the version comments – Select a version and click &lt;f0&gt;Show&lt;/f0&gt; to display the full comments made by yourself or other reviewers.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zkontrolujte komentáře k verzi - Vyberte verzi a klikněte na &lt;f0&gt;Ukázat&lt;/f0&gt; pro zobrazení úplných komentářů od vás nebo jiných recenzentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete a version – Select a version and click &lt;f0&gt;Delete&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Smazat verzi - Vyberte verzi a klikněte na &lt;f0&gt;Vymazat&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

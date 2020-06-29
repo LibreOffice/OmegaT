@@ -1,0 +1,4351 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Appendix A Keyboard Shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dodatek A Klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Příloha A Klávesové zkratky&lt;segment 14102 ¶&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příloha A Klávesové zkratky &lt;segment 14102 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Appendix A Keyboard Shortcuts&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;0 &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;Dodatek A Klávesové zkratky&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;Appendix A Keyboard Shortcuts&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;Dodatek A Klávesové zkratky &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;t0&gt;20&lt;/t0&gt;| &lt;t1&gt;Appendix A Keyboard Shortcuts&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;t0&gt;20&lt;/t0&gt; | &lt;t1&gt;Dodatek A Klávesové zkratky&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Appendix A &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příloha A &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This book is adapted and updated from the &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;Calc Guide&lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tato kniha je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt; Průvodce kalkulačkou &lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gordon Bates</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Gordon Bates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Simon Brydon</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Simon Brydon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sandeep Samuel Medikonda</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Sandeep Samuel Medikonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Zachary Parliman</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zachary Parliman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Published &lt;t0&gt;June&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Windows / Linux keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klávesové zkratky pro Windows / Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keyboard shortcuts associated with Menu bar options and toolbars</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klávesové zkratky spojené s možnostmi panelu nabídek a panely nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other Calc keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další klávesové zkratky Calc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chart keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klávesové zkratky grafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Outline keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nastínit klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keyboard shortcuts that cannot be modified</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klávesové zkratky, které nelze změnit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>macOS keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>klávesové zkratky pro MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>macOS keyboard symbols</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>symboly klávesnice MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this appendix you will find a set of keyboard shortcuts for Calc and these allow you to execute commands without using a pointing device, such as a mouse or a trackball.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V této příloze najdete sadu klávesových zkratek pro Calc, které umožňují provádět příkazy bez použití polohovacího zařízení, jako je myš nebo trackball.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shortcuts are identified for the Windows, Linux, and macOS operating systems.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klávesové zkratky jsou určeny pro operační systémy Windows, Linux a MacOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When you first install LibreOffice, a default set of Calc keyboard shortcuts is available and these are described in this chapter, assuming no customization.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při první instalaci LibreOffice je k dispozici výchozí sada klávesových zkratek Calc, které jsou popsány v této kapitole a nepředpokládají se žádné úpravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>When using Calc, you will discover shortcuts for your common interactions by observing the key sequences identified on the legends of relevant menu options, and in the tooltips of relevant icon buttons.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při používání aplikace Calc zjistíte zkratky pro vaše běžné interakce sledováním klíčových sekvencí identifikovaných na legendách příslušných možností nabídky a v popisech příslušných tlačítek ikon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can also explore a more comprehensive list of available shortcuts by viewing the &lt;f0&gt;Keyboard&lt;/f0&gt; tab of the &lt;f1&gt;Tools &gt; Customize&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete také prozkoumat komplexnější seznam dostupných zkratek zobrazením &lt;f0&gt;Klávesnice&lt;/f0&gt; záložka &lt;f1&gt;Nástroje &gt; Přizpůsobit&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The primary purpose of the material in the appendix is to provide a comprehensive reference list of the available keyboard shortcuts, which users can browse to find shortcuts that may be useful in their daily work.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Hlavním účelem materiálu v příloze je poskytnout obsáhlý referenční seznam dostupných klávesových zkratek, které uživatelé mohou procházet a hledat zkratky, které mohou být užitečné v jejich každodenní práci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Further information about many individual key combinations can be found throughout the chapters of this guide and in the Help system.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Další informace o mnoha jednotlivých kombinacích kláves najdete v kapitolách této příručky a v systému nápovědy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can define your own shortcuts or change existing shortcuts by going to &lt;f0&gt;Tools &gt; Customize &gt; Keyboard&lt;/f0&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete definovat své vlastní klávesové zkratky nebo změnit stávající klávesové zkratky &lt;f0&gt;Nástroje &gt; Přizpůsobit &gt; Klávesnice&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See &lt;f1&gt;Chapter 14, Setting up and Customizing&lt;/f1&gt;, for further instructions.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vidět &lt;f1&gt;Kapitola 14, Nastavení a přizpůsobení&lt;/f1&gt;, pro další pokyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some shortcuts cannot be re-assigned and these are identified in the &lt;f2&gt;&lt;bf3&gt;Keyboard shortcuts that cannot be modified&lt;/bf3&gt;&lt;/f2&gt;&lt;s4/&gt;sections of this appendix.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé zkratky nelze znovu přiřadit, a jsou uvedeny v &lt;f2&gt;&lt;bf3&gt; Klávesové zkratky, které nelze změnit &lt;/bf3&gt;&lt;/f2&gt;&lt;s4/&gt; části této přílohy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Be careful when reassigning predefined shortcuts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při přiřazování předdefinovaných zkratek buďte opatrní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Although you can reset shortcut keys back to LibreOffice defaults, changing common hotkeys, such as F1 for Help, can cause confusion and frustration, especially if other users share your computer.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ačkoli můžete resetovat klávesové zkratky zpět na výchozí hodnoty LibreOffice, změna běžných klávesových zkratek, například F1 pro nápovědu, může způsobit zmatek a frustrace, zejména pokud sdílejí počítač jiní uživatelé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The remainder of this chapter is split into two main sections, one listing the keyboard shortcuts available in the Windows and Linux environments, and the other listing the macOS keyboard shortcuts.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zbytek této kapitoly je rozdělen do dvou hlavních částí, z nichž jedna obsahuje seznam klávesových zkratek dostupných v prostředích Windows a Linux a druhá obsahuje klávesové zkratky pro MacOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Windows / Linux</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Windows / Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Windows keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klávesové zkratky Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Linux keyboard shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klávesové zkratky pro Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Many of the keyboard shortcuts in this section utilize the &lt;f0&gt;Ctrl&lt;/f0&gt; key.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Mnoho klávesových zkratek v této části využívá &lt;f0&gt;Ctrl&lt;/f0&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some keyboards have two &lt;f1&gt;Ctrl&lt;/f1&gt; keys and in that case you may need to experiment to identify which of the two keys to use.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Některé klávesnice mají dvě &lt;f1&gt;Ctrl&lt;/f1&gt; klíče a v takovém případě budete možná muset experimentovat, abyste zjistili, který z těchto dvou klíčů použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tables &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;to &lt;t2&gt;4&lt;/t2&gt;&lt;s3/&gt;provide lists of Calc keyboard shortcuts that can be used instead of the identified options in the Menu bar, the Standard toolbar, or the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulky &lt;t0&gt;1 &lt;/t0&gt;&lt;s1/&gt; na &lt;t2&gt;4 &lt;/t2&gt;&lt;s3/&gt; poskytují seznamy klávesových zkratek Calc, které lze použít namísto identifikovaných možností na panelu nabídek, na panelu nástrojů Standardní nebo na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the latter two cases the toolbars are assumed to contain the initial default set of icons, without any user customizations.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V posledních dvou případech se předpokládá, že panely nástrojů obsahují počáteční výchozí sadu ikon, bez uživatelských úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Function key shortcuts for menu and toolbar options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;1&lt;/seq0&gt; : Klávesové zkratky funkčních kláves pro možnosti nabídky a panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Equivalent Menu bar / toolbar option</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ekvivalentní nabídka / panel nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Help &gt; LibreOffice Help&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nápověda &gt; Nápověda LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F2</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Cell Edit Mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Režim úprav buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F2</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Function.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F3</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Named Ranges and Expressions &gt; Manage.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Pojmenované rozsahy a výrazy &gt; Spravovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+F3</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Text &gt; Cycle Case.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Text &gt; Cyklus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F4</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Cycle Cell Reference Types.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Typy referenčních buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+F4</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View &gt; Data Sources.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit &gt; Zdroje dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View &gt; Navigator.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit &gt; Navigátor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F5</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View &gt; Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit &gt; Boční panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+F5</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Detective &gt; Trace Dependents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje &gt; Detektiv &gt; Trace Dependents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F7</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Spelling.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje &gt; Pravopis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Spelling&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Pravopis&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F7</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Thesaurus.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje &gt; Tezaurus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+F7</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Tools &gt; Language &gt; Hangul / Hanja Conversion&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nástroje &gt; Jazyk &gt; Konverze Hangul / Hanja&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The availability of this menu option depends on selections in &lt;f1&gt;Tools &gt; Options &gt; Language Setting &gt; Languages&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dostupnost této možnosti nabídky závisí na výběru v &lt;f1&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Jazyky&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+F7</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Automatic Spell Checking.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje &gt; Automatická kontrola pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F8</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View &gt; Value Highlighting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit &gt; Zvýraznění hodnoty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F9</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Calculate &gt; Recalculate.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Vypočítat &gt; Přepočítat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+F9</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + F9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Detective &gt; Trace Precedents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje &gt; Detektiv &gt; Trace Precedents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+F9</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + F9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Calculate &gt; Recalculate Hard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Vypočítat &gt; Tvrdě přepočítat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View &gt; Styles.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit &gt; Styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Styles &gt; Manage Styles&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Styly &gt; Správa stylů&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+F11</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; Templates &gt; Save as Template.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Šablony &gt; Uložit jako šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Via&lt;f0&gt; Save&lt;/f0&gt; icon’s drop-down menu in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přes &lt;f0&gt;Uložit&lt;/f0&gt; rozbalovací nabídka ikony na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F12</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Group and Outline &gt; Group.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Seskupit a osnovy &gt; Seskupit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F12</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data &gt; Group and Outline &gt; Ungroup.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Data &gt; Seskupit a osnovy &gt; Oddělit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+F12</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + F12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nástroje &gt; Možnosti&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: Number key shortcuts for menu and toolbar options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;2&lt;/seq0&gt; : Klávesové zkratky čísel pro možnosti nabídky a panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format &gt; Number Format &gt; Number&lt;/f0&gt; (use the “1” key on the main keyboard).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formát &gt; Formát čísla &gt; Číslo&lt;/f0&gt; (použijte klávesu „1“ na hlavní klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format as Number&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formátovat jako číslo&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+2</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format &gt; Number Format &gt; Scientific&lt;/f0&gt; (use the “2” key on the main keyboard).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formát &gt; Formát čísla &gt; Vědecké&lt;/f0&gt; (použijte klávesu „2“ na hlavní klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+3</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format &gt; Number Format &gt; Date&lt;/f0&gt; (use the “3” key on the main keyboard).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formát &gt; Formát čísla &gt; Datum&lt;/f0&gt; (použijte klávesu „3“ na hlavní klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format as Date&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formátovat jako datum&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+4</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format &gt; Number Format &gt; Currency&lt;/f0&gt; (use the “4” key on the main keyboard).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formát &gt; Formát čísla &gt; Měna&lt;/f0&gt; (použijte klávesu „4“ na hlavní klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format as Currency&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formátovat jako měna&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+5</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format &gt; Number Format &gt; Percent &lt;/f0&gt;(use the “5” key on the main keyboard).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formát &gt; Formát čísla &gt; Procenta&lt;/f0&gt; (použijte klávesu „5“ na hlavní klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format as Percent&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formátovat jako procento&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+6</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Format &gt; Number Format &gt; General &lt;/f0&gt;&lt;s1/&gt;(use the “6” key on the main keyboard).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formát &gt; Formát čísla &gt; Obecné &lt;/f0&gt;&lt;s1/&gt; (použijte klávesu „6“ na hlavní klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Format &gt; Spacing&lt;/f0&gt; menu appears to provide shortcuts for &lt;f1&gt;Line Spacing: 1.5&lt;/f1&gt; (&lt;f2&gt;Ctrl+5&lt;/f2&gt;) and &lt;f3&gt;Line Spacing: 2&lt;/f3&gt; (&lt;f4&gt;Ctrl+2&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formát &gt; Mezery&lt;/f0&gt; Objeví se nabídka, která poskytuje zkratky pro &lt;f1&gt;Rozteč čar: 1.5&lt;/f1&gt; ( &lt;f2&gt;Ctrl + 5&lt;/f2&gt;) a &lt;f3&gt;Řádkování: 2&lt;/f3&gt; ( &lt;f4&gt;Ctrl + 2&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However these options are never active in Calc 6.4 and so the shortcuts are not included in Table &lt;t5&gt;2&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto možnosti však v aplikaci Calc 6.4 nejsou nikdy aktivní, a proto zástupci nejsou zahrnuti v tabulce &lt;t5&gt;2&lt;/t5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;3&lt;/seq0&gt;: Letter key shortcuts for menu and toolbar options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;3&lt;/seq0&gt; : Klávesové zkratky pro písmena pro volby nabídky a panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+B</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Text &gt; Bold.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Text &gt; Tučné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Bold&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;tučně&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+B</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Text &gt; Subscript.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Text &gt; dolní index.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Copy.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Kopírovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Copy &lt;/f0&gt;icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;kopírovat&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Alt+C</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Alt + C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Comment.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Komentář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Insert Comment&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Vložte komentář&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+D</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Fill Cells &gt; Fill Down.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Naplnit buňky &gt; Naplnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Via &lt;f0&gt;Row&lt;/f0&gt; and &lt;f1&gt;Column&lt;/f1&gt; icons’ drop-down menus in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přes &lt;f0&gt;Řádek&lt;/f0&gt; a &lt;f1&gt;Sloupec&lt;/f1&gt; rozbalovací nabídky ikon ve standardním panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+E</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Align &gt; Centered.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Zarovnat &gt; Na střed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Align Center&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zarovnat centrum&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Alt+E</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Alt + E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools &gt; Extension Manager.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Nástroje &gt; Správce rozšíření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Find.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Najít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Find &amp; Replace.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Najít a nahradit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Find &amp; Replace&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Najít a nahradit&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+I</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Text &gt; Italic.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Text &gt; Kurzíva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Italic&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Kurzíva&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+J</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Align &gt; Justified.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Zarovnat &gt; Zarovnání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+J</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View &gt; Full Screen.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit &gt; Celá obrazovka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+K</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Hyperlink.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Hypertextový odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Insert Hyperlink&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Vložit hypertextový odkaz&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+L</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Align &gt; Left.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Zarovnat &gt; Vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Align Left&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zarovnat doleva&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+M</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Clear Direct Formatting.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Vymazat přímé formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Vymazat přímé formátování&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Edit Mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Režim úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; New &gt; Spreadsheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Nový &gt; Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;New&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Nový&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+N</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; New &gt; Templates.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Nový &gt; Šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; Templates &gt; Manage Templates.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Šablony &gt; Spravovat šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Via &lt;f0&gt;New&lt;/f0&gt; icon’s drop-down menu in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přes &lt;f0&gt;Nový&lt;/f0&gt; rozbalovací nabídka ikony na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; Open.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Open&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;otevřeno&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+O</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; Print Preview.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Náhled tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Toogle Print Preview&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Náhled Toogle Print&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; Print.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Print&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Tisk&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+P</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Text &gt; Superscript.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Text &gt; Horní index.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;File &gt; Exit LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Soubor &gt; Ukončit LibreOffice&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+R</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format &gt; Align &gt; Right.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Formát &gt; Zarovnat &gt; Vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Align Right &lt;/f0&gt;icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zarovnat vpravo&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; Save.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Save&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Uložit&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &gt; Save As.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Soubor &gt; Uložit jako.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Via &lt;f0&gt;Save&lt;/f0&gt; icon’s drop-down menu in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přes &lt;f0&gt;Uložit&lt;/f0&gt; rozbalovací nabídka ikony na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+U</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Underline&lt;/f0&gt; icon in Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zdůraznit&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Paste.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Paste&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Vložit&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Paste Special &gt; Paste Special.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vložit jinak &gt; Vložit jinak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Alt+Shift+V</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Alt + Shift + V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Paste Special &gt; Paste Unformatted Text.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vložit jinak &gt; Vložit neformátovaný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+W</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Window &gt; Close Window.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Okno &gt; Zavřít okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Cut.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vyjmout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Cut&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Střih&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Redo.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Opakovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Redo&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Předělat&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Repeat.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Opakovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Undo.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Undo&lt;/f0&gt; icon in Standard toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;vrátit&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;4&lt;/seq0&gt;: Other shortcuts for menu and toolbar options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;4&lt;/seq0&gt; : Další zkratky pro možnosti nabídky a panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+Pg up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + Pg nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Select &gt; Select to Previous Sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vybrat &gt; Vybrat na předchozí list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+Pg down</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + Pg dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Select &gt; Select to Next Sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vybrat &gt; Vybrat na další list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Clear Cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Vymazat buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Sheet &gt; Navigate &gt; To Next Sheet&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;List &gt; Navigovat &gt; Na další list&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Sheet &gt; Navigate &gt; To Previous Sheet&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;List &gt; Navigovat &gt; Na předchozí list&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Space</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Select &gt; Select Column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vybrat &gt; Vybrat sloupec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Space</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Space</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Select &gt; Select Row.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vybrat &gt; Vybrat řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+Space</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + Space</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit &gt; Select All.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Úpravy &gt; Vyberte Vše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl++</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl ++</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Sheet &gt; Insert Cells&lt;/f0&gt; (use the + key on the numeric keypad).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;List &gt; Vložit buňky&lt;/f0&gt; (použijte klávesu + na numerické klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+-</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sheet &gt; Delete Cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>List &gt; Odstranit buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+*</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Edit &gt; Select &gt; Select Data Area&lt;/f0&gt; (use the * key on the numeric keypad).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Úpravy &gt; Vybrat &gt; Vybrat oblast dat&lt;/f0&gt; (použijte klávesu * na numerické klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl +;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Date.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift +;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &gt; Time.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit &gt; Čas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+`</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + `</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;View &gt; Show Formula.&lt;/f0&gt; The grave (`) character can be found to the left of the “1” key on many English keyboards.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Zobrazit &gt; Zobrazit vzorec.&lt;/f0&gt; Znak hrobu (`) najdete vlevo od klávesy„ 1 „na mnoha anglických klávesnicích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In the Windows build of LibreOffice Calc 6.4, the grave character is omitted from the menu option.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>V sestavení systému LibreOffice Calc 6.4 v systému Windows je znak hrobky vynechán z možnosti nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tables &lt;t0&gt;5&lt;/t0&gt;&lt;s1/&gt;to &lt;t2&gt;10&lt;/t2&gt;&lt;s3/&gt;provide lists of additional Calc keyboard shortcuts that may be less obvious to users because they are not indicated on Menu bar items or in tooltips associated with icons in the Standard and Formatting toolbars.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulky &lt;t0&gt;5 &lt;/t0&gt;&lt;s1/&gt; na &lt;t2&gt;10 &lt;/t2&gt;&lt;s3/&gt; poskytují seznamy dalších klávesových zkratek Calc, které mohou být pro uživatele méně zřejmé, protože nejsou uvedeny v položkách nabídek nebo v popisech nástrojů spojených s ikonami na panelech nástrojů Standardní a Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;5&lt;/seq0&gt;: Other function key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;5&lt;/seq0&gt; : Další zkratky funkčních kláves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Display context sensitive help.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit kontextovou nápovědu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Display the comment attached to the current cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit komentář připojený k aktuální buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+F2</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor to the Input line where you can enter a formula for the current cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor na vstupní řádek, kde můžete zadat vzorec pro aktuální buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+F5</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+T</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor to the Name Box field in the Formula bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor do pole Název pole na liště vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;6&lt;/seq0&gt;: Other letter key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;6&lt;/seq0&gt; : Další klávesové zkratky písmen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects all cells in the current sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere všechny buňky v aktuálním listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redraws the document view.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Překreslí zobrazení dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+Z</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reverses the action of the last undo command.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Obrátí akci posledního příkazu zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;7&lt;/seq0&gt;: Arrow key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;7&lt;/seq0&gt; : Klávesové zkratky se šipkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cell focus up.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Posune zaostření buňky nahoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+🠕</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + 🠕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor in the up direction to the edge of the current data range (if the cell adjacent to the cursor is empty, the cursor moves to the next cell that contains data).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor směrem nahoru k okraji aktuálního rozsahu dat (pokud je buňka sousedící s kurzorem prázdná, kurzor se přesune na další buňku obsahující data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+🠕</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + 🠕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the adjacent cell or cells located in the up direction.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere sousední buňku nebo buňky umístěné ve směru nahoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+🠕</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 🠕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects in the up direction to the edge of the current data range (if the cell adjacent to the cursor is empty, the cursor moves to the next cell that contains data).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere směrem nahoru k okraji aktuálního rozsahu dat (pokud je buňka sousedící s kurzorem prázdná, kurzor se přesune na další buňku obsahující data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Shift+🠕</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Shift + 🠕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optimizes the row height based on the current cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Optimalizuje výšku řádku na základě aktuální buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cell focus right.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Posune zaostření buňky doprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor in the right direction to the edge of the current data range (if the cell adjacent to the cursor is empty, the cursor moves to the next cell that contains data).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor správným směrem k okraji aktuálního rozsahu dat (pokud je buňka sousedící s kurzorem prázdná, kurzor se přesune na další buňku obsahující data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the adjacent cell or cells located in the right direction.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere sousední buňku nebo buňky umístěné správným směrem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects in the right direction to the edge of the current data range (if the cell adjacent to the cursor is empty, the cursor moves to the next cell that contains data).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere správným směrem k okraji aktuálního rozsahu dat (pokud je buňka sousedící s kurzorem prázdná, kurzor se přesune na další buňku obsahující data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Increases the width of the current column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvětší šířku aktuálního sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Shift+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Shift + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optimizes the column width based on the current cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Optimalizuje šířku sloupce na základě aktuální buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cell focus down.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Posune fokus buňky dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor in the down direction to the edge of the current data range (if the cell adjacent to the cursor is empty, the cursor moves to the next cell that contains data).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor dolů směrem k okraji aktuálního rozsahu dat (pokud je buňka sousedící s kurzorem prázdná, kurzor se přesune na další buňku obsahující data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens a drop-down selection list of text items that have been previously typed into other cells in the same column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevře rozevírací seznam výběru textových položek, které byly dříve zadány do jiných buněk ve stejném sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the adjacent cell or cells located in the down direction.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere sousední buňku nebo buňky umístěné ve směru dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects in the down direction to the edge of the current data range (if the cell adjacent to the cursor is empty, the cursor moves to the next cell that contains data).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere směrem dolů k okraji aktuálního rozsahu dat (pokud je buňka sousedící s kurzorem prázdná, kurzor se přesune na další buňku obsahující data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Shift+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Shift + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cell focus left.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune zaostření buňky doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor in the left direction the edge of the current data range (if the cell adjacent to the cursor is empty, the cursor moves to the next cell that contains data).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor doleva směrem k okraji aktuálního rozsahu dat (pokud je buňka sousedící s kurzorem prázdná, kurzor se přesune na další buňku obsahující data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects in the left direction to the edge of the current data range (if the cell adjacent to the cursor is empty, the cursor moves to the next cell that contains data).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere v levém směru k okraji aktuálního rozsahu dat (pokud je buňka sousedící s kurzorem prázdná, kurzor se přesune na další buňku obsahující data).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Decreases the width of the current column.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Snižuje šířku aktuálního sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Shift+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Shift + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;8&lt;/seq0&gt;: Home and End key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;8&lt;/seq0&gt; : Klávesové zkratky Domů a Konec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor to the first cell of the current row.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor do první buňky aktuálního řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor to the first cell (A1) in the current sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor na první buňku (A1) v aktuálním listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Home</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects cells from the cursor to the first cell of the current row.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky od kurzoru k první buňce aktuálního řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+Home</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects all cells from the cursor to the first cell (A1) in the current sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere všechny buňky od kurzoru k první buňce (A1) v aktuálním listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor along the current row to the cell in the last column containing data in the sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor podél aktuálního řádku do buňky v posledním sloupci obsahujícím data v listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor to the cell in the last column and row that contain data in the current sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor na buňku v posledním sloupci a řádku, který obsahuje data v aktuálním listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+End</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects cells along the current row from the cursor to the cell in the last column containing data in the sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky podél aktuálního řádku od kurzoru k buňce v posledním sloupci obsahujícím data v listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+End</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects all cells from the cursor to the cell in the last column and row that contain data in the current sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere všechny buňky od kurzoru k buňce v posledním sloupci a řádku, které obsahují data v aktuálním listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;9&lt;/seq0&gt;: Other Page Up and Down key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;9&lt;/seq0&gt; : Další klávesové zkratky pro stránku nahoru a dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pg up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pg nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves up one screen page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Posune se o jednu stránku nahoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Pg up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Pg nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves to the previous sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejde na předchozí list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Pg up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Pg nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects cells from the cursor to the row one page up.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky z kurzoru na řádek o jednu stránku nahoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Pg up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Pg nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves one screen page to the left.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune jednu stránku obrazovky doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Shift+Pg up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Shift + Pg nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects cells from the cursor to the column one page to the left.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky z kurzoru na sloupec jednu stránku vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pg down</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pg dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves down one screen page.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Posune dolů o jednu stránku obrazovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Pg down</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Pg dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves to the next sheet.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přejde na další list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Pg down</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Pg dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects cells from the cursor to the row one page down.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky z kurzoru na řádek o jednu stránku dolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Pg down</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Pg dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves one screen page to the right.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune jednu stránku obrazovky doprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Shift+Pg down</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Shift + Pg dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects cells from the cursor to the column one page to the right.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky z kurzoru na sloupec jednu stránku napravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;10&lt;/seq0&gt;: Other miscellaneous key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;10&lt;/seq0&gt; : Další různé klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Uniknout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancels the current cell edit.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zruší aktuální úpravu buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After making a selection, opens the Paste Special dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Po provedení výběru se otevře dialog Vložit jinak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Insert</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Vložit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copies the selected cell or cell range to the clipboard in preparation for a later paste operation.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zkopíruje vybranou buňku nebo oblast buněk do schránky a připraví se na pozdější operaci vložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Insert</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Insert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pastes the contents of the clipboard into the selected cells.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vloží obsah schránky do vybraných buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vymazat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deletes cell contents without a dialog (does not remove formatting).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odstraní obsah buňky bez dialogu (neodstraní formátování).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Delete</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Delete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Removes and copies the selection to the clipboard.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Odebere a zkopíruje výběr do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Backspace</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refocuses the view back on the cursor if it is not currently in view.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pokud není aktuálně v pohledu, zaostří pohled zpět na kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Backspace</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deselects the current cell selection without deleting contents.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zruší výběr aktuálního výběru buněk bez odstranění obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Backspace</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Backspace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reverses the last command or the last entry you typed.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vrátí poslední příkaz nebo poslední položku, kterou jste zadali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+[</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + [</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the cells on which the current cell is dependent.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky, na kterých je aktuální buňka závislá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+]</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl +]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the cells that are dependent on the current cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky, které jsou závislé na aktuální buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+/</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the forward slash key on the main keyboard or the numeric keypad.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte klávesu lomítka na hlavní klávesnici nebo numerické klávesnici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the cells in the matrix formula range that contains the cursor.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere buňky v rozsahu maticového vzorce, který obsahuje kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+’</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + &amp;#39;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Use the single apostrophe key.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Použijte jeden klíč apostrofu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copies the contents of the cell above the cursor into the current cell, but remains in cell edit mode so that you can make further changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zkopíruje obsah buňky nad kurzor do aktuální buňky, ale zůstává v režimu úpravy buňky, takže můžete provést další změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the cursor to the next cell in the selected range, from top to bottom, then left to right.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune kurzor na další buňku ve vybraném rozsahu, shora dolů a poté zleva doprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To specify in which direction the cursor moves, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; General&lt;/f0&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li určit, kterým směrem se kurzor pohybuje, přejděte na &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Calc &gt; Obecné&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inserts a manual line break in the current cell while editing a cell.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Při úpravě buňky vloží ruční konec řádku do aktuální buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+Enter</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creates a matrix in the current range using the information entered on the input line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vytvoří matici v aktuálním rozsahu pomocí informací zadaných na vstupním řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alt+Enter</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Alt + Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fills the selected cell range with the formula that you entered on the input line.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vyplní vybraný rozsah buněk vzorcem, který jste zadali na vstupním řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;t0&gt;11&lt;/t0&gt;&lt;s1/&gt;lists some shortcuts that are available within a Calc chart.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;t0&gt;11 &lt;/t0&gt;&lt;s1/&gt; uvádí některé zkratky, které jsou k dispozici v grafu Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use the &lt;f0&gt;Alt&lt;/f0&gt; key with the arrow keys and plus (&lt;f1&gt;+&lt;/f1&gt;) and minus (&lt;f2&gt;-&lt;/f2&gt;) keys to move elements with a finer degree of movement for more accuracy.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít &lt;f0&gt;Alt&lt;/f0&gt; klávesa se šipkami a plus ( &lt;f1&gt;+&lt;/f1&gt;) a mínus ( &lt;f2&gt;-&lt;/f2&gt;) klávesy pro pohyb prvků s jemnějším pohybem pro větší přesnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;11&lt;/seq0&gt;: Chart shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;11&lt;/seq0&gt; : Klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the next chart element.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere další prvek grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the previous chart element.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere předchozí prvek grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the first chart element.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere první prvek grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Selects the last chart element.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vybere poslední prvek grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancels selection.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zruší výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arrow keys</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šipky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the element in the direction of the arrow.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Posune prvek ve směru šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Arrow keys in pie charts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Šipky ve výsečových grafech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the selected pie segment in the direction of the arrow.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune vybraný segment výseče ve směru šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F2 in titles</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F2 v titulech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enters text input mode.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Vstup do režimu zadávání textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F3 in legends and data series</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F3 v legendách a datových řadách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens groups so that you can edit the individual components.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Otevírá skupiny, takže můžete upravovat jednotlivé komponenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F3 in legends and data series</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F3 v legendách a datových řadách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exits groups.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ukončí skupiny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enlarges or shrinks the chart (use the + / - keys in the numeric keypad).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zvětší nebo zmenší graf (použijte klávesy + / - na numerické klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>+/- in pie charts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>+/- ve výsečových grafech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moves the selected pie segment off or into the pie chart (use the + / - keys in the numeric keypad).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přesune vybraný výsečový segment mimo nebo do výsečového grafu (použijte klávesy + / - na numerické klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;t0&gt;12&lt;/t0&gt;&lt;s1/&gt;lists shortcuts that are available in an outline window.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;t0&gt;12 &lt;/t0&gt;&lt;s1/&gt; vypíše zkratky, které jsou k dispozici v okně osnovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To use these shortcuts, press F6 or Shift+F6 until the vertical or horizontal outline window has the focus.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li použít tyto klávesové zkratky, stiskněte klávesy F6 nebo Shift + F6, dokud nebude zaostřeno vertikální nebo horizontální obrysové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;12&lt;/seq0&gt;: Outline shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;12&lt;/seq0&gt; : Obrysové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cycles through each outline indicator from top to bottom or left to right.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cykluje přes každý obrysový indikátor shora dolů nebo zleva doprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cycles through each outline indicator in the opposite direction.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cykly přes každý obrysový indikátor v opačném směru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+1 to Ctrl+8</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + 1 až Ctrl + 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show all levels up to the specified number while hiding all higher-numbered levels in the outline.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazit všechny úrovně až do zadaného čísla a zároveň skrýt všechny vyšší číslované úrovně v obrysu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shows (+) or hides (-) the focused outline group (use the + / - keys in the numeric keypad).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Zobrazí (+) nebo skryje (-) zaostřenou obrysovou skupinu (použijte klávesy + / - na numerické klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Activates the focused indicator button.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aktivuje tlačítko zaostřeného indikátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cycles through indicator buttons in the direction of the arrow.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přepíná pomocí indikačních tlačítek ve směru šipky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>that cannot be modified (Windows / Linux)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>to nelze změnit (Windows / Linux)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;t0&gt;13&lt;/t0&gt;&lt;s1/&gt;identifies the key combinations that are grayed out in the &lt;f2&gt;Shortcut Keys&lt;/f2&gt; list on the &lt;f3&gt;Tools &gt; Customize &gt; Keyboard&lt;/f3&gt; dialog with the &lt;f4&gt;Calc&lt;/f4&gt; radio button selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;t0&gt;13 &lt;/t0&gt;&lt;s1/&gt; identifikuje kombinace kláves, které jsou v šedé barvě šedé &lt;f2&gt;Klávesové zkratky&lt;/f2&gt; seznam na &lt;f3&gt;Nástroje &gt; Přizpůsobit &gt; Klávesnice&lt;/f3&gt; dialog s &lt;f4&gt;Calc&lt;/f4&gt; přepínač vybrán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;13&lt;/seq0&gt;: Grayed Key Combinations in Tools &gt; Customize &gt; Keyboard</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;13&lt;/seq0&gt; : Kombinace šedých kláves v nabídce Nástroje &gt; Přizpůsobit &gt; Klávesnice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Operační systém</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Key Combinations Grayed in Customize Dialog</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Kombinace kláves šedě v dialogu Přizpůsobit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Windows 10</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Windows 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F1, Ctrl+F1, Shift+F1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F1, Ctrl + F1, Shift + F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+F4, Alt+F4, Ctrl+Alt+F4</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + F4, Alt + F4, Ctrl + Alt + F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F6, Ctrl+F6, Shift+F6, Ctrl+Shift+F6</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F6, Ctrl + F6, Shift + F6, Ctrl + Shift + F6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F10</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Shift+0, Ctrl+Shift+1, Ctrl+Shift+2, Ctrl+Shift+3, Ctrl+Shift+4, Ctrl+Shift+5, Ctrl+Shift+6, Ctrl+Shift+7, Ctrl+Shift+8, Ctrl+Shift+9</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Shift + 0, Ctrl + Shift + 1, Ctrl + Shift + 2, Ctrl + Shift + 3, Ctrl + Shift + 4, Ctrl + Shift + 5, Ctrl + Shift + 6, Ctrl + Shift + 7, Ctrl + Shift + 8, Ctrl + Shift + 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keys on many macOS keyboards utilize symbols rather than text labels and Table &lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;identifies many of the common macOS keyboard symbols with their meanings.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Klávesy na mnoha klávesnicích MacOS využívají spíše symboly než textové štítky a tabulky &lt;t0&gt;14 &lt;/t0&gt;&lt;s1/&gt; identifikuje mnoho běžných symbolů klávesnice MacOS s jejich významy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To avoid confusion in the tables that follow, the key names are used rather than symbols, since the latter may not appear on all macOS keyboards.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Aby nedošlo k záměně v následujících tabulkách, používají se názvy klíčů spíše než symboly, protože ty se nemusí objevit na všech klávesnicích MacOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;14&lt;/seq0&gt;: Common macOS keyboard symbols</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;14&lt;/seq0&gt; : Běžné symboly klávesnice MacOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Key name</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Název klíče</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Symbol</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Symbol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Command (shortened to “Cmd” in the tables that follow)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Příkaz (v následujících tabulkách zkrácen na „Cmd“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Control (shorted to “Ctrl” in the tables that follow)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ovládání (v následujících tabulkách zkratováno na „Ctrl“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Volba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Posun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page Up (shortened to “Pg Up” in the tables that follow)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Page Up (v následujících tabulkách zkráceno na „Pg Up“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page Down (shortened to “Pg Dn” in the tables that follow)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Page Down (v následujících tabulkách zkráceno na „Pg Dn“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward Delete (shortened to “Fwd Del” in the tables that follow)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Smazat vpřed (v následujících tabulkách zkráceno na „Fwd Del“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tables &lt;t0&gt;15&lt;/t0&gt;&lt;s1/&gt;to &lt;t2&gt;18&lt;/t2&gt;&lt;s3/&gt;provide lists of Calc keyboard shortcuts that can be used instead of the identified options in the Menu bar, the Standard toolbar, or the Formatting toolbar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulky &lt;t0&gt;15 &lt;/t0&gt;&lt;s1/&gt; na &lt;t2&gt;18 &lt;/t2&gt;&lt;s3/&gt; poskytují seznamy klávesových zkratek Calc, které lze použít namísto identifikovaných možností na panelu nabídek, na panelu nástrojů Standardní nebo na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;15&lt;/seq0&gt;: Function key shortcuts for menu and toolbar options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;15&lt;/seq0&gt; : Klávesové zkratky funkčních kláves pro možnosti nabídky a panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F2</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F3</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+F4</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F5</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note: For some macOS versions, this key sequence is used by macOS to display its VoiceOver dialog and so cannot be used to control the display of Calc’s Sidebar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poznámka: U některých verzí makra tuto sekvenci kláves používá makra k zobrazení dialogového okna VoiceOver, a proto ji nelze použít k ovládání zobrazení postranního panelu aplikace Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd +;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F7</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+F7</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The availability of this menu option depends on selections in &lt;f1&gt;LibreOffice &gt; Preferences &gt; Language Setting &gt; Languages&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Dostupnost této možnosti nabídky závisí na výběru v &lt;f1&gt;LibreOffice &gt; Předvolby &gt; Nastavení jazyka &gt; Jazyky&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F8</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+F9</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + F9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+T</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note: For some macOS versions, this key sequence is used by macOS to show its desktop and so cannot be used to access Calc’s Save as Template dialog.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Poznámka: U některých verzí makra tuto sekvenci kláves používá makra k zobrazení plochy, a proto ji nelze použít k přístupu k dialogu Uložit jako šablonu aplikace Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F12</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+,</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd +,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;LibreOffice &gt; Preferences&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;LibreOffice &gt; Předvolby&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;16&lt;/seq0&gt;: Number key shortcuts for menu and toolbar options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;16&lt;/seq0&gt; : Klávesové zkratky čísel pro možnosti nabídky a panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The &lt;f0&gt;Format &gt; Spacing&lt;/f0&gt; menu appears to provide shortcuts for &lt;f1&gt;Line Spacing: 1.5&lt;/f1&gt; (&lt;f2&gt;Cmd+5&lt;/f2&gt;) and &lt;f3&gt;Line Spacing: 2&lt;/f3&gt; (&lt;f4&gt;Cmd+2&lt;/f4&gt;).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Formát &gt; Mezery&lt;/f0&gt; Objeví se nabídka, která poskytuje zkratky pro &lt;f1&gt;Rozteč čar: 1.5&lt;/f1&gt; ( &lt;f2&gt;Cmd + 5&lt;/f2&gt;) a &lt;f3&gt;Řádkování: 2&lt;/f3&gt; ( &lt;f4&gt;Cmd + 2&lt;/f4&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>However these options are never active in Calc 6.4 and so the shortcuts are not included in Table &lt;t5&gt;16&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tyto možnosti však v aplikaci Calc 6.4 nejsou nikdy aktivní, a proto zástupci nejsou zahrnuti v tabulce &lt;t5&gt;16&lt;/t5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;17&lt;/seq0&gt;: Letter key shortcuts for menu and toolbar options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;17&lt;/seq0&gt; : Klávesové zkratky pro písmena pro volby nabídky a panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+B</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+B</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+C</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Cmd+C</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Cmd + C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+D</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+E</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Cmd+E</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Cmd + E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Cmd+F</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Cmd + F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+H</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice &gt; Hide LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice &gt; Skrýt LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+I</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+J</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Cmd+F</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Ctrl + Cmd + F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+K</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+L</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+M</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+N</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+N</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+O</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+O</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+P</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+P</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+Q</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LibreOffice &gt; Quit LibreOffice.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>LibreOffice &gt; Ukončete LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+R</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+S</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+S</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+U</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+V</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+V</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option++Cmd+V</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost +  + Cmd + V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+W</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+X</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+Y</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+Y</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+Z</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;18&lt;/seq0&gt;: Other shortcuts for menu and toolbar options</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;18&lt;/seq0&gt; : Další zkratky pro možnosti nabídky a panelu nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+Pg Up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + Pg nahoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Edit &gt; Select &gt; Select to Previous Sheet.&lt;/f0&gt; (In Calc 6.4, the menu option indicates an up arrow symbol rather than a page up symbol).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Úpravy &gt; Vybrat &gt; Vybrat na předchozí list.&lt;/f0&gt; (V Calc 6.4, položka nabídky označuje spíše symbol šipky nahoru než symbol stránky nahoru).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+Pg Dn</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + Pg Dn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Edit &gt; Select &gt; Select to Next Sheet.&lt;/f0&gt; (In Calc 6.4, the menu option indicates a down arrow symbol rather than a page down symbol).</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Úpravy &gt; Vybrat &gt; Vybrat na další list.&lt;/f0&gt; (V Calc 6.4, položka nabídky označuje spíše symbol šipky dolů než symbol stránky dolů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+A</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd++</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd ++</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+-</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+*</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;f0&gt;Edit &gt; Select &gt; Select Data Area&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>&lt;f0&gt;Úpravy &gt; Vybrat &gt; Vybrat oblast dat&lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+;</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd +;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tables &lt;t0&gt;19&lt;/t0&gt;&lt;s1/&gt;to &lt;t2&gt;24&lt;/t2&gt;&lt;s3/&gt;provide lists of additional Calc keyboard shortcuts that may be less obvious to users because they are not indicated on Menu bar items or in tooltips associated with icons in the Standard and Formatting toolbars.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Tabulky &lt;t0&gt;19 &lt;/t0&gt;&lt;s1/&gt; na &lt;t2&gt;24 &lt;/t2&gt;&lt;s3/&gt; poskytují seznamy dalších klávesových zkratek Calc, které mohou být pro uživatele méně zřejmé, protože nejsou uvedeny v položkách nabídek nebo v popisech nástrojů spojených s ikonami na panelech nástrojů Standardní a Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;19&lt;/seq0&gt;: Other function key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;19&lt;/seq0&gt; : Další zkratky funkčních kláves</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+F2</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+F5</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+T</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F8</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Toggles between the standard and extending selection modes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přepíná mezi standardním a rozšířeným režimem výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+F8</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + F8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Toggles between the standard and adding selection modes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Přepíná mezi standardním a přidáváním režimů výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;20&lt;/seq0&gt;: Other letter key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;20&lt;/seq0&gt; : Další klávesové zkratky písmen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+C</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start / stop tracking changes.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Spuštění / zastavení změn sledování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+G</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Repeat search forwards.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Opakujte hledání vpřed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+R</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+Z</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;21&lt;/seq0&gt;: Arrow key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;21&lt;/seq0&gt; : Klávesové zkratky se šipkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+🠕</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + 🠕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+🠕</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + 🠕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Shift+🠕</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Shift + 🠕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Shift+🠖</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Shift + 🠖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Shift+🠗</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Shift + 🠗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Shift+🠔</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Shift + 🠔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;22&lt;/seq0&gt;: Home and End key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;22&lt;/seq0&gt; : Klávesové zkratky Domů a Konec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+Home</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+Home</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+End</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+End</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + End</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;23&lt;/seq0&gt;: Other Page Up and Down key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;23&lt;/seq0&gt; : Další klávesové zkratky pro stránku nahoru a dolů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pg Up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pg Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+Pg Up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + Pg Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Pg Dn</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Pg Dn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Pg Dn</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Pg Dn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Shift+PgDn</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Shift + PgDn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pg Dn</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Pg Dn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+Pg Dn</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + Pg Dn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Pg Up</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Pg Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Shift+PgUp</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Shift + PgUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;24&lt;/seq0&gt;: Other miscellaneous key shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;24&lt;/seq0&gt; : Další různé klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>esc</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>esc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fwd Del</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Fwd Del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+Delete</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + Delete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Delete</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Smazat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+[</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + [</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+]</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd +]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+/</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+’</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + &amp;#39;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To specify in which direction the cursor moves, go to &lt;f0&gt;LibreOffice &gt; Preferences &gt; LibreOffice Calc &gt; General&lt;/f0&gt; in the Menu bar.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Chcete-li určit, kterým směrem se kurzor pohybuje, přejděte na &lt;f0&gt;LibreOffice &gt; Předvolby &gt; LibreOffice Calc &gt; General&lt;/f0&gt; na panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+Enter</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+Enter</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Option+Enter</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Možnost + Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;t0&gt;25&lt;/t0&gt;&lt;s1/&gt;lists some shortcuts that are available within a Calc chart.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;t0&gt;25 &lt;/t0&gt;&lt;s1/&gt; uvádí některé zkratky, které jsou k dispozici v grafu Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You can use the &lt;f0&gt;Option&lt;/f0&gt; key with the arrow keys and plus (&lt;f1&gt;+&lt;/f1&gt;) and minus (&lt;f2&gt;-&lt;/f2&gt;) keys to move elements with a finer degree of movement for more accuracy.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Můžete použít &lt;f0&gt;Volba&lt;/f0&gt; klávesa se šipkami a plus ( &lt;f1&gt;+&lt;/f1&gt;) a mínus ( &lt;f2&gt;-&lt;/f2&gt;) klávesy pro pohyb prvků s jemnějším pohybem pro větší přesnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;25&lt;/seq0&gt;: Chart shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;25&lt;/seq0&gt; : Klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+⇥</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + ⇥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F3 in legends and data series</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F3 v legendách a datových řadách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;lists shortcuts that are available in an outline window.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;t0&gt;26 &lt;/t0&gt;&lt;s1/&gt; vypíše zkratky, které jsou k dispozici v okně osnovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;26&lt;/seq0&gt;: Outline shortcuts</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;26&lt;/seq0&gt; : Obrysové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+1 to Cmd+8</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + 1 až Cmd + 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>that cannot be modified (macOS)</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>to nelze změnit (macOS)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;t0&gt;27&lt;/t0&gt;&lt;s1/&gt;identifies the key combinations that are grayed out in the &lt;f2&gt;Shortcut Keys&lt;/f2&gt; list on the &lt;f3&gt;Tools &gt; Customize &gt; Keyboard&lt;/f3&gt; dialog with the &lt;f4&gt;Calc&lt;/f4&gt; radio button selected.</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;t0&gt;27 &lt;/t0&gt;&lt;s1/&gt; identifikuje kombinace kláves, které jsou v šedé barvě šedé &lt;f2&gt;Klávesové zkratky&lt;/f2&gt; seznam na &lt;f3&gt;Nástroje &gt; Přizpůsobit &gt; Klávesnice&lt;/f3&gt; dialog s &lt;f4&gt;Calc&lt;/f4&gt; přepínač vybrán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table &lt;seq0&gt;27&lt;/seq0&gt;: Grayed Key Combinations in Tools &gt; Customize &gt; Keyboard</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Stůl &lt;seq0&gt;27&lt;/seq0&gt; : Kombinace šedých kláves v nabídce Nástroje &gt; Přizpůsobit &gt; Klávesnice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F1, Cmd+F1, Shift+F1</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F1, Cmd + F1, Shift + F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cmd+F4, Option+F4, Cmd+Option+F4</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Cmd + F4, Option + F4, Cmd + Option + F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F6, Cmd+F6, Shift+F6, Shift+Cmd+F6</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>F6, Cmd + F6, Shift + F6, Shift + Cmd + F6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shift+Cmd+0, Shift+Cmd+1, Shift+Cmd+2, Shift+Cmd+3, Shift+Cmd+4, Shift+Cmd+5, Shift+Cmd+6, Shift+Cmd+7, Shift+Cmd+8, Shift+Cmd+9</seg>
+      </tuv>
+      <tuv xml:lang="cs">
+        <seg>Shift + Cmd + 0, Shift + Cmd + 1, Shift + Cmd + 2, Shift + Cmd + 3, Shift + Cmd + 4, Shift + Cmd + 5, Shift + Cmd + 6, Shift + Cmd + 7, Shift + Cmd + 8, Shift + Cmd + 9</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
