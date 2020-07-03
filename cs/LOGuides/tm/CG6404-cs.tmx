@@ -1,3821 +1,3820 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
   <body>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Calc Guide Chapter 4 Using Styles and Templates</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Průvodce výpočtem Kapitola 4 Používání stylů a šablon</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Calc Guide Chapter 4 Using Styles and Templates&lt;segment 5073 ¶&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Průvodce výpočtem Kapitola 4 Používání stylů a šablon &lt;segment 5073 ¶&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;t0&gt;Exporting a template&lt;/t0&gt; | &lt;t1&gt;27&lt;/t1&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;t0&gt;Export šablony&lt;/t0&gt; | &lt;t1&gt;27&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Deleting a template category&lt;/t2&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;t0&gt;26 &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;Odstranění kategorie šablony&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;t0&gt;Calc Guide Chapter 4 Using Styles and Templates&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;t0&gt;Průvodce výpočtem Kapitola 4 Používání stylů a šablon &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Calc Guide Chapter 4 Using Styles and Templates&lt;/t1&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;t0&gt;4&lt;/t0&gt; | &lt;t1&gt;Průvodce výpočtem Kapitola 4 Používání stylů a šablon&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Chapter 4 &lt;br0/&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kapitola 4 &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Using consistent formatting in spreadsheets</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Použití konzistentního formátování v tabulkách</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This book is adapted and updated from the &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;Calc Guide&lt;/ud2&gt;&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Tato kniha je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt; Průvodce kalkulačkou &lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Tato kniha je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt; Průvodce kalkulačkou &lt;/ud2&gt;&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Randolph Gamo</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Randolph Gamo</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Published &lt;t0&gt;June&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For a more detailed list, see the application Help and Appendix A (Keyboard Shortcuts) to this guide.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Podrobnější seznam najdete v nápovědě k aplikaci a v příloze A (Klávesové zkratky) této příručky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;⌘&lt;/f0&gt;+&lt;f1&gt;Q&lt;/f1&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;⌘&lt;/f0&gt; + &lt;f1&gt;Q&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Exit / quit LibreOffice</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Ukončit / ukončit LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Open the Sidebar’s Styles deck</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Otevřete balíček Styly postranního panelu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Calc style types</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vypočítat typy stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Cell styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly buněk</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Page styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly stránky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Applying cell styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Použití stylů buněk</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Styles menu</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nabídka stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;a0&gt;Styles &lt;/a0&gt;&lt;a1&gt;deck&lt;/a1&gt;&lt;a2&gt; in Sidebar</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;a0&gt;Styly &lt;/a0&gt;&lt;a1&gt; paluba &lt;/a1&gt;&lt;a2&gt; v postranním panelu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Fill Format mode</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Režim výplně</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Applying page styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Použití stylů stránky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Cell style attributes</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Atributy buněčného stylu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Organizer tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta Organizátor</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Numbers tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta Čísla</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Font tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta písmo</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Font Effects tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta Efekty písma</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Alignment tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta Zarovnání</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Borders tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta Hranice</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Background tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta Pozadí</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Cell Protection tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta Ochrana buněk</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Resetting cell style attributes</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Resetování atributů stylu buněk</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Page style attributes</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Atributy stylu stránky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Page tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karta Stránka</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Borders and Background tabs</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karty Hranice a Pozadí</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Header and Footer tabs</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Karty záhlaví a zápatí</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Managing styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Správa stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Renaming styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Přejmenování stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Hiding and showing cell styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Skrývání a zobrazování buněčných stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Filtering the list of styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Filtrování seznamu stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Why use one?</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Proč použít jeden?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Using a template to create a spreadsheet</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vytvoření tabulky pomocí šablony</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Creating a spreadsheet from the Templates dialog</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vytvoření tabulky z dialogového okna Šablony</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Creating a spreadsheet from a template in the Start Center</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vytvoření tabulky ze šablony v centru Start</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Updating styles from a changed template</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Aktualizace stylů ze změněné šablony</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Setting the default template</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nastavení výchozí šablony</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A style is a set of formats that you can apply to selected elements in a document to quickly change their appearance.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styl je sada formátů, které můžete použít na vybrané prvky v dokumentu a rychle změnit jejich vzhled.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Many people manually format spreadsheet cells and pages without paying any attention to styles and are accustomed to formatting documents according to physical attributes.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Mnoho lidí ručně formátuje buňky tabulky a stránky, aniž by věnovalo pozornost stylům, a je zvyklé formátovat dokumenty podle fyzických atributů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, for the contents of a cell you might specify the font family, font size, and any character formatting such as &lt;f0&gt;bold&lt;/f0&gt; or &lt;f1&gt;italic&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Například pro obsah buňky můžete určit rodinu písem, velikost písma a jakékoli formátování znaků, jako je například &lt;f0&gt;tučně&lt;/f0&gt; nebo &lt;f1&gt;kurzíva&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Například pro obsah buňky můžete určit rodinu písem, velikost písma a jakékoli formátování znaků, jako je např &lt;f0&gt;tučně&lt;/f0&gt; nebo &lt;f1&gt;kurzíva&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Styles are logical attributes.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly jsou logické atributy.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Using styles means that you stop applying attributes and characteristics individually (for example, &lt;f0&gt;font size 14pt, Times New Roman, bold, centered&lt;/f0&gt;) and start using a style, for example &lt;f1&gt;Title&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Používání stylů znamená, že přestanete aplikovat atributy a charakteristiky jednotlivě (například, &lt;f0&gt;velikost písma 14pt, Times New Roman, tučné, vystředěné&lt;/f0&gt;) a začít používat styl, například &lt;f1&gt;Titul&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Používání stylů znamená, že přestanete aplikovat atributy a charakteristiky jednotlivě (například, &lt;f0&gt;velikost písma 14pt, Times New Roman, tučné, vystředěné&lt;/f0&gt; ) a začít používat styl, například &lt;f1&gt;Titul&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Applying attributes and characteristics is time-consuming and prone to errors.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Použití atributů a charakteristik je časově náročné a náchylné k chybám.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In contrast, using a style, which has been defined to include the attributes and characteristics you want, will save you time and give greater consistency in formatting.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Naproti tomu použití stylu, který byl definován tak, aby obsahoval požadované atributy a vlastnosti, vám ušetří čas a poskytne větší konzistenci při formátování.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Styles also make major formatting changes easy.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly také usnadňují zásadní změny formátování.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, you may decide to change the appearance of all subtotals in a spreadsheet to be 10 pt Arial instead of 8 pt Times New Roman after you have created a 15-page spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Například se můžete rozhodnout změnit vzhled všech mezisoučtů v tabulce na 10 pt Arial namísto 8 pt Times New Roman poté, co jste vytvořili 15stránkovou tabulku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can change all of the subtotals in the document by simply changing the properties for the subtotal style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Všechny mezisoučty v dokumentu můžete změnit jednoduše změnou vlastností stylu mezisoučtu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Calc also provides page styles, as described below.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Calc také poskytuje styly stránek, jak je popsáno níže.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can modify the attributes of the supplied styles and define as many new styles as you require.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete upravit atributy dodaných stylů a definovat tolik nových stylů, kolik potřebujete.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;s0/&gt;Creating, modifying, and accessing styles is explained in the following sections.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;s0/&gt; Vytváření, úprava a přístup k stylům je vysvětleno v následujících částech.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>direct formatting, removing</seg>
-      </tuv>
-      <tuv xml:lang="cs">
-        <seg>přímé formátování, odstraňování</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>manual formatting, removing</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>ruční formátování, odstraňování</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
+        <seg>direct formatting, removing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>přímé formátování, odstraňování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Direct formatting (also called &lt;f0&gt;manual formatting&lt;/f0&gt;) overrides styles, and you cannot remove the direct formatting by applying a style to it.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Přímé formátování (také nazývané &lt;f0&gt;ruční formátování&lt;/f0&gt;) přepíše styly a přímé formátování nelze odstranit použitím stylu.</seg>
+      <tuv lang="cs">
+        <seg>Přímé formátování (také nazývané &lt;f0&gt;ruční formátování&lt;/f0&gt; ) přepíše styly a přímé formátování nelze odstranit použitím stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To remove manual formatting, select the text, right-click, and choose &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; from the context menu, or select the text and press &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;M&lt;/f2&gt;, or select the text and click the &lt;f3&gt;Clear Direct Formatting&lt;/f3&gt; icon &lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;s7/&gt;in the Standard toolbar.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Chcete-li odebrat ruční formátování, vyberte text, klikněte pravým tlačítkem a zvolte &lt;f0&gt;Formát &gt; Vymazat přímé formátování&lt;/f0&gt; z kontextové nabídky nebo vyberte text a stiskněte &lt;f1&gt;Ctrl&lt;/f1&gt; + &lt;f2&gt;M&lt;/f2&gt;, nebo vyberte text a klikněte na &lt;f3&gt;Vymazat přímé formátování&lt;/f3&gt; ikona &lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;s7/&gt; na panelu nástrojů Standardní.</seg>
+      <tuv lang="cs">
+        <seg>Chcete-li odebrat ruční formátování, vyberte text, klikněte pravým tlačítkem a zvolte &lt;f0&gt;Formát &gt; Vymazat přímé formátování&lt;/f0&gt; z kontextové nabídky nebo vyberte text a stiskněte &lt;f1&gt;Ctrl&lt;/f1&gt; + &lt;f2&gt;M&lt;/f2&gt; , nebo vyberte text a klikněte na &lt;f3&gt;Vymazat přímé formátování&lt;/f3&gt; ikona &lt;f4&gt;&lt;df5&gt;&lt;di6/&gt;&lt;/df5&gt;&lt;/f4&gt;&lt;s7/&gt; na panelu nástrojů Standardní.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>While some components of LibreOffice offer many style types, Calc offers only two: cell styles and page styles.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zatímco některé komponenty LibreOffice nabízejí mnoho typů stylů, Calc nabízí pouze dva: styly buněk a styly stránek.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>These style types are explained in the following sections.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tyto typy stylů jsou vysvětleny v následujících částech.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>cell styles</seg>
-      </tuv>
-      <tuv xml:lang="cs">
-        <seg>buněčné styly</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>cell</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>buňka</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
+        <seg>cell styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>buněčné styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cell styles are similar to paragraph styles used in LibreOffice Writer.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly buněk jsou podobné stylům odstavců používaných v nástroji LibreOffice Writer.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>They are the most basic type of style in Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Jsou to nejzákladnější typ stylu v Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Cell styles are used for applying fonts, alignment, borders, background, number formats (for example, currency, date, number), and cell protection to format the data in the cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly buněk se používají k použití písem, zarovnání, ohraničení, pozadí, formátů čísel (například měna, datum, číslo) a ochrany buněk pro formátování dat v buňkách.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A basic range of cell styles is supplied with Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Základní řada buněčných stylů je dodávána s Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>These styles are shown on the &lt;f0&gt;Styles&lt;/f0&gt; menu on the Menu bar and in the Styles deck of the Sidebar.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tyto styly jsou zobrazeny na &lt;f0&gt;Styly&lt;/f0&gt; na liště nabídek a na panelu Styly na postranním panelu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>When you create a new cell style, it is shown in the Sidebar.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Když vytvoříte nový styl buňky, zobrazí se na postranním panelu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can also add it to the &lt;f1&gt;Styles&lt;/f1&gt; menu; see Chapter 14, Setting up and Customizing, for instructions.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete také přidat do &lt;f1&gt;Styly&lt;/f1&gt; Jídelní lístek; pokyny najdete v kapitole 14, Nastavení a přizpůsobení.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Initially, the basic styles are configured so that if you change the font family of the &lt;f0&gt;Default&lt;/f0&gt; style, then all of the other styles, inheriting from it, will change to match.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zpočátku jsou základní styly nakonfigurovány tak, že pokud změníte rodinu fontů &lt;f0&gt;Výchozí&lt;/f0&gt; styl, pak se všechny ostatní styly, které z něj dědí, změní, aby odpovídaly.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>page styles</seg>
-      </tuv>
-      <tuv xml:lang="cs">
-        <seg>styly stránky</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>page</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>strana</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
+        <seg>page styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>styly stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page styles in Calc are applied to sheets.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly stránky v aplikaci Calc se použijí na listy.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Although one sheet may print on several pages, only one page style can be applied to a sheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Přestože se jeden list může tisknout na několik stránek, lze na list použít pouze jeden styl stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If a spreadsheet file contains more than one sheet, then a &lt;t0/&gt;different page style can be applied to each sheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud soubor tabulky obsahuje více než jeden list, pak a &lt;t0/&gt; na každý list lze použít jiný styl stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, a spreadsheet might contain some sheets to be printed in landscape orientation and other sheets to be printed in portrait orientation.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Například tabulka může obsahovat některé listy určené k tisku na šířku a jiné listy určené k tisku na výšku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Two page styles are supplied with Calc: &lt;f0&gt;Default&lt;/f0&gt; and &lt;f1&gt;Report&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Calc obsahuje dvě styly stránek: &lt;f0&gt;Výchozí&lt;/f0&gt; a &lt;f1&gt;Zpráva&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Calc obsahuje dvě styly stránek: &lt;f0&gt;Výchozí&lt;/f0&gt; a &lt;f1&gt;Zpráva&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Page styles allow you to set page size and orientation, page margins, headers and footers, borders and backgrounds, and the sequence for printing sheets.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Styly stránek umožňují nastavit velikost a orientaci stránky, okraje stránky, záhlaví a zápatí, ohraničení a pozadí a pořadí tisku listů.</seg>
+      <tuv lang="cs">
+        <seg>Styly stránek umožňují nastavit velikost a orientaci stránky, okraje stránky, záhlaví a zápatí, ohraničení a pozadí a pořadí tisku tiskových listů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To apply cell styles in Calc, you can use the &lt;f0&gt;Styles&lt;/f0&gt; menu on the Menu bar, the Styles deck in the Sidebar, Fill Format mode, the &lt;f1&gt;Apply Style&lt;/f1&gt; list on the Formatting toolbar, and keyboard shortcuts.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li v aplikaci Calc použít styly buněk, můžete použít &lt;f0&gt;Styly&lt;/f0&gt; menu na liště nabídek, balíček stylů v postranním panelu, režim výplně, &lt;f1&gt;Použít styl&lt;/f1&gt; seznam na panelu nástrojů Formátování a klávesové zkratky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The &lt;f0&gt;Styles&lt;/f0&gt; menu (Figure &lt;t1&gt;1&lt;/t1&gt;) lists the cell styles supplied with Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Styly&lt;/f0&gt; menu (Obr &lt;t1&gt;1&lt;/t1&gt;) uvádí styly buněk dodávané s aplikací Calc.</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styly&lt;/f0&gt; menu (Obr &lt;t1&gt;1&lt;/t1&gt; ) uvádí styly buněk dodávané s aplikací Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To apply a cell style, select the cell or group of cells to be formatted, and then choose &lt;f2&gt;Styles&lt;/f2&gt; and click on the required style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li použít styl buňky, vyberte buňku nebo skupinu buněk, které mají být formátovány, a poté zvolte &lt;f2&gt;Styly&lt;/f2&gt; a klikněte na požadovaný styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Styles menu</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Nabídka Styly</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Styles deck in Sidebar</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Stylový balíček v postranním panelu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The Styles deck in the Sidebar lists and shows previews of the styles available.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Balíček Styly na postranním panelu uvádí a zobrazuje náhledy dostupných stylů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If the Sidebar is not open, choose &lt;f0&gt;View &gt; Styles&lt;/f0&gt;, or &lt;f1&gt;Styles &gt; Manage Styles&lt;/f1&gt;, or tap the &lt;f2&gt;F11&lt;/f2&gt; function key to open it.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Pokud postranní panel není otevřený, zvolte &lt;f0&gt;Zobrazit &gt; Styly&lt;/f0&gt;, nebo &lt;f1&gt;Styly &gt; Správa stylů&lt;/f1&gt; nebo klepněte na ikonu &lt;f2&gt;F11&lt;/f2&gt; funkční tlačítko pro jeho otevření.</seg>
+      <tuv lang="cs">
+        <seg>Pokud postranní panel není otevřený, zvolte &lt;f0&gt;Zobrazit &gt; Styly&lt;/f0&gt; , nebo &lt;f1&gt;Styly &gt; Správa stylů&lt;/f1&gt; nebo klepněte na ikonu &lt;f2&gt;F11&lt;/f2&gt; funkční tlačítko pro jeho otevření.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Go to the Styles deck in the Sidebar.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V postranním panelu přejděte na balíček Styles.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click the &lt;f0&gt;Cell Styles&lt;/f0&gt; icon on top of the Styles deck to open the list of cell styles.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte na ikonu &lt;f0&gt;Styly buněk&lt;/f0&gt; ikonu v horní části balíčku Styly a otevřete seznam stylů buněk.</seg>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Styly buněk&lt;/f0&gt; ikonu v horní části balíčku Styly, chcete-li otevřít seznam buněčných stylů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;t1&gt;2&lt;/t1&gt;&lt;s2/&gt;shows the panel with cell styles visible.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Postava &lt;t1&gt;2 &lt;/t1&gt;&lt;s2/&gt; zobrazuje panel se viditelnými styly buněk.</seg>
+      <tuv lang="cs">
+        <seg>Postava &lt;t1&gt;2 &lt;/t1&gt;&lt;s2/&gt; zobrazuje panel s viditelnými styly buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In the spreadsheet, highlight the cell or group of cells where you want to apply a cell style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>V tabulce zvýrazněte buňku nebo skupinu buněk, kde chcete použít styl buňky.</seg>
+      <tuv lang="cs">
+        <seg>V tabulce zvýrazněte buňku nebo skupinu buněk, na které chcete použít styl buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Double-click on the cell style name in the Styles deck and the formatting attributes for that style are applied to the data contained in the highlighted cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Poklepejte na název stylu buňky v balíčku Styly a atributy formátování pro tento styl se použijí na data obsažená ve zvýrazněných buňkách.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Styles deck in Sidebar, showing cell styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Balíček stylů v postranním panelu, zobrazující styly buněk</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>fill format mode</seg>
-      </tuv>
-      <tuv xml:lang="cs">
-        <seg>režim výplně</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>fill format mode, using to apply cell styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>vyplňte režim formátu, použijte k použití stylů buněk</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
+        <seg>fill format mode</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>režim výplně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fill Format mode is useful when you want to apply the same style to many scattered cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Režim výplně je užitečný, pokud chcete použít stejný styl na mnoho rozptýlených buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Go to the Styles deck in the Sidebar (Figure &lt;t0&gt;2&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>V postranním panelu přejděte na balíček Styles (obrázek 5) &lt;t0&gt;2&lt;/t0&gt;).</seg>
+      <tuv lang="cs">
+        <seg>V postranním panelu přejděte na balíček Styles (obrázek 5) &lt;t0&gt;2&lt;/t0&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select the style you want to apply.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vyberte styl, který chcete použít.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; &lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt;icon in the top right of the Styles deck.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na ikonu &lt;f0&gt;Režim výplně &lt;/f0&gt;&lt;df1&gt;&lt;di2/&gt;&lt;/df1&gt;&lt;s3/&gt; ikona v pravém horním rohu balíčku Styles.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The cursor changes shape.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kurzor mění tvar.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click in each cell where you want to apply the selected style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte do každé buňky, kde chcete použít vybraný styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>When you have finished formatting cells, click the &lt;f0&gt;Fill Format Mode&lt;/f0&gt; icon to disable it.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Po dokončení formátování buněk klikněte na ikonu &lt;f0&gt;Režim výplně&lt;/f0&gt; ikonu zakázat.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>When Fill Format mode is active, a right-click anywhere in the document cancels the last Fill Format action.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Když je režim výplně aktivní, klepnutí pravým tlačítkem kdekoli v dokumentu zruší poslední akci formátu výplně.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Be careful not to accidentally right-click and thus cancel any formatting actions you want to keep.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Dávejte pozor, abyste omylem neklikli pravým tlačítkem myši, a tak zrušte všechny akce formátování, které chcete zachovat.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The &lt;f0&gt;Apply Style&lt;/f0&gt; drop-down list is not included by default on the Formatting toolbar in Calc, but you can add it as follows:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Použít styl&lt;/f0&gt; rozevírací seznam není ve výchozím nastavení na panelu nástrojů Formát v programu Calc, ale můžete jej přidat následujícím způsobem:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on any icon in the Formatting toolbar and select &lt;f0&gt;Visible Buttons&lt;/f0&gt; from the context menu (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klepněte pravým tlačítkem myši na libovolnou ikonu na panelu nástrojů Formátování a vyberte &lt;f0&gt;Viditelná tlačítka&lt;/f0&gt; z kontextové nabídky (obr &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na libovolnou ikonu na panelu nástrojů Formátování a vyberte &lt;f0&gt;Viditelná tlačítka&lt;/f0&gt; z kontextové nabídky (obr &lt;t1&gt;3&lt;/t1&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click &lt;f0&gt;Apply Style&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte na &lt;f0&gt;Použít styl&lt;/f0&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Použít styl&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The context menu closes and the &lt;f1&gt;Apply Style&lt;/f1&gt; list appears at the left end of the Formatting toolbar.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kontextové menu se zavře a &lt;f1&gt;Použít styl&lt;/f1&gt; Na levém konci panelu nástrojů Formátování se zobrazí seznam.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Adding the Apply Style list to the Formatting toolbar</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Přidání seznamu Použít styl na panel nástrojů Formátování</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To apply a style using the &lt;f0&gt;Apply Styles&lt;/f0&gt; list:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li použít styl pomocí &lt;f0&gt;Použít styly&lt;/f0&gt; seznam:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select a cell or a group of cells in the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vyberte buňku nebo skupinu buněk v tabulce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click the down arrow at the right of the &lt;f0&gt;Apply Styles&lt;/f0&gt; list t&lt;f1&gt;o &lt;/f1&gt;open the&lt;f2&gt; &lt;/f2&gt;drop-down menu (Figure &lt;t3&gt;4&lt;/t3&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte na šipku dolů na pravé straně &lt;f0&gt;Použít styly&lt;/f0&gt; seznam t &lt;f1&gt;Ó&lt;/f1&gt; otevři &lt;f2&gt;&lt;/f2&gt; rozbalovací nabídka (obr &lt;t3&gt;4&lt;/t3&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Klikněte na šipku dolů na pravé straně &lt;f0&gt;Použít styly&lt;/f0&gt; seznam t &lt;f1&gt;Ó&lt;/f1&gt; otevři &lt;f2&gt;&lt;/f2&gt; rozbalovací nabídka (obr &lt;t3&gt;4&lt;/t3&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select the required style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vyberte požadovaný styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The formatting attributes of that style are applied to the selected cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Atributy formátování tohoto stylu jsou použity na vybrané buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Applying a style from the list</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Použití stylu ze seznamu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Only the styles that are in use are shown on the list.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>V seznamu jsou zobrazeny pouze použité styly.</seg>
+      <tuv lang="cs">
+        <seg>V seznamu jsou uvedeny pouze použité styly.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click &lt;f0&gt;More Styles&lt;/f0&gt; to go to the Styles deck where all cell styles are available.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte na &lt;f0&gt;Více stylů&lt;/f0&gt; jít do balíčku Styles, kde jsou dostupné všechny styly buněk.</seg>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Více stylů&lt;/f0&gt; jít do balíčku Styles, kde jsou k dispozici všechny styly buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can create keyboard shortcuts to apply commonly-used cell or page styles, including any custom styles that you have created.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete vytvořit klávesové zkratky pro použití běžně používaných stylů buněk nebo stránek, včetně všech vlastních stylů, které jste vytvořili.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>See Chapter 14, Setting up and Customizing, for more information.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Další informace naleznete v kapitole 14, Nastavení a přizpůsobení.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>applying</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>použití</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The page style applied to a sheet within a spreadsheet is indicated on the Status Bar, as shown in Figure &lt;t0&gt;5&lt;/t0&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Styl stránky aplikovaný na list v tabulce je uveden na stavovém řádku, jak je znázorněno na obrázku &lt;t0&gt;5&lt;/t0&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Styl stránky aplikovaný na list v tabulce je uveden na stavovém řádku, jak je znázorněno na obrázku &lt;t0&gt;5&lt;/t0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Page style (Default) indicated on Status Bar</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Styl stránky (výchozí) je uveden na stavovém řádku</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To apply a different page style:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li použít jiný styl stránky:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select the sheet to be styled by clicking its sheet tab at the bottom of the window.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kliknutím na kartu listu ve spodní části okna vyberte požadovaný styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In the top of the Styles deck, click the &lt;f0&gt;Page Styles&lt;/f0&gt; icon.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V horní části balíčku Styles klepněte na ikonu &lt;f0&gt;Styly stránky&lt;/f0&gt; ikona.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Double-click on the required page style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Poklepejte na požadovaný styl stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>creating custom styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>vytváření vlastních stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To create a new (custom) style, follow the procedure described in this section&lt;be0/&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Chcete-li vytvořit nový (vlastní) styl, postupujte podle postupu popsaného v této části &lt;be0/&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit nový (vlastní) styl, postupujte podle postupu popsaného v této části &lt;be0/&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Any new (custom) styles, and any changes to existing styles, apply only to the spreadsheet in use.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Všechny nové (vlastní) styly a jakékoli změny existujících stylů se vztahují pouze na používanou tabulku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To save new styles in a template, see “&lt;bf0&gt;Creating a template&lt;/bf0&gt;” on page &lt;bf1&gt;22&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Chcete-li uložit nové styly v šabloně, přečtěte si „ &lt;bf0&gt;Vytvoření šablony&lt;/bf0&gt; „ na stránce &lt;bf1&gt;22 &lt;/bf1&gt;&lt;s2/&gt; Pro více informací.</seg>
+      <tuv lang="cs">
+        <seg>Chcete-li uložit nové styly v šabloně, přečtěte si „ &lt;bf0&gt;Vytvoření šablony&lt;/bf0&gt; “ na stránce &lt;bf1&gt;22 &lt;/bf1&gt;&lt;s2/&gt; Pro více informací.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To create a new cell style, click the &lt;f0&gt;Cell Styles&lt;/f0&gt; icon, or to create a new page style, click the &lt;f1&gt;Page Styles&lt;/f1&gt; icon.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li vytvořit nový styl buňky, klikněte na ikonu &lt;f0&gt;Styly buněk&lt;/f0&gt; nebo chcete-li vytvořit nový styl stránky, klikněte na ikonu &lt;f1&gt;Styly stránky&lt;/f1&gt; ikona.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click in the Styles deck and select &lt;f0&gt;New&lt;/f0&gt; from the context menu to open either the Cell Style dialog or the Page Style dialog.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte pravým tlačítkem na balíček Styly a vyberte &lt;f0&gt;Nový&lt;/f0&gt; z kontextové nabídky otevřete dialogové okno Styl buňky nebo Styl stránky.</seg>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na balíček Styly a vyberte &lt;f0&gt;Nový&lt;/f0&gt; z kontextové nabídky otevřete dialogové okno Styl buňky nebo Styl stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Use the various tabbed pages in the dialogs to set the attributes for the new style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Pomocí různých stránek s kartami v dialogu můžete nastavit atributy nového stylu.</seg>
+      <tuv lang="cs">
+        <seg>Pomocí různých stránek s kartami v dialogových oknech nastavte atributy pro nový styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>See “&lt;bf0&gt;Cell style attributes&lt;/bf0&gt;” on page &lt;bf1&gt;9&lt;/bf1&gt;&lt;s2/&gt;and “&lt;bf3&gt;Page style attributes&lt;/bf3&gt;” on page &lt;bf4&gt;17&lt;/bf4&gt;&lt;s5/&gt;for more information.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Viz „ &lt;bf0&gt;Atributy buněčného stylu&lt;/bf0&gt; „ na stránce &lt;bf1&gt;9 &lt;/bf1&gt;&lt;s2/&gt; a „ &lt;bf3&gt;Atributy stylu stránky&lt;/bf3&gt; „ na stránce &lt;bf4&gt;17 &lt;/bf4&gt;&lt;s5/&gt; Pro více informací.</seg>
+      <tuv lang="cs">
+        <seg>Viz „ &lt;bf0&gt;Atributy buněčného stylu&lt;/bf0&gt; “ na stránce &lt;bf1&gt;9 &lt;/bf1&gt;&lt;s2/&gt; a “ &lt;bf3&gt;Atributy stylu stránky&lt;/bf3&gt; “ na stránce &lt;bf4&gt;17 &lt;/bf4&gt;&lt;s5/&gt; Pro více informací.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the dialog and save the new style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; zavřete dialog a uložte nový styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Style names are case sensitive.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Názvy stylů rozlišují velká a malá písmena.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can define, for example, a style called &lt;f0&gt;red&lt;/f0&gt; and another style called &lt;f1&gt;Red&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Můžete definovat například styl nazvaný &lt;f0&gt;Červené&lt;/f0&gt; a další styl nazvaný &lt;f1&gt;Červené&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Můžete definovat například styl nazvaný &lt;f0&gt;Červené&lt;/f0&gt; a jiný styl &lt;f1&gt;Červené&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Make sure all style names are sufficiently different to prevent any confusion.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Ujistěte se, že všechny názvy stylů jsou dostatečně odlišné, aby nedošlo k záměně.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Cell Style dialog</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Dialog Styl buňky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The following attributes are available on the tabbed pages of the Cell Style dialog (Figure &lt;t0&gt;6&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Následující atributy jsou k dispozici na záložkách stránek v dialogu Styl buňky (obrázek 5) &lt;t0&gt;6&lt;/t0&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Následující atributy jsou k dispozici na záložkách stránek v dialogu Styl buňky (obrázek 5) &lt;t0&gt;6&lt;/t0&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Cell Style dialog – Organizer tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Dialog Styl buňky - karta Organizátor</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Name&lt;/f0&gt; – displays the name of the selected style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;název&lt;/f0&gt; - zobrazí název vybraného stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you are creating or modifying a custom style, enter a name for the style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud vytváříte nebo upravujete vlastní styl, zadejte název stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You cannot change the name of a predefined style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Název předdefinovaného stylu nelze změnit.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Inherit from&lt;/f0&gt; – you can choose to link the new style to an existing style and then modify some of the attributes.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Zdědit z&lt;/f0&gt; - můžete se rozhodnout propojit nový styl se stávajícím stylem a poté upravit některé atributy.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you do this, any change to the parent style’s attributes will affect the new style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud tak učiníte, každá změna atributů nadřazeného stylu ovlivní nový styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, you could make the styles identical except for the font color; if you later change the font family of the parent style, the new style’s family will also change.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Například byste mohli styly identické kromě barvy písma; Pokud později změníte rodinu písem rodičovského stylu, změní se také rodina nového stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Category&lt;/f0&gt; – displays the category for the current style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Kategorie&lt;/f0&gt; - zobrazí kategorii pro aktuální styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you are creating or modifying a new style, select &lt;f1&gt;Custom Styles&lt;/f1&gt; from the list.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud vytváříte nebo upravujete nový styl, vyberte &lt;f1&gt;Vlastní styly&lt;/f1&gt; ze seznamu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You cannot change the category for a predefined style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nemůžete změnit kategorii pro předdefinovaný styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Contains&lt;/f0&gt; – describes the formatting used in the style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Obsahuje&lt;/f0&gt; - popisuje formátování použité ve stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Cell Style dialog – Numbers tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Dialog Styl buňky - karta Čísla</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Category&lt;/f0&gt; – select a category from the list.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Kategorie&lt;/f0&gt; - vyberte kategorii ze seznamu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Examples: &lt;f1&gt;Currency&lt;/f1&gt;, &lt;f2&gt;Date&lt;/f2&gt;, &lt;f3&gt;Number&lt;/f3&gt;, &lt;f4&gt;Text&lt;/f4&gt;, ...</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Příklady: &lt;f1&gt;Měna&lt;/f1&gt;, &lt;f2&gt;datum&lt;/f2&gt;, &lt;f3&gt;Číslo&lt;/f3&gt;, &lt;f4&gt;Text&lt;/f4&gt;,...</seg>
+      <tuv lang="cs">
+        <seg>Příklady: &lt;f1&gt;Měna&lt;/f1&gt; , &lt;f2&gt;datum&lt;/f2&gt; , &lt;f3&gt;Číslo&lt;/f3&gt; , &lt;f4&gt;Text&lt;/f4&gt; , ...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; – select how you want the contents of the selected cell(s) to be displayed.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Formát&lt;/f0&gt; - vyberte, jak chcete zobrazovat obsah vybraných buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>When you select &lt;f0&gt;Currency&lt;/f0&gt; as a category, you need to select a currency from the drop-down list and then select the format to use from the options available for that currency.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Když vyberete &lt;f0&gt;Měna&lt;/f0&gt; jako kategorii musíte vybrat měnu z rozevíracího seznamu a poté vybrat formát, který chcete použít z možností dostupných pro tuto měnu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The currency format is not dependent on the language that you select in the &lt;f0&gt;Language&lt;/f0&gt; box.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Formát měny nezávisí na jazyce, který vyberete v &lt;f0&gt;Jazyk&lt;/f0&gt; box.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The default currency format for a cell is determined by the regional settings of your operating system.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Výchozí formát měny pro buňku je určen místními nastaveními operačního systému.</seg>
+      <tuv lang="cs">
+        <seg>Výchozí formát měny pro buňku je určen místním nastavením vašeho operačního systému.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Language&lt;/f0&gt; – specifies the language settings for the selected cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Jazyk&lt;/f0&gt; - určuje nastavení jazyka pro vybrané buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>With the language set to the default, Calc automatically applies the number formats associated with the system default language.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Když je jazyk nastaven na výchozí, aplikace Calc automaticky použije formáty čísel spojené s výchozím jazykem systému.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The language setting ensures that date and currency formats are preserved even when the document is opened in an operating system that uses a different default language setting.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Nastavení jazyka zajišťuje, že formáty data a měny zůstanou zachovány i při otevření dokumentu v operačním systému, který používá jiné výchozí nastavení jazyka.</seg>
+      <tuv lang="cs">
+        <seg>Nastavení jazyka zajišťuje, že formáty data a měny budou zachovány i při otevření dokumentu v operačním systému, který používá jiné výchozí nastavení jazyka.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Options&lt;/f0&gt; – specify the options for the selected format.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Možnosti&lt;/f0&gt; - zadejte možnosti pro vybraný formát.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Decimal places&lt;/f0&gt; – enter the number of decimal places that you want to display.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Desetinná místa&lt;/f0&gt; - zadejte počet desetinných míst, která chcete zobrazit.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Leading zeroes&lt;/f0&gt; – enter the maximum number of zeroes to display in front of the decimal point.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Vedoucí nuly&lt;/f0&gt; - zadejte maximální počet nul, které se mají zobrazit před desetinnou čárkou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Negative numbers red &lt;/f0&gt;– select to change the font color of negative numbers to red.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Záporná čísla červená&lt;/f0&gt; - vyberte, chcete-li změnit barvu písma záporných čísel na červenou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Thousands separator&lt;/f0&gt; – select to insert a separator between thousands.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Tisíce oddělovačů&lt;/f0&gt; - vyberte vložení oddělovače mezi tisíce.</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tisíce oddělovačů&lt;/f0&gt; - vyberte vložit oddělovač mezi tisíce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The type of separator (for example, a comma or a space) depends on your language settings.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Typ oddělovače (například čárka nebo mezera) závisí na nastavení jazyka.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Format code&lt;/f0&gt; – displays the number format code for the selected format.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Formátování kódu&lt;/f0&gt; - zobrazí kód formátu čísla pro vybraný formát.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can also enter a custom format.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete také zadat vlastní formát.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Preview field&lt;/f0&gt; – displays a preview of the current selection.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Pole náhledu&lt;/f0&gt; - zobrazí náhled aktuálního výběru.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Cell Style dialog – Font tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Dialog Styl buňky - karta Písmo</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Font &lt;/f0&gt;– select a font family from the list.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Písmo&lt;/f0&gt; - vyberte rodinu písem ze seznamu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Style&lt;/f0&gt; – select the formatting you want to apply, for example &lt;f1&gt;Bold&lt;/f1&gt; or &lt;f2&gt;Italic&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Styl&lt;/f0&gt; - vyberte například formátování, které chcete použít &lt;f1&gt;tučně&lt;/f1&gt; nebo &lt;f2&gt;Kurzíva&lt;/f2&gt;.</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styl&lt;/f0&gt; - vyberte například formátování, které chcete použít &lt;f1&gt;tučně&lt;/f1&gt; nebo &lt;f2&gt;Kurzíva&lt;/f2&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Size&lt;/f0&gt; – select or enter the font size that you want to apply.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Velikost&lt;/f0&gt; - vyberte nebo zadejte velikost písma, které chcete použít.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For scalable fonts, you can also enter decimal values.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>U škálovatelných písem můžete také zadat desetinné hodnoty.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you are creating a style that is based on another style, you can enter a percentage value or a point value (for example, 2pt or 5pt).</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud vytváříte styl založený na jiném stylu, můžete zadat procentuální hodnotu nebo bodovou hodnotu (například 2pt nebo 5pt).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Language&lt;/f0&gt; – sets the language that the spelling checker is to use.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Jazyk&lt;/f0&gt; - nastavuje jazyk, který má použít kontrola pravopisu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The spelling checker works only when you have installed the corresponding language module.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kontrola pravopisu funguje, pouze pokud jste nainstalovali odpovídající jazykový modul.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A language entry has a check mark in front of it if the spelling checker is activated for that language.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud je v daném jazyce aktivována kontrola pravopisu, má položka před sebou zaškrtnutí.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Features&lt;/f0&gt; – some fonts offer special features such as Discretionary Ligatures and Horizontal Kerning.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Funkce&lt;/f0&gt; - některá písma nabízejí speciální funkce, jako jsou diskreční ligatury a horizontální vyrovnání párů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click this button to access the Font Features dialog (not shown) to select those features.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klepnutím na toto tlačítko otevřete dialogové okno Vlastnosti písma (není zobrazeno) a vyberte tyto funkce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Preview&lt;/f0&gt; – displays a preview of the current selection.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Náhled&lt;/f0&gt; - zobrazí náhled aktuálního výběru.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Cell Style dialog – Font Effects tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Dialog Styl buňky - karta Efekty písma</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Font color&lt;/f0&gt; – sets the color for the text.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Barva fontu&lt;/f0&gt; - nastaví barvu textu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you select &lt;f1&gt;Automatic&lt;/f1&gt;, the text color is set to black for light backgrounds and to white for dark backgrounds.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Pokud vyberete &lt;f1&gt;Automatický&lt;/f1&gt;, barva textu je nastavena na černou pro světlé pozadí a na bílou pro tmavé pozadí.</seg>
+      <tuv lang="cs">
+        <seg>Pokud vyberete &lt;f1&gt;Automatický&lt;/f1&gt; , barva textu je nastavena na černou pro světlé pozadí a na bílou pro tmavé pozadí.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Relief&lt;/f0&gt; – select a relief effect to apply to the text.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Úleva&lt;/f0&gt; - vyberte reliéfní efekt, který se použije na text.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The &lt;f1&gt;Embossed&lt;/f1&gt; relief makes the characters appear as if they are raised above the page.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f1&gt;Reliéfní&lt;/f1&gt; reliéf způsobí, že se znaky objeví, jako by byly zvednuty nad stránku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The &lt;f2&gt;Engraved&lt;/f2&gt; relief makes the characters appear as if they are pressed into the page.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f2&gt;Ryté&lt;/f2&gt; reliéf způsobí, že se znaky objeví, jako by byly stisknuty na stránce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Outline&lt;/f0&gt; – displays the outline of the characters.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Obrys&lt;/f0&gt; - zobrazuje obrys znaků.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This effect does not work with every font.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tento efekt nefunguje u každého písma.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Shadow&lt;/f0&gt; – adds a shadow that casts below and to the right of the characters.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Stín&lt;/f0&gt; - přidá stín, který vrhá pod a napravo od postav.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Overlining&lt;/f0&gt; – select the overlining style that you want to apply.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Přikrývka&lt;/f0&gt; - vyberte styl podtržení, který chcete použít.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To apply the overlining to words only (not the spaces between them), select &lt;f1&gt;Individual words&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Chcete-li použít podtržení pouze na slova (nikoli na mezery mezi nimi), vyberte &lt;f1&gt;Jednotlivá slova&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Chcete-li použít podtržení pouze na slova (nikoli na mezery mezi nimi), vyberte &lt;f1&gt;Jednotlivá slova&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Overline color&lt;/f0&gt; – select the color for the overlining.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Obrysová barva&lt;/f0&gt; - vyberte barvu pro obložení.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f1&gt;Automatic&lt;/f1&gt; matches the font color.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f1&gt;Automatický&lt;/f1&gt; odpovídá barvě písma.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Strikethrough&lt;/f0&gt; – select a strikethrough style for the selected text.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Přeškrtněte&lt;/f0&gt; - vyberte přeškrtnutý styl pro vybraný text.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Underlining&lt;/f0&gt; – select the underlining style that you want to apply.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Podtržení&lt;/f0&gt; - vyberte styl podtržení, který chcete použít.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To apply the underlining to words only (not the spaces between them), select &lt;f1&gt;Individual words&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Chcete-li podtržení použít pouze na slova (nikoli mezery mezi nimi), vyberte &lt;f1&gt;Jednotlivá slova&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Chcete-li podtržení použít pouze na slova (nikoli mezery mezi nimi), vyberte &lt;f1&gt;Jednotlivá slova&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you apply underlining to a superscript text, the underlining is raised to the level of the superscript.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Použijete-li podtržení na horní index, podtržení se zvýší na horní index.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If the superscript is contained in a word with normal text, the underlining is not raised.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud je horní index obsažen ve slově s normálním textem, podtržení se nezvýší.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Underline color&lt;/f0&gt; – select the color for the underlining.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Barva podtržení&lt;/f0&gt; - vyberte barvu podtržení.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Individual words&lt;/f0&gt; – applies the selected effect only to words and ignores spaces.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Jednotlivá slova&lt;/f0&gt; - použije vybraný efekt pouze na slova a ignoruje mezery.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Cell Style dialog – Alignment tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Dialog Styl buňky - karta Zarovnání</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Text Alignment&lt;/f0&gt; – sets the alignment options for the contents of the current cell, or the selected cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Zarovnání textu&lt;/f0&gt; - nastavuje možnosti zarovnání pro obsah aktuální buňky nebo vybraných buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Horizontal&lt;/f0&gt; – select the horizontal alignment option that you want to apply to the cell contents.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Horizontální&lt;/f0&gt; - vyberte možnost vodorovného zarovnání, kterou chcete použít pro obsah buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Default&lt;/f0&gt; – aligns numbers to the right and text to the left.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Výchozí&lt;/f0&gt; - zarovná čísla vpravo a text vlevo.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Left&lt;/f0&gt; – aligns the contents of the cell to the left.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Vlevo, odjet&lt;/f0&gt; - zarovná obsah buňky doleva.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Center&lt;/f0&gt; – horizontally centers the contents of the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Centrum&lt;/f0&gt; - vodorovně vycentruje obsah buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Right&lt;/f0&gt; – aligns the contents of the cell to the right.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Že jo&lt;/f0&gt; - zarovná obsah buňky doprava.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Justified&lt;/f0&gt; – aligns the contents of the cell to the left and to the right cell borders.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Ospravedlněno&lt;/f0&gt; - zarovná obsah buňky doleva a doprava k okrajům buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Filled&lt;/f0&gt; – repeats the cell contents (number and text) until the visible area of the cell is filled.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Vyplněna&lt;/f0&gt; - opakuje obsah buňky (číslo a text), dokud není vyplněna viditelná oblast buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This feature does not work on text that contains line breaks.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tato funkce nefunguje u textu, který obsahuje konce řádků.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Distributed&lt;/f0&gt; – aligns contents evenly across the whole cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Distribuováno&lt;/f0&gt; - vyrovnává obsah rovnoměrně po celé buňce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Unlike &lt;f1&gt;Justified&lt;/f1&gt;, it also justifies the very last line of text.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Na rozdíl od &lt;f1&gt;Ospravedlněno&lt;/f1&gt;, odůvodní také poslední řádek textu.</seg>
+      <tuv lang="cs">
+        <seg>Na rozdíl od &lt;f1&gt;Ospravedlněno&lt;/f1&gt; , odůvodní také poslední řádek textu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Indent&lt;/f0&gt; – indents from the left edge of the cell by the amount that you enter.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Odrážka&lt;/f0&gt; - odsadí od levého okraje buňky částkou, kterou zadáte.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Vertical&lt;/f0&gt; – select the vertical alignment option that you want to apply to the cell contents.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Vertikální&lt;/f0&gt; - vyberte možnost svislého zarovnání, kterou chcete použít pro obsah buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Default&lt;/f0&gt; – aligns the cell contents to the bottom of the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Výchozí&lt;/f0&gt; - zarovná obsah buňky ke spodní části buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Top&lt;/f0&gt; – aligns the contents of the cell to the upper edge of the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Horní&lt;/f0&gt; - zarovná obsah buňky k hornímu okraji buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Bottom&lt;/f0&gt; – aligns the contents of the cell to the lower edge of the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Dno&lt;/f0&gt; - zarovná obsah buňky ke spodnímu okraji buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Middle&lt;/f0&gt; – vertically centers the contents of the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Střední&lt;/f0&gt; - svisle centruje obsah buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Justified&lt;/f0&gt; – aligns the contents of the cell to the top and to the bottom cell borders.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Ospravedlněno&lt;/f0&gt; - zarovná obsah buňky na horní a dolní okraj buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Text Orientation&lt;/f0&gt; – defines the text direction of cell contents.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Orientace textu&lt;/f0&gt; - definuje směr textu obsahu buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;ABCD wheel&lt;/f0&gt; – click anywhere in the wheel to define the text orientation.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Kolo ABCD&lt;/f0&gt; - kliknutím kdekoli na kole definujete orientaci textu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>The characters "ABCD" on the wheel correspond to the new setting.</seg>
+      <tuv lang="en">
+        <seg>The characters “ABCD” on the wheel correspond to the new setting.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Znaky „ABCD“ na kolečku odpovídají novému nastavení.</seg>
+      <tuv lang="cs">
+        <seg>Znaky „ABCD“ na kole odpovídají novému nastavení.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Vertically stacked&lt;/f0&gt; – assigns vertical text orientation for cell contents.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Svisle naskládané&lt;/f0&gt; - přiřadí obsahu buňky svislou orientaci textu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Degrees&lt;/f0&gt; – allows you to manually enter the orientation angle.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Stupně&lt;/f0&gt; - umožňuje ruční zadání orientačního úhlu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Reference edge&lt;/f0&gt; – specify the cell edge from which to write the rotated text.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Referenční hrana&lt;/f0&gt; - Určete okraj buňky, od kterého se má rotovaný text zapisovat.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Text Extension From Lower Cell Border&lt;/f0&gt; – writes the rotated text from the bottom cell edge outwards.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Textové rozšíření ze spodního okraje buňky&lt;/f0&gt; - zapíše otočený text od spodní hrany buňky směrem ven.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Text Extension From Upper Cell Border&lt;/f0&gt; – writes the rotated text from the top cell edge outwards.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Textové rozšíření z horního okraje buňky&lt;/f0&gt; - zapíše otočený text od horního okraje buňky směrem ven.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Text Extension Inside Cell&lt;/f0&gt; – writes the rotated text only within the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Rozšíření textu uvnitř buňky&lt;/f0&gt; - zapíše otočený text pouze v buňce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Properties&lt;/f0&gt; – determine the text flow in a cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Vlastnosti&lt;/f0&gt; - určit tok textu v buňce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Wrap text automatically&lt;/f0&gt; – wraps text onto another line at the cell border.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Zabalte text automaticky&lt;/f0&gt; - obtéká text na další řádek na hranici buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The number of lines depends on the width of the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Počet řádků závisí na šířce buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To enter a manual line break, press &lt;f1&gt;Ctrl+Enter&lt;/f1&gt; in the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li zadat ruční konec řádku, stiskněte &lt;f1&gt;Ctrl + Enter&lt;/f1&gt; v cele.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Hyphenation active&lt;/f0&gt; – enables word hyphenation for text wrapping to the next line.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Spojení slov aktivní&lt;/f0&gt; - umožňuje dělení slov pro zalamování textu na další řádek.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Shrink to fit cell size&lt;/f0&gt; – reduces the apparent size of the font so that the contents of the cell fit into the current cell width.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Zmenšuje se na velikost buňky&lt;/f0&gt; - zmenší zdánlivou velikost písma tak, aby obsah buňky zapadal do aktuální šířky buňky.</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zmenšuje se na velikost buňky&lt;/f0&gt; - zmenšuje zdánlivou velikost písma tak, aby obsah buňky zapadal do aktuální šířky buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You cannot apply this command to a cell that contains line breaks.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tento příkaz nelze použít na buňku obsahující konce řádků.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Text direction&lt;/f0&gt; – choices are &lt;f1&gt;Left-to-right&lt;/f1&gt;, &lt;f2&gt;Right-to-left&lt;/f2&gt;, and &lt;f3&gt;Use superordinate object settings&lt;/f3&gt; (the settings applied to the preceding cell).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Směr textu&lt;/f0&gt; - možnosti jsou &lt;f1&gt;Zleva do prava&lt;/f1&gt;, &lt;f2&gt;Zprava doleva&lt;/f2&gt;, a &lt;f3&gt;Použijte nastavení nadřízeného objektu&lt;/f3&gt; (nastavení použitá v předchozí buňce).</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Směr textu&lt;/f0&gt; - možnosti jsou &lt;f1&gt;Zleva do prava&lt;/f1&gt; , &lt;f2&gt;Zprava doleva&lt;/f2&gt; , a &lt;f3&gt;Použijte nastavení nadřízeného objektu&lt;/f3&gt; (nastavení použitá v předchozí buňce).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Cell Style dialog – Borders tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Dialog Styl buňky - karta Okraje</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Sets the border attributes for the selected cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nastaví atributy ohraničení pro vybrané buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Line Arrangement&lt;/f0&gt; – select a preset border style or define your own combination by clicking in the diagram.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Uspořádání čar&lt;/f0&gt; - vyberte přednastavený styl ohraničení nebo definujte svou vlastní kombinaci kliknutím na diagram.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Line&lt;/f0&gt; – select the line style, width, and color that you want to apply.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Čára&lt;/f0&gt; - vyberte styl čáry, šířku a barvu, kterou chcete použít.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The style is applied to the borders selected in the preview.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styl se použije na okraje vybrané v náhledu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Padding&lt;/f0&gt; – specify the amount of space that you want to leave between the border and the contents of the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Polstrování&lt;/f0&gt; - zadejte velikost místa, které chcete ponechat mezi rámečkem a obsahem buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can set each distance (left, right, top, bottom) individually or select &lt;f1&gt;Synchronize&lt;/f1&gt; to apply the same padding to all four borders when you enter a new distance.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Každou vzdálenost (vlevo, vpravo, nahoře, dole) můžete nastavit jednotlivě nebo vybrat &lt;f1&gt;Synchronizovat&lt;/f1&gt; použít stejné odsazení na všechny čtyři ohraničení, když zadáte novou vzdálenost.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Shadow Style&lt;/f0&gt; – applies a shadow effect to borders.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Styl stínu&lt;/f0&gt; - aplikuje stínový efekt na okraje.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can specify the position of the shadow (top, bottom, right, or left side), the distance it extends, and its color.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete určit polohu stínu (horní, dolní, pravá nebo levá strana), vzdálenost, kterou se rozšíří, a její barvu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click &lt;f0&gt;Color&lt;/f0&gt; to select a color to use as a background for the formatted cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na &lt;f0&gt;Barva&lt;/f0&gt; pro výběr barvy, která se použije jako pozadí pro formátované buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can choose from several palettes.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete si vybrat z několika palet.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To change the color, select another one.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li změnit barvu, vyberte jinou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To remove the background color, select &lt;f1&gt;None&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Chcete-li odstranit barvu pozadí, vyberte &lt;f1&gt;Žádný&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit barvu pozadí, vyberte &lt;f1&gt;Žádný&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Cell Style dialog – Background tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Dialog Styl buňky - karta Pozadí</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Protection</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Ochrana</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Hide all&lt;/f0&gt; – hides formulas and contents of the selected cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Skrýt vše&lt;/f0&gt; - skryje vzorce a obsah vybraných buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Protected&lt;/f0&gt; – prevents the selected cells from being modified.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Chráněný&lt;/f0&gt; - zabraňuje změně vybraných buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This cell protection only takes effect if you also protect the sheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tato ochrana buněk se projeví, pouze pokud list chráníte.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Hide formula&lt;/f0&gt; – hides formulas in the selected cells.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Skrýt vzorec&lt;/f0&gt; - skryje vzorce ve vybraných buňkách.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Hide when printing&lt;/f0&gt; – prevents the selected cells from being printed.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Skrýt při tisku&lt;/f0&gt; - zabraňuje tisku vybraných buněk.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Cell Style dialog – Cell Protection tab</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Dialog Styl buňky - karta Ochrana buněk</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The buttons at the bottom of the Cell Style dialog have the following functions:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tlačítka ve spodní části dialogu Styl buňky mají následující funkce:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Reset&lt;/f0&gt; – returns to last saved settings for all tabs of this dialog.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Resetovat&lt;/f0&gt; - návrat na poslední uložené nastavení pro všechny záložky tohoto dialogu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Standard&lt;/f0&gt; – returns to the settings in the template for the current dialog tab only.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Standard&lt;/f0&gt; - návrat k nastavení v šabloně pouze pro aktuální záložku dialogu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Cancel&lt;/f0&gt; – cancels any changes made (to all tabs in the dialog) since the last save of this dialog (by clicking &lt;f1&gt;OK&lt;/f1&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;zrušení&lt;/f0&gt; - zruší všechny změny provedené (na všech kartách v dialogu) od posledního uložení tohoto dialogu (kliknutím na) &lt;f1&gt;OK&lt;/f1&gt;).</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;zrušení&lt;/f0&gt; - zruší všechny změny provedené (na všech kartách v dialogu) od posledního uložení tohoto dialogu (kliknutím na) &lt;f1&gt;OK&lt;/f1&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;OK&lt;/f0&gt; – saves all changes made (to all tabs in the dialog).</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;OK&lt;/f0&gt; - uloží všechny provedené změny (na všechny záložky v dialogu).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Page Style dialog</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Dialog Styl stránky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The following attributes are available on the tabs of the Page Style dialog (Figure &lt;t0&gt;14&lt;/t0&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Na záložkách dialogového okna Styl stránky jsou k dispozici následující atributy (obrázek 5) &lt;t0&gt;14&lt;/t0&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Na záložkách dialogu Styl stránky jsou k dispozici následující atributy (obrázek 5) &lt;t0&gt;14&lt;/t0&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This tab is similar to the Organizer tab for the Cell Style dialog.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tato karta je podobná kartě Organizátor v dialogu Styl buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you are creating or modifying a custom style, you can enter or change a name of the style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud vytváříte nebo upravujete vlastní styl, můžete zadat nebo změnit název stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Category&lt;/f0&gt; – displays the category of the current style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Kategorie&lt;/f0&gt; - zobrazí kategorii aktuálního stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you are creating a new style, select &lt;f1&gt;Custom Styles&lt;/f1&gt; from the list.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud vytváříte nový styl, vyberte &lt;f1&gt;Vlastní styly&lt;/f1&gt; ze seznamu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;s2/&gt;You cannot change the category for a predefined style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;s2/&gt; Nemůžete změnit kategorii pro předdefinovaný styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Contains&lt;/f0&gt; – describes the formatting used in the current style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Obsahuje&lt;/f0&gt; - popisuje formátování použité v aktuálním stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can define page layouts for single and multiple-page spreadsheets, as well as page numbering and paper formats.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Můžete definovat rozvržení stránky pro jednostránkové i vícestránkové tabulky, jakož i číslování stránek a papírové formáty.</seg>
+      <tuv lang="cs">
+        <seg>Můžete definovat rozvržení stránek pro jednostránkové i vícestránkové tabulky, číslování stránek a papírové formáty.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Paper Format&lt;/f0&gt; – select from a list of predefined paper sizes, or define a custom paper format.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Formát papíru&lt;/f0&gt; - vyberte ze seznamu předdefinovaných formátů papíru nebo definujte vlastní formát papíru.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Format&lt;/f0&gt; – select a predefined paper size, or create a custom format by entering the dimensions for the paper in the &lt;f1&gt;Height&lt;/f1&gt; and &lt;f2&gt;Width&lt;/f2&gt; boxes.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Formát&lt;/f0&gt; - vyberte předdefinovanou velikost papíru nebo vytvořte vlastní formát zadáním rozměrů papíru do &lt;f1&gt;Výška&lt;/f1&gt; a &lt;f2&gt;Šířka&lt;/f2&gt; krabice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Width&lt;/f0&gt; – displays the width of the selected paper format.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Šířka&lt;/f0&gt; - zobrazí šířku vybraného formátu papíru.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To define a custom (user) format, enter a width here.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li definovat vlastní (uživatelský) formát, zadejte sem šířku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Height&lt;/f0&gt; – displays the height of the selected paper format.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Výška&lt;/f0&gt; - zobrazí výšku vybraného formátu papíru.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To define a custom (user) format, enter a height here.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chcete-li definovat vlastní (uživatelský) formát, zadejte zde výšku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Orientation:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Orientace:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Portrait&lt;/f0&gt; – displays and prints the spreadsheet with the paper oriented vertically.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Portrét&lt;/f0&gt; - zobrazí a vytiskne tabulku s papírem orientovaným svisle.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Landscape&lt;/f0&gt; – displays and prints the spreadsheet with the paper oriented horizontally.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Krajina&lt;/f0&gt; - zobrazí a vytiskne tabulku s papírem orientovaným vodorovně.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Page Style dialog</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Dialog Styl stránky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Paper tray&lt;/f0&gt; – select the paper source for your printer.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Papírový podnos&lt;/f0&gt; - vyberte zdroj papíru pro vaši tiskárnu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can assign different paper trays to different page styles.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>K různým stylům stránek můžete přiřadit různé zásobníky papíru.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, you can assign a different tray for the first page style in the spreadsheet and load the tray with your company letterhead paper.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Můžete například přiřadit jiný zásobník pro první styl stránky v tabulce a zásobník vložit do firemního hlavičkového papíru.</seg>
+      <tuv lang="cs">
+        <seg>Můžete například přiřadit jiný zásobník pro první styl stránky v tabulce a vložit zásobník do firemního hlavičkového papíru.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Margins&lt;/f0&gt; – specify the amount of space to leave between the edges of the paper and the spreadsheet contents.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Okraje&lt;/f0&gt; - Určete, kolik místa má zůstat mezi okraji papíru a obsahem tabulky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Left/Inner&lt;/f0&gt; – the space between the left edge of the page and the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Vlevo / Vnitřní&lt;/f0&gt; - mezera mezi levým okrajem stránky a tabulkou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you are using &lt;f1&gt;Mirrored&lt;/f1&gt; page layout, the space between the inner edge of the paper and the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud používáte &lt;f1&gt;Zrcadlo&lt;/f1&gt; rozvržení stránky, mezera mezi vnitřním okrajem papíru a tabulkou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You may want to have a wider space as the Left/Inner margin if you will be punching or binding the pages.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Možná budete chtít mít větší prostor jako Levý / Vnitřní okraj, pokud budete stránky děrovat nebo zavazovat.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Right/Outer&lt;/f0&gt; – the space between the right edge of the paper and the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Vpravo / vně&lt;/f0&gt; - mezeru mezi pravým okrajem papíru a tabulkou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you are using &lt;f1&gt;Mirrored&lt;/f1&gt; page layout, the space between the outer edge of the paper and the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud používáte &lt;f1&gt;Zrcadlo&lt;/f1&gt; rozvržení stránky, mezera mezi vnějším okrajem papíru a tabulkou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Top&lt;/f0&gt; – the space between the upper edge of the paper and the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Horní&lt;/f0&gt; - mezeru mezi horním okrajem papíru a tabulkou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Bottom&lt;/f0&gt; – the space between the lower edge of the paper and the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Dno&lt;/f0&gt; - mezeru mezi spodním okrajem papíru a tabulkou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Layout settings&lt;/f0&gt; – select the page layout style to use for the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Nastavení rozvržení&lt;/f0&gt; - vyberte styl rozvržení stránky, který chcete použít pro tabulku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Page layout:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Rozvržení stránky:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Right and left&lt;/f0&gt; – both odd (right) and even (left) pages have the same margins on all four sides.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Pravá a levá&lt;/f0&gt; - obě liché (pravé) i sudé (levé) stránky mají stejné okraje na všech čtyřech stranách.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Mirrored&lt;/f0&gt; – odd and even pages with inner and outer margins as specified.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Zrcadlo&lt;/f0&gt; - liché a sudé stránky s vnitřním a vnějším okrajem podle specifikace.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Use this layout if you want to bind the printed pages like a book.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Toto rozložení použijte, pokud chcete svázané stránky vytisknout jako knihu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Enter the binding space as the &lt;f1&gt;Inner&lt;/f1&gt; margin.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zadejte mezeru vazby jako &lt;f1&gt;Vnitřní&lt;/f1&gt; okraj.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Only right&lt;/f0&gt; – To specify different (but not mirrored) layouts for odd and even pages, define separate page styles.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Jen dobře&lt;/f0&gt; - Chcete-li určit různá (ale ne zrcadlená) rozvržení pro liché a sudé stránky, definujte samostatné styly stránek.</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Jen dobře&lt;/f0&gt; - Chcete-li určit různá (ale ne zrcadlená) rozvržení pro liché a sudé stránky, definujte samostatné styly stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This one is for right (odd) pages.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tenhle je pro pravé (liché) stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Only left&lt;/f0&gt; – To specify the layout for left (even) pages, choose this setting.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Pouze odešel&lt;/f0&gt; - Chcete-li určit rozvržení pro levé (sudé) stránky, vyberte toto nastavení.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Page numbers&lt;/f0&gt; – select the page numbering format to use for the page style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Čísla stránek&lt;/f0&gt; - vyberte formát číslování stránek, který se použije pro styl stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Typically this will be 1,2,3 or a,b,c or i,ii,iii.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Typicky to bude 1,2,3 nebo a, b, c nebo i, ii, iii.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Table alignment:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zarovnání tabulky:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Horizontal&lt;/f0&gt; – centers the cells horizontally on the printed page.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Horizontální&lt;/f0&gt; - umísťuje buňky vodorovně na tištěnou stránku.</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální&lt;/f0&gt; - středy buněk vodorovně na vytištěné stránce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Vertical&lt;/f0&gt; – centers the cells vertically on the printed page.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Vertikální&lt;/f0&gt; - umísťuje buňky svisle na tištěnou stránku.</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální&lt;/f0&gt; - buňky umístí na tištěnou stránku na střed.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>See “&lt;bf0&gt;Borders tab&lt;/bf0&gt;” and “&lt;bf1&gt;Background tab&lt;/bf1&gt;” in “&lt;bf2&gt;Cell style attributes&lt;/bf2&gt;” above for information on how to set the borders and background for page styles.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Viz „ &lt;bf0&gt;Karta Hranice&lt;/bf0&gt; „ a „ &lt;bf1&gt;Karta Pozadí&lt;/bf1&gt; „ v „ &lt;bf2&gt;Atributy buněčného stylu&lt;/bf2&gt; „Výše pro informace o tom, jak nastavit ohraničení a pozadí stylů stránky.</seg>
+      <tuv lang="cs">
+        <seg>Viz „ &lt;bf0&gt;Karta Hranice&lt;/bf0&gt; " a " &lt;bf1&gt;Karta Pozadí&lt;/bf1&gt; " v " &lt;bf2&gt;Atributy buněčného stylu&lt;/bf2&gt; “Výše pro informace o tom, jak nastavit ohraničení a pozadí stylů stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Page styles can have a bitmap background or a color.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly stránky mohou mít bitmapové pozadí nebo barvu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Adds a header or footer to the page style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Přidá do stylu stránky záhlaví nebo zápatí.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A header is an area in the top page margin where you can add text or graphics.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Záhlaví je oblast v horním okraji stránky, do které můžete přidat text nebo grafiku.</seg>
+      <tuv lang="cs">
+        <seg>Záhlaví je oblast v horním okraji stránky, kde můžete přidat text nebo grafiku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A footer is a similar area in the bottom page margin.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zápatí je podobná oblast v dolním okraji stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>See Chapter 6, Printing, Exporting, and Emailing, for details.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Podrobnosti najdete v kapitole 6, Tisk, export a e-mail.</seg>
+      <tuv lang="cs">
+        <seg>Podrobnosti viz kapitola 6, Tisk, export a odesílání e-mailem.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Specifies the elements to be included in the printout of all sheets with the page style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Určuje prvky, které mají být zahrnuty do výtisku všech listů se stylem stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Additionally, you can set the print order, the first page number, and the page scale.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Dále můžete nastavit pořadí tisku, první číslo stránky a měřítko stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Go to the Styles deck in the Sidebar and click the icon for the type of style you want to modify.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V postranním panelu přejděte na balíček Styly a klikněte na ikonu typu stylu, který chcete upravit.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on the name of the style and select &lt;f0&gt;Modify&lt;/f0&gt; from the context menu to open either the Cell Style dialog (Figure &lt;t1&gt;6&lt;/t1&gt;) or the Page Style dialog (Figure &lt;t2&gt;14&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klepněte pravým tlačítkem myši na název stylu a vyberte &lt;f0&gt;Upravit&lt;/f0&gt; z kontextové nabídky otevřete buď dialogové okno Styl buňky (obrázek 5) &lt;t1&gt;6&lt;/t1&gt;) nebo dialogové okno Styl stránky (Obrázek &lt;t2&gt;14&lt;/t2&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na název stylu a vyberte &lt;f0&gt;Upravit&lt;/f0&gt; z kontextové nabídky otevřete buď dialogové okno Styl buňky (obrázek 5) &lt;t1&gt;6&lt;/t1&gt; ) nebo dialogové okno Styl stránky (Obrázek &lt;t2&gt;14&lt;/t2&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Make the necessary changes to the style attributes.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Proveďte potřebné změny atributů stylu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For more information on style attributes, see “&lt;bf0&gt;Cell style attributes&lt;/bf0&gt;” on page &lt;bf1&gt;9&lt;/bf1&gt;&lt;s2/&gt;and “&lt;bf3&gt;Page style attributes&lt;/bf3&gt;” on page &lt;bf4&gt;17&lt;/bf4&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Další informace o atributech stylu naleznete v části „ &lt;bf0&gt;Atributy buněčného stylu&lt;/bf0&gt; „ na stránce &lt;bf1&gt;9 &lt;/bf1&gt;&lt;s2/&gt; a „ &lt;bf3&gt;Atributy stylu stránky&lt;/bf3&gt; „ na stránce &lt;bf4&gt;17&lt;/bf4&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Další informace o atributech stylu naleznete v části „ &lt;bf0&gt;Atributy buněčného stylu&lt;/bf0&gt; “ na stránce &lt;bf1&gt;9 &lt;/bf1&gt;&lt;s2/&gt; a “ &lt;bf3&gt;Atributy stylu stránky&lt;/bf3&gt; “ na stránce &lt;bf4&gt;17&lt;/bf4&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The &lt;f0&gt;Modify&lt;/f0&gt; command is unavailable if one or more sheets are protected, even if the style to be modified is being used in an unprotected sheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Upravit&lt;/f0&gt; příkaz není k dispozici, pokud je chráněn jeden nebo více listů, i když styl, který se má upravit, se používá v nechráněném listu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can rename custom styles, but not the styles supplied with Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete přejmenovat vlastní styly, ale ne styly dodávané s aplikací Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Go to the Styles panel in the Sidebar (Figure &lt;t0&gt;2&lt;/t0&gt;) and click the icon for the type of style you want to rename.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Přejděte na panel Styly na postranním panelu (obrázek 5) &lt;t0&gt;2&lt;/t0&gt;) a klikněte na ikonu typu stylu, který chcete přejmenovat.</seg>
+      <tuv lang="cs">
+        <seg>Přejděte na panel Styly na postranním panelu (obrázek 5) &lt;t0&gt;2&lt;/t0&gt; ) a klikněte na ikonu typu stylu, který chcete přejmenovat.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on the style you want to rename and select &lt;f0&gt;Modify&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klepněte pravým tlačítkem myši na styl, který chcete přejmenovat, a vyberte &lt;f0&gt;Upravit&lt;/f0&gt; z kontextové nabídky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The Cell Styles or Page Styles dialog opens.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Otevře se dialogové okno Styly buněk nebo Styly stránek.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>On the &lt;f0&gt;Organizer&lt;/f0&gt; tab, rename the style and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Na &lt;f0&gt;Organizátor&lt;/f0&gt; kartu, přejmenujte styl a klikněte na &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Organizátor&lt;/f0&gt; kartu, přejmenujte styl a klikněte na &lt;f1&gt;OK&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can delete custom styles, but not the styles supplied with Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete odstranit vlastní styly, ale ne styly dodávané s aplikací Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Go to the Styles deck in the Sidebar (Figure &lt;t0&gt;2&lt;/t0&gt;) and click the icon for the type of style you want to delete.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>V postranním panelu přejděte na balíček Styles (obrázek 5) &lt;t0&gt;2&lt;/t0&gt;) a klikněte na ikonu typu stylu, který chcete odstranit.</seg>
+      <tuv lang="cs">
+        <seg>V postranním panelu přejděte na balíček Styles (obrázek 5) &lt;t0&gt;2&lt;/t0&gt; ) a klikněte na ikonu typu stylu, který chcete odstranit.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on the style you want to delete and select &lt;f0&gt;Delete&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klepněte pravým tlačítkem myši na styl, který chcete odstranit, a vyberte &lt;f0&gt;Vymazat&lt;/f0&gt; z kontextové nabídky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select &lt;f0&gt;Yes&lt;/f0&gt; on the warning message, if displayed.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vybrat &lt;f0&gt;Ano&lt;/f0&gt; na varovnou zprávu, pokud je zobrazena.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Any data in a cell or a sheet in the spreadsheet that used the deleted style will revert to the &lt;f1&gt;Default&lt;/f1&gt; style.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Všechna data v buňce nebo listu v tabulce, která použila odstraněný styl, se vrátí na &lt;f1&gt;Výchozí&lt;/f1&gt; styl.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>hiding and showing</seg>
-      </tuv>
-      <tuv xml:lang="cs">
-        <seg>skrývá a ukazuje</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>hiding and showing cell styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>skrývání a zobrazování buněčných stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
+        <seg>hiding and showing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>skrývá a ukazuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can shorten the list of cell styles by hiding some of them.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Seznam buněčných stylů můžete zkrátit skrytím některých z nich.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Only styles that are not being used in the spreadsheet can be hidden.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Skryté mohou být pouze styly, které se v tabulce nepoužívají.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Go to the Styles deck in the Sidebar and click on the &lt;f0&gt;Cell Styles&lt;/f0&gt; icon.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V postranním panelu přejděte na balíček Styles a klikněte na ikonu &lt;f0&gt;Styly buněk&lt;/f0&gt; ikona.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on an unused cell style and select &lt;f0&gt;Hide&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte pravým tlačítkem na nepoužitý styl buňky a vyberte &lt;f0&gt;Skrýt&lt;/f0&gt; z kontextové nabídky.</seg>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na nepoužitý styl buňky a vyberte &lt;f0&gt;Skrýt&lt;/f0&gt; z kontextové nabídky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The style is then moved to the &lt;f1&gt;Hidden Styles&lt;/f1&gt; category in the Styles deck.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styl je poté přesunut do &lt;f1&gt;Skryté styly&lt;/f1&gt; kategorii v balíčku Styles.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To show hidden cell styles:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zobrazení skrytých stylů buněk:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click on the drop-down list at the bottom of the panel and select &lt;f0&gt;Hidden Styles&lt;/f0&gt; from the list.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na rozevírací seznam v dolní části panelu a vyberte &lt;f0&gt;Skryté styly&lt;/f0&gt; ze seznamu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on the hidden style you want to show and select &lt;f0&gt;Show&lt;/f0&gt; from the context menu.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klepněte pravým tlačítkem myši na skrytý styl, který chcete zobrazit, a vyberte &lt;f0&gt;Ukázat&lt;/f0&gt; z kontextové nabídky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>filtering the list of</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>filtrování seznamu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can filter the list of styles as follows:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Seznam stylů můžete filtrovat následujícím způsobem:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click on the drop-down list at the bottom of the panel.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na rozevírací seznam v dolní části panelu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select the category of styles to display in the Styles deck:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vyberte kategorii stylů, které se mají zobrazit v balíčku Styles:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Hierarchical&lt;/f0&gt; – lists the styles in their hierarchical relationship, for example Heading 1 and Heading 2 under Heading, or Accent 1, Accent 2, Accent 3 under Accent.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Hierarchický&lt;/f0&gt; - uvádí styly v jejich hierarchickém vztahu, například Nadpisy 1 a Nadpisy 2 v části Nadpisy, nebo Accent 1, Accent 2, Accent 3 pod Accent.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;All Styles&lt;/f0&gt; – lists all the styles that are available in Calc and in the spreadsheet, except for hidden styles.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;f0&gt;Všechny styly&lt;/f0&gt; - uvádí všechny styly, které jsou k dispozici v Calc a v tabulce, s výjimkou skrytých stylů.</seg>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Všechny styly&lt;/f0&gt; - uvádí všechny styly, které jsou k dispozici v programu Calc a v tabulce, s výjimkou skrytých stylů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Hidden Styles&lt;/f0&gt; – lists all the styles that have been hidden in the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Skryté styly&lt;/f0&gt; - uvádí všechny styly, které byly v tabulce skryté.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Applied Styles&lt;/f0&gt; – lists only the styles that have been applied to the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Použité styly&lt;/f0&gt; - uvádí pouze styly, které byly použity v tabulce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;f0&gt;Custom Styles&lt;/f0&gt; – lists only the user-defined styles defined for the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;f0&gt;Vlastní styly&lt;/f0&gt; - uvádí pouze uživatelem definované styly definované pro tabulku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A template is a model that you use to create other documents in a standard format.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Šablona je model, který používáte k vytváření dalších dokumentů ve standardním formátu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, you can create a template for invoices that has your company logo and address at the top of the page.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Můžete například vytvořit šablonu pro faktury, které mají logo vaší společnosti a adresu v horní části stránky.</seg>
+      <tuv lang="cs">
+        <seg>Můžete například vytvořit šablonu pro faktury, které mají logo společnosti a adresu v horní části stránky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This means that any new spreadsheets (invoices) created from this template will then have the company logo and address on the first page of the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>To znamená, že všechny nové tabulky (faktury) vytvořené z této šablony budou mít firemní logo a adresu na první stránce tabulky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Templates can contain anything that regular documents can contain, such as text, graphics, styles, and user-specific setup information such as measurement units, language, default printer, and toolbar and menu customization.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Šablony mohou obsahovat cokoli, co mohou obsahovat běžné dokumenty, jako je text, grafika, styly a informace o nastavení specifické pro uživatele, jako jsou měrné jednotky, jazyk, výchozí tiskárna a přizpůsobení nabídek a nástrojů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can create, or download and install, as many templates as you wish.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete vytvořit nebo stáhnout a nainstalovat libovolný počet šablon.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you do not specify a template when you start a new spreadsheet, that new spreadsheet is then based on the default template for spreadsheets that is included with Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud neurčíte šablonu při spuštění nové tabulky, je tato nová tabulka založena na výchozí šabloně pro tabulky, které jsou součástí Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This default template consists of a blank spreadsheet which you can customize to your needs and then, if you wish, use as a basis to create a custom default template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tato výchozí šablona sestává z prázdné tabulky, kterou můžete přizpůsobit vašim potřebám, a poté, pokud si přejete, použít jako základ pro vytvoření vlastní výchozí šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A new installation of LibreOffice may not include any spreadsheet templates, but you can create your own (see “&lt;bf0&gt;Creating a template&lt;/bf0&gt;” on page &lt;bf1&gt;22&lt;/bf1&gt;) or install templates obtained from other sources (see “&lt;bf2&gt;Adding templates obtained from other sources&lt;/bf2&gt;” on page &lt;bf3&gt;23&lt;/bf3&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Nová instalace LibreOffice nemusí obsahovat žádné šablony tabulek, ale můžete si vytvořit vlastní (viz „ &lt;bf0&gt;Vytvoření šablony&lt;/bf0&gt; „ na stránce &lt;bf1&gt;22&lt;/bf1&gt;) nebo nainstalovat šablony získané z jiných zdrojů (viz „ &lt;bf2&gt;Přidání šablon získaných z jiných zdrojů&lt;/bf2&gt; „ na stránce &lt;bf3&gt;23&lt;/bf3&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Nová instalace LibreOffice nemusí obsahovat žádné šablony tabulek, ale můžete si vytvořit vlastní (viz „ &lt;bf0&gt;Vytvoření šablony&lt;/bf0&gt; “ na stránce &lt;bf1&gt;22&lt;/bf1&gt; ) nebo nainstalovat šablony získané z jiných zdrojů (viz „ &lt;bf2&gt;Přidání šablon získaných z jiných zdrojů&lt;/bf2&gt; “ na stránce &lt;bf3&gt;23&lt;/bf3&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>When you do have a spreadsheet template available, you can create a new spreadsheet from it using either the Templates dialog or the LibreOffice Start Center.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud máte k dispozici šablonu tabulky, můžete z ní vytvořit novou tabulku pomocí dialogového okna Šablony nebo LibreOffice Start Center.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Templates dialog, using to create a spreadsheet</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Dialogové okno Šablony, pomocí kterého lze vytvořit tabulku</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To use a template to create a spreadsheet:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Použití šablony k vytvoření tabulky:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; New &gt; Templates,&lt;/f0&gt; or click the small arrow next to the &lt;f1&gt;New&lt;/f1&gt; icon and select &lt;f2&gt;Templates&lt;/f2&gt;, or press &lt;f3&gt;Ctrl+Shift+N&lt;/f3&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Na panelu nabídek zvolte &lt;f0&gt;Soubor &gt; Nový &gt; Šablony,&lt;/f0&gt; nebo klikněte na malou šipku vedle &lt;f1&gt;Nový&lt;/f1&gt; ikonu a vyberte &lt;f2&gt;Šablony&lt;/f2&gt;, nebo stiskněte &lt;f3&gt;Ctrl + Shift + N&lt;/f3&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Na panelu nabídek zvolte &lt;f0&gt;Soubor &gt; Nový &gt; Šablony,&lt;/f0&gt; nebo klikněte na malou šipku vedle &lt;f1&gt;Nový&lt;/f1&gt; ikonu a vyberte &lt;f2&gt;Šablony&lt;/f2&gt; , nebo stiskněte &lt;f3&gt;Ctrl + Shift + N&lt;/f3&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The Templates dialog (Figure &lt;t4&gt;15&lt;/t4&gt;) opens.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Dialogové okno Šablony (obrázek &lt;t4&gt;15&lt;/t4&gt;) se otevře.</seg>
+      <tuv lang="cs">
+        <seg>Dialogové okno Šablony (obrázek &lt;t4&gt;15&lt;/t4&gt; ) se otevře.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>From the &lt;f0&gt;Filter&lt;/f0&gt; lists at the top of the Templates dialog, select &lt;f1&gt;Spreadsheets&lt;/f1&gt; and the category of template you want to use.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Z &lt;f0&gt;Filtr&lt;/f0&gt; seznamy v horní části dialogového okna Šablony vyberte &lt;f1&gt;Tabulky&lt;/f1&gt; a kategorii šablony, kterou chcete použít.</seg>
+      <tuv lang="cs">
+        <seg>Z &lt;f0&gt;Filtr&lt;/f0&gt; seznamy v horní části dialogového okna Šablony, vyberte &lt;f1&gt;Tabulky&lt;/f1&gt; a kategorii šablony, kterou chcete použít.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>All the templates in that category are then listed on the page, as shown in Figure &lt;t2&gt;15&lt;/t2&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Všechny šablony v této kategorii jsou pak uvedeny na stránce, jak je znázorněno na obrázku &lt;t2&gt;15&lt;/t2&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Všechny šablony v této kategorii jsou pak uvedeny na stránce, jak je znázorněno na obrázku &lt;t2&gt;15&lt;/t2&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select the required template and click &lt;f0&gt;Open&lt;/f0&gt;, or double-click the selected template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Vyberte požadovanou šablonu a klikněte na &lt;f0&gt;otevřeno&lt;/f0&gt;, nebo poklepejte na vybranou šablonu.</seg>
+      <tuv lang="cs">
+        <seg>Vyberte požadovanou šablonu a klikněte na &lt;f0&gt;otevřeno&lt;/f0&gt; , nebo poklepejte na vybranou šablonu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A new spreadsheet based on the template opens in Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V aplikaci Calc se otevře nová tabulka založená na šabloně.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In the spreadsheet, the template it is based upon is listed in &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>V tabulce je uvedena šablona, na které je založena &lt;f0&gt;Soubor &gt; Vlastnosti &gt; Obecné&lt;/f0&gt;.</seg>
+      <tuv lang="cs">
+        <seg>V tabulce je uvedena šablona, na níž je založena &lt;f0&gt;Soubor &gt; Vlastnosti &gt; Obecné&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The connection between the template and the spreadsheet remains until the template is modified and, the next time that the spreadsheet is opened, you choose not to update it to match the template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Propojení mezi šablonou a tabulkou zůstává, dokud nebude šablona změněna, a při příštím otevření tabulky se rozhodnete ji neaktualizovat tak, aby odpovídala šabloně.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Templates dialog, showing a selected template</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Dialogové okno Šablony, ukazující vybranou šablonu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Start Center, using to create a spreadsheet</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Start Center, pomocí kterého můžete vytvořit tabulku</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can create a spreadsheet from the Template view of the LibreOffice Start Center, which is visible when no other document is open.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tabulku můžete vytvořit z pohledu šablony v centru LibreOffice Start Center, které je viditelné, když není otevřen žádný jiný dokument.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>(See Chapter 1, Introduction.)</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>(Viz kapitola 1, Úvod.)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click the &lt;f0&gt;Templates&lt;/f0&gt; button in the left pane and icons are displayed in the Start Center for all available LibreOffice templates.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte na ikonu &lt;f0&gt;Šablony&lt;/f0&gt; v levém podokně a ikony se zobrazují v Start Center pro všechny dostupné šablony LibreOffice.</seg>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Šablony&lt;/f0&gt; tlačítko v levém podokně a ikony jsou zobrazeny v Start Center pro všechny dostupné šablony LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The button also offers a drop-down list to select the templates of a given type of document.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tlačítko také nabízí rozevírací seznam pro výběr šablon daného typu dokumentu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you select the &lt;f1&gt;Calc Templates&lt;/f1&gt; option on the list, the available spreadsheet templates are displayed in the Start Center.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud vyberete &lt;f1&gt;Kalkulace šablon&lt;/f1&gt; v seznamu jsou dostupné šablony tabulek zobrazeny v centru Start.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click on the required template to create a new document based on that template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Kliknutím na požadovanou šablonu vytvoříte nový dokument založený na této šabloně.</seg>
+      <tuv lang="cs">
+        <seg>Kliknutím na požadovanou šablonu vytvoříte na základě této šablony nový dokument.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can easily create a template from any spreadsheet:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete snadno vytvořit šablonu z libovolné tabulky:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Open a new or existing spreadsheet that you want to use as a base for the template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Otevřete novou nebo existující tabulku, kterou chcete použít jako základ pro šablonu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Add any necessary pre-defined content that you want to appear in a spreadsheet each time you use the new template, for example company logo and name, company information, page numbers, and so on.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Při každém použití nové šablony přidejte veškerý potřebný předdefinovaný obsah, který chcete zobrazit v tabulce, například logo a název společnosti, informace o společnosti, čísla stránek atd.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Delete any information that you do not want in the template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Odstraňte všechny informace, které v šabloně nechcete.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Create or modify the cell and page styles that you want to use in the template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vytvořte nebo upravte styly buněk a stránek, které chcete použít v šabloně.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Save as Template&lt;/f0&gt;, or press &lt;f1&gt;Shift+F11&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Na panelu nabídek zvolte &lt;f0&gt;Soubor &gt; Šablony &gt; Uložit jako šablonu&lt;/f0&gt;, nebo stiskněte &lt;f1&gt;Shift + F11&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Na panelu nabídek zvolte &lt;f0&gt;Soubor &gt; Šablony &gt; Uložit jako šablonu&lt;/f0&gt; , nebo stiskněte &lt;f1&gt;Shift + F11&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The Save As Template dialog (Figure &lt;t2&gt;17&lt;/t2&gt;) opens, displaying the existing template categories and a name box.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Dialog Uložit jako šablonu (obrázek &lt;t2&gt;17&lt;/t2&gt;) a zobrazí existující kategorie šablon a pole s názvem.</seg>
+      <tuv lang="cs">
+        <seg>Dialog Uložit jako šablonu (obrázek &lt;t2&gt;17&lt;/t2&gt; ) a zobrazí existující kategorie šablon a pole s názvem.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Type a name for the new template and select the required template category.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zadejte název nové šablony a vyberte požadovanou kategorii šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can also choose to make this the default template (see “&lt;bf0&gt;Setting the default template&lt;/bf0&gt;” on page &lt;bf1&gt;24&lt;/bf1&gt;&lt;s2/&gt;for more information).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Můžete se také rozhodnout nastavit tuto výchozí šablonu (viz „ &lt;bf0&gt;Nastavení výchozí šablony&lt;/bf0&gt; „ na stránce &lt;bf1&gt;24 &lt;/bf1&gt;&lt;s2/&gt; Pro více informací).</seg>
+      <tuv lang="cs">
+        <seg>Můžete se také rozhodnout nastavit tuto výchozí šablonu (viz „ &lt;bf0&gt;Nastavení výchozí šablony&lt;/bf0&gt; “ na stránce &lt;bf1&gt;24 &lt;/bf1&gt;&lt;s2/&gt; Pro více informací).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click &lt;f0&gt;Save&lt;/f0&gt; to save the new template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na &lt;f0&gt;Uložit&lt;/f0&gt; uložit novou šablonu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Save As Template dialog</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : Dialogové okno Uložit jako šablonu</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Although the &lt;f0&gt;Save as Template&lt;/f0&gt; dialog shows no document type when saving a new template of any type, the template will appear on the correct tab (Spreadsheets, in this case) when you return to the Templates dialog.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Ačkoliv &lt;f0&gt;Uložit jako šablonu&lt;/f0&gt; Při ukládání nové šablony jakéhokoli typu se v dialogu nezobrazí žádný typ dokumentu, po návratu do dialogového okna Šablony se zobrazí šablona na správné kartě (v tomto případě tabulky).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>It is unnecessary to save or do anything further with the spreadsheet file you have been using to create the new template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>S tabulkovým souborem, který jste použili k vytvoření nové šablony, není nutné ukládat ani dělat žádné další kroky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>It can be safely closed without saving.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Lze bezpečně zavřít bez uložení.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can edit a template’s styles and content, and then, if you wish, you can reapply the template’s styles to spreadsheets that were created from that template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete upravit styly a obsah šablony a poté, pokud si přejete, můžete znovu použít styly šablony na tabulky vytvořené z této šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Templates dialog – Editing templates</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Dialogové okno Šablony - Úpravy šablon</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Templates &gt; Manage Templates&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+Shift+N&lt;/f1&gt;, to open the Templates dialog.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Na panelu nabídek zvolte &lt;f0&gt;Soubor &gt; Šablony &gt; Spravovat šablony&lt;/f0&gt;, nebo stiskněte &lt;f1&gt;Ctrl + Shift + N&lt;/f1&gt;, otevřete dialogové okno Šablony.</seg>
+      <tuv lang="cs">
+        <seg>Na panelu nabídek zvolte &lt;f0&gt;Soubor &gt; Šablony &gt; Spravovat šablony&lt;/f0&gt; , nebo stiskněte &lt;f1&gt;Ctrl + Shift + N&lt;/f1&gt; , otevřete dialogové okno Šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click to open the context menu and choose &lt;f0&gt;Edit&lt;/f0&gt; (see Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klepnutím pravým tlačítkem otevřete místní nabídku a zvolte &lt;f0&gt;Upravit&lt;/f0&gt; (viz obr &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Klepnutím pravým tlačítkem otevřete místní nabídku a zvolte &lt;f0&gt;Upravit&lt;/f0&gt; (viz obr &lt;t1&gt;17&lt;/t1&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The template opens in Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Šablona se otevře v Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Edit the template as you would edit any other spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Upravte šablonu stejně jako jakoukoli jinou tabulku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To save the changes, choose &lt;f0&gt;File &gt; Save&lt;/f0&gt; from the Menu bar, or choose &lt;f1&gt;File &gt; Save As Template&lt;/f1&gt; to save the edited template as a new template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Chcete-li uložit změny, zvolte &lt;f0&gt;Soubor &gt; Uložit&lt;/f0&gt; z panelu nabídek, nebo zvolte &lt;f1&gt;Soubor &gt; Uložit jako šablonu&lt;/f1&gt; uložte upravenou šablonu jako novou šablonu.</seg>
+      <tuv lang="cs">
+        <seg>Chcete-li uložit změny, zvolte &lt;f0&gt;Soubor &gt; Uložit&lt;/f0&gt; z nabídky, nebo zvolte &lt;f1&gt;Soubor &gt; Uložit jako šablonu&lt;/f1&gt; uložte upravenou šablonu jako novou šablonu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>using to update styles</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>pomocí k aktualizaci stylů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you make any changes to a template and its styles, the next time you open a spreadsheet that was created before you changed the template, a confirmation message is displayed.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud provedete jakékoli změny šablony a jejích stylů, při příštím otevření tabulky, která byla vytvořena před změnou šablony, se zobrazí potvrzovací zpráva.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click &lt;f0&gt;Update Styles&lt;/f0&gt; to apply the changed styles in the template to the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na &lt;f0&gt;Aktualizujte styly&lt;/f0&gt; použít změněné styly v šabloně na tabulku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the spreadsheet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na &lt;f0&gt;Zachovat staré styly&lt;/f0&gt; pokud si nepřejete aplikovat změněné styly v šabloně na tabulku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you select &lt;f0&gt;Keep Old Styles&lt;/f0&gt;, the confirmation message will not appear again the next time you open the spreadsheet using the same changed template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Pokud vyberete &lt;f0&gt;Zachovat staré styly&lt;/f0&gt;, potvrzovací zpráva se znovu nezobrazí při příštím otevření tabulky pomocí stejné změněné šablony.</seg>
+      <tuv lang="cs">
+        <seg>Pokud vyberete &lt;f0&gt;Zachovat staré styly&lt;/f0&gt; , potvrzovací zpráva se znovu nezobrazí při příštím otevření tabulky pomocí stejné změněné šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Although the template is still listed under &lt;f1&gt;File &gt; Properties &gt; General&lt;/f1&gt;, the spreadsheet is no longer connected to the template, so it will not update.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Přestože je šablona stále uvedena pod &lt;f1&gt;Soubor &gt; Vlastnosti &gt; Obecné&lt;/f1&gt;, tabulka již není připojena k šabloně, takže se nebude aktualizovat.</seg>
+      <tuv lang="cs">
+        <seg>Přestože je šablona stále uvedena pod &lt;f1&gt;Soubor &gt; Vlastnosti &gt; Obecné&lt;/f1&gt; , tabulka již není připojena k šabloně, takže se nebude aktualizovat.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can still import styles manually from the template, but to reconnect the spreadsheet to the template, you will have to copy it into an empty document based on the template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Styly můžete stále importovat ručně ze šablony, ale pro opětovné připojení tabulky k šabloně je nutné ji zkopírovat do prázdného dokumentu založeného na šabloně.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>adding from other sources</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>přidávání z jiných zdrojů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can get to the official LibreOffice template repository by using the &lt;f0&gt;Browse online templates&lt;/f0&gt; button in the lower left of the Templates dialog, as shown in Figure &lt;t1&gt;18&lt;/t1&gt;, or by typing &lt;a2&gt;https://extensions.libreoffice.org/templates&lt;/a2&gt; in your browser’s address bar.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Do oficiálního repozitáře LibreOffice se můžete dostat pomocí &lt;f0&gt;Procházejte online šablony&lt;/f0&gt; v levém dolním rohu dialogového okna Šablony, jak je znázorněno na obrázku &lt;t1&gt;18&lt;/t1&gt; nebo zadáním &lt;a2&gt;https://extensions.libreoffice.org/templates&lt;/a2&gt; v adresním řádku prohlížeče.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>On other websites you may find collections of templates that have been packaged into extension (.OXT) files.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Na jiných webech najdete kolekce šablon, které byly zabaleny do souborů rozšíření (.OXT).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;18&lt;/seq0&gt; : Získání více šablon pro LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can import and add templates to your collection as follows:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Do své kolekce můžete importovat a přidávat šablony takto:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Find and download the template you want to use, as described in the previous section.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vyhledejte a stáhněte šablonu, kterou chcete použít, jak je popsáno v předchozí části.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Open the Templates dialog and click the &lt;f0&gt;Import&lt;/f0&gt; icon near the bottom right.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Otevřete dialogové okno Šablony a klikněte na ikonu &lt;f0&gt;Import&lt;/f0&gt; ikona vpravo dole.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In the pop-up dialog, select the category where you want to store the template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V dialogovém okně vyberte kategorii, do které chcete šablonu uložit.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>(You can change this later, as described in “&lt;bf0&gt;Moving a template&lt;/bf0&gt;” on page &lt;bf1&gt;27&lt;/bf1&gt;.)</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>(Můžete to změnit později, jak je popsáno v „ &lt;bf0&gt;Přesunutí šablony&lt;/bf0&gt; „ na stránce &lt;bf1&gt;27&lt;/bf1&gt;.)</seg>
+      <tuv lang="cs">
+        <seg>(Můžete to změnit později, jak je popsáno v „ &lt;bf0&gt;Přesunutí šablony&lt;/bf0&gt; “ na stránce &lt;bf1&gt;27&lt;/bf1&gt; .)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A file browser opens.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Otevře se prohlížeč souborů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Navigate to the location of the downloaded template on your computer.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Přejděte do umístění stažené šablony v počítači.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select the template and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Vyberte šablonu a klikněte na &lt;f0&gt;otevřeno&lt;/f0&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Vyberte šablonu a klikněte na &lt;f0&gt;otevřeno&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>After import, the template becomes available in the Templates dialog.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Po importu bude šablona dostupná v dialogovém okně Šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; from the Menu bar, or press &lt;f1&gt;Ctrl+Alt+E&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>V LibreOffice vyberte &lt;f0&gt;Nástroje &gt; Správce rozšíření&lt;/f0&gt; z panelu nabídek nebo stiskněte tlačítko &lt;f1&gt;Ctrl + Alt + E&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>V LibreOffice vyberte &lt;f0&gt;Nástroje &gt; Správce rozšíření&lt;/f0&gt; z panelu nabídek nebo stiskněte tlačítko &lt;f1&gt;Ctrl + Alt + E&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In the Extension Manager dialog, click &lt;f2&gt;Add&lt;/f2&gt; to open a file browser window.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V dialogovém okně Správce rozšíření klepněte na &lt;f2&gt;Přidat&lt;/f2&gt; otevřete okno prohlížeče souborů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>See Chapter 14, Setting up and Customizing, for more about the Extension Manager.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Další informace o Správci rozšíření naleznete v kapitole 14, Nastavení a přizpůsobení.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Some extensions are packaged as .ZIP files.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Některá rozšíření jsou zabalena jako soubory.ZIP.</seg>
+      <tuv lang="cs">
+        <seg>Některá rozšíření jsou zabalena jako soubory .ZIP.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>default, setting and resetting</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>výchozí, nastavení a resetování</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>If you create a new spreadsheet using &lt;f0&gt;File &gt; New &gt; Spreadsheet&lt;/f0&gt; on the Menu bar, Calc creates the document from the default template for spreadsheets.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pokud vytvoříte novou tabulku pomocí &lt;f0&gt;Soubor &gt; Nový &gt; Tabulka&lt;/f0&gt; na panelu nabídek vytvoří Calc dokument z výchozí šablony pro tabulky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can set any template as the default template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Jako výchozí šablonu můžete nastavit libovolnou šablonu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can also reset the default template to the Calc default template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete také obnovit výchozí šablonu na výchozí šablonu Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Most default settings, such as page size and page margins, can be changed but those changes normally apply only to the spreadsheet you are working on.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Většinu výchozích nastavení, například velikost stránky a okraje stránky, lze změnit, ale tyto změny se obvykle týkají pouze tabulky, na které pracujete.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To make those changes the default settings for spreadsheets, you need to replace the default Calc template with a new one.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Chcete-li tyto změny provést jako výchozí nastavení pro tabulky, musíte nahradit výchozí šablonu Calc novou.</seg>
+      <tuv lang="cs">
+        <seg>Chcete-li tyto změny provést jako výchozí nastavení tabulek, musíte nahradit výchozí šablonu Calc novou.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In the Templates dialog, open the category containing the template that you want to set as the default.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V dialogu Šablony otevřete kategorii obsahující šablonu, kterou chcete nastavit jako výchozí.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on the template and click the &lt;f0&gt;Set As Default&lt;/f0&gt; option (see Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte pravým tlačítkem na šablonu a klikněte na &lt;f0&gt;Nastavit jako výchozí&lt;/f0&gt; možnost (viz obr &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na šablonu a klikněte na &lt;f0&gt;Nastavit jako výchozí&lt;/f0&gt; možnost (viz obr &lt;t1&gt;17&lt;/t1&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The template is now indicated by a green check mark in the upper left.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Šablona je nyní označena zeleným zaškrtnutím v levém horním rohu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The next time you create a spreadsheet by choosing &lt;f0&gt;File &gt; New&lt;/f0&gt;, by clicking the &lt;f1&gt;New&lt;/f1&gt; icon in the Standard toolbar, or by pressing &lt;f2&gt;Ctrl+N,&lt;/f2&gt; it will be created from this template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Při příštím vytvoření tabulky výběrem &lt;f0&gt;Soubor &gt; Nový&lt;/f0&gt;, kliknutím na ikonu &lt;f1&gt;Nový&lt;/f1&gt; na panelu nástrojů Standardní nebo stisknutím &lt;f2&gt;Ctrl + N,&lt;/f2&gt; bude vytvořen z této šablony.</seg>
+      <tuv lang="cs">
+        <seg>Při příštím vytvoření tabulky výběrem &lt;f0&gt;Soubor &gt; Nový&lt;/f0&gt; , kliknutím na ikonu &lt;f1&gt;Nový&lt;/f1&gt; na panelu nástrojů Standardní nebo stisknutím &lt;f2&gt;Ctrl + N,&lt;/f2&gt; bude vytvořen z této šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To set the default spreadsheet template back to the default template supplied with Calc:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Jak nastavit výchozí šablonu tabulky zpět na výchozí šablonu dodávanou s aplikací Calc:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In the Templates dialog, click the &lt;f0&gt;Settings&lt;/f0&gt; icon on the bottom left (Figure ).</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V dialogovém okně Šablony klikněte na ikonu &lt;f0&gt;Nastavení&lt;/f0&gt; ikona vlevo dole (obrázek).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Point to &lt;f0&gt;Reset Default Template&lt;/f0&gt; on the drop-down menu, and click &lt;f1&gt;Spreadsheet&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Ukázat na &lt;f0&gt;Obnovit výchozí šablonu&lt;/f0&gt; v rozbalovací nabídce a klikněte na &lt;f1&gt;Tabulka&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Ukázat na &lt;f0&gt;Obnovit výchozí šablonu&lt;/f0&gt; v rozbalovací nabídce a klikněte na &lt;f1&gt;Tabulka&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The green check mark is removed from the template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zelené zaškrtnutí se odstraní ze šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This choice does not appear unless a custom template has been set as the default, as described in the previous section.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tato volba se neobjeví, pokud není jako výchozí nastavena vlastní šablona, jak je popsáno v předchozí části.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Resetting the default template for spreadsheets</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;19&lt;/seq0&gt; : Obnovení výchozí šablony pro tabulky</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on this template and select &lt;f0&gt;Reset Default &lt;/f0&gt;from the context menu.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte pravým tlačítkem na tuto šablonu a vyberte &lt;f0&gt;Obnovit výchozí&lt;/f0&gt; z kontextové nabídky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The next time that you create a new spreadsheet, it will be created using the Calc default template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Při příštím vytvoření nové tabulky bude vytvořena pomocí výchozí šablony Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Resetting the default template back to the Calc default template is only available if the default has been changed previously.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Obnovení výchozí šablony zpět na předvolenou šablonu Calc je k dispozici pouze v případě, že výchozí byla dříve změněna.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>organizing</seg>
-      </tuv>
-      <tuv xml:lang="cs">
-        <seg>organizování</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>categories</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kategorie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
+        <seg>organizing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>organizování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LibreOffice can manage only templates that are in its template folders (categories), although you can create a spreadsheet from a template that is not in one of these folders.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>LibreOffice může spravovat pouze šablony, které jsou v jeho složkách (kategoriích) šablon, i když můžete vytvořit tabulku ze šablony, která není v žádné z těchto složek.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can create new template folders and use them to organize your templates and import templates into these folders.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete vytvořit nové složky šablon a použít je k uspořádání šablon a importu šablon do těchto složek.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, you might have one template folder for sales templates and another for invoice templates.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete mít například jednu složku šablon pro prodejní šablony a druhou pro šablony faktur.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can also export templates.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete také exportovat šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To begin, choose &lt;f0&gt;File &gt; Templates &gt; Manage Templates&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+Shift+N&lt;/f1&gt;, to open the Templates dialog.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Začněte výběrem &lt;f0&gt;Soubor &gt; Šablony &gt; Spravovat šablony&lt;/f0&gt;, nebo stiskněte &lt;f1&gt;Ctrl + Shift + N&lt;/f1&gt;, otevřete dialogové okno Šablony.</seg>
+      <tuv lang="cs">
+        <seg>Začněte výběrem &lt;f0&gt;Soubor &gt; Šablony &gt; Spravovat šablony&lt;/f0&gt; , nebo stiskněte &lt;f1&gt;Ctrl + Shift + N&lt;/f1&gt; , otevřete dialogové okno Šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click the &lt;f0&gt;Settings&lt;/f0&gt; button in the lower left of the Templates dialog.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Klikněte na ikonu &lt;f0&gt;Nastavení&lt;/f0&gt; v levé dolní části dialogového okna Šablony.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click &lt;f0&gt;New Category&lt;/f0&gt; on the context menu (see Figure &lt;t1&gt;20&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte na &lt;f0&gt;Nová kategorie&lt;/f0&gt; v místní nabídce (viz obr &lt;t1&gt;20&lt;/t1&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Nová kategorie&lt;/f0&gt; v místní nabídce (viz obr &lt;t1&gt;20&lt;/t1&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>In the pop-up dialog (not shown), type a name for the new category and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>V dialogovém okně (není zobrazeno) zadejte název nové kategorie a klikněte na &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      <tuv lang="cs">
+        <seg>V dialogovém okně (není zobrazeno) zadejte název nové kategorie a klikněte na &lt;f0&gt;OK&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;s1/&gt;The new category now appears in the list of categories.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;s1/&gt; Nová kategorie se nyní objeví v seznamu kategorií.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Creating a new category</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;20&lt;/seq0&gt; : Vytvoření nové kategorie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You cannot create a sub-category inside a template category.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>V kategorii šablony nelze vytvořit podkategorii.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>However, you can delete a category that you created:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete však odstranit kategorii, kterou jste vytvořili:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click the &lt;f0&gt;Settings&lt;/f0&gt; button on the Templates dialog and select &lt;f1&gt;Delete Category&lt;/f1&gt; from the context menu (see Figure &lt;t2&gt;20&lt;/t2&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte na ikonu &lt;f0&gt;Nastavení&lt;/f0&gt; v dialogovém okně Šablony a vyberte &lt;f1&gt;Smazat kategorii&lt;/f1&gt; z kontextové nabídky (viz obr &lt;t2&gt;20&lt;/t2&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Nastavení&lt;/f0&gt; v dialogovém okně Šablony a vyberte &lt;f1&gt;Smazat kategorii&lt;/f1&gt; z kontextové nabídky (viz obr &lt;t2&gt;20&lt;/t2&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select the category to be deleted in the Delete Category dialog (not shown) and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>V dialogu Odstranit kategorii (nezobrazeno) vyberte kategorii, kterou chcete odstranit, a klikněte na &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      <tuv lang="cs">
+        <seg>V dialogu Odstranit kategorii (nezobrazeno) vyberte kategorii, kterou chcete odstranit, a klikněte na &lt;f0&gt;OK&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select &lt;f0&gt;Yes&lt;/f0&gt; in the confirmation dialog to confirm the deletion.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vybrat &lt;f0&gt;Ano&lt;/f0&gt; v potvrzovacím dialogu potvrďte odstranění.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Calc displays a warning dialog if it is unable to delete the category.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Program Calc zobrazí varovné dialogové okno, pokud nelze odstranit kategorii.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>moving between categories</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>pohybující se mezi kategoriemi</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>To move a template from one template category to another:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postup přesunutí šablony z jedné kategorie šablony do druhé:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Open the Templates dialog and select the template you want to move.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Otevřete dialogové okno Šablony a vyberte šablonu, kterou chcete přesunout.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Click the &lt;f0&gt;Move&lt;/f0&gt; icon near the bottom of the dialog, select the destination category from the popup dialog (Figure &lt;t1&gt;21&lt;/t1&gt;), and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klikněte na ikonu &lt;f0&gt;Přestěhovat se&lt;/f0&gt; ikonu v dolní části dialogu, vyberte cílovou kategorii z vyskakovacího dialogu (Obr &lt;t1&gt;21&lt;/t1&gt;) a klikněte na &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Přestěhovat se&lt;/f0&gt; ikonu v dolní části dialogu, vyberte cílovou kategorii z vyskakovacího dialogu (Obr &lt;t1&gt;21&lt;/t1&gt; ) a klikněte na &lt;f2&gt;OK&lt;/f2&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Moving a template to another category</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;21&lt;/seq0&gt; : Přesunutí šablony do jiné kategorie</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can only delete templates that you have created or imported.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Smazat lze pouze šablony, které jste vytvořili nebo importovali.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>From the &lt;f0&gt;Filter&lt;/f0&gt; drop-down lists at the top of the Templates dialog, select the category that contains the template you want to delete.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Z &lt;f0&gt;Filtr&lt;/f0&gt; rozevírací seznamy v horní části dialogového okna Šablony vyberte kategorii, která obsahuje šablonu, kterou chcete odstranit.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Right-click on the template that you want to delete to open the context menu and click &lt;f0&gt;Delete&lt;/f0&gt; (Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Klepnutím pravým tlačítkem myši na šablonu, kterou chcete odstranit, otevřete místní nabídku a klikněte na &lt;f0&gt;Vymazat&lt;/f0&gt; (Postava &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      <tuv lang="cs">
+        <seg>Klepnutím pravým tlačítkem myši na šablonu, kterou chcete odstranit, otevřete místní nabídku a klikněte na &lt;f0&gt;Vymazat&lt;/f0&gt; (Postava &lt;t1&gt;17&lt;/t1&gt; ).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The easiest way to send a template to someone else, or to store it on a network, is to export it:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nejjednodušší způsob, jak odeslat šablonu někomu jinému nebo ji uložit do sítě, je exportovat:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Open the Templates dialog and find the template that you want to export.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Otevřete dialogové okno Šablony a najděte šablonu, kterou chcete exportovat.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Select the template and click the &lt;f0&gt;Export&lt;/f0&gt; icon.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vyberte šablonu a klikněte na ikonu &lt;f0&gt;Vývozní&lt;/f0&gt; ikona.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The Select Folder dialog opens.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Otevře se dialogové okno Vybrat složku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Navigate to the location where you want to export the template and click &lt;f0&gt;Select Folder&lt;/f0&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Přejděte na místo, kam chcete šablonu exportovat, a klikněte na &lt;f0&gt;Vybrat složku&lt;/f0&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Přejděte na místo, kam chcete šablonu exportovat, a klikněte na &lt;f0&gt;Vybrat složku&lt;/f0&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can also rename the template.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Můžete také přejmenovat šablonu.</seg>
       </tuv>
     </tu>

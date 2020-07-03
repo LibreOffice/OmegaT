@@ -1,1005 +1,1004 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
   <body>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Appendix C Calc Error Codes</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Dodatek C Vypočítat chybové kódy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Appendix C Calc Error Codes&lt;segment 15068 ¶&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Dodatek C Vypočítat chybové kódy &lt;segment 15068 ¶&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;t0&gt;General error codes&lt;/t0&gt; | &lt;t1&gt;7&lt;/t1&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;t0&gt;Obecné chybové kódy&lt;/t0&gt; | &lt;t1&gt;7&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>&lt;t0&gt;6&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;General error codes&lt;/t2&gt;</seg>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Introduction to Calc error codes&lt;/t2&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>&lt;t0&gt;6 &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;Obecné chybové kódy&lt;/t2&gt;</seg>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;4 &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;Úvod do výpočtu chybových kódů&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;t0&gt;Appendix C Calc Error Codes&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;t0&gt;Dodatek C Vypočítat chybové kódy &lt;/t0&gt;&lt;s1/&gt; | &lt;t2&gt;3&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Appendix C Calc Error Codes&lt;/t1&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;t0&gt;0&lt;/t0&gt; | &lt;t1&gt;Dodatek C Vypočítat chybové kódy&lt;/t1&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Appendix B&lt;br0/&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Dodatek B &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Error Codes</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chybové kódy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This chapter is adapted and updated from the &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt;Calc Guide&lt;/ud2&gt;&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Tato kapitola je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt; Průvodce kalkulačkou &lt;/ud2&gt;&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Tato kapitola je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 &lt;/f0&gt;&lt;f1&gt;&lt;ud2&gt; Průvodce kalkulačkou &lt;/ud2&gt;&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Gordon Bates</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Gordon Bates</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Published &lt;t0&gt;June&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Introduction to Calc error codes</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Úvod do výpočtu chybových kódů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Error codes displayed within cells</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chybové kódy zobrazené v buňkách</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>General error codes</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Obecné chybové kódy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg># error codes and messages</seg>
-      </tuv>
-      <tuv xml:lang="cs">
-        <seg># chybové kódy a zprávy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>error codes and messages</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>chybové kódy a zprávy</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
+        <seg># error codes and messages</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg># chybové kódy a zprávy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calc provides feedback for errors of miscalculation, incorrect use of functions, invalid cell references and values, and other user initiated mistakes.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Calc poskytuje zpětnou vazbu pro chyby nesprávného výpočtu, nesprávné použití funkcí, neplatné odkazy na buňky a hodnoty a další chyby vyvolané uživatelem.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The feedback may be displayed within the cell that contains the error (Figure &lt;t0&gt;1&lt;/t0&gt;), or on the Status bar (Figure &lt;t1&gt;2&lt;/t1&gt;), or in both, depending on the type of error.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Zpětná vazba může být zobrazena v buňce, která obsahuje chybu (obrázek 5) &lt;t0&gt;1&lt;/t0&gt;), nebo na stavovém řádku (obrázek 5) &lt;t1&gt;2&lt;/t1&gt;) nebo v obou, v závislosti na typu chyby.</seg>
+      <tuv lang="cs">
+        <seg>Zpětná vazba může být zobrazena v buňce, která obsahuje chybu (obrázek 5) &lt;t0&gt;1&lt;/t0&gt; ), nebo na stavovém řádku (obrázek 5) &lt;t1&gt;2&lt;/t1&gt; ) nebo v obou, v závislosti na typu chyby.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Generally speaking, if the error occurs in the cell that is selected (or contains the cursor), the error message is displayed on the Status bar.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Obecně řečeno, pokud dojde k chybě v buňce, která je vybrána (nebo obsahuje kurzor), chybová zpráva se zobrazí na stavovém řádku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>As an example, Figure &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;shows the error code returned when a column is too narrow to display the entire formatted date.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Jako příklad lze uvést obrázek č &lt;t0&gt;1 &lt;/t0&gt;&lt;s1/&gt; zobrazuje kód chyby vrácený, když je sloupec příliš úzký, aby zobrazoval celé formátované datum.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The date displayed within the input line, 04/05/1998, would fit within the cell without a problem, but the format used by the cell produces the date value &lt;f2&gt;Sunday, April 05, 1998&lt;/f2&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Datum zobrazené ve vstupním řádku 04/05/1998 se do buňky vejde bez problémů, ale formát používaný buňkou vytvoří hodnotu data &lt;f2&gt;Neděle, 5. dubna 1998&lt;/f2&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Datum zobrazené ve vstupním řádku 04/05/1998 se do buňky vejde bez problémů, ale formát používaný buňkou vytvoří hodnotu data &lt;f2&gt;Neděle, 5. dubna 1998&lt;/f2&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Error codes displayed within cells</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Chybové kódy zobrazené v buňkách</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>When the cell displaying the &lt;f0&gt;#REF&lt;/f0&gt; error code in Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;is selected, the Status bar displays the error message as shown in Figure &lt;t3&gt;2&lt;/t3&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Když buňka zobrazuje &lt;f0&gt;#REF&lt;/f0&gt; kód chyby na obrázku &lt;t1&gt;1 &lt;/t1&gt;&lt;s2/&gt; Pokud je vybrána, na stavovém řádku se zobrazí chybová zpráva podle obrázku &lt;t3&gt;2&lt;/t3&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Když buňka zobrazuje &lt;f0&gt;#REF&lt;/f0&gt; kód chyby na obrázku &lt;t1&gt;1 &lt;/t1&gt;&lt;s2/&gt; Pokud je vybrána, na stavovém řádku se zobrazí chybová zpráva, jak je znázorněno na obrázku &lt;t3&gt;2&lt;/t3&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This message is more descriptive than the message displayed in the cell, but it still may not provide enough information to correctly diagnose the problem.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tato zpráva je popisnější než zpráva zobrazená v buňce, ale stále nemusí poskytovat dostatek informací k správné diagnostice problému.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For fuller explanations, consult the following tables and the Help topic, &lt;f4&gt;Error Codes in LibreOffice Calc&lt;/f4&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Podrobnější vysvětlení naleznete v následujících tabulkách a v tématu nápovědy, &lt;f4&gt;Chybové kódy v LibreOffice Calc&lt;/f4&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Podrobnější vysvětlení naleznete v následujících tabulkách a v tématu nápovědy, &lt;f4&gt;Chybové kódy v LibreOffice Calc&lt;/f4&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: An error message displayed in the Status bar</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Na stavovém řádku se zobrazí chybová zpráva</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This appendix presents error codes in two tables.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tento dodatek uvádí chybové kódy ve dvou tabulkách.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Table &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;lists error strings which are displayed within the cell that actually contains the error.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Stůl &lt;t0&gt;1 &lt;/t0&gt;&lt;s1/&gt; vypíše chybové řetězce, které jsou zobrazeny v buňce, která chybu skutečně obsahuje.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Except in the case of the &lt;f2&gt;###&lt;/f2&gt; error, they all correspond to a Calc error code number.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>S výjimkou případu &lt;f2&gt;###&lt;/f2&gt; chyba, všechny odpovídají číslu kódu chyby Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Alphanumeric codes such as &lt;f3&gt;Err502&lt;/f3&gt; and &lt;f4&gt;Err511&lt;/f4&gt; can also appear in cells; these are not separately identified in the Table &lt;t5&gt;1&lt;/t5&gt;&lt;s6/&gt;but their meanings are given in Table &lt;t7&gt;2&lt;/t7&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Alfanumerické kódy jako &lt;f3&gt;Err502&lt;/f3&gt; a &lt;f4&gt;Err511&lt;/f4&gt; může se také objevit v buňkách; tyto nejsou v tabulce samostatně identifikovány &lt;t5&gt;1 &lt;/t5&gt;&lt;s6/&gt; ale jejich význam je uveden v tabulce &lt;t7&gt;2&lt;/t7&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Alfanumerické kódy jako &lt;f3&gt;Err502&lt;/f3&gt; a &lt;f4&gt;Err511&lt;/f4&gt; může se také objevit v buňkách; tyto nejsou v tabulce samostatně identifikovány &lt;t5&gt;1 &lt;/t5&gt;&lt;s6/&gt; ale jejich význam je uveden v tabulce &lt;t7&gt;2&lt;/t7&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Table &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;explains all of the error codes, listed by code number, including those error codes in the first table.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Stůl &lt;t0&gt;2 &lt;/t0&gt;&lt;s1/&gt; vysvětluje všechny chybové kódy uvedené podle čísel kódu, včetně těchto chybových kódů v první tabulce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>You can use the ERRORTYPE() function to find the code number for an error occurring in a different cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pomocí funkce ERRORTYPE () můžete najít kódové číslo chyby vyskytující se v jiné buňce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Refer to the Help system for more detail about this function.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Více informací o této funkci najdete v systému nápovědy.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Error codes in cells</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Stůl &lt;seq0&gt;1&lt;/seq0&gt; : Chybové kódy v buňkách</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Code</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kód</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Message</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zpráva</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Explanation of the error</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vysvětlení chyby</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>### displayed in cell</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>### zobrazené v buňce</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>N/A</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>N / A</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The column is too narrow to display the complete formatted contents of the cell.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Sloupec je příliš úzký, aby zobrazoval celý formátovaný obsah buňky.</seg>
+      <tuv lang="cs">
+        <seg>Sloupec je příliš úzký, aby se zobrazil celý formátovaný obsah buňky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This is not really an error value, so there is no corresponding numerical error code.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nejedná se o chybnou hodnotu, takže neexistuje žádný odpovídající číselný kód chyby.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The solutions to this problem are to increase the width of the column, or select &lt;f0&gt;Format &gt; Cells &gt; Alignment&lt;/f0&gt; and click either &lt;f1&gt;Wrap text automatically&lt;/f1&gt; or &lt;f2&gt;Shrink to fit cell size&lt;/f2&gt; to make the text match the current column width.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Řešením tohoto problému je zvětšení šířky sloupce nebo výběr &lt;f0&gt;Formát &gt; Buňky &gt; Zarovnání&lt;/f0&gt; a klikněte na jeden z nich &lt;f1&gt;Zabalte text automaticky&lt;/f1&gt; nebo &lt;f2&gt;Zmenšuje se na velikost buňky&lt;/f2&gt; aby text odpovídal aktuální šířce sloupce.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>#NUM!</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg># ČÍSLO!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>error</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>chyba</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A calculation resulted in an overflow of the defined value range.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Výsledkem výpočtu bylo přetečení definovaného rozsahu hodnot.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>#VALUE!</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>#HODNOTA!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The formula within the cell returns a value that does not correspond to the definition of the formula or functions used.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vzorec v buňce vrací hodnotu, která neodpovídá definici použitého vzorce nebo funkcí.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This error could also mean that the cell referenced by the formula contains text instead of a number.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tato chyba může také znamenat, že buňka odkazovaná vzorcem obsahuje text místo čísla.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>#REF!</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>#REF!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The formula within the cell uses a reference that does not exist.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vzorec v buňce používá odkaz, který neexistuje.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Either a column or row description name could not be resolved, or the column, row, or sheet that contains a referenced cell is missing.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Název popisu sloupce nebo řádku nelze přeložit, nebo chybí sloupec, řádek nebo list obsahující odkazovanou buňku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>#NAME?</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>#NÁZEV?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>An identifier could not be evaluated: no valid reference, no valid domain name, no column/row label, no macro, incorrect decimal divider, add-in not found.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nelze vyhodnotit identifikátor: žádný platný odkaz, žádný platný název domény, žádný štítek sloupce / řádku, žádné makro, nesprávný desítkový dělič, doplněk nebyl nalezen.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>&lt;s0/&gt;For example, entering in a cell =sum(bob*5) where there is no cell named “bob” or containing the text “bob” generates this error.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>&lt;s0/&gt; Například zadání v buňce = součet (bob * 5), kde není žádná buňka s názvem „bob“ nebo obsahující text „bob“, generuje tuto chybu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>#DIV/0!</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg># DIV / 0!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Division operator / if the denominator is 0.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Provozovatel divize / pokud jmenovatel je 0.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Some more functions return this error; see next table for details.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tuto chybu vrací několik funkcí; podrobnosti viz další tabulka.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The following table is an overview of the most common error messages for LibreOffice Calc.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Následující tabulka uvádí přehled nejčastějších chybových zpráv pro program LibreOffice Calc.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Errors described as &lt;f0&gt;Internal errors&lt;/f0&gt; should not be encountered by users under normal conditions.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chyby popsané jako &lt;f0&gt;Interní chyby&lt;/f0&gt; by se uživatelé neměli setkat za normálních podmínek.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Errors listed as &lt;f1&gt;Not used&lt;/f1&gt; are not currently assigned to any error condition and will not occur.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chyby uvedené jako &lt;f1&gt;Nepoužívá&lt;/f1&gt; nejsou aktuálně přiřazeny k žádné chybě a nedojde.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Table &lt;seq0&gt;2&lt;/seq0&gt;: List of error codes</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Stůl &lt;seq0&gt;2&lt;/seq0&gt; : Seznam kódů chyb</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Invalid character</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Neplatný znak</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Character in a formula is not valid.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Znak ve vzorci není platný.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This error is the same as the &lt;f0&gt;Invalid Name&lt;/f0&gt; error (525) except that it occurs within a formula.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tato chyba je stejná jako chyba &lt;f0&gt;Neplatné jméno&lt;/f0&gt; chyba (525) kromě toho, že se vyskytuje ve vzorci.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The cell containing the error will display the #NAME?</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Buňka obsahující chybu zobrazí # NAME?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>error reference.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>odkaz na chybu.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Invalid argument</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Neplatný argument</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Function argument is not valid; for example, a negative number for the SQRT() function.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Argument funkce není platný; například záporné číslo pro funkci SQRT ().</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This error also occurs if more than one matching cell is found by the DGET() function.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>K této chybě také dochází, pokud funkce DGET () najde více než jednu odpovídající buňku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Invalid floating point operation (cell displays &lt;f0&gt;#NUM!&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Neplatná operace s pohyblivou řádovou čárkou (zobrazí se buňka &lt;f0&gt;# ČÍSLO!&lt;/f0&gt;)</seg>
+      <tuv lang="cs">
+        <seg>Neplatná operace s pohyblivou řádovou čárkou (zobrazí se buňka &lt;f0&gt;# ČÍSLO!&lt;/f0&gt; )</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Division by 0, or another calculation that results in an overflow of the defined value range (a value too big or too small).</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vydělte číslem 0 nebo jiným výpočtem, který má za následek přetečení definovaného rozsahu hodnot (příliš velká nebo příliš malá hodnota).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Parameter list error</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chyba seznamu parametrů</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Function parameter is not valid; for example, text instead of a number, or a domain reference instead of a cell reference.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Parametr funkce není platný; například text namísto čísla nebo odkaz na doménu namísto odkazu na buňku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Internal syntax error</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Interní chyba syntaxe</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Not used.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nepoužívá.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Invalid semicolon</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Neplatný středník</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Pair missing</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Pár chybí</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Missing bracket or parenthesis; for example, closing brackets but no opening brackets.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chybějící závorka nebo závorka; například uzavírací závorky, ale žádné otevírací závorky.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Missing operator</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chybějící operátor</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Operator is missing; for example, &lt;br0/&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Operátor chybí; například, &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>=2(3+4) * , where the operator between "2" and "(" is missing.</seg>
+      <tuv lang="en">
+        <seg>“=2(3+4) * ”, where the operator between “2” and “(” is missing.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>= 2 (3 + 4) *, kde chybí operátor mezi „2“ a „(“.</seg>
+      <tuv lang="cs">
+        <seg>„= 2 (3 + 4) *“, kde chybí operátor mezi „2“ a „(“).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Missing variable</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chybějící proměnná</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
-        <seg>Variable is missing; for example, when two operators are together "=1+*2".</seg>
+      <tuv lang="en">
+        <seg>Variable is missing; for example, when two operators are together “=1+*2”.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Proměnná chybí; například když jsou dva operátory společně „= 1 + * 2“.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Function requires more variables than are provided; for example, AND() and OR().</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Funkce vyžaduje více proměnných, než jsou uvedeny; například AND () a OR ().</seg>
+      <tuv lang="cs">
+        <seg>Funkce vyžaduje více proměnných, než jsou poskytovány; například AND () a OR ().</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Formula overflow</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Přetečení vzorců</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The total number of internal tokens (that is, operators, variables, brackets) in the formula exceeds 8192, or the total number of matrices the formula creates exceeds 150.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Celkový počet interních tokenů (tj. Operátory, proměnné, závorky) ve vzorci přesahuje 8192 nebo celkový počet matic, které vzorec vytváří, přesahuje 150.</seg>
+      <tuv lang="cs">
+        <seg>Celkový počet vnitřních tokenů (tj. Operátory, proměnné, závorky) ve vzorci přesahuje 8192 nebo celkový počet matic, které vzorec vytváří, přesahuje 150.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This includes basic functions that receive too large an array as a parameter.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>To zahrnuje základní funkce, které jako parametr přijímají příliš velké pole.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>String overflow</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Přetečení řetězce</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>An identifier in the formula exceeds 64 KB in size, or a result of a string operation exceeds 64 KB in size.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Identifikátor ve vzorci přesahuje 64 kB nebo výsledek řetězcové operace přesahuje 64 KB.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Internal overflow</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vnitřní přetečení</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Sort operation attempted on too much numerical data (max.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Řazení se pokusilo o příliš mnoho číselných dat (max.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>100000) or a calculation stack overflow.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>100000) nebo přetečení zásobníku výpočtů.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Matrix is expected on the calculation stack, but is not available.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Matice se očekává ve výpočtovém zásobníku, ale není k dispozici.</seg>
+      <tuv lang="cs">
+        <seg>Matice se očekává ve výpočetním zásobníku, ale není k dispozici.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Unknown error; for example, a document with a newer function is loaded in an older version of Calc that does not contain the function.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Neznámá chyba; například dokument s novější funkcí se načte do starší verze Calc, která tuto funkci neobsahuje.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Variable is not available.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Proměnná není k dispozici.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>No result (cell displays &lt;f0&gt;#VALUE!&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Žádný výsledek (buňka se zobrazí &lt;f0&gt;#HODNOTA!&lt;/f0&gt;)</seg>
+      <tuv lang="cs">
+        <seg>Žádný výsledek (buňka se zobrazí &lt;f0&gt;#HODNOTA!&lt;/f0&gt; )</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Formula yields a value that does not correspond to the definition, or a cell that is referenced in the formula contains text instead of a number.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vzorec poskytuje hodnotu, která neodpovídá definici, nebo buňka, na kterou se ve vzorci odkazuje, obsahuje text místo čísla.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Compiler creates an unknown compiler code.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kompilátor vytvoří neznámý kód kompilátoru.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>No result.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Žádný výsledek.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Circular reference</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Kruhový odkaz</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Formula refers directly or indirectly to itself and the &lt;f0&gt;Iterations&lt;/f0&gt; option is not selected under &lt;f1&gt;Tools &gt; Options &gt; LibreOffice Calc &gt; Calculate&lt;/f1&gt;.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Vzorec odkazuje přímo nebo nepřímo na sebe a na &lt;f0&gt;Iterace&lt;/f0&gt; volba není vybrána pod &lt;f1&gt;Nástroje &gt; Možnosti &gt; LibreOffice Calc &gt; Calculate&lt;/f1&gt;.</seg>
+      <tuv lang="cs">
+        <seg>Vzorec odkazuje přímo nebo nepřímo na sebe a na &lt;f0&gt;Iterace&lt;/f0&gt; volba není vybrána pod &lt;f1&gt;Nástroje &gt; Možnosti &gt; LibreOffice Calc &gt; Calculate&lt;/f1&gt; .</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>The calculation procedure does not converge</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Postup výpočtu nekonverguje</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Financial statistics function missed a targeted value, or iterations of circular references do not reach the minimum change within the maximum steps that are set.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Funkce finanční statistiky vynechala cílenou hodnotu nebo iterace kruhových odkazů nedosáhly minimální změny v rámci nastavených maximálních kroků.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Invalid references (cell displays &lt;f0&gt;#REF!&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Neplatné odkazy (zobrazení buněk &lt;f0&gt;#REF!&lt;/f0&gt;)</seg>
+      <tuv lang="cs">
+        <seg>Neplatné odkazy (zobrazení buněk &lt;f0&gt;#REF!&lt;/f0&gt; )</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>A column or row description name could not be resolved, or the column, row, or sheet that contains a referenced cell is missing.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Název popisu sloupce nebo řádku nelze přeložit, nebo chybí sloupec, řádek nebo list obsahující odkazovanou buňku.</seg>
+      <tuv lang="cs">
+        <seg>Název popisu sloupce nebo řádku nelze vyřešit, nebo chybí sloupec, řádek nebo list obsahující odkazovanou buňku.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Invalid names (cell displays &lt;f0&gt;#NAME?&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Neplatná jména (zobrazí se buňka &lt;f0&gt;#NÁZEV?&lt;/f0&gt;)</seg>
+      <tuv lang="cs">
+        <seg>Neplatná jména (zobrazí se buňka &lt;f0&gt;#NÁZEV?&lt;/f0&gt; )</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>An identifier could not be evaluated; for example, no valid reference, no valid domain name, no column/row label, no macro, incorrect decimal divider, add-in not found.</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Nelze vyhodnotit identifikátor; například žádný platný odkaz, žádný platný název domény, žádný štítek sloupce / řádku, žádné makro, nesprávné dělení desetinných míst, doplněk nebyl nalezen.</seg>
+      <tuv lang="cs">
+        <seg>Nelze vyhodnotit identifikátor; například žádný platný odkaz, žádný platný název domény, žádný štítek sloupce / řádku, žádné makro, nesprávné desetinné děliče, doplněk nebyl nalezen.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Obsolete, no longer used, but could come from old documents if the result is a formula from a domain.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Zastaralé, již nepoužívané, ale mohly by pocházet ze starých dokumentů, pokud je výsledkem vzorec z domény.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>References, such as when a cell references a cell, are too encapsulated or deeply nested.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Odkazy, například když buňka odkazuje na buňku, jsou příliš zapouzdřeny nebo hluboce vnořeny.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>This is an internal error and should not be displayed in LibreOffice.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Toto je interní chyba a neměla by se zobrazovat v LibreOffice.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Division by zero (cell displays &lt;f0&gt;#DIV/0!&lt;/f0&gt;)</seg>
       </tuv>
-      <tuv xml:lang="cs">
-        <seg>Dělení nulou (zobrazení buněk &lt;f0&gt;# DIV / 0!&lt;/f0&gt;)</seg>
+      <tuv lang="cs">
+        <seg>Dělení nulou (zobrazení buněk &lt;f0&gt;# DIV / 0!&lt;/f0&gt; )</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Some more functions return this error; for example:</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Tuto chybu vrací několik funkcí; například:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>VARP with less than 1 argument&lt;br0/&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>VARP s méně než 1 argumentem &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>STDEVP with less than 1 argument&lt;br1/&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>STDEVP s méně než 1 argumentem &lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>VAR with less than 2 arguments&lt;br2/&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>VAR s méně než 2 argumenty &lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>STDEV with less than 2 arguments&lt;br3/&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>STDEV s méně než 2 argumenty &lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>STANDARDIZE with stdev=0&lt;br4/&gt;</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>STANDARDIZE s stdev = 0 &lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>NORMDIST with stdev=0</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>NORMDIST s stdev = 0</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Nested arrays are not supported</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vnořená pole nejsou podporována</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, “={1;{2}}”</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Například „= {1; {2}}“</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Error: Array or matrix size</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Chyba: Velikost pole nebo matice</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Unsupported inline array content</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Nepodporovaný obsah vloženého pole</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>For example, “={1+2}”</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Například „= {1 + 2}“</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>External content disabled</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Externí obsah je zakázán</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv xml:lang="en">
+      <tuv lang="en">
         <seg>Occurs when a function that requires (re)loading of external sources is encountered and the user hasn't confirmed reloading of external sources yet.</seg>
       </tuv>
-      <tuv xml:lang="cs">
+      <tuv lang="cs">
         <seg>Vyskytuje se, když dojde k funkci, která vyžaduje (re) načítání externích zdrojů a uživatel dosud nepotvrdil opětovné načtení externích zdrojů.</seg>
       </tuv>
     </tu>

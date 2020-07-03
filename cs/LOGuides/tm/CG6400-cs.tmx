@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (http://www.gnu.org/licenses/gpl.html), version 3 or later, or the Creative Commons Attribution License (&lt;a2&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a2&gt;), version 4.0 or later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete jej distribuovat a / nebo upravovat za podmínek buď GNU General Public License (http://www.gnu.org/licenses/gpl.html), verze 3 nebo novější, nebo Creative Commons Attribution License ( &lt;a2&gt;https://creativecommons.org/licenses/by/4.0/&lt;/a2&gt; ), verze 4.0 nebo novější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This book is adapted and updated from the &lt;f0&gt;LibreOffice 6.2 Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kniha je upravena a aktualizována z &lt;f0&gt;LibreOffice 6.2 Calc Calc Guide&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;June&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2020&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno &lt;t0&gt;červen &lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2020&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Některé kapitoly předpokládají znalost základního používání tabulek při popisu použití programu Calc.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé kapitoly očekávají čtenářské záznamy tabulek při popisu použití programu Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calc, list of main features</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Calc, seznam hlavních funkcí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>help, getting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>pomoc, získávání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka nápovědy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;What's This?&lt;/f0&gt; – For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Co je to?&lt;/f0&gt; - Pro rychlé tipy, když je panel nástrojů viditelný, umístěte ukazatel myši na některou z ikon, abyste viděli malé pole ('popis') s krátkým vysvětlením funkce ikony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;In addition, you can choose whether to activate Extended Tips using &lt;f3&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t2/&gt; Kromě toho si můžete vybrat, zda chcete aktivovat Rozšířené tipy pomocí &lt;f3&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Obecné&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t2/&gt;In addition, you can choose whether to activate Extended Tips using &lt;f3&gt;Tools &gt; Options &gt; LibreOffice &gt; General&lt;/f3&gt;.&lt;segment 0111&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t2/&gt; Kromě toho si můžete vybrat, zda chcete aktivovat Rozšířené tipy pomocí &lt;f3&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Obecné&lt;/f3&gt; . &lt;segment 0111&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;User Guides&lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; – Opens your default browser at the Documentation page of the LibreOffice website &lt;a2&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Uživatelské příručky &lt;/f0&gt;&lt;f1&gt; ‡&lt;/f1&gt; - Otevře výchozí prohlížeč na stránce Dokumentace na webu LibreOffice &lt;a2&gt;https://documentation.libreoffice.org/en/english-documentation/&lt;/a2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Get Help Online&lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; – Opens your default browser at the Ask LibreOffice&lt;f2&gt; &lt;/f2&gt;forum of questions and answers from the LibreOffice community &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Získejte nápovědu online &lt;/f0&gt;&lt;f1&gt; ‡&lt;/f1&gt; - Otevře váš výchozí prohlížeč v Ask LibreOffice &lt;f2&gt;&lt;/f2&gt; fórum otázek a odpovědí od komunity LibreOffice &lt;a3&gt;https://ask.libreoffice.org/en/questions/&lt;/a3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending feedback on</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>odesílání zpětné vazby na</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>feedback, sending about LibreOffice</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>zpětná vazba, zasílání informací o LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Send Feedback&lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; – Opens your default browser at the Feedback page of the LibreOffice website &lt;a2&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Poslat zpětnou vazbu &lt;/f0&gt;&lt;f1&gt; ‡&lt;/f1&gt; - Otevře výchozí prohlížeč na stránce Zpětná vazba na webu LibreOffice &lt;a2&gt;https://www.libreoffice.org/get-help/feedback/&lt;/a2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>restarting LibreOffice with default settings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>restartování LibreOffice s výchozím nastavením</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>restarting with default settings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>restartování s výchozím nastavením</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Restart in Safe Mode&lt;/f0&gt; – Opens a dialog window where you will have the option to restart LibreOffice and reset the software to its default settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Restartujte v nouzovém režimu&lt;/f0&gt; - Otevře dialogové okno, kde budete mít možnost restartovat LibreOffice a obnovit software na výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Donate to LibreOffice&lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; – Opens your default browser at the Donation page of the LibreOffice website &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Darujte LibreOffice &lt;/f0&gt;&lt;f1&gt; ‡&lt;/f1&gt; - Otevře váš výchozí prohlížeč na stránce Darování na webu LibreOffice &lt;a2&gt;https://donate.libreoffice.org/&lt;/a2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>updating LibreOffice software</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>aktualizace softwaru LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Check for Updates&lt;/f0&gt;&lt;f1&gt;‡&lt;/f1&gt; – Opens a dialog window and checks the LibreOffice website for updates to your version of the software.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kontrola aktualizací &lt;/f0&gt;&lt;f1&gt; ‡&lt;/f1&gt; - Otevře dialogové okno a zkontroluje, zda webové stránky LibreOffice neobsahují aktualizace vaší verze softwaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search similar topics or open a new one in &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hledejte podobná témata nebo otevřete nové v &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a1&gt;https://ask.libreoffice.org/en/questions&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a1&gt;https://ask.libreoffice.org/en/questions&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The service is available in several other languages; just replace /en/ with de, es, fr, ja, ko, nl, pt, tr, and many others in the web address above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Služba je k dispozici v několika dalších jazycích; stačí nahradit / en / de, es, fr, ja, ko, nl, pt, tr a mnoha dalšími na výše uvedené webové adrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Another forum that provides support for LibreOffice, among other open source office suites &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další fórum, které poskytuje podporu LibreOffice, mimo jiné kancelářské sady s otevřeným zdrojovým kódem &lt;a0&gt;https://forum.openoffice.org/en/forum/&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>illustrations, appearance of</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>ilustrace, vzhled</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dialogs, choosing LibreOffice or operating system</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>dialogy, výběr LibreOffice nebo operačního systému</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>icon sets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>sady ikon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Oxygen icon set</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sada ikon kyslíku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Galaxy icon set</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sada ikon galaxie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>legacy Gallery backgrounds</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>pozadí staré galerie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;i5/&gt;&lt;i6/&gt;&lt;i7/&gt;Some of the previously included gallery backgrounds are now only available as an extension from:&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;i5/&gt;&lt;i6/&gt;&lt;i7/&gt; Některá z dříve zahrnutých pozadí galerie jsou nyní k dispozici pouze jako rozšíření od: &lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a9&gt;https://extensions.libreoffice.org/extensions/legacy-gallery-backgrounds&lt;/a9&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a9&gt;https://extensions.libreoffice.org/extensions/legacy-gallery-backgrounds&lt;/a9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using LibreOffice on</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>pomocí LibreOffice na</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a more detailed list, see the application Help and Appendix A (Keyboard Shortcuts) to this guide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnější seznam najdete v nápovědě k aplikaci a v příloze A (Klávesové zkratky) této příručky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>⌘+Q</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>⌘ + Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit / quit LibreOffice</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ukončit / ukončit LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Sidebar’s Styles deck</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete balíček Styly postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>dialogs, recognizing common controls</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>dialogy, rozpoznávání společných ovládacích prvků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FAQs (frequently asked questions)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>FAQs (často kladené otázky)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>licensing of</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>licencování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additionally, there are over 70 spelling, hyphenation, and thesaurus dictionaries available for languages, and dialects that do not have a localized program &lt;t0/&gt;interface.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě toho existuje více než 70 slovníků pravopisu, dělení slov a slovník tezauru pro jazyky a dialekty, které nemají lokalizovaný program. &lt;t0/&gt; rozhraní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dictionaries are available from the LibreOffice Extension Center: &lt;a1&gt;&lt;f2&gt;https://extensions.libreoffice.org/extensions?getCategories=Dictionary&lt;/f2&gt;&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Slovníky jsou k dispozici na LibreOffice Extension Center: &lt;a1&gt;&lt;f2&gt; https://extensions.libreoffice.org/extensions?getCategories=Dictionary &lt;/f2&gt;&lt;/a1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java JRE (Java Runtime Environment)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Java JRE (Java Runtime Environment)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calc, new features in version 6.4</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Calc, nové funkce ve verzi 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The LibreOffice 6.4 Release Notes are here:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poznámky k vydání LibreOffice 6.4 jsou zde:</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
