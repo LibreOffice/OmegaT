@@ -1,0 +1,958 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 21 Customizing Writer</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 21 Přizpůsobení zapisovače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 21 Customizing Writer&lt;segment 48845 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 21 Přizpůsobení zapisovače &lt;segment 48845 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;12&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 21 Customizing Writer&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;12 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 21 Přizpůsobení zapisovače &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 21 Customizing Writer&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 21 Přizpůsobení zapisovače &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 21 Customizing Writer&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 0 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 21 Přizpůsobení zapisovače&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer 6.4 Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Writer 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 21 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 21 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customizing Writer</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobení Writeru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rafael Atias</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rafael Atias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July 2020.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nástroje &gt; Možnosti &lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>menu selection</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>výběr nabídky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Control+clic&lt;/f0&gt;k and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Control + clic&lt;/f0&gt; k a / nebo klepněte pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customizing menus</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobení nabídek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customizing the notebook bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobení lišty notebooku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter describes some common customizations that you may wish to do, in addition to the options described in Chapter 20, Setting up Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola popisuje některá běžná přizpůsobení, která můžete provést, kromě možností popsaných v kapitole 20, Nastavení zapisovače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, first save them in a document and then save the document as a template as described in Chapter 10, Working with Templates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejprve je uložte do dokumentu a poté dokument uložte jako šablonu, jak je popsáno v kapitole 10, Práce se šablonami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you work on more than one project, you may find that having different menus and toolbars can be useful.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud pracujete na více než jednom projektu, možná zjistíte, že mít různé nabídky a panely nástrojů může být užitečné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add to and rearrange menus on the Menu bar, add commands to menus, and make other changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu nabídek můžete přidávat a měnit uspořádání nabídek, přidávat do nabídek příkazy a provádět další změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also modify context (right-click) menus in a similar way.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podobným způsobem můžete upravit také kontextové nabídky (kliknutí pravým tlačítkem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To customize a &lt;is0/&gt;menu,&lt;ie1/&gt; choose &lt;f2&gt;Tools &gt; Customize&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobení a &lt;is0/&gt; Jídelní lístek, &lt;ie1/&gt; Vybrat &lt;f2&gt;Nástroje &gt; Přizpůsobit&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Customize dialog, go to the &lt;f3&gt;Menus&lt;/f3&gt; tab (Figure &lt;t4&gt;1&lt;/t4&gt;) or the &lt;f5&gt;Context Menus&lt;/f5&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Přizpůsobit přejděte na &lt;f3&gt;Nabídky&lt;/f3&gt; záložka (Obrázek &lt;t4&gt;1&lt;/t4&gt; ) nebo &lt;f5&gt;Kontextová menu&lt;/f5&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Menus tab of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Karta Nabídky v dialogovém okně Přizpůsobit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Scope&lt;/f0&gt; drop-down list in the upper right of the Customize dialog, choose whether to apply the customized menu to all of LibreOffice Writer or only to a specific document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Rozsah&lt;/f0&gt; V rozevíracím seznamu v pravém horním rohu dialogového okna Přizpůsobit vyberte, zda chcete použít přizpůsobenou nabídku na celý LibreOffice Writer nebo pouze na konkrétní dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Target&lt;/f0&gt; drop-down list, select the menu that you want to customize.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;cílová&lt;/f0&gt; z rozevíracího seznamu vyberte nabídku, kterou chcete upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list includes the main menus and submenus.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznam obsahuje hlavní nabídky a podnabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The commands on the selected menu are shown in the &lt;f1&gt;Assigned commands&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příkazy ve vybrané nabídce jsou zobrazeny v &lt;f1&gt;Přiřazené příkazy&lt;/f1&gt; seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a command to the selected menu, click on a command in the &lt;f0&gt;Available Commands&lt;/f0&gt; list and then click the large right arrow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat příkaz do vybrané nabídky, klikněte na příkaz v &lt;f0&gt;Dostupné příkazy&lt;/f0&gt; seznamu a poté klikněte na velkou šipku doprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can narrow the search by using the &lt;f1&gt;Search&lt;/f1&gt; box on the top left or selecting the &lt;f2&gt;Category&lt;/f2&gt; in the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyhledávání můžete zúžit pomocí &lt;f1&gt;Vyhledávání&lt;/f1&gt; pole vlevo nahoře nebo výběrem &lt;f2&gt;Kategorie&lt;/f2&gt; v rozevíracím seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the up and down arrows on the right-hand side to move the command into the position where you want it in the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí šipek nahoru a dolů na pravé straně přesuňte příkaz na místo, kde ho chcete v seznamu mít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove a command from the selected menu, click on it in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list and then click the large left arrow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odebrat příkaz z vybrané nabídky, klikněte na něj v nabídce &lt;f0&gt;Přiřazené příkazy&lt;/f0&gt; seznamu a poté klikněte na velkou šipku vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a separator or submenu, select the item directly before where you want the inserted item to appear, and use the commands in the &lt;f0&gt;Insert&lt;/f0&gt; drop-down.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit oddělovač nebo podnabídku, vyberte položku přímo před místem, kde chcete, aby se vložená položka objevila, a použijte příkazy v &lt;f0&gt;Vložit&lt;/f0&gt; rozevírací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Insert drop-down</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Vložit rozevírací seznam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To rename a menu item, select it in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list and choose &lt;f1&gt;Rename&lt;/f1&gt; from the &lt;f2&gt;Modify&lt;/f2&gt; drop-down.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přejmenovat položku nabídky, vyberte ji v &lt;f0&gt;Přiřazené příkazy&lt;/f0&gt; seznam a vyberte &lt;f1&gt;Přejmenovat&lt;/f1&gt; z &lt;f2&gt;Upravit&lt;/f2&gt; rozevírací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Modify drop-down</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Upravit rozevírací nabídku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You might find a “Favorites” menu useful, or a menu collecting tools for a specific project.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Může se vám hodit nabídka „Oblíbené“ nebo nástroje pro shromažďování nabídek pro konkrétní projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a new menu:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření nové nabídky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Menus&lt;/f0&gt; tab of the Customize dialog, click the symbol next to &lt;f1&gt;Target&lt;/f1&gt; and select &lt;f2&gt;Add&lt;/f2&gt; from the drop-down list (Figure &lt;t3&gt;4&lt;/t3&gt;) to display the New Menu dialog (Figure &lt;t4&gt;5&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Nabídky&lt;/f0&gt; Na kartě Přizpůsobit klikněte na symbol vedle &lt;f1&gt;cílová&lt;/f1&gt; a vyberte &lt;f2&gt;Přidat&lt;/f2&gt; z rozevíracího seznamu (obrázek &lt;t3&gt;4&lt;/t3&gt; ) pro zobrazení dialogového okna Nová nabídka (Obrázek &lt;t4&gt;5&lt;/t4&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type a name for the new menu in the &lt;f0&gt;Menu name&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do pole zadejte název nové nabídky &lt;f0&gt;Název nabídky&lt;/f0&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the up and down arrow buttons to move the new menu into the required position on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí tlačítek se šipkami nahoru a dolů přesuňte novou nabídku do požadované polohy na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save and return to the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; pro uložení a návrat do dialogu Přizpůsobit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will appear on the Menu bar itself after you save your customizations.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po uložení přizpůsobení se zobrazí na samotném panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After creating a new menu, you need to add some commands to it, as described above for modifying a menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po vytvoření nové nabídky do ní musíte přidat některé příkazy, jak je popsáno výše pro úpravu nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar (as described in Chapter 1, Introducing Writer), and adding or deleting icons (commands) in the list of those available on a toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panely nástrojů můžete přizpůsobit několika způsoby, včetně výběru, které ikony jsou viditelné, uzamčení polohy ukotveného panelu nástrojů (jak je popsáno v kapitole 1, Úvod do aplikace Writer) a přidání nebo odstranění ikon (příkazů) v seznamu těch, které jsou k dispozici na panelu nástrojů .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also create new toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také vytvořit nové panely nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: The Toolbars tab of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Karta Panely nástrojů v dialogovém okně Přizpůsobit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The procedures for creating and modifying a toolbar are similar to those for menus.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postupy pro vytváření a úpravy panelu nástrojů jsou podobné jako u nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Scope&lt;/f0&gt; drop-down list on the upper right of the Customize dialog, choose whether to save this changed toolbar for Writer or for a selected document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Rozsah&lt;/f0&gt; V rozevíracím seznamu v pravém horním rohu dialogového okna Přizpůsobit vyberte, zda chcete uložit tento změněný panel nástrojů pro Writer nebo pro vybraný dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Target&lt;/f0&gt; drop-down list, select the toolbar that you want to customize.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;cílová&lt;/f0&gt; z rozevíracího seznamu vyberte panel nástrojů, který chcete upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The current toolbar content is displayed in the &lt;f1&gt;Assigned Commands&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aktuální obsah panelu nástrojů se zobrazí v &lt;f1&gt;Přiřazené příkazy&lt;/f1&gt; seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a command in the &lt;f0&gt;Available Commands&lt;/f0&gt; list on the left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte příkaz v &lt;f0&gt;Dostupné příkazy&lt;/f0&gt; seznam vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can narrow your search by using the &lt;f1&gt;Search&lt;/f1&gt; box on the top left or choosing a category in the drop-down list just below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyhledávání můžete zúžit pomocí &lt;f1&gt;Vyhledávání&lt;/f1&gt; pole vlevo nahoře nebo výběrem kategorie v rozevíracím seznamu hned níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the large right arrow to add the selected command to the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list for the toolbar (on the right).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na velkou šipku doprava přidáte vybraný příkaz do složky &lt;f0&gt;Přiřazené příkazy&lt;/f0&gt; seznam pro panel nástrojů (vpravo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the up and down arrows in the far right to position the command in the toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí šipek nahoru a dolů zcela vpravo umístěte příkaz na panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove a command from a toolbar, select it in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list on the right and click the large left arrow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odebrat příkaz z panelu nástrojů, vyberte jej v &lt;f0&gt;Přiřazené příkazy&lt;/f0&gt; seznam vpravo a klikněte na velkou šipku vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To show or hide a command assigned to a toolbar, select or clear the checkbox by its icon in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list on the right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit nebo skrýt příkaz přiřazený k panelu nástrojů, zaškrtněte nebo zrušte zaškrtnutí políčka u jeho ikony v &lt;f0&gt;Přiřazené příkazy&lt;/f0&gt; seznam vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a separator, select the item directly before where you want the separator to appear, and use the command in the &lt;f0&gt;Insert&lt;/f0&gt; drop-down.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit oddělovač, vyberte položku přímo před místem, kde se má oddělovač zobrazit, a použijte příkaz v &lt;f0&gt;Vložit&lt;/f0&gt; rozevírací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To rename a toolbar item, select it in the &lt;f0&gt;Assigned Commands&lt;/f0&gt; list and choose &lt;f1&gt;Rename&lt;/f1&gt; from the &lt;f2&gt;Modify&lt;/f2&gt; drop-down.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přejmenovat položku panelu nástrojů, vyberte ji v &lt;f0&gt;Přiřazené příkazy&lt;/f0&gt; seznam a vyberte &lt;f1&gt;Přejmenovat&lt;/f1&gt; z &lt;f2&gt;Upravit&lt;/f2&gt; rozevírací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Tools &gt; Customize&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Nástroje &gt; Přizpůsobit&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Toolbars tab of the Customize dialog, click the symbol next to &lt;f0&gt;Target&lt;/f0&gt; and select &lt;f1&gt;Add&lt;/f1&gt; from the list, to display the Name dialog (Figure &lt;t2&gt;7&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na kartě Panely nástrojů v dialogovém okně Přizpůsobit klikněte na symbol vedle &lt;f0&gt;cílová&lt;/f0&gt; a vyberte &lt;f1&gt;Přidat&lt;/f1&gt; ze seznamu zobrazíte dialogové okno Název (Obrázek &lt;t2&gt;7&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Name dialog, type the new toolbar's name and choose from the &lt;f0&gt;Save In&lt;/f0&gt; drop-down list where to save this new toolbar: for Writer or for a selected document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Název zadejte název nového panelu nástrojů a vyberte z nabídky &lt;f0&gt;Uložit do&lt;/f0&gt; rozevírací seznam, kam uložit tento nový panel nástrojů: pro Writer nebo pro vybraný dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the command does not have an icon, you can choose an icon for it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud příkaz nemá ikonu, můžete pro ni vybrat ikonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To choose an icon, select the command in the list on the right, and click &lt;f0&gt;Modify &gt; Change Icon&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat ikonu, vyberte příkaz v seznamu vpravo a klikněte na &lt;f0&gt;Upravit &gt; Změnit ikonu&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Change Icon dialog (Figure &lt;t1&gt;8&lt;/t1&gt;), scroll through the available icons, select one, and click &lt;f2&gt;OK&lt;/f2&gt; to assign it to the command.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Změnit ikonu (Obrázek &lt;t1&gt;8&lt;/t1&gt; ), procházejte dostupnými ikonami, vyberte jednu a klepněte na &lt;f2&gt;OK&lt;/f2&gt; přiřadit jej k příkazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom icons should be 16×16 pixels in size to achieve the best quality and should not contain more than 256 colors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vlastní ikony by měly mít velikost 16 × 16 pixelů, aby bylo dosaženo nejlepší kvality, a neměly by obsahovat více než 256 barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, LibreOffice Writer’s commands are grouped in cascading menus and in toolbars filled with icons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení jsou příkazy nástroje LibreOffice Writer's seskupeny do kaskádových nabídek a na panely nástrojů vyplněné ikonami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Notebook bar&lt;/f0&gt; provides a different way to organize controls and icons, displaying contextual groups of commands and contents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Lišta na notebook&lt;/f0&gt; poskytuje jiný způsob uspořádání ovládacích prvků a ikon a zobrazuje kontextové skupiny příkazů a obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find more information about the &lt;f1&gt;Notebook bar&lt;/f1&gt; in the Help system, by searching for “notebook bar” in the index.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Více informací o &lt;f1&gt;Lišta na notebook&lt;/f1&gt; v systému nápovědy hledáním „poznámkového bloku“ v rejstříku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the available &lt;f0&gt;Notebook bar&lt;/f0&gt; modes is &lt;f1&gt;Tabbed&lt;/f1&gt; – in this mode, the bar is divided into tabs, where each tab displays a set of icons grouped by context.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jeden z dostupných &lt;f0&gt;Lišta na notebook&lt;/f0&gt; režimy je &lt;f1&gt;V záložkách&lt;/f1&gt; - v tomto režimu je lišta rozdělena na záložky, kde každá záložka zobrazuje sadu ikon seskupených podle kontextu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The context can also change depending on the object selected in the document, for example a table or an image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kontext se také může změnit v závislosti na objektu vybraném v dokumentu, například na tabulce nebo obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checkboxes are provided on the &lt;f0&gt;Notebookbar&lt;/f0&gt; tab of the Customize dialog (Figure &lt;t1&gt;9&lt;/t1&gt;) to show and hide the individual options on the various tabs that are provided in the &lt;f2&gt;Tabbed&lt;/f2&gt; mode user interface.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zaškrtávací políčka jsou uvedena na &lt;f0&gt;Notebookbar&lt;/f0&gt; na kartě Přizpůsobit (Obrázek &lt;t1&gt;9&lt;/t1&gt; ) pro zobrazení a skrytí jednotlivých možností na různých kartách, které jsou k dispozici v &lt;f2&gt;V záložkách&lt;/f2&gt; uživatelské rozhraní režimu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: The Notebookbar tab of the Customize dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Záložka Notebookbar v dialogovém okně Přizpůsobit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Reset&lt;/f0&gt; button to reset the &lt;f1&gt;Tabbed&lt;/f1&gt; mode of the notebook bar configuration to the default settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Resetovat&lt;/f0&gt; tlačítko pro resetování &lt;f1&gt;V záložkách&lt;/f1&gt; režim konfigurace lišty notebooku na výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice 6.4 has three notebook bar modes that can be selected through the &lt;f0&gt;View &gt; User Interface&lt;/f0&gt; menu – &lt;f1&gt;Tabbed&lt;/f1&gt;, &lt;f2&gt;Tabbed Compact&lt;/f2&gt;, and &lt;f3&gt;Groupedbar Compact&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice 6.4 má tři režimy pruhů poznámkového bloku, které lze vybrat pomocí &lt;f0&gt;Zobrazit &gt; Uživatelské rozhraní&lt;/f0&gt; Jídelní lístek - &lt;f1&gt;V záložkách&lt;/f1&gt; , &lt;f2&gt;Kompaktní s kartami&lt;/f2&gt; , a &lt;f3&gt;Groupedbar Compact&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, only the first of these can be modified using the &lt;f4&gt;Notebookbar&lt;/f4&gt; tab of the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pouze první z nich však lze upravit pomocí &lt;f4&gt;Notebookbar&lt;/f4&gt; na kartě Přizpůsobit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to using the built-in &lt;i0/&gt;&lt;is1/&gt;keyboard shortcuts&lt;ie2/&gt;, you can define others.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě použití vestavěného &lt;i0/&gt;&lt;is1/&gt; klávesové zkratky &lt;ie2/&gt; , můžete definovat další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can assign shortcuts to standard LibreOffice functions or your own macros and save them for use with Writer or with the entire LibreOffice suite.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete přiřadit zkratky standardním funkcím LibreOffice nebo vlastním makrům a uložit je pro použití se Writerem nebo s celou sadou LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To adapt shortcut keys to your needs, use the &lt;f0&gt;Keyboard&lt;/f0&gt; tab of the Customize dialog (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přizpůsobit klávesové zkratky svým potřebám, použijte &lt;f0&gt;Klávesnice&lt;/f0&gt; záložka dialogového okna Přizpůsobit (obrázek &lt;t1&gt;10&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Defining keyboard shortcuts for applying styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Definování klávesových zkratek pro použití stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose whether to have the shortcut key assignment available in all components of LibreOffice or only in Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte, zda chcete mít přiřazení klávesové zkratky k dispozici ve všech komponentách LibreOffice nebo pouze v Writeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the desired shortcut key in the &lt;f0&gt;Shortcut Keys&lt;/f0&gt; list at the top of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovanou klávesovou zkratku v &lt;f0&gt;Klávesové zkratky&lt;/f0&gt; seznam v horní části stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the required function from the &lt;f0&gt;Category&lt;/f0&gt; and &lt;f1&gt;Function&lt;/f1&gt; lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovanou funkci z &lt;f0&gt;Kategorie&lt;/f0&gt; a &lt;f1&gt;Funkce&lt;/f1&gt; seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection now appears in the &lt;f1&gt;Keys&lt;/f1&gt; list on the lower right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr se nyní zobrazí v &lt;f1&gt;Klíče&lt;/f1&gt; seznam vpravo dole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat as required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakujte podle potřeby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Avoid reassigning your operating system’s predefined shortcut keys.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nepřiřazujte předdefinované klávesové zkratky operačního systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changes to the shortcut key assignments can be &lt;i0/&gt;saved in a keyboard configuration file for use at a later time, so you can create and apply different configurations as needed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změny přiřazení klávesových zkratek mohou být &lt;i0/&gt; uloženy v konfiguračním souboru klávesnice pro pozdější použití, takže můžete podle potřeby vytvářet a používat různé konfigurace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After making keyboard shortcut assignments, click the &lt;f0&gt;Save&lt;/f0&gt; button at the right of the Customize dialog (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po provedení přiřazení klávesových zkratek klikněte na &lt;f0&gt;Uložit&lt;/f0&gt; tlačítko vpravo od dialogu Přizpůsobit (Obrázek &lt;t1&gt;10&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Save Keyboard Configuration dialog, type a name for the keyboard configuration file in the &lt;f0&gt;File name&lt;/f0&gt; box, or select an existing file from the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Uložit konfiguraci klávesnice zadejte název souboru konfigurace klávesnice do pole &lt;f0&gt;Název souboru&lt;/f0&gt; pole nebo vyberte existující soubor ze seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse to the location where you want to save the file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do umístění, kam chcete soubor uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(The file extension is .cfg for Configuration.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Přípona souboru je .cfg pro Configuration.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To &lt;i0/&gt;load a saved keyboard configuration file and replace your existing configuration, click the &lt;f1&gt;Load&lt;/f1&gt; button on the Customize dialog, and then select the configuration file from the Load Keyboard Configuration dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;i0/&gt; načtěte uložený konfigurační soubor klávesnice a nahraďte stávající konfiguraci, klikněte na &lt;f1&gt;Zatížení&lt;/f1&gt; v dialogovém okně Přizpůsobit a poté vyberte konfigurační soubor v dialogovém okně Načíst konfiguraci klávesnice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To &lt;i0/&gt;reset all of the keyboard shortcuts to their default values, click the &lt;f1&gt;Reset&lt;/f1&gt; button on the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;i0/&gt; obnovit všechny klávesové zkratky na výchozí hodnoty, klikněte na &lt;f1&gt;Resetovat&lt;/f1&gt; v dialogovém okně Přizpůsobit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a document is opened, a key is pressed, or the mouse moved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například se otevře dokument, stiskne se klávesa nebo se pohne myší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a common use is to assign the “open document” event to run a macro that performs certain setup tasks for the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Běžným příkladem je například přiřazení události „otevřeného dokumentu“ ke spuštění makra, které v dokumentu provádí určité úlohy nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To associate a macro with an event, use the &lt;f0&gt;Events&lt;/f0&gt; tab of the Customize dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přiřadit makro k události, použijte &lt;f0&gt;Události&lt;/f0&gt; na kartě Přizpůsobit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see Chapter 13, Getting Started with Macros, in the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v kapitole 13, Začínáme s makry na webu &lt;f1&gt;Průvodce Začínáme&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can add new top-level menus, submenus or toolbar icons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mohou přidat nové nabídky, dílčí nabídky nebo ikony na nejvyšší úrovni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extensions may also have their own settings, available from the extension manager.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozšíření mohou mít také svá vlastní nastavení, která jsou k dispozici ve správci rozšíření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the extension to your computer in any folder that you want (usually folder Download).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stáhněte si rozšíření do počítače v libovolné složce, kterou chcete (obvykle složka Stáhnout).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To &lt;i0/&gt;install an extension that is listed in the repository, follow these steps:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;i0/&gt; nainstalujte rozšíření, které je uvedeno v úložišti, postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In LibreOffice, select &lt;f0&gt;Tools &gt; Extension Manager&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V LibreOffice vyberte &lt;f0&gt;Nástroje &gt; Správce rozšíření&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Extension Manager dialog (Figure &lt;t0&gt;11&lt;/t0&gt;), click &lt;f1&gt;Get more extensions online&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Správce rozšíření (Obrázek &lt;t0&gt;11&lt;/t0&gt; ), klikněte na &lt;f1&gt;Získejte další rozšíření online&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A browser window opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se okno prohlížeče.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users with administrator or root privileges will see a dialog where they can choose to install extensions "for all users" (shared) or "only for me" (user).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelé s oprávněními správce nebo root se zobrazí dialogové okno, kde si mohou zvolit instalaci rozšíření „pro všechny uživatele“ (sdílené) nebo „pouze pro mě“ (uživatel).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users without those privileges can install, remove, or modify extensions only for their own use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uživatelé bez těchto oprávnění mohou instalovat, odebírat nebo upravovat rozšíření pouze pro své vlastní použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Using the Extension Manager</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Použití správce rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove (uninstall) an extension that you installed, select the extension in the main window of the Extension Manager dialog and click the &lt;f0&gt;Remove&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odebrat (odinstalovat) příponu, kterou jste nainstalovali, vyberte ji v hlavním okně dialogového okna Správce rozšíření a klikněte na ikonu &lt;f0&gt;Odstranit&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable an extension without removing (uninstalling) it, select the extension in the main window of the Extension Manager dialog and click the &lt;f0&gt;Disable&lt;/f0&gt; button, which then changes to &lt;f1&gt;Enable&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rozšíření deaktivovat, aniž byste jej odebrali (odinstalovali), vyberte jej v hlavním okně dialogového okna Správce rozšíření a klikněte na &lt;f0&gt;Zakázat&lt;/f0&gt; tlačítko, které se poté změní na &lt;f1&gt;Umožnit&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice supports PostScript (.pfb), TrueType (.ttf), and OpenType (.otf) font file formats.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice podporuje formáty souborů písem PostScript (.pfb), TrueType (.ttf) a OpenType (.otf).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have administration privileges, you can install additional fonts through your operating system; they will then be available for use by LibreOffice and will appear in Writer’s font lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud máte oprávnění pro správu, můžete si prostřednictvím svého operačního systému nainstalovat další písma; poté budou k dispozici pro použití v LibreOffice a objeví se v seznamech písem Writer's.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other places where you can find free-licensed fonts include The League of Moveable Type (&lt;a0&gt;https://www.theleagueofmoveabletype.com/&lt;/a0&gt;) and Open Font Library (&lt;a1&gt;http://openfontlibrary.org/&lt;/a1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezi další místa, kde najdete bezplatně licencovaná písma, patří The League of Moveable Type ( &lt;a0&gt;https://www.theleagueofmoveabletype.com/&lt;/a0&gt; ) a Otevřít knihovnu písem ( &lt;a1&gt;http://openfontlibrary.org/&lt;/a1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add custom colors to a color palette, for example to exactly match a corporate color scheme, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat vlastní barvy do palety barev, například tak, aby přesně odpovídaly podnikovému barevnému schématu, postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the object and choose &lt;f0&gt;Area&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na objekt a vyberte &lt;f0&gt;Plocha&lt;/f0&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to the &lt;f0&gt;Color&lt;/f0&gt; tab (Figure &lt;t1&gt;12&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejít na &lt;f0&gt;Barva&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;12&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under &lt;f2&gt;Colors &gt; Palette&lt;/f2&gt;, choose which palette you wish to add the new color to.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pod &lt;f2&gt;Barvy &gt; Paleta&lt;/f2&gt; , vyberte paletu, do které chcete přidat novou barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under &lt;f3&gt;New&lt;/f3&gt;, define the new color using RGB or Hex notation, or click the &lt;f4&gt;Pick&lt;/f4&gt; button to select the color on the Pick a Color dialog (Figure &lt;t5&gt;13&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pod &lt;f3&gt;Nový&lt;/f3&gt; , definujte novou barvu pomocí RGB nebo Hex notace, nebo klikněte na &lt;f4&gt;Výběr&lt;/f4&gt; tlačítko pro výběr barvy v dialogu Vybrat barvu (Obrázek &lt;t5&gt;13&lt;/t5&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Defining a new color</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Definování nové barvy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Defining a color by picking it from a color chart</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Definování barvy výběrem z barevné tabulky</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

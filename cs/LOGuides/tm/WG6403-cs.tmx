@@ -1,0 +1,2958 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 3 Working with Text: Advanced</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 3 Práce s textem: Pokročilé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 3 Working with Text: Advanced&lt;segment 37733 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 3 Práce s textem: Pokročilé &lt;segment 37733 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toni Blackwelder</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toni Blackwelder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Line numbering&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Číslování řádků &lt;/t0&gt;&lt;f1&gt; | &lt;/f1&gt;&lt;t2&gt; 21&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 3 Working with Text: Advanced&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;22 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 3 Práce s textem: Pokročilé &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 3 Working with Text: Advanced&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 3 Práce s textem: Pokročilé &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 3 Working with Text: Advanced&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 0 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 3 Práce s textem: Pokročilé&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer 6.4 Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Writer 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with Text: Advanced</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce s textem: Pokročilé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John M. Długosz</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John M. Długosz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July 2020.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud0&gt;6.4&lt;/ud0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice &lt;ud0&gt;6.4&lt;/ud0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Control+click&lt;/f0&gt; and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ctrl + klik&lt;/f0&gt; a / nebo klepněte pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; (&lt;f1&gt;Command&lt;/f1&gt;)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; ( &lt;f1&gt;Příkaz&lt;/f1&gt; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Styles deck in the sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete balíček Styly v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using paragraph and character styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používání odstavcových a znakových stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using Tools &gt; Language</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí Nástroje &gt; Jazyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using language settings in Options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí nastavení jazyka v Možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the status bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí stavového řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Advanced find and replace techniques</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokročilé techniky hledání a nahrazování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find and replace text formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najděte a nahraďte formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarity search</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hledání podobnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search with wildcards and regular expressions</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hledejte pomocí zástupných znaků a regulárních výrazů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preparing a document for review</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příprava dokumentu ke kontrole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Track Changes menu and toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídka Sledovat změny a panel nástrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recording changes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Záznam změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accepting or rejecting changs</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přijímání nebo odmítání změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comparing documents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Porovnávání dokumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merging modified documents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučení upravených dokumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding other comments</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidávání dalších komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting footnotes and endnotes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání poznámek pod čarou a vysvětlivek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defining the format of footnotes/endnotes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Definování formátu poznámek pod čarou / vysvětlivek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting hyperlinks using the Navigator</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání hypertextových odkazů pomocí navigátoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting hyperlinks using a dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání hypertextových odkazů pomocí dialogu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line numbering</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Číslování řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter covers the more advanced tools for working with text in Writer:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola popisuje pokročilejší nástroje pro práci s textem ve Writeru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The built-in language tools</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Integrované jazykové nástroje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Advanced find-and-replace techniques, including wildcards</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokročilé techniky hledání a nahrazování, včetně zástupných znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Track changes and insert comments</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sledujte změny a vkládejte komentáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Footnotes and endnotes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poznámky pod čarou a vysvětlivky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linking to other parts of a document</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Propojení s jinými částmi dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter assumes that you are familiar with the basic text techniques described in Chapter 2, Working with Text: Basics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola předpokládá, že znáte základní textové techniky popsané v kapitole 2, Práce s textem: Základy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend that you also display formatting aids, such as end-of-paragraph marks, tabs, breaks, and other items in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Doporučujeme také zobrazovat formátovací pomůcky, jako jsou značky na konci odstavce, záložky, konce a další položky v &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Writer &gt; Formátovací pomůcky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For information on formatting text (characters, paragraphs, lists), see Chapter 4.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o formátování textu (znaky, odstavce, seznamy) najdete v kapitole 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides some tools that make your work easier if you mix multiple languages within the same document or if you write documents in various languages:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje některé nástroje, které vám usnadní práci, pokud v jednom dokumentu kombinujete více jazyků nebo píšete dokumenty v různých jazycích:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph and character styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly odstavců a znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functions in &lt;f0&gt;Tools &gt; Language&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce v &lt;f0&gt;Nástroje &gt; Jazyk&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language settings in Options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení jazyka v Možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functions available on the status bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce dostupné na stavovém řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main advantage of changing the language for a text selection is that you can then use the correct dictionaries to check spelling and apply the localized versions of AutoCorrect replacement tables, thesaurus, and hyphenation rules.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní výhodou změny jazyka pro výběr textu je, že pak můžete použít správné slovníky ke kontrole pravopisu a použít lokalizované verze náhradních tabulek automatických oprav, tezaurus a pravidla dělení slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A grammar checking dictionary may also be available for the selected language.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro vybraný jazyk může být k dispozici také slovník kontroly gramatiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the language on the Font tab of the Paragraph Styles dialog (Figure &lt;t0&gt;1&lt;/t0&gt;) will change the language for all paragraphs that use that paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna jazyka na kartě Písmo v dialogu Odstavcové styly (Obrázek &lt;t0&gt;1&lt;/t0&gt; ) změní jazyk všech odstavců, které používají tento styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you will have whole paragraphs in different languages in a single document, you can use a different paragraph style for each language.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud budete mít v jednom dokumentu celé odstavce v různých jazycích, můžete pro každý jazyk použít jiný styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you might define Text Body-EN and Text Body-FR in a document containing paragraphs in both English and French.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například můžete definovat Text Body-EN a Text Body-FR v dokumentu obsahujícím odstavce v angličtině a francouzštině.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also set certain paragraphs to be checked in a language that is different from the language of the rest of the document by putting the cursor in the paragraph and changing the language on the Status Bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také nastavit určité odstavce, které mají být zkontrolovány v jazyce, který se liší od jazyka zbytku dokumentu, vložením kurzoru do odstavce a změnou jazyka na stavovém řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 9, Working with Styles, for information on how to manage the language settings of a style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kapitole 9, Práce se styly najdete informace o tom, jak spravovat jazykové nastavení stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Setting the language for a paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Nastavení jazyka odstavcového stylu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set the language for the whole document, for individual paragraphs, or even for individual words and characters, from &lt;f0&gt;Tools &gt; Language&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete nastavit jazyk pro celý dokument, pro jednotlivé odstavce nebo dokonce pro jednotlivá slova a znaky &lt;f0&gt;Nástroje &gt; Jazyk&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;For Selection&lt;/f0&gt; applies a specified language to the selected text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pro výběr&lt;/f0&gt; použije na vybraný text zadaný jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language you wish to apply is not listed in the submenu, choose &lt;f1&gt;More...&lt;/f1&gt; to open the Character dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jazyk, který chcete použít, není v podnabídce uveden, zvolte &lt;f1&gt;Více...&lt;/f1&gt; otevřete dialogové okno Znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;For Paragraph&lt;/f0&gt; applies the specified language to the paragraph where the cursor is located.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pro odstavec&lt;/f0&gt; použije zadaný jazyk na odstavec, kde je umístěn kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the language you wish to apply is not listed in the submenu, choose &lt;f1&gt;More...&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jazyk, který chcete použít, není v podnabídce uveden, zvolte &lt;f1&gt;Více...&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;For all Text&lt;/f0&gt; applies the specified language to all of the document, including text inserted after making the change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pro veškerý text&lt;/f0&gt; použije zadaný jazyk na celý dokument, včetně textu vloženého po provedení změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Reset to Default Language&lt;/f0&gt; option on the submenu is the fastest way to return a selection, paragraph, or all text to the default language set in &lt;f1&gt;Tools &gt; Options&lt;/f1&gt; (described below).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Obnovit výchozí jazyk&lt;/f0&gt; Možnost v podnabídce je nejrychlejší způsob, jak vrátit výběr, odstavec nebo veškerý text do výchozího jazyka nastaveného v &lt;f1&gt;Nástroje &gt; Možnosti&lt;/f1&gt; (popsané níže).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f1&gt;Default languages for documents&lt;/f1&gt; section (Figure &lt;t2&gt;2&lt;/t2&gt;), you can choose a different language for all the text that is not explicitly marked as a different language.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f1&gt;Výchozí jazyky pro dokumenty&lt;/f1&gt; část (Obrázek &lt;t2&gt;2&lt;/t2&gt; ), můžete zvolit jiný jazyk pro veškerý text, který není výslovně označen jako jiný jazyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A change in the default language from the &lt;f0&gt;Options&lt;/f0&gt; dialog is a general change of settings of LibreOffice and will therefore apply to all the documents created in the future.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna výchozího jazyka z &lt;f0&gt;Možnosti&lt;/f0&gt; dialog je obecná změna nastavení LibreOffice, a proto bude platit pro všechny dokumenty vytvořené v budoucnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to change the language for the current document only, be sure to select the &lt;f1&gt;For the current document only&lt;/f1&gt; option (see Figure &lt;t2&gt;2&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete změnit jazyk pouze pro aktuální dokument, vyberte možnost &lt;f1&gt;Pouze pro aktuální dokument&lt;/f1&gt; možnost (viz obrázek &lt;t2&gt;2&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Options available in the Languages settings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Možnosti dostupné v nastavení Jazyky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The spelling checker works only for those languages in the list that have a checkmark symbol next to them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kontrola pravopisu funguje pouze pro ty jazyky v seznamu, které mají vedle sebe symbol zaškrtnutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not see this symbol next to your preferred language, you can install the dictionary using &lt;f0&gt;Tools &gt; Language &gt; More dictionaries online&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tento symbol vedle svého preferovaného jazyka nevidíte, můžete slovník nainstalovat pomocí &lt;f0&gt;Nástroje &gt; Jazyk &gt; Další slovníky online&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The language used for checking spelling is also shown in the status bar, next to the page style in use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jazyk používaný pro kontrolu pravopisu je také zobrazen na stavovém řádku vedle používaného stylu stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the language for the paragraph or the entire document; click the language in the status bar to pop up a menu of choices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete změnit jazyk odstavce nebo celého dokumentu; kliknutím na jazyk ve stavovém řádku zobrazíte nabídku možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Language choices on the status bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Volby jazyka na stavovém řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Reset to Default Language&lt;/f0&gt; option on the menu and submenu is the fastest way to return a paragraph or the entire document to the default language set in &lt;f1&gt;Tools &gt; Options&lt;/f1&gt; (described above).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Obnovit výchozí jazyk&lt;/f0&gt; Možnost v nabídce a podnabídce je nejrychlejší způsob, jak vrátit odstavec nebo celý dokument do výchozího jazyka nastaveného v &lt;f1&gt;Nástroje &gt; Možnosti&lt;/f1&gt; (popsáno výše).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to finding and replacing words and phrases (described in Chapter 2), you can use Writer’s Find &amp; Replace dialog to find and replace paragraph styles and text formatting..</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě hledání a nahrazování slov a frází (popsaných v kapitole 2) můžete pomocí dialogu Najít a nahradit Writera vyhledat a nahradit styly odstavců a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combining material from several sources may result in unwanted paragraph styles in your document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kombinace materiálu z několika zdrojů může mít za následek nežádoucí styly odstavců v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly change all the paragraphs from one (unwanted) style to another (preferred) style:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle změnit všechny odstavce z jednoho (nechtěného) stylu na jiný (upřednostňovaný) styl:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Find &amp; Replace&lt;/f0&gt; dialog with &lt;f1&gt;Other Options&lt;/f1&gt; displayed, select &lt;f2&gt;Paragraph Styles&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Najít a nahradit&lt;/f0&gt; dialog s &lt;f1&gt;Jiné možnosti&lt;/f1&gt; zobrazené, vyberte &lt;f2&gt;Styly odstavců&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s3/&gt;(If you have text formats or attributes specified, this option is labeled &lt;f4&gt;Including Styles&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;s3/&gt; (Pokud máte zadané textové formáty nebo atributy, je tato možnost označena &lt;f4&gt;Včetně stylů&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f5&gt;No Format&lt;/f5&gt; to remove any attributes and return the option to &lt;f6&gt;Paragraph Styles&lt;/f6&gt;.) &lt;s7/&gt;The &lt;f8&gt;Find&lt;/f8&gt; and &lt;f9&gt;Replace&lt;/f9&gt; boxes now contain a list of paragraph styles in use in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f5&gt;Žádný formát&lt;/f5&gt; odstranit všechny atributy a vrátit možnost na &lt;f6&gt;Styly odstavců&lt;/f6&gt; .) &lt;s7/&gt; The &lt;f8&gt;Nalézt&lt;/f8&gt; a &lt;f9&gt;Nahradit&lt;/f9&gt; pole nyní obsahují seznam stylů odstavců používaných v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the styles you want to search for and replace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte styly, které chcete vyhledat a nahradit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Find, Find All&lt;/f0&gt;, &lt;f1&gt;Replace&lt;/f1&gt;, or &lt;f2&gt;Replace All&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Najít, Najít vše&lt;/f0&gt; , &lt;f1&gt;Nahradit&lt;/f1&gt; nebo &lt;f2&gt;Vyměnit vše&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat steps 2 and 3 for each style that you want to replace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakujte kroky 2 a 3 pro každý styl, který chcete nahradit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To clear any previous search criteria, place the cursor in the &lt;f0&gt;Find&lt;/f0&gt; box and then click the &lt;f1&gt;No Format&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vymazat všechna předchozí vyhledávací kritéria, umístěte kurzor do &lt;f0&gt;Nalézt&lt;/f0&gt; a poté klikněte na &lt;f1&gt;Žádný formát&lt;/f1&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To clear the selected &lt;f2&gt;Replace&lt;/f2&gt; options, place the cursor in the &lt;f3&gt;Replace&lt;/f3&gt; box and click the &lt;f4&gt;No Format&lt;/f4&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vymazat vybrané &lt;f2&gt;Nahradit&lt;/f2&gt; umístěte kurzor do &lt;f3&gt;Nahradit&lt;/f3&gt; a klepněte na &lt;f4&gt;Žádný formát&lt;/f4&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike &lt;f0&gt;Find &amp; Replace &gt; Paragraph Styles&lt;/f0&gt; described above, the formats or attributes to be searched do not appear inside the &lt;f1&gt;Find&lt;/f1&gt; or &lt;f2&gt;Replace&lt;/f2&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rozdíl od &lt;f0&gt;Najít a nahradit &gt; Styly odstavců&lt;/f0&gt; jak je popsáno výše, formáty nebo atributy, které mají být prohledávány, se neobjevují uvnitř &lt;f1&gt;Nalézt&lt;/f1&gt; nebo &lt;f2&gt;Nahradit&lt;/f2&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formats or attributes to be found or replaced appear below the &lt;f3&gt;Find&lt;/f3&gt; and &lt;f4&gt;Replace&lt;/f4&gt; boxes (see Figure &lt;t5&gt;4&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formáty nebo atributy, které mají být nalezeny nebo nahrazeny, se zobrazí pod &lt;f3&gt;Nalézt&lt;/f3&gt; a &lt;f4&gt;Nahradit&lt;/f4&gt; polí (viz obrázek &lt;t5&gt;4&lt;/t5&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Further, clicking on the caret does not bring up options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na stříšku se nezobrazí další možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Find &amp; replace format</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Najít a nahradit formát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find a type of formatting in the document, ensure &lt;f0&gt;Other options&lt;/f0&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li v dokumentu najít typ formátování, zajistěte &lt;f0&gt;Jiné možnosti&lt;/f0&gt; je vybrána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Format&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Formát&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a format from any of the tabs (for example: bold, 14 pt, Spacing above paragraph).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte formát na kterékoli z karet (například: tučné písmo, 14 bodů, mezery nad odstavcem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find this format that has only been applied by direct formatting, leave the &lt;f0&gt;Including Styles&lt;/f0&gt; box unchecked.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li najít tento formát, který byl použit pouze přímým formátováním, ponechte &lt;f0&gt;Včetně stylů&lt;/f0&gt; políčko nezaškrtnuto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find this format also applied inside a character or paragraph style, check the &lt;f1&gt;Including Styles&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zjistit, zda je tento formát také použit ve stylu znaků nebo odstavců, zaškrtněte políčko &lt;f1&gt;Včetně stylů&lt;/f1&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Find All&lt;/f0&gt; to have all formats found highlighted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Najít vše&lt;/f0&gt; zvýraznění všech nalezených formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f1&gt;Find Previous&lt;/f1&gt; or &lt;f2&gt;Find Next&lt;/f2&gt; to find one format instance at a time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f1&gt;Najít předchozí&lt;/f1&gt; nebo &lt;f2&gt;Najdi další&lt;/f2&gt; najít jednu instanci formátu najednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To replace the chosen format, click inside the &lt;f0&gt;Replace&lt;/f0&gt; box, then choose &lt;f1&gt;Format&lt;/f1&gt; and choose a replacement from the tabbed options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nahradit zvolený formát, klikněte dovnitř &lt;f0&gt;Nahradit&lt;/f0&gt; a poté vyberte &lt;f1&gt;Formát&lt;/f1&gt; a vyberte náhradu z možností na kartách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace the formats one at a time using &lt;f0&gt;Find Previous &gt; Replace&lt;/f0&gt; or &lt;f1&gt;Find Next &gt; Replace&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nahraďte formáty jeden po druhém pomocí &lt;f0&gt;Najít předchozí &gt; nahradit&lt;/f0&gt; nebo &lt;f1&gt;Najít Další &gt; Nahradit&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f2&gt;Replace All&lt;/f2&gt; to change all formats at once&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f2&gt;Vyměnit vše&lt;/f2&gt; změnit všechny formáty najednou &lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to change the formatting for a specific word or phrase in a document:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete změnit formátování konkrétního slova nebo fráze v dokumentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type the word or phrase in the &lt;f0&gt;Find&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte slovo nebo frázi do &lt;f0&gt;Nalézt&lt;/f0&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Replace&lt;/f0&gt; box, type in the new text you want to use and choose the formats you would like to change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Nahradit&lt;/f0&gt; do pole zadejte nový text, který chcete použít, a vyberte formáty, které chcete změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if you want to keep the same word or phrase and only change its format, ensure you also type the word or phrase in the &lt;f1&gt;Replace&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud si však chcete ponechat stejné slovo nebo frázi a změnit pouze její formát, nezapomeňte také zadat slovo nebo frázi do &lt;f1&gt;Nahradit&lt;/f1&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Otherwise, Writer will remove the word or phrase from the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jinak Writer slovo nebo frázi z dokumentu odstraní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace the words and formats one at a time using &lt;f0&gt;Find Previous &gt; Replace&lt;/f0&gt; or &lt;f1&gt;Find Next &gt; Replace&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nahraďte slova a formáty po jednom pomocí &lt;f0&gt;Najít předchozí &gt; nahradit&lt;/f0&gt; nebo &lt;f1&gt;Najít Další &gt; Nahradit&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f2&gt;Replace All&lt;/f2&gt; to change all words and formats at once&lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f2&gt;Vyměnit vše&lt;/f2&gt; změnit všechna slova a formáty najednou &lt;f3&gt;.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option finds terms that are similar to the &lt;f0&gt;Find&lt;/f0&gt;: text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost vyhledá výrazy podobné &lt;f0&gt;Nalézt&lt;/f0&gt; : text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a similarity search can find words that differ by two characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například hledání podobnosti může najít slova, která se liší o dva znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Similarity search&lt;/f0&gt; and click the &lt;f1&gt;Similarities&lt;/f1&gt; button to open a dialog in which you can modify the text search by length and number of characters different from the search term (see Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Hledání podobnosti&lt;/f0&gt; a klikněte na &lt;f1&gt;Podobnosti&lt;/f1&gt; Tlačítko pro otevření dialogu, ve kterém můžete upravit textové vyhledávání podle délky a počtu znaků odlišných od hledaného výrazu (viz obrázek &lt;t2&gt;5&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exchange characters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyměňujte znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the number of characters in the search term that can be exchanged.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte počet znaků do hledaného výrazu, které lze vyměnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you specify 2 exchanged characters, "black" and "crack" are considered similar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud například zadáte 2 vyměněné znaky, budou se „černé“ a „crack“ považovat za podobné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add characters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidejte znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the maximum number of characters by which a word can exceed the number of characters in the search term.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte maximální počet znaků, o které může slovo překročit počet znaků ve hledaném výrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove characters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odebrat znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the number of characters by which a word can be shorter than the search term.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte počet znaků, o které může být slovo kratší než hledaný výraz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combine</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kombajn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches for a term that matches any combination of the similarity search settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyhledá výraz, který odpovídá jakékoli kombinaci nastavení vyhledávání podobnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Similarity search dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Dialog pro vyhledávání podobnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;f0&gt;wildcard&lt;/f0&gt; is a special character that represents one or more unspecified characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A &lt;f0&gt;divoká karta&lt;/f0&gt; je speciální znak, který představuje jeden nebo více nespecifikovaných znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards make text searches more powerful but often less specific.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Díky zástupným znakům je textové vyhledávání výkonnější, ale často méně konkrétní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice enables you to use combinations of characters known as &lt;f1&gt;regular expressions&lt;/f1&gt; which are more specific than simple wildcards but less so than a literal string.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice vám umožňuje používat kombinace znaků známých jako &lt;f1&gt;regulární výrazy&lt;/f1&gt; které jsou konkrétnější než jednoduché zástupné znaky, ale méně než doslovný řetězec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions are very powerful but not very intuitive.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Regulární výrazy jsou velmi silné, ale ne příliš intuitivní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They can save time and effort by combining multiple finds into one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mohou ušetřit čas a úsilí spojením více nálezů do jednoho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;t0&gt;1&lt;/t0&gt;&lt;s1/&gt;shows a few of the regular expressions used by LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl &lt;t0&gt;1 &lt;/t0&gt;&lt;s1/&gt; ukazuje několik regulárních výrazů používaných LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The online help describes many more regular expressions and their uses.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Online nápověda popisuje mnohem více regulárních výrazů a jejich použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use wildcards and regular expressions when searching and replacing:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití zástupných znaků a regulárních výrazů při vyhledávání a nahrazování:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Find &amp; Replace dialog, click &lt;f0&gt;Other Options&lt;/f0&gt; to see more choices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Najít a nahradit klikněte na &lt;f0&gt;Jiné možnosti&lt;/f0&gt; zobrazit více možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this expanded dialog, select the &lt;f1&gt;Regular expressions&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto rozbaleném dialogovém okně vyberte ikonu &lt;f1&gt;Regulární výrazy&lt;/f1&gt; volba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type the search text, including the wildcards, in the &lt;f0&gt;Search for&lt;/f0&gt; box and the replacement text (if any) in the &lt;f1&gt;Replace with&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte hledaný text, včetně zástupných znaků, do pole &lt;f0&gt;Hledat&lt;/f0&gt; pole a náhradní text (pokud existuje) v poli &lt;f1&gt;Vyměňte za&lt;/f1&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not all regular expressions work as replacement characters; the line break (&lt;f2&gt;\n&lt;/f2&gt;) is one that does work.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ne všechny regulární výrazy fungují jako náhradní znaky; konec řádku ( &lt;f2&gt;\ n&lt;/f2&gt; ) je ten, který funguje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Find, Find All&lt;/f0&gt;, &lt;f1&gt;Replace&lt;/f1&gt;, or &lt;f2&gt;Replace All&lt;/f2&gt; (not recommended).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Najít, Najít vše&lt;/f0&gt; , &lt;f1&gt;Nahradit&lt;/f1&gt; nebo &lt;f2&gt;Vyměnit vše&lt;/f2&gt; (nedoporučeno).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To search for a character that is defined as a wildcard, type a backslash (&lt;f0&gt;\&lt;/f0&gt;) before the character to indicate that you are using it literally.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vyhledat znak, který je definován jako zástupný znak, zadejte zpětné lomítko ( &lt;f0&gt;\&lt;/f0&gt; ) před znakem, což znamená, že jej používáte doslovně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to find the text &lt;f1&gt;$5.00&lt;/f1&gt;, you would conduct a search using &lt;f2&gt;\$5\.00&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například najít text &lt;f1&gt;5,00$&lt;/f1&gt; , provedli byste vyhledávání pomocí &lt;f2&gt;\ 5$ \ 0,00&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Examples of search wildcards (regular expressions)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl &lt;seq0&gt;1&lt;/seq0&gt; : Příklady zástupných znaků pro vyhledávání (regulární výrazy)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this expression</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte tento výraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples and comments</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklady a komentáře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any single character</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Libovolný jeden znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;.&lt;/f0&gt; &lt;s1/&gt;(a period or full stop)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;. &lt;/f0&gt;&lt;s1/&gt; (tečka nebo tečka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;b.d&lt;/f0&gt; finds &lt;f1&gt;bad&lt;/f1&gt;, &lt;f2&gt;bud&lt;/f2&gt;, &lt;f3&gt;bid&lt;/f3&gt;, and &lt;f4&gt;bed&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;bd&lt;/f0&gt; najde &lt;f1&gt;špatný&lt;/f1&gt; , &lt;f2&gt;pupen&lt;/f2&gt; , &lt;f3&gt;nabídka&lt;/f3&gt; , a &lt;f4&gt;postel&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the specified characters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jeden ze zadaných znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[xyz]</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>[xyz]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;b[iu]n&lt;/f0&gt; finds &lt;f1&gt;bin&lt;/f1&gt; and &lt;f2&gt;bun&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;b [iu] n&lt;/f0&gt; najde &lt;f1&gt;zásobník&lt;/f1&gt; a &lt;f2&gt;drdol&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any single character in this range</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Libovolný znak v tomto rozsahu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[x-y]</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>[xy]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[&lt;f0&gt;r-t]eed&lt;/f0&gt; finds &lt;f1&gt;reed&lt;/f1&gt;, &lt;f2&gt;seed&lt;/f2&gt;, and &lt;f3&gt;teed&lt;/f3&gt;; ranges must be in alphabetically ascending order.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>[ &lt;f0&gt;rt] eed&lt;/f0&gt; najde &lt;f1&gt;rákos&lt;/f1&gt; , &lt;f2&gt;semínko&lt;/f2&gt; , a &lt;f3&gt;teed&lt;/f3&gt; ; rozsahy musí být v abecedním vzestupném pořadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any single character except the characters inside the brackets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Libovolný samostatný znak kromě znaků v závorkách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[^x]</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>[^ x]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;p[^a]st&lt;/f0&gt; finds &lt;f1&gt;post&lt;/f1&gt; and &lt;f2&gt;pest&lt;/f2&gt;, but not past.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;p [^ a] sv&lt;/f0&gt; najde &lt;f1&gt;pošta&lt;/f1&gt; a &lt;f2&gt;škůdce&lt;/f2&gt; , ale ne minulost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The beginning of a word</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Začátek slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\&lt;start</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>\ &lt;start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;\&lt;log&lt;/f0&gt; finds &lt;f1&gt;logbook&lt;/f1&gt; and &lt;f2&gt;logistics&lt;/f2&gt;, but not &lt;f3&gt;catalog&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;\ &lt;log&lt;/f0&gt; najde &lt;f1&gt;lodní deník&lt;/f1&gt; a &lt;f2&gt;logistika&lt;/f2&gt; , ale ne &lt;f3&gt;katalog&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The end of a word</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konec slova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>end\&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>konec \ &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;log\&gt;&lt;/f0&gt; finds &lt;f1&gt;catalog&lt;/f1&gt;, but not &lt;f2&gt;logistics&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;přihlásit \ &gt;&lt;/f0&gt; najde &lt;f1&gt;katalog&lt;/f1&gt; , ale ne &lt;f2&gt;logistika&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A paragraph marker</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Značka odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does not work as a replacement character.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nepracuje jako náhradní znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;\n&lt;/f0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f0&gt;\ n&lt;/f0&gt; namísto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A line break</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přerušení řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\n</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>\ n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finds a line break that was inserted with &lt;f0&gt;Shift+Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najde zalomení řádku, do kterého bylo vloženo &lt;f0&gt;Shift + Enter&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When used as a replacement character, it inserts a paragraph marker.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je použit jako náhradní znak, vloží značku odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use several methods to keep track of changes made to a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ke sledování změn provedených v dokumentu můžete použít několik metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make your changes to a copy of the document (stored in a different folder, under a different name, or both), then use Writer to compare the two files and show the changes you made.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proveďte změny v kopii dokumentu (uložené v jiné složce, pod jiným názvem nebo v obou), poté pomocí programu Writer porovnejte dva soubory a zobrazte provedené změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, this method can cause problems with large or complex documents, especially if you save a lot of versions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato metoda však může způsobit problémy s velkými nebo složitými dokumenty, zejména pokud uložíte mnoho verzí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Writer’s change marks (often called “redlines” or “revision marks”) to show added or deleted material or changed formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí značek pro změnu spisovatele (často nazývaných „redlines“ nebo „revizní značky“) zobrazíte přidaný nebo odstraněný materiál nebo změněné formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you have protected the document, any subsequent user must enter the correct password in order to turn off protection or accept or reject changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po ochraně dokumentu musí každý následující uživatel zadat správné heslo, aby vypnul ochranu nebo přijal nebo odmítl změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check whether it contains multiple versions by clicking &lt;f0&gt;File &gt; Versions&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na možnost zkontrolujte, zda obsahuje více verzí &lt;f0&gt;Soubor &gt; Verze&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Edit &gt; Track Changes &gt; Record&lt;/f0&gt; menu item is highlighted when recording is turned on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Záznam&lt;/f0&gt; při zapnutí záznamu je zvýrazněna položka nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Edit &gt; Track Changes &gt; Protect&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Chránit&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f1&gt;Enter Password&lt;/f1&gt; dialog, type a password (twice) and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f1&gt;Zadejte heslo&lt;/f1&gt; dialogové okno, zadejte heslo (dvakrát) a klikněte &lt;f2&gt;OK&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An alternative to steps 2 and 3 above is to choose &lt;f0&gt;File &gt; Properties &gt; Security&lt;/f0&gt; tab, select the &lt;f1&gt;Record changes&lt;/f1&gt; option, then click &lt;f2&gt;Protect&lt;/f2&gt; and enter the password.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alternativou k krokům 2 a 3 výše je výběr &lt;f0&gt;Soubor &gt; Vlastnosti &gt; Zabezpečení&lt;/f0&gt; na kartě vyberte &lt;f1&gt;Zaznamenejte změny&lt;/f1&gt; možnost a klikněte na &lt;f2&gt;Chránit&lt;/f2&gt; a zadejte heslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to the Track Changes menu (Figure &lt;t0&gt;7&lt;/t0&gt;), Writer provides a convenient toolbar (Figure &lt;t1&gt;6&lt;/t1&gt;) that includes buttons for the same functions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě nabídky Sledovat změny (Obrázek &lt;t0&gt;7&lt;/t0&gt; ), Writer poskytuje pohodlný panel nástrojů (obrázek &lt;t1&gt;6&lt;/t1&gt; ), který obsahuje tlačítka pro stejné funkce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Track Changes toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Panel nástrojů Sledovat změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 Show Track Changes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>1 Zobrazit změny stopy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>5 Accept Track Change</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>5 Přijměte změnu stopy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>9 Accept &amp; go to Next</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>9 Přijměte a přejděte na Další</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Track Change&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte změnu stopy &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s1/&gt;Comment</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;s1/&gt; Komentář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2 Record Track Changes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>2 Zaznamenejte změny stopy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>6 Reject Track Change</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>6 Odmítnout změnu stopy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reject &amp; go to Next</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odmítnout a přejít na Další</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Protect Track Changes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chraňte sledování změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3 Previous Track Change</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3 Změna předchozí stopy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>7 Accept All</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>7 Přijmout vše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage Track Changes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Správa změn sledování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compare Documents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Porovnat dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>4 Next Track Change</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>4 Další změna stopy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>8 Reject All</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>8 Odmítnout vše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Comment</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložit komentář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge Documents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučit dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Track Changes menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Nabídka Sledovat změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the default settings, see Chapter 20, Setting up Writer, for instructions on setting up how changes will be displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit výchozí nastavení, pokyny k nastavení, jak budou změny zobrazeny, najdete v kapitole 20, Nastavení zapisovače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To begin tracking (recording) changes, click &lt;f0&gt;Edit &gt; Track Changes &gt; Record&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li začít sledovat (zaznamenávat) změny, klikněte na &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Záznam&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To show or hide the display of changes, click &lt;f1&gt;Edit &gt; Track Changes &gt; Show&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit nebo skrýt zobrazení změn, klikněte na &lt;f1&gt;Upravit &gt; Sledovat změny &gt; Zobrazit&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold the mouse pointer over a marked change; you will see a &lt;f0&gt;Help Tip&lt;/f0&gt; showing the type of change, the author, date, and time of day for the change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podržte ukazatel myši nad vyznačenou změnou; uvidíte a &lt;f0&gt;Tip nápovědy&lt;/f0&gt; zobrazující typ změny, autora, datum a čas změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f1&gt;Extended Tips&lt;/f1&gt; are enabled, you will also see any comments recorded for this change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Li &lt;f1&gt;Rozšířené tipy&lt;/f1&gt; jsou povoleny, uvidíte také všechny komentáře zaznamenané pro tuto změnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enter a comment on a marked change, place the cursor in the area of the change and then click &lt;f0&gt;Edit &gt; Track Changes &gt; Comment&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zadat komentář k označené změně, umístěte kurzor do oblasti změny a poté klikněte &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Komentovat&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to being displayed as an extended tip, the comment is also shown in the list in the Manage Changes dialog (Figure &lt;t0&gt;9&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě toho, že se komentář zobrazí jako rozšířený tip, zobrazí se také v seznamu v dialogovém okně Správa změn (Obrázek &lt;t0&gt;9&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move from one marked change to the next, use the arrow buttons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přejít z jedné označené změny na další, použijte tlačítka se šipkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If no comment has been recorded for a change, the &lt;f0&gt;Text&lt;/f0&gt; field is blank.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud pro změnu nebyl zaznamenán žádný komentář, &lt;f0&gt;Text&lt;/f0&gt; pole je prázdné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To stop recording changes, click &lt;f0&gt;Edit &gt; Track Changes &gt; Record&lt;/f0&gt; again.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zastavit zaznamenávání změn, klikněte na &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Záznam&lt;/f0&gt; znovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See also “&lt;bf0&gt;Adding other comments&lt;/bf0&gt;” on page &lt;bf1&gt;14&lt;/bf1&gt;&lt;s2/&gt;for a way to annotate text that is not associated with a recorded change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz také „ &lt;bf0&gt;Přidávání dalších komentářů&lt;/bf0&gt; “ na stránce &lt;bf1&gt;14 &lt;/bf1&gt;&lt;s2/&gt; pro způsob, jak anotovat text, který není spojen se zaznamenanou změnou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Inserting a comment during change recording</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Vložení komentáře během záznamu změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accepting or rejecting changes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přijímání nebo odmítání změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To accept or reject recorded changes, use any of these tools:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přijmout nebo odmítnout zaznamenané změny, použijte některý z těchto nástrojů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Track Changes toolbar (Figure &lt;t0&gt;6&lt;/t0&gt;)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Sledovat změny (Obrázek &lt;t0&gt;6&lt;/t0&gt; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Items on the Track Changes menu (Figure &lt;t0&gt;7&lt;/t0&gt;)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Položky v nabídce Sledovat změny (Obrázek &lt;t0&gt;7&lt;/t0&gt; )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage Changes dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Správa změn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For quick and easy accepting and rejecting of changes, you can use the &lt;f0&gt;Track Changes&lt;/f0&gt; toolbar (Figure &lt;t1&gt;6&lt;/t1&gt;), which includes buttons for the same functions as appear on the &lt;f2&gt;Edit &gt; Track Changes&lt;/f2&gt; submenu (Figure &lt;t3&gt;7&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro rychlé a snadné přijetí a odmítnutí změn můžete použít &lt;f0&gt;Sledovat změny&lt;/f0&gt; panel nástrojů (obrázek &lt;t1&gt;6&lt;/t1&gt; ), který obsahuje tlačítka pro stejné funkce, jaké jsou uvedeny na &lt;f2&gt;Upravit &gt; Sledovat změny&lt;/f2&gt; podnabídka (Obrázek &lt;t3&gt;7&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable the Track Changes toolbar, click &lt;f4&gt;View &gt; Toolbars &gt; Track Changes&lt;/f4&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li povolit panel nástrojů Sledovat změny, klikněte na &lt;f4&gt;Zobrazit &gt; Panely nástrojů &gt; Sledovat změny&lt;/f4&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can dock this toolbar in a convenient place or leave it floating.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento panel nástrojů můžete ukotvit na vhodné místo nebo nechat plovoucí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If recorded changes are not showing, click &lt;f0&gt;Edit &gt; Track Changes &gt; Show Changes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se zaznamenané změny nezobrazují, klikněte na &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Zobrazit změny&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hover the mouse pointer over a recorded change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte ukazatel myši na zaznamenanou změnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A box appears with information about the type of change, who made it, and the date and time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazí se pole s informacemi o typu změny, kdo ji provedl, a datum a čas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click the changed text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na změněný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the context menu, choose &lt;f0&gt;Accept Change&lt;/f0&gt; or &lt;f1&gt;Reject Change&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V místní nabídce zvolte &lt;f0&gt;Přijmout změnu&lt;/f0&gt; nebo &lt;f1&gt;Odmítnout změnu&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Edit &gt; Track Changes &gt; Manage&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Spravovat&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Manage Changes dialog (Figure &lt;t1&gt;9&lt;/t1&gt;) opens, showing changes that have not yet been accepted or rejected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Správa změn (Obrázek &lt;t1&gt;9&lt;/t1&gt; ) Otevře se a zobrazí změny, které dosud nebyly přijaty nebo odmítnuty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you select a change in the dialog, the change itself is highlighted in the document, so you can see what the editor changed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když vyberete změnu v dialogovém okně, je v dokumentu zvýrazněna samotná změna, abyste viděli, co editor změnil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Accept&lt;/f0&gt; or &lt;f1&gt;Reject&lt;/f1&gt; to accept or reject the selected change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Přijmout&lt;/f0&gt; nebo &lt;f1&gt;Odmítnout&lt;/f1&gt; přijmout nebo odmítnout vybranou změnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also click &lt;f2&gt;Accept All&lt;/f2&gt; or &lt;f3&gt;Reject All&lt;/f3&gt; if you do not want to review the changes individually.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také kliknout &lt;f2&gt;Přijmout vše&lt;/f2&gt; nebo &lt;f3&gt;Odmítnout vše&lt;/f3&gt; pokud změny nechcete prohlížet jednotlivě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To show only the changes of certain people or only the changes on specific days or various other restrictions, use the &lt;f0&gt;Filter&lt;/f0&gt; tab (Figure &lt;t1&gt;10&lt;/t1&gt;) on the Manage Changes dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit pouze změny určitých lidí nebo pouze změny v konkrétní dny nebo různá jiná omezení, použijte &lt;f0&gt;Filtr&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;10&lt;/t1&gt; ) v dialogovém okně Správa změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After specifying the filter criteria, return to the &lt;f2&gt;List&lt;/f2&gt; tab to see those changes that meet your criteria.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po zadání kritérií filtru se vraťte na &lt;f2&gt;Seznam&lt;/f2&gt; na kartě zobrazíte změny, které splňují vaše kritéria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: The List tab of the Manage Changes dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Záložka Seznam v dialogovém okně Spravovat změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: The Filter page of the Manage Changes dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Stránka Filtr v dialogovém okně Spravovat změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes reviewers may forget to record the changes they make.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Recenzenti někdy mohou zapomenout zaznamenat provedené změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can find the changes if you compare the original document and the one that is edited.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změny najdete, pokud porovnáte původní dokument s upraveným.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To compare them:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li je porovnat:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the edited document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete upravený dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Edit &gt; Track Changes &gt; Compare Document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Porovnat dokument&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file browser dialog opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se dialogové okno prohlížeče souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the original document and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte původní dokument a klikněte &lt;f0&gt;otevřeno&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer finds and marks the changes and displays the Manage Changes dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer vyhledá a označí změny a zobrazí dialogové okno Správa změn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From this point, you can go through and accept or reject changes procedure as described earlier.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Od tohoto bodu můžete projít a přijmout nebo odmítnout postup změn, jak bylo popsáno výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The processes discussed to this point are effective when you have one reviewer at a time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Procesy diskutované k tomuto bodu jsou účinné, pokud máte současně jednoho recenzenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes, however, multiple reviewers all return edited versions of a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Někdy však všichni recenzenti vracejí upravené verze dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides a facility to merge documents containing tracked changes into the original document, but the condition for making this work is very specific: the edited documents may differ only and exclusively in the recorded changes – all other original text must be identical.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje nástroj pro sloučení dokumentů obsahujících sledované změny do původního dokumentu, ale podmínka pro provedení této práce je velmi specifická: upravené dokumenty se mohou lišit pouze a výhradně v zaznamenaných změnách - všechny ostatní původní texty musí být identické.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To merge documents, all of the edited documents (but not the original document) need to have recorded changes in them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li sloučit dokumenty, musí mít všechny upravené dokumenty (nikoli však původní dokument) v nich zaznamenané změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the original document into which you want to merge all copies.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete původní dokument, do kterého chcete sloučit všechny kopie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Edit &gt; Track Changes &gt; Merge Document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Upravit &gt; Sledovat změny &gt; Sloučit dokument&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file selection dialog opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se dialogové okno pro výběr souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the edited copy of the document to be merged with the first.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte upravenou kopii dokumentu, který má být sloučen s prvním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0/&gt;If there have been no subsequent changes to the original document, the copy is merged into the original.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;s0/&gt; Pokud nedošlo k žádným následným změnám původního dokumentu, kopie se sloučí do originálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If any changes have been made to the original document, an error dialog appears that informs you that the merge is unsuccessful.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byly v původním dokumentu provedeny nějaké změny, zobrazí se chybový dialog, který vás informuje o neúspěšném sloučení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the documents merge, you will see the recorded changes from the copy in the original document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po sloučení dokumentů uvidíte zaznamenané změny z kopie v původním dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat until all copies are merged.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakujte, dokud nebudou všechny kopie sloučeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All recorded changes are now included in the open copy.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny zaznamenané změny jsou nyní zahrnuty v otevřené kopii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save this file under another name.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uložte tento soubor pod jiným názvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides another type of comment, which authors and reviewers use to exchange ideas, ask for suggestions, or mark items needing attention.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje další typ komentářů, které autoři a recenzenti používají k výměně nápadů, žádání o návrhy nebo označení položek vyžadujících pozornost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a block of text, including multiple paragraphs, to be highlighted for a comment, or you can insert a comment at a single point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vybrat blok textu, včetně více odstavců, který se má pro komentář zvýraznit, nebo můžete vložit komentář v jednom bodě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a comment, select the text, or place the cursor in the place the comment refers to.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit komentář, vyberte text nebo umístěte kurzor na místo, na které se komentář vztahuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Right-click &lt;/f0&gt;and choose &lt;f1&gt;Insert &gt; Comment&lt;/f1&gt; or press &lt;f2&gt;Ctrl+Alt+C&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Klikněte pravým tlačítkem myši&lt;/f0&gt; a vybrat &lt;f1&gt;Vložit &gt; Komentovat&lt;/f1&gt; nebo stiskněte &lt;f2&gt;Ctrl + Alt + C&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;f0&gt;Comments&lt;/f0&gt; button is also added to the right of the horizontal ruler (see Figure &lt;t1&gt;11&lt;/t1&gt;); you can click this button to toggle the display of the comments on and off.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A &lt;f0&gt;Komentáře&lt;/f0&gt; tlačítko je také přidáno napravo od vodorovného pravítka (viz obrázek &lt;t1&gt;11&lt;/t1&gt; ); kliknutím na toto tlačítko můžete zapínat a vypínat zobrazení komentářů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer automatically adds the author’s name and a time stamp indicating when the comment was created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spisovatel automaticky přidá jméno autora a časové razítko označující, kdy byl komentář vytvořen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; to enter or change the name you want to appear in the Author field of the comment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Uživatelská data&lt;/f0&gt; zadejte nebo změňte jméno, které chcete zobrazit v poli Autor komentáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you are finished with your comment, click somewhere else on a page of your document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Až svůj komentář dokončíte, klikněte na jiné místo na stránce dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Otherwise, you will not be able to move away from the comment box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jinak se nebudete moci vzdálit od pole pro komentář.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;11&lt;/t0&gt;&lt;s1/&gt;shows an example of text with comments from two different authors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t0&gt;11 &lt;/t0&gt;&lt;s1/&gt; ukazuje příklad textu s komentáři od dvou různých autorů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an author selects text that overlaps another author’s comments, then the comments from the second author are nested with those of the first author.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud autor vybere text, který překrývá komentáře jiného autora, pak jsou komentáře od druhého autora vnořeny s komentáři prvního autora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Comments in LibreOffice</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Komentáře v LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Right-click&lt;/f0&gt; a comment to open a context menu where you can delete the current comment, all the comments from the same author, or all the comments in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Klikněte pravým tlačítkem myši&lt;/f0&gt; komentář k otevření kontextové nabídky, kde můžete odstranit aktuální komentář, všechny komentáře od stejného autora nebo všechny komentáře v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From this menu, you can also choose &lt;f1&gt;Format all comments&lt;/f1&gt; to open a dialog to apply some basic formatting to the text of the comment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z této nabídky můžete také vybrat &lt;f1&gt;Naformátovat všechny komentáře&lt;/f1&gt; otevřete dialogové okno a na text komentáře použijete základní formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also change font type, size, and alignment from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typ, velikost a zarovnání písma můžete změnit také na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To navigate from one comment to another, open the Navigator (&lt;f0&gt;F5&lt;/f0&gt;), scroll to find and expand the &lt;s1/&gt;&lt;f2&gt;Comments&lt;/f2&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přecházet z jednoho komentáře do druhého, otevřete Navigátor ( &lt;f0&gt;F5&lt;/f0&gt; ), vyhledejte a rozbalte &lt;s1/&gt;&lt;f2&gt; Komentáře&lt;/f2&gt; sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click the comment text to move the cursor to the anchor point of the comment in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poklepáním na text komentáře přesuňte kurzor na kotevní bod komentáře v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click the comment to quickly edit or delete it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem myši na komentář, abyste jej mohli rychle upravit nebo smazat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also navigate the comments using the keyboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V komentářích můžete také procházet pomocí klávesnice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To print the comments in a document, choose one of the options below from the print dialog (&lt;f0&gt;File &gt; Print &gt;&lt;/f0&gt; &lt;f1&gt;LibreOffice Writer&lt;/f1&gt; tab).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li tisknout poznámky v dokumentu, vyberte jednu z níže uvedených možností v dialogovém okně tisku ( &lt;f0&gt;Soubor &gt; Tisk &gt; &lt;/f0&gt;&lt;f1&gt; LibreOffice Writer&lt;/f1&gt; záložka).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Options for printing comments</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Možnosti pro tisk komentářů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert footnotes and define their format</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte poznámky pod čarou a definujte jejich formát</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define the location of footnotes on the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Definujte umístění poznámek pod čarou na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(To change the default values such as color and line style, see Chapter 5, Formatting Pages: Basics).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Chcete-li změnit výchozí hodnoty, jako je barva a styl čáry, viz Kapitola 5, Formátování stránek: Základy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then select &lt;f0&gt;Insert &gt; Footnote and Endnote&lt;/f0&gt; from the Menu bar and choose &lt;f1&gt;Footnote&lt;/f1&gt; or &lt;f2&gt;Endnote&lt;/f2&gt;, or click the &lt;f3&gt;Insert Footnote&lt;/f3&gt; or &lt;f4&gt;Insert Endnote &lt;/f4&gt;button on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté vyberte &lt;f0&gt;Vložit &gt; Poznámka pod čarou a vysvětlivka&lt;/f0&gt; na liště nabídek a vyberte &lt;f1&gt;Poznámka pod čarou&lt;/f1&gt; nebo &lt;f2&gt;Vysvětlivka&lt;/f2&gt; nebo klikněte na ikonu &lt;f3&gt;Vložit poznámku pod čarou&lt;/f3&gt; nebo &lt;f4&gt;Vložte vysvětlivku&lt;/f4&gt; tlačítko na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the default Footnote/Endnote settings, go to &lt;f0&gt;Tools &gt; Footnotes and Endnotes&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit výchozí nastavení poznámky pod čarou / vysvětlivky, přejděte na &lt;f0&gt;Nástroje &gt; Poznámky pod čarou a vysvětlivky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To bring up the Insert Footnote/Endnote dialog, choose &lt;s0/&gt;&lt;f1&gt;Insert &gt; Footnote and Endnote &gt; Footnote or Endnote&lt;/f1&gt; (Figure &lt;t2&gt;13&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vyvolat dialogové okno Vložit poznámku pod čarou / vysvětlivku, zvolte &lt;s0/&gt;&lt;f1&gt; Vložit &gt; Poznámka pod čarou a vysvětlivka &gt; Poznámka pod čarou nebo vysvětlivka&lt;/f1&gt; (Postava &lt;t2&gt;13&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you can choose whether to use the automatic numbering sequence specified in the footnote settings or choose a custom number.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde můžete zvolit, zda chcete použít automatickou sekvenci číslování určenou v nastavení poznámky pod čarou, nebo zvolit vlastní číslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Inserting a footnote/endnote</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Vložení poznámky pod čarou / vysvětlivky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can edit an existing footnote or endnote in the same way you edit any other text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stávající poznámku pod čarou nebo vysvětlivku můžete upravit stejným způsobem jako jakýkoli jiný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete a footnote or endnote, delete the footnote marker.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit poznámku pod čarou nebo vysvětlivku, odstraňte značku poznámky pod čarou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of the footnote or endnote are deleted automatically, and the numbering of other footnotes or endnotes is adjusted automatically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obsah poznámky pod čarou nebo vysvětlivky se automaticky odstraní a číslování dalších poznámek pod čarou nebo vysvětlivek se upraví automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Footnotes/Endnotes Settings dialog (Figure &lt;t1&gt;14&lt;/t1&gt;), choose preferred settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Nastavení poznámek pod čarou / vysvětlivek (Obrázek &lt;t1&gt;14&lt;/t1&gt; ), vyberte preferované nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Defining footnote formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Definování formátování poznámky pod čarou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cross-references to other parts of the document can easily get out of date if you reorganize the order of topics, add or remove material, or reword a heading.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Křížové odkazy na jiné části dokumentu mohou snadno zastarat, pokud reorganizujete pořadí témat, přidáte nebo odeberete materiál nebo přeformulujete nadpis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides two ways to ensure that references are up to date:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje dva způsoby, jak zajistit, aby odkazy byly aktuální:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Hyperlinks&lt;/f0&gt;: &lt;s1/&gt;a link to another document&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Hypertextové odkazy&lt;/f0&gt; : &lt;s1/&gt; odkaz na jiný dokument &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f3&gt;Cross-references&lt;/f3&gt;: &lt;s4/&gt;a link to other parts of the same document</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f3&gt;Křížové odkazy&lt;/f3&gt; : &lt;s4/&gt; odkaz na jiné části stejného dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two methods have the same result: if you &lt;f0&gt;Ctrl+click&lt;/f0&gt; the link when the document is open in Writer, you are taken directly to the cross-referenced item.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto dvě metody mají stejný výsledek: pokud vy &lt;f0&gt;Ctrl + kliknutí&lt;/f0&gt; odkaz, když je dokument otevřený ve Writeru, vás přesměruje přímo na položku s křížovým odkazem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To hyperlink to an object such as a graphic, and have the hyperlink show useful text such as &lt;f0&gt;Figure 6&lt;/f0&gt;, either give such an object a useful name instead of leaving it as the default name (“Graphics6”) or use the Hyperlink dialog to modify the visible text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit hypertextový odkaz na objekt, například grafiku, a nechat hypertextový odkaz zobrazit užitečný text, například &lt;f0&gt;Obrázek 6&lt;/f0&gt; , buď pojmenujte takový objekt užitečným názvem, místo aby jej ponechal jako výchozí název („Graphics6“), nebo použijte viditelný text k úpravě viditelného textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To ensure that references update if you reword a heading, caption, or other linked item, use automatic cross-references.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zajistit, aby se odkazy aktualizovaly, pokud přeformulujete nadpis, titulek nebo jinou propojenou položku, použijte automatické křížové odkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see “Using automatic cross-references” in Chapter 17, Fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnosti najdete v části „Použití automatických křížových odkazů“ v kapitole 17, Pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In HTML documents, bookmarks are converted to anchors that you can jump to by hyperlink.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dokumentech HTML jsou záložky převedeny na kotvy, na které můžete přeskočit pomocí hypertextového odkazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more about bookmarks, see “Using bookmarks” in Chapter 17, Fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o záložkách naleznete v části „Používání záložek“ v kapitole 17, Pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you type text (such as website addresses or URL) that can be used as a hyperlink, and then press the spacebar or the &lt;f0&gt;Enter&lt;/f0&gt; key, Writer automatically creates the hyperlink and applies formatting to the text (usually a color and underlining).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když zadáte text (například adresy webových stránek nebo URL), který lze použít jako hypertextový odkaz, a poté stiskněte mezerník nebo &lt;f0&gt;Enter&lt;/f0&gt; klíč, Writer automaticky vytvoří hypertextový odkaz a použije formátování textu (obvykle barvu a podtržení).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this does not happen, you can enable this feature using &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se tak nestane, můžete tuto funkci povolit pomocí &lt;f0&gt;Nástroje &gt; Automatické opravy &gt; Možnosti automatických oprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;/f0&gt;Select the Options tab and check the&lt;f1&gt; URL Recognition&lt;/f1&gt; option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;/f0&gt; Vyberte kartu Možnosti a zaškrtněte políčko &lt;f1&gt;Rozpoznávání URL&lt;/f1&gt; volba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also insert hyperlinks using the Navigator and the Hyperlink dialog, and you can modify all hyperlinks using the Hyperlink dialog, as described in this section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hypertextové odkazy můžete také vložit pomocí navigátoru a dialogu Hypertextový odkaz a všechny hypertextové odkazy můžete upravit pomocí dialogu Hypertextový odkaz, jak je popsáno v této části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyperlinks between documents can be set as relative or absolute, using the &lt;f0&gt;Save URLs relative to&lt;/f0&gt; option in &lt;f1&gt;Tools &gt; Options &gt; Load/Save &gt; General&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hypertextové odkazy mezi dokumenty lze nastavit jako relativní nebo absolutní pomocí &lt;f0&gt;Uložit adresy URL relativně k&lt;/f0&gt; možnost v &lt;f1&gt;Nástroje &gt; Možnosti &gt; Načíst / Uložit &gt; Obecné&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Relative linking is only possible when the document you are working on and the link destination are on the same drive, and you need to create the same directory structure on your hard disk as will apply on the destination website.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Relativní propojení je možné pouze v případě, že dokument, na kterém pracujete, a cíl odkazu jsou na stejné jednotce a musíte na pevném disku vytvořit stejnou adresářovou strukturu, která bude platit na cílovém webu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice uses absolute path names internally, so when you move your mouse cursor over a hyperlink, the tooltip displays the absolute reference even when it is set to be a relative link.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice interně používá absolutní názvy cest, takže když přesunete kurzor myši na hypertextový odkaz, zobrazí se v nápovědě absolutní odkaz, i když je nastaven jako relativní odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Navigator (Figure &lt;t0&gt;15&lt;/t0&gt;) &lt;s1/&gt;by clicking its icon in the Standard toolbar, choosing &lt;f2&gt;View &gt; Navigator&lt;/f2&gt;, pressing &lt;f3&gt;F5&lt;/f3&gt;, or selecting the Navigator Tab on the open Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete Navigátor (Obrázek &lt;t0&gt;15&lt;/t0&gt; ) &lt;s1/&gt; kliknutím na jeho ikonu na panelu nástrojů Standardní a výběrem možnosti &lt;f2&gt;Zobrazit &gt; Navigátor&lt;/f2&gt; stisknutím &lt;f3&gt;F5&lt;/f3&gt; nebo výběrem karty Navigátor na otevřeném bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the arrow next to the &lt;f0&gt;Drag Mode&lt;/f0&gt; icon, and ensure &lt;f1&gt;Insert as Hyperlink &lt;/f1&gt;is chosen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na šipku vedle &lt;f0&gt;Režim přetažení&lt;/f0&gt; ikona a zajistěte &lt;f1&gt;Vložit jako hypertextový odkaz&lt;/f1&gt; je vybrán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the list at the bottom of the &lt;f0&gt;Navigator&lt;/f0&gt;, select the document containing the item that you want to cross-reference.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V seznamu v dolní části okna &lt;f0&gt;Navigátor&lt;/f0&gt; , vyberte dokument obsahující položku, na kterou chcete provést křížový odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Navigator&lt;/f0&gt; list, select the item that you want to insert as a hyperlink.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Navigátor&lt;/f0&gt; seznamu vyberte položku, kterou chcete vložit jako hypertextový odkaz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Inserting a hyperlink using the Navigator</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Vložení hypertextového odkazu pomocí Navigátoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the Hyperlink dialog (Figure &lt;t0&gt;16&lt;/t0&gt;), click the &lt;f1&gt;Hyperlink&lt;/f1&gt; icon on the Standard Toolbar or choose &lt;f2&gt;Insert &gt; Hyperlink&lt;/f2&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazení dialogu Hypertextový odkaz (Obrázek &lt;t0&gt;16&lt;/t0&gt; ), klikněte na &lt;f1&gt;Hypertextový odkaz&lt;/f1&gt; ikonu na standardním panelu nástrojů nebo zvolte &lt;f2&gt;Vložit &gt; Hypertextový odkaz&lt;/f2&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To turn existing text into a link, select it before opening the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li stávající text změnit na odkaz, vyberte jej před otevřením dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Hyperlink dialog showing details for Internet links</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : Dialog hypertextových odkazů zobrazující podrobnosti o internetových odkazech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the left hand side, select one of the four types of hyperlink:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na levé straně vyberte jeden ze čtyř typů hypertextových odkazů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Internet&lt;/f0&gt;: a web address, normally starting with http://</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Internet&lt;/f0&gt; : webová adresa, obvykle začínající http: //</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Mail&lt;/f0&gt;: an email address.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pošta&lt;/f0&gt; : e-mailová adresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Document&lt;/f0&gt;: another document or to another place in the presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Dokument&lt;/f0&gt; : jiný dokument nebo na jiné místo v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The top right part of the dialog changes according to your choice for the hyperlink type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravá horní část dialogového okna se mění podle vašeho výběru typu hypertextového odkazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A full description of all the choices, and their interactions, is beyond the scope of this chapter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úplný popis všech možností a jejich interakcí přesahuje rámec této kapitoly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most common choices used in Writer documents are as follows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejběžnější volby použité v dokumentech Writeru jsou následující.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For an &lt;f0&gt;Internet&lt;/f0&gt; hyperlink, choose the type of hyperlink (Web or FTP) and enter the required web address (URL).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f0&gt;Internet&lt;/f0&gt; hypertextový odkaz, vyberte typ hypertextového odkazu (web nebo FTP) a zadejte požadovanou webovou adresu (URL).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a &lt;f0&gt;Mail&lt;/f0&gt; hyperlink, specify the receiver address and the subject.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f0&gt;Pošta&lt;/f0&gt; hypertextový odkaz, zadejte adresu příjemce a předmět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a &lt;f0&gt;Document&lt;/f0&gt; hyperlink, specify the document path (the &lt;f1&gt;Open File&lt;/f1&gt; button opens a file browser); leave this blank if you want to link to a target in the same document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f0&gt;Dokument&lt;/f0&gt; hypertextový odkaz, zadejte cestu k dokumentu ( &lt;f1&gt;Otevřít soubor&lt;/f1&gt; tlačítko otevře prohlížeč souborů); toto pole ponechte prázdné, pokud chcete ve stejném dokumentu vytvořit odkaz na cíl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify the target in the document (for example a figure or table).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte cíl v dokumentu (například obrázek nebo tabulku).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f2&gt;Target&lt;/f2&gt; icon to open the Navigator where you can select the target, or if you know the name of the target, you can type it into the box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f2&gt;cílová&lt;/f2&gt; ikona pro otevření Navigátoru, kde můžete vybrat cíl, nebo pokud znáte název cíle, můžete jej zadat do pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a &lt;f0&gt;New Document&lt;/f0&gt; hyperlink, specify whether to edit the newly created document immediately or just create it (&lt;f1&gt;Edit later&lt;/f1&gt;) and the type of document to create (text, spreadsheet, and so on).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f0&gt;Nový dokument&lt;/f0&gt; hypertextový odkaz, určete, zda chcete nově vytvořený dokument okamžitě upravit, nebo jen vytvořit ( &lt;f1&gt;Upravit později&lt;/f1&gt; ) a typ dokumentu, který se má vytvořit (text, tabulka atd.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a text document, &lt;f2&gt;Edit now&lt;/f2&gt; is the more likely choice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U textového dokumentu &lt;f2&gt;Upravit hned&lt;/f2&gt; je pravděpodobnější volba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f3&gt;Select Path&lt;/f3&gt; button opens a folder picker.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f3&gt;Vyberte cestu&lt;/f3&gt; tlačítko otevře výběr složek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Further settings&lt;/f0&gt; section in the bottom right part of the dialog is common to all the hyperlink types, although some choices are more relevant to some types of links.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Další nastavení&lt;/f0&gt; část v pravé dolní části dialogu je společná pro všechny typy hypertextových odkazů, i když některé možnosti jsou pro některé typy odkazů relevantnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set the value of &lt;f0&gt;Frame&lt;/f0&gt; to determine how the hyperlink will open.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavte hodnotu &lt;f0&gt;Rám&lt;/f0&gt; určit, jak se hypertextový odkaz otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Events&lt;/f0&gt; button: this button will be activated to allow LibreOffice to react to events for which the user has written some code (macro).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Události&lt;/f0&gt; tlačítko: toto tlačítko bude aktivováno, aby umožnilo LibreOffice reagovat na události, pro které uživatel napsal nějaký kód (makro).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function is not covered in this book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato funkce není v této knize uvedena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit a hyperlink, click anywhere in the link text and then open the Hyperlink dialog by clicking the &lt;f0&gt;Hyperlink &lt;/f0&gt;icon on the Standard Toolbar or choosing &lt;f1&gt;Edit &gt; Hyperlink&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit hypertextový odkaz, klikněte kdekoli v textu odkazu a poté otevřete dialogové okno Hypertextový odkaz kliknutím na ikonu &lt;f0&gt;Hypertextový odkaz&lt;/f0&gt; ikonu na standardním panelu nástrojů nebo výběrem &lt;f1&gt;Upravit &gt; Hypertextový odkaz&lt;/f1&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make your changes and click &lt;f2&gt;Apply&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proveďte změny a klikněte &lt;f2&gt;Aplikovat&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to edit several hyperlinks, you can leave the Hyperlink dialog open until you have edited all of them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud potřebujete upravit několik hypertextových odkazů, můžete dialogové okno Hypertextový odkaz nechat otevřené, dokud je všechny neupravíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be sure to click &lt;f3&gt;Apply&lt;/f3&gt; after each one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nezapomeňte kliknout &lt;f3&gt;Aplikovat&lt;/f3&gt; po každém.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you are finished, click &lt;f4&gt;Close&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení klikněte na &lt;f4&gt;Zavřít&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This behavior can be changed in &lt;f1&gt;Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Options&lt;/f1&gt; by deselecting the option &lt;f2&gt;Ctrl-click required to follow hyperlinks&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto chování lze změnit v &lt;f1&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Zabezpečení &gt; Možnosti&lt;/f1&gt; zrušením výběru možnosti &lt;f2&gt;Chcete-li sledovat hypertextové odkazy, musíte stisknout klávesu Ctrl&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the color of hyperlinks, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f0&gt;, scroll to &lt;f1&gt;Unvisited links &lt;/f1&gt;and/or &lt;f2&gt;Visited links&lt;/f2&gt;, select those options, pick the new colors and click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit barvu hypertextových odkazů, přejděte na &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Barvy aplikace&lt;/f0&gt; , přejděte na &lt;f1&gt;Nenavštívené odkazy&lt;/f1&gt; a / nebo &lt;f2&gt;Navštívené odkazy&lt;/f2&gt; , vyberte tyto možnosti, vyberte nové barvy a klikněte &lt;f3&gt;OK&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Caution: this will change the color for &lt;f4&gt;all&lt;/f4&gt; hyperlinks in &lt;f5&gt;all&lt;/f5&gt; components of LibreOffice—this may not be what you want.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Upozornění: toto změní barvu pro &lt;f4&gt;Všechno&lt;/f4&gt; hypertextové odkazy v &lt;f5&gt;Všechno&lt;/f5&gt; komponenty LibreOffice - to nemusí být to, co chcete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default character style for hyperlinks is &lt;f0&gt;Internet Link&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí styl znaků pro hypertextové odkazy je &lt;f0&gt;Internetový odkaz&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Writer and Calc (but not Draw or Impress), you can change the &lt;f1&gt;Internet link&lt;/f1&gt; character style or define and apply new styles to selected links.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Writer a Calc (ale ne Draw nebo Impress) můžete změnit &lt;f1&gt;internetový odkaz&lt;/f1&gt; styl znaků nebo definovat a použít nové styly na vybrané odkazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line numbering puts line numbers in the margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Číslování řádků vloží čísla řádků na okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is often used in legal documents, poetry, and lists of programming code.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Často se používá v právních dokumentech, poezii a seznamech programovacích kódů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer can insert line numbers in an entire document or in selected paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Program pro psaní může vložit čísla řádků do celého dokumentu nebo do vybraných odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line numbers are included when you print the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při tisku dokumentu jsou zahrnuta čísla řádků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also add a separator between line numbers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezi čísla řádků můžete také přidat oddělovač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;17&lt;/t0&gt;&lt;s1/&gt;shows an example with numbering on every line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t0&gt;17 &lt;/t0&gt;&lt;s1/&gt; ukazuje příklad s číslováním na každém řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Line numbering example</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Příklad číslování řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose how many lines are numbered (for example, every line or every tenth line), the numbering type, and whether numbers restart on each page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete si vybrat, kolik řádků je očíslováno (například každý řádek nebo každý desátý řádek), typ číslování a zda se mají čísla na každé stránce restartovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, a text separator (any text you choose) can be set on a different numbering scheme (one every 12 lines, for example).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě toho lze oddělovač textu (libovolný text, který vyberete) nastavit na jiné schéma číslování (například jeden každých 12 řádků).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add line numbers to an entire document:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup přidání čísel řádků do celého dokumentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Tools &gt; Line Numbering&lt;/f0&gt; and select the &lt;f1&gt;Show numbering&lt;/f1&gt; option in the top left corner of the Line Numbering dialog (Figure &lt;t2&gt;18&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Nástroje &gt; Číslování řádků&lt;/f0&gt; a vyberte ikonu &lt;f1&gt;Zobrazit číslování&lt;/f1&gt; v levém horním rohu dialogového okna Číslování řádků (obr &lt;t2&gt;18&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then select any options you want and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté vyberte libovolné možnosti a klikněte na &lt;f0&gt;OK&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: The Line Numbering dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;18&lt;/seq0&gt; : Dialog Číslování řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add line numbers to specific paragraphs, first disable the feature for the document and then enable it for specific paragraphs or paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat čísla řádků do konkrétních odstavců, nejprve deaktivujte funkci dokumentu a poté ji povolte pro konkrétní odstavce nebo styly odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable line numbering for the document, edit the &lt;f0&gt;Default Style&lt;/f0&gt; paragraph style (because all paragraph styles are based on the Default Style):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zakázat číslování řádků dokumentu, upravte &lt;f0&gt;Výchozí styl&lt;/f0&gt; styl odstavce (protože všechny styly odstavců jsou založeny na výchozím stylu):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Sidebar, go to the &lt;f0&gt;Styles pane&lt;/f0&gt; and click the &lt;f1&gt;Paragraph Styles&lt;/f1&gt; icon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V postranním panelu přejděte na ikonu &lt;f0&gt;Panel Styly&lt;/f0&gt; a klikněte na &lt;f1&gt;Styly odstavců&lt;/f1&gt; ikona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Right-click&lt;/f0&gt; the &lt;f1&gt;Default Style&lt;/f1&gt; paragraph style and choose &lt;f2&gt;Modify&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Klikněte pravým tlačítkem myši&lt;/f0&gt;&lt;f1&gt;Výchozí styl&lt;/f1&gt; styl odstavce a vyberte &lt;f2&gt;Upravit&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the Outline &amp; Numbering tab (see Figure &lt;t0&gt;19&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na kartu Obrys a číslování (viz obrázek &lt;t0&gt;19&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Line Numbering&lt;/f0&gt; area, clear the &lt;f1&gt;Include this paragraph in line numbering&lt;/f1&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Číslování řádků&lt;/f0&gt; oblast, vyčistit &lt;f1&gt;Zahrňte tento odstavec do číslování řádků&lt;/f1&gt; zaškrtávací políčko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Disabling line numbering for a document</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;19&lt;/seq0&gt; : Zakázání číslování řádků pro dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable line numbering for specific paragraphs:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Povolení číslování řádků pro konkrétní odstavce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the paragraphs where you want to add the line numbers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte odstavce, do kterých chcete přidat čísla řádků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Format &gt; Paragraph&lt;/f0&gt;, and then click the &lt;f1&gt;Outline &amp; Numbering&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Formát &gt; Odstavec&lt;/f0&gt; a potom klikněte na ikonu &lt;f1&gt;Přehled a číslování&lt;/f1&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Include this paragraph in line numbering&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Zahrňte tento odstavec do číslování řádků&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also create a paragraph style that includes line numbering, and apply it to the paragraphs that you want to add line numbers to.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také vytvořit styl odstavce, který zahrnuje číslování řádků, a použít jej na odstavce, do kterých chcete přidat čísla řádků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to number the lines of example code in a document, you will probably want to use a font or indentation that is different from normal text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například k číslování řádků ukázkového kódu v dokumentu pravděpodobně budete chtít použít písmo nebo odsazení, které se liší od normálního textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To specify the starting line number:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zadat číslo startovní čáry:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the paragraph and choose &lt;f0&gt;Format &gt; Paragraph&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte do odstavce a vyberte &lt;f0&gt;Formát &gt; Odstavec&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Outline &amp; Numbering tab, make sure &lt;f0&gt;Include this paragraph in line numbering&lt;/f0&gt; is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na kartě Přehled a číslování zkontrolujte &lt;f0&gt;Zahrňte tento odstavec do číslování řádků&lt;/f0&gt; je vybrána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Restart at this paragraph&lt;/f0&gt; and enter a line number in the &lt;f1&gt;Start with&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Restartujte v tomto odstavci&lt;/f0&gt; a zadejte číslo řádku do &lt;f1&gt;Začít s&lt;/f1&gt; box.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

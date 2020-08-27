@@ -1,0 +1,1046 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 10 Working with Templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 10 Práce se šablonami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 10 Working with Templates&lt;segment 41942 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 10 Práce se šablonami &lt;segment 41942 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Organizing templates&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;11&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Uspořádání šablon &lt;/t0&gt;&lt;f1&gt; | &lt;/f1&gt;&lt;t2&gt; 11&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 10 Working with Templates&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;4 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 10 Práce se šablonami &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 10 Working with Templates&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 10 Práce se šablonami &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 10 Working with Templates&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 0 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 10 Práce se šablonami&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer 6.4 Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Writer 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with Templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se šablonami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dante Legaspi</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dante Legaspi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July 2020.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Control+click&lt;/f0&gt; and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ctrl + klik&lt;/f0&gt; a / nebo klepněte pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resetting Writer’s default template as the default</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obnovení výchozí šablony Writeru jako výchozí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;i0/&gt;template is a document model that you use to create other documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A &lt;i0/&gt; template je model dokumentu, který používáte k vytváření dalších dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablony mohou obsahovat cokoli, co mohou obsahovat běžné dokumenty, například text, grafiku, sadu stylů a informace o nastavení specifické pro uživatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not specify a template when you start a new Writer document, then the document is based on the default template for text documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud neurčíte šablonu při spuštění nového dokumentu Writeru, pak je dokument založen na výchozí šabloně pro textové dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create, download, and install as many templates as you wish.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vytvořit, stáhnout a nainstalovat libovolný počet šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set a default template for each type of document (text, spreadsheet, drawing, presentation).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro každý typ dokumentu (text, tabulka, výkres, prezentace) můžete nastavit výchozí šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer uses the built-in blank template for text documents if a default template is not set.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud není nastavena výchozí šablona, program Writer použije předdefinovanou prázdnou šablonu pro textové dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Setting a default template&lt;/bf0&gt;” on page &lt;bf1&gt;8&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „ &lt;bf0&gt;Nastavení výchozí šablony&lt;/bf0&gt; “ na stránce &lt;bf1&gt;8&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Writer, you can create templates for master documents as well as for ordinary documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Writer můžete vytvářet šablony pro hlavní dokumenty i pro běžné dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;File &gt; New &gt; Templates&lt;/f0&gt; or &lt;f1&gt;File &gt; Templates &gt; Manage Templates&lt;/f1&gt; from the Menu bar, or press &lt;f2&gt;Ctrl+Shift+N&lt;/f2&gt;, or click the small arrow next to the &lt;f3&gt;New&lt;/f3&gt; icon on the Standard toolbar and select &lt;f4&gt;Templates&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Soubor &gt; Nové &gt; Šablony&lt;/f0&gt; nebo &lt;f1&gt;Soubor &gt; Šablony &gt; Správa šablon&lt;/f1&gt; na liště nabídek nebo stiskněte &lt;f2&gt;Ctrl + Shift + N&lt;/f2&gt; , nebo klikněte na malou šipku vedle &lt;f3&gt;Nový&lt;/f3&gt; ikonu na panelu nástrojů Standardní a vyberte &lt;f4&gt;Šablony&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can filter the templates from the &lt;f5&gt;Filter&lt;/f5&gt; list at the top of the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablony můžete filtrovat z &lt;f5&gt;Filtr&lt;/f5&gt; seznamu v horní části dialogového okna Šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Templates dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Dialog šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find and double-click the required template, or select the template and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najděte požadovanou šablonu a dvakrát na ni klikněte, nebo vyberte šablonu a klikněte &lt;f0&gt;otevřeno&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A new document based on the selected template opens in Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V Writeru se otevře nový dokument založený na vybrané šabloně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then edit and save the new document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté můžete nový dokument upravit a uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template the document is based on is listed in &lt;f0&gt;File &gt; Properties &gt; General&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablona, na které je dokument založen, je uvedena v &lt;f0&gt;Soubor &gt; Vlastnosti &gt; Obecné&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The connection between a template and a document remains until the template is modified and you do not update the document to match the template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojení mezi šablonou a dokumentem zůstane, dokud nebude šablona upravena a neaktualizujete dokument tak, aby odpovídal šabloně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you copy or move the document to a different computer which does not have a copy of that template installed, the connection is broken even though it continues to be listed in the document’s properties.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud zkopírujete nebo přesunete dokument do jiného počítače, který nemá nainstalovanou kopii této šablony, připojení je přerušeno, přestože je i nadále uveden ve vlastnostech dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Associating a document with a different template&lt;/bf0&gt;” on page &lt;bf1&gt;10&lt;/bf1&gt;&lt;s2/&gt;for a way to reconnect a template to a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „ &lt;bf0&gt;Přiřazení dokumentu k jiné šabloně&lt;/bf0&gt; “ na stránce &lt;bf1&gt;10 &lt;/bf1&gt;&lt;s2/&gt; způsob, jak znovu připojit šablonu k dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a document from the template view of the Start Center, which is visible when no other document is open.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dokument můžete vytvořit z pohledu šablony v Centru spuštění, který je viditelný, když není otevřen žádný jiný dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To open the Templates dialog from the Start Center, click the &lt;f0&gt;Templates&lt;/f0&gt; icon in the left pane.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otevřít dialogové okno Šablony z Centra spuštění, klepněte na ikonu &lt;f0&gt;Šablony&lt;/f0&gt; ikona v levém podokně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The icon is also a drop-down list to select the templates of a given type of document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ikona je také rozevírací seznam pro výběr šablon daného typu dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f1&gt;Manage Templates&lt;/f1&gt; option on the list opens the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f1&gt;Správa šablon&lt;/f1&gt; Možnost v seznamu otevře dialogové okno Šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>creating from document</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>vytváření z dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Printer settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General behaviors set from &lt;f0&gt;Tools &gt; Options&lt;/f0&gt;, such as paths and colors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obecné chování nastavené z &lt;f0&gt;Nástroje &gt; Možnosti&lt;/f0&gt; , jako jsou cesty a barvy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu and toolbar customizations; see Chapter 21.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobení nabídek a panelů nástrojů; viz kapitola 21.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open a new or existing text (Writer) document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete nový nebo stávající textový dokument (Writer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add any content that you want to appear in any document you create from the new template, for example company logo or a copyright statement.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidejte veškerý obsah, který se má objevit v jakémkoli dokumentu, který vytvoříte z nové šablony, například logo společnosti nebo prohlášení o autorských právech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create or modify any styles or formatting choices like Autotext that you want to use in the new template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nebo upravte jakékoli styly nebo možnosti formátování, jako je Autotext, které chcete použít v nové šabloně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Save as Template dialog (Figure &lt;t1&gt;2&lt;/t1&gt;) opens, displaying the existing categories and a box for the name for the new template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog Uložit jako šablonu (obrázek &lt;t1&gt;2&lt;/t1&gt; ) se otevře, zobrazí stávající kategorie a pole pro název nové šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a category, for example &lt;f0&gt;My Templates&lt;/f0&gt; or &lt;f1&gt;Business Correspondence&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte například kategorii &lt;f0&gt;Moje šablony&lt;/f0&gt; nebo &lt;f1&gt;Obchodní korespondence&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also set this template as a default template at this time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto šablonu můžete v tuto chvíli také nastavit jako výchozí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Save as Template dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Dialog Uložit jako šablonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>creating using wizard</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>vytváření pomocí průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the Menu bar, choose &lt;f0&gt;File &gt; Wizards &gt; [type of template required]&lt;/f0&gt; (see Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na liště nabídek vyberte &lt;f0&gt;Soubor &gt; Průvodci &gt; [je vyžadován typ šablony]&lt;/f0&gt; (viz obrázek &lt;t1&gt;3&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This process is slightly different for each type of template, but the format is similar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento proces se u každého typu šablony mírně liší, ale formát je podobný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the last section of the wizard, you can specify the template name that will show in the Templates dialog and the file name and location for saving the template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V poslední části průvodce můžete zadat název šablony, který se zobrazí v dialogu Šablony, a název souboru a umístění pro uložení šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two names can be different but this may cause confusion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto dva názvy se mohou lišit, ale to může způsobit zmatek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default location is your user templates folder but you can choose a different location.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí umístění je složka uživatelských šablon, ale můžete zvolit jiné umístění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set the file name or change the folder, click the &lt;f0&gt;Path&lt;/f0&gt; icon (the three dots to the right of the location).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nastavit název souboru nebo změnit složku, klikněte na ikonu &lt;f0&gt;Cesta&lt;/f0&gt; ikona (tři tečky vpravo od místa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Save As dialog, make your selections and click &lt;f1&gt;Save&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Uložit jako proveďte výběr a klikněte &lt;f1&gt;Uložit&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, you can choose whether to create a new document from the template or to change it manually.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakonec si můžete vybrat, zda chcete vytvořit nový dokument ze šablony nebo ji změnit ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Finish&lt;/f0&gt; to save the template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Dokončit&lt;/f0&gt; uložit šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For future documents, you can re-use the template created by the wizard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U budoucích dokumentů můžete znovu použít šablonu vytvořenou průvodcem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Creating a template using a wizard</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Vytvoření šablony pomocí průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can edit a template’s styles and content and then reapply the template’s styles to documents that were created from that template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete upravit styly a obsah šablony a poté znovu použít styly šablony na dokumenty, které byly vytvořeny z této šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Templates dialog, as described on page &lt;bf0&gt;4&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Šablony, jak je popsáno na straně &lt;bf0&gt;4&lt;/bf0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Templates dialog, find the template that you want to edit.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Šablony najděte šablonu, kterou chcete upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on it to open the context menu, then click &lt;f0&gt;Edit&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravým tlačítkem myši otevřete místní nabídku a poté klikněte na &lt;f0&gt;Upravit&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template opens in Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablona se otevře ve Writeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To save your changes, choose &lt;f0&gt;File &gt; Save&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li uložit změny, zvolte &lt;f0&gt;Soubor &gt; Uložit&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you make any changes to a template and its styles, a confirmation message is displayed the next time you open a document that was created from the template before the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud v šabloně a jejích stylech provedete nějaké změny, při příštím otevření dokumentu, který byl vytvořen ze šablony před provedením změn, se zobrazí potvrzovací zpráva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Update Styles&lt;/f0&gt; to apply the changed styles in the template to the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Aktualizujte styly&lt;/f0&gt; použít změněné styly v šabloně na dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Keep Old Styles&lt;/f0&gt; if you do not want to apply the changed styles in the template to the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Zachovat staré styly&lt;/f0&gt; pokud nechcete použít změněné styly v šabloně na dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reconnect the document to the template, you will have to copy it into an empty document based on the template, as described in “&lt;bf2&gt;Associating a document with a different template&lt;/bf2&gt;” on page &lt;bf3&gt;10&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li znovu připojit dokument k šabloně, budete jej muset zkopírovat do prázdného dokumentu založeného na šabloně, jak je popsáno v části „ &lt;bf2&gt;Přiřazení dokumentu k jiné šabloně&lt;/bf2&gt; “ na stránce &lt;bf3&gt;10&lt;/bf3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can get to the official template repository by using the &lt;f0&gt;Browse online templates&lt;/f0&gt; icon in the lower left of the Templates dialog, as shown in Figure &lt;t1&gt;4&lt;/t1&gt;, or by visting &lt;a2&gt;https://extensions.libreoffice.org/templates&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do oficiálního úložiště šablon se dostanete pomocí &lt;f0&gt;Procházejte online šablony&lt;/f0&gt; ikona v levém dolním rohu dialogu Šablony, jak je znázorněno na obrázku &lt;t1&gt;4&lt;/t1&gt; nebo prohlížením &lt;a2&gt;https://extensions.libreoffice.org/templates&lt;/a2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On other websites, you may find collections of templates that have been packaged into extension (.oxt) files.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na jiných webech můžete najít sbírky šablon, které byly zabaleny do souborů rozšíření (.oxt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Getting more templates for LibreOffice</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Získání dalších šablon pro LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To install a template:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Instalace šablony:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(For advanced users) You can manually copy new templates into the template folders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Pro pokročilé uživatele) Nové šablony můžete ručně zkopírovat do složek šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the extension package (.oxt or .zip file) and save it anywhere on your computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stáhněte si balíček rozšíření (soubor .oxt nebo .zip) a uložte jej kamkoli do počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the package installation is complete, the templates are available for use through the Templates dialog and the extension is listed in the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení instalace balíčku jsou šablony k dispozici pro použití prostřednictvím dialogu Šablony a přípona je uvedena ve Správci rozšíření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 21, Customizing Writer, for more about the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o Správci rozšíření najdete v kapitole 21, Přizpůsobení zapisovače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>setting a default</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>nastavení výchozího nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you create a document by choosing &lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt; from the Menu bar, or by clicking the &lt;f1&gt;Text Document&lt;/f1&gt; button in the Start Center, Writer creates the document from the default template for text documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vytvoříte dokument výběrem &lt;f0&gt;Soubor &gt; Nový &gt; Textový dokument&lt;/f0&gt; z řádku nabídek nebo kliknutím na ikonu &lt;f1&gt;Textový dokument&lt;/f1&gt; Tlačítko v Centru spuštění, Writer vytvoří dokument z výchozí šablony pro textové dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set a custom template to be the default.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete nastavit vlastní šablonu jako výchozí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can reset the default later, if you choose.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení můžete obnovit později, pokud se rozhodnete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may know that Microsoft Word employs a normal.dot or normal.dotx file for its default template and how to regenerate it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možná víte, že Microsoft Word používá soubor normal.dot nebo normal.dotx pro svou výchozí šablonu a jak jej regenerovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most default settings, such as page size and page margins, can be changed, but those changes apply only to the document you are working on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Většinu výchozích nastavení, například velikost stránky a její okraje, lze změnit, ale tyto změny se vztahují pouze na dokument, na kterém pracujete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To make the changes the default settings for that document type, you need to replace the default template with a new one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li, aby byly změny výchozím nastavením pro daný typ dokumentu, musíte nahradit výchozí šablonu novou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set any template in the Templates dialog to be the default for that document type:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nastavit libovolnou šablonu v dialogovém okně Šablony jako výchozí pro daný typ dokumentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Templates dialog as described on page &lt;bf0&gt;4&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Šablony, jak je popsáno na straně &lt;bf0&gt;4&lt;/bf0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click the selected template and select &lt;f0&gt;Set as Default&lt;/f0&gt; from the context menu (see Figure &lt;t1&gt;5&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na vybranou šablonu a vyberte &lt;f0&gt;Nastavit jako výchozí&lt;/f0&gt; z místní nabídky (viz obrázek &lt;t1&gt;5&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A document will be created from this template the next time that you create a document of that type by choosing &lt;f0&gt;File &gt; New&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z této šablony bude vytvořen dokument, až příště vytvoříte dokument daného typu výběrem &lt;f0&gt;Soubor &gt; Nový&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Setting a template as the default template for documents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Nastavení šablony jako výchozí šablony pro dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To re-enable Writer’s original default template as the default:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li znovu povolit původní výchozí šablonu Writeru jako výchozí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Templates dialog (Figure &lt;t0&gt;6&lt;/t0&gt;), click the &lt;f1&gt;Settings&lt;/f1&gt; icon on the bottom left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Šablony (obrázek &lt;t0&gt;6&lt;/t0&gt; ), klikněte na &lt;f1&gt;Nastavení&lt;/f1&gt; ikona vlevo dole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Point to &lt;f0&gt;Reset Default Template&lt;/f0&gt; on the drop-down menu, and click &lt;f1&gt;Text Document&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ukázat na &lt;f0&gt;Obnovit výchozí šablonu&lt;/f0&gt; v rozevírací nabídce a klikněte na &lt;f1&gt;Textový dokument&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This choice does not appear unless a custom template had been set as the default, as described in the previous section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato volba se nezobrazí, pokud nebyla nastavena vlastní šablona jako výchozí, jak je popsáno v předchozí části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Resetting the default template for text documents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Obnovení výchozí šablony pro textové dokumenty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The document will be created from Writer’s default template the next time that you create a document by choosing &lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dokument bude vytvořen z výchozí šablony Writer při příštím vytváření dokumentu výběrem &lt;f0&gt;Soubor &gt; Nový &gt; Textový dokument&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At times you might want to associate a document with a different template, or perhaps you’re working with a document that did not start from a template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Někdy můžete chtít přidružit dokument k jiné šabloně, nebo možná pracujete s dokumentem, který nezačínal od šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the major advantages of using templates is the ease of updating styles in more than one document, as described in Chapter 9, Working with Styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednou z hlavních výhod používání šablon je snadná aktualizace stylů ve více než jednom dokumentu, jak je popsáno v kapitole 9, Práce se styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you update styles in a document by loading a new set of styles from a different template (as described in Chapter 9), the document has no association with the template from which the styles were loaded.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud aktualizujete styly v dokumentu načtením nové sady stylů z jiné šablony (jak je popsáno v kapitole 9), dokument nemá žádné přidružení k šabloně, ze které byly styly načteny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, you need to associate the document with the different template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Místo toho musíte přidružit dokument k jiné šabloně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they are not, you need to replace old styles with new ones.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tomu tak není, musíte staré styly nahradit novými.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 2, Working with Text: Basics, for more about replacing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o nahrazování stylů najdete v kapitole 2, Práce s textem: Základy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To associate a document with a different template:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přiřazení dokumentu k jiné šabloně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Templates dialog, double-click the template you want to use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Šablony poklepejte na šablonu, kterou chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(It opens in a new window.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Otevře se v novém okně.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Edit &gt; Select All&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+A&lt;/f1&gt;, to select everything in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f0&gt;Upravit &gt; Vybrat vše&lt;/f0&gt; nebo stiskněte &lt;f1&gt;Ctrl + A&lt;/f1&gt; , vyberte vše v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Edit &gt; Copy&lt;/f0&gt;, or press Ctrl+C, to copy the contents of the document to the clipboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f0&gt;Upravit &gt; Kopírovat&lt;/f0&gt; nebo stisknutím Ctrl + C zkopírujte obsah dokumentu do schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Edit &gt; Paste&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+V&lt;/f1&gt;, to paste the contents from the old document into the new one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f0&gt;Upravit &gt; Vložit&lt;/f0&gt; nebo stiskněte &lt;f1&gt;Ctrl + V&lt;/f1&gt; , pro vložení obsahu ze starého dokumentu do nového.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Update the table of contents if there is one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aktualizujte obsah, pokud existuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;File &gt; Save As&lt;/f0&gt; to save this new file with the name of the file from which content was taken.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f0&gt;Soubor &gt; Uložit jako&lt;/f0&gt; uložit tento nový soubor s názvem souboru, ze kterého byl převzat obsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When asked, confirm you wish to overwrite the old file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na dotaz potvrďte, že chcete přepsat starý soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you can save the new file under a new name and preserve the old file under its original name.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alternativně můžete nový soubor uložit pod novým názvem a zachovat starý soubor pod původním názvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>organizing templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>organizační šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer can only lists templates that are in LibreOffice template categories.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer může vypsat pouze šablony, které jsou v kategoriích šablon LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you might have one category for report templates and another for letter templates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete mít například jednu kategorii pro šablony sestav a druhou pro šablony dopisů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Settings&lt;/f0&gt; icon on the Templates dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Nastavení&lt;/f0&gt; ikona v dialogovém okně Šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;New category&lt;/f0&gt; on the context menu (see Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Nová kategorie&lt;/f0&gt; v místní nabídce (viz obrázek &lt;t1&gt;7&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Creating a new category</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Vytvoření nové kategorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nor can you delete categories added by the Extension Manager unless you first remove the extension that installed them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nemůžete také mazat kategorie přidané Správcem rozšíření, pokud nejprve neodstraníte rozšíření, které je nainstalovalo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete a category, click the &lt;f0&gt;Settings&lt;/f0&gt; icon, select the category from the pop-up Category list, and then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit kategorii, klikněte na ikonu &lt;f0&gt;Nastavení&lt;/f0&gt; ikonu, vyberte kategorii z rozevíracího seznamu Kategorie a potom klepněte na &lt;f1&gt;OK&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a message box appears asking you to confirm the deletion, click &lt;f2&gt;Yes&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se zobrazí okno se žádostí o potvrzení odstranění, klikněte na &lt;f2&gt;Ano&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move a template from one template category to another, select it in the Templates dialog, and click the &lt;f0&gt;Move&lt;/f0&gt; icon in the bottom center of the dialog (see Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesunout šablonu z jedné kategorie šablony do druhé, vyberte ji v dialogovém okně Šablony a klikněte na ikonu &lt;f0&gt;Přestěhovat se&lt;/f0&gt; ikona ve spodní dolní části dialogového okna (viz obrázek &lt;t1&gt;8&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the popup dialog, select the required category and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V rozbalovacím dialogovém okně vyberte požadovanou kategorii a klikněte &lt;f2&gt;OK&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Moving templates to another category</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Přesouvání šablon do jiné kategorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also rename a template if the current name does not match its purpose.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablonu můžete také přejmenovat, pokud aktuální název neodpovídá jejímu účelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To rename a template, right click a template and select &lt;f0&gt;Rename&lt;/f0&gt; in the pop up menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přejmenovat šablonu, klikněte pravým tlačítkem na šablonu a vyberte &lt;f0&gt;Přejmenovat&lt;/f0&gt; v rozbalovací nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type a name in the Enter New Name text box and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do textového pole Zadejte nový název zadejte název a klepněte na &lt;f1&gt;OK&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Templates dialog, select the category that contains the template you want to delete.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Šablony vyberte kategorii obsahující šablonu, kterou chcete odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click to open the context menu of the template and click &lt;f0&gt;Delete&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravým tlačítkem otevřete kontextovou nabídku šablony a klikněte na &lt;f0&gt;Vymazat&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To export a template to another location in your computer or network:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Export šablony do jiného umístění v počítači nebo síti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Export&lt;/f0&gt; icon in the bottom right of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Vývozní&lt;/f0&gt; ikona v pravém dolním rohu dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the folder into which you want to export the template and select &lt;f0&gt;Save&lt;/f0&gt; or &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najděte složku, do které chcete šablonu exportovat, a vyberte ji &lt;f0&gt;Uložit&lt;/f0&gt; nebo &lt;f1&gt;OK&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

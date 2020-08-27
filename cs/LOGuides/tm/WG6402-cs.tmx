@@ -1,0 +1,2550 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 2 Working with Text: Basics</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 2 Práce s textem: Základy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 2 Working with Text: Basics&lt;segment 37156 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 2 Práce s textem: Základy &lt;segment 37156 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Changing the case of selected text&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Změna velikosti písma vybraného textu &lt;/t0&gt;&lt;f1&gt; | &lt;/f1&gt;&lt;t2&gt; 23&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;22&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 2 Working with Text: Basics&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;22 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 2 Práce s textem: Základy &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 2 Working with Text: Basics&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 2 Práce s textem: Základy &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 2 Working with Text: Basics&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 0 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 2 Práce s textem: Základy&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer 6.4 Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Writer 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with Text: Basics</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce s textem: Základy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shravani Bellapukonda</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Shravani Bellapukonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John M. Długosz</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John M. Długosz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July &lt;t0&gt;2020&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci &lt;t0&gt;2020&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud1&gt;6.4&lt;/ud1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice &lt;ud1&gt;6.4&lt;/ud1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finding and replacing text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hledání a nahrazování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting non-breaking spaces and hyphens</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání neporušitelných mezer a pomlček</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravopis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling and grammar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravopis a gramatika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grammar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gramatika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Printing a list of AutoText entries</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk seznamu položek automatického textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the case of selected text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna velikosti písma vybraného textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter covers the basics of working with text in Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola se zabývá základy práce s textem ve Writeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It assumes that you are familiar with the use of a mouse and keyboard and that you have read about Writer’s menus and toolbars and other topics covered in Chapter 1, Introducing Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Předpokládá, že jste obeznámeni s používáním myši a klávesnice a že jste si přečetli nabídky a panely nástrojů Writer's a další témata popsaná v kapitole 1, Úvod do aplikace Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend that you also display formatting aids, such as end-of-paragraph marks, tabs, breaks, and other items in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Doporučujeme také zobrazovat formátovací pomůcky, jako jsou značky na konci odstavce, záložky, konce a další položky v &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Writer &gt; Formátovací pomůcky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 20, Setting up Writer, for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 20, Nastavení zapisovače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have read this chapter, you should know how to:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když jste si přečetli tuto kapitolu, měli byste vědět, jak:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select, cut, copy, paste, and move text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte, vyjměte, zkopírujte, vložte a přesuňte text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find and replace text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najít a nahradit text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert special characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte speciální znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check spelling and grammar, use the thesaurus, and choose hyphenation options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zkontrolujte pravopis a gramatiku, použijte tezaurus a vyberte možnosti dělení slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the autocorrection, word completion, autotext, and case-changing features.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používejte funkce automatické opravy, doplňování slov, automatického textu a změny velikosti písmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3 for more tools and techniques for working with text and Chapter 4 for methods of formatting text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kapitole 3 najdete další nástroje a techniky pro práci s textem a v kapitole 4 metody formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting text in Writer is similar to selecting text in other applications.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr textu v aplikaci Writer je podobný výběru textu v jiných aplikacích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can swipe the mouse cursor over text or use multiple clicks to select a word (double-click), sentence (triple-click), or paragraph (quadruple-click).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete přejet kurzorem myši po textu nebo použít více kliknutí k výběru slova (dvojité kliknutí), věty (trojité kliknutí) nebo odstavce (čtyřnásobné kliknutí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also click in the text, press &lt;f0&gt;F8&lt;/f0&gt; to enter “Extending selection” mode, and then use the arrow keys on your keyboard to select a contiguous block of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také kliknout na text a stisknout &lt;f0&gt;F8&lt;/f0&gt; přejděte do režimu „Rozšíření výběru“ a poté pomocí kláves se šipkami na klávesnici vyberte souvislý blok textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to selecting blocks of text, you can select items that are not consecutive, and columns (vertical blocks) of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě výběru bloků textu můžete vybrat položky, které nenasledují za sebou, a sloupce (svislé bloky) textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One way to change selection modes is to use the icon on the Status bar (see Chapter 1).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedním ze způsobů, jak změnit režimy výběru, je použití ikony na stavovém řádku (viz kapitola 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you right-click the icon, a context menu displays the available options: Standard selection, Extending selection (&lt;f0&gt;F8&lt;/f0&gt;), Adding selection (&lt;f1&gt;Shift+F8&lt;/f1&gt;), and Block selection (&lt;f2&gt;Ctrl+Shift+F8&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po kliknutí pravým tlačítkem na ikonu se v místní nabídce zobrazí dostupné možnosti: Standardní výběr, Rozšířený výběr ( &lt;f0&gt;F8&lt;/f0&gt; ), Přidání výběru ( &lt;f1&gt;Shift + F8&lt;/f1&gt; ) a Blokovat výběr ( &lt;f2&gt;Ctrl + Shift + F8&lt;/f2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-clicking cycles through these selections.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím levým tlačítkem procházíte těmito výběry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select nonconsecutive items (as shown in Figure &lt;t0&gt;1&lt;/t0&gt;) using the mouse in Standard selection mode:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr nenasledujících položek (jak je znázorněno na obrázku &lt;t0&gt;1&lt;/t0&gt; ) pomocí myši v režimu standardního výběru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold down the &lt;f0&gt;Ctrl &lt;/f0&gt;key and use the mouse to select the next piece of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podržte &lt;f0&gt;Ctrl&lt;/f0&gt; a pomocí myši vyberte další část textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select nonconsecutive items using the keyboard in Adding selection mode:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup výběru položek, které za sebou nesledují, pomocí klávesnice v režimu Přidávání výběru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(For more information about keyboard selection of text, see the topic “Navigating and Selecting with the Keyboard” in the LibreOffice Help (&lt;f0&gt;F1&lt;/f0&gt;).)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Další informace o výběru textu pomocí klávesnice naleznete v tématu „Navigace a výběr pomocí klávesnice“ v nápovědě k LibreOffice ( &lt;f0&gt;F1&lt;/f0&gt; ).)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Selecting items that are not next to each other</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Výběr položek, které nejsou vedle sebe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a vertical block or column of text that is separated by spaces or tabs (as you might see in text pasted from e-mails, program listings, or other sources), using LibreOffice’s block selection mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí režimu výběru bloku LibreOffice můžete vybrat svislý blok nebo sloupec textu, který je oddělen mezerami nebo tabulátory (jak můžete vidět v textu vloženém z e-mailů, výpisů programů nebo jiných zdrojů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change to block selection mode, use &lt;f0&gt;Edit &gt; Selection Mode &gt; Block Area&lt;/f0&gt;, or press &lt;f1&gt;Ctrl+F8&lt;/f1&gt;, or click the &lt;f2&gt;Selection&lt;/f2&gt; icon in the status bar and select &lt;f3&gt;Block selection&lt;/f3&gt; from the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přepnout do režimu výběru bloku, použijte &lt;f0&gt;Úpravy &gt; Režim výběru &gt; Oblast bloku&lt;/f0&gt; nebo stiskněte &lt;f1&gt;Ctrl + F8&lt;/f1&gt; nebo klikněte na ikonu &lt;f2&gt;Výběr&lt;/f2&gt; ikonu ve stavovém řádku a vyberte &lt;f3&gt;Výběr bloku&lt;/f3&gt; ze seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now you can highlight the selection, using mouse or keyboard, as shown in Figure &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní můžete zvýraznit výběr pomocí myši nebo klávesnice, jak je znázorněno na obrázku &lt;t0&gt;2&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Selecting a vertical block of text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Výběr svislého bloku textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cutting and copying text in Writer is similar to cutting and copying text in other applications.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řezání a kopírování textu ve Writeru je podobné jako řezání a kopírování textu v jiných aplikacích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can copy or move text within a document, or between documents, by dragging or by using menu selections, icons, or keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text můžete kopírovat nebo přesouvat v rámci dokumentu nebo mezi dokumenty přetažením nebo pomocí voleb nabídky, ikon nebo klávesových zkratek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move (drag and drop) selected text using the mouse, drag it to the new location and release it; the cursor changes shape while dragging.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesunout (přetáhnout) vybraný text pomocí myši, přetáhněte jej do nového umístění a uvolněte jej; kurzor při přetahování mění tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you paste text, the result depends on the source of the text and how you paste it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vkládání textu závisí výsledek na zdroji textu a na tom, jak jej vložíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you click the &lt;f0&gt;Paste&lt;/f0&gt; button, then the pasted text keeps its original formatting (such as bold or italics).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud kliknete na &lt;f0&gt;Vložit&lt;/f0&gt; tlačítko, zachová si vložený text původní formátování (například tučné písmo nebo kurzíva).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text pasted from Web sites and other sources may be placed automatically into frames or tables as part of the format when you paste.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text vložený z webů a jiných zdrojů může být při vložení automaticky umístěn do rámců nebo tabulek jako součást formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not like the results, click the &lt;f1&gt;Undo&lt;/f1&gt; button or press &lt;f2&gt;Ctrl+Z&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se vám výsledky nelíbí, klikněte na &lt;f1&gt;vrátit&lt;/f1&gt; tlačítko nebo stiskněte &lt;f2&gt;Ctrl + Z&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To&lt;bs0/&gt; make the pasted text inherit the paragraph style at the insertion point:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;bs0/&gt; aby vložený text zdědil styl odstavce v místě vložení:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the arrow on the combination &lt;f0&gt;Paste&lt;/f0&gt; button, or</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na šipku na kombinaci &lt;f0&gt;Vložit&lt;/f0&gt; tlačítko, nebo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Figure &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;for an example with text on the clipboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz obrázek &lt;t0&gt;3 &lt;/t0&gt;&lt;s1/&gt; například s textem ve schránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Paste Special menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Vložit speciální nabídku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find and replace words and phrases.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najděte a nahraďte slova a fráze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use wildcards and regular expressions to fine-tune a search (see Chapter 3).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K doladění vyhledávání použijte zástupné znaky a regulární výrazy (viz kapitola 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find and replace specific attributes or formatting (see Chapter 3).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najděte a nahraďte konkrétní atributy nebo formátování (viz kapitola 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find and replace paragraph styles (see Chapter 3).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najděte a nahraďte odstavcové styly (viz kapitola 3).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the Find toolbar is shown docked at the bottom of the LibreOffice window (just above the Status Bar) in Figure &lt;t0&gt;4&lt;/t0&gt;, but you can float it or dock it in another location.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení se panel nástrojů Najít zobrazuje ukotven ve spodní části okna LibreOffice (těsně nad stavovým řádkem) na obrázku &lt;t0&gt;4&lt;/t0&gt; , ale můžete jej plovoucí nebo ukotvit na jiném místě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on floating and docking toolbars, see Chapter 1, Introducing Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o plovoucích a dokovacích lištách nástrojů najdete v kapitole 1, Úvod do aplikace Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the Find toolbar is not visible, you can display it by choosing &lt;f1&gt;View &gt; Toolbars &gt; Find&lt;/f1&gt; on the Menu bar or by pressing &lt;f2&gt;Ctrl+F&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud panel nástrojů Najít není viditelný, můžete jej zobrazit výběrem &lt;f1&gt;Zobrazit &gt; Panely nástrojů &gt; Najít&lt;/f1&gt; na liště nabídek nebo stisknutím &lt;f2&gt;Ctrl + F&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Docked position of Find toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Ukotvená poloha panelu nástrojů Najít</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the Find toolbar, click in the text input box and type your search text, then press &lt;f0&gt;Enter&lt;/f0&gt; to find the next occurrence of that term from the current cursor position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít panel nástrojů Najít, klikněte do pole pro zadávání textu, zadejte hledaný text a stiskněte &lt;f0&gt;Enter&lt;/f0&gt; najít další výskyt daného výrazu z aktuální pozice kurzoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f1&gt;Match Case&lt;/f1&gt; to find only the instances that exactly match the use of upper and lower case letters in the search term.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f1&gt;Shodný případ&lt;/f1&gt; najít pouze instance, které přesně odpovídají použití velkých a malých písmen ve hledaném výrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the icon next to &lt;f2&gt;Match Case&lt;/f2&gt; to open the Find &amp; Replace dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu vedle &lt;f2&gt;Shodný případ&lt;/f2&gt; otevřete dialogové okno Najít a nahradit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Navigate by&lt;/f0&gt; button next to the &lt;f1&gt;Find &amp; Replace&lt;/f1&gt; button to open the Navigator and the Navigation toolbar; see Chapter 1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Navigovat podle&lt;/f0&gt; tlačítko vedle &lt;f1&gt;Najít a nahradit&lt;/f1&gt; tlačítko pro otevření navigátoru a panelu nástrojů navigace; viz kapitola 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To close the Find toolbar, click the &lt;f0&gt;X&lt;/f0&gt; button on the left, or press &lt;f1&gt;Esc&lt;/f1&gt; on the keyboard when the text cursor is in the search box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Najít zavřete kliknutím na ikonu &lt;f0&gt;X&lt;/f0&gt; tlačítko vlevo nebo stiskněte &lt;f1&gt;Esc&lt;/f1&gt; na klávesnici, když je textový kurzor ve vyhledávacím poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the Find &amp; Replace dialog, use any of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit dialogové okno Najít a nahradit, použijte některou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+H&lt;/f0&gt;,</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku &lt;f0&gt;Ctrl + H&lt;/f0&gt; ,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Edit &gt; Find &amp; Replace&lt;/f0&gt; from the Menu bar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Upravit &gt; Najít a nahradit&lt;/f0&gt; z panelu nabídek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Find &amp; Replace&lt;/f0&gt; button on the Find toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Najít a nahradit&lt;/f0&gt; tlačítko na panelu nástrojů Najít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the dialog is open, optionally click &lt;f1&gt;Other Options&lt;/f1&gt; to expand it (see Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je dialogové okno otevřené, volitelně klikněte &lt;f1&gt;Jiné možnosti&lt;/f1&gt; rozbalte (viz obrázek &lt;t2&gt;5&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extra options are shown automatically when &lt;f0&gt;CTL or Asian languages&lt;/f0&gt; have been selected in &lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; &lt;s2/&gt;Languages&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další možnosti se zobrazí automaticky, když &lt;f0&gt;CTL nebo asijské jazyky&lt;/f0&gt; byly vybrány v &lt;f1&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; &lt;s2/&gt; Jazyky&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Expanded Find &amp; Replace dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Rozšířený dialog Najít a nahradit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select various options, such as matching the case or matching whole words only.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vybrat různé možnosti, jako je shoda velkých a malých písmen nebo pouze celá slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The other options include searching only in selected text, searching from the current cursor position backwards toward the beginning of the document, searching for similar words, and searching in comments.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezi další možnosti patří hledání pouze ve vybraném textu, hledání z aktuální pozice kurzoru zpět na začátek dokumentu, hledání podobných slov a hledání v komentářích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The use of other options is described in Chapter 3.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití dalších možností je popsáno v kapitole 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have set up your search, click &lt;f0&gt;Find Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po nastavení vyhledávání klikněte na &lt;f0&gt;Najdi další&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the document view moves to each found instance, replace the text by clicking &lt;f1&gt;Replace&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jak se zobrazení dokumentu přesune na každou nalezenou instanci, nahraďte text kliknutím &lt;f1&gt;Nahradit&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you click &lt;f0&gt;Find All&lt;/f0&gt;, Writer selects all instances of the search text in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud kliknete &lt;f0&gt;Najít vše&lt;/f0&gt; „Writer vybere všechny instance hledaného textu v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, if you click &lt;f1&gt;Replace All&lt;/f1&gt;, Writer replaces all matches, without stopping for you to accept each instance.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podobně, pokud kliknete &lt;f1&gt;Vyměnit vše&lt;/f1&gt; , Writer nahradí všechny shody, aniž by se zastavil, abyste přijali každou instanci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Replace All&lt;/f0&gt; with caution; otherwise, you may end up with some highly embarrassing (and hilarious) mistakes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f0&gt;Vyměnit vše&lt;/f0&gt; s opatrností; jinak byste mohli skončit s některými velmi trapnými (a veselými) chybami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A special character is one not found on a basic English keyboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Speciální znak se nenachází na základní anglické klávesnici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert one or more special characters:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložení jednoho nebo více speciálních znaků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor in the document where you want the characters to appear.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do dokumentu tam, kde chcete, aby se znaky objevily.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Insert &gt; Special Character&lt;/f0&gt; to open the Special Characters dialog (Figure &lt;t1&gt;6&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Vložit &gt; Speciální znak&lt;/f0&gt; otevřete dialogové okno Speciální znaky (obrázek &lt;t1&gt;6&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click the characters (from any font or mixture of fonts) you wish to insert, in order; they appear in the document as you select them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poklepejte na znaky (z libovolného písma nebo směsi písem), které chcete vložit, v uvedeném pořadí; objeví se v dokumentu, jakmile je vyberete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selected characters are also added to the Recent Characters list on the lower left of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrané znaky se také přidají do seznamu Poslední znaky v levé dolní části dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Or</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nebo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the Special Character icon in the standard toolbar to open a list of favorite and recently used characters and click on the one you wish to insert.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na ikonu Speciální znak na standardním panelu nástrojů otevřete seznam oblíbených a nedávno použitých znaků a klikněte na ten, který chcete vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also open the Special Characters dialog (Figure &lt;t0&gt;6&lt;/t0&gt;) by clicking the &lt;f1&gt;More Characters&lt;/f1&gt; button on this list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také otevřít dialogové okno Speciální znaky (obrázek &lt;t0&gt;6&lt;/t0&gt; ) kliknutím na &lt;f1&gt;Více postav&lt;/f1&gt; tlačítko v tomto seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tips</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tipy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To view details of a character, single-click it; it is then shown on the right, along with its numerical codes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit podrobnosti o postavě, klikněte na ni; poté se zobrazí vpravo spolu s číselnými kódy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: The Special Characters dialog, where you can insert special characters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Dialog Speciální znaky, do kterého můžete vložit speciální znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-breaking spaces</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nerozbitné prostory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-breaking hyphen</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nerozbitná pomlčka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use a non-breaking hyphen in cases where you do not want the hyphen to appear at the end of a line, for example in a number such as 123‑4567.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Neporušující spojovník můžete použít v případech, kdy nechcete, aby se spojovník zobrazoval na konci řádku, například v čísle, jako je 123‑4567.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a non-breaking hyphen, press &lt;f0&gt;Shift+Ctrl+minus sign&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit neporušitelnou pomlčku, stiskněte &lt;f0&gt;Shift + Ctrl + znaménko minus&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are also available through &lt;f0&gt;Insert &gt; Formatting Mark&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ty jsou také k dispozici prostřednictvím &lt;f0&gt;Vložit &gt; Značka formátování&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enter en and em dashes as you type, you can use the &lt;f0&gt;Replace dashes&lt;/f0&gt; option on the Options page under &lt;f1&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li během psaní zadávat pomlčky en a em, můžete použít &lt;f0&gt;Vyměňte pomlčky&lt;/f0&gt; na stránce Možnosti pod &lt;f1&gt;Nástroje &gt; Automatické opravy &gt; Možnosti automatických oprav&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is an en-dash; that is, a dash the width of the letter “n” in the font you are using.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>je pomlčka; to znamená pomlčka na šířku písmene „n“ v písmu, které používáte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two hyphens will be &lt;t0/&gt;replaced by an em-dash.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvě spojovníky budou &lt;t0/&gt; nahrazen em-dash.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Table &lt;t0&gt;1&lt;/t0&gt;, the A and B represent text consisting of letters A to z or digits 0 to 9.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tabulce &lt;t0&gt;1&lt;/t0&gt; , A a B představují text skládající se z písmen A až z nebo číslic 0 až 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Inserting dashes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl &lt;seq0&gt;1&lt;/seq0&gt; : Vkládání pomlček</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text that you type</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text, který zadáte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A - B (A, space, hyphen, space, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A - B (A, mezera, spojovník, mezera, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A – B (A, space, en dash, space, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A - B (A, mezera, pomlčka, mezera, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A -- B (A, space, hyphen, hyphen, space, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A - B (A, mezera, spojovník, spojovník, mezera, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A--B (A, hyphen, hyphen, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A - B (A, pomlčka, pomlčka, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A—B (A, em dash, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A — B (A, em dash, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1--2 (number, hyphen, hyphen, number)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>1--2 (číslo, spojovník, spojovník, číslo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1–2 (number, en dash, number)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>1–2 (číslo, pomlčka, číslo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A-B (A, hyphen, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>AB (A, pomlčka, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A-B (unchanged)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>AB (beze změny)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A -B (A, space, hyphen, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A -B (A, mezera, spojovník, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A -B (unchanged)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A -B (beze změny)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A --B (A, space, hyphen, hyphen, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A - B (A, mezera, spojovník, spojovník, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A –B (A, space, en dash, B)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>A – B (A, mezera, pomlčka, B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Another means of inserting en and em dashes is through the &lt;f0&gt;Insert &gt; Special Characters&lt;/f0&gt; menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další způsob vkládání pomlček en a em je prostřednictvím &lt;f0&gt;Vložit &gt; Speciální znaky&lt;/f0&gt; Jídelní lístek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f1&gt;U+2013&lt;/f1&gt; or &lt;f2&gt;U+2014&lt;/f2&gt; character (found in the &lt;f3&gt;General punctuation&lt;/f3&gt; subset), respectively.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f1&gt;U + 2013&lt;/f1&gt; nebo &lt;f2&gt;U + 2014&lt;/f2&gt; znak (nalezen v &lt;f3&gt;Obecná interpunkce&lt;/f3&gt; podmnožina).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A third method uses keyboard shortcuts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Třetí metoda používá klávesové zkratky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These shortcuts vary depending on your operating system, as described below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto klávesové zkratky se liší podle operačního systému, jak je popsáno níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also record macros to insert en and em dashes and assign those macros to unused key combinations, for example &lt;f0&gt;Ctrl+Shift+N&lt;/f0&gt; and &lt;f1&gt;Ctrl+Shift+M&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také zaznamenat makra a vložit pomlčky en a em a přiřadit je například k nepoužívaným kombinacím kláves &lt;f0&gt;Ctrl + Shift + N&lt;/f0&gt; a &lt;f1&gt;Ctrl + Shift + M&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see Chapter 21, Customizing Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 21, Přizpůsobení zapisovače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For an en dash, hold down the &lt;f0&gt;Option&lt;/f0&gt; (&lt;f1&gt;Alt&lt;/f1&gt;) key and type a hyphen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro pomlčku podržte klávesu &lt;f0&gt;Volba&lt;/f0&gt; ( &lt;f1&gt;Alt&lt;/f1&gt; ) a zadejte pomlčku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For an em dash, the combination is &lt;f2&gt;Shift+Option+Hyphen&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro em pomlčku je kombinace &lt;f2&gt;Shift + Option + Pomlčka&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Okna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On most non-Asian installations of Windows, hold down one of the &lt;f0&gt;Alt&lt;/f0&gt; keys and type on the numeric keypad: 0150 for an en dash or 0151 for an em dash.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve většině jiných než asijských instalací systému Windows podržte jednu z kláves &lt;f0&gt;Alt&lt;/f0&gt; klávesy a zadejte na numerické klávesnici: 0150 pro pomlčku nebo 0151 pro pomlčku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dash appears when you release the &lt;f1&gt;Alt&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomlčka se objeví, když uvolníte &lt;f1&gt;Alt&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On a keyboard with no numeric keypad, use a &lt;f0&gt;Fn&lt;/f0&gt; (&lt;f1&gt;Function&lt;/f1&gt;) key combination to type the numbers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na klávesnici bez numerické klávesnice použijte a &lt;f0&gt;Fn&lt;/f0&gt; ( &lt;f1&gt;Funkce&lt;/f1&gt; ) pomocí kombinace kláves zadejte čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(The &lt;f2&gt;Fn&lt;/f2&gt; key is usually to the right of the left-hand &lt;f3&gt;Ctrl&lt;/f3&gt; key on the keyboard.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(The &lt;f2&gt;Fn&lt;/f2&gt; klíč je obvykle napravo od levé ruky &lt;f3&gt;Ctrl&lt;/f3&gt; na klávesnici.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, on a US keyboard layout, the combination for an en dash should be &lt;f0&gt;Alt+Fn+mjim&lt;/f0&gt; and for an em dash it should be &lt;f1&gt;Alt+Fn+mjij&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například na rozložení americké klávesnice by měla být kombinace pro pomlčku &lt;f0&gt;Alt + Fn + mjim&lt;/f0&gt; a pro em dash by to mělo být &lt;f1&gt;Alt + Fn + mjij&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hold down the &lt;f0&gt;Compose&lt;/f0&gt; key and type two hyphens and a period for an en dash, or three hyphens for an em dash.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podržte &lt;f0&gt;Komponovat&lt;/f0&gt; klíč a zadejte dvě pomlčky a tečku pro pomlčku nebo tři pomlčky pro pomlčku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dash appears when you release the &lt;f1&gt;Compose&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomlčka se objeví, když uvolníte &lt;f1&gt;Komponovat&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The key that operates as a &lt;f0&gt;Compose&lt;/f0&gt; key varies with the Linux distribution.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klíč, který funguje jako &lt;f0&gt;Komponovat&lt;/f0&gt; klíč se liší podle distribuce Linuxu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is usually one of the &lt;f1&gt;Alt&lt;/f1&gt; or &lt;f2&gt;Win&lt;/f2&gt; keys, but may be another key, and should be user-selectable.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je to obvykle jeden z &lt;f1&gt;Alt&lt;/f1&gt; nebo &lt;f2&gt;Vyhrát&lt;/f2&gt; klíče, ale může to být jiný klíč a měl by být uživatelsky volitelný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides a spelling checker, which checks to see if each word in the document is in the installed dictionary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje kontrolu pravopisu, která kontroluje, zda je každé slovo v dokumentu v nainstalovaném slovníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also provided is a grammar checker, within the Spelling dialogue, which can be enabled or disabled in the Spelling dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Pravopis je také k dispozici kontrola gramatiky, kterou lze v dialogu Pravopis povolit nebo zakázat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Automatic Spell Checking&lt;/f0&gt; checks each word as it is typed and displays a wavy red line under any unrecognized words.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Automatická kontrola pravopisu&lt;/f0&gt; zkontroluje každé slovo při jeho psaní a pod libovolnými nerozpoznanými slovy zobrazí zvlněnou červenou čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click an unrecognized word to open a context menu (Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím pravým tlačítkem na nerozpoznané slovo otevřete místní nabídku (obrázek &lt;t1&gt;7&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can click one of the suggested words to replace the underlined word with the one selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na jedno z navrhovaných slov můžete podtržené slovo nahradit vybraným.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the list does not contain the word you want, click &lt;f2&gt;Spelling&lt;/f2&gt; to open a dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud seznam neobsahuje požadované slovo, klikněte na &lt;f2&gt;Pravopis&lt;/f2&gt; otevřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Spelling context menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Pravopisné kontextové menu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable automatic checking, go to &lt;f0&gt;Tools&lt;/f0&gt; on the Menu bar and select &lt;f1&gt;Automatic Spell Checking&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li povolit automatickou kontrolu, přejděte na &lt;f0&gt;Nástroje&lt;/f0&gt; na liště nabídek a vyberte &lt;f1&gt;Automatická kontrola pravopisu&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can also be enabled on the Standard Toolbar by clicking the &lt;f2&gt;Automatic Spell Checking&lt;/f2&gt; icon (which may not be displayed on a default toolbar), or from &lt;f3&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f3&gt; and selecting &lt;f4&gt;Check spelling as you type&lt;/f4&gt; in the &lt;f5&gt;Options&lt;/f5&gt; list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze jej také povolit na standardním panelu nástrojů kliknutím na ikonu &lt;f2&gt;Automatická kontrola pravopisu&lt;/f2&gt; ikona (která se nemusí zobrazit na výchozím panelu nástrojů) nebo z &lt;f3&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Psací pomůcky&lt;/f3&gt; a výběr &lt;f4&gt;Při psaní kontrolujte pravopis&lt;/f4&gt; v &lt;f5&gt;Možnosti&lt;/f5&gt; seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the document has change tracking enabled, then the context menu contains extra options relating to changes in the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má dokument povoleno sledování změn, pak kontextová nabídka obsahuje další možnosti týkající se změn v textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The choices in the second and third sections of the menu are:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti ve druhé a třetí části nabídky jsou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ignorovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This one instance of the underlined word will be ignored while the document is open.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato jedna instance podtrženého slova bude při otevřeném dokumentu ignorována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other instances, if they exist, will still be underlined.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ostatní případy, pokud existují, budou stále podtrženy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting is not stored with the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto nastavení není u dokumentu uloženo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore All</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ignorovat vše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All instances of the word in the document will be ignored, and the word will be added to the &lt;f0&gt;IgnoreAllList&lt;/f0&gt; user-defined dictionary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny instance slova v dokumentu budou ignorovány a slovo bude přidáno do &lt;f0&gt;IgnoreAllList&lt;/f0&gt; uživatelsky definovaný slovník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidat do slovníku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The word is added by default to the &lt;f0&gt;Standard&lt;/f0&gt; dictionary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Slovo je standardně přidáno do &lt;f0&gt;Standard&lt;/f0&gt; slovník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This opens the &lt;f0&gt;Spelling&lt;/f0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se otevře &lt;f0&gt;Pravopis&lt;/f0&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the explanations for this below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Níže naleznete vysvětlení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Always correct to</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vždy opravte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting this opens the submenu, which repeats the suggestions for the word from the top section listing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vyberete toto, otevře se podnabídka, která opakuje návrhy slova ze seznamu v horní části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting a replacement word here stores the word pair in the replacement &lt;t0/&gt;table under &lt;f1&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options &gt; Replacement&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud zde vyberete náhradní slovo, uloží se pár slov do nahrazení &lt;t0/&gt; stůl pod &lt;f1&gt;Nástroje &gt; Automatické opravy &gt; Možnosti automatických oprav &gt; Výměna&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The underlined word is replaced with the selected word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podtržené slovo je nahrazeno vybraným slovem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoCorrect Options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti automatických oprav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the AutoCorrect Options dialog (see page &lt;bf0&gt;19&lt;/bf0&gt;), where you can add your own corrections or change those supplied with LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevírá dialog Možnosti automatických oprav (viz strana &lt;bf0&gt;19&lt;/bf0&gt; ), kde můžete přidat své vlastní opravy nebo změnit opravy dodané s LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the fourth section of the context menu, you can set language settings for the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve čtvrté části kontextové nabídky můžete nastavit jazyková nastavení textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These settings can be applied to the selection, or to the paragraph containing the selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato nastavení lze použít na výběr nebo na odstavec obsahující výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To perform a combined spelling and grammar check on the document (or a text selection), select &lt;f0&gt;Tools &gt; Spelling&lt;/f0&gt; or click the &lt;f1&gt;Spelling&lt;/f1&gt; button on the Standard toolbar, or press &lt;f2&gt;F7&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li v dokumentu provést kombinovanou kontrolu pravopisu a gramatiky (nebo výběr textu), vyberte &lt;f0&gt;Nástroje &gt; Pravopis&lt;/f0&gt; nebo klikněte na &lt;f1&gt;Pravopis&lt;/f1&gt; tlačítko na panelu nástrojů Standardní nebo stiskněte &lt;f2&gt;F7&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to use this feature, the appropriate dictionaries must be installed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aby bylo možné tuto funkci používat, musí být nainstalovány příslušné slovníky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Spelling tool checks either the document from the cursor point onwards, or the text selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroj Kontrola pravopisu kontroluje buď dokument od bodu kurzoru, nebo výběr textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It opens the Spelling dialog box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se dialogové okno Pravopis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If any unrecognized words are found, or if any of the built-in grammar rules are broken,you can choose to restart from the beginning of the document when the check reaches the end of the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou nalezena nerozpoznaná slova nebo jsou porušena některá pravidla integrované gramatiky, můžete se rozhodnout restartovat od začátku dokumentu, jakmile kontrola dosáhne konce dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Spelling alert using the Spelling dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Upozornění na pravopis pomocí dialogu Pravopis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The elements of the Spelling dialog are as follows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Prvky dialogového okna Pravopis jsou následující.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The language to be used for the spelling checking can be selected from this list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jazyk, který se má použít pro kontrolu pravopisu, lze vybrat z tohoto seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the spell check is enabled for this language, a check mark is displayed in front of it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je pro tento jazyk povolena kontrola pravopisu, zobrazí se před ním zaškrtnutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not in dictionary</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Není ve slovníku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sentence containing the error is displayed in the pane.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V podokně se zobrazí věta obsahující chybu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an unrecognized word is found, it is highlighted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je nalezeno nerozpoznané slovo, je zvýrazněno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the error is grammatical, then it is indicated in a pale colored bar below the &lt;f0&gt;Text language&lt;/f0&gt; setting (Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je chyba gramatická, je uvedena v bledém pruhu pod znakem &lt;f0&gt;Jazyk textu&lt;/f0&gt; nastavení (obr &lt;t1&gt;10&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sentence or the word can be edited in the pane.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vetu nebo slovo lze upravit v podokně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Suggestions</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Návrhy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The box contains suggested replacements for the highlighted word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole obsahuje navrhovaná nahrazení zvýrazněného slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a word and then select &lt;f0&gt;Correct&lt;/f0&gt; or &lt;f1&gt;Correct All&lt;/f1&gt; to replace it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte slovo a poté vyberte &lt;f0&gt;Opravit&lt;/f0&gt; nebo &lt;f1&gt;Opravit vše&lt;/f1&gt; vyměnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For grammatical errors there is no multiple choice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro gramatické chyby neexistuje výběr z několika možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Change&lt;/f0&gt; to accept the suggestion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Změna&lt;/f0&gt; přijmout návrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore Once, Ignore All, and Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ignorovat jednou, Ignorovat vše a Přidat do slovníku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking one of these buttons has the same effect as the item in the context menu described above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepnutí na jedno z těchto tlačítek má stejný účinek jako položka v kontextové nabídce popsané výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore Rule</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ignorovat pravidlo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checking grammar, you can choose to ignore the suggested change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při kontrole gramatiky můžete navrhovanou změnu ignorovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Correct</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opravit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces the unknown word with the suggested word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nahradí neznámé slovo navrhovaným slovem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the sentence was edited, the whole sentence is changed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byla věta upravena, změní se celá věta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For grammar, the suggested replacement is used to correct the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U gramatiky se k opravě textu používá navrhovaná náhrada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Correct All</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opravit vše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This replaces all instances of the word with the selected replacement word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se nahradí všechny instance slova vybraným nahrazujícím slovem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not available for grammar checking.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Není k dispozici pro kontrolu gramatiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Always Correct</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vždy správně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This behaves in a similar fashion to &lt;f0&gt;AutoCorrect&lt;/f0&gt; described above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To se chová podobným způsobem jako &lt;f0&gt;Automatické opravy&lt;/f0&gt; popsáno výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>vrátit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This button is enabled when a change has been made to the sentence, so you can reverse the change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto tlačítko je aktivní, když došlo ke změně věty, takže můžete změnu obrátit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The button is not available if you use a &lt;f0&gt;Correct&lt;/f0&gt; button to replace a word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tlačítko není k dispozici, pokud používáte a &lt;f0&gt;Opravit&lt;/f0&gt; tlačítko k nahrazení slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click this to open the Options dialog where you can select user-defined dictionaries and set the spell checking rules.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepnutím na toto tlačítko otevřete dialogové okno Možnosti, kde můžete vybrat uživatelsky definované slovníky a nastavit pravidla kontroly pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, &lt;f0&gt;Check grammar as you type&lt;/f0&gt; is enabled in &lt;f1&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids &gt; Options&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím stavu, &lt;f0&gt;Při psaní kontrolujte gramatiku&lt;/f0&gt; je povolen v &lt;f1&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Psací pomůcky &gt; Možnosti&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic Spell Checking must be enabled for this to work.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aby to fungovalo, musí být povolena automatická kontrola pravopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If any errors are detected, they are shown underlined by a wavy blue line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou zjištěny jakékoli chyby, zobrazí se podtržené modrou vlnovkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-clicking on this line brings up a context menu which may be similar to one of those shown in Figure &lt;t0&gt;9&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím pravým tlačítkem na tento řádek se zobrazí kontextová nabídka, která může být podobná nabídce zobrazené na obrázku &lt;t0&gt;9&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first entry in the menu describes the suspected broken grammatical rule.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>První položka v nabídce popisuje podezření na porušené gramatické pravidlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The second menu item in the left example is &lt;f0&gt;Explanations&lt;/f0&gt;, which opens your browser to a web page offering more information about the error.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Druhá položka nabídky v levém příkladu je &lt;f0&gt;Vysvětlení&lt;/f0&gt; , který otevře váš prohlížeč na webové stránce nabízející více informací o chybě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This entry is not always present in the context menu, as seen in the right example.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato položka není vždy přítomna v místní nabídce, jak je vidět na správném příkladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Typical context menus for suspected grammar errors</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Typické kontextové nabídky pro podezření na gramatické chyby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the second section of the menu is the suggested correction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve druhé části nabídky je navrhovaná oprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking this changes the text to the suggestion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na toto změníte text na návrh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The example to the right appears blank, but clicking here removes the extra space causing the error.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad vpravo se jeví prázdný, ale kliknutím sem odstraníte další prostor způsobující chybu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the third section of the menu you can choose to ignore the indicated error, or to open the Spelling and Grammar checker, shown in Figure &lt;t0&gt;10&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve třetí části nabídky se můžete rozhodnout ignorovat uvedenou chybu nebo otevřít kontrolu pravopisu a gramatiky, která je znázorněna na obrázku &lt;t0&gt;10&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The example displays the URL that will take you to more information on the error indicated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V příkladu je zobrazena adresa URL, která vás přesměruje na další informace o uvedené chybě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the final section of the menu, you can set the language for the selection or the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závěrečné části nabídky můžete nastavit jazyk výběru nebo odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Dialog showing the URL for expanded explanation</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Dialog zobrazující URL pro rozšířené vysvětlení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional grammar checking rules can be selected through &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; English sentence checking&lt;/f0&gt;, or through &lt;f1&gt;Tools &gt; Extension Manager &gt; English spelling dictionaries &gt; Options&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další pravidla kontroly gramatiky lze vybrat prostřednictvím &lt;f0&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Kontrola vět v angličtině&lt;/f0&gt; nebo prostřednictvím &lt;f1&gt;Nástroje &gt; Správce rozšíření &gt; Anglické pravopisné slovníky &gt; Možnosti&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Language Settings &gt; English Sentence Checking&lt;/f0&gt; page, you can choose which items are checked for, reported to you, or converted automatically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Nastavení jazyka &gt; Kontrola věty v angličtině&lt;/f0&gt; Na stránce můžete zvolit, které položky budou zkontrolovány, nahlášeny vám nebo automaticky převedeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Additional grammar checking options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Další možnosti kontroly gramatiky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks for errors such as &lt;f0&gt;with it's&lt;/f0&gt;, &lt;f1&gt;he don't&lt;/f1&gt;, &lt;f2&gt;this things&lt;/f2&gt; and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zkontroluje chyby jako &lt;f0&gt;s tím&lt;/f0&gt; , &lt;f1&gt;on ne&lt;/f1&gt; , &lt;f2&gt;tyhle věci&lt;/f2&gt; a tak dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks for all word duplication, rather than just the default words 'and', 'or', 'for' and 'the'.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zkontroluje duplikaci všech slov, nikoli pouze výchozí slova 'a', 'nebo', 'pro' a 'the'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Checks for correct pairing of parentheses and quotation marks.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zkontroluje správné párování závorek a uvozovek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It checks for single spaces between words, indicating instances of double or triple spaces.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kontroluje jednotlivé mezery mezi slovy a označuje instance dvojitých nebo trojitých mezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To find and correct longer groups of spaces, you need to run the checker more than once.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vyhledat a opravit delší skupiny mezer, musíte spustit kontrolu více než jednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This checks that double quotation marks are typographically correct—that is, beginning [“] and ending [”] quotation marks curve in the correct directions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se zkontroluje, zda jsou dvojité uvozovky typograficky správné - to znamená, že počáteční [“] a koncová [“] křivka uvozovek je ve správných směrech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replaces an apostrophe with the correct (curved) typographical character.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nahradí apostrof správným (zakřiveným) typografickým znakem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This feature provides for different punctuation conventions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato funkce poskytuje různé interpunkční konvence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Converts quantities in a given type of unit to quantities in the other type of unit.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Převede množství v daném typu jednotky na množství v jiném typu jednotky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the locale setting for the document, converts a number with five or more significant digits to either use a comma as a thousands separator or the ISO format, which uses a narrow space as a separator.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na národním nastavení dokumentu převede číslo s pěti nebo více platnými číslicemi, aby buď použila čárku jako oddělovač tisíců, nebo formát ISO, který jako oddělovač používá úzký prostor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access a short list of synonyms from a context menu (Figure &lt;t0&gt;12&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Krátký seznam synonym lze otevřít z místní nabídky (obrázek &lt;t0&gt;12&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click a word and point to &lt;f0&gt;Synonyms&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na slovo a přejděte na &lt;f0&gt;Synonyma&lt;/f0&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click a word or phrase in the submenu to have it replace the highlighted word or phrase in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na slovo nebo sousloví v podnabídce nahradíte zvýrazněné slovo nebo sousloví v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Synonyms on the context menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Synonyma v místní nabídce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the thesaurus:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití tezauru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click a word, point to &lt;f0&gt;Synonyms&lt;/f0&gt; in the content menu, then click &lt;f1&gt;Thesaurus&lt;/f1&gt; from the Synonyms submenu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na slovo, přejděte na &lt;f0&gt;Synonyma&lt;/f0&gt; v nabídce obsahu klikněte na &lt;f1&gt;Tezaurus&lt;/f1&gt; z podnabídky Synonyma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Thesaurus dialog (shown in Figure &lt;t0&gt;13&lt;/t0&gt;), click a word or phrase n the list of meanings to select it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Tezaurus (zobrazeno na obrázku &lt;t0&gt;13&lt;/t0&gt; ), vyberte slovo nebo frázi v seznamu významů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Replace&lt;/f0&gt; to make the substitution.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Nahradit&lt;/f0&gt; provést střídání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, when given the word &lt;f0&gt;house&lt;/f0&gt;, the thesaurus offers several meanings, including &lt;f1&gt;dwelling&lt;/f1&gt;, &lt;f2&gt;legislature&lt;/f2&gt;, &lt;f3&gt;sign of the zodiac&lt;/f3&gt;, and others.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například, když dostal slovo &lt;f0&gt;Dům&lt;/f0&gt; tezaurus nabízí několik významů, včetně &lt;f1&gt;obydlí&lt;/f1&gt; , &lt;f2&gt;zákonodárce&lt;/f2&gt; , &lt;f3&gt;znamení&lt;/f3&gt; , a další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a replacement word from the list under the relevant meaning, so for &lt;f4&gt;dwelling&lt;/f4&gt;, you will see &lt;f5&gt;dwelling&lt;/f5&gt;, &lt;f6&gt;home&lt;/f6&gt;, &lt;f7&gt;domicile&lt;/f7&gt;, abode, and other alternatives.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte náhradní slovo ze seznamu pod příslušným významem, tedy pro &lt;f4&gt;obydlí&lt;/f4&gt; , uvidíš &lt;f5&gt;obydlí&lt;/f5&gt; , &lt;f6&gt;Domov&lt;/f6&gt; , &lt;f7&gt;bydliště&lt;/f7&gt; , bydliště a další alternativy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: The thesaurus offers alternatives to words</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Tezaurus nabízí alternativy ke slovům</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have several choices regarding hyphenation: let Writer do it automatically (using its hyphenation dictionaries), insert conditional (soft) hyphens manually where necessary, or do not hyphenate at all.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Máte několik možností týkajících se dělení slov: nechte Writer to udělat automaticky (pomocí jeho slovníků dělení), v případě potřeby vložte podmíněné (měkké) pomlčky ručně, nebo ne dělejte vůbec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each choice has its pros and cons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každá volba má své klady a zápory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option over-rides the &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; choices described on the next page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost over-rides the &lt;f0&gt;Nástroje &gt; Možnosti&lt;/f0&gt; možnosti popsané na další stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Styles&lt;/f0&gt; tab in the Sidebar to open the Styles deck.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Styly&lt;/f0&gt; karta v postranním panelu otevřete balíček Styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f1&gt;Paragraph Styles&lt;/f1&gt; list, right-click &lt;f2&gt;Default Style&lt;/f2&gt; and select &lt;f3&gt;Modify&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f1&gt;Styly odstavců&lt;/f1&gt; seznamu, klepněte pravým tlačítkem &lt;f2&gt;Výchozí styl&lt;/f2&gt; a vyberte &lt;f3&gt;Upravit&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Modifying a paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Úprava stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Paragraph Style dialog, select the &lt;f0&gt;Text Flow&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Styl odstavce vyberte ikonu &lt;f0&gt;Tok textu&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Turning on automatic hyphenation</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Zapnutí automatického dělení slov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turning on hyphenation for the &lt;f0&gt;Default Style&lt;/f0&gt; paragraph style affects all other paragraph styles that are based on &lt;f1&gt;Default Style&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zapnutí dělení slov pro &lt;f0&gt;Výchozí styl&lt;/f0&gt; styl odstavce ovlivňuje všechny ostatní odstavcové styly, na kterých je založen &lt;f1&gt;Výchozí styl&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any styles that are not based on &lt;f2&gt;Default Style&lt;/f2&gt; are not affected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakékoli styly, které nejsou založeny na &lt;f2&gt;Výchozí styl&lt;/f2&gt; nejsou ovlivněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more on paragraph styles, see Chapters 8 and 9 in this book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Více o odstavcových stylech najdete v kapitolách 8 a 9 v této knize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set hyphenation settings in &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Writing Aids&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení dělení slov můžete provést v &lt;f0&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Psací pomůcky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These choices apply when there is no specific setting in a paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto možnosti se použijí, pokud ve stylu odstavce neexistuje žádné konkrétní nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Setting hyphenation options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : Nastavení možností dělení slov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the minimum number of characters for hyphenation, or the minimum number of characters before or after a line break, select the item, and then click the &lt;f0&gt;Edit&lt;/f0&gt; button in the Options section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit minimální počet znaků pro dělení slov nebo minimální počet znaků před nebo po zalomení řádku, vyberte položku a klepněte na &lt;f0&gt;Upravit&lt;/f0&gt; tlačítko v části Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyphenate without inquiry</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dělit bez dotazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specifies that you will never be asked to manually hyphenate words that the hyphenation dictionary does not recognize.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Určuje, že od vás nikdy nebude požadováno ruční dělení slov, která slovník dělení nerozpozná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this box is not selected, when a word is not recognized, a dialog will open where you can manually enter hyphens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud toto políčko není zaškrtnuto, pokud slovo není rozpoznáno, otevře se dialogové okno, kde můžete ručně zadat pomlčky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyphenate special regions</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělte speciální oblasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specifies that hyphenation will also be carried out in footnotes, headers, and footers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Určuje, že dělení slov bude prováděno také v poznámkách pod čarou, záhlaví a zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyphenation options set in the &lt;f0&gt;Writing Aids&lt;/f0&gt; dialog are effective only if hyphenation is turned on through paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti dělení slov nastavené v &lt;f0&gt;Psací pomůcky&lt;/f0&gt; dialogová okna jsou účinná, pouze pokud je dělení slov zapnuto pomocí stylů odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To manually hyphenate words, &lt;f0&gt;do not&lt;/f0&gt; use a normal hyphen, which will remain visible even if the word is no longer at the end of a line when you add or delete text or change margins or font size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li ručně rozdělit slova, &lt;f0&gt;ne&lt;/f0&gt; použijte normální pomlčku, která zůstane viditelná, i když slovo již nebude na konci řádku, když přidáte nebo odstraníte text nebo změníte okraje nebo velikost písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, use a &lt;f1&gt;soft hyphen&lt;/f1&gt;, which is visible only when required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Místo toho použijte a &lt;f1&gt;měkká pomlčka&lt;/f1&gt; , který je viditelný pouze v případě potřeby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a soft hyphen inside a word, click where you want the hyphen to appear and press &lt;f0&gt;Ctrl+hyphen&lt;/f0&gt; or use &lt;f1&gt;Insert &gt; Formatting Mark &gt; Insert soft Hyphen&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li do slova vložit pomlčku, klikněte na místo, kde se má pomlčka zobrazit, a stiskněte &lt;f0&gt;Ctrl + pomlčka&lt;/f0&gt; nebo použít &lt;f1&gt;Vložit &gt; Formátovací značka &gt; Vložit měkký spojovník&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer’s AutoCorrect function includes a long list of common misspellings and typing errors, which it corrects automatically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce AutoCorrect pro autory obsahuje dlouhý seznam běžných překlepů a chyb při psaní, které automaticky opravuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also includes codes for inserting special characters, emoji, and other symbols..</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zahrnuje také kódy pro vkládání speciálních znaků, emodži a dalších symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0/&gt;You may wish to disable some of its features, modify others, or turn it off completely.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;s0/&gt; Možná budete chtít některé z jeho funkcí deaktivovat, jiné upravit nebo úplně vypnout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt; to open the AutoCorrect dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Nástroje &gt; Automatické opravy &gt; Možnosti automatických oprav&lt;/f0&gt; otevřete dialogové okno Automatické opravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f1&gt;Replace&lt;/f1&gt; tab, you can define what strings of text are corrected and how.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f1&gt;Nahradit&lt;/f1&gt; Na záložce můžete definovat, jaké řetězce textu se opraví a jak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Replace tab of AutoCorrect dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Nahradit kartu v dialogovém okně Automatické opravy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4, Formatting Text: Basics, for discussion of the Options and Localized Options pages of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kapitole 4, Formátování textu: Základní informace, najdete diskusi o stránkách Možnosti a Lokalizované možnosti v dialogovém okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Customizing word completion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;18&lt;/seq0&gt; : Přizpůsobení dokončování slov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can customize word completion from the &lt;f0&gt;Word Completion&lt;/f0&gt; page of the AutoCorrect dialog (Figure &lt;t1&gt;18&lt;/t1&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dokončení slov můžete upravit z &lt;f0&gt;Dokončení slov&lt;/f0&gt; stránka dialogu Automatické opravy (obrázek &lt;t1&gt;18&lt;/t1&gt; ):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the key that accepts a suggested entry; the options are &lt;f0&gt;right arrow&lt;/f0&gt;, &lt;f1&gt;End&lt;/f1&gt; key,&lt;f2&gt; Enter&lt;/f2&gt; (&lt;f3&gt;Return&lt;/f3&gt;), &lt;f4&gt;Space bar&lt;/f4&gt;, and &lt;f5&gt;Tab&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změňte klíč, který přijímá navrhovaný záznam; možnosti jsou &lt;f0&gt;šipka vpravo&lt;/f0&gt; , &lt;f1&gt;Konec&lt;/f1&gt; klíč, &lt;f2&gt;Enter&lt;/f2&gt; ( &lt;f3&gt;Vrátit se&lt;/f3&gt; ), &lt;f4&gt;Mezerník&lt;/f4&gt; , a &lt;f5&gt;Tab&lt;/f5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic word completion occurs only after you type a word for the second time in a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K automatickému dokončování slov dochází až po druhém zadání slova v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use AutoText to store text, tables, fields, graphics, and other items for reuse and assign them to a key combination for easy retrieval.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí automatického textu můžete ukládat text, tabulky, pole, grafiku a další položky k opětovnému použití a přiřadit je ke kombinaci kláves pro snadné vyhledání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see Chapter 17, Fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 17, Pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; AutoText&lt;/f0&gt; (or press &lt;f1&gt;Ctrl+F3&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do &lt;f0&gt;Nástroje &gt; Automatický text&lt;/f0&gt; (nebo stiskněte &lt;f1&gt;Ctrl + F3&lt;/f1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the AutoText dialog (Figure &lt;t0&gt;19&lt;/t0&gt;), type a name for the AutoText in the &lt;f1&gt;Name&lt;/f1&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Automatický text (obrázek &lt;t0&gt;19&lt;/t0&gt; ), zadejte název automatického textu do &lt;f1&gt;název&lt;/f1&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;AutoText&lt;/f0&gt; button at the bottom of the dialog and select from the menu either &lt;f1&gt;New&lt;/f1&gt; (to have the AutoText retain specific formatting, no matter where it is inserted) or &lt;f2&gt;New (text only)&lt;/f2&gt; (to have the AutoText take on the existing formatting around the insertion point).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Automatický text&lt;/f0&gt; tlačítko v dolní části dialogového okna a vyberte buď z nabídky &lt;f1&gt;Nový&lt;/f1&gt; (aby automatický text zachoval konkrétní formátování bez ohledu na to, kde je vložen) nebo &lt;f2&gt;Nové (pouze text)&lt;/f2&gt; (aby automatický text převzal existující formátování kolem kurzoru).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the only option under the &lt;f0&gt;AutoText&lt;/f0&gt; button is &lt;f1&gt;Import&lt;/f1&gt;, either you have not entered a name for your AutoText or there is no text selected in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je jedinou možností v rámci &lt;f0&gt;Automatický text&lt;/f0&gt; tlačítko je &lt;f1&gt;Import&lt;/f1&gt; , buď jste nezadali název automatického textu, nebo v dokumentu není vybrán žádný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Defining a new AutoText entry</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;19&lt;/seq0&gt; : Definování nové položky automatického textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To save a table as AutoText:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup uložení tabulky jako automatického textu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a table and format it the way you want.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte tabulku a naformátujte ji tak, jak chcete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type a name for the AutoText, optionally amend the suggested shortcut, and choose the category for the AutoText entry.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte název automatického textu, volitelně upravte navrhovanou zkratku a vyberte kategorii pro položku automatického textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;AutoText&lt;/f0&gt; button and select &lt;f1&gt;New&lt;/f1&gt; (because you want the formatting of the table preserved).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Automatický text&lt;/f0&gt; tlačítko a vyberte &lt;f1&gt;Nový&lt;/f1&gt; (protože chcete zachovat formátování tabulky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To print a list of AutoText entries:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk seznamu položek automatického textu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Tools &gt; Macros &gt; Organize Macros &gt; Basic&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Nástroje &gt; Makra &gt; Uspořádat makra &gt; Základní&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Macro From&lt;/f0&gt; list, find and expand &lt;f1&gt;Gimmicks&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Makro z&lt;/f0&gt; seznam, vyhledejte a rozbalte &lt;f1&gt;Triky&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;AutoText&lt;/f0&gt; and then click &lt;f1&gt;Run&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Automatický text&lt;/f0&gt; a poté klikněte &lt;f1&gt;Běh&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A list of the current AutoText entries is generated in a separate text document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznam aktuálních položek automatického textu je generován v samostatném textovém dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then print this document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté můžete tento dokument vytisknout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Basic Macros dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;20&lt;/seq0&gt; : Základní dialog Makra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly change the case of text, select it, choose &lt;f0&gt;Format &gt; Text&lt;/f0&gt; on the Menu bar, and then choose one of the following:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle změnit velká a malá písmena textu, vyberte jej a zvolte &lt;f0&gt;Formát &gt; Text&lt;/f0&gt; na liště nabídek a poté vyberte jednu z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UPPER CASE, where all letters are capitalized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>HORNÍ PŘÍPAD, kde jsou všechna písmena velká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lower case, where no words (except proper nouns) are capitalized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>malá písmena, kde žádná slova (kromě vlastních podstatných jmen) nejsou velká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cycle Case, which cycles the selected words through upper case, lower case, and capitalize every word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Cyklus velkých písmen, který cykluje vybraná slova malými a velkými písmeny a velká písmena každého slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence case, where only the first word is capitalized (together with any proper nouns).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Věta, kde je pouze první slovo psáno velkými písmeny (spolu se všemi podstatnými jmény).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Capitalize Every Word, where every word is capitalized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velká písmena každého slova, kde každé slovo je velké.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>tOGGLE cASE, which changes every letter to the opposite case.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>tOGGLE cASE, která změní každé písmeno na opačnou velikost písmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are also several options that are used with Asian text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Existuje také několik možností, které se používají s asijským textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are not strictly “case” changes, but are lumped together in the broader sense of replacing characters with different forms of the same letter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejedná se o striktně „případové“ změny, ale jsou soustředěny dohromady v širším smyslu nahrazení znaků různými formami stejného písmene.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These options are hidden when Asian language support is not enabled.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto možnosti jsou skryté, pokud není povolena podpora asijských jazyků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer does not have an automated way to do Title Case, where all words are capitalized except for certain subsets defined by rules that are not universally standardized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer nemá automatizovaný způsob, jak dělat velká písmena, kde jsou všechna slova velká, s výjimkou určitých podmnožin definovaných pravidly, která nejsou univerzálně standardizovaná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To achieve this affect, you can use &lt;f0&gt;Capitalize Every Word&lt;/f0&gt; and then restore those words that were incorrectly capitalized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K dosažení tohoto vlivu můžete použít &lt;f0&gt;Každé slovo psát velkými písmeny&lt;/f0&gt; a poté obnovte slova, která byla nesprávně velká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also change the case of text using the Character dialog or a character style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velikost textu můžete změnit také pomocí dialogu Znaky nebo znakového stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Format &gt; Character&lt;/f0&gt;, click the &lt;f1&gt;Font Effects&lt;/f1&gt; tab, then select the type of capitalization in the Effects box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Formát &gt; Znak&lt;/f0&gt; , klikněte na &lt;f1&gt;Efekty písma&lt;/f1&gt; Klepněte na kartu a poté vyberte typ velkých písmen v poli Efekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f2&gt;Capitals&lt;/f2&gt; capitalizes all letters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f2&gt;Kapitály&lt;/f2&gt; všechna písmena velká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f3&gt;Title&lt;/f3&gt; capitalizes the first letter of each word.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f3&gt;Titul&lt;/f3&gt; velká písmena prvního písmene každého slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f4&gt;Small capitals&lt;/f4&gt; capitalizes all letters, but in a reduced font size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f4&gt;Malá hlavní města&lt;/f4&gt; velká písmena všechna písmena, ale ve zmenšené velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Format &gt; Text&lt;/f0&gt; menu also includes several manual formatting options, incuding bold, italics, superscript, and others.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Formát &gt; Text&lt;/f0&gt; nabídka obsahuje také několik možností ručního formátování, včetně tučného písma, kurzívy, horního indexu a dalších.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are discussed elsewhere in this book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ty jsou diskutovány jinde v této knize.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

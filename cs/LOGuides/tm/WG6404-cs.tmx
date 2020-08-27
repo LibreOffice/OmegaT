@@ -1,0 +1,2326 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 4 Formatting Text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 4 Formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 4 Formatting Text&lt;segment 38295 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 4 Formátování textu &lt;segment 38295 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Formatting numbered or bulleted lists&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Formátování číslovaných seznamů nebo seznamů s odrážkami &lt;/t0&gt;&lt;f1&gt; | &lt;/f1&gt;&lt;t2&gt; 21&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 4 Formatting Text&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;4 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 4 Formátování textu &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 4 Formatting Text&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 4 Formátování textu &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 4 Formatting Text&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 0 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 4 Formátování textu&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce pro spisovatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting Text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may distribute it and/or modify it under the terms of either the GNU General Public License (&lt;a0&gt;http://www.gnu.org/licenses/gpl.html&lt;/a0&gt;), version 3 or later, or the Creative Commons Attribution License (&lt;a1&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a1&gt;), version 4.0 or later.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete jej šířit a / nebo upravovat podle podmínek GNU General Public License ( &lt;a0&gt;http://www.gnu.org/licenses/gpl.html&lt;/a0&gt; ), verze 3 nebo novější, nebo licence Creative Commons Attribution ( &lt;a1&gt;http://creativecommons.org/licenses/by/4.0/&lt;/a1&gt; ), verze 4.0 nebo novější. &lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shravani Bellapukonda</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Shravani Bellapukonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>John M. Długosz</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>John M. Długosz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July &lt;t0&gt;2020&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci &lt;t0&gt;2020&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;T&lt;/a0&gt;&lt;a1&gt;o previous editions&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;T &lt;/a0&gt;&lt;a1&gt; o předchozí vydání&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removing manual formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odebrání ručního formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alignment options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti zarovnání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line and paragraph spacing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádkování a řádkování odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph indentation</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odsazení odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph background color</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barva pozadí odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings on the Paragraph dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení v dialogu Odstavec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drop caps</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uzávěry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transparency</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průhlednost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Flow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tok textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Outline &amp; Numbering</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přehled a číslování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font name, size, and effects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název písma, velikost a efekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings on the Character dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení v dialogu Znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font and Font Effects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Písmo a efekty písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyperlink</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hypertextový odkaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting numbered or bulleted lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování číslovaných seznamů nebo seznamů s odrážkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Bullets and Numbering palettes on the Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používání palet odrážek a číslování na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí dialogu Odrážky a číslování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter covers the basics of formatting text in Writer, the word-processing component of LibreOffice:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola popisuje základy formátování textu v Writeru, součásti textového editoru LibreOffice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting paragraphs and characters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování odstavců a znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using autoformatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí automatického formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating bulleted, numbered, and outline lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření seznamů s odrážkami, číslováním a obrysy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It assumes that you are familiar with the text techniques described in Chapter 2, Working with Text: Basics and Chapter 3, Working with Text: Advanced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Předpokládá, že jste obeznámeni s textovými technikami popsanými v kapitole 2, Práce s textem: Základy a Kapitola 3, Práce s textem: Pokročilé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We recommend that you also follow the suggestions in Chapter 20, Setting up Writer, about displaying formatting aids, such as end-of-paragraph marks, and selecting other setup options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Doporučujeme také dodržovat doporučení v kapitole 20, Nastavení zapisovače, týkající se zobrazování formátovacích pomůcek, jako jsou značky na konci odstavce, a výběru dalších možností nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page formatting is covered in Chapters 5 and 6.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování stránky je popsáno v kapitolách 5 a 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Styles enable you to easily format your documents consistently, and to change the format with minimal effort.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly umožňují snadné konzistentní formátování dokumentů a změnu formátu s minimálním úsilím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, the use of paragraph styles is highly recommended as an alternative to manually formatting paragraphs, especially for long or standardized documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proto se jako alternativa k ručnímu formátování odstavců velmi doporučuje použití odstavcových stylů, zejména u dlouhých nebo standardizovaných dokumentů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The use of character styles instead of manually formatting individual words is also highly recommended.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Důrazně se také doporučuje používat znakové styly místo ručního formátování jednotlivých slov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For information on styles and how to use them, see Chapters 8 and 9 in this book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o stylech a jejich použití naleznete v kapitolách 8 a 9 v této knize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Applying styles is quick and easy using the Styles and Formatting deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití stylů je rychlé a snadné pomocí palety Styly a formátování v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove manual formatting, select the text and choose &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; from the Menu bar, or click the &lt;f1&gt;Clear Direct Formatting&lt;/f1&gt; icon on the Formatting toolbar, or use &lt;f2&gt;Ctrl+M&lt;/f2&gt; from the keyboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit ruční formátování, vyberte text a vyberte &lt;f0&gt;Formát &gt; Vymazat přímé formátování&lt;/f0&gt; z řádku nabídek nebo klikněte na ikonu &lt;f1&gt;Vymazat přímé formátování&lt;/f1&gt; ikonu na panelu nástrojů Formátování nebo použijte &lt;f2&gt;Ctrl + M&lt;/f2&gt; z klávesnice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When clearing direct formatting, the text format returns to the applied paragraph style and not the default paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vyčištění přímého formátování se textový formát vrátí na použitý styl odstavce, nikoli na výchozí styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can apply many formats to paragraphs using the icons on the Formatting toolbar and on the Paragraph panel of the Sidebar’s Properties deck (&lt;f0&gt;View &gt; Sidebar&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnoho odstavců můžete použít na odstavce pomocí ikon na panelu nástrojů Formát a na panelu Odstavec na panelu Vlastnosti postranního panelu ( &lt;f0&gt;Zobrazit &gt; Postranní panel&lt;/f0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not all toolbar icons are visible in a standard installation, but you can customize the toolbar to include those you use regularly (see Chapter 1, Introducing Writer).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve standardní instalaci nejsou viditelné všechny ikony panelu nástrojů, ale můžete panel nástrojů přizpůsobit tak, aby zahrnoval i ty, které pravidelně používáte (viz Kapitola 1, Úvod do programu Writer).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other formatting options are provided in the Paragraph dialog (see page &lt;bf1&gt;9&lt;/bf1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další možnosti formátování jsou uvedeny v dialogu Odstavec (viz strana &lt;bf1&gt;9&lt;/bf1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Formatting toolbar, the icons and formats include:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na panelu nástrojů Formát obsahují ikony a formáty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply Paragraph Style (Styles drop-down on the Properties deck of the Sidebar).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použít odstavcový styl (rozevírací seznam Styly na panelu Vlastnosti postranního panelu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullets On/Off (with a palette of bullet styles) — see page &lt;bf0&gt;20&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odrážky zapnuto / vypnuto (s paletou stylů odrážek) - viz strana &lt;bf0&gt;20&lt;/bf0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numbering On/Off (with a palette of numbering styles) — see page &lt;bf0&gt;20&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Číslování zapnuto / vypnuto (s paletou stylů číslování) - viz strana &lt;bf0&gt;20&lt;/bf0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Left, Center Horizontally, Align Right, or Justified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat doleva, vodorovně na střed, zarovnat doprava nebo zarovnat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Top, Center Vertically, Align Bottom.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat nahoře, vycentrovat svisle, zarovnat dole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Spacing (choose from 1, 1.15, 1.5, 2, or custom spacing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádkování (vyberte z možností 1, 1,15, 1,5, 2 nebo vlastních mezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Paragraph Spacing, Decrease Paragraph Spacing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvětšit mezery mezi odstavci, zmenšit mezery mezi odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Indent, Decrease Indent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvětšit odsazení, zmenšit odsazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph (to open the Paragraph dialog).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstavec (pro otevření dialogu Odstavec).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Sidebar opens with the Properties deck selected by default.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Boční panel se otevře s balíčkem Vlastnosti vybraným ve výchozím nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the expansion symbol (+ or triangle) to open the panels if necessary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby otevřete panely kliknutím na symbol rozšíření (+ nebo trojúhelník).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Paragraph panel of the Properties deck (Figure &lt;t0&gt;1&lt;/t0&gt;) contains most of the formatting controls, including several that are not found on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel Odstavec na panelu Vlastnosti (Obrázek &lt;t0&gt;1&lt;/t0&gt; ) obsahuje většinu ovládacích prvků formátování, včetně několika, které se nenacházejí na panelu nástrojů Formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking the down-arrow by a button opens the control for further choices, such as fixed line spacing or color palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na šipku dolů pomocí tlačítka otevřete ovládací prvek pro další možnosti, například pevné řádkování nebo paletu barev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;More Options&lt;/f0&gt; button to open the Paragraph dialog, where other settings are available (see page &lt;bf1&gt;9&lt;/bf1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Více možností&lt;/f0&gt; tlačítko pro otevření dialogu Odstavec, kde jsou k dispozici další nastavení (viz strana &lt;bf1&gt;9&lt;/bf1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the values of any of these settings affects only the paragraph where the insertion point (cursor) is located, or several paragraphs if more than one are selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna hodnot kteréhokoli z těchto nastavení ovlivní pouze odstavec, kde je umístěn kurzor, nebo několik odstavců, pokud je vybráno více než jeden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you wish to change the values for many paragraphs of that type, you should use a paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit hodnoty pro mnoho odstavců tohoto typu, měli byste použít styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Spacing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvětšit mezeru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indent From Left</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odsazení zleva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Center</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat střed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease Spacing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zmenšit mezeru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indent From Right</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odsazení zprava</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indent First Line</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odsazení prvního řádku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Justified</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat zarovnáno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Spacing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádkování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hanging Indent</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Závěsné odsazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More Options – opens Paragraph dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další možnosti - otevře dialog Odstavec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Above Paragraph Spacing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nad odstavcem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Below Paragraph Spacing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezery pod odstavcem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Paragraph panel of the Properties deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Panel Odstavec na panelu Vlastnosti v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use the buttons labelled &lt;f0&gt;1&lt;/f0&gt;–&lt;f1&gt;4&lt;/f1&gt; in Figure &lt;t2&gt;1&lt;/t2&gt;&lt;s3/&gt;to choose the alignment of a paragraph: Left, Right, Centered, or Justified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete použít označená tlačítka &lt;f0&gt;1&lt;/f0&gt; - &lt;f1&gt;4&lt;/f1&gt; na obrázku &lt;t2&gt;1 &lt;/t2&gt;&lt;s3/&gt; pro výběr zarovnání odstavce: Vlevo, Vpravo, Na střed nebo Zarovnáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t4&gt;2&lt;/t4&gt;&lt;s5/&gt;shows examples of the alignment options applied to text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t4&gt;2 &lt;/t4&gt;&lt;s5/&gt; ukazuje příklady možností zarovnání aplikovaných na text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left aligned text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnaný text doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Center aligned text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat na střed text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right aligned text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text zarovnaný doprava.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Justified text inserts spacing between words to force the text to reach from margin to margin, if the text is longer than a single line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnaný text vloží mezery mezi slovy, aby přinutil text dosáhnout od okraje k okraji, pokud je text delší než jeden řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Text alignment options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Možnosti zarovnání textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using justified text, the last line is by default aligned to the left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití zarovnaného textu je poslední řádek ve výchozím nastavení zarovnán doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you can also align the last line to the center of the paragraph area or justify it so that spaces are inserted between the words in order to fill the whole line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete však také zarovnat poslední řádek do středu oblasti odstavce nebo jej zarovnat tak, aby byly mezi slova vloženy mezery, aby se vyplnil celý řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you select the &lt;f0&gt;Expand single word&lt;/f0&gt; option, then whenever the last line of a justified paragraph consists of a single word, this word is stretched by inserting spaces between characters so that it occupies the full length of the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vyberete &lt;f0&gt;Rozbalit jedno slovo&lt;/f0&gt; Pokud je poslední možnost zarovnaného odstavce tvořena jediným slovem, je toto slovo roztaženo vložením mezer mezi znaky tak, aby zabíralo celou délku řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;3&lt;/t0&gt;&lt;s1/&gt;shows an example of the effect obtained when choosing each of these options for a typical text font.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t0&gt;3 &lt;/t0&gt;&lt;s1/&gt; ukazuje příklad efektu získaného při výběru každé z těchto možností pro typické textové písmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most cases, leave the setting on the default (left-aligned); but for some dramatic purposes (such as a very large font on a poster), you might prefer one of the other choices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve většině případů ponechte nastavení na výchozí (zarovnané doleva); ale pro některé dramatické účely (například velmi velké písmo na plakátu) můžete upřednostňovat jednu z dalších možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Three options are available for the alignment of the last line of a justified paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K dispozici jsou tři možnosti zarovnání posledního řádku zarovnaného odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is an example of a &lt;f0&gt;left-aligned&lt;/f0&gt; last line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je příklad a &lt;f0&gt;zarovnáno doleva&lt;/f0&gt; poslední řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is an example of a &lt;f0&gt;centered&lt;/f0&gt; last line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je příklad a &lt;f0&gt;na střed&lt;/f0&gt; poslední řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is an example of a &lt;s0/&gt;&lt;f1&gt;justified&lt;/f1&gt; last line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je příklad a &lt;s0/&gt;&lt;f1&gt; oprávněné&lt;/f1&gt; poslední řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the last line of a justified paragraph contains a single word, you can stretch the word to fill the entire line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud poslední řádek zarovnaného odstavce obsahuje jediné slovo, můžete slovo natáhnout a vyplnit celý řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is an example with the &lt;f0&gt;Expand single word&lt;/f0&gt; option selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je příklad s &lt;f0&gt;Rozbalit jedno slovo&lt;/f0&gt; možnost vybrána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Examples of choices for the last line of a justified paragraph</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Příklady voleb pro poslední řádek zarovnaného odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These options are controlled in the &lt;f0&gt;Alignment&lt;/f0&gt; page of the Paragraph dialog (Figure &lt;t1&gt;4&lt;/t1&gt;), reached by choosing &lt;f2&gt;Format &gt; Paragraph&lt;/f2&gt; from the Menu bar, or by right-clicking in the paragraph and selecting &lt;f3&gt;Paragraph&lt;/f3&gt; from the context menu, or by clicking the &lt;f4&gt;More Options&lt;/f4&gt; button on the Paragraph panel in the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto možnosti jsou řízeny v &lt;f0&gt;Zarovnání&lt;/f0&gt; stránka dialogu Odstavec (obr &lt;t1&gt;4&lt;/t1&gt; ), dosáhnete výběrem &lt;f2&gt;Formát &gt; Odstavec&lt;/f2&gt; z panelu nabídek nebo kliknutím pravým tlačítkem na odstavec a výběrem &lt;f3&gt;Odstavec&lt;/f3&gt; z kontextové nabídky nebo kliknutím na ikonu &lt;f4&gt;Více možností&lt;/f4&gt; tlačítko na panelu Odstavec na panelu Vlastnosti postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Options for the last line of a justified paragraph</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Možnosti pro poslední řádek oprávněného odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line spacing&lt;/f0&gt; (button &lt;f1&gt;18&lt;/f1&gt;, Figure &lt;t2&gt;1&lt;/t2&gt;) refers to the distance from one baseline (the imaginary line at the bottom of a letter like “n” or “m”) to the next baseline.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Řádkování&lt;/f0&gt; (knoflík &lt;f1&gt;18&lt;/f1&gt; , Obrázek &lt;t2&gt;1&lt;/t2&gt; ) odkazuje na vzdálenost od jedné účaří (imaginární čára ve spodní části písmene jako „n“ nebo „m“) k další účaří.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is determined by the size of the font.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je určena velikostí písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Line spacing is the distance between two baselines</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Řádkování je vzdálenost mezi dvěma základními liniemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Line Spacing submenu is shown in Figure &lt;t0&gt;6&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dílčí nabídka Line Spacing je zobrazena na obrázku &lt;t0&gt;6&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you can choose among standard spacings or define a custom value: &lt;f1&gt;Proportional&lt;/f1&gt; (for example, 110%), &lt;f2&gt;At least&lt;/f2&gt; (the amount specified in the &lt;f3&gt;Value&lt;/f3&gt; box), &lt;f4&gt;Leading&lt;/f4&gt;, or &lt;f5&gt;Fixed&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde si můžete vybrat ze standardních mezer nebo definovat vlastní hodnotu: &lt;f1&gt;Úměrný&lt;/f1&gt; (například 110%), &lt;f2&gt;Alespoň&lt;/f2&gt; (částka uvedená v &lt;f3&gt;Hodnota&lt;/f3&gt; box), &lt;f4&gt;Vedoucí&lt;/f4&gt; nebo &lt;f5&gt;Pevný&lt;/f5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see the differences between these choices, do a few sample paragraphs and change the selections.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vidět rozdíly mezi těmito možnostmi, proveďte několik ukázkových odstavců a změňte výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All options except &lt;f0&gt;Fixed&lt;/f0&gt; or &lt;f1&gt;At Least&lt;/f1&gt; use the font’s default.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny možnosti kromě &lt;f0&gt;Pevný&lt;/f0&gt; nebo &lt;f1&gt;Alespoň&lt;/f1&gt; použít výchozí písmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These two allow you to set your own spacing, which is especially useful at small font sizes to increase readability.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto dva vám umožňují nastavit vlastní mezery, což je užitečné zejména u malých velikostí písma pro zvýšení čitelnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Line spacing submenu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Podnabídka řádkování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Paragraph spacing&lt;/f0&gt; refers to the vertical spacing between one paragraph and the paragraphs above and below it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Mezery mezi odstavci&lt;/f0&gt; odkazuje na svislou mezeru mezi jedním odstavcem a odstavci nad a pod ním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As shown in Figure &lt;t1&gt;1&lt;/t1&gt;, the current values are shown in the &lt;f2&gt;Above Paragraph&lt;/f2&gt; &lt;f3&gt;Spacing&lt;/f3&gt; box (&lt;f4&gt;13&lt;/f4&gt;) and the &lt;f5&gt;Below Paragraph Spacing&lt;/f5&gt; box (&lt;f6&gt;14&lt;/f6&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jak je znázorněno na obrázku &lt;t1&gt;1&lt;/t1&gt; , aktuální hodnoty jsou zobrazeny v &lt;f2&gt;Nad odstavcem &lt;/f2&gt;&lt;f3&gt; Vzdálenost&lt;/f3&gt; box ( &lt;f4&gt;13&lt;/f4&gt; ) a &lt;f5&gt;Mezery pod odstavcem&lt;/f5&gt; box ( &lt;f6&gt;14&lt;/f6&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change either or both of these settings independently.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedno nebo obě z těchto nastavení můžete nezávisle změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph spacing is often used in computer documentation, such as this book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V počítačové dokumentaci, jako je tato kniha, se často používá řádkování odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph indentation (see next topic) is more commonly used in other documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odsazení odstavce (viz další téma) se běžněji používá v jiných dokumentech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For good design, use paragraph spacing or paragraph indentation, never both.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro dobrý design použijte mezery mezi odstavci nebo odsazení odstavce, nikdy obojí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use the buttons labelled &lt;f0&gt;10&lt;/f0&gt;, &lt;f1&gt;11&lt;/f1&gt;, and &lt;f2&gt;12&lt;/f2&gt; in Figure &lt;t3&gt;1&lt;/t3&gt;&lt;s4/&gt;to increase the amount of space to leave between the left and right page margins and the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete použít označená tlačítka &lt;f0&gt;10&lt;/f0&gt; , &lt;f1&gt;11&lt;/f1&gt; , a &lt;f2&gt;12&lt;/f2&gt; na obrázku &lt;t3&gt;1 &lt;/t3&gt;&lt;s4/&gt; pro zvětšení volného prostoru mezi levým a pravým okrajem stránky a odstavcem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The distances are determined by settings &lt;f0&gt;15&lt;/f0&gt; (&lt;f1&gt;Before Text Indent&lt;/f1&gt;; that is, from the left margin), &lt;f2&gt;16&lt;/f2&gt; (&lt;f3&gt;After Text Indent&lt;/f3&gt;; that is, from the right margin), and &lt;f4&gt;17&lt;/f4&gt; (&lt;f5&gt;First Line Indent&lt;/f5&gt;, which indents the first line from the left margin, or from the specified indentation from the margin).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzdálenosti jsou určeny nastavením &lt;f0&gt;15&lt;/f0&gt; ( &lt;f1&gt;Před odsazením textu&lt;/f1&gt; ; tj. od levého okraje), &lt;f2&gt;16&lt;/f2&gt; ( &lt;f3&gt;Po odsazení textu&lt;/f3&gt; ; tj. od pravého okraje) a &lt;f4&gt;17&lt;/f4&gt; ( &lt;f5&gt;Odsazení prvního řádku&lt;/f5&gt; , který odsazuje první řádek od levého okraje nebo od zadaného odsazení od okraje).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Button &lt;f0&gt;12&lt;/f0&gt;, &lt;f1&gt;Switch to Hanging Indent&lt;/f1&gt;, leaves the first line at the left margin (or the specified indentation from the margin) and indents all the other lines of the paragraph by the amount specified by button &lt;f2&gt;17&lt;/f2&gt; or in the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Knoflík &lt;f0&gt;12&lt;/f0&gt; , &lt;f1&gt;Přepněte na Závěsné odsazení&lt;/f1&gt; , ponechá první řádek na levém okraji (nebo zadané odsazení od okraje) a odsadí všechny ostatní řádky odstavce o částku určenou tlačítkem &lt;f2&gt;17&lt;/f2&gt; nebo v dialogu Odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This paragraph is an example of a paragraph with a &lt;f0&gt;first line indent&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento odstavec je příkladem odstavce s a &lt;f0&gt;odsazení prvního řádku&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is typical of paragraphs in books.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je to typické pro odstavce v knihách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This paragraph is an example of a paragraph with a &lt;f0&gt;hanging indent&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento odstavec je příkladem odstavce s a &lt;f0&gt;visící odrážka&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is often used for numbered paragraphs or those with an icon or other image on the left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Často se používá pro číslované odstavce nebo odstavce s ikonou nebo jiným obrázkem vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In right-to-left languages, the behavior of the Before Text and After Text indents is the opposite: “before” is on the right margin; “after” is on the left margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V jazycích zprava doleva je chování odrážek Před textem a Za textem opačné: „před“ je na pravém okraji; „After“ je na levém okraji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the button labelled &lt;f0&gt;7&lt;/f0&gt; in Figure &lt;t1&gt;1&lt;/t1&gt;&lt;s2/&gt;to open a palette from which you can choose a color for the background of the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na tlačítko označené &lt;f0&gt;7&lt;/f0&gt; na obrázku &lt;t1&gt;1 &lt;/t1&gt;&lt;s2/&gt; otevřete paletu, ze které můžete vybrat barvu pozadí odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From this palette, you can also click &lt;f3&gt;Custom Color&lt;/f3&gt; to open the Pick a Color dialog, where you can define new colors to be added to the palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z této palety můžete také kliknout &lt;f3&gt;Vlastní barva&lt;/f3&gt; otevřete dialog Vyberte barvu, kde můžete definovat nové barvy, které se přidají do palety.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Selecting a background color for a paragraph</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Výběr barvy pozadí odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the paragraph has been indented from the right or left margin, the background color is not applied to the area of the indent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud byl odstavec odsazen od pravého nebo levého okraje, barva pozadí se na oblast odsazení nepoužije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To extend the color to the margin, use a frame, table, or other method; see Chapter 6, Formatting Pages: Advanced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rozšířit barvu na okraj, použijte rámeček, stůl nebo jinou metodu; viz Kapitola 6, Formátování stránek: Pokročilé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The paragraph dialog includes several more pages: Tabs (covered in next section, “&lt;bf0&gt;Setting tab stops and indents&lt;/bf0&gt;”, page &lt;bf1&gt;12&lt;/bf1&gt;), Borders, Drop Caps, Area (more choices than just color), Transparency, Text Flow, and Outline &amp; Numbering.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog odstavce obsahuje několik dalších stránek: Karty (v následující části, „ &lt;bf0&gt;Nastavení zarážek a odsazení tabulátoru&lt;/bf0&gt; ”, Strana &lt;bf1&gt;12&lt;/bf1&gt; ), Ohraničení, Znaky, Plocha (více možností než jen barva), Průhlednost, Tok textu a Obrys a číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see Chapter 8, Introduction to Styles, and Chapter 9, Working with Styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitolách 8, Úvod do stylů a Kapitola 9, Práce se styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Borders are useful for setting a paragraph off from the surrounding text, to include digressions from the main topic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Okraje jsou užitečné pro nastavení odstavce od okolního textu tak, aby zahrnoval odbočky od hlavního tématu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the Tips, Notes, and Cautions in this book use a border below the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například tipy, poznámky a upozornění v této knize používají ohraničení pod textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add borders to any combination of top, bottom, and sides of paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Okraje můžete přidat do libovolné kombinace horní, dolní a boční strany odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose the style (solid, dotted, dashed, doubled), width, and color of the lines; these choices apply to all borders on a paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete si vybrat styl (plné, tečkované, přerušované, zdvojené), šířku a barvu čar; tyto volby platí pro všechny ohraničení odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The spacing from each line to the paragraph’s contents can be set individually for the top, bottom, left, and right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezery od každého řádku k obsahu odstavce lze nastavit samostatně pro horní, dolní, levý a pravý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this dialog you can also choose to apply a shadow to a paragraph; “distance” refers to the width of the shadow.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto dialogovém okně můžete také použít stín na odstavec; „Vzdálenost“ označuje šířku stínu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Merge with next paragraph&lt;/f0&gt; option to suppress top or bottom lines when the indent, border, and shadow styles of the next paragraph are the same as the current paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Sloučit s dalším odstavcem&lt;/f0&gt; možnost potlačit horní nebo dolní čáry, když jsou styly odsazení, ohraničení a stínu dalšího odstavce stejné jako aktuální odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Options for paragraph borders</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Možnosti ohraničení odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Drop capitals&lt;/f0&gt; are enlarged letters that mark the start of a new chapter or section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zrušte velká písmena&lt;/f0&gt; jsou zvětšená písmena, která označují začátek nové kapitoly nebo sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To improve consistency, they are best set up in a paragraph style that you apply to the relevant paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro zlepšení konzistence je nejlepší je nastavit styl odstavce, který použijete na příslušné odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 9, Working with Styles, for details.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnosti najdete v kapitole 9, Práce se styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt; (also called “fill” and “background” in some parts of LibreOffice) includes five types of fill (background): color, gradient, bitmap, pattern, and hatching.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Plocha&lt;/f0&gt; (v některých částech LibreOffice se také nazývá „výplň“ a „pozadí“) zahrnuje pět typů výplně (pozadí): barva, přechod, bitmapa, vzor a šrafování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a fill type to display the choices available for that type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem typu výplně zobrazíte možnosti dostupné pro tento typ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These choices are covered in more detail in Chapter 5, Formatting Pages: Basics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Těmto možnostem se podrobněji věnuje Kapitola 5, Formátování stránek: Základní informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also create your own fills.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete si také vytvořit vlastní výplně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Types of fill for paragraph backgrounds</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Typy výplně pro pozadí odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt; affects the paragraph’s background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Průhlednost&lt;/f0&gt; ovlivňuje pozadí odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is useful for creating watermarks and making colors or images more pale (for more contrast with the text).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je to užitečné pro vytváření vodoznaků a zesvětlování barev nebo obrázků (pro větší kontrast s textem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The available choices are shown in Chapter 5, Formatting Pages: Basics, and are covered in detail in the &lt;f1&gt;Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné možnosti jsou uvedeny v kapitole 5, Formátování stránek: Základní informace, a jsou podrobně popsány v části &lt;f1&gt;Nakreslete průvodce&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Text Flow&lt;/f0&gt; page (Figure &lt;t1&gt;10&lt;/t1&gt;) has several sections.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Tok textu&lt;/f0&gt; stránka (Obrázek &lt;t1&gt;10&lt;/t1&gt; ) má několik sekcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyphenation is covered in Chapter 2, Working with Text: Basics, and breaks are covered in Chapter 5, Formatting Pages: Basics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dělení slov je uvedeno v kapitole 2, Práce s textem: Základy, a přestávky v kapitole 5, Formátování stránek: Základy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Options&lt;/f0&gt; section, you can specify how paragraphs are treated at the bottom of a page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Možnosti&lt;/f0&gt; V dolní části stránky můžete určit, jak se s odstavci zachází.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f1&gt;Do not split paragraph&lt;/f1&gt; and &lt;f2&gt;Keep with next paragraph&lt;/f2&gt; should be self-explanatory.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f1&gt;Nerozdělujte odstavec&lt;/f1&gt; a &lt;f2&gt;Pokračujte dalším odstavcem&lt;/f2&gt; by mělo být samozřejmé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The other options &lt;t3/&gt;allow you to avoid a single line at the bottom of a page (called an &lt;f4&gt;orphan&lt;/f4&gt;) or a single line at the top of a page (a &lt;f5&gt;widow&lt;/f5&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další možnosti &lt;t3/&gt; vám umožní vyhnout se jednomu řádku v dolní části stránky (tzv &lt;f4&gt;sirotek&lt;/f4&gt; ) nebo jeden řádek v horní části stránky (a &lt;f5&gt;vdova&lt;/f5&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Options for text flow: hyphenation, breaks, and keeping text together</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Možnosti toku textu: dělení slov, přerušení a udržování textu pohromadě</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Outline &amp; Numbering&lt;/f0&gt; page on the Paragraph dialog provides options for choosing the outline level of the paragraph and its numbering (list) style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Přehled a číslování&lt;/f0&gt; Stránka v dialogu Odstavec poskytuje možnosti pro výběr úrovně obrysu odstavce a jeho stylu číslování (seznamu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the paragraph is part of a numbered list, you can specify that list numbering restarts at the paragraph, and what number to restart with.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je odstavec součástí číslovaného seznamu, můžete určit, aby se číslování seznamu restartovalo v odstavci a s jakým číslem restartovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page does not cover the same functions as the Outline Numbering dialog (&lt;f0&gt;Tools &gt; Chapter Numbering&lt;/f0&gt;), but the Outline level selected here is related to the outline defined there.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato stránka nepokrývá stejné funkce jako dialogové okno Číslování obrysů ( &lt;f0&gt;Nástroje &gt; Číslování kapitol&lt;/f0&gt; ), ale zde vybraná úroveň Obrys souvisí s tam definovaným obrysem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 8, Introduction to Styles, and Chapter 9, Working with Styles, for a discussion of these features.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Diskuse o těchto funkcích najdete v kapitole 8, Úvod do stylů a Kapitola 9, Práce se styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line numbering is discussed in Chapter 3, Working with Text: Advanced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>O číslování řádků pojednává Kapitola 3, Práce s textem: Pokročilé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Selecting outline level, paragraph numbering, and line numbering</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Výběr úrovně obrysu, číslování odstavců a číslování řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The horizontal ruler shows the tab stops.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vodorovné pravítko zobrazuje zarážky tabulátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tab settings affect indentation of full paragraphs (using the &lt;f0&gt;Increase Indent&lt;/f0&gt; and &lt;f1&gt;Decrease Indent&lt;/f1&gt; buttons on the Formatting toolbar or the Paragraph panel of the Properties deck in the Sidebar) as well as indentation of parts of a paragraph (by pressing the &lt;f2&gt;Tab&lt;/f2&gt; key on the keyboard).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení karty ovlivňuje odsazení celých odstavců (pomocí &lt;f0&gt;Zvětšit odsazení&lt;/f0&gt; a &lt;f1&gt;Zmenšit odsazení&lt;/f1&gt; tlačítka na panelu nástrojů Formát nebo na panelu Odstavec na paletě Vlastnosti v postranním panelu) a také odsazení částí odstavce (stisknutím &lt;f2&gt;Tab&lt;/f2&gt; na klávesnici).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many indents, for example at the beginning of a paragraph, can be set in the paragraph style, so you don’t need to use the &lt;f0&gt;Tab&lt;/f0&gt; key to activate them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnoho odrážek, například na začátku odstavce, lze nastavit ve stylu odstavce, takže nemusíte používat znak &lt;f0&gt;Tab&lt;/f0&gt; klávesu pro jejich aktivaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the default tab spacing can cause formatting problems if you share documents with other people.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud změníte výchozí rozteč karet, může to způsobit problémy s formátováním, pokud sdílíte dokumenty s jinými lidmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Specifying tab stops and fill characters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Určení zarážek tabulátoru a vyplnění znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define indents and tab settings for one or more selected paragraphs, right-click a paragraph and choose &lt;f0&gt;Paragraph...&lt;/f0&gt; to open the Paragraph dialog; then select either the &lt;f1&gt;Tabs&lt;/f1&gt; page (Figure &lt;t2&gt;12&lt;/t2&gt;) or the &lt;f3&gt;Indents &amp; Spacing&lt;/f3&gt; page of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li definovat odsazení a nastavení záložek pro jeden nebo více vybraných odstavců, klepněte pravým tlačítkem na odstavec a vyberte &lt;f0&gt;Odstavec...&lt;/f0&gt; otevřete dialogové okno Odstavec; poté vyberte buď &lt;f1&gt;Záložky&lt;/f1&gt; stránka (Obrázek &lt;t2&gt;12&lt;/t2&gt; ) nebo &lt;f3&gt;Odsazení a mezery&lt;/f3&gt; stránka dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you can double-click the horizontal ruler to open the &lt;f4&gt;Indents &amp; Spacing&lt;/f4&gt; page of the Paragraph dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně můžete poklepáním na vodorovné pravítko otevřít &lt;f4&gt;Odsazení a mezery&lt;/f4&gt; stránka dialogu Odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to Chapters 8 and 9 for more about paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o odstavcových stylech najdete v kapitolách 8 a 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Selecting a default tab stop interval</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Výběr výchozího intervalu zastavení tabulátoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also set or change the measurement unit for rulers in the current document by right-clicking on the ruler to open a list of units, as shown in Figure &lt;t0&gt;14&lt;/t0&gt;&lt;s1/&gt;for the horizontal ruler.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také nastavit nebo změnit měrnou jednotku pro pravítka v aktuálním dokumentu kliknutím pravým tlačítkem na pravítko a otevřete seznam jednotek, jak je znázorněno na obrázku &lt;t0&gt;14 &lt;/t0&gt;&lt;s1/&gt; pro vodorovné pravítko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click one of them to change the ruler to that unit.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na jednu z nich změníte pravítko na tuto jednotku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Changing the measurement unit for a ruler</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Změna měrné jednotky pro pravítko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can apply many formats to characters using the buttons on the Formatting toolbar and by using the Characters panel of the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnoho formátů můžete na znaky použít pomocí tlačítek na panelu nástrojů Formát a pomocí panelu Znaky na panelu Vlastnosti postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not all toolbar buttons are visible in a standard installation, but you can customize the toolbar to include those you use regularly; see Chapter 1, Introducing Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve standardní instalaci nejsou viditelná všechna tlačítka na panelu nástrojů, ale můžete panel nástrojů přizpůsobit tak, aby zahrnoval i ty, které používáte pravidelně; viz Kapitola 1, Představujeme program Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These formats include:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezi tyto formáty patří:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font Name, Font Size (in points)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název písma, velikost písma (v bodech)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the characteristics of an entire paragraph (for example the font name, size, or color), and for many other purposes, it is highly recommended that you use styles rather than manually formatting characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit vlastnosti celého odstavce (například název písma, velikost nebo barvu) a pro mnoho dalších účelů se důrazně doporučuje používat styly místo ručního formátování znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For information on styles and how to use them, see Chapters 8 and 9.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o stylech a jejich použití najdete v kapitolách 8 a 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;15&lt;/t0&gt;&lt;s1/&gt;shows the Character panel in the Properties deck of the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t0&gt;15 &lt;/t0&gt;&lt;s1/&gt; zobrazuje panel Znaky na panelu Vlastnosti postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking the down-arrow next to a button opens the control for further choices, such as font color or character spacing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na šipku dolů vedle tlačítka otevřete ovládací prvek pro další možnosti, například barvu písma nebo mezery mezi znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The appearance of the buttons may vary with your operating system and the selection of icon size and style in &lt;f2&gt;Tools &gt; Options &gt; LibreOffice &gt; View&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzhled tlačítek se může lišit podle operačního systému a výběru velikosti a stylu ikony v &lt;f2&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Zobrazit&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;More Options&lt;/f0&gt; button (&lt;f1&gt;15&lt;/f1&gt;) to open the Character dialog, which includes more choices than are available through the Formatting toolbar or the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Více možností&lt;/f0&gt; knoflík ( &lt;f1&gt;15&lt;/f1&gt; ) otevřete dialogové okno Znaky, které obsahuje více možností, než je k dispozici na panelu nástrojů Formát nebo Boční panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the &lt;f0&gt;font name and size&lt;/f0&gt; used for selected characters, you can use the drop-down menus on the Formatting toolbar, the Character panel in the Sidebar, or the Character dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit &lt;f0&gt;název a velikost písma&lt;/f0&gt; pro vybrané znaky můžete použít rozevírací nabídky na panelu nástrojů Formát, panelu Znaky v bočním panelu nebo v dialogu Znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, you can apply &lt;f0&gt;bold&lt;/f0&gt;, &lt;f1&gt;italics&lt;/f1&gt;, &lt;f2&gt;underline&lt;/f2&gt;, &lt;f3&gt;strikethrough&lt;/f3&gt;, or &lt;f4&gt;shadow effects&lt;/f4&gt; to selected characters from the Formatting toolbar, the Character panel in the Sidebar, or the Character dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podobně můžete požádat &lt;f0&gt;tučně&lt;/f0&gt; , &lt;f1&gt;kurzíva&lt;/f1&gt; , &lt;f2&gt;zdůraznit&lt;/f2&gt; , &lt;f3&gt;přeškrtnuto&lt;/f3&gt; nebo &lt;f4&gt;stínové efekty&lt;/f4&gt; na vybrané znaky z panelu nástrojů Formát, panelu Znaky v bočním panelu nebo v dialogu Znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Underline effect has a drop-down menu of line types (Figure &lt;t5&gt;16&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Efekt Podtržení má rozevírací nabídku typů čar (Obrázek &lt;t5&gt;16&lt;/t5&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Formatting toolbar includes other effects that are not in the Sidebar: &lt;f6&gt;overline &lt;/f6&gt;and &lt;f7&gt;double underline&lt;/f7&gt;; these buttons may not be visible in a default installation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Formát obsahuje další efekty, které nejsou v postranním panelu: &lt;f6&gt;přetáhnout&lt;/f6&gt; a &lt;f7&gt;dvojité podtržení&lt;/f7&gt; ; tato tlačítka nemusí být ve výchozí instalaci viditelná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3 &lt;s0/&gt;4 &lt;s1/&gt;5 &lt;s2/&gt;6 &lt;s3/&gt;7</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3 &lt;s0/&gt; 4 &lt;s1/&gt; 5 &lt;s2/&gt; 6 &lt;s3/&gt; 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>8 &lt;s0/&gt;9</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>8 &lt;s0/&gt; 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>10 &lt;s0/&gt;11</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>10 &lt;s0/&gt; 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>12 &lt;s0/&gt;13 &lt;s1/&gt;14</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>12 &lt;s0/&gt; 13 &lt;s1/&gt; 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přeškrtnutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Color</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvýrazněte barvu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character Spacing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozteč znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Increase Font Size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvětšete velikost písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decrease Font Size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zmenšit velikost písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More Options – opens Character dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další možnosti - otevře dialogové okno Znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Character panel in the Properties deck of the Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Panel znaků na panelu Vlastnosti postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To choose the &lt;f0&gt;color of the font or its highlighting&lt;/f0&gt;, open the appropriate color palette (&lt;f1&gt;10&lt;/f1&gt; or &lt;f2&gt;11&lt;/f2&gt;; similar to the one shown in Figure &lt;t3&gt;7&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zvolit &lt;f0&gt;barva písma nebo jeho zvýraznění&lt;/f0&gt; , otevřete příslušnou paletu barev ( &lt;f1&gt;10&lt;/f1&gt; nebo &lt;f2&gt;11&lt;/f2&gt; ; podobný tomu na obrázku &lt;t3&gt;7&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The highlighting selection over-rides any background color that has been applied to the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr zvýraznění přehraje jakoukoli barvu pozadí, která byla použita na odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To &lt;f0&gt;increase or decrease the font size&lt;/f0&gt; of selected characters, you can click the relevant buttons on the Formatting toolbar or the Character panel in the Sidebar; however, you have no control over the amount of the increase or decrease, which is usually 2 points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;zvětšit nebo zmenšit velikost písma&lt;/f0&gt; u vybraných znaků můžete kliknout na příslušná tlačítka na panelu nástrojů Formát nebo na panelu Znaky v postranním panelu; nemáte však žádnou kontrolu nad částkou zvýšení nebo snížení, což jsou obvykle 2 body.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For finer control, use the Font Size drop-down list instead.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li dosáhnout lepšího ovládání, použijte místo toho rozevírací seznam Velikost písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Selecting the line style for the Underline effect</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : Výběr stylu čáry pro efekt Podtržení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change characters into &lt;f0&gt;subscripts or superscripts&lt;/f0&gt; (using the default values for size and position), select them and click the relevant buttons on the Formatting toolbar or the Character panel in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit znaky na &lt;f0&gt;dolní nebo horní indexy&lt;/f0&gt; (pomocí výchozích hodnot pro velikost a umístění) je vyberte a klikněte na příslušná tlačítka na panelu nástrojů Formát nebo na panelu Znaky v bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more control, use the Character dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro větší kontrolu použijte dialogové okno Znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly change the &lt;f0&gt;spacing between characters&lt;/f0&gt;, select them and choose from the Character Spacing drop-down menu in the Sidebar (Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle změnit &lt;f0&gt;mezery mezi znaky&lt;/f0&gt; , vyberte je a vyberte z rozevírací nabídky Rozteč znaků v postranním panelu (Obrázek &lt;t1&gt;17&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Changing character spacing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Změna mezer mezi znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Character dialog has six pages, shown in this section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog Znak má šest stránek, které jsou uvedeny v této části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of these pages are the same as the pages on the Character Style dialog (see Chapter 9, Working with Styles).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Většina z těchto stránek je stejná jako stránky v dialogu Styl znaků (viz Kapitola 9, Práce se styly).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Font&lt;/f0&gt; page (Figure &lt;t1&gt;18&lt;/t1&gt;), you can specify the font’s family, typeface (choices vary with the font, but typically include regular, bold, and italic), and size; and the language for the paragraph, if it differs from the language for the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Písmo&lt;/f0&gt; stránka (Obrázek &lt;t1&gt;18&lt;/t1&gt; ), můžete určit rodinu písma, typ písma (možnosti se liší podle písma, ale obvykle obsahují běžné, tučné a kurzíva) a velikost; a jazyk odstavce, pokud se liší od jazyka dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The box at the bottom shows a preview of the selections.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole v dolní části zobrazuje náhled výběrů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Font page of the Character dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;18&lt;/seq0&gt; : Stránka písma v dialogu Znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Font Effects&lt;/f0&gt; page (Figure &lt;t1&gt;19&lt;/t1&gt;), you can choose the color of the font and a range of effects, many of which are not suitable for formal documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Efekty písma&lt;/f0&gt; stránka (Obrázek &lt;t1&gt;19&lt;/t1&gt; ), můžete zvolit barvu písma a řadu efektů, z nichž mnohé nejsou vhodné pro formální dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figures &lt;t2&gt;20&lt;/t2&gt;&lt;s3/&gt;and &lt;t4&gt;21&lt;/t4&gt;&lt;s5/&gt;show the choices in some of the drop-down lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čísla &lt;t2&gt;20 &lt;/t2&gt;&lt;s3/&gt; a &lt;t4&gt;21 &lt;/t4&gt;&lt;s5/&gt; zobrazit možnosti v některých rozevíracích seznamech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Font Effects page of the Character dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;19&lt;/seq0&gt; : Stránka Efekty písem v dialogu Znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;:Choices for capitalization, relief, and strikethrough effects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;20&lt;/seq0&gt; : Možnosti kapitalizace, úlevy a přeškrtnutí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Choices for overlining and underlining are the same</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;21&lt;/seq0&gt; : Možnosti pro podtržení a podtržení jsou stejné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Position&lt;/f0&gt; page collects the options that affect the position of text on the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Pozice&lt;/f0&gt; stránka shromažďuje možnosti, které ovlivňují pozici textu na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page is divided into three sections: &lt;f1&gt;Position&lt;/f1&gt;, &lt;f2&gt;Rotation/Scaling&lt;/f2&gt;, and &lt;f3&gt;Spacing&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato stránka je rozdělena do tří částí: &lt;f1&gt;Pozice&lt;/f1&gt; , &lt;f2&gt;Rotace / změna měřítka&lt;/f2&gt; , a &lt;f3&gt;Vzdálenost&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Position page of the Character dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;22&lt;/seq0&gt; : Stránka Pozice v dialogu Znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Position&lt;/f0&gt; section controls the appearance of superscripts and subscripts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Pozice&lt;/f0&gt; Tato sekce řídí vzhled horních a dolních indexů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Rotation/Scaling&lt;/f0&gt; section controls the rotation of the characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Rotace / změna měřítka&lt;/f0&gt; sekce řídí rotaci znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Scale width box controls the percentage of the font width by which to compress or stretch the rotated text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole Šířka měřítka určuje procento šířky písma, o které se má komprimovat nebo natáhnout otočený text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Spacing&lt;/f0&gt; section controls the spacing between individual characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Vzdálenost&lt;/f0&gt; sekce řídí mezery mezi jednotlivými znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f1&gt;Pair Kerning&lt;/f1&gt; option (selected by default) automatically adjusts the character spacing for specific letter combinations.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f1&gt;Pár Kerning&lt;/f1&gt; Možnost (ve výchozím nastavení vybrána) automaticky upraví mezery mezi znaky pro konkrétní kombinace písmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kerning is only available for certain font types and, for printed documents, works only if your printer supports it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyrovnání párů je k dispozici pouze pro určité typy písem a u tištěných dokumentů funguje, pouze pokud to vaše tiskárna podporuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Hyperlink&lt;/f0&gt; page of the Character dialog is an alternative to using the Hyperlink dialog (&lt;f1&gt;Insert &gt; Hyperlink&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Hypertextový odkaz&lt;/f0&gt; stránka dialogu Znak je alternativou k použití dialogu Hypertextový odkaz ( &lt;f1&gt;Vložit &gt; Hypertextový odkaz&lt;/f1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It includes fewer choices and is specifically for text (not button) links.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obsahuje méně možností a je specificky pro textové odkazy (nikoli tlačítka).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hyperlinks can be to other parts of the same document, to other documents, or to web pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hypertextové odkazy mohou být na jiné části stejného dokumentu, na jiné dokumenty nebo na webové stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Hyperlink page of the Character dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;23&lt;/seq0&gt; : Stránka hypertextového odkazu v dialogu Znaky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When LibreOffice recognizes a string of characters that may be a URL (internet address), it replaces the characters with a hyperlink and formats the hyperlink as specified in the Internet Link character style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když LibreOffice rozpozná řetězec znaků, kterým může být adresa URL (internetová adresa), nahradí znaky hypertextovým odkazem a naformátuje hypertextový odkaz tak, jak je uvedeno ve znakovém stylu Internetového odkazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On this dialog you can choose a different character style (if the style has been defined previously) or replace the URL with other text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto dialogovém okně můžete zvolit jiný styl znaků (pokud byl styl definován dříve) nebo nahradit adresu URL jiným textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To turn off this feature, choose &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options &gt; Options&lt;/f0&gt; page and deselect &lt;f1&gt;URL Recognition&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li tuto funkci vypnout, zvolte &lt;f0&gt;Nástroje &gt; Automatické opravy &gt; Možnosti automatických oprav &gt; Možnosti&lt;/f0&gt; stránku a zrušte výběr &lt;f1&gt;Rozpoznávání URL&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more about creating and editing hyperlinks, see the Help system or Chapter 12 in the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vytváření a úpravách hypertextových odkazů naleznete v systému nápovědy nebo v kapitole 12 v dokumentu &lt;f0&gt;Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Highlighting&lt;/f0&gt; page controls the background color for selected characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Zvýraznění&lt;/f0&gt; stránka řídí barvu pozadí pro vybrané znaky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is similar to the Highlighting drop-down palette.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je to podobné jako v rozbalovací paletě Zvýraznění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Borders&lt;/f0&gt; page is the same as the Borders page on the Paragraph dialog; see page &lt;bf1&gt;9&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Hranice&lt;/f0&gt; stránka je stejná jako stránka Okraje v dialogu Odstavec; viz strana &lt;bf1&gt;9&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set Writer to automatically format parts of a document according to the choices made on the &lt;f0&gt;Options&lt;/f0&gt; and &lt;f1&gt;Localized Options&lt;/f1&gt; pages of the AutoCorrect dialog (&lt;f2&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer můžete nastavit tak, aby automaticky formátoval části dokumentu podle voleb provedených v souboru &lt;f0&gt;Možnosti&lt;/f0&gt; a &lt;f1&gt;Lokalizované možnosti&lt;/f1&gt; stránky dialogu Automatické opravy ( &lt;f2&gt;Nástroje &gt; Automatické opravy &gt; Možnosti automatických oprav&lt;/f2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To automatically format the file according to the options you have set, choose &lt;f0&gt;Tools &gt; AutoCorrect&lt;/f0&gt; and select or deselect the items on the submenu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li automaticky formátovat soubor podle možností, které jste nastavili, zvolte &lt;f0&gt;Nástroje &gt; Automatické opravy&lt;/f0&gt; a vyberte nebo zrušte výběr položek v podnabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While Typing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při psaní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically formats the document while you type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Automaticky formátuje dokument během psaní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aplikovat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically formats the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Automaticky formátuje dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply and Edit Changes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použít a upravit změny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically formats the file and then opens a dialog where you can accept or reject the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Automaticky formátuje soubor a poté otevře dialogové okno, kde můžete přijmout nebo odmítnout změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoCorrect Options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti automatických oprav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the AutoCorrect dialog (Figures &lt;t0&gt;24&lt;/t0&gt;&lt;s1/&gt;and &lt;t2&gt;25&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře dialogové okno Automatické opravy (obrázky &lt;t0&gt;24 &lt;/t0&gt;&lt;s1/&gt; a &lt;t2&gt;25&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Autoformat choices on the Options page of the AutoCorrect dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;24&lt;/seq0&gt; : Možnosti automatického formátování na stránce Možnosti v dialogovém okně Automatické opravy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Localized Options&lt;/f0&gt; page (Figure &lt;t1&gt;25&lt;/t1&gt;) controls the formatting of quotation marks and apostrophes (which look like a closing single quote).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Lokalizované možnosti&lt;/f0&gt; stránka (Obrázek &lt;t1&gt;25&lt;/t1&gt; ) řídí formátování uvozovek a apostrofů (které vypadají jako závěrečná jednoduchá uvozovka).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most fonts include curly quotation marks (also known as “smart quotes”), but for some purposes (such as marking minutes and seconds of latitude and longitude) you may wish to format them as straight quotes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Většina písem obsahuje složené uvozovky (známé také jako „chytré uvozovky“), ale pro některé účely (například označení minut a sekund zeměpisné šířky a délky) je možná budete chtít naformátovat jako rovné uvozovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Straight quotes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přímé uvozovky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Smart quotes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chytré nabídky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>' ' &lt;s0/&gt;" "</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>'' &lt;s0/&gt; ''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>‘ ’ &lt;s0/&gt;“ ”</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>'' &lt;s0/&gt; „“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most people keep the AutoCorrect setting for smart quotes and use the Special Characters dialog to insert straight quotes when needed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Většina lidí zachová nastavení automatických nabídek pro inteligentní uvozovky a pomocí dialogu Speciální znaky v případě potřeby vloží přímé uvozovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 2, Working with Text: Basics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz Kapitola 2, Práce s textem: Základy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: Autoformatting quotation marks</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;25&lt;/seq0&gt; : Automatické formátování uvozovek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can format numbered or bulleted lists in several ways:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Číslované nebo odrážkové seznamy můžete formátovat několika způsoby:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use list (numbering) styles, as described in Chapters 8, 9, and 12 in this book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte styly seznamu (číslování), jak je popsáno v kapitolách 8, 9 a 12 v této knize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Bullets and Numbering toolbar (see Figure &lt;t0&gt;26&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte panel nástrojů Odrážky a číslování (viz obrázek &lt;t0&gt;26&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Numbering and Bullets buttons on the Formatting toolbar or on the Paragraph panel of the Properties deck of the Sidebar (see Figure &lt;t0&gt;27&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte tlačítka Číslování a Odrážky na panelu nástrojů Formát nebo na panelu Odstavec na paletě Vlastnosti postranního panelu (viz obrázek &lt;t0&gt;27&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Bullets and Numbering dialog (see Figures &lt;t0&gt;28&lt;/t0&gt;&lt;s1/&gt;and &lt;t2&gt;29&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte dialog Odrážky a číslování (viz obrázky &lt;t0&gt;28 &lt;/t0&gt;&lt;s1/&gt; a &lt;t2&gt;29&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To produce a simple numbered or bulleted list, select the paragraphs in the list and then click the appropriate icon on the Paragraph panel on the toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit jednoduchý očíslovaný seznam nebo seznam s odrážkami, vyberte odstavce v seznamu a poté klikněte na příslušnou ikonu na panelu Odstavec na panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a matter of personal preference whether you type your information first, then apply numbering/bullets or apply these as you type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je věcí osobních preferencí, zda nejprve zadáte své informace, poté použijete číslování / odrážky nebo je použijete při psaní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a nested list (where one or more list items has a sub-list under it, as in an outline) by using the buttons on the Bullets and Numbering toolbar (Figure &lt;t0&gt;26&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vnořený seznam (kde jedna nebo více položek seznamu má pod sebou podseznam, jako v obrysu) můžete vytvořit pomocí tlačítek na panelu nástrojů Odrážky a číslování (obrázek &lt;t0&gt;26&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can move items up or down the list, create subpoints, change the style of bullets, add paragraphs without numbers or bullets (for list items that include more than one paragraph), and access the Bullets and Numbering dialog, which contains more detailed controls.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete přesouvat položky nahoru nebo dolů v seznamu, vytvářet dílčí body, měnit styl odrážek, přidávat odstavce bez čísel nebo odrážek (pro položky seznamu, které obsahují více než jeden odstavec) a otevřít dialog Odrážky a číslování, který obsahuje podrobnější ovládací prvky .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;View &gt; Toolbars &gt; Bullets and Numbering&lt;/f0&gt; to display the toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití &lt;f0&gt;Zobrazit &gt; Panely nástrojů &gt; Odrážky a číslování&lt;/f0&gt; pro zobrazení panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;1&lt;/f0&gt;&lt;f1&gt;1&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;1 &lt;/f0&gt;&lt;f1&gt; 1&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialog Odrážky a číslování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Bullets and Numbering toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;26&lt;/seq0&gt; : Panel nástrojů Odrážky a číslování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use keyboard shortcuts to move paragraphs up or down the outline levels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí klávesových zkratek můžete odstavce posouvat nahoru nebo dolů po úrovních osnovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor at the beginning of the numbered paragraph and press:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor na začátek očíslovaného odstavce a stiskněte:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>= Down a level&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>= O úroveň níže &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f1&gt;Shift+Tab&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f1&gt;Shift + Tab&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>= Up a level</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>= O úroveň výš</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a tab stop at the beginning of a numbered paragraph (that is, after the number but before the text), press &lt;f0&gt;Ctrl+Tab&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit zarážku tabulátoru na začátek očíslovaného odstavce (tj. Za číslo, ale před text), stiskněte &lt;f0&gt;Ctrl + Tab&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you create a nested list using the buttons on the Bullets and Numbering toolbar, all the levels of the list (up to 10) initially apply the same numbering (or bullet) format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vytvoříte vnořený seznam pomocí tlačítek na panelu nástrojů Odrážky a číslování, všechny úrovně seznamu (až 10) zpočátku použijí stejný formát číslování (nebo odrážky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to use a combination of numbering formats and bullets when creating nested lists, you can use these ways:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete při vytváření vnořených seznamů použít kombinaci formátů číslování a odrážek, můžete použít tyto způsoby:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in each list item and then select one of the choices in the drop-down palettes under the Bullets and Numbering buttons on the Formatting toolbar or the Properties deck of the Sidebar, as described in “&lt;bf0&gt;Using the Bullets and Numbering palettes on the Sidebar&lt;/bf0&gt;” below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte do každé položky seznamu a poté vyberte jednu z možností v rozevíracích paletách pod tlačítky Odrážky a číslování na panelu nástrojů Formát nebo na panelu Vlastnosti postranního panelu, jak je popsáno v části „ &lt;bf0&gt;Používání palet odrážek a číslování na bočním panelu&lt;/bf0&gt; “Níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Bullets and Numbering dialog, as described in “&lt;bf0&gt;Using the Bullets and Numbering dialog&lt;/bf0&gt;” below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte dialog Odrážky a číslování, jak je popsáno v části „ &lt;bf0&gt;Pomocí dialogu Odrážky a číslování&lt;/bf0&gt; “Níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, a much better strategy is to define and apply a list style, as discussed in Chapter 12, Lists: Tips and Tricks.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnohem lepší strategií je však definovat a použít styl seznamu, jak je popsáno v kapitole 12, Seznamy: Tipy a triky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Bullets and Numbering palettes on the Paragraph panel on the Properties deck of the Sidebar can be used to create nested lists and access the Bullets and Numbering dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Palety Odrážky a číslování na panelu Odstavec na paletě Vlastnosti postranního panelu lze použít k vytváření vnořených seznamů a přístupu k dialogu Odrážky a číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Sidebar does not include tools for promoting and demoting items in the list, as found on the Bullets and Numbering toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postranní panel nezahrnuje nástroje pro propagaci a snížení úrovně položek v seznamu, jak je uvedeno na panelu nástrojů Odrážky a číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: Bullets and Numbering choices on the Properties deck of the Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;27&lt;/seq0&gt; : Možnosti odrážek a číslování na panelu Vlastnosti postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Bullets and Numbering dialog has six pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog Odrážky a číslování má šest stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Four pages provide pre-defined symbols and sequences to choose from: Bullets, Numbering Type, Outline (choose from eight standard outline sequences), and Image (choose a bullet image).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čtyři stránky poskytují předdefinované symboly a sekvence, ze kterých si můžete vybrat: Kulky, Typ číslování, Obrys (vyberte si z osmi standardních sekvenčních obrysů) a Obrázek (vyberte obrázek odrážky).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two pages provide detailed options for defining your own lists: &lt;f0&gt;Position&lt;/f0&gt; (Figure &lt;t1&gt;28&lt;/t1&gt;) and &lt;f2&gt;Options&lt;/f2&gt; (Figure &lt;t3&gt;29&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvě stránky poskytují podrobné možnosti pro definování vlastních seznamů: &lt;f0&gt;Pozice&lt;/f0&gt; (Postava &lt;t1&gt;28&lt;/t1&gt; ) a &lt;f2&gt;Možnosti&lt;/f2&gt; (Postava &lt;t3&gt;29&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are the same as the pages provided for list styles, discussed in Chapter 12, Lists: Tips and Tricks.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jsou stejné jako stránky poskytované pro styly seznamů, o nichž pojednává Kapitola 12, Seznamy: Tipy a triky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Position page of the Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;28&lt;/seq0&gt; : Poziční stránka dialogu Odrážky a číslování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;29&lt;/seq0&gt;: Options page of the Bullets and Numbering dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;29&lt;/seq0&gt; : Stránka Možnosti v dialogovém okně Odrážky a číslování</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

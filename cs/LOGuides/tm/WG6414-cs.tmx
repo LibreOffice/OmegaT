@@ -1,0 +1,2854 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 14 Mail Merge</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 14 Hromadná korespondence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 14 Mail Merge&lt;segment 44710 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 14 Hromadná korespondence &lt;segment 44710 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Using the Mail Merge Wizard to create a form letter&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;23&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Pomocí Průvodce hromadnou korespondencí vytvořte formulářový dopis &lt;/t0&gt;&lt;f1&gt; | &lt;/f1&gt;&lt;t2&gt; 23&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;20&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 14 Mail Merge&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;20 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 14 Hromadná korespondence &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 14 Mail Merge&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 14 Hromadná korespondence &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 14 Mail Merge&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 0 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 14 Hromadná korespondence&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer 6.4 Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Writer 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mail Merge</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučení emailů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Form Letters, Mailing Labels, and Envelopes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formuláře, poštovní štítky a obálky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Felipe Viggiano</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Felipe Viggiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July &lt;t0&gt;2020&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci &lt;t0&gt;2020&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud1&gt;6.4&lt;/ud1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice &lt;ud1&gt;6.4&lt;/ud1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nástroje &gt; Možnosti &lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>menu selection</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>výběr nabídky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Control&lt;/f0&gt;+click and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Řízení&lt;/f0&gt; + kliknout a / nebo kliknout pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is mail merge?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Co je hromadná korespondence?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating and registering an address data source</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření a registrace zdroje dat adresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a form letter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření formulářového dopisu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing merged documents</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy sloučených dokumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Printing mailing labels</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk poštovních štítků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preparing for printing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příprava na tisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removing blank lines from labels</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranění prázdných řádků ze štítků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing a saved file of mailing labels</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy uloženého souboru poštovních štítků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Printing envelopes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tisk obálek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting up envelopes for printing</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení obálek pro tisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merging and printing the envelopes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučení a tisk obálek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an envelope template</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření šablony obálky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Mail Merge Wizard to create a form letter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí Průvodce hromadnou korespondencí vytvořte formulářový dopis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Select starting document</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Krok 1: Vyberte počáteční dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 2: Select document type</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Krok 2: Vyberte typ dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 3: Insert address block</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Krok 3: Vložte blok adresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting the data source (address list)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr zdroje dat (seznam adres)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting and optionally editing the address block</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr a volitelná úprava bloku adresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching the fields</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odpovídající pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 4: Create salutation</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Krok 4: Vytvořte pozdrav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 5: Adjust layout</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Krok 5: Upravte rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What is &lt;i0/&gt;mail merge?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Co je &lt;i0/&gt; sloučení emailů?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer’s mail merge provides features to create and print multiple copies of one item (such as return address labels, promotional stickers, or t-shirt transfers) or to produce copies that include variable information (for example names, addresses, and amounts due):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hromadná korespondence pro spisovatele poskytuje funkce pro vytváření a tisk více kopií jedné položky (například štítky se zpáteční adresou, propagační nálepky nebo převody triček) nebo pro vytváření kopií, které obsahují proměnné informace (například jména, adresy a splatné částky):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Form letters (a document to send to a list of recipients).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formuláře (dokument k odeslání seznamu příjemců).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mailing labels, labels for physical file folders, and similar purposes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poštovní štítky, štítky pro fyzické složky souborů a podobné účely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Envelopes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obálky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variable data is typically derived from a data source, as discussed below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Variabilní data se obvykle odvozují ze zdroje dat, jak je popsáno níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If all output is to be the same (for example, return address labels), the merge can use manually entered text or images.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud mají být všechny výstupy stejné (například štítky se zpáteční adresou), může sloučení použít ručně zadaný text nebo obrázky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter describes the mail merge process.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola popisuje proces hromadné korespondence.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The steps include:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kroky zahrnují:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create and register a data source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte a zaregistrujte zdroj dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create and print form letters, mailing labels, and envelopes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvářejte a tiskněte formální dopisy, poštovní štítky a obálky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optionally, save the output in an editable file instead of printing it directly.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Volitelně můžete místo přímého tisku uložit výstup do upravitelného souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>definition</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>definice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating and registering an address &lt;i0/&gt;data source</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření a registrace adresy &lt;i0/&gt; zdroj dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An address data source is a database containing the name and address records from which mailing labels and envelopes can be derived.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zdroj dat adresy je databáze obsahující záznamy o jménech a adresách, ze kterých lze odvodit poštovní štítky a obálky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice can create the database from spreadsheets, text files including Writer documents, and databases such as MySQL.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice může vytvářet databázi z tabulek, textových souborů včetně dokumentů Writer a databází, jako je MySQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the information to be used in the mail merge is currently in a format that LibreOffice cannot access directly, you need to convert it, for example by exporting to a comma-separated values (CSV) file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou informace, které mají být použity při hromadné korespondenci, aktuálně ve formátu, ke kterému LibreOffice nemá přímý přístup, musíte je převést, například exportem do souboru hodnot oddělených čárkami (CSV).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a data source to be directly accessible from within a Writer document, it must be registered.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aby byl zdroj dat přímo přístupný z dokumentu Writeru, musí být zaregistrován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to do this only once.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Musíte to udělat pouze jednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>address data source</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>zdroj dat adresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From within a Writer document, or from the LibreOffice Start Center, choose &lt;f0&gt;File &gt; Wizards &gt; &lt;/f0&gt;&lt;i1/&gt;&lt;is2/&gt;&lt;f3&gt;Address Data Source&lt;/f3&gt;&lt;ie4/&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V rámci dokumentu Writeru nebo z Centra spuštění LibreOffice vyberte &lt;f0&gt;Soubor &gt; Kouzelníci &gt; &lt;/f0&gt;&lt;i1/&gt;&lt;is2/&gt;&lt;f3&gt; Zdroj dat adresy &lt;/f3&gt;&lt;ie4/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The choices on the first page of the wizard vary with your operating system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti na první stránce průvodce se liší podle operačního systému.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the appropriate type of external address book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte vhodný typ externího adresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a spreadsheet, it is &lt;f0&gt;Other external data source&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U tabulky to je &lt;f0&gt;Jiný externí zdroj dat&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Select type of external &lt;is1/&gt;address book</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Vyberte typ externího &lt;is1/&gt; adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the next page of the Wizard, click on the &lt;f0&gt;Settings&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na další stránce průvodce klikněte na ikonu &lt;f0&gt;Nastavení&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Starting the Settings part of the Wizard</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Spuštění části Nastavení průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Data Source Properties&lt;/f0&gt; page, select the Database type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Vlastnosti zdroje dat&lt;/f0&gt; stránce vyberte typ databáze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In our example, it is &lt;f1&gt;Spreadsheet&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V našem příkladu je &lt;f1&gt;Tabulka&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Selecting the database type</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Výběr typu databáze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the next page (Figure &lt;t0&gt;4&lt;/t0&gt;), click &lt;f1&gt;Browse&lt;/f1&gt; and navigate to the spreadsheet that contains the address information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na další stránce (obrázek &lt;t0&gt;4&lt;/t0&gt; ), klikněte na &lt;f1&gt;Procházet&lt;/f1&gt; a přejděte do tabulky, která obsahuje informace o adrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the spreadsheet and click &lt;f2&gt;Open&lt;/f2&gt; to return to this dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte tabulku a klikněte &lt;f2&gt;otevřeno&lt;/f2&gt; pro návrat do tohoto dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Selecting the spreadsheet document</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Výběr tabulkového dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To test that the connection has been correctly established, click the &lt;f0&gt;Test Connection&lt;/f0&gt; button in the middle of the dialog (not shown in Figure &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otestovat, zda bylo připojení správně navázáno, klepněte na ikonu &lt;f0&gt;Vyzkoušejte připojení&lt;/f0&gt; tlačítko uprostřed dialogového okna (na obr &lt;t1&gt;4&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should get the message “The connection was established successfully”; otherwise, you will get an error message.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Měla by se zobrazit zpráva „Připojení bylo úspěšně navázáno“; v opačném případě se zobrazí chybová zpráva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the next page, click &lt;f0&gt;Next&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na další stránce klikněte na &lt;f0&gt;další&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do &lt;f1&gt;not&lt;/f1&gt; click the &lt;f2&gt;Field Assignment&lt;/f2&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dělat &lt;f1&gt;ne&lt;/f1&gt; klikněte na &lt;f2&gt;Přiřazení pole&lt;/f2&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: For a spreadsheet, do &lt;f1&gt;not&lt;/f1&gt; click the Field Assignment button</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : U tabulky ano &lt;f1&gt;ne&lt;/f1&gt; klikněte na tlačítko Přiřazení pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name the new database (.odb) file in the &lt;f0&gt;Location&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pojmenujte nový soubor databáze (.odb) v souboru &lt;f0&gt;Umístění&lt;/f0&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optionally change the name in the &lt;f1&gt;Address book name&lt;/f1&gt; field; this is the registered name, which LibreOffice displays in data source listings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Volitelně můžete změnit název v &lt;f1&gt;Název adresáře&lt;/f1&gt; pole; toto je registrovaný název, který LibreOffice zobrazuje v seznamech zdrojů dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In our example, the name &lt;f2&gt;Points&lt;/f2&gt; was used for both.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V našem příkladu název &lt;f2&gt;Body&lt;/f2&gt; byl použit pro oba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Name the .odb file and the address book</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Pojmenujte soubor .odb a adresář</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data source is now registered.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zdroj dat je nyní zaregistrován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a form letter manually—the simplest and most comprehensive method, which is described here—or you can use the Mail Merge wizard starting on page &lt;bf0&gt;15&lt;/bf0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formulární dopis můžete vytvořit ručně - nejjednodušší a nejkomplexnější metoda, která je zde popsána - nebo můžete použít průvodce hromadnou korespondencí začínajícího na stránce &lt;bf0&gt;15&lt;/bf0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new Writer document (&lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt;) or open a pre-existing form letter with &lt;f1&gt;File &gt; Open&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nový dokument Writeru ( &lt;f0&gt;Soubor &gt; Nový &gt; Textový dokument&lt;/f0&gt; ) nebo otevřete již existující formulářový dopis pomocí &lt;f1&gt;Soubor &gt; Otevřít&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display the registered data sources: &lt;f0&gt;View &gt; Data sources&lt;/f0&gt; (or press &lt;f1&gt;Shift+Ctrl+F4&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazit registrované zdroje dat: &lt;f0&gt;Zobrazit &gt; Zdroje dat&lt;/f0&gt; (nebo stiskněte &lt;f1&gt;Shift + Ctrl + F4&lt;/f1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the data source that you wish to use for the form letter, in this case &lt;f0&gt;Points&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto případě vyhledejte zdroj dat, který chcete použít pro formulářový dopis &lt;f0&gt;Body&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expand the &lt;f1&gt;Points&lt;/f1&gt; and &lt;f2&gt;Tables&lt;/f2&gt; folders, and select &lt;f3&gt;Sheet1&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozbalte &lt;f1&gt;Body&lt;/f1&gt; a &lt;f2&gt;Tabulky&lt;/f2&gt; složky a vyberte &lt;f3&gt;List1&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The address data file is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazí se datový soubor adresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Selecting the data source</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Výběr zdroje dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now create or modify the form letter by typing in the text, punctuation, line breaks, and so on that will be present in all of the letters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní vytvořte nebo upravte formulářové písmeno zadáním textu, interpunkce, zalomení řádků atd., Které budou přítomny ve všech písmenech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add the mail-merge fields where needed (such as names and addresses), click in the field heading and drag it to the appropriate point in the letter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li podle potřeby přidat pole hromadné korespondence (například jména a adresy), klepněte do záhlaví pole a přetáhněte jej na příslušné místo v písmenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Address lines should be in individual paragraphs, not separated by line breaks as might seem preferable.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádky adresy by měly být v jednotlivých odstavcích, neměly by být odděleny zalomením řádků, jak by se mohlo zdát vhodnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reason for this will be made clear in the next step.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Důvod pro to bude objasněn v dalším kroku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Dragging fields to the body of the form letter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Přetažení polí do těla formuláře</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue until you have composed the entire document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokračujte, dokud nesložíte celý dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At this time you can suppress any blank lines that may appear in the resulting letters (Step 6).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tuto chvíli můžete potlačit všechny prázdné řádky, které se mohou objevit ve výsledných písmech (krok 6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Otherwise, go to Step 7.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jinak přejděte na krok 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: The completed form letter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Vyplněný formulářový dopis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using the Mail Merge Wizard, you can select an automatic suppression of blank lines and avoid the work described in this section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití Průvodce hromadnou korespondencí můžete vybrat automatické potlačení prázdných řádků a vyhnout se práci popsané v této části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you wish to suppress&lt;t0/&gt; blank lines, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete potlačit &lt;t0/&gt; prázdné řádky, postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click at the end of the first paragraph to be suppressed if empty, and then choose &lt;f0&gt;Insert &gt; Field &gt; More Fields&lt;/f0&gt; to display the Fields dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na konec prvního odstavce, který chcete potlačit, pokud je prázdný, a poté vyberte &lt;f0&gt;Vložit &gt; Pole &gt; Další pole&lt;/f0&gt; pro zobrazení dialogového okna Pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Functions&lt;/f0&gt; tab and then click on &lt;f1&gt;Hidden Paragraph&lt;/f1&gt; in the &lt;f2&gt;Type&lt;/f2&gt; column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Funkce&lt;/f0&gt; kartu a poté klikněte na &lt;f1&gt;Skrytý odstavec&lt;/f1&gt; v &lt;f2&gt;Typ&lt;/f2&gt; sloupec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Hidden paragraph insertion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Skryté vkládání odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now click in the &lt;f0&gt;Condition&lt;/f0&gt; box and enter the details of the condition that defines a blank address field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní klikněte na ikonu &lt;f0&gt;Stav&lt;/f0&gt; pole a zadejte podrobnosti podmínky, která definuje prázdné pole adresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It has the general form of:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Má obecnou formu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>![Database.Table.Database field]</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>! [Pole Database.Table.Database]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where the ‘!’ (NOT) character indicates the negative case and the square brackets indicate the condition.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kde '!' Znak (NOT) označuje negativní případ a hranaté závorky označují stav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, in our Points database the condition to test if the Last Name field is empty would be:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například v naší databázi bodů by podmínka k otestování, zda je pole Příjmení prázdné, byla:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;![Points.Sheet1.Last Name]&lt;/f0&gt; as illustrated in Figure &lt;t1&gt;10&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;! [Body.Sheet1.Příjmení]&lt;/f0&gt; jak je znázorněno na obrázku &lt;t1&gt;10&lt;/t1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To test for multiple conditions use the operators AND and/or OR between the conditional statements, for example:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otestovat více podmínek, použijte operátory AND a / nebo OR mezi podmíněnými příkazy, například:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>![Points.Sheet1.Title]AND![Points.Sheet1.Last Name]</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>! [Points.Sheet1.Title] AND! [Points.Sheet1.Last Name]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Insert&lt;/f0&gt;, but do not close the dialog until you have amended all the lines that should be suppressed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Vložit&lt;/f0&gt; , ale nezavírejte dialog, dokud nezměníte všechny řádky, které mají být potlačeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The document is now ready to be printed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dokument je nyní připraven k tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt; and respond with &lt;f1&gt;Yes&lt;/f1&gt; in the message box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Soubor &gt; Tisk&lt;/f0&gt; a reagovat s &lt;f1&gt;Ano&lt;/f1&gt; v okně se zprávou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Mail merge confirmation message</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Zpráva s potvrzením hromadné korespondence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mail Merge dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Hromadná korespondence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;is0/&gt;&lt;i1/&gt;&lt;i2/&gt;Mail Merge dialog&lt;ie3/&gt; (Figure &lt;t4&gt;12&lt;/t4&gt;), in the &lt;f5&gt;Records&lt;/f5&gt; section, you can choose to print all records or selected records.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;is0/&gt;&lt;i1/&gt;&lt;i2/&gt; Dialogové okno Hromadná korespondence &lt;ie3/&gt; (Postava &lt;t4&gt;12&lt;/t4&gt; ), v &lt;f5&gt;Evidence&lt;/f5&gt; části můžete vybrat tisk všech záznamů nebo vybraných záznamů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select individual records to be printed, &lt;f6&gt;Ctrl+click&lt;/f6&gt; on each one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat jednotlivé záznamy k tisku, &lt;f6&gt;Ctrl + kliknutí&lt;/f6&gt; na každém z nich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select a block of records, select the first record in the block, scroll to the last record in the block, and &lt;f7&gt;Shift+click&lt;/f7&gt; on the last record.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat blok záznamů, vyberte první záznam v bloku, přejděte na poslední záznam v bloku a &lt;f7&gt;Shift + kliknutí&lt;/f7&gt; na posledním záznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to send the letters directly to the printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; k odeslání dopisů přímo do tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Or, you can save the letters to a file for further editing or formatting; see “&lt;bf1&gt;Editing merged documents&lt;/bf1&gt;” below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nebo můžete písmena uložit do souboru pro další úpravy nebo formátování; viz „ &lt;bf1&gt;Úpravy sloučených dokumentů&lt;/bf1&gt; “Níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have not saved the original, prototype form letter document (template) previously, then you should do so now.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste dříve neuložili původní, prototypový formulářový dopisní dokument (šablonu), měli byste tak učinit nyní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Having a form letter template could greatly simplify the creation of other form letters and is highly recommended.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mít šablonu formulářového dopisu by mohlo značně zjednodušit vytváření dalších formulářových dopisů a je velmi doporučeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: The Mail Merge dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Dialog Hromadná korespondence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may prefer to save the letters to a file, to allow for proofreading or formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete raději uložit písmena do souboru, abyste mohli provést korektury nebo formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Mail Merge dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), select &lt;f1&gt;File&lt;/f1&gt; in the &lt;f2&gt;Output&lt;/f2&gt; section, instead of using the default &lt;f3&gt;Printer&lt;/f3&gt; selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Hromadná korespondence (obrázek &lt;t0&gt;12&lt;/t0&gt; ), vyberte &lt;f1&gt;Soubor&lt;/f1&gt; v &lt;f2&gt;Výstup&lt;/f2&gt; místo výchozího nastavení &lt;f3&gt;Tiskárna&lt;/f3&gt; výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This activates some other choices on the page (Figure &lt;t4&gt;13&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se aktivují některé další možnosti na stránce (obrázek &lt;t4&gt;13&lt;/t4&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose whether to save the output as a single document (containing all of the letters) or save the letters as individual documents, and you can specify the name, location, and format of the files.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete si vybrat, zda chcete uložit výstup jako jeden dokument (obsahující všechna písmena) nebo uložit písmena jako jednotlivé dokumenty, a můžete určit název, umístění a formát souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Output to Printer or to File</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Výstup do tiskárny nebo do souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Save as dialog, enter a file name for the saved letters and choose a folder in which to save them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Uložit jako zadejte název souboru pro uložená písmena a vyberte složku, do které je chcete uložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The letters will be saved consecutively as separate pages in the single document, or numbered consecutively in individual files if saved as individual documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Písmena se budou postupně ukládat jako samostatné stránky v jednom dokumentu nebo se budou číslovat postupně v jednotlivých souborech, pokud se ukládají jako jednotlivé dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can now open the letters and edit them individually as you would edit any other document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní můžete otevírat písmena a upravovat je jednotlivě, jako byste upravovali jakýkoli jiný dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Labels are commonly used for printing address lists (where each label shows a different address), but they can also be used for making multiple copies of one label only, for example return-address stickers, or labels for CDs/DVDs or other items.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Štítky se běžně používají pro tisk seznamů adres (kde každý štítek zobrazuje jinou adresu), ale lze je také použít k vytvoření více kopií pouze jednoho štítku, například štítků se zpáteční adresou nebo štítků pro disky CD / DVD nebo jiné položky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Before beginning this process, note the brand and type of labels you intend to use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Před zahájením tohoto procesu si poznamenejte značku a typ štítků, které chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define your own label size; see Step 4.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také definovat vlastní velikost štítku; viz krok 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are printing the same information on each label, you may find the Business Cards dialog useful.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tisknete na každý štítek stejné informace, může se vám hodit dialog Vizitky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access it through &lt;f0&gt;File &gt; New &gt; Business Cards&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přístup k němu prostřednictvím &lt;f0&gt;Soubor &gt; Nové &gt; Vizitky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Labels and Business Cards dialogs are very similar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogy Štítky a Vizitky jsou velmi podobné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prepare &lt;is0/&gt;mailing labels&lt;ie1/&gt; for printing:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Připravit &lt;is0/&gt; poštovní štítky &lt;ie1/&gt; pro tisk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;File &gt; New &gt; Labels&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Soubor &gt; Nové &gt; Štítky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Labels dialog opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se dialogové okno Štítky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Labels&lt;/f0&gt; page (Figure &lt;t1&gt;14&lt;/t1&gt;), select the Database and Table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Štítky&lt;/f0&gt; stránka (Obrázek &lt;t1&gt;14&lt;/t1&gt; ), vyberte databázi a tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the drop-down arrow under &lt;f0&gt;Database&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na šipku rozevíracího seznamu pod &lt;f0&gt;Databáze&lt;/f0&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the first field to be used in the label (in this example, &lt;f1&gt;Title&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte první pole, které se má použít na štítku (v tomto příkladu &lt;f1&gt;Titul&lt;/f1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the left arrow button to move this field to the &lt;f2&gt;Label text&lt;/f2&gt; area, as shown in Figure &lt;t3&gt;14&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na tlačítko se šipkou vlevo přesuňte toto pole na &lt;f2&gt;Text štítku&lt;/f2&gt; oblast, jak je znázorněno na obrázku &lt;t3&gt;14&lt;/t3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Move fields from Database field list to Label text area</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Přesunout pole ze seznamu polí databáze do textové oblasti Popisek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue adding fields and inserting desired punctuation, spaces, and line breaks until the label is composed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokračujte v přidávání polí a vkládání požadované interpunkce, mezer a konců řádků, dokud nebude složen popisek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;15&lt;/t0&gt;&lt;s1/&gt;shows the completed label.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t0&gt;15 &lt;/t0&gt;&lt;s1/&gt; zobrazuje vyplněný štítek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the label stock in the &lt;f0&gt;Brand&lt;/f0&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte štítkovou zásobu v &lt;f0&gt;Značka&lt;/f0&gt; rozbalovací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The types for that brand then appear in the &lt;f1&gt;Type&lt;/f1&gt; drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typy pro tuto značku se poté objeví v &lt;f1&gt;Typ&lt;/f1&gt; rozbalovací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the size and type of labels required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovanou velikost a typ štítků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Step 7.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte na krok 7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your label sheets are not listed, go to Step 6.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vaše štítkové listy nejsou uvedeny, přejděte ke kroku 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: The completed label</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Vyplněný štítek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define labels that are not on the list:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Definování štítků, které nejsou na seznamu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;[User]&lt;/f0&gt; in the &lt;f1&gt;Type&lt;/f1&gt; box on the &lt;f2&gt;Labels&lt;/f2&gt; page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;[Uživatel]&lt;/f0&gt; v &lt;f1&gt;Typ&lt;/f1&gt; pole na &lt;f2&gt;Štítky&lt;/f2&gt; strana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, click the &lt;f3&gt;Format&lt;/f3&gt; page of the Labels dialog (Figure &lt;t4&gt;16&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté klikněte na ikonu &lt;f3&gt;Formát&lt;/f3&gt; stránka dialogu Štítky (obrázek &lt;t4&gt;16&lt;/t4&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Measure on your labels those dimensions illustrated and enter them into the respective boxes on the left side.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změřte na svých štítcích tyto rozměry a zadejte je do příslušných polí na levé straně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal pitch&lt;/f0&gt; is the distance between the left edges of adjacent labels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální rozteč&lt;/f0&gt; je vzdálenost mezi levými okraji sousedních štítků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical pitch&lt;/f0&gt; is the distance between the upper edge of a label and the upper edge of the label directly below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální rozteč&lt;/f0&gt; je vzdálenost mezi horním okrajem štítku a horním okrajem štítku přímo pod ním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Specify settings, if necessary</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : V případě potřeby zadejte nastavení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can now save the label template if you are likely to use it again.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní můžete šablonu štítku uložit, pokud ji pravděpodobně znovu použijete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Save Label Format dialog that pops up, enter names for your label Brand and Type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V zobrazeném dialogovém okně Uložit formát štítku zadejte názvy štítku Značka a typ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Options&lt;/f0&gt; page, select &lt;f1&gt;Synchronize contents&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Možnosti&lt;/f0&gt; stránku, vyberte &lt;f1&gt;Synchronizovat obsah&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;New Document&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Nový dokument&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You now have a new, single‑page document containing a series of frames, one for each label of the selected type and filled with the data source address fields that you selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní máte nový jednostránkový dokument obsahující řadu rámců, jeden pro každý štítek vybraného typu a vyplněný vybranými poli adresy zdroje dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quite often some of the fields in your address data source will be unused, leading to blank lines in your labels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některá pole ve zdroji dat adresy budou často nevyužita, což povede k prázdným řádkům ve štítcích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this is not important, go to “&lt;bf1&gt;Printing&lt;/bf1&gt;” on page &lt;bf2&gt;13&lt;/bf2&gt;; otherwise, continue with “&lt;bf3&gt;Removing blank lines from labels&lt;/bf3&gt;” below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud to není důležité, přejděte na „ &lt;bf1&gt;Tisk&lt;/bf1&gt; " na stránce &lt;bf2&gt;13&lt;/bf2&gt; ; jinak pokračujte „ &lt;bf3&gt;Odstranění prázdných řádků ze štítků&lt;/bf3&gt; “Níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First ensure that the label frames are showing the field contents (data source headings), rather than their underlying field names.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejprve se ujistěte, že rámečky popisků zobrazují obsah pole (záhlaví zdroje dat), nikoli jejich základní názvy polí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this is not the case, then either press &lt;f0&gt;Ctrl+F9&lt;/f0&gt; or choose &lt;f1&gt;View &gt; Field Names&lt;/f1&gt; to toggle the view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tomu tak není, stiskněte buď &lt;f0&gt;Ctrl + F9&lt;/f0&gt; nebo vybrat &lt;f1&gt;Zobrazit &gt; Názvy polí&lt;/f1&gt; přepnout zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next, ensure that you can see non‑printing characters, such as paragraph marks and line breaks.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dále zajistěte, aby se zobrazily netisknutelné znaky, například značky odstavců a konce řádků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If these are not already visible, choose &lt;f0&gt;View &gt; Formatting Marks&lt;/f0&gt; from the Menu bar, or press &lt;f1&gt;Ctrl+F10&lt;/f1&gt;, or click on the &lt;f2&gt;Toggle Formatting Marks&lt;/f2&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud ještě nejsou viditelné, zvolte &lt;f0&gt;Zobrazit &gt; Formátování značek&lt;/f0&gt; na liště nabídek nebo stiskněte &lt;f1&gt;Ctrl + F10&lt;/f1&gt; nebo klikněte na ikonu &lt;f2&gt;Přepnout značky formátování&lt;/f2&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will now see that address field separation is created by line breaks (&lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt;), rather than paragraphs (&lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní uvidíte, že oddělení adresního pole je vytvořeno zalomením řádku ( &lt;df0&gt;&lt;di1/&gt;&lt;/df0&gt; ), spíše než odstavce ( &lt;df2&gt;&lt;di3/&gt;&lt;/df2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The suppression of blank address fields depends on hiding paragraphs, not lines, so you need to replace line breaks with paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Potlačení prázdných polí adresy závisí na skrytí odstavců, nikoli řádků, takže konce řádků musíte nahradit odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in the first label, at the end of the last data source address field in the first line of the label.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na první štítek na konci posledního pole adresy zdroje dat v prvním řádku štítku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;Delete&lt;/f0&gt; to remove the new line character and then press &lt;f1&gt;Return&lt;/f1&gt; (or the &lt;f2&gt;Enter&lt;/f2&gt; key) to insert a paragraph marker.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>lis &lt;f0&gt;Vymazat&lt;/f0&gt; znak nové řádky odeberete a stiskněte &lt;f1&gt;Vrátit se&lt;/f1&gt; (nebo &lt;f2&gt;Enter&lt;/f2&gt; klíč) pro vložení značky odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat this action for each line in the address.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto akci opakujte pro každý řádek v adrese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the line spacing in the first label is not satisfactory, you may wish to correct this before proceeding, by modifying the paragraph style associated with the address.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud řádkování na prvním štítku není uspokojivé, můžete to před pokračováním opravit úpravou odstavcového stylu spojeného s adresou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless you have changed it, the address uses the Default style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste jej nezměnili, použije adresa výchozí styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The objective of Step 3 is to replace all line breaks at the end of data source address fields with paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Cílem kroku 3 je nahradit všechna zalomení řádků na konci polí adresy zdroje dat odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes the address data field may be longer than the width of the label and will wrap to the next physical line: make sure that you are not misled by this into deleting and replacing anything other than line break characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole dat s adresou může být někdy delší než šířka štítku a zalomí se na další fyzický řádek: ujistěte se, že tím nejste zaváděni tím, že odstraníte a nahradíte cokoli jiného než znaky zalomení řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click again at the end of the first paragraph to be conditionally suppressed and then choose &lt;f0&gt;Insert &gt; Fields &gt; More Fields&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Znovu klikněte na konci prvního odstavce, který chcete podmíněně potlačit, a poté vyberte &lt;f0&gt;Vložit &gt; Pole &gt; Další pole&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f1&gt;Functions&lt;/f1&gt; tab and then click on &lt;f2&gt;Hidden Paragraph&lt;/f2&gt; in the &lt;f3&gt;Type&lt;/f3&gt; column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f1&gt;Funkce&lt;/f1&gt; kartu a poté klikněte na &lt;f2&gt;Skrytý odstavec&lt;/f2&gt; v &lt;f3&gt;Typ&lt;/f3&gt; sloupec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now click in the &lt;f4&gt;Condition&lt;/f4&gt; box and enter the details of the condition that defines a blank address field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní klikněte na ikonu &lt;f4&gt;Stav&lt;/f4&gt; pole a zadejte podrobnosti podmínky, která definuje prázdné pole adresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, in our Points database the condition to test if the Last Name field is empty would be</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například v naší databázi bodů by byla podmínka k otestování, zda je pole Příjmení prázdné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To test for multiple conditions, use the operators AND and/or OR between the conditional statements, for example:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li otestovat více podmínek, použijte operátory AND a / nebo OR mezi podmíněnými příkazy, například:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Insert&lt;/f0&gt;, but do not close the dialog until all lines have been amended.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Vložit&lt;/f0&gt; , ale nezavírejte dialog, dokud nebudou změněny všechny řádky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat for each paragraph to be conditionally suppressed, remembering to place the cursor at the end of the line before changing the last element of the condition and inserting the result.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakujte pro každý odstavec, který má být podmíněně potlačen, nezapomeňte umístit kurzor na konec řádku před změnou posledního prvku podmínky a vložením výsledku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The last paragraph of the label address block ends with a special field, &lt;f0&gt;Next record:Database.Table&lt;/f0&gt; (&lt;f1&gt;Next record:Points.Sheet1&lt;/f1&gt; in our example); the Hidden paragraph field must be inserted before this field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poslední odstavec bloku adresy štítku končí zvláštním polem, &lt;f0&gt;Další záznam: Database.Table&lt;/f0&gt; ( &lt;f1&gt;Další záznam: Body.Sheet1&lt;/f1&gt; v našem příkladu); před toto pole musí být vloženo pole Skrytý odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can generally be accomplished by clicking at the end of the paragraph and then using the &lt;f2&gt;Left&lt;/f2&gt;&lt;f3&gt; &lt;/f3&gt;&lt;f4&gt;Arrow&lt;/f4&gt; key once to skip back over it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toho lze obecně dosáhnout kliknutím na konci odstavce a následným použitím &lt;f2&gt;Vlevo, odjet &lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt; Šipka&lt;/f4&gt; jednou přeskočíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you omitted this action, you will find that some records have been skipped and are missing from the final output.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste tuto akci vynechali, zjistíte, že některé záznamy byly přeskočeny a chybí v konečném výstupu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remembering that we selected &lt;f0&gt;Synchronize contents&lt;/f0&gt; earlier, you should now see a small window containing a &lt;f1&gt;Synchronize Labels&lt;/f1&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pamatujeme, že jsme vybrali &lt;f0&gt;Synchronizovat obsah&lt;/f0&gt; dříve byste nyní měli vidět malé okénko obsahující a &lt;f1&gt;Synchronizovat štítky&lt;/f1&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click this button and the hidden paragraph fields are propagated to all the labels in your document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na toto tlačítko a pole skrytých odstavců se rozšíří na všechny štítky v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(If you do not select Synchronize, then labels can be edited individually.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Pokud nevyberete Synchronizovat, lze štítky upravovat jednotlivě.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You now have a template suitable for future use with the same data source and type of label.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní máte šablonu vhodnou pro budoucí použití se stejným zdrojem dat a typem štítku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you wish to save it, use &lt;f0&gt;File &gt; Templates &gt; Save as Template&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li jej uložit, použijte &lt;f0&gt;Soubor &gt; Šablony &gt; Uložit jako šablonu&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;File &gt; Print&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Soubor &gt; Tisk&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The message shown in Figure &lt;t1&gt;11&lt;/t1&gt;&lt;s2/&gt;appears.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zpráva zobrazená na obrázku &lt;t1&gt;11 &lt;/t1&gt;&lt;s2/&gt; objeví se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f3&gt;Yes&lt;/f3&gt; to print.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f3&gt;Ano&lt;/f3&gt; vytisknout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Mail Merge dialog (Figure &lt;t0&gt;12&lt;/t0&gt;), you can choose to print all records or selected records.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Hromadná korespondence (obrázek &lt;t0&gt;12&lt;/t0&gt; ), můžete zvolit tisk všech záznamů nebo vybraných záznamů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select records to be printed, use &lt;f1&gt;Ctrl&lt;/f1&gt;+&lt;f2&gt;click&lt;/f2&gt; to select individual records.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K výběru záznamů k tisku použijte &lt;f1&gt;Ctrl&lt;/f1&gt; + &lt;f2&gt;klikněte&lt;/f2&gt; k výběru jednotlivých záznamů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select a block of records, select the first record in the block, scroll to the last record in the block, and &lt;f3&gt;Shift&lt;/f3&gt;+&lt;f4&gt;click&lt;/f4&gt; on the last record.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat blok záznamů, vyberte první záznam v bloku, přejděte na poslední záznam v bloku a &lt;f3&gt;Posun&lt;/f3&gt; + &lt;f4&gt;klikněte&lt;/f4&gt; na posledním záznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to send the labels directly to the printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; k odeslání štítků přímo do tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you prefer to save the labels to a file, perhaps to allow later editing such as changing the typeface or paragraph format, then select &lt;f0&gt;File&lt;/f0&gt; in the &lt;f1&gt;Output&lt;/f1&gt; section of the Mail Merge dialog, not the default &lt;f2&gt;Printer&lt;/f2&gt; selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud dáváte přednost uložení štítků do souboru, možná pro pozdější úpravy, jako je změna formátu písma nebo odstavce, pak vyberte &lt;f0&gt;Soubor&lt;/f0&gt; v &lt;f1&gt;Výstup&lt;/f1&gt; část dialogového okna Hromadná korespondence, není to výchozí &lt;f2&gt;Tiskárna&lt;/f2&gt; výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This changes the dialog to highlight the &lt;f3&gt;Save merged document&lt;/f3&gt; section, where &lt;f4&gt;Save as single document&lt;/f4&gt; is preselected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se změní dialog pro zvýraznění &lt;f3&gt;Uložit sloučený dokument&lt;/f3&gt; sekce, kde &lt;f4&gt;Uložit jako jeden dokument&lt;/f4&gt; je předvolena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, clicking &lt;f0&gt;OK&lt;/f0&gt; brings up the Save as dialog, where you can enter a file name for the saved labels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto případě kliknutím &lt;f0&gt;OK&lt;/f0&gt; vyvolá dialogové okno Uložit jako, kde můžete zadat název souboru pro uložené štítky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you did not save the prototype label fields document (template) earlier, then you are prompted to do so now by another Save as dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste dokument (šablonu) prototypových polí pole dříve neuložili, budete k tomu vyzváni dalším dialogem Uložit jako.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In either case, whether printing or saving to file, despite there apparently being only one page of labels, the printed or saved output will be expanded to include all of the selected records from the data source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V obou případech, ať už jde o tisk nebo uložení do souboru, přestože bude zjevně pouze jedna stránka štítků, bude tištěný nebo uložený výstup rozšířen tak, aby zahrnoval všechny vybrané záznamy ze zdroje dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>edit saved file</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>upravit uložený soubor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit a saved file of mailing labels, open the saved label file in the same way as any other Writer document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit uložený soubor poštovních štítků, otevřete uložený soubor štítků stejným způsobem jako jakýkoli jiný dokument Writeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will be prompted to update all links.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Budete vyzváni k aktualizaci všech odkazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;No&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Ne&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(If you select &lt;f1&gt;Synchronize&lt;/f1&gt;, all the labels will end up containing the same data, which may not be what you want.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Pokud vyberete &lt;f1&gt;Synchronizovat&lt;/f1&gt; , všechny štítky nakonec budou obsahovat stejná data, což nemusí být to, co chcete.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can edit individual records in the normal way, by highlighting and changing the font name, for example.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednotlivé záznamy můžete upravovat běžným způsobem, například zvýrazněním a změnou názvu písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you cannot edit all labels globally (for example, to change the font name for all records) by the technique of selecting the entire document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nelze však globálně upravit všechny štítky (například změnit název písma pro všechny záznamy) technikou výběru celého dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, edit the paragraph style associated with the label records:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Místo toho upravte styl odstavce přidružený k záznamům štítků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click in a label record.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na záznam štítku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Paragraph &gt; Edit Style&lt;/f0&gt; on the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do &lt;f0&gt;Odstavec &gt; Upravit styl&lt;/f0&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then from the Paragraph Style dialog, you can make changes to the font name, the font size, the indents, and other attributes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté v dialogu Styl odstavce můžete provádět změny názvu písma, velikosti písma, odsazení a dalších atributů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead of printing mailing labels, you may wish to print directly onto envelopes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Místo tisku poštovních štítků můžete chtít tisknout přímo na obálky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By selecting &lt;f0&gt;Insert &gt; Envelope&lt;/f0&gt; from the Menu bar, you can select one of two methods for their production: either the envelope is embedded within a letter, generally as the first page (&lt;f1&gt;Insert&lt;/f1&gt; in the Envelope dialog), or the envelope is an independent document (&lt;f2&gt;New Document&lt;/f2&gt; in the dialog).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem &lt;f0&gt;Vložit &gt; Obálka&lt;/f0&gt; z řádku nabídek můžete vybrat jednu ze dvou metod jejich výroby: buď je obálka vložena do písmene, obvykle jako první stránka ( &lt;f1&gt;Vložit&lt;/f1&gt; v obálce), nebo je obálka nezávislým dokumentem ( &lt;f2&gt;Nový dokument&lt;/f2&gt; v dialogovém okně).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In each case the addressing data may be manually entered, for example by copying and pasting from the letter with which it is associated, or it may originate within an address data source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V každém případě lze adresovací data zadat ručně, například zkopírováním a vložením z dopisu, s nímž jsou spojena, nebo mohou pocházet ze zdroje adresních dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The production of envelopes involves two steps, setup and printing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výroba obálek zahrnuje dva kroky, nastavení a tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For general instructions on setting up envelopes for printing, see “Printing envelopes” in Chapter 7, Printing, Exporting, E-mailing, and Signing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obecné pokyny k nastavení obálek pro tisk naleznete v části „Tisk obálek“ v kapitole 7, Tisk, export, e-mail a podepisování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section describes the use of an address data source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato část popisuje použití zdroje dat adresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Insert &gt; Envelope&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Vložit &gt; Obálka&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Envelope&lt;/f0&gt; page of the Envelope dialog (Figure &lt;t1&gt;21&lt;/t1&gt;), choose whether to add Sender information to the envelope and edit the information in the &lt;f2&gt;Sender &lt;/f2&gt;box (Sender is the “from” on the envelope).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Obálka&lt;/f0&gt; stránka dialogového okna Obálka (Obrázek &lt;t1&gt;21&lt;/t1&gt; ), zvolte, zda chcete do obálky přidat informace o odesílateli a upravit informace v &lt;f2&gt;Odesílatel&lt;/f2&gt; pole (Odesílatel je „od“ na obálce).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Choosing addressee and sender information for envelopes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Výběr informací o adresátovi a odesílateli obálek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create the Addressee fields by dragging and dropping from the data source headings (as described in “&lt;bf0&gt;Creating a form letter&lt;/bf0&gt;” on page &lt;bf1&gt;6&lt;/bf1&gt;, and in particular in Figure &lt;t2&gt;8&lt;/t2&gt;) or by using the facilities of the &lt;f3&gt;Envelope&lt;/f3&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvářejte pole adresáta přetažením ze záhlaví zdroje dat (jak je popsáno v části „ &lt;bf0&gt;Vytváření formulářového dopisu&lt;/bf0&gt; “ na stránce &lt;bf1&gt;6&lt;/bf1&gt; , a zejména na obrázku &lt;t2&gt;8&lt;/t2&gt; ) nebo využíváním zařízení &lt;f3&gt;Obálka&lt;/f3&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you prefer dragging and dropping, then click &lt;f0&gt;New Document&lt;/f0&gt;, drag your data source headings into the &lt;f1&gt;Addressee&lt;/f1&gt; box on your new envelope and skip to step 10), otherwise continue with the next step.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud dáváte přednost přetahování, klikněte na &lt;f0&gt;Nový dokument&lt;/f0&gt; , přetáhněte záhlaví zdroje dat do &lt;f1&gt;Adresát&lt;/f1&gt; na nové obálce a přejděte ke kroku 10), jinak pokračujte dalším krokem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Verify, add, or edit the information in the &lt;f0&gt;Addressee&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ověřte, přidejte nebo upravte informace v &lt;f0&gt;Adresát&lt;/f0&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use the right-hand drop-down lists to select the database and table from which you can access the Addressee information, in a similar fashion to that described for “&lt;rf1&gt;Printing mailing labels&lt;/rf1&gt;” on page &lt;bf2&gt;10&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí rozevíracích seznamů vpravo můžete vybrat databázi a tabulku, ze které máte přístup k informacím o adresátovi, podobným způsobem, jaký je popsán pro „ &lt;rf1&gt;Tisk poštovních štítků&lt;/rf1&gt; “ na stránce &lt;bf2&gt;10&lt;/bf2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have finished formatting, click either the &lt;f0&gt;New Document&lt;/f0&gt; or &lt;f1&gt;Insert&lt;/f1&gt; button to finish.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení formátování klikněte na ikonu &lt;f0&gt;Nový dokument&lt;/f0&gt; nebo &lt;f1&gt;Vložit&lt;/f1&gt; tlačítko pro dokončení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f2&gt;New Document&lt;/f2&gt; creates only the envelope template in a new document, whereas &lt;f3&gt;Insert&lt;/f3&gt; inserts the envelope into your current document as page 1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f2&gt;Nový dokument&lt;/f2&gt; vytvoří v novém dokumentu pouze šablonu obálky, zatímco &lt;f3&gt;Vložit&lt;/f3&gt; vloží obálku do aktuálního dokumentu jako strana 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quite often some of the fields in your address data source will be unused, leading to blank lines in the envelope Addressee area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některá pole ve zdroji dat adresy budou často nevyužita, což povede k prázdným řádkům v oblasti obálky adresáta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this is not important, go straight to “&lt;bf0&gt;Merging and printing the envelopes&lt;/bf0&gt;” below, otherwise continue as described in “&lt;bf1&gt;Removing blank lines from labels&lt;/bf1&gt;” on page &lt;bf2&gt;12&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud to není důležité, přejděte rovnou na „ &lt;bf0&gt;Sloučení a tisk obálek&lt;/bf0&gt; „Níže, jinak pokračujte podle popisu v„ &lt;bf1&gt;Odstranění prázdných řádků ze štítků&lt;/bf1&gt; “ na stránce &lt;bf2&gt;12&lt;/bf2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>envelopes</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>obálky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To &lt;i0/&gt;merge addresses and print the envelopes:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;i0/&gt; sloučit adresy a vytisknout obálky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A message box appears.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazí se okno se zprávou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;is0/&gt;&lt;is1/&gt;&lt;is2/&gt;Mail Merge dialog&lt;ie3/&gt;&lt;ie4/&gt;&lt;ie5/&gt; (Figure &lt;t6&gt;12&lt;/t6&gt;) appears.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;is0/&gt;&lt;is1/&gt;&lt;is2/&gt; Dialogové okno Hromadná korespondence &lt;ie3/&gt;&lt;ie4/&gt;&lt;ie5/&gt; (Postava &lt;t6&gt;12&lt;/t6&gt; ) objeví se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with form letters and mailing labels, you can choose to print envelopes for one, several or all address records in the database.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako u formulářových dopisů a poštovních štítků si můžete vybrat tisk obálek pro jeden, několik nebo všechny záznamy adres v databázi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make your selections and then click &lt;f0&gt;OK&lt;/f0&gt; to print direct to the printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proveďte výběr a poté klikněte &lt;f0&gt;OK&lt;/f0&gt; pro přímý tisk na tiskárně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check the envelopes before printing them, see “&lt;bf1&gt;Editing merged documents&lt;/bf1&gt;” on page &lt;bf2&gt;9&lt;/bf2&gt;&lt;s3/&gt;for instructions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zkontrolovat obálky před jejich tiskem, viz „ &lt;bf1&gt;Úpravy sloučených dokumentů&lt;/bf1&gt; “ na stránce &lt;bf2&gt;9 &lt;/bf2&gt;&lt;s3/&gt; pokyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When your envelope layout and fields are complete to your satisfaction, you can save the result as a template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Až bude rozložení obálek a pole k vaší spokojenosti kompletní, můžete výsledek uložit jako šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;File &gt; Templates &gt; Save As Template&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Soubor &gt; Šablony &gt; Uložit jako šablonu&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Templates dialog, type a name and choose a template category.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Šablony zadejte název a vyberte kategorii šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Save&lt;/f0&gt; to save the template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Uložit&lt;/f0&gt; uložit šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The manual method of creating a form letter described in “&lt;bf0&gt;Creating a form letter&lt;/bf0&gt;” on page &lt;bf1&gt;6&lt;/bf1&gt;&lt;s2/&gt;provides the most control over the result and is therefore recommended.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ruční metoda vytváření formulářového dopisu popsaná v části „ &lt;bf0&gt;Vytváření formulářového dopisu&lt;/bf0&gt; “ na stránce &lt;bf1&gt;6 &lt;/bf1&gt;&lt;s2/&gt; poskytuje největší kontrolu nad výsledkem, a proto se doporučuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you prefer to use the Mail Merge wizard, the technique is described below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud dáváte přednost použití průvodce hromadnou korespondencí, je tento postup popsán níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>creating with wizard</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>vytváření pomocí průvodce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>form letter</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>formulářový dopis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open a new document with &lt;f0&gt;File &gt; New &gt; Text Document&lt;/f0&gt; and start the Mail Merge wizard using &lt;f1&gt;Tools &gt; &lt;/f1&gt;&lt;i2/&gt;&lt;i3/&gt;&lt;f4&gt;Mail Merge Wizard&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete nový dokument pomocí &lt;f0&gt;Soubor &gt; Nový &gt; Textový dokument&lt;/f0&gt; a spusťte průvodce hromadnou korespondencí pomocí &lt;f1&gt;Nástroje &gt; &lt;/f1&gt;&lt;i2/&gt;&lt;i3/&gt;&lt;f4&gt; Průvodce hromadnou korespondencí&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The wizard opens, as shown in Figure &lt;t5&gt;18&lt;/t5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se průvodce, jak je znázorněno na obrázku &lt;t5&gt;18&lt;/t5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The wizard gives several options for the starting document:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce poskytuje několik možností pro počáteční dokument:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the current document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použít aktuální dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start from existing document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Začněte od existujícího dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start from a template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Začněte od šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the purposes of this example, we assume that you opened a new text document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro účely tohoto příkladu předpokládáme, že jste otevřeli nový textový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Use the current document&lt;/f0&gt; and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Použít aktuální dokument&lt;/f0&gt; a klikněte &lt;f1&gt;další&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: &lt;s1/&gt;Select starting document</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;18&lt;/seq0&gt; : &lt;s1/&gt; Vyberte počáteční dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The wizard can produce letters or email messages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce může vytvářet dopisy nebo e-mailové zprávy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this example, we are producing a letter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto příkladu vyrábíme dopis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Letter&lt;/f0&gt; and click &lt;f1&gt;Next&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Dopis&lt;/f0&gt; a klikněte &lt;f1&gt;další&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: &lt;s1/&gt;Choose document type</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;19&lt;/seq0&gt; : &lt;s1/&gt; Vyberte typ dokumentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the most complex step in the wizard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je nejsložitější krok v průvodci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this step (Figure &lt;t0&gt;20&lt;/t0&gt;) you will do three things:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto kroku (obr &lt;t0&gt;20&lt;/t0&gt; ) uděláte tři věci:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tell the wizard which data source to use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řekněte průvodci, který zdroj dat použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data source must be an existing file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zdrojem dat musí být existující soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the address block to use in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte blok adresy, který se má v dokumentu použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means choosing which fields appear (for example, whether the country is included) and how they look.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To znamená zvolit, která pole se zobrazí (například zda je země zahrnuta) a jak vypadají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that the fields all match correctly.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zkontrolujte, zda se všechna pole shodují správně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is very important.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tohle je velmi důležité.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the UK English version of the wizard has a field called &lt;Surname&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například anglická verze průvodce ve Velké Británii má pole s názvem &lt;surname&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your spreadsheet has a column called “Last Name”, you need to tell the wizard that &lt;Surname&gt; and “Last Name” are equivalent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má vaše tabulka sloupec s názvem „Příjmení“, musíte to sdělit průvodci &lt;surname&gt;a „Příjmení“ jsou ekvivalentní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is described in “&lt;bf0&gt;Matching the fields&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To je popsáno v „ &lt;bf0&gt;Odpovídající pole&lt;/bf0&gt; “ na stránce &lt;bf1&gt;19&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Insert address block</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;20&lt;/seq0&gt; : Vložte blok adresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the current address list, identified beneath the &lt;f0&gt;Select Different Address List&lt;/f0&gt; button in section &lt;f1&gt;1&lt;/f1&gt;, is not the one you wish to use, click the button to open the &lt;is2/&gt;&lt;is3/&gt;Select Address List dialog&lt;ie4/&gt;&lt;ie5/&gt; (Figure &lt;t6&gt;21&lt;/t6&gt;) for choosing a data source.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je aktuální seznam adres, identifikován pod &lt;f0&gt;Vyberte jiný seznam adres&lt;/f0&gt; tlačítko v sekci &lt;f1&gt;1&lt;/f1&gt; , není ten, který chcete použít, kliknutím na tlačítko otevřete &lt;is2/&gt;&lt;is3/&gt; Dialog Vyberte seznam adres &lt;ie4/&gt;&lt;ie5/&gt; (Postava &lt;t6&gt;21&lt;/t6&gt; ) pro výběr zdroje dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Address List dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog Vyberte seznam adres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: &lt;i1/&gt;Select address list dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;21&lt;/seq0&gt; : &lt;i1/&gt; Dialog Vyberte seznam adres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have not already created the address list, you may click &lt;f0&gt;Create&lt;/f0&gt; to do so now.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste dosud nevytvořili seznam adres, můžete kliknout &lt;f0&gt;Vytvořit&lt;/f0&gt; udělat tak hned.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This step will allow you to create a .csv (Comma Separated Values) file with a new list of address records.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento krok vám umožní vytvořit soubor .csv (hodnoty oddělené čárkami) s novým seznamem záznamů adres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have an address list that is not registered in LibreOffice, but which you wish to use, click &lt;f1&gt;Add&lt;/f1&gt; and select the file from the location in which it is saved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud máte seznam adres, který není registrován v LibreOffice, ale který chcete použít, klikněte na &lt;f1&gt;Přidat&lt;/f1&gt; a vyberte soubor z umístění, ve kterém je uložen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In each of these cases a new data source (.odb file) will be created and registered.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V každém z těchto případů bude vytvořen a zaregistrován nový zdroj dat (soubor .odb).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the address list and click &lt;f0&gt;OK&lt;/f0&gt; to return to the Insert Address Block dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte seznam adres a klikněte na &lt;f0&gt;OK&lt;/f0&gt; pro návrat do dialogu Vložit blok adresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We retain “Points” as our address book for this example.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>„Body“ si ponecháváme jako adresář pro tento příklad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The wizard can also exclude certain records; click &lt;f1&gt;Filter&lt;/f1&gt; to choose them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce může také vyloučit určité záznamy; klikněte &lt;f1&gt;Filtr&lt;/f1&gt; vybrat je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In section &lt;f0&gt;2&lt;/f0&gt; (shown in Figure &lt;t1&gt;20&lt;/t1&gt;), select the address block to appear on the letter, define its appearance, and choose the fields it contains.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V sekci &lt;f0&gt;2&lt;/f0&gt; (zobrazeno na obrázku &lt;t1&gt;20&lt;/t1&gt; ), vyberte blok adresy, který se má na písmenu objevit, definujte jeho vzhled a vyberte pole, která obsahuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The main page gives two choices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní stránka nabízí dvě možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f2&gt;More&lt;/f2&gt; to open the Select Address Block dialog for more choices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f2&gt;Více&lt;/f2&gt; pro otevření dialogu Vybrat blok adres pro více možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;is0/&gt;&lt;is1/&gt;Select Address Block dialog&lt;ie2/&gt;&lt;ie3/&gt; (Figure &lt;t4&gt;22&lt;/t4&gt;) displays the original two blocks plus other choices for the format of the address block (you may need to scroll down to see all of the choices).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;is0/&gt;&lt;is1/&gt; Dialogové okno Vyberte blokování adres &lt;ie2/&gt;&lt;ie3/&gt; (Postava &lt;t4&gt;22&lt;/t4&gt; ) zobrazí původní dva bloky plus další možnosti pro formát bloku adresy (všechny možnosti budete možná muset posouvat dolů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also optionally include or exclude the country (for example, only include the country if it is not England) in the &lt;f5&gt;Address Block Settings&lt;/f5&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také volitelně zahrnout nebo vyloučit zemi (například zahrnout pouze zemi, pokud to není Anglie) v &lt;f5&gt;Nastavení bloku adresy&lt;/f5&gt; sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formats provided are relatively common, but they might not exactly match your preference.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytnuté formáty jsou relativně běžné, ale nemusí přesně odpovídat vašim preferencím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this is the case, select the address block that is closest to what you want and click &lt;f6&gt;Edit&lt;/f6&gt;, which opens the Edit Address Block dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V takovém případě vyberte blok adresy, který je nejblíže tomu, co chcete, a klikněte &lt;f6&gt;Upravit&lt;/f6&gt; , který otevře dialog Upravit blok adresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Select address block</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;22&lt;/seq0&gt; : Vyberte blok adresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Edit&lt;is0/&gt;&lt;is1/&gt; Address Block dialog&lt;ie2/&gt;&lt;ie3/&gt; (Figure &lt;t4&gt;23&lt;/t4&gt;), you can add or delete address elements using the arrow buttons between the boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V Upravit &lt;is0/&gt;&lt;is1/&gt; Dialogové okno Blokování adresy &lt;ie2/&gt;&lt;ie3/&gt; (Postava &lt;t4&gt;23&lt;/t4&gt; ), můžete přidat nebo odstranit prvky adresy pomocí tlačítek se šipkami mezi poli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move elements around, use the arrow buttons on the right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přesouvat prvky, použijte tlačítka se šipkami vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to add an extra space between the first and the last names in Figure &lt;t5&gt;23&lt;/t5&gt;, click &lt;Last Name&gt; and then click the &lt;f6&gt;Move right&lt;/f6&gt; arrow button on the right-hand side.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například přidat další mezeru mezi křestní a příjmení na obrázku &lt;t5&gt;23&lt;/t5&gt; , klikněte &lt;last Name&gt;a poté klikněte na &lt;f6&gt;Pohyb vpravo&lt;/f6&gt; tlačítko se šipkou na pravé straně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Edit Address Block dialog, then click &lt;f1&gt;OK&lt;/f1&gt; on the Select Address Block dialog to save your changes and return to the Mail Merge Wizard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; zavřete dialogové okno Upravit blok adresy a klikněte na &lt;f1&gt;OK&lt;/f1&gt; v dialogu Vybrat blok adresy uložte provedené změny a vraťte se do Průvodce hromadnou korespondencí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Edit address block</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;23&lt;/seq0&gt; : Upravit blok adresy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, it is time to match the wizard’s fields with the spreadsheet fields, so that items like &lt;Surname&gt; and “Last Name” match correctly.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakonec je čas porovnat pole průvodce s poli tabulky, aby se položky líbily &lt;surname&gt;a „Příjmení“ se shodují správně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Look at section &lt;f0&gt;3&lt;/f0&gt; of the wizard (shown in Figure &lt;t1&gt;20&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;17&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podívejte se na sekci &lt;f0&gt;3&lt;/f0&gt; průvodce (znázorněno na obrázku &lt;t1&gt;20 &lt;/t1&gt;&lt;s2/&gt; na stránce &lt;t3&gt;17&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The box at the bottom displays one record at a time, using the address block format you specified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole v dolní části zobrazuje po jednom záznamu ve formátu bloku adresy, který jste zadali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the right and left arrow buttons below that address box to step through the addresses, checking that they display correctly.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí tlačítek se šipkou doprava a doleva pod tímto polem adresy procházejte adresy a ověřujte, zda se zobrazují správně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not assume that all the records display correctly, just because one or two do.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nepředpokládejte, že se všechny záznamy zobrazují správně, jen proto, že jeden nebo dva ano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the addresses do not display correctly, click &lt;f0&gt;Match Fields&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se adresy nezobrazují správně, klikněte na &lt;f0&gt;Zápasová pole&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;is0/&gt;&lt;is1/&gt;Match Fields dialog&lt;ie2/&gt;&lt;ie3/&gt; (Figure &lt;t4&gt;24&lt;/t4&gt;) has three columns:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;is0/&gt;&lt;is1/&gt; Dialog Match Fields &lt;ie2/&gt;&lt;ie3/&gt; (Postava &lt;t4&gt;24&lt;/t4&gt; ) má tři sloupce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Address Elements are the terms the wizard uses for each field, such as &lt;First Name&gt; and &lt;Last Name&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Prvky adresy jsou výrazy, které průvodce používá pro každé pole, například &lt;first Name&gt;a &lt;last Name&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Matches to &lt;f0&gt;Field&lt;/f0&gt; column to select, for each address element, the field from your data source that matches it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte zápasy k &lt;f0&gt;Pole&lt;/f0&gt; sloupec vyberte pro každý prvek adresy pole ze zdroje dat, které se s ním shoduje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Preview&lt;/f0&gt; column shows what will be shown for this field from the selected address block, so you can double-check that the match is correct.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Náhled&lt;/f0&gt; sloupec ukazuje, co se pro toto pole zobrazí z vybraného bloku adresy, takže můžete znovu zkontrolovat správnost shody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you have matched all the fields, click &lt;f0&gt;OK&lt;/f0&gt; to return to the Insert Address Block dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po nalezení všech polí klikněte na &lt;f0&gt;OK&lt;/f0&gt; pro návrat do dialogu Vložit blok adresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now, when you use the arrow buttons to look at all the addresses, they should all look correct.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se nyní pomocí tlačítek se šipkami podíváte na všechny adresy, měly by všechny vypadat správně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not, go back and change anything you’re not happy with, before clicking &lt;f1&gt;Next&lt;/f1&gt; to move to the next step.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud ne, vraťte se a před kliknutím změňte vše, s čím nejste spokojeni &lt;f1&gt;další&lt;/f1&gt; přejdete k dalšímu kroku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that you will not be able to continue until you have correctly matched all the fields in your chosen address block.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pamatujte, že nebudete moci pokračovat, dokud správně neodpovídáte všem polím ve vybraném bloku adresy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you see &lt;not yet matched&gt; in a field position it indicates that the field in question is not correctly matched.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vidíte &lt;not yet matched&gt;v pozici pole znamená, že dotyčné pole není správně přiřazeno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Match fields dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;24&lt;/seq0&gt; : Dialog shody polí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notice the option for &lt;f0&gt;Suppress lines with empty fields&lt;/f0&gt; in section &lt;f1&gt;2&lt;/f1&gt; of Figure &lt;t2&gt;20&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všimněte si možnosti pro &lt;f0&gt;Potlačit řádky prázdnými poli&lt;/f0&gt; v sekci &lt;f1&gt;2&lt;/f1&gt; obrázku &lt;t2&gt;20&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the Wizard, you do not have to create your own conditional suppression fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí průvodce nemusíte vytvářet vlastní pole podmíněného potlačení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to create just about any salutation you want in this step (see Figure &lt;t0&gt;25&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto kroku je možné vytvořit téměř jakýkoli pozdrav, který chcete (viz obrázek &lt;t0&gt;25&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;This document should contain a salutation&lt;/f0&gt; to enable the &lt;f1&gt;General salutation&lt;/f1&gt; list box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Tento dokument by měl obsahovat pozdrav&lt;/f0&gt; povolit &lt;f1&gt;Obecný pozdrav&lt;/f1&gt; seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some general texts are available in the list box, or you can enter your own text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé obecné texty jsou k dispozici v seznamu nebo můžete zadat vlastní text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A preview pane displays your choice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podokno náhledu zobrazí vaši volbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Insert personalized salutation&lt;/f0&gt; to enable further salutation constructs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Vložte osobní pozdrav&lt;/f0&gt; umožnit další pozdravné konstrukty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can, for example, use a different greeting for men and women.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete například použít jiný pozdrav pro muže a ženy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, Writer must have some way of knowing whether a person is male or female.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K tomu musí mít Writer nějaký způsob, jak zjistit, zda je člověk muž nebo žena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a spreadsheet, you might have a column called Gender.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tabulce můžete mít sloupec s názvem Pohlaví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the section &lt;f0&gt;Address list field indicating a female recipient&lt;/f0&gt;, set the &lt;f1&gt;Field name&lt;/f1&gt; to Gender and the &lt;f2&gt;Field value&lt;/f2&gt; to F. The Male salutation is then printed for all men and the Female salutation for all women.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V sekci &lt;f0&gt;Pole seznamu adres označující ženskou příjemkyni&lt;/f0&gt; , nastav &lt;f1&gt;Název pole&lt;/f1&gt; pohlaví a &lt;f2&gt;Hodnota pole&lt;/f2&gt; Pozdrav mužům se poté vytiskne pro všechny muže a pozdrav žen pro všechny ženy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unfortunately, LibreOffice does not provide for other genders; however, you can use a non-gendered salutation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice bohužel neposkytuje další pohlaví; Můžete však použít pozdrav bez pohlaví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not have such a column in your spreadsheet, or if you do not need to distinguish between genders in the salutation, then you can leave the &lt;f0&gt;Field name&lt;/f0&gt; and &lt;f1&gt;Field value&lt;/f1&gt; boxes empty and use the customized content of the &lt;f2&gt;Male&lt;/f2&gt; list box for the salutation to all recipients.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud takový sloupec v tabulce nemáte nebo pokud při oslovení nepotřebujete rozlišovat mezi pohlavími, můžete ponechat &lt;f0&gt;Název pole&lt;/f0&gt; a &lt;f1&gt;Hodnota pole&lt;/f1&gt; pole jsou prázdná a používají přizpůsobený obsah souboru &lt;f2&gt;mužský&lt;/f2&gt; seznam pro pozdrav všem příjemcům.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Salutation dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořit dialogové okno oslovení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;25&lt;/seq0&gt;: &lt;i1/&gt;Create a salutation</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;25&lt;/seq0&gt; : &lt;i1/&gt; Vytvořte pozdrav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As an example:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jako příklad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;New&lt;/f0&gt; button alongside the &lt;f1&gt;Male&lt;/f1&gt; list box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Nový&lt;/f0&gt; tlačítko vedle &lt;f1&gt;mužský&lt;/f1&gt; seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Custom Salutation (Male Recipients) dialog opens (see Figure &lt;t2&gt;26&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se dialog Vlastní oslovení (mužští příjemci) (viz obrázek &lt;t2&gt;26&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Salutation&lt;/f0&gt; in the &lt;f1&gt;Salutation elements&lt;/f1&gt; list on the right and drag it into box 1 on the right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Oslovení&lt;/f0&gt; v &lt;f1&gt;Oslovující prvky&lt;/f1&gt; seznam vpravo a přetáhněte jej do pole 1 vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Customize salutation&lt;/f0&gt; box, select an appropriate greeting or type your own text into the box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Přizpůsobte pozdrav&lt;/f0&gt; do pole vyberte příslušný pozdrav nebo do pole zadejte svůj vlastní text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit it as needed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podle potřeby jej upravte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select and move &lt;f0&gt;First Name&lt;/f0&gt; from the &lt;f1&gt;Salutation elements&lt;/f1&gt; list into box 1, using either the &lt;f2&gt;Add to salutation&lt;/f2&gt; arrow button or by dragging it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte a přesuňte se &lt;f0&gt;Jméno&lt;/f0&gt; z &lt;f1&gt;Oslovující prvky&lt;/f1&gt; seznam do pole 1 pomocí buď &lt;f2&gt;Přidejte k pozdravu&lt;/f2&gt; tlačítko se šipkou nebo jeho přetažením.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then click the &lt;f3&gt;Move right&lt;/f3&gt; arrow button on the right-hand side to add space between the salutation and the first name.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté klikněte na ikonu &lt;f3&gt;Pohyb vpravo&lt;/f3&gt; tlačítko se šipkou na pravé straně pro přidání mezery mezi pozdravem a křestním jménem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select and move &lt;f0&gt;Last Name&lt;/f0&gt; from the &lt;f1&gt;Salutation elements&lt;/f1&gt; list into box 1, then click the &lt;f2&gt;Move right&lt;/f2&gt; arrow button to add space between the first and the last names.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte a přesuňte se &lt;f0&gt;Příjmení&lt;/f0&gt; z &lt;f1&gt;Oslovující prvky&lt;/f1&gt; seznam do pole 1 a poté klikněte na &lt;f2&gt;Pohyb vpravo&lt;/f2&gt; tlačítko se šipkou přidá mezeru mezi křestním a příjmením.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, move Punctuation Mark across and select the comma from the choices in the &lt;f0&gt;Customize salutation&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakonec přesuňte interpunkční znaménko a vyberte čárku z možností v &lt;f0&gt;Přizpůsobte pozdrav&lt;/f0&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The construct is shown in the &lt;f0&gt;Preview&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konstrukt je zobrazen v &lt;f0&gt;Náhled&lt;/f0&gt; box.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carry out any final editing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proveďte jakékoli konečné úpravy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This method allows you to use gender neutral titles such as Doctor (Dr) and Reverend (Rev), or titles such as Ms, or omit titles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato metoda umožňuje používat genderově neutrální tituly, jako jsou Doctor (Dr) a Reverend (Rev), nebo tituly, jako je Ms, nebo vynechat tituly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;26&lt;/seq0&gt;: Customizing the salutation</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;26&lt;/seq0&gt; : Přizpůsobení pozdravu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In step 5: Adjust layout, you can adjust the position of the address block and salutation on the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kroku 5: Upravit rozložení můžete upravit umístění bloku adresy a oslovení na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can place the address block anywhere on the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Blok adresy můžete umístit kdekoli na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The salutation is always on the left, but you can move it up and down the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozdrav je vždy nalevo, ale můžete jím pohybovat nahoru a dolů po stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the buttons shown in Figure &lt;t0&gt;27&lt;/t0&gt;&lt;s1/&gt;to move the elements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte tlačítka znázorněná na obrázku &lt;t0&gt;27 &lt;/t0&gt;&lt;s1/&gt; pohybovat prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjust Layout dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Upravit rozložení dialogu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;27&lt;/seq0&gt;: &lt;i1/&gt;Adjust layout</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;27&lt;/seq0&gt; : &lt;i1/&gt; Upravte rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You now have a Writer document into which you can type the contents of the letter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní máte dokument Writer, do kterého můžete psát obsah dopisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To merge the fields and print the letters, choose &lt;f0&gt;File &gt; Print&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li sloučit pole a vytisknout písmena, zvolte &lt;f0&gt;Soubor &gt; Tisk&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A message pops up, asking if you want to print a form letter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objeví se zpráva s dotazem, zda chcete vytisknout formulářový dopis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mail Merge dialog (Figure &lt;t0&gt;28&lt;/t0&gt;) is now displayed, where you can optionally select records to include or exclude (in the top section) and, in the &lt;f1&gt;Output&lt;/f1&gt; section, choose to print the letters immediately (&lt;f2&gt;Printer&lt;/f2&gt;) or save them (&lt;f3&gt;File&lt;/f3&gt;) for further editing or printing at a later time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogové okno Hromadná korespondence (obrázek &lt;t0&gt;28&lt;/t0&gt; ) je nyní zobrazen, kde můžete volitelně vybrat záznamy, které chcete zahrnout nebo vyloučit (v horní části) a v &lt;f1&gt;Výstup&lt;/f1&gt; části, vyberte okamžitý tisk písmen ( &lt;f2&gt;Tiskárna&lt;/f2&gt; ) nebo je uložit ( &lt;f3&gt;Soubor&lt;/f3&gt; ) pro další úpravy nebo tisk později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you choose &lt;f0&gt;File&lt;/f0&gt;, you can then choose whether to save the output as a single document (containing all of the letters) or save the letters as individual documents, and you can specify the name, location, and format of the files.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se rozhodnete &lt;f0&gt;Soubor&lt;/f0&gt; , pak můžete zvolit, zda chcete uložit výstup jako jeden dokument (obsahující všechna písmena) nebo uložit písmena jako jednotlivé dokumenty, a můžete určit název, umístění a formát souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f1&gt;OK&lt;/f1&gt; to save the letters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f1&gt;OK&lt;/f1&gt; uložit písmena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;28&lt;/seq0&gt;: Mail Merge dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;28&lt;/seq0&gt; : Dialog Hromadná korespondence</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

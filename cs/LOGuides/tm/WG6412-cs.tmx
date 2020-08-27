@@ -1,0 +1,2918 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 12 Lists: Tips and Tricks</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 12 Seznamy: Tipy a triky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 12 Lists: Tips and Tricks&lt;segment 43458 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 12 Seznamy: Tipy a triky &lt;segment 43458 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Formatting list styles&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;21&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Formátování stylů seznamu &lt;/t0&gt;&lt;f1&gt; | &lt;/f1&gt;&lt;t2&gt; 21&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;20&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 12 Lists: Tips and Tricks&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;20 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 12 Seznamy: Tipy a triky &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 12 Lists: Tips and Tricks&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 12 Seznamy: Tipy a triky &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;0&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 12 Lists: Tips and Tricks&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 0 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 12 Seznamy: Tipy a triky&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer 6.4 Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Writer 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lists: Tips and Tricks</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznamy: Tipy a triky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Felipe Viggiano</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Felipe Viggiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter is adapted from parts of Chapters 6 and 10 in &lt;f0&gt;Designing with LibreOffice&lt;/f0&gt;, by Bruce Byfield, with additional material by Jean Hollis Weber.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola je převzata z částí kapitol 6 a 10 v &lt;f0&gt;Navrhování s LibreOffice&lt;/f0&gt; , Bruce Byfield, s dalším materiálem Jean Hollis Weber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July 2020.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Control+click&lt;/f0&gt; and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ctrl + klik&lt;/f0&gt; a / nebo klepněte pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Types of list</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Druhy seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullet lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznamy odrážek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The conventions for bullet lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konvence pro seznamy odrážek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numbered lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Číslované seznamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The conventions for numbered lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konvence pro číslované seznamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Outline lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přehledy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The conventions for outline lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konvence pro obrysové seznamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combining list and paragraph styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kombinování stylů seznamu a odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nesting lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hnízdící seznamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Outlining with paragraph styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Osnovy se styly odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating outlines with a single paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření obrysů pomocí jediného odstavcového stylu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding paragraph styles to outline levels</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidání odstavcových stylů na úrovně osnovy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Applying list styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používání stylů seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restarting or continuing the numbering</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Restartování nebo pokračování číslování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Naming list styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly seznamu názvů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting list styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování stylů seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Positioning bullets, numbers, and list items</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístění odrážek, čísel a položek seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Understanding position fields</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Porozumění polohovým polím</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting numbered lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování číslovaných seznamů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding characters before and after numbers</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidávání znaků před a za čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting the character style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení stylu znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: Formatting large list numbers</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad: Formátování velkých čísel seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with two-digit list numbers</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce s dvoucifernými čísly seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting bullet lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování seznamů odrážek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: Making a checklist</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad: Vytvoření kontrolního seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using images as bullets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití obrázků jako odrážek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: Styling the Tips, Notes, and Cautions in this book</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad: Stylizace tipů, poznámek a upozornění v této knize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter expands on information given in Chapter 9, Working with Styles, and provides some extra examples.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola rozšiřuje informace uvedené v kapitole 9, Práce se styly a poskytuje několik dalších příkladů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In many word processors, list options are included in paragraph styles, but Writer treats them as a separate type of style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V mnoha textových procesorech jsou možnosti seznamu zahrnuty do odstavcových stylů, ale Writer s nimi zachází jako se samostatným typem stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer’s separate list styles have two major advantages:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Samostatné styly seznamů spisovatele mají dvě hlavní výhody:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same list style can be used with multiple paragraph styles, avoiding duplication of design work.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejný styl seznamu lze použít s více styly odstavců, aby nedocházelo ke zdvojování návrhových prací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A paragraph’s associated list style can be changed with a single selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl seznamu přidruženého k odstavci lze změnit jediným výběrem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot change the style used by the default toolbar icons for lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl používaný výchozími ikonami panelu nástrojů pro seznamy nelze změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create new toolbar buttons that apply list styles to paragraphs, but a better strategy is to create paragraph styles for lists and, if you wish, create toolbar icons for them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vytvořit nová tlačítka panelu nástrojů, která použijí styly seznamu na odstavce, ale lepší strategií je vytvořit styly odstavců pro seznamy a pokud chcete, vytvořit pro ně ikony na panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 21, Customizing Writer, for information on creating toolbar buttons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kapitole 21, Přizpůsobení zapisovače, najdete informace o vytváření tlačítek na panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With list styles, you can create three types of list:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí stylů seznamu můžete vytvořit tři typy seznamu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullet lists: Unordered lists whose items start with a bullet, special character, dingbat, or graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznamy odrážek: Neuspořádané seznamy, jejichž položky začínají odrážkou, speciálním znakem, bitkou nebo obrázkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numbered lists: Ordered lists whose items start with a number, upper or lower case letters, or upper and lower case Roman numerals.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Číslované seznamy: Seřazené seznamy, jejichž položky začínají číslicí, velkými nebo malými písmeny nebo velkými a malými písmeny římskými číslicemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Outline lists: Hierarchical summaries of an argument or piece of writing, in which each level has its own numbering system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přehledy: Hierarchické souhrny argumentů nebo textů, ve kterých má každá úroveň svůj vlastní systém číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All these types of list are in common use today, especially online.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny tyto typy seznamů se dnes běžně používají, zejména online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each type of list has its own set of conventions about how it is structured and used, as described in this section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý typ seznamu má vlastní sadu konvencí o tom, jak je strukturován a používán, jak je popsáno v této části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullet lists are popular in technical documents, presentations, many web sites, and other online documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznamy odrážek jsou oblíbené v technických dokumentech, prezentacích, mnoha webových stránkách a dalších online dokumentech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides several pre-defined bullet list styles (see Figure &lt;t0&gt;1&lt;/t0&gt;), and you can select others from the Gallery or create your own bullets.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje několik předdefinovaných stylů seznamu odrážek (viz obrázek &lt;t0&gt;1&lt;/t0&gt; ) a můžete si vybrat další z Galerie nebo vytvořit vlastní odrážky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Writer’s pre-defined bullet types</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Předdefinované typy odrážek pro spisovatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullet list styles can be used for other purposes in addition to normal lists, especially if you choose a graphic for the bullet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly seznamu odrážek lze kromě běžných seznamů použít i pro jiné účely, zejména pokud pro odrážku vyberete grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Example: Styling the Tips, Notes, and Cautions in this book&lt;/bf0&gt;” on page &lt;bf1&gt;18&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „ &lt;bf0&gt;Příklad: Stylizace tipů, poznámek a upozornění v této knize&lt;/bf0&gt; “ na stránce &lt;bf1&gt;18&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The use of bullet lists follows well-defined conventions:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití seznamů odrážek se řídí přesně definovanými konvencemi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are used only when the order of the points is irrelevant.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používají se, pouze pokud je pořadí bodů irelevantní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You might want to arrange points for rhetorical effect, starting with one fairly important point and ending with your strongest point, but readers do not actually need to know one point before another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možná budete chtít uspořádat body pro rétorický efekt, počínaje jedním poměrně důležitým bodem a konče vaším nejsilnějším bodem, ale čtenáři ve skutečnosti nepotřebují znát jeden bod před druhým.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have three points or more.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mějte tři a více bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have two points, keep them in the body of the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud máte dva body, ponechte je v těle textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are introduced in the last sentence in the body text above them, either without any punctuation or with a colon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jsou představeny v poslední větě v textu nad nimi, a to buď bez interpunkce, nebo s dvojtečkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consist of points that are all grammatical completions of the last sentence in the paragraph before them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Skládají se z bodů, která jsou gramatickými doplněními poslední věty v odstavci před nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means that each point has a similar grammatical structure to the others.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To znamená, že každý bod má podobnou gramatickou strukturu jako ostatní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this bullet list, for instance, each point starts with a present tense verb.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto seznamu odrážek například každý bod začíná slovesem přítomného času.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>May be sentence fragments, but should be consistent with each other.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mohou to být fragmenty vět, ale měly by být navzájem v souladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, they could be all nouns or participles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mohou to být například všechna podstatná jména nebo příčestí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start with a bullet on, or indented from, the left margin, then indent for the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Začněte odrážkou na levém okraji nebo odsazením od něj, poté odsazení textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If they are lists within lists, then the bullet has the same indent as the text in the top level list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se jedná o seznamy v seznamech, má odrážka stejnou odrážku jako text v seznamu nejvyšší úrovně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can start with either an upper or lower case letter, as long as the convention is consistent throughout the list and the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Může začínat velkým nebo malým písmenem, pokud je konvence konzistentní v celém seznamu a dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>End each point with the same punctuation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ukončete každý bod stejnou interpunkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commas, semi-colons, periods, or no punctuation are all valid choices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čárky, středníky, tečky nebo žádná interpunkce jsou všechny platné volby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What matters is the consistency of list items and of all lists within the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Důležitá je konzistence položek seznamu a všech seznamů v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are generally no more than 6–8 items long.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obvykle nejsou delší než 6–8 položek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Much longer, and the ease of reading is lost.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnohem déle a ztrácí se snadnost čtení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not use an “and,” “or,” or any other word to introduce the last point in the list, even though that would be grammatically correct.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nepoužívejte „a“, „nebo“ ani jiné slovo k vložení posledního bodu do seznamu, i když by to bylo gramaticky správné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are sometimes considered too informal to use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jsou někdy považovány za příliš neformální na použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When in doubt, avoid them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Máte-li pochybnosti, vyhněte se jim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While people number lists all the time, the convention is that numbered lists should only be used when the order of the information matters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zatímco lidé číslují seznamy po celou dobu, platí konvence, že číslované seznamy by se měly používat pouze v případě, že je důležité pořadí informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For instance, in a procedure from a technical manual, one step might be impossible – or even dangerous – without doing another one first.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například v postupu z technické příručky může být jeden krok nemožný - nebo dokonce nebezpečný - aniž byste nejprve udělali další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides several pre-defined numbered list styles (see Figure &lt;t0&gt;2&lt;/t0&gt;), and you can define others.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje několik předdefinovaných stylů číslovaných seznamů (viz obrázek &lt;t0&gt;2&lt;/t0&gt; ) a můžete definovat další.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Writer’s pre-defined numbered lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Předdefinované číslované seznamy spisovatele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numbered lists have fewer conventions than bullet lists, but they do have a few:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Číslované seznamy mají méně konvencí než seznamy odrážek, ale mají několik:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are used when the order of items is important.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používají se, když je důležité pořadí položek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the order is irrelevant, use bullet lists instead.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je objednávka irelevantní, použijte místo toho seznamy odrážek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Like bullet lists, they are used only for three items or more.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako seznamy odrážek se používají pouze pro tři nebo více položek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two-step procedures stay in the body of the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvoustupňové postupy zůstávají v textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are generally introduced in the body text by a summary of the overall task they describe that ends in a colon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obecně jsou v základním textu představeny souhrnem celkového popisu úkolu, který končí dvojtečkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, “To install the software update, follow these steps:” or, simply “To install:”</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například „Chcete-li nainstalovat aktualizaci softwaru, postupujte takto:“ nebo jednoduše „Chcete-li nainstalovat:“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each step can have multiple paragraphs, most of them unnumbered, describing what happens when it is performed or the alternatives.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý krok může mít několik odstavců, většinou nečíslovaných, popisujících, co se stane, když se provádí, nebo alternativy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The steps in a procedure should be less than a dozen (some suggest 6–8).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kroky v postupu by měly být méně než tucet (některé doporučují 6–8).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If each step has multiple paragraphs or you have more than about a dozen steps, you may need to break down the list into smaller lists or else present the points as ordinary body text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má každý krok více odstavců nebo máte více než tucet kroků, bude pravděpodobně nutné rozdělit seznam na menší seznamy nebo prezentovat body jako běžný základní text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Outline lists summarize the structure of a much longer, typically unwritten document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrysové seznamy shrnují strukturu mnohem delšího, obvykle nepsaného dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In finished technical and legal documents, they are used in headings to make the structure obvious, although this use is becoming less common than it was a few decades ago.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V hotových technických a právních dokumentech se používají v nadpisech, aby byla struktura zřejmá, i když toto použití je stále méně běžné, než tomu bylo před několika desítkami let.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer gives several options for outline lists (see Figure &lt;t0&gt;3&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Program Writer poskytuje několik možností pro seznamy obrysů (viz obrázek &lt;t0&gt;3&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List styles create an outline method that uses a single paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly seznamu vytvoří metodu obrysu, která používá styl jediného odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When such a paragraph style is in use, you change the level and the numbering by pressing the &lt;f1&gt;Tab&lt;/f1&gt; key to descend a level, and &lt;f2&gt;Shift+Tab&lt;/f2&gt; to ascend a level.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se takový styl odstavce používá, změníte úroveň a číslování stisknutím tlačítka &lt;f1&gt;Tab&lt;/f1&gt; klíč k sestupu na úroveň a &lt;f2&gt;Shift + Tab&lt;/f2&gt; vystoupit na úroveň.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This single style outlining is by far the quickest to apply and learn.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento jediný styl osnovy je zdaleka nejrychlejší aplikovat a učit se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose to use outline lists when writing a document and then, before publication, remove the letters and numbers of the outline by changing or removing the numbering style associated with the paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při psaní dokumentu můžete zvolit použití obrysových seznamů a poté před publikací odstranit písmena a čísla obrysu změnou nebo odstraněním stylu číslování spojeného se stylem odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Writer’s pre-defined outline list styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Spisovatelské předdefinované styly seznamů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The conventions for outline lists are:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konvence pro obrysové seznamy jsou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usually, a different numbering system is used for each level to help distinguish them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obvykle se pro každou úroveň používá odlišný systém číslování, který jim pomůže je odlišit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Levels can be ordered using Arabic numerals, upper and lower case Roman numerals, and upper and lower case letters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úrovně lze objednat pomocí arabských číslic, římských číslic malými a malými písmeny a malých a velkých písmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upper case Roman numerals are usually reserved for the top level, and upper case letters are used before lower case ones.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Římská čísla s velkými písmeny jsou obvykle vyhrazena pro nejvyšší úroveň a velká písmena se používají před malými písmeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Another alternative is Arabic numbers followed by lower case letters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další alternativou jsou arabská čísla následovaná malými písmeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, these rules are not fixed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato pravidla však nejsou pevná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In technical manuals, multiple levels used to be common in headings (for instance, I.A.2 or 1.1.1).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V technických příručkách bývalo v nadpisech běžné více úrovní (například IA2 nebo 1.1.1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This style has largely fallen out of practice except in a few specialized cases such as legal documents, for the obvious reason that they are hard to remember.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento styl do značné míry vypadl z praxe, s výjimkou několika specializovaných případů, jako jsou právní dokumenty, ze zřejmého důvodu, že je těžké si je zapamatovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, if each heading is indented, after two or three levels almost no space is left for text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je každý nadpis odsazen, po dvou nebo třech úrovních nezbývá pro text téměř žádné místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph styles are essential to lists and outlining.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly odstavců jsou pro seznamy a osnovy zásadní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When applying a list style, the underlying paragraph style remains unchanged.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití stylu seznamu zůstane základní styl odstavce beze změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your list must also have a certain font size, indentations, and so on, you might expect to first apply a paragraph style and then a list style (or the other way around).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud váš seznam musí mít také určitou velikost písma, odsazení atd., Můžete očekávat, že nejprve použijete styl odstavce a poté styl seznamu (nebo naopak).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you can embed a list style in a paragraph style using the &lt;f0&gt;Outline &amp; Numbering&lt;/f0&gt; tab of the Paragraph Style dialog, and then apply only the paragraph style to the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl seznamu však můžete vložit do odstavcového stylu pomocí &lt;f0&gt;Přehled a číslování&lt;/f0&gt; kartu dialogového okna Styl odstavce a poté na seznam použijte pouze styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section gives an example of combining list and paragraph styles:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V této části je uveden příklad kombinace stylů seznamu a odstavců:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a list style you want to use for the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte styl seznamu, který chcete použít pro odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example: MyNumberedList.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například: MyNumberedList.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nový styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Organizer&lt;/f0&gt; tab of the Paragraph Style dialog:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Organizátor&lt;/f0&gt; karta dialogového okna Styl odstavce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Give the new paragraph style a name, say NumberedParagraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pojmenujte nový styl odstavce, například NumberedParagraph.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the Next Style, choose NumberedParagraph (this will make the following paragraph also be in this style, until you choose a different style).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U Dalšího stylu vyberte NumberedParagraph (tím bude následující odstavec také v tomto stylu, dokud nevyberete jiný styl).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;f0&gt;Inherited from&lt;/f0&gt;, choose None.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>v &lt;f0&gt;Zděděno z&lt;/f0&gt; , zvolte Žádný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set up this paragraph style to your liking.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavte si tento odstavec podle svých představ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Because the indentation is controlled by the List style, to avoid undesired interactions do not change the indent settings on the &lt;f0&gt;Indents &amp; Spacing&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Protože odsazení je řízeno stylem seznamu, neměňte nastavení odsazení na, abyste se vyhnuli nežádoucím interakcím &lt;f0&gt;Odsazení a mezery&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(You might want to change the spacing above and below the paragraph.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Možná budete chtít změnit mezery nad a pod odstavcem.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Outline &amp; Numbering&lt;/f0&gt; tab (Figure &lt;t1&gt;4&lt;/t1&gt;), choose the MyNumberedList style created in step 1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Přehled a číslování&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;4&lt;/t1&gt; ), vyberte styl MyNumberedList vytvořený v kroku 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Figure &lt;t2&gt;4&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz obrázek &lt;t2&gt;4&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save this style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; uložit tento styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Assigning a List style to a Paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Přiřazení stylu seznamu stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To have full control, it is common practice to define three base paragraph styles for lists: &lt;f0&gt;List Start&lt;/f0&gt; for the first element of the list, &lt;f1&gt;List Continue&lt;/f1&gt; for the subsequent elements of the list, and &lt;f2&gt;List End&lt;/f2&gt; for the last element of the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li mít plnou kontrolu, je běžnou praxí definovat tři základní odstavcové styly pro seznamy: &lt;f0&gt;Seznam Start&lt;/f0&gt; pro první prvek seznamu, &lt;f1&gt;Seznam Pokračovat&lt;/f1&gt; - pro další prvky seznamu a - &lt;f2&gt;Seznam Konec&lt;/f2&gt; pro poslední prvek seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You could also define a paragraph style to be used for unnumbered list items (one for each nested level you intend to use) as well as an introductory style for the paragraph preceding the start of the list, to allow for keeping the introductory paragraph with the first list item or for specifying spacing before the first list item that is different from the spacing between other paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také definovat styl odstavce, který se má použít pro nečíslované položky seznamu (jeden pro každou vnořenou úroveň, kterou chcete použít), stejně jako úvodní styl odstavce před začátkem seznamu, aby bylo možné zachovat úvodní odstavec s první položka seznamu nebo pro určení mezer před první položkou seznamu, která se liší od mezer mezi ostatními odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A nested list – a list within a list – is a numbered or bulleted list with subordinate (usually indented) numbered or bulleted lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vnořený seznam - seznam v seznamu - je očíslovaný seznam nebo seznam s odrážkami s podřízenými (obvykle odsazenými) číslovanými nebo odrážkovými seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than being just a list of numbered items (1, 2, 3...), a nested list may have item 1, then indented items numbered a, b, c or i, ii, iii or some other numbering method before the main number 2.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spíše než jen seznam číslovaných položek (1, 2, 3 ...) může mít vnořený seznam položku 1, poté odsazené položky očíslované a, b, c nebo i, ii, iii nebo nějaký jiný způsob číslování před hlavní číslo 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With numbering styles, you can achieve any combination of numbering formats you want.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí stylů číslování můžete dosáhnout libovolné kombinace požadovaných formátů číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A nested list may even combine numbered items with bulleted items.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vnořený seznam může dokonce kombinovat očíslované položky s položkami s odrážkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To nest a list, you have two choices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vnořit seznam, máte dvě možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first is to create a list style, and set up two or more list levels with different formatting choices on the &lt;f0&gt;Position&lt;/f0&gt; and &lt;f1&gt;Customize&lt;/f1&gt; tabs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Prvním je vytvoření stylu seznamu a nastavení dvou nebo více úrovní seznamu s různými možnostmi formátování na &lt;f0&gt;Pozice&lt;/f0&gt; a &lt;f1&gt;Přizpůsobit&lt;/f1&gt; záložky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The advantage of list levels is that each level can be formatted separately, but all the levels remain connected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výhodou úrovní seznamu je, že každou úroveň lze formátovat samostatně, ale všechny úrovně zůstanou propojené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can switch to the next level below by pressing the &lt;f2&gt;Tab&lt;/f2&gt; key, or to the one above by pressing &lt;f3&gt;Shift+Tab&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete přejít na další úroveň níže stisknutím tlačítka &lt;f2&gt;Tab&lt;/f2&gt; nebo na výše uvedenou stisknutím &lt;f3&gt;Shift + Tab&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The preview pane can help you set up each list level, and the customized list style is associated with a paragraph style for use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podokno náhledu vám pomůže nastavit každou úroveň seznamu a přizpůsobený styl seznamu je přidružen k použití odstavcového stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To switch to a lower list level while using the associated paragraph style, press the &lt;f0&gt;Tab&lt;/f0&gt; key before entering content; to switch to a higher list level, press &lt;f1&gt;Shift+Tab&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li při použití příslušného odstavcového stylu přepnout na nižší úroveň seznamu, stiskněte &lt;f0&gt;Tab&lt;/f0&gt; klíč před zadáním obsahu; pro přepnutí na vyšší úroveň seznamu stiskněte &lt;f1&gt;Shift + Tab&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The second choice is to create two list styles, then associate each list style with a separate paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Druhou možností je vytvořit dva styly seznamu a poté každý styl seznamu přiřadit k samostatnému stylu odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Neither choice has any advantage over the other, since you are still dealing with the same options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Žádná z těchto možností nemá oproti ostatním žádnou výhodu, protože stále pracujete se stejnými možnostmi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, in both cases, each nested list is typically indented more than the list level above it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V obou případech je však každý vnořený seznam obvykle odsazen více než na úrovni seznamu nad ním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typically, too, each list level will use a different bullet style or numbering system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typicky také každá úroveň seznamu bude používat jiný styl odrážek nebo systém číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style names like &lt;f0&gt;Bulleted&lt;/f0&gt; and &lt;f1&gt;Bulleted 2&lt;/f1&gt; or &lt;f2&gt;Nested&lt;/f2&gt; will help to remind you of the relation between the two paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Názvy stylů jako &lt;f0&gt;Odrážky&lt;/f0&gt; a &lt;f1&gt;Odrážka 2&lt;/f1&gt; nebo &lt;f2&gt;Vnořené&lt;/f2&gt; pomůže vám připomenout vztah mezi dvěma styly odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For convenience, use the same names for both the Paragraph and List styles, since they cannot be mixed up.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro usnadnění použijte stejné názvy pro odstavcové i seznamové styly, protože je nelze kombinovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Nested lists created using two separate list styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Vnořené seznamy vytvořené pomocí dvou samostatných stylů seznamů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice has several ways to outline using paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice má několik způsobů, jak obrysovat pomocí odstavcových stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With &lt;f0&gt;Tools &gt; Chapter Numbering&lt;/f0&gt;, you can choose a numbering style for each paragraph style, making it part of the outline levels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>S &lt;f0&gt;Nástroje &gt; Číslování kapitol&lt;/f0&gt; , můžete zvolit styl číslování pro každý styl odstavce, čímž se stane součástí úrovní osnovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you can associate each Heading style with a separate list style using the Styles deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Alternativně můžete každý styl záhlaví přiřadit k samostatnému stylu seznamu pomocí balíčku Styly v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An easier form of outlining is to create a single list style for outlining.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednodušší formou osnovy je vytvoření jediného stylu seznamu pro osnovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can manually set up the different levels on the list style’s &lt;f0&gt;Customize&lt;/f0&gt; tab, or you can get much the same result by selecting a pre-defined pattern from the list style’s &lt;f1&gt;Outline&lt;/f1&gt; tab instead.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Různé úrovně ve stylu seznamu můžete nastavit ručně &lt;f0&gt;Přizpůsobit&lt;/f0&gt; karta, nebo můžete dosáhnout stejného výsledku výběrem předdefinovaného vzoru ze stylu seznamu &lt;f1&gt;Obrys&lt;/f1&gt; místo toho kartu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the paragraph style, press &lt;f0&gt;Enter+Tab&lt;/f0&gt; to add a sub-level paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít styl odstavce, stiskněte &lt;f0&gt;Enter + Tab&lt;/f0&gt; pro přidání odstavce na nižší úrovni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sub-level paragraph automatically uses the numbering pattern of the list style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstavec podúrovně automaticky používá vzor číslování stylu seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To raise the level of a paragraph style, press &lt;f1&gt;Enter+Tab+Shift&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zvýšit úroveň odstavcového stylu, stiskněte &lt;f1&gt;Enter + Tab + Shift&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set up a single paragraph style for outlining:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup nastavení stylu jednoho odstavce pro obrys:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a list style and associate it with one of the pre-defined formats on the &lt;f0&gt;Outline&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte styl seznamu a přidružte jej k jednomu z předdefinovaných formátů na &lt;f0&gt;Obrys&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select or make a paragraph style for outlining.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte nebo vytvořte styl odstavce pro obrys.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot use the &lt;f0&gt;Heading 1-10&lt;/f0&gt; styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nelze použít &lt;f0&gt;Okruh 1-10&lt;/f0&gt; styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Presumably, this restriction prevents confusion between a single paragraph style outline and the registered outline levels (see next section).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto omezení pravděpodobně zabrání záměně mezi jedním obrysem stylu odstavce a úrovněmi registrovaných obrysů (viz další část).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Organizer&lt;/f0&gt; tab of the paragraph style, set the style to use itself as the &lt;f1&gt;Next style&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Organizátor&lt;/f0&gt; na kartě odstavcového stylu, nastavte styl, který se použije jako &lt;f1&gt;Další styl&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assign the list style to the paragraph style using the &lt;f0&gt;Numbering&lt;/f0&gt; field on the paragraph style’s &lt;f1&gt;Outline &amp; Numbering &lt;/f1&gt;tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přiřaďte styl seznamu stylu odstavce pomocí &lt;f0&gt;Číslování&lt;/f0&gt; pole na stylu odstavce &lt;f1&gt;Přehled a číslování&lt;/f1&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Outline levels are a concept used throughout LibreOffice to automate advanced features.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úrovně osnovy jsou konceptem používaným v LibreOffice k automatizaci pokročilých funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, outline levels determine which paragraph styles are displayed by default in the Navigator under &lt;f0&gt;Headings&lt;/f0&gt;, and in a table of contents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například úrovně osnovy určují, které odstavcové styly se ve výchozím nastavení zobrazují v Navigátoru pod &lt;f0&gt;Nadpisy&lt;/f0&gt; a v obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, outline levels are mapped to the &lt;f0&gt;Heading 1-10&lt;/f0&gt; paragraph styles.&lt;f1&gt; Outline Level 1&lt;/f1&gt; is mapped to &lt;f2&gt;Heading 1&lt;/f2&gt;, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení jsou úrovně obrysů mapovány na &lt;f0&gt;Okruh 1-10&lt;/f0&gt; styly odstavců. &lt;f1&gt;Přehled úrovně 1&lt;/f1&gt; je mapováno na &lt;f2&gt;Nadpis 1&lt;/f2&gt; , a tak dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change these mappings, or add another paragraph style to an outline level in the &lt;f3&gt;Outline level&lt;/f3&gt; field on the&lt;f4&gt; Outline &amp; Numbering&lt;/f4&gt; tab (see Figure &lt;t5&gt;6&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto mapování můžete změnit nebo přidat další styl odstavce na úroveň obrysu v souboru &lt;f3&gt;Obrysová úroveň&lt;/f3&gt; pole na &lt;f4&gt;Přehled a číslování&lt;/f4&gt; záložka (viz obr &lt;t5&gt;6&lt;/t5&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Assigning a paragraph style to an outline level</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Přiřazení odstavcového stylu na úroveň osnovy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can assign more than one paragraph style to an outline level, but only one paragraph style displays in &lt;f0&gt;Tools &gt; Chapter Numbering&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K úrovni obrysu můžete přiřadit více než jeden styl odstavce, ale zobrazí se pouze jeden styl odstavce &lt;f0&gt;Nástroje &gt; Číslování kapitol&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List styles define properties such as indentation, numbering style (for example, &lt;f0&gt;1,2,3&lt;/f0&gt;; &lt;f1&gt;a,b,c&lt;/f1&gt;; or bullets), and punctuation after the number, but they do not by themselves define properties such as font, borders, text flow, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly seznamu definují vlastnosti, jako je odsazení, styl číslování (například &lt;f0&gt;1,2,3&lt;/f0&gt; ; &lt;f1&gt;a, b, c&lt;/f1&gt; ; nebo odrážky) a interpunkci za číslem, ale samy o sobě nedefinují vlastnosti, jako je písmo, ohraničení, tok textu atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The latter are properties of paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Posledně uvedené jsou vlastnosti odstavcových stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your list needs to have specific paragraph-style properties, embed the list style into paragraph styles, as explained in Chapter 9.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud váš seznam potřebuje mít specifické vlastnosti odstavcového stylu, vložte styl seznamu do odstavcových stylů, jak je vysvětleno v kapitole 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then create a list by applying paragraph styles alone.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Potom můžete vytvořit seznam pouze použitím odstavcových stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer has two series of predefined list styles, named &lt;f0&gt;List&lt;/f0&gt; (for bullet lists) and &lt;f1&gt;Numbering&lt;/f1&gt; (for numbered lists).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer má dvě řady předdefinovaných stylů seznamu, pojmenovaných &lt;f0&gt;Seznam&lt;/f0&gt; (pro seznamy odrážek) a &lt;f1&gt;Číslování&lt;/f1&gt; (pro číslované seznamy).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each series contains five list styles, intended for the different levels of a nested list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každá řada obsahuje pět stylů seznamu určených pro různé úrovně vnořeného seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with any style, you can redefine the properties of these styles, for example the numbering or bullet symbol and the indentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako u jiných stylů můžete předefinovat vlastnosti těchto stylů, například číslování nebo symbol odrážky a odsazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define other list styles in these series or create your own series.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také definovat další styly seznamu v těchto sériích nebo vytvořit vlastní sérii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each of the list styles predefined in Writer has four associated paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý ze stylů seznamu předdefinovaných ve Writeru má čtyři přidružené odstavcové styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see Chapter 9.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you only want to apply a list style (that is, the numbering or bullet symbol and the indentation), then place the cursor in the paragraph and double-click on the desired list style in the List Styles section of the Styles deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete použít pouze styl seznamu (tj. Symbol číslování nebo odrážky a odsazení), umístěte kurzor do odstavce a poklepejte na požadovaný styl seznamu v části Seznam stylů na paletě Styly v Postranní panel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List styles can have up to ten levels, used for nested lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly seznamů mohou mít až deset úrovní, které se používají pro vnořené seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To switch from one level to another, use the &lt;f0&gt;Promote One Level&lt;/f0&gt; or &lt;f1&gt;Demote One Level&lt;/f1&gt; icons on the Bullets and Numbering toolbar, or press the &lt;f2&gt;Tab&lt;/f2&gt; key (one level down) or &lt;f3&gt;Shift+Tab&lt;/f3&gt; keys (one level up), or right-click on the list element and select &lt;f4&gt;Promote One Level&lt;/f4&gt; or &lt;f5&gt;Demote One Level&lt;/f5&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přepnout z jedné úrovně do druhé, použijte &lt;f0&gt;Propagujte jednu úroveň&lt;/f0&gt; nebo &lt;f1&gt;Snížení úrovně o jednu úroveň&lt;/f1&gt; ikony na panelu nástrojů Odrážky a číslování nebo stiskněte ikonu &lt;f2&gt;Tab&lt;/f2&gt; klíč (o jednu úroveň níže) nebo &lt;f3&gt;Shift + Tab&lt;/f3&gt; klávesy (o úroveň výš), nebo klikněte pravým tlačítkem na prvek seznamu a vyberte &lt;f4&gt;Propagujte jednu úroveň&lt;/f4&gt; nebo &lt;f5&gt;Snížení úrovně o jednu úroveň&lt;/f5&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When creating more than one numbered list of the same type within the same chapter, Writer applies sequential numbering to all the lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vytváření více než jednoho očíslovaného seznamu stejného typu ve stejné kapitole použije aplikace Writer sekvenční číslování na všechny seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes this is what you want (for example, when placing illustrations between the numbered paragraphs), while at other times you want to restart the numbering.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Někdy je to to, co chcete (například při umisťování ilustrací mezi číslované odstavce), jindy chcete číslování znovu spustit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To restart the numbering of any numbered list, right-click the paragraph and select &lt;f0&gt;Bullets and Numbering &gt; Restart Numbering&lt;/f0&gt; from the context menu or use the &lt;f1&gt;Restart at this paragraph&lt;/f1&gt; option in the &lt;f2&gt;Numbering&lt;/f2&gt; section on the Paragraph dialog (Figure &lt;t3&gt;7&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li restartovat číslování libovolného číslovaného seznamu, klepněte pravým tlačítkem na odstavec a vyberte &lt;f0&gt;Odrážky a číslování &gt; Restartovat číslování&lt;/f0&gt; z kontextového menu nebo použijte &lt;f1&gt;Restartujte v tomto odstavci&lt;/f1&gt; možnost v &lt;f2&gt;Číslování&lt;/f2&gt; v dialogu Odstavec (Obrázek &lt;t3&gt;7&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Restarting paragraph numbering</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Restartování číslování odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When editing a document, you may want to change from restarting numbering to continuing the numbering from a previous list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při úpravách dokumentu možná budete chtít změnit z restartování číslování na pokračování číslování z předchozího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, right-click on the list element and choose &lt;f0&gt;Bullets and Numbering &gt; Continue previous numbering&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li tak učinit, klepněte pravým tlačítkem myši na prvek seznamu a vyberte &lt;f0&gt;Odrážky a číslování &gt; Pokračovat v předchozím číslování&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Restart at this paragraph&lt;/f0&gt; field in the Line Numbering section of the &lt;f1&gt;Outline &amp; Numbering&lt;/f1&gt; tab is for line numbering, not paragraph numbering.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Restartujte v tomto odstavci&lt;/f0&gt; pole v části Číslování řádků &lt;f1&gt;Přehled a číslování&lt;/f1&gt; karta slouží k číslování řádků, nikoli k číslování odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice provides several default names for bullets and numbered lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice poskytuje několik výchozích jmen pro odrážky a číslované seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify these styles, and you can add your own list styles and give them descriptive names like &lt;f0&gt;Arabic Numeral Blue &lt;/f0&gt;or &lt;f1&gt;Lower Case Indented&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto styly můžete upravit a můžete přidat vlastní styly seznamu a dát jim popisná jména jako &lt;f0&gt;Arabská číslice modrá&lt;/f0&gt; nebo &lt;f1&gt;Malá písmena odsazena&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you decide not to use these styles, you can right-click each of them in the Styles deck in the Sidebar and hide them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se rozhodnete tyto styly nepoužívat, můžete kliknout pravým tlačítkem na každý z nich v balíčku Styly v postranním panelu a skrýt je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can go to the &lt;f0&gt;Hidden&lt;/f0&gt; view and unhide them later if you decide to use them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete jít do &lt;f0&gt;Skrytý&lt;/f0&gt; zobrazit a odkrýt je později, pokud se rozhodnete je použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the same name for both the list style and the paragraph style with which it is linked can make working with different types of styles much easier.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití stejného názvu pro styl seznamu i styl odstavce, se kterým je propojen, může mnohem usnadnit práci s různými typy stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you use a character style to define the bullet or number, give it the same name, too.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud k definování odrážky nebo čísla použijete znakový styl, dejte mu také stejný název.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Give related styles similar names and you can locate the ones you need more quickly</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Dej podobným stylům podobné názvy a ty, které potřebuješ, najdeš rychleji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have two ways of formatting bullets and numbers in list styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Máte dva způsoby formátování odrážek a čísel ve stylech seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The quick way is to select a list style from the &lt;f0&gt;Bullets, Numbering Style&lt;/f0&gt;,&lt;f1&gt; Outline&lt;/f1&gt;, or &lt;f2&gt;Image&lt;/f2&gt; tabs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rychlý způsob je vybrat styl seznamu z &lt;f0&gt;Odrážky, styl číslování&lt;/f0&gt; , &lt;f1&gt;Obrys&lt;/f1&gt; nebo &lt;f2&gt;obraz&lt;/f2&gt; záložky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each of these tabs give a variety of options, although not an exhaustive list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každá z těchto karet poskytuje celou řadu možností, i když nejde o vyčerpávající seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even if the choices on the &lt;f0&gt;Image&lt;/f0&gt; tab look old-fashioned, they can be useful; for instance, see “&lt;bf1&gt;Example: Styling the Tips, Notes, and Cautions in this book&lt;/bf1&gt;” on page &lt;bf2&gt;18&lt;/bf2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>I když možnosti na &lt;f0&gt;obraz&lt;/f0&gt; karta vypadá staromódně, mohou být užitečné; například viz „ &lt;bf1&gt;Příklad: Stylizace tipů, poznámek a upozornění v této knize&lt;/bf1&gt; “ na stránce &lt;bf2&gt;18&lt;/bf2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The second and more practical way is to customize bullets or numbered lists for yourself, using the &lt;f0&gt;Customize&lt;/f0&gt; and &lt;f1&gt;Position&lt;/f1&gt; tabs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Druhým a praktičtějším způsobem je přizpůsobení odrážek nebo číslovaných seznamů pro sebe pomocí &lt;f0&gt;Přizpůsobit&lt;/f0&gt; a &lt;f1&gt;Pozice&lt;/f1&gt; záložky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Both tabs have ten levels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obě karty mají deset úrovní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting is mostly useful for creating a single outline numbering style, in which the numbering changes each time you press the &lt;f2&gt;Tab&lt;/f2&gt; key (see “&lt;bf3&gt;Outline lists&lt;/bf3&gt;” on page &lt;bf4&gt;6&lt;/bf4&gt;).For most bulleted and numbered lists, either set the &lt;f5&gt;Level&lt;/f5&gt; to &lt;f6&gt;1&lt;/f6&gt;, or leave the &lt;f7&gt;Level&lt;/f7&gt; at the default &lt;f8&gt;1-10&lt;/f8&gt;&lt;f9&gt;.&lt;/f9&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto nastavení je většinou užitečné pro vytvoření jediného stylu číslování osnovy, ve kterém se číslování změní pokaždé, když stisknete &lt;f2&gt;Tab&lt;/f2&gt; klíč (viz „ &lt;bf3&gt;Přehledy&lt;/bf3&gt; “ na stránce &lt;bf4&gt;6&lt;/bf4&gt; U většiny seznamů s odrážkami a číslovaných seznamů nastavte buď &lt;f5&gt;Úroveň&lt;/f5&gt; na &lt;f6&gt;1&lt;/f6&gt; nebo opustit &lt;f7&gt;Úroveň&lt;/f7&gt; ve výchozím nastavení &lt;f8&gt;1-10 &lt;/f8&gt;&lt;f9&gt; .&lt;/f9&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: The bullets on the Image tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Odrážky na kartě Obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Position&lt;/f0&gt; tab sets up the spacing before bullets or numbers, and between the bullet or number and the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Pozice&lt;/f0&gt; Záložka nastavuje mezery před odrážkami nebo čísly a mezi odrážkami nebo čísly a textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a list style is linked to a paragraph style, editing the fields on the &lt;f0&gt;Position&lt;/f0&gt; tab in the list number dialog results in changes to the &lt;f1&gt;Indent &gt; Before text&lt;/f1&gt; and &lt;f2&gt;Indent &gt; First line&lt;/f2&gt; settings on the &lt;f3&gt;Indents &amp; Spacing&lt;/f3&gt; tab for the paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je styl seznamu propojen se stylem odstavce, upravuje pole na &lt;f0&gt;Pozice&lt;/f0&gt; karta v dialogovém okně s číslem seznamu má za následek změny v &lt;f1&gt;Odsazení &gt; Před textem&lt;/f1&gt; a &lt;f2&gt;Odsazení &gt; První řádek&lt;/f2&gt; nastavení na &lt;f3&gt;Odsazení a mezery&lt;/f3&gt; karta pro styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: The Position tab is one of two tabs in the list style dialog for customizing lists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Karta Pozice je jednou ze dvou karet v dialogu stylu seznamu pro přizpůsobení seznamů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The reverse is also true.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opak je také pravdou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, to avoid complications, make all the changes on the &lt;f0&gt;Position&lt;/f0&gt; tab for the list style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li se však vyhnout komplikacím, proveďte všechny změny na serveru &lt;f0&gt;Pozice&lt;/f0&gt; karta pro styl seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not only is that the logical place to look for changes on the list style, but adjusting the paragraph settings usually involves negative entries for the &lt;f1&gt;First Line&lt;/f1&gt; field, which can complicate editing immensely.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejen, že je logickým místem pro hledání změn ve stylu seznamu, ale úprava nastavení odstavce obvykle zahrnuje negativní položky pro &lt;f1&gt;První řada&lt;/f1&gt; pole, což může úpravy nesmírně zkomplikovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Fields on the Position tab for list styles and what they refer to</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Pole na kartě Poloha pro styly seznamu a to, na co odkazují</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you are defining a new list style, the important fields on the &lt;f0&gt;Position&lt;/f0&gt; tab are:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když definujete nový styl seznamu, důležitá pole na &lt;f0&gt;Pozice&lt;/f0&gt; záložka jsou:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Aligned at&lt;/f0&gt;: The vertical position for numbers, measured from the left margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnáno na&lt;/f0&gt; : Svislá poloha čísel, měřeno od levého okraje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most cases, you can leave this field at &lt;f1&gt;0&lt;/f1&gt; (at the left margin).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve většině případů můžete toto pole ponechat na &lt;f1&gt;0&lt;/f1&gt; (na levém okraji).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if you use any &lt;f2&gt;Numbering Alignment&lt;/f2&gt; except&lt;f3&gt; Left&lt;/f3&gt;, numbers set this field to another value.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud však nějaké používáte &lt;f2&gt;Zarovnání číslování&lt;/f2&gt; až na &lt;f3&gt;Vlevo, odjet&lt;/f3&gt; , čísla nastavují toto pole na jinou hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Numbering Alignment&lt;/f0&gt;: How the bullet or number is aligned.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnání číslování&lt;/f0&gt; : Jak je zarovnána odrážka nebo číslo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most of the time, you can leave this field at the default of &lt;f1&gt;Left,&lt;/f1&gt; but if you are having trouble positioning text, changing the alignment to &lt;f2&gt;Center&lt;/f2&gt; or &lt;f3&gt;Right&lt;/f3&gt; can sometimes solve the problem, especially for lists or levels that require two-digit numbers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Většinu času můžete toto pole ponechat ve výchozím nastavení &lt;f1&gt;Vlevo, odjet,&lt;/f1&gt; ale pokud máte potíže s umístěním textu, změňte zarovnání na &lt;f2&gt;Centrum&lt;/f2&gt; nebo &lt;f3&gt;Že jo&lt;/f3&gt; může někdy vyřešit problém, zejména pro seznamy nebo úrovně, které vyžadují dvouciferná čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: The dotted line is the margin in this example.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Tečkovaná čára je v tomto příkladu okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the value of the Numbering Alignment is 0, then choosing Center or Right can force the numbers into the left margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je hodnota Zarovnání číslování 0, pak výběr Střed nebo Vpravo může vynutit čísla do levého okraje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Numbering followed by&lt;/f0&gt;: Sets the space between the number or bullet and the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Za číslováním následuje&lt;/f0&gt; : Nastaví mezeru mezi číslem nebo odrážkou a textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the choices include &lt;f1&gt;space&lt;/f1&gt; or &lt;f2&gt;nothing&lt;/f2&gt;, the choice that offers the most control is &lt;f3&gt;Tab Stop&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ačkoli možnosti zahrnují &lt;f1&gt;prostor&lt;/f1&gt; nebo &lt;f2&gt;nic&lt;/f2&gt; je volba, která nabízí největší kontrolu &lt;f3&gt;Zastavení karty&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set the exact tab in the &lt;f4&gt;Tab stop at&lt;/f4&gt; field directly below the drop-down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavte přesnou kartu v &lt;f4&gt;Zastavení tabulátoru na&lt;/f4&gt; pole přímo pod rozevíracím seznamem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Aligned at&lt;/f0&gt;: Sets where the numbers or bullets are on the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnáno na&lt;/f0&gt; : Nastaví, kde jsou na řádku čísla nebo odrážky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In many cases, this setting is 0 points – that is, against the left margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V mnoha případech je toto nastavení 0 bodů - tedy proti levému okraji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Indent at&lt;/f0&gt;: Sets the start of the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odsadit na&lt;/f0&gt; : Nastaví začátek textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting should be equal or greater to the tab stop set for &lt;f1&gt;Numbering followed by&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto nastavení by mělo být stejné nebo větší než zarážka tabulátoru nastavená pro &lt;f1&gt;Za číslováním následuje&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a numbered list, select a numbering style from the &lt;f0&gt;Number&lt;/f0&gt; field on the &lt;f1&gt;Customize&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit očíslovaný seznam, vyberte styl číslování z &lt;f0&gt;Číslo&lt;/f0&gt; pole na &lt;f1&gt;Přizpůsobit&lt;/f1&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selections in the drop-down list begin with typical choices for Western European languages: Arabic, upper and lower case letters, and upper and lower case Roman numerals.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběry v rozevíracím seznamu začínají typickými možnostmi pro západoevropské jazyky: arabština, velká a malá písmena a velká a malá římská čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scroll down, and options for Bulgarian, Russian, Serbian, and Greek are available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte dolů a jsou k dispozici možnosti pro bulharštinu, ruštinu, srbštinu a řečtinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Select a numbering style from the Customize tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Vyberte styl číslování na kartě Přizpůsobit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can set up to 40 characters before or after the actual number using the &lt;f0&gt;Before&lt;/f0&gt; and &lt;f1&gt;After&lt;/f1&gt; fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí skutečného čísla můžete nastavit až 40 znaků před nebo za skutečným číslem &lt;f0&gt;Před&lt;/f0&gt; a &lt;f1&gt;Po&lt;/f1&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These characters are added automatically whenever the list style they are attached to is applied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto znaky se přidávají automaticky, kdykoli se použije styl seznamu, ke kterému jsou připojeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Common characters after a number might be a period, a parenthesis, or both.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Běžnými znaky za číslem může být tečka, závorka nebo obojí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, you might put a parenthesis both before or after the number, or text such as &lt;f0&gt;Step # &lt;/f0&gt;in the &lt;f1&gt;Before&lt;/f1&gt; field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně můžete vložit závorky před nebo za číslo nebo text jako &lt;f0&gt;Krok #&lt;/f0&gt; v &lt;f1&gt;Před&lt;/f1&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a &lt;f2&gt;List Cont.&lt;/f2&gt; style, you might add &lt;f3&gt;(Continued)&lt;/f3&gt; before.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f2&gt;Seznam Cont.&lt;/f2&gt; styl, můžete přidat &lt;f3&gt;(Pokračování)&lt;/f3&gt; před.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More elaborately, you might set a paragraph style to start at the top of the page, then attach to it a list style with text so that the paragraph style will automatically add text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Komplikovaněji můžete nastavit styl odstavce tak, aby začínal v horní části stránky, a poté k němu připojit styl seznamu s textem, aby styl odstavce automaticky přidal text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a numbered list, you can choose the number of outline levels in the list by adjusting the &lt;f0&gt;Show sublevels &lt;/f0&gt;field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V číslovaném seznamu můžete upravit počet úrovní osnovy v seznamu úpravou &lt;f0&gt;Zobrazit podúrovně&lt;/f0&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you decided to show three sublevels, the first use of the third sublevel would be numbered 1.1.1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například pokud jste se rozhodli zobrazit tři podúrovně, první použití třetí podúrovně bude očíslováno 1.1.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the &lt;f0&gt;Before&lt;/f0&gt;, &lt;f1&gt;After&lt;/f1&gt;, and/or&lt;f2&gt; Show sublevels&lt;/f2&gt; fields means that the settings on the &lt;f3&gt;Position&lt;/f3&gt; tab need to be adjusted so there is enough space between the number and the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Za použití &lt;f0&gt;Před&lt;/f0&gt; , &lt;f1&gt;Po&lt;/f1&gt; a / nebo &lt;f2&gt;Zobrazit podúrovně&lt;/f2&gt; pole znamená, že nastavení na &lt;f3&gt;Pozice&lt;/f3&gt; kartu je třeba upravit, aby mezi číslem a textem bylo dost místa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the &lt;f0&gt;Character Style&lt;/f0&gt; field for numbered lists is set to the &lt;f1&gt;Numbering Symbol&lt;/f1&gt; character style, and for bulleted lists to the &lt;f2&gt;Bullets&lt;/f2&gt; character style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení je &lt;f0&gt;Styl znaků&lt;/f0&gt; pole pro číslované seznamy je nastaveno na &lt;f1&gt;Symbol číslování&lt;/f1&gt; styl znaků a pro seznamy s odrážkami do &lt;f2&gt;Kulky&lt;/f2&gt; styl znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For most purposes, you probably have no reason to change these defaults.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro většinu účelů pravděpodobně nemáte důvod tyto výchozí hodnoty měnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless modified, these character styles use the same font and font size as the &lt;f0&gt;Default Style&lt;/f0&gt; character style, and apply to both the number and any text in the &lt;f1&gt;Before&lt;/f1&gt; or &lt;f2&gt;After&lt;/f2&gt; fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud nebudou upraveny, používají tyto styly znaků stejné písmo a velikost písma jako &lt;f0&gt;Výchozí styl&lt;/f0&gt; znakový styl a platí jak pro číslo, tak pro veškerý text v &lt;f1&gt;Před&lt;/f1&gt; nebo &lt;f2&gt;Po&lt;/f2&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Common modifications include making the numbers or bullets larger, giving them a corporate color, making them bold, or using a condensed version of a font.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezi běžné úpravy patří zvětšení čísel nebo odrážek, jejich korporátní barva, zvýraznění tučným písmem nebo použití zkrácené verze písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may need to change the text indent if you use a larger font, especially for two or three digit numbers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možná budete muset změnit odsazení textu, pokud používáte větší písmo, zejména pro dvou nebo tříciferná čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line height may also need to be increased.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Může být také nutné zvýšit výšku čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may want to have the numbers in a larger or different font, or a different color, from the text of the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možná budete chtít mít čísla ve větším nebo jiném písmu nebo jiné barvě z textu seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create this effect, follow these steps:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit tento efekt, postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new character style for the numbers, or modify an existing character style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nový znakový styl pro čísla nebo upravte stávající znakový styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this example, the new style is named Numbers Large.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto příkladu je nový styl pojmenován Numbers Large.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Font&lt;/f0&gt; tab of the character style dialog, increase the font size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Písmo&lt;/f0&gt; karta dialogového okna znakového stylu, zvětšete velikost písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the color of the number, go to the &lt;f1&gt;Font Effects&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit barvu čísla, přejděte na ikonu &lt;f1&gt;Efekty písma&lt;/f1&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to save the new or modified character style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f2&gt;OK&lt;/f2&gt; pro uložení nového nebo upraveného stylu znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new list style, or modify an existing list style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nový styl seznamu nebo upravte stávající styl seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Customize&lt;/f0&gt; tab of the numbering style dialog (Figure &lt;t1&gt;14&lt;/t1&gt;), choose the character style you created or modified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Přizpůsobit&lt;/f0&gt; záložka dialogového okna stylu číslování (obr &lt;t1&gt;14&lt;/t1&gt; ), vyberte styl znaků, který jste vytvořili nebo upravili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this example, choose Numbers Large.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto příkladu zvolte Numbers Large.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to save the style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f2&gt;OK&lt;/f2&gt; uložit styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new paragraph style, or modify an existing paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nový styl odstavce nebo upravte stávající styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Outline &amp; Numbering&lt;/f0&gt; tab of the paragraph style dialog, choose the numbering style you created or modified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Přehled a číslování&lt;/f0&gt; Na kartě dialogového okna odstavcového stylu vyberte styl číslování, který jste vytvořili nebo upravili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply the paragraph style in the usual way to the items of the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U položek seznamu použijte obvyklým způsobem styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Choosing the character style for the numbers of a list</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Výběr stylu znaků pro čísla v seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you modify an existing character, list, or paragraph style, the changes will affect all lists in the document that use those styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud upravíte existující styl znaku, seznamu nebo odstavce, změny ovlivní všechny seznamy v dokumentu, které tyto styly používají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Numbered lists with two digits can displace list items (see Figure &lt;t0&gt;15&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Číslované seznamy se dvěma číslicemi mohou přemístit položky seznamu (viz obrázek &lt;t0&gt;15&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can correct this problem in several ways:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento problém můžete opravit několika způsoby:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Never have a list with more than nine items.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nikdy nemáte seznam s více než devíti položkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rewrite lists that have more, combining steps or dividing one list into two or more shorter ones.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přepište seznamy, které mají více, kombinováním kroků nebo rozdělením jednoho seznamu na dva nebo více kratších.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This arrangement may make your instructions easier to remember.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto uspořádání může usnadnit zapamatování vašich pokynů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add extra space between the number and the list item using the &lt;f0&gt;Indent at &lt;/f0&gt;field on the &lt;f1&gt;Position&lt;/f1&gt; tab of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidejte další číslo mezi číslo a položku seznamu pomocí &lt;f0&gt;Odsadit na&lt;/f0&gt; pole na &lt;f1&gt;Pozice&lt;/f1&gt; záložka dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not add so much space that the association between numbers and list items is lost.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nepřidávejte tolik místa, aby došlo ke ztrátě přidružení mezi čísly a položkami seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjust the size of the numbers using the&lt;f0&gt; Character Style&lt;/f0&gt; field on the &lt;f1&gt;Customize&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Upravte velikost čísel pomocí &lt;f0&gt;Styl znaků&lt;/f0&gt; pole na &lt;f1&gt;Přizpůsobit&lt;/f1&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set the &lt;f0&gt;Numbering Alignment&lt;/f0&gt; to&lt;f1&gt; Right&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastav &lt;f0&gt;Zarovnání číslování&lt;/f0&gt; na &lt;f1&gt;Že jo&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Watch that this change does not extend numbers into the left margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sledujte, že tato změna nerozšíří čísla do levého okraje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Unless extra spacing is provided, the list items are displaced when the numbering enters two digits.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Pokud nejsou k dispozici další mezery, jsou položky seznamu přemístěny, když číslování zadá dvě číslice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>People occasionally ask for numbered lists that count down from the starting number, instead of up, presumably for Top 10 lists and other countdowns.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lidé občas požádají o očíslované seznamy, které se odpočítávají od počátečního čísla, namísto nahoru, pravděpodobně pro seznamy Top 10 a další odpočítávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unfortunately, LibreOffice will not automatically generate numbers for reverse order in lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice bohužel nebude automaticky generovat čísla v obráceném pořadí v seznamech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A reverse order list must be entered manually.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznam obráceného pořadí je nutné zadat ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default character style for bullets is &lt;f0&gt;Bullets&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí styl znaků pro odrážky je &lt;f0&gt;Kulky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It gives you a standard bullet for the Default style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poskytne vám standardní odrážku pro výchozí styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you might want to change the symbol using the &lt;f1&gt;Character&lt;/f1&gt; field on the &lt;f2&gt;Customize&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možná však budete chtít symbol změnit pomocí &lt;f1&gt;Charakter&lt;/f1&gt; pole na &lt;f2&gt;Přizpůsobit&lt;/f2&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting the &lt;f3&gt;Character&lt;/f3&gt; field opens a dialog from which you can choose any symbol supported by the current font.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr &lt;f3&gt;Charakter&lt;/f3&gt; pole otevře dialog, ze kterého si můžete vybrat libovolný symbol podporovaný aktuálním písmem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To choose a truly unusual bullet, set the character style to use a dingbat font.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat skutečně neobvyklou odrážku, nastavte styl znaků tak, aby používal písmo dingbat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, be careful: too detailed or unusual a dingbat distracts from the contents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Buďte však opatrní: příliš podrobný nebo neobvyklý člun odvádí pozornost od obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you use an unusual character style for bullets, be sure to embed the font used when you share a file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud pro odrážky používáte neobvyklý styl znaků, nezapomeňte vložit písmo použité při sdílení souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your design includes nested bullets – that is, bullet lists within bullet lists – you might want to create an additional list style with a name like &lt;f0&gt;Bullets2&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud váš návrh obsahuje vnořené odrážky - to znamená seznamy odrážek v seznamech odrážek - možná budete chtít vytvořit další styl seznamu s názvem jako &lt;f0&gt;Kulky 2&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if you do use more than one bullet list style, make sure their designs are compatible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud však používáte více než jeden styl seznamu odrážek, ujistěte se, že jsou jejich návrhy kompatibilní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In fact, indenting the nested bullets and nothing more is enough to distinguish them from the top level bullets.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve skutečnosti odsazení vnořených střel a nic víc nestačí k jejich odlišení od kuliček nejvyšší úrovně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the characters you choose, bulleted list styles can serve as more than unordered lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na zvolených postavách mohou styly seznamů s odrážkami sloužit jako více než neuspořádané seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a bullet list can be made into a checklist by selecting the font or character used for the bullet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například ze seznamu odrážek lze vytvořit kontrolní seznam výběrem písma nebo znaku použitého pro odrážku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Three bullet list styles for checklists</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : Tři styly odrážek pro kontrolní seznamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want a checklist to be used with a pen, set up the list style in the usual way, using a character style that uses the OpenSymbol font that ships with LibreOffice, and assign the character &lt;f0&gt;U+E00B&lt;/f0&gt; (a shaded open box) as the bullet (that is two zeros, not lower case “o”s).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít kontrolní seznam s perem, nastavte styl seznamu obvyklým způsobem pomocí znakového stylu, který používá písmo OpenSymbol dodávaného s LibreOffice, a přiřaďte znak &lt;f0&gt;U + E00B&lt;/f0&gt; (stínované otevřené pole) jako odrážka (tj. dvě nuly, nikoli malá písmena „o“).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Print the list, and it is immediately ready for use.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytiskněte si seznam a je okamžitě připraven k použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add some corporate branding and letterhead, and the To Do list can be used in business.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidejte nějaké firemní značky a hlavičkový papír a seznam úkolů lze použít v podnikání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to use the list on the computer, create two list styles, one that uses the character &lt;f0&gt;U+2752&lt;/f0&gt;, and one that uses the character &lt;f1&gt;U+E531&lt;/f1&gt; (a box with a check mark).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete seznam použít v počítači, vytvořte dva styly seznamu, jeden se znakem &lt;f0&gt;U + 2752&lt;/f0&gt; a ten, který znak používá &lt;f1&gt;U + E531&lt;/f1&gt; (rámeček se zaškrtnutím).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create the list using the first style, then tick off an item by applying the second style to it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte seznam pomocí prvního stylu a poté zaškrtněte položku tím, že na něj použijete druhý styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the purpose of the list, you can also create a third list style that uses the character &lt;f0&gt;U+E532&lt;/f0&gt; (an X mark) to indicate items that were not completed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na účelu seznamu můžete také vytvořit třetí styl seznamu, který používá znak &lt;f0&gt;U + E532&lt;/f0&gt; (značka X) k označení položek, které nebyly dokončeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using an image instead of a standard bullet is a convenient way to add some originality to your document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití obrázku místo standardní odrážky je pohodlný způsob, jak do dokumentu přidat trochu originality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you are limited by the small size at which most bullets display.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jste však omezeni malou velikostí, na které se většina odrážek zobrazuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mostly, simple images with strong contrast work best as a substitute bullet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jako náhradní kulička fungují většinou jednoduché obrázky se silným kontrastem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Often, a black and white image is more effective.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Černobílý obrázek je často efektivnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Images used for bullets are also a way to position an image on a page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obrázky použité pro odrážky jsou také způsob, jak umístit obrázek na stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In particular, they can be used to create warning signs and indications in a technical manual or an informal text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mohou být použity zejména k vytváření výstražných značek a indikací v technické příručce nebo v neformálním textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In either case, select a graphic to use from &lt;f0&gt;Customize &gt; Number&lt;/f0&gt; in the dialog for the List style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V obou případech vyberte grafiku, ze které chcete použít &lt;f0&gt;Přizpůsobit &gt; Číslo&lt;/f0&gt; v dialogu pro styl seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choosing &lt;f0&gt;Graphics&lt;/f0&gt; embeds the picture within the document file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr &lt;f0&gt;Grafika&lt;/f0&gt; vloží obrázek do souboru dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By contrast, &lt;f1&gt;Linked graphics &lt;/f1&gt;only adds a link to the graphic.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Naproti tomu &lt;f1&gt;Propojená grafika&lt;/f1&gt; pouze přidá odkaz na grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the image is cut off, either adjust the image size or else change the line spacing to &lt;f0&gt;At Least &lt;/f0&gt;so the top half of the characters in a line is not chopped off.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je obrázek oříznut, upravte velikost obrázku nebo změňte řádkování na &lt;f0&gt;Alespoň&lt;/f0&gt; takže horní polovina znaků v řádku není useknutá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: The fields for using a picture as a bullet appear after you have selected &lt;f1&gt;Customize&lt;/f1&gt;&lt;f2&gt; &lt;/f2&gt;&lt;f3&gt;&gt; Number &gt; Graphics&lt;/f3&gt; or &lt;f4&gt;Linked Graphics&lt;/f4&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Pole pro použití obrázku jako odrážky se zobrazí po výběru &lt;f1&gt;Přizpůsobit &lt;/f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;f3&gt;  &gt; Číslo &gt; Grafika&lt;/f3&gt; nebo &lt;f4&gt;Propojená grafika&lt;/f4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you choose &lt;f0&gt;Graphics&lt;/f0&gt; or &lt;f1&gt;Linked graphics,&lt;/f1&gt; the dialog lists a set of fields for editing the bullet:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté, co si vyberete &lt;f0&gt;Grafika&lt;/f0&gt; nebo &lt;f1&gt;Propojená grafika,&lt;/f1&gt; dialog obsahuje seznam polí pro úpravu odrážky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Select&lt;/f0&gt; button opens a file manager to select the picture.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Vybrat&lt;/f0&gt; tlačítko otevře správce souborů pro výběr obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Width&lt;/f0&gt; and &lt;f1&gt;Height&lt;/f1&gt; fields set the size at which the picture displays.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Šířka&lt;/f0&gt; a &lt;f1&gt;Výška&lt;/f1&gt; pole nastavují velikost, ve které se obrázek zobrazí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They do not affect the original picture file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nemají vliv na původní obrazový soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that too large a height requires changing the paragraph &lt;f0&gt;Line spacing &lt;/f0&gt;setting to &lt;f1&gt;At Least &lt;/f1&gt;so that the letters are not cut off at the top.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pamatujte, že příliš velká výška vyžaduje změnu odstavce &lt;f0&gt;Řádkování&lt;/f0&gt; nastavení na &lt;f1&gt;Alespoň&lt;/f1&gt; aby písmena nebyla nahoře odříznuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Keep ratio&lt;/f0&gt;, when selected, ensures that changing either the &lt;f1&gt;Width&lt;/f1&gt; or &lt;f2&gt;Height&lt;/f2&gt; field changes the other proportionally.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Udržujte poměr&lt;/f0&gt; , pokud je vybrána, zajišťuje, že změna buď &lt;f1&gt;Šířka&lt;/f1&gt; nebo &lt;f2&gt;Výška&lt;/f2&gt; pole proporcionálně mění druhé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Alignment&lt;/f0&gt; can usually be ignored, but can help when the height of the graphic is greater than the height of the text, as in the graphics for &lt;s1/&gt;Tips, Notes, and Cautions in this book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnání&lt;/f0&gt; lze obvykle ignorovat, ale může pomoci, když je výška grafiky větší než výška textu, jako v grafice pro &lt;s1/&gt; Tipy, poznámky a upozornění v této knize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List styles can be used for more than lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly seznamu lze použít pro více než seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the Tips, Notes, and Cautions in this book use list styles to position the graphics and text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například tipy, poznámky a upozornění v této knize používají styly seznamu k umístění grafiky a textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here is how the Tips are created and used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde jsou tipy, jak se tipy vytvářejí a používají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The others are done in the same way, but with a different logo and text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ostatní jsou provedeny stejným způsobem, ale s jiným logem a textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Step 1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Krok 1&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a paragraph style for the body of a tip, note, or caution.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte styl odstavce pro tělo tipu, poznámky nebo upozornění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The body of a tip, note, or caution in this book is indented under the heading and has a line under it to set it off from the main text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tělo tipu, poznámky nebo upozornění v této knize je odsazeno pod nadpisem a má pod sebou řádek, který jej odkládá od hlavního textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Sidebar, go to &lt;f0&gt;Styles &gt; Paragraph Styles&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V postranním panelu přejděte na &lt;f0&gt;Styly &gt; Styly odstavců&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and choose &lt;f1&gt;New&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte &lt;f1&gt;Nový&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name the new style Text Note.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pojmenujte nový styl Textová poznámka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Indents &amp; Spacing&lt;/f0&gt; tab (Figure &lt;t1&gt;18&lt;/t1&gt;), specify the indentation and spacing for the body of the Tip.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Odsazení a mezery&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;18&lt;/t1&gt; ), zadejte odsazení a mezery pro tělo hrotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Choosing indentation and spacing for the body of the Tip</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;18&lt;/seq0&gt; : Výběr odsazení a mezer pro tělo hrotu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Borders&lt;/f0&gt; tab (Figure &lt;t1&gt;19&lt;/t1&gt;), select a bottom border, increase the thickness, and specify the spacing between the text and the border.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Hranice&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;19&lt;/t1&gt; ), vyberte spodní ohraničení, zvětšete tloušťku a určete mezeru mezi textem a ohraničením.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f2&gt;Merge with next paragraph&lt;/f2&gt; to cause the border to appear under only the final paragraph if the Tip includes more than one paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f2&gt;Sloučit s dalším odstavcem&lt;/f2&gt; způsobí, že se ohraničení zobrazí pouze pod posledním odstavcem, pokud Tip obsahuje více než jeden odstavec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style the paragraph (font and so on) in the usual way.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl odstavce (písmo atd.) Upravte obvyklým způsobem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; pro uložení odstavcového stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Defining the bottom border of the Tip body text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;19&lt;/seq0&gt; : Definování spodního okraje textu tipu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Step 2&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Krok 2&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a list style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte styl seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Sidebar, go to &lt;f0&gt;Styles &gt; List Styles&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V postranním panelu přejděte na &lt;f0&gt;Styly &gt; Seznam stylů&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name the new style Heading Tip.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pojmenujte nový styl Tip záhlaví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Image&lt;/f0&gt; tab (Figure &lt;t1&gt;20&lt;/t1&gt;), select an appropriate image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;obraz&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;20&lt;/t1&gt; ), vyberte vhodný obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Or, skip this step and select an image on the &lt;f2&gt;Customize&lt;/f2&gt; tab.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Nebo tento krok přeskočte a vyberte obrázek na &lt;f2&gt;Přizpůsobit&lt;/f2&gt; záložka.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Selecting a bullet image</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;20&lt;/seq0&gt; : Výběr odrážky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Customize&lt;/f0&gt; tab (Figure &lt;t1&gt;21&lt;/t1&gt;), choose &lt;f2&gt;Graphics&lt;/f2&gt; in the &lt;f3&gt;Number&lt;/f3&gt; field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Přizpůsobit&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;21&lt;/t1&gt; ), Vybrat &lt;f2&gt;Grafika&lt;/f2&gt; v &lt;f3&gt;Číslo&lt;/f3&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optionally, click &lt;f4&gt;Select&lt;/f4&gt; in the &lt;f5&gt;Graphics&lt;/f5&gt; field and choose an image from a file or from the Gallery.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na &lt;f4&gt;Vybrat&lt;/f4&gt; v &lt;f5&gt;Grafika&lt;/f5&gt; pole a vyberte obrázek ze souboru nebo z Galerie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the bullet image selected is too large or too small for your design, specify a width and height.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybraný obrázek odrážky pro váš návrh příliš velký nebo příliš malý, zadejte šířku a výšku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use these fields to resize the original image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato pole můžete použít ke změně velikosti původního obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Alignment&lt;/f0&gt; field, select where you want the image to line up with the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Zarovnání&lt;/f0&gt; do pole vyberte, kam se má obrázek seřadit s textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Customizing the size and alignment of the bullet image</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;21&lt;/seq0&gt; : Přizpůsobení velikosti a zarovnání obrazu odrážky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Position&lt;/f0&gt; tab (Figure &lt;t1&gt;22&lt;/t1&gt;), choose settings as described in “&lt;bf2&gt;Positioning bullets, numbers, and list items&lt;/bf2&gt;” on page &lt;bf3&gt;12&lt;/bf3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Pozice&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;22&lt;/t1&gt; ), vyberte nastavení popsané v části „ &lt;bf2&gt;Umístění odrážek, čísel a položek seznamu&lt;/bf2&gt; “ na stránce &lt;bf3&gt;12&lt;/bf3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the list style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; pro uložení stylu seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Choosing position and spacing settings for the bullet image</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;22&lt;/seq0&gt; : Volba nastavení polohy a mezer pro odrážkový obraz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Step 3&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Krok 3&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a paragraph style for the Heading Tip and connect it to the list style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte styl odstavce pro Tip záhlaví a připojte jej ke stylu seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Organizer&lt;/f0&gt; tab (Figure &lt;t1&gt;23&lt;/t1&gt;), specify the &lt;f2&gt;Next Style&lt;/f2&gt; to be the one you created for the body of the Tip; in this case, Text Note.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Organizátor&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;23&lt;/t1&gt; ), zadejte &lt;f2&gt;Další styl&lt;/f2&gt; být tím, koho jste vytvořili pro tělo Tipu; v tomto případě textová poznámka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Specifying the Next Style for a Heading Tip style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;23&lt;/seq0&gt; : Určení dalšího stylu pro styl Tip záhlaví</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style the paragraph in the usual way, then go to the &lt;f0&gt;Outline &amp; Numbering&lt;/f0&gt; tab (Figure &lt;t1&gt;24&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl odstavce obvyklým způsobem, pak přejděte na &lt;f0&gt;Přehled a číslování&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;24&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f2&gt;Numbering style&lt;/f2&gt; field, select the list style you created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f2&gt;Styl číslování&lt;/f2&gt; vyberte styl seznamu, který jste vytvořili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f3&gt;OK&lt;/f3&gt; to save the style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f3&gt;OK&lt;/f3&gt; uložit styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Connecting the list style to the paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;24&lt;/seq0&gt; : Připojení stylu seznamu k stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Step 4&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Krok 4&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply the paragraph styles to the heading and text of the Tip, Note, or Caution.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použít odstavcové styly na nadpis a text Tip, Poznámka nebo Pozor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type the word &lt;f0&gt;Tip&lt;/f0&gt; in a new paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Napište slovo &lt;f0&gt;Spropitné&lt;/f0&gt; v novém odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(You must enter at least one character or a space, or else the graphic disappears when you press &lt;f1&gt;Enter&lt;/f1&gt;, leaving the indent but no bullet.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Musíte zadat alespoň jeden znak nebo mezeru, jinak grafika po stisknutí zmizí &lt;f1&gt;Enter&lt;/f1&gt; , ponechání odrážky, ale bez odrážky.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply the Heading Tip paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte styl odstavce Tip nadpisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;Enter&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>lis &lt;f0&gt;Enter&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next paragraph should automatically have the Text Note paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující odstavec by měl mít automaticky styl odstavce Textová poznámka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type the text for the body of the tip.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte text pro tělo špičky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(If you have already typed the text, then apply the style manually.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Pokud jste již text zadali, použijte styl ručně.)</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

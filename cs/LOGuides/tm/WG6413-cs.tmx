@@ -1,0 +1,4310 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 13 Tables of Data</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 13 Tabulky údajů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 13 Tables of Data&lt;segment 43951 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 13 Tabulky údajů &lt;segment 43951 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Additional table operations&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;27&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Další operace s tabulkou &lt;/t0&gt;&lt;f1&gt; | &lt;/f1&gt;&lt;t2&gt; 27&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 13 Tables of Data&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;26 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 13 Tabulky údajů &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 13 Tables of Data&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 13 Tabulky údajů &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 13 Tables of Data&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 4 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 13 Tabulky údajů&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer 6.4 Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Writer 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables of Data</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shravani Bellapukonda</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Shravani Bellapukonda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July 2020.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tools for working with tables</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroje pro práci s tabulkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting a new table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání nové tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating nested tables</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření vnořených tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using AutoCorrect to create a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití automatických oprav k vytvoření tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a table from formatted text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření tabulky z formátovaného textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting a portion of a spreadsheet</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložení části tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting the table layout</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování rozložení tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default parameters</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí parametry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resizing and positioning the table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna velikosti a umístění tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specifying text flow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Určení toku textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resizing rows and columns</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna velikosti řádků a sloupců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting rows and columns</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání řádků a sloupců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting rows and columns</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mazání řádků a sloupců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specifying table borders</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Určení ohraničení tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting background colors and graphics</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr barev a grafiky pozadí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displaying or hiding table boundaries</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazení nebo skrytí hranic tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating and applying table styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření a používání stylů tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Applying a table style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití stylu tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a table style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření stylu tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting the table text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování textu tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number formats</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formáty čísel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rotating text in a table cell</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otočení textu v buňce tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Data entry and manipulation in tables</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadávání dat a manipulace v tabulkách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving between cells</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pohyb mezi buňkami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorting data in a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Třídění dat v tabulce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using spreadsheet functions in a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití funkcí tabulky v tabulce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional table operations</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další operace s tabulkou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Protecting cells in a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ochrana buněk v tabulce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding a caption</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidání titulku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cross‑referencing to a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Křížové odkazy na tabulku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merging and splitting tables</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučení a rozdělení tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mazání tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copying a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kopírování tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pohybující se stůl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting a paragraph before or after a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložení odstavce před nebo za tabulku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using tables as a page layout tool</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používání tabulek jako nástroje pro rozložení stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables are a useful way to organize and present large amounts of information, for example:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky jsou užitečným způsobem, jak uspořádat a prezentovat velké množství informací, například:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Technical, financial, or statistical reports.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Technické, finanční nebo statistické zprávy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Product catalogs showing descriptions, prices, characteristics, and photographs of products.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Katalogy produktů zobrazující popisy, ceny, vlastnosti a fotografie produktů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bills or invoices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Účty nebo faktury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lists of names with address, age, profession, and other information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznamy jmen s adresou, věkem, povoláním a dalšími informacemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables can often be used as an alternative to spreadsheets to organize materials.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky lze často použít jako alternativu k tabulkám pro uspořádání materiálů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A well-designed table can help readers understand better what you are saying.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dobře navržená tabulka pomůže čtenářům lépe porozumět tomu, co říkáte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While you would normally use tables for text or numbers, you could put other objects, such as pictures, in cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>I když byste normálně používali tabulky pro text nebo čísla, můžete do buněk vložit jiné objekty, například obrázky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer’s tables provide limited spreadsheet functions; see “&lt;bf0&gt;Using spreadsheet functions in a table&lt;/bf0&gt;” on page &lt;bf1&gt;23&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky pro spisovatele poskytují omezené tabulkové funkce; viz „ &lt;bf0&gt;Použití funkcí tabulky v tabulce&lt;/bf0&gt; “ na stránce &lt;bf1&gt;23&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables can also be used as a page-layout tool to position text in areas of a document instead of using several Tab characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky lze také použít jako nástroj pro rozložení stránky k umístění textu do oblastí dokumentu namísto použití několika znaků tabulátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Another example is in headers and footers to support independent positioning of different elements, such as page number, document title, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dalším příkladem je v záhlaví a zápatí podpora nezávislého umístění různých prvků, jako je číslo stránky, název dokumentu atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This use of tables is described in Chapter 6, Formatting Pages: Advanced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto použití tabulek je popsáno v kapitole 6, Formátování stránek: Pokročilé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All of the table commands described in this chapter are conveniently located under Table on the Menu bar (Figure &lt;t0&gt;1&lt;/t0&gt;) and on the Table toolbar (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny příkazy tabulky popsané v této kapitole jsou pohodlně umístěny pod tabulkou na liště nabídek (obrázek &lt;t0&gt;1&lt;/t0&gt; ) a na panelu nástrojů Tabulka (Obrázek &lt;t1&gt;2&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some are also found in the context menu for a table or in the Table panel of the Properties deck in the sidebar (Figure &lt;t2&gt;3&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé najdete také v kontextové nabídce tabulky nebo v panelu Tabulka na panelu Vlastnosti v postranním panelu (Obrázek &lt;t2&gt;3&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Table menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Nabídka Tabulka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create a table or select an existing table, the Table toolbar (Figure &lt;t0&gt;2&lt;/t0&gt;) is displayed automatically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když vytvoříte tabulku nebo vyberete existující tabulku, panel nástrojů Tabulka (Obrázek &lt;t0&gt;2&lt;/t0&gt; ) se zobrazí automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can manually display it at any time by clicking &lt;f1&gt;View &gt; Toolbars &gt; Table&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím jej můžete kdykoli ručně zobrazit &lt;f1&gt;Zobrazit &gt; Panely nástrojů &gt; Tabulka&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The toolbar can float over the main Writer window, or it can be docked along any edge of the main window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů se může vznášet nad hlavním oknem Writeru nebo jej lze ukotvit podél kteréhokoli okraje hlavního okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 1, Introducing Writer, for more about docking and floating toolbars, and how to hide and display specific tools on a toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kapitole 1, Představujeme program Writer, najdete další informace o ukotvení a plovoucích panelech nástrojů a o tom, jak skrýt a zobrazit konkrétní nástroje na panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: The Table toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Panel nástrojů Tabulka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rows Above</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádky výše</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Split table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělit stůl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number Format-Percent</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formát čísla - procento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rows Below</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádky níže</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Optimize size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Optimalizujte velikost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number Format- Decimal</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formát čísla - desetinné číslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Columns Before</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloupce před</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align top</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnejte horní část</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number Format</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formát čísla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Columns After</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloupce po</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Center vertically</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Střed vertikálně</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete selected rows</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranit vybrané řádky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align Bottom</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnat dole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Třídit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete selected columns</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranit vybrané sloupce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table Cell Background Color</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barva pozadí buňky tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Protect Cells</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chraňte buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranit tabulku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>AutoFormat Style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl automatického formátování</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unprotect Cells</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nechránit buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Cell</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte buňku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte tabulku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Border Style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl ohraničení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge cells</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spojit buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Border Color</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barva ohraničení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table Properties</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vlastnosti tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Split cells</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělte buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number Format-Currency</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formát čísla - měna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the cursor is in a table, the Properties deck in the sidebar includes table properties (see Figure &lt;t0&gt;3&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je kurzor v tabulce, balíček Vlastnosti v postranním panelu obsahuje vlastnosti tabulky (viz obrázek &lt;t0&gt;3&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Table properties in sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Vlastnosti tabulky v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly insert a table with the default properties, click the &lt;f0&gt;Insert Table&lt;/f0&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle vložit tabulku s výchozími vlastnostmi, klikněte na ikonu &lt;f0&gt;Vložit tabulku&lt;/f0&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the drop-down graphic, choose the size of the table (up to fifteen rows and up to ten columns).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V rozevírací nabídce vyberte velikost tabulky (až patnáct řádků a až deset sloupců).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create the table, click the cell that you want to be on the last row of the last column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit tabulku, klikněte na buňku, kterou chcete mít, na posledním řádku posledního sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a new table and specify the properties for the table, position the cursor where you want the table to appear, then use any of the following methods to open the Insert Table dialog:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit novou tabulku a určit její vlastnosti, umístěte kurzor na místo, kde se má tabulka zobrazit, a potom pomocí libovolné z následujících metod otevřete dialogové okno Vložit tabulku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;General&lt;/f0&gt; section of the Insert Table dialog (Figure &lt;t1&gt;4&lt;/t1&gt;), in the Name box, you can enter a different name from the Writer-generated default for the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Všeobecné&lt;/f0&gt; část dialogu Vložit tabulku (Obrázek &lt;t1&gt;4&lt;/t1&gt; ), do pole Název můžete zadat jiný název než výchozí pro tabulku generovaný Writerem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This might come in handy when using the Navigator to jump quickly to a table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To se může hodit, když pomocí navigátoru rychle přejdete ke stolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Columns and Rows boxes, specify the number of columns and rows for the new table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V polích Sloupce a řádky zadejte počet sloupců a řádků pro novou tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the size of the table later, if necessary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby můžete později změnit velikost tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: The Insert Table dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Dialog Vložit tabulku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under &lt;f0&gt;Options&lt;/f0&gt;, set up the initial table characteristics:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pod &lt;f0&gt;Možnosti&lt;/f0&gt; , nastavit počáteční vlastnosti tabulky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Heading&lt;/f0&gt; — Enables a heading to be used in the table and defines the number of rows to be used as headings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nadpis&lt;/f0&gt; - Umožňuje použít nadpis v tabulce a definuje počet řádků, které se mají použít jako nadpisy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A second (and, occasionally, third) heading row can be useful for sub-headings in a complex table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Druhý (a příležitostně třetí) řádek nadpisu může být užitečný pro podnadpisy ve složité tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default Table Heading paragraph style is applied to the heading rows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na řádky záhlaví se použije výchozí styl odstavce Nadpis tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can edit the Table Heading paragraph style in the Styles and Formatting window to change these default settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně Styly a formátování můžete upravit styl odstavce Nadpis tabulky a změnit tato výchozí nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Repeat Heading Rows on new pages&lt;/f0&gt; — Enables the heading rows to be repeated at the top of subsequent pages if the table spans more than one page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Opakujte řádky záhlaví na nových stránkách&lt;/f0&gt; - Umožňuje opakování řádků záhlaví v horní části následujících stránek, pokud tabulka zahrnuje více než jednu stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Heading Rows — Specifies the number of rows to be used for the heading.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádky záhlaví - Určuje počet řádků, které mají být použity pro záhlaví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default is 1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí hodnota je 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Don’t split table over pages&lt;/f0&gt; — Prevents the table from spanning more than one page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nerozdělujte tabulku na stránky&lt;/f0&gt; - Zabrání tomu, aby tabulka přesahovala více než jednu stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be useful if the table starts near the end of a page, and would look better if it were completely located on the following page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To může být užitečné, pokud tabulka začíná na konci stránky, a vypadalo by lépe, kdyby byla zcela umístěna na následující stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the table starts earlier on the page, this setting can lead to awkward page breaks.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tabulka začíná dříve na stránce, může toto nastavení vést k nevhodným koncům stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the table becomes longer than would fit on one page, either deselect this option or manually split the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je tabulka delší, než by se vešla na jednu stránku, zrušte výběr této možnosti nebo tabulku rozdělte ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Styles section lists several predefined table layouts, also known as table styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V části Styly je uvedeno několik předdefinovaných rozvržení tabulky, označovaných také jako styly tabulek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Creating and applying table styles&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „ &lt;bf0&gt;Vytváření a používání stylů tabulek&lt;/bf0&gt; “ na stránce &lt;bf1&gt;19 &lt;/bf1&gt;&lt;s2/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select and preview the desired table option from the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ze seznamu můžete vybrat a zobrazit náhled požadované možnosti tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After making your choices, click &lt;f0&gt;Insert&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po provedení výběru klikněte na &lt;f0&gt;Vložit&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer creates a table as wide as the text area (from the left page margin to the right page margin), with all columns the same width and all rows the same height.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Program Writer vytvoří tabulku stejně širokou jako textová oblast (od levého okraje stránky k pravému okraji stránky) se všemi sloupci stejné šířky a všemi řádky stejné výšky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can adjust the columns and rows later to suit your needs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloupce a řádky můžete později upravit podle svých potřeb.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create tables within tables, nested to a depth limited only by imagination and practicality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tabulkách můžete vytvářet tabulky, vnořené do hloubky omezené pouze představivostí a praktičností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nested tables are especially useful for page layout.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vnořené tabulky jsou zvláště užitečné pro rozložení stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;5&lt;/t0&gt;&lt;s1/&gt;demonstrates a simple, two-level example.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t0&gt;5 &lt;/t0&gt;&lt;s1/&gt; ukazuje jednoduchý, dvoustupňový příklad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shaded table is inside a cell of the larger table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stínovaná tabulka je uvnitř buňky větší tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To achieve this, simply click in a cell of an existing table and use any of the methods mentioned in “&lt;bf2&gt;Inserting a new table&lt;/bf2&gt;” above.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li toho dosáhnout, jednoduše klikněte do buňky existující tabulky a použijte některou z metod uvedených v části „ &lt;bf2&gt;Vkládání nové tabulky&lt;/bf2&gt; “Výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Nested table example</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Příklad vnořené tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also create a table by typing a series of hyphens (-) or tabs separated by plus signs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulku můžete také vytvořit zadáním řady pomlček (-) nebo karet oddělených znaménky plus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the plus signs to indicate column dividers, while hyphens and tabs are used to indicate the width of a column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí znaménka plus označte oddělovače sloupců, zatímco pomlčky a záložky se používají k označení šířky sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using tabs, the default tab setting determines the width; this setting can be changed in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; General.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití záložek určuje výchozí nastavení záložek šířku; toto nastavení lze změnit v &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Writer &gt; Obecné.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, this character sequence:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například tato posloupnost znaků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>creates a table like this:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>vytvoří takovou tabulku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This function can be disabled or enabled in &lt;f0&gt;Tools &gt; AutoCorrect &gt; AutoCorrect Options&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto funkci lze deaktivovat nebo povolit v &lt;f0&gt;Nástroje &gt; Automatické opravy &gt; Možnosti automatických oprav&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f1&gt;Options&lt;/f1&gt; page, deselect or select &lt;f2&gt;Create table&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f1&gt;Možnosti&lt;/f1&gt; zrušte výběr nebo vyberte stránku &lt;f2&gt;Vytvořit tabulku&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a table from formatted text by using &lt;f0&gt;Table &gt; Convert &gt; Text to Table&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulku můžete vytvořit z formátovaného textu pomocí &lt;f0&gt;Tabulka &gt; Převést &gt; Text na tabulku&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The text to be converted must contain characters to indicate column separators.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text, který má být převeden, musí obsahovat znaky, které označují oddělovače sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph marks indicate an end of a table row.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Značky odstavců označují konec řádku tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike the creation of a table by other methods, conversion from text to table preserves the paragraph style and character style applied to the original text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rozdíl od vytvoření tabulky jinými metodami zachovává převod z textu na tabulku styl odstavce a styl znaků aplikovaný na původní text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start by editing the text, if necessary, to ensure the column separator character is in place where you want it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Začněte úpravou textu, je-li to nutné, abyste se ujistili, že znak oddělovače sloupců je na místě, kde ho chcete mít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the text you want to convert and choose &lt;f0&gt;Table &gt; Convert &gt; Text to Table&lt;/f0&gt; to open the dialog shown in Figure &lt;t1&gt;6&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte text, který chcete převést, a vyberte &lt;f0&gt;Tabulka &gt; Převést &gt; Text na tabulku&lt;/f0&gt; otevřete dialogové okno zobrazené na obrázku &lt;t1&gt;6&lt;/t1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Separate text at&lt;/f0&gt; section has four options for the separator for the columns of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Samostatný text na&lt;/f0&gt; sekce má čtyři možnosti pro oddělovač sloupců textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f1&gt;Other&lt;/f1&gt; to choose the default comma (useful if you are importing a .csv file) or type any character in the box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f1&gt;jiný&lt;/f1&gt; vyberte výchozí čárku (užitečné, pokud importujete soubor .csv) nebo do pole zadejte libovolný znak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The other options are the same as those in the Insert Table dialog shown in Figure &lt;t2&gt;4&lt;/t2&gt;, with the addition of Border:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ostatní možnosti jsou stejné jako v dialogovém okně Vložit tabulku zobrazené na obrázku &lt;t2&gt;4&lt;/t2&gt; , s přidáním hranice:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Border&lt;/f0&gt; — Surrounds each cell of the table with a border, which can be modified or deleted later.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;okraj&lt;/f0&gt; - Obklopí každou buňku tabulky ohraničením, které lze později upravit nebo odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to convert the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; převést text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Dialog for text to table conversion</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Dialog pro převod textu na tabulku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this example we will convert the following text into a table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto příkladu převedeme následující text do tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row 1 Column 1; Row 1 Column 2; Row 1 Column 3</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek 1 Sloupec 1; Řádek 1 Sloupec 2; Řádek 1 Sloupec 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row 2 Column 1; Row 2 Column 2; Row 2 Column 3</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek 2 Sloupec 1; Řádek 2 Sloupec 2; Řádek 2 Sloupec 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, the separator between elements is a semicolon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto případě je oddělovač mezi prvky středník.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the text and choose Table &gt; Convert &gt; Text to Table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte text a vyberte Tabulka &gt; Převést &gt; Text na tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We obtain the following result.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Získáváme následující výsledek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row 1 Column 1</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek 1 Sloupec 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row 1 Column 2</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek 1 Sloupec 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row 1 Column 3</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek 1 Sloupec 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row 2 Column 1</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek 2 Sloupec 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row 2 Column 2</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek 2 Sloupec 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row 2 Column 3</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek 2 Sloupec 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also perform the opposite operation, to transform a table into plain text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také provést opačnou operaci a transformovat tabulku na prostý text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This may be useful when you want to export the table contents into a different program.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To může být užitečné, když chcete exportovat obsah tabulky do jiného programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To transform a table into text, place the cursor anywhere in the table, choose &lt;f0&gt;Table &gt; Convert &gt; Table to Text&lt;/f0&gt; on the Menu bar, pick the preferred row separator, and click &lt;f1&gt;OK&lt;/f1&gt; to finish.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li transformovat tabulku na text, umístěte kurzor kamkoli v tabulce a zvolte &lt;f0&gt;Tabulka &gt; Převést &gt; Tabulka na text&lt;/f0&gt; na panelu nabídek vyberte preferovaný oddělovač řádků a klikněte na &lt;f1&gt;OK&lt;/f1&gt; dokončit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To copy a spreadsheet area into a Writer document as a Writer table:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup kopírování oblasti tabulky do dokumentu Writeru jako tabulky Writeru:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open both the Writer document and the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dokument Writeru i tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the sheet area (cells) that you want to copy.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte oblast listu (buňky), kterou chcete zkopírovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and choose &lt;f0&gt;Copy&lt;/f0&gt; from the context menu, or press &lt;f1&gt;Ctrl+C&lt;/f1&gt;; then click in the Writer document and choose &lt;f2&gt;Paste&lt;/f2&gt; from the context menu or press &lt;f3&gt;Ctrl+V&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte &lt;f0&gt;kopírovat&lt;/f0&gt; z kontextové nabídky nebo stiskněte &lt;f1&gt;Ctrl + C&lt;/f1&gt; ; poté klikněte do dokumentu Writer a vyberte &lt;f2&gt;Vložit&lt;/f2&gt; z kontextové nabídky nebo stiskněte &lt;f3&gt;Ctrl + V&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Or, drag the area into the Writer document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nebo oblast přetáhněte do dokumentu Writeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See also Chapter 19, Spreadsheets, Charts, Other Objects, for other methods of inserting spreadsheets into Writer documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další metody vkládání tabulek do dokumentů Writeru najdete také v kapitole 19, Tabulky, Grafy, Další objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting a table is, generally speaking, a two-step process: formatting the table layout (the subject of this section) and formatting the table text (the subject of the next section).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování tabulky je obecně řečeno dvoustupňový proces: formátování rozložení tabulky (předmět této části) a formátování textu tabulky (předmět následující části).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you apply similar formatting of table layout and table text to multiple tables, using table styles can speed up your work and provide consistency.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud použijete podobné formátování rozložení tabulky a textu tabulky na více tabulek, může použití stylů tabulky urychlit vaši práci a zajistit konzistenci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Creating and applying table styles&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „ &lt;bf0&gt;Vytváření a používání stylů tabulek&lt;/bf0&gt; “ na stránce &lt;bf1&gt;19&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting the layout normally involves one or more of the following operations: adjusting the size of the table and its position on the page, adjusting sizes of rows and columns, adding or removing rows or columns, merging and splitting individual cells, changing borders and background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování rozvržení obvykle zahrnuje jednu nebo více z následujících operací: úprava velikosti tabulky a její polohy na stránce, úprava velikostí řádků a sloupců, přidání nebo odebrání řádků nebo sloupců, sloučení a rozdělení jednotlivých buněk, změna okrajů a pozadí .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you create a table using the Insert Table dialog or the Insert Table icon on the Standard toolbar, the following defaults are set:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vytvoříte tabulku pomocí dialogu Vložit tabulku nebo ikony Vložit tabulku na panelu nástrojů Standardní, nastaví se následující výchozí hodnoty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cells use the Table Contents paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Buňky používají styl odstavce Obsah tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the default template, this style is identical to the Default Style paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozí šabloně je tento styl identický se stylem odstavce Výchozí styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default table occupies all the space from margin to margin (text area).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí tabulka zabírá veškerý prostor od okraje k okraji (textová oblast).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default table has thin black borders around each cell (grid).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí tabulka má kolem každé buňky (mřížky) tenké černé ohraničení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you activate the Heading option, the cells in the heading row (or rows) use the Table Heading paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud aktivujete možnost Nadpis, buňky v řádku nadpisu (nebo řádcích) používají styl odstavce Nadpis tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using the default settings, any newly created table will occupy the entire width of the text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití výchozího nastavení bude každá nově vytvořená tabulka zabírat celou šířku textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is sometimes what you want, or you may prefer a smaller table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To je někdy to, co chcete, nebo můžete upřednostňovat menší stůl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly resize a table, first move the mouse to either the left or right edge.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle změnit velikost tabulky, nejprve přesuňte myš buď k levému, nebo pravému okraji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the cursor changes shape into a double &lt;t0/&gt;arrow, drag the border to the new position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když kurzor změní tvar na dvojnásobek &lt;t0/&gt; šipka, přetáhněte ohraničení na nové místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This operation only changes the size of the first or last column; it does not change the alignment of the table on the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato operace změní pouze velikost prvního nebo posledního sloupce; nemění zarovnání tabulky na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more precise control over the size and position of the table on the page, open the Table Properties dialog (Figure &lt;t0&gt;7&lt;/t0&gt;) by choosing &lt;f1&gt;Table &gt; Properties&lt;/f1&gt; or by right-clicking anywhere in the table and choosing &lt;f2&gt;Table Properties&lt;/f2&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro přesnější ovládání velikosti a polohy tabulky na stránce otevřete dialogové okno Vlastnosti tabulky (obrázek &lt;t0&gt;7&lt;/t0&gt; ) výběrem &lt;f1&gt;Tabulka &gt; Vlastnosti&lt;/f1&gt; nebo kliknutím pravým tlačítkem kdekoli v tabulce a výběrem &lt;f2&gt;Vlastnosti tabulky&lt;/f2&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: The Table page of the Table Properties dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Stránka Tabulka v dialogovém okně Vlastnosti tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit a table on the &lt;f0&gt;Table&lt;/f0&gt; page of the dialog (Figure &lt;t1&gt;7&lt;/t1&gt;), you can set the alignment of the table, choosing among the following options:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit tabulku na &lt;f0&gt;Stůl&lt;/f0&gt; stránka dialogu (obr &lt;t1&gt;7&lt;/t1&gt; ), můžete nastavit zarovnání tabulky výběrem z následujících možností:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Automatic&lt;/f0&gt;: the default setting for a table, fills the width of the text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Automatický&lt;/f0&gt; : výchozí nastavení tabulky, vyplňuje šířku textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Left&lt;/f0&gt;: aligns the table with the left margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vlevo, odjet&lt;/f0&gt; : zarovná tabulku k levému okraji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Right&lt;/f0&gt;: aligns the table with the right margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Že jo&lt;/f0&gt; : zarovná tabulku s pravým okrajem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;From Left&lt;/f0&gt;: lets you specify under Spacing exactly how far from the left margin the table is placed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zleva&lt;/f0&gt; : umožňuje v části Mezery přesně určit, jak daleko od levého okraje je tabulka umístěna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Center&lt;/f0&gt;: aligns the table in the middle between the left and right margins.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Centrum&lt;/f0&gt; : zarovná tabulku uprostřed mezi levý a pravý okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the table width is greater than the margin, the table will extend outside of the margins.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je šířka tabulky větší než okraj, bude tabulka přesahovat mimo okraje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Manual&lt;/f0&gt;: lets you specify the distances from both left and right margins under Spacing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Manuál&lt;/f0&gt; : umožňuje určit vzdálenosti od levého a pravého okraje pod položkou Mezery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting an alignment option other than Automatic activates the Width field in the &lt;f0&gt;Properties&lt;/f0&gt; section, where you can enter the desired size of the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem jiné možnosti zarovnání než Automaticky se aktivuje pole Šířka v &lt;f0&gt;Vlastnosti&lt;/f0&gt; sekce, kde můžete zadat požadovanou velikost tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f1&gt;Relative&lt;/f1&gt; to see the width as percentage of the text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f1&gt;Relativní&lt;/f1&gt; pro zobrazení šířky v procentech textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Spacing&lt;/f0&gt; section, use the Above and Below boxes to modify the separation between the text and the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Vzdálenost&lt;/f0&gt; Pomocí polí Nahoře a Dole upravte oddělení mezi textem a tabulkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the size of the table is less than the size of the text area, Writer will insert some values in the Left and Right boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je velikost tabulky menší než velikost textové oblasti, aplikace Writer vloží některé hodnoty do levého a pravého pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can enter values:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete zadat hodnoty:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In both the Left and Right boxes if you select Manual alignment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vyberete Ruční zarovnání, v obou polích Vlevo a Vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Left box when you select the From Left, Right, or Center alignment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V poli Vlevo, když vyberete zarovnání zleva, zprava nebo na střed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Right box if you select Left alignment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V poli Vpravo, pokud vyberete Zarovnání doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Otherwise these values are not available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jinak tyto hodnoty nejsou k dispozici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Text Flow page&lt;/f0&gt; of the Table Properties dialog (Figure &lt;t1&gt;8&lt;/t1&gt;), you can:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Stránka toku textu&lt;/f0&gt; dialogového okna Vlastnosti tabulky (obrázek &lt;t1&gt;8&lt;/t1&gt; ), můžeš:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a page or column break either before or after the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte konec stránky nebo sloupce před nebo za tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Text Flow: Break option, combined with the Page or Column and the Before or After buttons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte možnost Tok textu: Rozdělit v kombinaci s tlačítky Stránka nebo Sloupec a Před nebo Po.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you insert a page break before the table (that is, start the table on a new page), you can also change the page style that will go with it by selecting the With Page Style option and a new page style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vložíte konec stránky před tabulku (tj. Zahájíte tabulku na nové stránce), můžete také změnit styl stránky, který k němu bude patřit, výběrem možnosti Se stylem stránky a novým stylem stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with any page break, you can also reset the page numbers using the Page number box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako u každého konce stránky můžete také obnovit čísla stránek pomocí pole Číslo stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep a table on one page by deselecting the Allow table to split across pages and columns option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Udržujte tabulku na jedné stránce zrušením výběru možnosti Povolit rozdělení tabulky mezi stránky a sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this item is deselected, the next item is not active.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je tato položka zrušena, další položka není aktivní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep each row on one page by deselecting the Allow row to break across pages and columns option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Udržujte každý řádek na jedné stránce tak, že zrušíte výběr možnosti Povolit řádkům procházet stránky a sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Keep with next paragraph option to keep the table and an immediately following paragraph together if you insert a page break.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnost Zachovat s dalším odstavcem umožňuje zachovat pohromadě tabulku a bezprostředně následující odstavec, pokud vložíte konec stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Repeat heading option, and its associated numbers box, to select the number of table heading rows that will be repeated on each page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí možnosti Opakovat nadpis a jeho přidružených čísel vyberte počet řádků záhlaví tabulky, které se budou opakovat na každé stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A complicated table may need two or three heading rows to be easily read and understood.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Složitá tabulka může potřebovat dva nebo tři řádky záhlaví, aby byla snadno čitelná a srozumitelná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Text orientation list to select the direction for the text in the cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí seznamu Orientace textu vyberte směr textu v buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select either Horizontal, Vertical, or Use superordinate object settings (meaning &lt;f0&gt;use the default text flow settings for the page&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte buď Horizontální, Vertikální, nebo Použít nastavení nadřazeného objektu (význam &lt;f0&gt;použít výchozí nastavení toku textu pro stránku&lt;/f0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the vertical alignment of the text in the table or the selected cells; the choices are to align with the top of the cell, the center of the cell, or the bottom of the cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte svislé zarovnání textu v tabulce nebo ve vybraných buňkách; možnosti jsou zarovnány s horní částí buňky, středem buňky nebo spodní částí buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This alignment is in addition to the Left-Right alignment options available on the &lt;f0&gt;Table&lt;/f0&gt; page of the Table Properties dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto zarovnání je navíc k možnostem zarovnání zleva doprava k dispozici na &lt;f0&gt;Stůl&lt;/f0&gt; stránka dialogového okna Vlastnosti tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A table heading row cannot span two pages, but any other row can.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řádek záhlaví tabulky nesmí obsahovat dvě stránky, ale jakýkoli jiný řádek ano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A one-row table (often used for page layout purposes), if set up with the default of including a heading, will not break across pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednořadá tabulka (často používaná pro účely rozvržení stránky), pokud je nastavena s výchozím nastavením včetně záhlaví, se mezi stránkami nerozbije.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The solutionis to make sure the table is defined without a heading row.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řešením je zajistit, aby byla tabulka definována bez řádku nadpisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Table Properties dialog: Text Flow page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Dialog Vlastnosti tabulky: Stránka Tok textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can adjust the height of rows and the width of columns in a table in several ways.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výšku řádků a šířku sloupců v tabulce můžete upravit několika způsoby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the mouse next to the edge of the cell and when a double-headed arrow appears, click and hold the left mouse button, drag the border to the desired position, and release the mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte myš vedle okraje buňky a když se objeví dvouhlavá šipka, klikněte a podržte levé tlačítko myši, přetáhněte ohraničení do požadované polohy a uvolněte tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the horizontal ruler, column dividers are marked by a pair of thin gray lines; the vertical ruler indicates row dividers in the same way.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na vodorovném pravítku jsou rozdělovače sloupců označeny dvojicí tenkých šedých čar; svislé pravítko označuje děliče řádků stejným způsobem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can resize a row or column by holding the mouse button down on the appropriate divider and dragging it to the desired location.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velikost řádku nebo sloupce můžete změnit podržením tlačítka myši na příslušném rozdělovači a přetažením na požadované místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard as described below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesnici, jak je popsáno níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting &lt;f0&gt;Table &gt; Size&lt;/f0&gt; from the Menu bar also offers some resizing options:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr &lt;f0&gt;Tabulka &gt; Velikost&lt;/f0&gt; z panelu nabídek nabízí také několik možností změny velikosti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Column Width or Row Height to enter a dimension into the size box for each selectable column or row of the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte šířku sloupce nebo výšku řádku a zadejte dimenzi do pole velikosti pro každý volitelný sloupec nebo řádek tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Optimal Column Width or Optimal Row Height options make the selected columns or rows as narrow as possible while still fitting their contents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti Optimální šířka sloupce nebo Optimální výška řádku způsobí, že vybrané sloupce nebo řádky budou co nejužší a přitom bude stále odpovídat jejich obsahu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is only available if the table is selected and has content.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost je k dispozici, pouze pokud je tabulka vybrána a má obsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Distribute Columns/Rows Evenly to quickly bring them back to all being the same width or height.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rovnoměrně rozdělte sloupce / řádky, abyste je rychle přenesli zpět na všechny stejné šířky nebo výšky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is only available if the table is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost je k dispozici, pouze pokud je vybrána tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For greater control over the width of each column, use the &lt;f0&gt;Columns&lt;/f0&gt; page of the Table Properties dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro větší kontrolu nad šířkou každého sloupce použijte &lt;f0&gt;Sloupce&lt;/f0&gt; stránka dialogového okna Vlastnosti tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Table Properties dialog: Columns page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Dialog Vlastnosti tabulky: Stránka Sloupce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click the table and choose Table Properties from the context menu or choose &lt;f0&gt;Table &gt; Properties&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na tabulku a v místní nabídce vyberte Vlastnosti tabulky nebo vyberte &lt;f0&gt;Tabulka &gt; Vlastnosti&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Table Properties dialog, select the &lt;f1&gt;Columns&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Vlastnosti tabulky vyberte &lt;f1&gt;Sloupce&lt;/f1&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Adapt table width:&lt;/f0&gt; If a table already stretches to the page margins, it cannot stretch any wider and the Adapt table width option can only be used to reduce the column width.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přizpůsobit šířku stolu:&lt;/f0&gt; Pokud se tabulka již roztáhne k okrajům stránky, nemůže se roztáhnout o nic širší a možnost Přizpůsobit šířku tabulky lze použít pouze ke zmenšení šířky sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the table is narrower, increasing the width of a column will increase the width of the whole table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je tabulka užší, zvětšení šířky sloupce zvětší šířku celé tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is not available if Automatic has been selected in the Alignment area of the Table page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost není k dispozici, pokud byla v oblasti Zarovnání na stránce Tabulka vybrána možnost Automaticky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the table width already extends past the margins, with the Adapt table width option checked, attempting to change a column width will automatically decrease that column’s size so that the table will now shrink to the page margins while keeping the size of any other column intact.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud šířka tabulky již přesahuje okraje, je při zaškrtnuté možnosti Přizpůsobit šířku tabulky pokus o změnu šířky sloupce automaticky zmenšit velikost tohoto sloupce tak, aby se tabulka nyní zmenšila na okraje stránky při zachování neporušené velikosti jakéhokoli jiného sloupce .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Adjust columns proportionally&lt;/f0&gt; results in all columns changing their widths by the same percentage when one is changed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Upravte sloupce proporcionálně&lt;/f0&gt; má za následek, že všechny sloupce změní své šířky o stejné procento, když se jeden změní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you reduce by half the size of a column, the sizes of all the other columns will be halved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například pokud zmenšíte o polovinu velikost sloupce, velikost všech ostatních sloupců se sníží na polovinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Remaining space&lt;/f0&gt; shows how much further the table can expand before hitting the limit of the margins.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zbývající prostor&lt;/f0&gt; ukazuje, o kolik dále se může tabulka rozšířit, než narazí na hranici okrajů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This value cannot be edited and will not be negative in the event that the table width is already larger than the space between the left and right margins.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto hodnotu nelze upravit a nebude záporná v případě, že šířka tabulky je již větší než mezera mezi levým a pravým okrajem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under &lt;f0&gt;Column width&lt;/f0&gt;, each individual column can be adjusted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pod &lt;f0&gt;Šířka sloupce&lt;/f0&gt; , lze upravit každý jednotlivý sloupec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have more than six columns, use the arrows at the right and left to view them all.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud máte více než šest sloupců, zobrazte je pomocí šipek vpravo a vlevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With no options selected, the column to the right of the one being adjusted will automatically adjust to keep the table width constant.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud nejsou vybrány žádné možnosti, sloupec napravo od upravovaného se automaticky upraví, aby byla zachována konstantní šířka tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjusting the most right hand column causes the first column to adjust.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava nejvíce pravého sloupce způsobí úpravu prvního sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than start from the Table Properties dialog, it is often more efficient to make rough adjustments to a new table using the mouse, and then fine tune the layout using the Columns page in conjunction with the Table page of the Table Properties dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Spíše než začít z dialogu Vlastnosti tabulky je často efektivnější provést hrubé úpravy nové tabulky pomocí myši a poté doladit rozložení pomocí stránky Sloupce ve spojení se stránkou Tabulka v dialogovém okně Vlastnosti tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is also possible to resize a table using only the keyboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je také možné změnit velikost tabulky pouze pomocí klávesnice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is sometimes easier than using the mouse.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To je někdy jednodušší než používání myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor in the cell where you want to make changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do buňky, kde chcete provést změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press and hold the &lt;f0&gt;Alt&lt;/f0&gt; key while using the arrow keys.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stiskněte a podržte &lt;f0&gt;Alt&lt;/f0&gt; při používání kláves se šipkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The left and right arrow keys adjust the column width by moving the border on the right edge of the cell, but not past the margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šipky vlevo a vpravo upravují šířku sloupce posunutím ohraničení na pravém okraji buňky, ale ne za okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The up and down arrows adjust the row height (when possible) by moving the border on the lower edge of the cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šipky nahoru a dolů upravují výšku řádku (je-li to možné) posunutím ohraničení na spodním okraji buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To adjust the resizing parameters and behavior for keyboard handling, choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Table&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit parametry změny velikosti a chování při manipulaci s klávesnicí, zvolte &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Writer &gt; Tabulka&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Row and Column values in the Move cells section to determine the amount of change produced by a single keystroke while resizing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí hodnot řádků a sloupců v části Přesunout buňky můžete určit velikost změny vyvolané jedním stiskem klávesy při změně velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Behavior of rows/columns section you can choose one of the following three strategies when resizing:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V části Chování řádků / sloupců můžete při změně velikosti zvolit jednu z následujících tří strategií:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fixed: select this if you want the resizing to affect only the adjacent cell and not the entire table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opraveno: vyberte toto, pokud chcete, aby změna velikosti ovlivnila pouze sousední buňku a ne celou tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The width of the table does not change when resizing its cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šířka tabulky se při změně velikosti buněk nezmění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fixed, proportional: when resizing a cell with this option selected, all the other cells are also resized proportionally, but in the opposite direction so as to maintain the width of the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pevné, proporcionální: při změně velikosti buňky s vybranou touto volbou se u všech ostatních buněk změní také velikost proporcionálně, ale v opačném směru, aby byla zachována šířka tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variable: this is the default option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proměnná: toto je výchozí možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resizing a cell affects the table size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna velikosti buňky ovlivní velikost tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, when you widen a cell, the width of the table increases.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když například rozšíříte buňku, zvětší se šířka tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly insert one row or column, place the cursor in the row or column before or after which you want to add new rows or columns, and then do one of the following:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle vložit jeden řádek nebo sloupec, umístěte kurzor do řádku nebo sloupce, před nebo za který chcete přidat nové řádky nebo sloupce, a proveďte jednu z následujících akcí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Rows Above&lt;/f0&gt; or &lt;f1&gt;Rows Below&lt;/f1&gt; icons on the Table toolbar to insert one row above or below the selected one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Řádky výše&lt;/f0&gt; nebo &lt;f1&gt;Řádky níže&lt;/f1&gt; ikony na panelu nástrojů Tabulka pro vložení jednoho řádku nad nebo pod vybraný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Columns Before&lt;/f0&gt; or &lt;f1&gt;Columns After&lt;/f1&gt; icons on the Table toolbar to insert a columnbefore or after the selected one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Sloupce před&lt;/f0&gt; nebo &lt;f1&gt;Sloupce po&lt;/f1&gt; ikony na panelu nástrojů Tabulka pro vložení sloupce před nebo za vybraný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Table &gt; Insert &gt; Rows Above/Below&lt;/f0&gt; or &lt;f1&gt;Table &gt; Insert &gt; Columns Before/After&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Tabulka &gt; Vložit &gt; Řádky nad / pod&lt;/f0&gt; nebo &lt;f1&gt;Tabulka &gt; Vložit &gt; Sloupce před / po&lt;/f1&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and choose &lt;f0&gt;Insert &gt; Rows Above/Below&lt;/f0&gt; or &lt;f1&gt;Insert &gt; Columns Before/After&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte &lt;f0&gt;Vložit &gt; Řádky nad / pod&lt;/f0&gt; nebo &lt;f1&gt;Vložit &gt; Sloupce před / po&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert any number of rows or columns:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup vložení libovolného počtu řádků nebo sloupců:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor in the row or column where you want to add new rows or columns and right-click.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do řádku nebo sloupce, kam chcete přidat nové řádky nebo sloupce, a klikněte pravým tlačítkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the context menu, choose &lt;f0&gt;Insert &gt; Rows&lt;/f0&gt; or &lt;f1&gt;Insert &gt; Columns&lt;/f1&gt; to display a dialog where you can select the number of rows or columns to add, and whether they appear before or after the one selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V místní nabídce zvolte &lt;f0&gt;Vložit &gt; Řádky&lt;/f0&gt; nebo &lt;f1&gt;Vložit &gt; Sloupce&lt;/f1&gt; k zobrazení dialogu, kde můžete vybrat počet řádků nebo sloupců, které chcete přidat, a zda se mají zobrazit před nebo za vybraným.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Number to the number of rows or columns to insert, and Position to Before or After.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavte Number na počet řádků nebo sloupců, které chcete vložit, a Position to Before or After.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Table &gt; Insert &gt; Rows&lt;/f0&gt; and &lt;f1&gt;Table &gt; Insert &gt; Columns&lt;/f1&gt; choices from the Menu bar provide the same options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Tabulka &gt; Vložit &gt; Řádky&lt;/f0&gt; a &lt;f1&gt;Tabulka &gt; Vložit &gt; Sloupce&lt;/f1&gt; možnosti z řádku nabídek poskytují stejné možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regardless of how they are inserted, new rows or columns have the same formatting as the row or column where the cursor was when the insert command was issued.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Bez ohledu na to, jak jsou vloženy, mají nové řádky nebo sloupce stejné formátování jako řádek nebo sloupec, kde byl kurzor, když byl vydán příkaz pro vložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly delete one or more rows or columns, select the rows or columns you want to delete and do one of the following:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li rychle odstranit jeden nebo více řádků nebo sloupců, vyberte řádky nebo sloupce, které chcete odstranit, a proveďte jeden z následujících úkonů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Delete Selected Rows&lt;/f0&gt; or &lt;f1&gt;Delete Selected Columns&lt;/f1&gt; icons on the Table toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Odstranit vybrané řádky&lt;/f0&gt; nebo &lt;f1&gt;Odstranit vybrané sloupce&lt;/f1&gt; ikony na panelu nástrojů Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and choose &lt;f0&gt;Delete &gt; Rows&lt;/f0&gt; or &lt;f1&gt;Delete &gt; Columns&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte &lt;f0&gt;Odstranit &gt; Řádky&lt;/f0&gt; nebo &lt;f1&gt;Odstranit &gt; Sloupce&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A common use for merging cells is to make a heading row that takes up the wntire width of the table, or a subheading row over more than one column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Běžné použití pro slučování buněk je vytvořit řádek záhlaví, který zabírá šířku wntire tabulky, nebo řádek podnadpisu nad více než jedním sloupcem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To merge a cell or group of cells into one cell:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučení buňky nebo skupiny buněk do jedné buňky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the cells to merge.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte buňky, které chcete sloučit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and choose &lt;f0&gt;Merge Cells&lt;/f0&gt; in the context menu, or choose &lt;f1&gt;Table &gt; Merge Cells&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte &lt;f0&gt;Spojit buňky&lt;/f0&gt; v místní nabídce nebo zvolte &lt;f1&gt;Tabulka &gt; Sloučit buňky&lt;/f1&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any content of the cells appears in the merged cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve sloučené buňce se objeví jakýkoli obsah buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To split a cell into multiple cells:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělení buňky na více buněk:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position the cursor inside the cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and choose &lt;f0&gt;Split Cells&lt;/f0&gt; in the context menu, or choose Table &gt; Split Cells from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte &lt;f0&gt;Rozdělit buňky&lt;/f0&gt; v místní nabídce nebo na liště nabídky zvolte Tabulka &gt; Rozdělit buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Split Cells dialog, select how to split the cell and how many cells to create.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Rozdělit buňky vyberte, jak rozdělit buňku a kolik buněk vytvořit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A cell can be split either horizontally (create more rows) or vertically (create more columns).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Buňku lze rozdělit vodorovně (vytvořit více řádků) nebo svisle (vytvořit více sloupců).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is generally a good rule to merge and split cells after completing other layout formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obecně je dobrým pravidlem sloučení a rozdělení buněk po dokončení dalšího formátování rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is because some operations such as deleting a column or a row may produce a result difficult to predict when applied to a table with merged or split cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Důvodem je, že některé operace, jako je odstranění sloupce nebo řádku, mohou způsobit výsledek, který je obtížné předvídat, když se použije na tabulku se sloučenými nebo rozdělenými buňkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Table Properties dialog, select the &lt;f0&gt;Borders&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Vlastnosti tabulky vyberte &lt;f0&gt;Hranice&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you can set borders for a whole table or groups of cells within a table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde můžete nastavit ohraničení pro celou tabulku nebo skupiny buněk v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, you can set a shadow for the whole table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě toho můžete nastavit stín pro celou tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Table Properties dialog: Borders page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Dialog Vlastnosti tabulky: Stránka Ohraničení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Borders have three components: where they go, what they look like, and how much space is left around them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hranice mají tři složky: kam jdou, jak vypadají a kolik místa kolem nich zbývá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line arrangement&lt;/f0&gt; specifies where the borders go.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Uspořádání linky&lt;/f0&gt; určuje, kam budou hranice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a group of cells is selected, the border will be applied only to those cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána skupina buněk, ohraničení bude použito pouze na tyto buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can specify individually the style of the border for the outside edges of the selected cells as well as for the cell divisions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl ohraničení můžete určit jednotlivě pro vnější okraje vybraných buněk i pro rozdělení buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides five default arrangements, but you can click the line you want to customize in the User-defined area to get exactly what you want.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje pět výchozích uspořádání, ale můžete kliknout na řádek, který chcete upravit, v oblasti definované uživatelem a získat přesně to, co chcete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When multiple cells are selected, the User-defined area allows you to select the edges of the selection as well as the cell dividers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je vybráno více buněk, můžete v oblasti definované uživatelem vybrat okraje výběru a také děliče buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the selected cells have different styles of border the User-defined area shows the border as a gray line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud mají vybrané buňky různé styly ohraničení, oblast definovaná uživatelem zobrazí ohraničení jako šedou čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can click the gray line to choose a new border style (first click), leave the border as it is (second click) or delete the border (third click).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete kliknout na šedou čáru a vybrat nový styl ohraničení (první kliknutí), ponechat ohraničení tak, jak je (druhé kliknutí), nebo odstranit ohraničení (třetí kliknutí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line&lt;/f0&gt; specifies what the border looks like: the style, width, and color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Čára&lt;/f0&gt; určuje, jak ohraničení vypadá: styl, šířka a barva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are a number of different styles and colors to choose from.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Existuje řada různých stylů a barev, ze kterých si můžete vybrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style, Width, and Color selections apply to those borders highlighted by a pair of black arrows in the User-defined map on the left-hand side of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr stylu, šířky a barvy se použije na okraje zvýrazněné dvojicí černých šipek na mapě definované uživatelem na levé straně dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Padding&lt;/f0&gt; specifies how much space to leave between the border and the cell contents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Polstrování&lt;/f0&gt; Určuje, kolik místa ponechat mezi ohraničením a obsahem buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spacing can be specified for the left, right, above, and below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezery lze zadat pro levou, pravou, horní a dolní část.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose Synchronize to have the same spacing on all four sides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvolte Synchronizovat, abyste měli stejné mezery na všech čtyřech stranách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This spacing is not factored in when calculating the text measurements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato mezera není zohledněna při výpočtu měření textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Shadow Style&lt;/f0&gt; properties always apply to the whole table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stínový styl&lt;/f0&gt; vlastnosti vždy platí pro celou tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A shadow has three components: where it is (position), how far from the table it is cast (distance), and what color it is.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stín má tři složky: kde je (poloha), jak daleko od stolu je vržena (vzdálenost) a jakou má barvu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If &lt;f0&gt;Merge adjacent line styles&lt;/f0&gt; is checked, two cells sharing a common border will have their borders merged, rather than being side by side or above/below each other.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Li &lt;f0&gt;Sloučit styly sousedních čar&lt;/f0&gt; je zaškrtnuto, dvě buňky sdílející společnou hranici budou mít své hranice sloučené, místo aby byly vedle sebe nebo nad / pod sebou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reset everything if you are having problems with borders, right-click in the table and choose &lt;f0&gt;Table Properties&lt;/f0&gt; or choose &lt;f1&gt;Table &gt; Properties&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vše resetovat, pokud máte problémy s ohraničením, klikněte pravým tlačítkem do tabulky a vyberte &lt;f0&gt;Vlastnosti tabulky&lt;/f0&gt; nebo vybrat &lt;f1&gt;Tabulka &gt; Vlastnosti&lt;/f1&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f2&gt;Borders&lt;/f2&gt; tab, select the &lt;f3&gt;Set No Border&lt;/f3&gt;s icon under &lt;f4&gt;Line arrangement Presets&lt;/f4&gt; (the box on the left).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f2&gt;Hranice&lt;/f2&gt; na kartě vyberte &lt;f3&gt;Set No Border&lt;/f3&gt; ikona pod &lt;f4&gt;Předvolby uspořádání řádků&lt;/f4&gt; (rámeček vlevo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A table background can greatly improve the readability of data, visually highlight important parts of the table (such as the heading or a specific cell), or just make the table more appealing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozadí tabulky může výrazně zlepšit čitelnost dat, vizuálně zvýraznit důležité části tabulky (například nadpis nebo konkrétní buňku) nebo jen zvýšit přitažlivost tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose between two types of background: solid color or image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete si vybrat mezi dvěma typy pozadí: plnou barvou nebo obrázkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The background can be applied to the whole table, to a single cell, or to a row.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozadí lze použít na celou tabulku, na jednu buňku nebo na řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to consider the color contrast between the background and foreground (usually text).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Musíte vzít v úvahu barevný kontrast mezi pozadím a popředím (obvykle text).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background colors and images can also have transparency applied to help make the text more readable.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barvy pozadí a obrázky mohou mít také průhlednost, aby byl text čitelnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The row background option is quite handy when you want to create alternate color rows or assign a different background to the heading of the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnost pozadí řádku je docela užitečná, pokud chcete vytvořit alternativní barevné řádky nebo přiřadit jiné pozadí záhlaví tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The background selected for a cell will be in front of the row background which in turn will be in front of (and hide) the table background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozadí vybrané pro buňku bude před pozadím řádku, které bude zase před (a skryje) pozadí tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set the background for a cell, row, or table:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup nastavení pozadí buňky, řádku nebo tabulky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor anywhere inside the cell, row, or table you want to work with.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor kamkoli do buňky, řádku nebo tabulky, se kterou chcete pracovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to apply a background to a group of cells, select the group.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete použít pozadí pro skupinu buněk, vyberte skupinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and choose &lt;f0&gt;Table Properties&lt;/f0&gt; from the context menu, or choose &lt;f1&gt;Table &gt; Properties&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte &lt;f0&gt;Vlastnosti tabulky&lt;/f0&gt; z kontextové nabídky nebo vyberte &lt;f1&gt;Tabulka &gt; Vlastnosti&lt;/f1&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Table Properties dialog, select the &lt;f0&gt;Background&lt;/f0&gt; tab (see Figure &lt;t1&gt;11&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Vlastnosti tabulky vyberte &lt;f0&gt;Pozadí&lt;/f0&gt; záložka (viz obr &lt;t1&gt;11&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose whether to apply the settings to cell, row, or table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte, zda chcete použít nastavení na buňku, řádek nebo tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Cell&lt;/f0&gt;: changes apply only to the selected cells, or the cell where the cursor currently resides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Buňka&lt;/f0&gt; : změny se vztahují pouze na vybrané buňky nebo na buňku, kde se aktuálně nachází kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even when selecting a group of cells, the background settings are applied to each cell individually.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>I při výběru skupiny buněk se nastavení pozadí použije na každou buňku zvlášť.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Row&lt;/f0&gt;: changes affect the entire row where the cursor resides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Řádek&lt;/f0&gt; : změny ovlivní celý řádek, kde se nachází kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Table&lt;/f0&gt;: changes will set the background for the entire table, regardless of the cursor position or selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stůl&lt;/f0&gt; : změny nastaví pozadí pro celou tabulku bez ohledu na polohu kurzoru nebo vybrané buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To apply a color, click on the &lt;f0&gt;Color&lt;/f0&gt; button, select the color, and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít barvu, klikněte na ikonu &lt;f0&gt;Barva&lt;/f0&gt; tlačítko, vyberte barvu a klepněte na &lt;f1&gt;OK&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To apply a bitmap (image), click on the &lt;f0&gt;Bitmap&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít bitmapu (obrázek), klikněte na ikonu &lt;f0&gt;Rastrový obrázek&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select from the given bitmaps or use the &lt;f0&gt;Add/Import&lt;/f0&gt; button to select an image from your computer’s file system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte z daných bitmap nebo použijte &lt;f0&gt;Přidat / Importovat&lt;/f0&gt; tlačítko pro výběr obrázku ze systému souborů vašeho počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under &lt;f0&gt;Options&lt;/f0&gt;, select the type of placement for the image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pod &lt;f0&gt;Možnosti&lt;/f0&gt; , vyberte typ umístění obrázku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Style&lt;/f0&gt; – select the way the image has to appear: custom position/size, tiled, or stretched.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styl&lt;/f0&gt; - vyberte způsob, jakým má obrázek vypadat: vlastní poloha / velikost, kachlová nebo roztažená.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Size&lt;/f0&gt; – select the required Image aspect ratio or the Scale option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Velikost&lt;/f0&gt; - vyberte požadovaný poměr stran obrazu nebo možnost Měřítko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position – &lt;/f0&gt;select where the image is to be displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice -&lt;/f0&gt; vyberte, kde se má obrázek zobrazit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To apply the image, click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít obrázek, klikněte na &lt;f0&gt;OK&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Table Properties dialog: inserting a graphic background</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Dialog Vlastnosti tabulky: vložení grafického pozadí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;12&lt;/t0&gt;&lt;s1/&gt;shows an example of a table set with a background image, and the first row background colored.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t0&gt;12 &lt;/t0&gt;&lt;s1/&gt; ukazuje příklad tabulky s obrázkem pozadí a barevným pozadím prvního řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As you can see, the row background covers the table background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jak vidíte, pozadí řádku pokrývá pozadí tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Example of table with different row and table backgrounds</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Příklad tabulky s různým pozadím řádků a tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A table boundary is a set of pale (usually gray) lines around the cells when viewed on‑screen in LibreOffice with no borders enabled.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hranice tabulky je sada bledých (obvykle šedých) čar kolem buněk při zobrazení na obrazovce v LibreOffice bez povolených okrajů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These boundaries are not printed; their only function is to help you see where the table cells are.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto hranice nejsou vytištěny; jejich jedinou funkcí je pomoci vám zjistit, kde jsou buňky tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are particularly useful when using tables for page layout.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jsou zvláště užitečné při použití tabulek pro rozložení stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display tables the same way on the screen as on the printed page, with no boundary lines, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; Application Colors&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit tabulky stejným způsobem na obrazovce jako na vytištěné stránce, bez hraničních čar, přejděte na &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice &gt; Barvy aplikace&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On that page, you can display or hide boundaries around text, pages headers and footers, figures, and other parts of a document, and you can choose the color of boundary lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na této stránce můžete zobrazit nebo skrýt hranice kolem textu, záhlaví a zápatí stránek, obrázků a dalších částí dokumentu a můžete zvolit barvu hraničních čar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Turning boundaries off does not hide any borders that the table may have.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vypnutí hranic neskrývá žádná ohraničení, která může mít tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using table styles, you can apply an elaborate format to your table with just a few clicks.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí stylů tabulky můžete na svůj stůl použít propracovaný formát pomocí několika kliknutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Like other styles, table styles enable you to produce consistent looking tables in a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako ostatní styly umožňují styly tabulek v dokumentu vytvářet konzistentně vypadající tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To apply a table style, go to the Table Styles page of the Styles deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít styl tabulky, přejděte na stránku Styly tabulky na paletě Styly v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then place the cursor anywhere in the table and double-click the name of a style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté umístěte kurzor kamkoli do tabulky a poklepejte na název stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more control, go to &lt;f0&gt;Table &gt; AutoFormat Styles&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další kontrolu získáte na &lt;f0&gt;Tabulka &gt; Styly automatického formátování&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the AutoFormat dialog (FIgure &lt;t1&gt;13&lt;/t1&gt;), select a format from the list, choose which features you wish to use in your table (font, alignment, borders, and so on), and then click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Automatický formát (obr &lt;t1&gt;13&lt;/t1&gt; ), vyberte formát ze seznamu, vyberte, které funkce chcete v tabulce použít (písmo, zarovnání, ohraničení atd.), a poté klikněte na &lt;f2&gt;OK&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table will be reformatted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulka bude přeformátována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can rename the formats by selecting one and clicking the &lt;f0&gt;Rename&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formáty můžete přejmenovat výběrem jednoho a kliknutím na ikonu &lt;f0&gt;Přejmenovat&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name will change in this dialog and in the Table Styles page in the sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název se změní v tomto dialogu a na stránce Styly tabulek v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can delete a format by selecting it and clicking the &lt;f0&gt;Delete&lt;/f0&gt; button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formát můžete odstranit jeho výběrem a kliknutím na ikonu &lt;f0&gt;Vymazat&lt;/f0&gt; knoflík.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you cannot rename or delete the Default table style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí styl tabulky však nemůžete přejmenovat ani odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Table AutoFormat dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Dialog Automatický formát tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although the Styles deck includes a quick way to apply table styles, they are created by using the AutoFormat feature.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ačkoli balíček stylů obsahuje rychlý způsob použití stylů tabulky, jsou vytvářeny pomocí funkce Automatický formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format it as you wish: font, alignment, borders, background, number format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Naformátujte jej, jak chcete: písmo, zarovnání, ohraničení, pozadí, formát čísel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the cursor anywhere in the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor kamkoli v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Table &gt; AutoFormat Styles&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Tabulka &gt; Styly automatického formátování&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the AutoFormat dialog (Figure &lt;t0&gt;13&lt;/t0&gt;), choose which features you wish to include in the new table style, and then click Add.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Automatický formát (Obrázek &lt;t0&gt;13&lt;/t0&gt; ), vyberte, které funkce chcete zahrnout do nového stylu tabulky, a poté klikněte na Přidat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the pop-up dialog, type a name for the new style and click &lt;f0&gt;OK&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V rozbalovacím dialogovém okně zadejte název nového stylu a klikněte na &lt;f0&gt;OK&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new style is added to the list of formats in the AutoFormat dialog and to the list of table styles in the Styles deck in the sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nový styl se přidá do seznamu formátů v dialogovém okně Automatický formát a do seznamu stylů tabulek na panelu Styly v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table styles also include the following table-level properties:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly tabulek také zahrnují následující vlastnosti na úrovni tabulky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Break</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přestávka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep with next paragraph</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokračujte dalším odstavcem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat heading</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakujte záhlaví</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow table to split across pages</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Povolit rozdělení tabulky mezi stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow rows to break across pages</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nechte řádky prolomit stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge adjacent line styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučit styly sousedních čar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table shadow</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stín tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These styles do not include table and column widths in the table format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto styly nezahrnují šířku tabulky a sloupce ve formátu tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a table with predefined full formatting, save it as AutoText.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit tabulku s předdefinovaným plným formátováním, uložte ji jako automatický text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “Using AutoText” in Chapter 2, Working with Text: Basics, for instructions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokyny najdete v části „Používání automatického textu“ v kapitole 2, Práce s textem: Základy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the table layout is set, you can move on to formatting the text in the individual cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile je rozložení tabulky nastaveno, můžete přejít k formátování textu v jednotlivých buňkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can apply manual formatting as with any other paragraph in the text, but it is highly recommended, for the sake of consistency and ease of maintenance, that you use paragraph and character styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete použít ruční formátování jako u kteréhokoli jiného odstavce v textu, ale z důvodu konzistence a snadnosti údržby se důrazně doporučuje používat odstavcové a znakové styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to paragraph and character styles, other aspects to consider when placing text in a table cell include text flow, alignment, and orientation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě odstavcových a znakových stylů zahrnují při umísťování textu do buňky tabulky další aspekty, které zahrnují tok textu, zarovnání a orientaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can format each cell independently of other cells, or you can simultaneously format a group of cells by selecting them before applying the desired formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každou buňku můžete naformátovat nezávisle na ostatních buňkách, nebo můžete skupinu buněk formátovat současně tak, že je vyberete před použitím požadovaného formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can apply basic table text formatting by choosing a table style and then modify only those cells that you wish to be different.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete použít základní formátování textu tabulky výběrem stylu tabulky a poté upravit pouze ty buňky, které chcete odlišit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, text entered into a table is aligned to the top-left of the cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení je text zadaný do tabulky zarovnán do levého horního rohu buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the default for the entire table, as described above, or for individually selected cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení můžete změnit pro celou tabulku, jak je popsáno výše, nebo pro jednotlivě vybrané buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To vertically align the text in specific cells:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup vertikálního zarovnání textu v konkrétních buňkách:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor in the cell you wish to change, or select multiple cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do buňky, kterou chcete změnit, nebo vyberte více buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click an icon on the Table toolbar: &lt;f0&gt;Align Top&lt;/f0&gt;, &lt;f1&gt;Center Vertically&lt;/f1&gt;, or &lt;f2&gt;Align Bottom&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu na panelu nástrojů Tabulka: &lt;f0&gt;Zarovnat horní část&lt;/f0&gt; , &lt;f1&gt;Vycentrovat svisle&lt;/f1&gt; nebo &lt;f2&gt;Zarovnat dole&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The number format can be set for a whole table, a group of cells, or a single cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formát čísla lze nastavit pro celou tabulku, skupinu buněk nebo jednu buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, cells can be set to display in a particular currency, to four decimal places, or in a particular date format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Buňky lze například nastavit tak, aby se zobrazovaly v konkrétní měně, na čtyři desetinná místa nebo v určitém formátu data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number recognition specifies that numbers in a text table are recognized and formatted as numbers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozpoznávání čísel určuje, že čísla v textové tabulce jsou rozpoznána a formátována jako čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If Number recognition is not selected, numbers are saved in text format and are automatically left-aligned.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud není vybráno Rozpoznávání čísel, jsou čísla uložena v textovém formátu a jsou automaticky zarovnána doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enable Number recognition, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Table&lt;/f0&gt; and select the option in the &lt;f1&gt;Input in Tables&lt;/f1&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li povolit rozpoznávání čísel, přejděte na &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Writer &gt; Tabulka&lt;/f0&gt; a vyberte možnost v &lt;f1&gt;Vstup do tabulek&lt;/f1&gt; sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set the number format for one or more cells, select the cells, then either click the icon for one of the popular formats from the Table toolbar, or choose &lt;f0&gt;Table &gt; Number Format&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nastavit formát čísla pro jednu nebo více buněk, vyberte buňky a poté klikněte na ikonu jednoho z populárních formátů z panelu nástrojů Tabulka nebo vyberte &lt;f0&gt;Tabulka &gt; Formát čísla&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the Format Number dialog (Figure &lt;t1&gt;14&lt;/t1&gt;), you can set options for various categories of numerical data.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogovém okně Formátovat číslo (obrázek &lt;t1&gt;14&lt;/t1&gt; ), můžete nastavit možnosti pro různé kategorie číselných údajů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Category&lt;/f0&gt; list, select the category you want, such as currency, date, or text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Kategorie&lt;/f0&gt; seznamu, vyberte požadovanou kategorii, například měnu, datum nebo text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Format&lt;/f0&gt; list, choose a format for the category you just selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Formát&lt;/f0&gt; seznamu vyberte formát kategorie, kterou jste právě vybrali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For some categories, such as &lt;f0&gt;Date&lt;/f0&gt;, you may wish to change the language using the &lt;f1&gt;Language&lt;/f1&gt; list, while for other numerical categories you can use the &lt;f2&gt;Options&lt;/f2&gt; section of the dialog to customize the appearance.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U některých kategorií, například &lt;f0&gt;datum&lt;/f0&gt; , můžete změnit jazyk pomocí &lt;f1&gt;Jazyk&lt;/f1&gt; seznamu, zatímco pro jiné číselné kategorie můžete použít &lt;f2&gt;Možnosti&lt;/f2&gt; v části dialogu upravte vzhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer displays the formatting code for the category and format selected in &lt;f0&gt;Format Code&lt;/f0&gt; section at the bottom of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer zobrazí formátovací kód pro kategorii a formát vybraný v &lt;f0&gt;Formátovat kód&lt;/f0&gt; v dolní části dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you select a date format such as 31 Dec 1999 the corresponding code is D MMM YYYY.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například pokud vyberete formát data, například 31. prosince 1999, bude odpovídající kód D MMM RRRR.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Advanced users can easily customize this formatting code as well as create new user-defined codes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokročilí uživatelé mohou tento formátovací kód snadno přizpůsobit a také vytvořit nové uživatelem definované kódy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: The Format Number dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Dialog Formátovat číslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can rotate text in a table cell by 90 or 270 degrees.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text v buňce tabulky můžete otáčet o 90 nebo 270 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text rotation can be useful when you have long headings for narrow columns.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otočení textu může být užitečné, pokud máte dlouhé nadpisy pro úzké sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the text to be rotated and then choose &lt;f0&gt;Format &gt; Character&lt;/f0&gt;, or right-click and select &lt;f1&gt;Character &gt; Character&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte text, který chcete otočit, a poté vyberte &lt;f0&gt;Formát &gt; Znak&lt;/f0&gt; nebo klikněte pravým tlačítkem a vyberte &lt;f1&gt;Znak &gt; Znak&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Position&lt;/f0&gt; page, in the &lt;f1&gt;Rotation / Scaling&lt;/f1&gt; section, choose the rotation angle, optionally change the Scale width, and click &lt;f2&gt;OK&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Pozice&lt;/f0&gt; na stránce &lt;f1&gt;Rotace / změna měřítka&lt;/f1&gt; části, vyberte úhel otočení, volitelně změňte šířku měřítka a klikněte &lt;f2&gt;OK&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t0&gt;15&lt;/t0&gt;&lt;s1/&gt;shows a sample table with rotated headings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t0&gt;15 &lt;/t0&gt;&lt;s1/&gt; ukazuje ukázkovou tabulku s otočenými záhlavími.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: A table with rotated headings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Stůl s otočenými záhlavími</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text rotation within table cells can also be achieved with the use of paragraph styles, discussed in detail in Chapter 9, Working with Styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otočení textu v buňkách tabulky lze dosáhnout také použitím odstavcových stylů, které jsou podrobně popsány v kapitole 9, Práce se styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Within a table, you can use the mouse, the cursor (arrow) keys, or the &lt;f0&gt;Tab&lt;/f0&gt; key to move between cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tabulce můžete použít myš, kurzorové klávesy (šipky) nebo &lt;f0&gt;Tab&lt;/f0&gt; klíč pro pohyb mezi buňkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cursor keys move the cursor one text character left or right at a time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kurzorové klávesy pohybují kurzorem o jeden textový znak vlevo nebo vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a cell is empty, pressing the cursor key will move the cursor to the adjacent cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je buňka prázdná, stisknutím kurzorové klávesy se kurzor přesune do sousední buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Tab&lt;/f0&gt; key moves directly to the next cell and, if the cursor is in the last cell in the table, creates a new row.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Tab&lt;/f0&gt; klávesa se přesune přímo do další buňky a pokud je kurzor v poslední buňce v tabulce, vytvoří nový řádek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pressing &lt;f1&gt;Shift+Tab&lt;/f1&gt; moves the cursor back a cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lisování &lt;f1&gt;Shift + Tab&lt;/f1&gt; posune kurzor zpět o buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To enter a &lt;f0&gt;Tab&lt;/f0&gt; character as part of the text of the cell, press the &lt;f1&gt;Ctrl&lt;/f1&gt; and &lt;f2&gt;Tab&lt;/f2&gt; keys at the same time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zadat a &lt;f0&gt;Tab&lt;/f0&gt; znak jako součást textu buňky, stiskněte &lt;f1&gt;Ctrl&lt;/f1&gt; a &lt;f2&gt;Tab&lt;/f2&gt; současně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move to the beginning of the table, press &lt;f0&gt;Ctrl+Home&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přejít na začátek tabulky, stiskněte &lt;f0&gt;Ctrl + Domů&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the active cell is empty, the move is to the beginning of the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je aktivní buňka prázdná, bude přesun na začátek tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the cell has content, the first press goes to the beginning of the cell and the next press goes to the beginning of the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má buňka obsah, první stisknutí přejde na začátek buňky a další stisknutí přejde na začátek tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Pressing again takes you to the beginning of the document.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Dalším stisknutím se dostanete na začátek dokumentu.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move to the end of the table, press &lt;f0&gt;Ctrl+End&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přejít na konec tabulky, stiskněte &lt;f0&gt;Ctrl + End&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the active cell is empty, the move is to the end of the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je aktivní buňka prázdná, je přesun na konec tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the cell has content, the first press goes to the end of the cell and the next press goes to the end of the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má buňka obsah, přejde první stisknutí na konec buňky a další stisknutí na konec tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Pressing again takes you to the end of the document.)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Dalším stisknutím se dostanete na konec dokumentu.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just as in a spreadsheet, Writer allows data in a table to be sorted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako v tabulce umožňuje Writer třídění dat v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up to three levels of sorting can be specified (for example, sort first by age numerically, then alphabetically by name within each age).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze zadat až tři úrovně třídění (například seřaďte nejprve podle věku číselně, potom abecedně podle jména v rámci každého věku).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To sort data in a table:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Řazení dat v tabulce:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the table (or part of the table) to be sorted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte tabulku (nebo její část), kterou chcete třídit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From the Menu bar, choose &lt;f0&gt;Table &gt; Sort&lt;/f0&gt;, or select the &lt;f1&gt;Sort&lt;/f1&gt; icon from the Table toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na liště nabídek vyberte &lt;f0&gt;Tabulka &gt; Řadit&lt;/f0&gt; nebo vyberte &lt;f1&gt;Třídit&lt;/f1&gt; ikona z panelu nástrojů Tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Sort dialog (Figure &lt;t0&gt;16&lt;/t0&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dialogu Řazení (Obrázek &lt;t0&gt;16&lt;/t0&gt; ):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decide whether you want to sort in the direction of rows or columns.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozhodněte se, zda chcete řadit ve směru řádků nebo sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default sorting direction is by rows, which results in sorting the data in a column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí směr řazení je podle řádků, což má za následek řazení dat ve sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select up to three keys to sort on, in the correct order.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte až tři klávesy, které chcete seřadit, ve správném pořadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For each key, select which column or row to sort on, whether the sort is Numeric or Alphanumeric and whether it is Ascending or Descending.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U každého klíče vyberte sloupec nebo řádek, podle kterého se má seřadit, zda je řazení číselné nebo alfanumerické a zda je vzestupné nebo sestupné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to perform the sort.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;OK&lt;/f0&gt; provést třídění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You have to select all cells that might be affected by the sorting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Musíte vybrat všechny buňky, které by mohly být ovlivněny tříděním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you select only the cells of one column, the sort affects that column only, while the others remain unchanged.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například pokud vyberete pouze buňky jednoho sloupce, řazení ovlivní pouze tento sloupec, zatímco ostatní zůstanou nezměněny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such a case, you risk mixing the data of the rows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V takovém případě riskujete smíchání dat řádků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Selecting criteria for sorting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : Výběr kritérií pro třídění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For many simple mathematical functions, Writer tables can be used as basic spreadsheets.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro mnoho jednoduchých matematických funkcí lze tabulky Writeru použít jako základní tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just as in a spreadsheet, each table cell is identified by a letter (for the column) and a number (for the row).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako v tabulce je každá buňka tabulky označena písmenem (pro sloupec) a číslem (pro řádek).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, cell C4 is the cell in the third column from the left and fourth row from the top.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například buňka C4 je buňka ve třetím sloupci zleva a ve čtvrtém řádku shora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the cursor is in a cell, the table name and this cell reference is displayed on the status bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je kurzor v buňce, na stavovém řádku se zobrazí název tabulky a tento odkaz na buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Basic spreadsheet functions in tables are much the same as in LibreOffice Calc.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Základní tabulkové funkce v tabulkách jsou téměř stejné jako v LibreOffice Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0/&gt;The main difference is that cell references are formatted differently.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;s0/&gt; Hlavní rozdíl spočívá v tom, že odkazy na buňky jsou formátovány odlišně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cell A2 (first column, second row) is referred to in Calc as A2 (or $A$2 for an absolute reference).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Buňka A2 (první sloupec, druhý řádek) se v Calc označuje jako A2 (nebo$ A$ 2 pro absolutní referenci).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Writer tables, it is referred to as &lt;A2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tabulkách Writeru se to označuje jako &lt;a2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, suppose you had two numbers in cells &lt;B1&gt; and &lt;C2&gt; and wanted to display the sum of the two in cell &lt;A1&gt;, as shown in Figure &lt;t0&gt;17&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Předpokládejme například, že jste měli v buňkách dvě čísla &lt;b1&gt;a &lt;c2&gt;a chtěl zobrazit součet dvou v buňce &lt;a1&gt;, jak je znázorněno na obrázku &lt;t0&gt;17&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do the following to sum up 4 and 5:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Shrňte 4 a 5 takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in cell &lt;A1&gt; and press the = key, or choose &lt;f0&gt;Table &gt; Formula&lt;/f0&gt; from the Menu bar, or press &lt;f1&gt;F2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte do buňky &lt;a1&gt;a stiskněte klávesu = nebo vyberte &lt;f0&gt;Tabulka &gt; Vzorec&lt;/f0&gt; na liště nabídek nebo stiskněte &lt;f1&gt;F2&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Formula bar appears automatically, near the top of the screen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lišta vzorců se zobrazí automaticky v horní části obrazovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the leftmost side of the bar, you can see the coordinates of the selected cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na levé straně pruhu můžete vidět souřadnice vybrané buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in cell &lt;B1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte do buňky &lt;b1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The identifiers of this cell are automatically displayed in the Formula bar and inserted into cell &lt;A1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Identifikátory této buňky se automaticky zobrazí na liště vzorců a vloží se do buňky &lt;a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the + key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stiskněte klávesu +.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in cell &lt;C2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte do buňky &lt;c2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can see the final formula = &lt;B1&gt;+&lt;C2&gt; displayed both in the selected cell and in the Object bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vidět konečný vzorec = &lt;b1&gt;+ &lt;c2&gt;se zobrazí jak ve vybrané buňce, tak na panelu objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;f0&gt;Enter&lt;/f0&gt; key, or click the green check mark (may be a different symbol on some installations) on the Formula Bar, to replace the formula in the cell with the result of the calculation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>zmáčkni &lt;f0&gt;Enter&lt;/f0&gt; nebo klikněte na zelené zatržítko (může to být u některých instalací jiný symbol) na liště vzorců, abyste vzorec v buňce nahradili výsledkem výpočtu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Using spreadsheet functions in a table</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Použití funkcí tabulky v tabulce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display a cell's formula and make it available for editing, choose &lt;f0&gt;Table &gt; Formula&lt;/f0&gt; from the Menu bar, or press &lt;f1&gt;F2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit vzorec buňky a zpřístupnit jej pro úpravy, zvolte &lt;f0&gt;Tabulka &gt; Vzorec&lt;/f0&gt; na liště nabídek nebo stiskněte &lt;f1&gt;F2&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To display the list of the mathematical functions available for use in a table, display the Formula toolbar by pressing &lt;f0&gt;F2&lt;/f0&gt; or by selecting a blank cell and pressing the = &lt;s1/&gt;key, and then click the &lt;f2&gt;Formula f(x)&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit seznam matematických funkcí dostupných v tabulce, zobrazte panel nástrojů Vzorec stisknutím &lt;f0&gt;F2&lt;/f0&gt; nebo výběrem prázdné buňky a stisknutím = &lt;s1/&gt; klíč a poté klikněte na &lt;f2&gt;Vzorec f (x)&lt;/f2&gt; ikona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In our example, this gives the result 9 in the top left cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V našem příkladu to dává výsledek 9 v buňce vlevo nahoře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For summing contiguous cells, you can simply select the cells in the row, column, or the rectangle of rows and columns.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li sčítat souvislé buňky, můžete jednoduše vybrat buňky v řádku, sloupci nebo obdélníku řádků a sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, for example, to add a column of numbers, do this:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li například přidat sloupec čísel, postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type an equals sign = in an empty cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do prázdné buňky zadejte znaménko rovná se =.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the cells to be added together, in this case the cells from A2 to A5.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte buňky, které chcete sečíst, v tomto případě buňky od A2 do A5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formula should be something like =&lt;A2:A5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzorec by měl být něco jako = &lt;a2:a5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press the &lt;f0&gt;Enter&lt;/f0&gt; key or click the green check mark on the Formula Bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>zmáčkni &lt;f0&gt;Enter&lt;/f0&gt; nebo klikněte na zelené zaškrtnutí na liště vzorců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The result appears in the cell you have selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výsledek se objeví ve vybrané buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using a function, you can type the cell references manually or select them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití funkce můžete ručně zadat odkazy na buňky nebo je vybrat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, to add up the four numbers that we added above (A2, A3, A4, A5), do this:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li tedy sečíst čtyři čísla, která jsme přidali výše (A2, A3, A4, A5), postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type sum or select it from the function list f(x).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte součet nebo jej vyberte ze seznamu funkcí f (x).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the contiguous cells to be added together.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte souvislé buňky, které chcete sečíst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formula should be something like =sum&lt;A2:A5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzorec by měl být něco jako = součet &lt;a2:a5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The answer appears in the cell you have selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odpověď se objeví v buňce, kterou jste vybrali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike in Calc, formulas are not updated automatically when inserting or deleting rows or columns of the table, although the results do update when you change a value in a cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rozdíl od Calc se vzorce neaktualizují automaticky při vkládání nebo mazání řádků nebo sloupců tabulky, i když výsledky se aktualizují, když změníte hodnotu v buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you plan to use complex formulas, consider embedding a Calc spreadsheet in the Writer document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud plánujete použít složité vzorce, zvažte vložení tabulky Calc do dokumentu Writeru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 19, Spreadsheets, Charts, other Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz Kapitola 19, Tabulky, grafy, další objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can protect the contents of individual cells of a table from changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obsah jednotlivých buněk tabulky můžete chránit před změnami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a cell is protected, most of the menu items and toolbar icons are inactivated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je buňka chráněna, většina položek nabídky a ikon panelu nástrojů je deaktivována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This protection is not intended for secure protection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato ochrana není určena k bezpečné ochraně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It protects the cells against accidental changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chrání buňky před náhodnými změnami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To turn on cell protection, place the cursor in a cell or select cells, then click the Protect Cells icon on the Table toolbar or choose &lt;f0&gt;Table &gt; Protect Cells&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zapnout ochranu buněk, umístěte kurzor do buňky nebo vyberte buňky a poté klikněte na ikonu Chránit buňky na panelu nástrojů Tabulka nebo vyberte &lt;f0&gt;Tabulka &gt; Chránit buňky&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To tun off cell protection, place the cursor in the cell or select the cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vypnout ochranu buněk, umístěte kurzor do buňky nebo vyberte buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then click the &lt;f0&gt;Unprotect&lt;/f0&gt; Cells icon on the Table toolbar or choose &lt;f1&gt;Table &gt; Unprotect Cells&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté klikněte na ikonu &lt;f0&gt;Nechránit&lt;/f0&gt; Ikona buněk na panelu nástrojů Tabulka nebo vyberte &lt;f1&gt;Tabulka &gt; Zrušit ochranu buněk&lt;/f1&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove protection for the entire current table or all selected tables, press &lt;f0&gt;Shift+Ctrl+T&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit ochranu celé aktuální tabulky nebo všech vybraných tabulek, stiskněte &lt;f0&gt;Shift + Ctrl + T&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you cannot place the cursor in a protected cell, you need to enable the cursor.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud nemůžete umístit kurzor do chráněné buňky, musíte povolit kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Formatting Aids&lt;/f0&gt; and in the &lt;f1&gt;Protected Areas&lt;/f1&gt; section mark &lt;f2&gt;Enable cursor&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Writer &gt; Formátovací pomůcky&lt;/f0&gt; a v &lt;f1&gt;Chráněná území&lt;/f1&gt; značka úseku &lt;f2&gt;Aktivovat kurzor&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can easily add a caption to any table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Titul můžete snadno přidat do libovolné tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer will keep track of all your captioned tables, automatically number them, and update any links to them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer bude sledovat všechny vaše tabulky s titulky, automaticky je očíslová a aktualizuje všechny odkazy na ně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a caption to a table:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidání titulku do tabulky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click anywhere in the table and select &lt;f0&gt;Insert Caption&lt;/f0&gt; from the context menu, or choose &lt;f1&gt;Insert &gt; Caption&lt;/f1&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem kdekoli v tabulce a vyberte &lt;f0&gt;Vložit titulek&lt;/f0&gt; z kontextové nabídky nebo vyberte &lt;f1&gt;Vložit &gt; Titulek&lt;/f1&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Under &lt;f0&gt;Properties&lt;/f0&gt; on the Caption dialog, &lt;s1/&gt;make your selections for the Category (it defaults to Table, which is usually what you want), Numbering, and Separator fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pod &lt;f0&gt;Vlastnosti&lt;/f0&gt; v dialogu Titulek, &lt;s1/&gt; proveďte výběr pro pole Kategorie (výchozí je Tabulka, což je obvykle to, co chcete), Číslování a Oddělovač.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Position of the caption defaults to above a table; you can change this if necessary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí pozice titulku je nad tabulkou; v případě potřeby to můžete změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type your caption text in the text box at the top of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte text titulku do textového pole v horní části dialogového okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also set up Writer to add captions to tables automatically.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také nastavit Writer, aby automaticky přidával titulky do tabulek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The procedure is the same as for adding captions automatically to images, described in Chapter 11.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup je stejný jako pro automatické přidávání titulků k obrázkům, popsaný v kapitole 11.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can insert a cross‑reference to a captioned table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vložit křížový odkaz na tabulku s titulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on the cross-reference takes the reader directly to the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na křížový odkaz se čtenář dostane přímo ke stolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For details, see “Using automatic cross-references” in Chapter 17, Fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnosti najdete v části „Použití automatických křížových odkazů“ v kapitole 17, Pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One table can be split into two tables, and two tables can be merged into a single table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedna tabulka může být rozdělena do dvou tabulek a dvě tabulky lze sloučit do jedné tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables are split horizontally: the rows above the split point are put into one table, and the rows below into another.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky jsou rozděleny vodorovně: řádky nad bodem rozdělení jsou vloženy do jedné tabulky a řádky níže do jiné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To split a table:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělení tabulky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the cursor in a cell that will be in the top row of the second table after the split (the table splits immediately above the cursor).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do buňky, která bude po rozdělení v horní řadě druhé tabulky (tabulka se rozdělí bezprostředně nad kurzorem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Table &gt; Split Table&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Tabulka &gt; Rozdělit tabulku&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A Split Table dialog opens, where you can choose how to handle heading rows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se dialog Rozdělit tabulku, kde si můžete vybrat, jak zacházet s řádky záhlaví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table is then split into two tables separated by a blank paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulka je poté rozdělena na dvě tabulky oddělené prázdným odstavcem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If cells in one table include formulas using data from the other table, those cells will contain an error message: **Expression is faulty**.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud buňky v jedné tabulce obsahují vzorce využívající data z druhé tabulky, budou tyto buňky obsahovat chybovou zprávu: ** Výraz je vadný **.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To merge two tables:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučení dvou tabulek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete the blank paragraph between the tables.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstraňte prázdný odstavec mezi tabulkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must use the &lt;f0&gt;Delete&lt;/f0&gt; key (not the &lt;f1&gt;Backspace&lt;/f1&gt; key) to do this.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Musíte použít &lt;f0&gt;Vymazat&lt;/f0&gt; klíč (ne klíč &lt;f1&gt;Backspace&lt;/f1&gt; klíč).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select any cell in one of the tables.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte libovolnou buňku v jedné z tabulek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose &lt;f0&gt;Table &gt; Merge Table&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Tabulka &gt; Sloučit tabulku&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see clearly where the paragraphs are and to delete them easily, choose &lt;f0&gt;View &gt; Formatting Marks&lt;/f0&gt; (&lt;f1&gt;Ctrl+F10&lt;/f1&gt;) or click the ¶ button in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li jasně vidět, kde jsou odstavce, a snadno je odstranit, zvolte &lt;f0&gt;Zobrazit &gt; Formátování značek&lt;/f0&gt; ( &lt;f1&gt;Ctrl + F10&lt;/f1&gt; ) nebo klikněte na tlačítko in na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To delete a table, do any of the following:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odstranit tabulku, proveďte libovolný z následujících úkonů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click anywhere in the table and choose &lt;f0&gt;Delete &gt; Table&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem kdekoli v tabulce a vyberte &lt;f0&gt;Odstranit &gt; Tabulka&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click anywhere in the table and choose &lt;f0&gt;Table &gt; Delete &gt; Table&lt;/f0&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte kdekoli v tabulce a vyberte &lt;f0&gt;Tabulka &gt; Odstranit &gt; Tabulka&lt;/f0&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select from the end of the paragraph before the table to the start of the paragraph after the table, and then press the &lt;f0&gt;Delete&lt;/f0&gt; key or the &lt;f1&gt;Backspace&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte od konce odstavce před tabulkou po začátek odstavce za tabulkou a stiskněte klávesu &lt;f0&gt;Vymazat&lt;/f0&gt; klíč nebo &lt;f1&gt;Backspace&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The third method also merges the paragraph after the table with the paragraph before the table, which may not be what you want.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Třetí metoda také sloučí odstavec za tabulkou s odstavcem před tabulkou, což nemusí být to, co chcete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To copy a table from one part of the document and paste it into another part:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup kopírování tabulky z jedné části dokumentu a vložení do jiné části:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;Ctrl+C&lt;/f0&gt; or click the &lt;f1&gt;Copy&lt;/f1&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>lis &lt;f0&gt;Ctrl + C&lt;/f0&gt; nebo klikněte na &lt;f1&gt;kopírovat&lt;/f1&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click where you want the table to be copied.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na místo, kam chcete kopírovat tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;Ctrl+V&lt;/f0&gt; or click the &lt;f1&gt;Paste&lt;/f1&gt; icon on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>lis &lt;f0&gt;Ctrl + V&lt;/f0&gt; nebo klikněte na &lt;f1&gt;Vložit&lt;/f1&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move a table from one part of a document to another part:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesunutí tabulky z jedné části dokumentu do jiné části:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;Ctrl+X&lt;/f0&gt; or click the &lt;f1&gt;Cut&lt;/f1&gt; icon in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>lis &lt;f0&gt;Ctrl + X&lt;/f0&gt; nebo klikněte na &lt;f1&gt;Střih&lt;/f1&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click where you want the table to be moved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na místo, kam chcete tabulku přesunout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;f0&gt;Ctrl+V&lt;/f0&gt; or click the &lt;f1&gt;Paste&lt;/f1&gt; icon in the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>lis &lt;f0&gt;Ctrl + V&lt;/f0&gt; nebo klikněte na &lt;f1&gt;Vložit&lt;/f1&gt; ikona na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This pastes the cells and their contents and formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se vloží buňky a jejich obsah a formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a paragraph before a table, position the cursor &lt;f0&gt;before&lt;/f0&gt; any text or other contents in the first (upper left-hand) cell and press &lt;f1&gt;Alt+Enter&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit odstavec před tabulku, umístěte kurzor &lt;f0&gt;před&lt;/f0&gt; jakýkoli text nebo jiný obsah v první buňce (vlevo nahoře) a stiskněte &lt;f1&gt;Alt + Enter&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a paragraph after a table, position the cursor &lt;f2&gt;after&lt;/f2&gt; any text in the last (lower right-hand) cell and press &lt;f3&gt;Alt+Enter&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit odstavec za tabulku, umístěte kurzor &lt;f2&gt;po&lt;/f2&gt; jakýkoli text v poslední buňce (vpravo dole) a stiskněte &lt;f3&gt;Alt + Enter&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tables may be used as a page layout tool to position text in a document instead of using tabs or spaces.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky lze použít jako nástroj pro rozložení stránky k umístění textu v dokumentu namísto použití karet nebo mezer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information and tips about using tables in page layout, see Chapter 6, Formatting Pages: Advanced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace a tipy týkající se použití tabulek v rozložení stránky najdete v kapitole 6, Formátování stránek: Upřesnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When inserting a table used for layout, you may wish to deselect the Heading and Border options (see “&lt;bf0&gt;Inserting a new table&lt;/bf0&gt;” on page &lt;bf1&gt;7&lt;/bf1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vkládání tabulky použité pro rozvržení můžete zrušit výběr možností Nadpis a ohraničení (viz „ &lt;bf0&gt;Vkládání nové tabulky&lt;/bf0&gt; “ na stránce &lt;bf1&gt;7&lt;/bf1&gt; ).</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

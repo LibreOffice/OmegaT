@@ -1,0 +1,4478 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 9 Working with Styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 9 Práce se styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 9 Working with Styles&lt;segment 41213 +1 more ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 9 Práce se styly &lt;segment 41213 +1 more ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Working with list styles&lt;/t0&gt; &lt;f1&gt;| &lt;/f1&gt;&lt;t2&gt;27&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Práce se styly seznamů &lt;/t0&gt;&lt;f1&gt; | &lt;/f1&gt;&lt;t2&gt; 27&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;26&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt;Chapter 9 Working with Styles&lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;26 &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;f3&gt;&lt;t4&gt; Kapitola 9 Práce se styly &lt;/t4&gt;&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 9 Working with Styles&lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;3&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 9 Práce se styly &lt;/t0&gt;&lt;s1/&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; 3&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;&lt;t1&gt;4&lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt;| &lt;/f2&gt;&lt;t3&gt;Chapter 9 Working with Styles&lt;/t3&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;&lt;t1&gt; 4 &lt;/t1&gt;&lt;/f0&gt;&lt;f2&gt; | &lt;/f2&gt;&lt;t3&gt; Kapitola 9 Práce se styly&lt;/t3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer 6.4 Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Writer 6.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 9 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 9 &lt;s0/&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with Styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Gillian Pollack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published July 2020.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v červenci 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tools &gt; Options&lt;/f0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nástroje &gt; Možnosti &lt;/f0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>menu selection</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>výběr nabídky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Control+clic&lt;/f0&gt;k and/or right-click depending on computer setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Control + clic&lt;/f0&gt; k a / nebo klepněte pravým tlačítkem v závislosti na nastavení počítače</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating custom (new) styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření vlastních (nových) stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style inheritance</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl dědičnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: Changing a property of a parent style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad: Změna vlastnosti nadřazeného stylu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with paragraph styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se styly odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Indents &amp; Spacing &lt;/a0&gt;&lt;a1&gt;tab&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Odsazení a mezery &lt;/a0&gt;&lt;a1&gt; záložka&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Alignment &lt;/a0&gt;&lt;a1&gt;tab&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Zarovnání &lt;/a0&gt;&lt;a1&gt; záložka&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text flow options for paragraph styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti toku textu pro odstavcové styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font options for the paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti písma pro styl odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specifying a relative font size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadání relativní velikosti písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting a language for a paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr jazyka pro styl odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options for positioning text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti umístění textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: Rotating the text in a paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad: Otočení textu ve stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Controlling tab stops</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ovládání zarážek tabulátoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Outline &amp; Numbering &lt;/a0&gt;&lt;a1&gt;tab&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Přehled a číslování &lt;/a0&gt;&lt;a1&gt; záložka&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting up a drop cap</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení víčka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background (area), highlighting, and transparency</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozadí (oblast), zvýraznění a průhlednost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using conditional paragraph styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití podmíněných odstavcových stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with character styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se styly postav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a new character style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření nového stylu znaků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with frame styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se styly rámů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How frame styles work</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jak styly rámců fungují</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Planning the styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Plánování stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating new frame styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření nových stylů rámů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with page styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se styly stránek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a new page style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření nového stylu stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General settings for the page style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obecná nastavení pro styl stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Area and Border tabs</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karty Oblast a ohraničení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Columns tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Sloupce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Footnote tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta poznámky pod čarou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with list styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se styly seznamů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a new list style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření nového stylu seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bullets, Numbering Styles, and Image tabs</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karty Odrážky, Styly číslování a Obrázek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Outline tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Obrys</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Pozice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta Přizpůsobit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: Creating a simple list style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad: Vytvoření jednoduchého stylu seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating the CDTracks numbered list</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření číslovaného seznamu CDTracks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Applying the list style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití stylu seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 8, Introduction to Styles, describes the basics of how to use, apply, and manage styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 8, Úvod do stylů, popisuje základy používání, aplikace a správy stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter gives a more detailed description of how to create or modify some styles, using the many options available on the various pages of the Style dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola poskytuje podrobnější popis toho, jak vytvořit nebo upravit některé styly, pomocí mnoha možností dostupných na různých stránkách dialogu Styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It explains how these options affect the appearance of the style and how to use them efficiently.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vysvětluje, jak tyto možnosti ovlivňují vzhled stylu a jak je efektivně používat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Style dialogs share many of the same pages as the manual formatting dialogs, so this chapter can also help you apply manual formatting (though you do not need that if you use styles).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogy Styl sdílejí mnoho stejných stránek jako dialogy ručního formátování, takže tato kapitola vám také může pomoci použít ruční formátování (i když to nepotřebujete, pokud používáte styly).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to using the predefined styles provided by LibreOffice, you can add new custom (user-defined) styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě použití předdefinovaných stylů poskytovaných LibreOffice můžete přidat nové vlastní (uživatelem definované) styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Chapter 8, three methods are given for creating a new style: drag-and-drop, the New Style from Selection icon on the Styles deck, and the Style dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kapitole 8 jsou uvedeny tři metody pro vytvoření nového stylu: přetažení, ikona Nový styl z výběru na paletě Styly a dialog Styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first two of these methods are convenient because you can check the visual effects that the style produces before creating it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>První dvě z těchto metod jsou pohodlné, protože před vytvořením můžete zkontrolovat vizuální efekty, které daný styl vytváří.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, for full control over the style (and its relationship to other styles, you need to use the Style dialog, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li však mít plnou kontrolu nad stylem (a jeho vztahem k jiným stylům), musíte použít dialogové okno Styl, jak je popsáno v této kapitole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table styles are created in a different way, as described in Chapter 13, Tables of Data.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly tabulek se vytvářejí jiným způsobem, jak je popsáno v kapitole 13, Tabulky dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Styles deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete balíček Styly na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the category of style you want to create by clicking on the appropriate icon on the top part of the Styles deck.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na příslušnou ikonu v horní části balíčku stylů vyberte kategorii stylu, kterou chcete vytvořit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click in the window and select New from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem do okna a v místní nabídce vyberte možnost Nový.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog that is displayed depends on the type of style you selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog, který se zobrazí, závisí na typu vybraného stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many of the pages are the same as those used when applying manual formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnoho stránek je stejných jako ty, které se používají při manuálním formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, if you are familiar with manual formatting, you may already know how to use most of the options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tedy znáte ruční formátování, možná už víte, jak použít většinu možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialogs used to create a new style and to modify an existing style are mostly the same, but with one exception: conditional styles have a different dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialogy používané k vytvoření nového stylu ak úpravě existujícího stylu jsou většinou stejné, ale s jednou výjimkou: podmíněné styly mají jiný dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Using conditional paragraph styles&lt;/bf0&gt;” on page &lt;bf1&gt;17&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „ &lt;bf0&gt;Použití podmíněných odstavcových stylů&lt;/bf0&gt; “ na stránce &lt;bf1&gt;17&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Organizer&lt;/f0&gt; tab, shown in Figure &lt;t1&gt;1&lt;/t1&gt;, is common to all style categories (except Table styles), with only small differences between them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Organizátor&lt;/f0&gt; karta zobrazená na obrázku &lt;t1&gt;1&lt;/t1&gt; , je společný pro všechny kategorie stylů (kromě stylů tabulky), pouze s malými rozdíly mezi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, it is described only once.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proto je popsán pouze jednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the style you are creating, you will find the following fields on this tab:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na stylu, který vytváříte, najdete na této kartě následující pole:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Name:&lt;/f0&gt; present on all the categories.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Název:&lt;/f0&gt; přítomné ve všech kategoriích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this field to name the style you are creating.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto pole použijte k pojmenování stylu, který vytváříte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;AutoUpdate:&lt;/f0&gt; only present for paragraph and frame styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Automatická aktualizace:&lt;/f0&gt; k dispozici pouze pro styly odstavců a rámců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is selected, then Writer will apply any manual modification to a paragraph or frame formatted with that style to the style itself.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána tato možnost, aplikace Writer použije jakoukoli ruční úpravu odstavce nebo rámečku formátovaného tímto stylem na samotný styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are in the habit of manually overriding styles in your document, be sure that AutoUpdate is not enabled, or you may suddenly find whole sections of your document reformatted unexpectedly.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud máte ve zvyku ručně přepsat styly v dokumentu, ujistěte se, že není povolena funkce AutoUpdate, nebo můžete najednou najít neočekávaně přeformátované celé části dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: The Organizer tab displayed when a new Paragraph style is created</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;1&lt;/seq0&gt; : Karta Organizátor zobrazená při vytváření nového stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Next Style&lt;/f0&gt;: only available for paragraph and page styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Další styl&lt;/f0&gt; : k dispozici pouze pro styly odstavců a stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use it to specify which style will be applied to the next element of the same type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte jej k určení, který styl bude použit na další prvek stejného typu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a left page style is usually followed by a right page style, a first page style followed by a left page style, a heading followed by a text body, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například po levém stylu stránky obvykle následuje styl pravé stránky, styl první stránky následovaný stylem levé stránky, nadpis následovaný tělem textu atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Inherit from&lt;/f0&gt;: available for paragraph, character, and frame styles; it determines the position of the style in the hierarchy.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Dědit z&lt;/f0&gt; : k dispozici pro styly odstavců, znaků a rámečků; určuje pozici stylu v hierarchii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the starting properties of the new style are inherited (copied) from the style specified here; see below for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny počáteční vlastnosti nového stylu jsou zděděny (zkopírovány) ze zde uvedeného stylu; viz níže pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Category&lt;/f0&gt;: available for all styles; use it to associate the new style with one of the categories.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kategorie&lt;/f0&gt; : k dispozici pro všechny styly; použijte jej k přidružení nového stylu k jedné z kategorií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that you cannot change the category of the predefined styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pamatujte, že nemůžete změnit kategorii předdefinovaných stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting this field is useful when filtering the contents of the Styles deck.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení tohoto pole je užitečné při filtrování obsahu balíčku stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Contains&lt;/f0&gt;: shows a summary of the properties of the style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Obsahuje&lt;/f0&gt; : zobrazuje souhrn vlastností stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When creating a new paragraph style or a new character style, you can use an existing style as a starting point for its settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vytváření nového odstavcového stylu nebo nového znakového stylu můžete použít stávající styl jako výchozí bod pro jeho nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this sense, LibreOffice links the styles together.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto smyslu LibreOffice spojuje styly dohromady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When style settings are inherited, a change in the parent style affects every style inherited from it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když se nastavení stylu dědí, změna nadřazeného stylu ovlivní každý styl zděděný z něj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see the connections between styles, switch to the &lt;f0&gt;Hierarchical view&lt;/f0&gt; on the Styles deck filter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li zobrazit spojení mezi styly, přepněte na ikonu &lt;f0&gt;Hierarchický pohled&lt;/f0&gt; na filtru balíčku Styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, every Heading style (such as Heading 1, Heading 2) is inherited from a style called Heading.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například každý styl nadpisu (například Nadpis 1, Nadpis 2) se dědí ze stylu s názvem Nadpis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This relationship is illustrated in Figure &lt;t1&gt;2&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento vztah je znázorněn na obrázku &lt;t1&gt;2&lt;/t1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Hierarchical view of inheritance in styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;2&lt;/seq0&gt; : Hierarchický pohled na dědičnost ve stylech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inheritance is a method to create “families” of styles in which you can change their properties simultaneously.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dědičnost je metoda vytváření „rodin“ stylů, ve kterých můžete současně měnit jejich vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you decide that all the headings should be green (such as in this guide), you only need to change the font color of the parent style to achieve the desired result.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se například rozhodnete, že všechny nadpisy by měly být zelené (například v této příručce), k dosažení požadovaného výsledku stačí změnit barvu písma nadřazeného stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, changes made to a parameter of the parent style do not override changes previously made to the same parameter in the child styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změny provedené v parametru nadřazeného stylu však nepotlačí změny dříve provedené ve stejném parametru v podřízených stylech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you change the Heading 2 font color to green, a change of the font color of the Heading style (the parent style) to red will not affect the Heading 2 font color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například pokud změníte barvu písma nadpisu 2 na zelenou, změna barvy písma stylu nadpisu (nadřazený styl) na červenou barvu barev nadpisu 2 neovlivní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can easily check which properties are specific to a style by looking at the &lt;f0&gt;Contains&lt;/f0&gt; section of the Organizer tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete snadno zkontrolovat, které vlastnosti jsou specifické pro styl, když se podíváte na &lt;f0&gt;Obsahuje&lt;/f0&gt; na kartě Organizátor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to reset the properties of a child style to that of the parent style, click the &lt;f1&gt;Standard&lt;/f1&gt; button located at the bottom of each Paragraph and Character style dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete obnovit vlastnosti podřízeného stylu na vlastnosti nadřazeného stylu, klepněte na &lt;f1&gt;Standard&lt;/f1&gt; tlačítko umístěné ve spodní části každého dialogu odstavce a znakového stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Suppose that you want to change the font of not only Heading 1 or Heading 2, but all headings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Předpokládejme, že chcete změnit písmo nejen nadpisu 1 nebo nadpisu 2, ale všech nadpisů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Styles deck, select the &lt;f0&gt;Paragraph Styles&lt;/f0&gt; category, right-click &lt;f1&gt;Heading&lt;/f1&gt;, then select &lt;f2&gt;Modify&lt;/f2&gt; to open the Paragraph Style dialog for the Heading style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete balíček stylů a vyberte ikonu &lt;f0&gt;Styly odstavců&lt;/f0&gt; kategorie, klikněte pravým tlačítkem &lt;f1&gt;Nadpis&lt;/f1&gt; , poté vyberte &lt;f2&gt;Upravit&lt;/f2&gt; otevřete dialogové okno Styl odstavce pro styl Nadpis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Font&lt;/f0&gt; tab, then select a font and click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Písmo&lt;/f0&gt; kartu, vyberte písmo a klikněte na &lt;f1&gt;OK&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now the fonts of all the heading styles (Heading 1 through Heading 10) are changed in a single operation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní se písma všech stylů nadpisů (Nadpis 1 až Nadpis 10) změní v jedné operaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Select the Heading font</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;3&lt;/seq0&gt; : Vyberte písmo Nadpis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although this section describes most of the parameters scattered over the tabbed pages shown in Figure &lt;t0&gt;3&lt;/t0&gt;, you do not need to configure them all.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ačkoli tato část popisuje většinu parametrů roztroušených po stránkách s kartami zobrazenými na obrázku &lt;t0&gt;3&lt;/t0&gt; , nemusíte je konfigurovat všechny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most cases, you need to modify only a few attributes, particularly if you link styles or base the new style on a similar one.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve většině případů musíte upravit pouze několik atributů, zejména pokud propojujete styly nebo založíte nový styl na podobném.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Indents &amp; Spacing tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Záložka Odsazení a mezery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Indents &amp; Spacing&lt;/f0&gt; tab (Figure &lt;t1&gt;4&lt;/t1&gt;), you can set up the indentation of the paragraph and the spacing between lines and between one paragraph and the paragraphs above and below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Odsazení a mezery&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;4&lt;/t1&gt; ), můžete nastavit odsazení odstavce a mezery mezi řádky a mezi jedním odstavcem a odstavci nad a pod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Settings on the Indents and Spacing tab of a paragraph style dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;4&lt;/seq0&gt; : Nastavení na kartě Odsazení a mezery v dialogovém okně stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Indent&lt;/f0&gt; section of the tab to set up the indentation, using these parameters:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Odrážka&lt;/f0&gt; části záložky nastavíte odsazení pomocí těchto parametrů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Before text&lt;/f0&gt;: controls the space in the selected unit of measurement between the left margin of the page and the leftmost part of the paragraph area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Před textem&lt;/f0&gt; : ovládá mezeru ve vybrané měrné jednotce mezi levým okrajem stránky a nejlevnější částí oblasti odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entering a negative value results in the text starting on the left of the margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadání záporné hodnoty má za následek text začínající nalevo od okraje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This may be useful in situations where your left margin is quite wide, but you want the headings to be centered in the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To může být užitečné v situacích, kdy je levý okraj poměrně široký, ale chcete, aby záhlaví byla na stránce vycentrována.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;After text&lt;/f0&gt;: controls the space in the selected unit of measurement between the right margin of the page and the rightmost part of the paragraph area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Po textu&lt;/f0&gt; : ovládá mezeru ve vybrané měrné jednotce mezi pravým okrajem stránky a nejpravější částí oblasti odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entering a negative value results in the text extending into the right margin of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadáním záporné hodnoty se text rozšíří do pravého okraje stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;First line&lt;/f0&gt;: enter the offset in this box (either positive or negative) of the first line of the paragraph relative to the paragraph area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;První řada&lt;/f0&gt; : do tohoto pole zadejte posunutí (kladné nebo záporné) prvního řádku odstavce vzhledem k oblasti odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A positive value increases the indentation of the first line, while a negative value makes the first line start to the left of the paragraph area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kladná hodnota zvětší odsazení prvního řádku, zatímco záporná hodnota způsobí, že první řádek začne nalevo od oblasti odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Automatic&lt;/f0&gt;: select this box to allow Writer to automatically control the indentation of the first line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Automatický&lt;/f0&gt; : Zaškrtněte toto políčko, pokud chcete umožnit programu Writer automaticky řídit odsazení prvního řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The value is calculated by Writer on the basis of the font size and other parameters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hodnotu Writer vypočítá na základě velikosti písma a dalších parametrů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Spacing&lt;/f0&gt; section of the page to determine the amount of vertical space above and below the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Vzdálenost&lt;/f0&gt; části stránky k určení velikosti svislého prostoru nad a pod odstavcem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is customary to include some “space above” in heading styles so that they are separated from the text body of the previous section without the need to insert empty paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je zvykem zahrnout do stylů nadpisu část „mezery nad“, aby byla oddělena od těla textu předchozí části bez nutnosti vložit prázdné odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spacing between paragraphs is also normal in certain types of documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U některých typů dokumentů je také normální rozestup mezi odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The body text style of this guide is configured to leave some space between consecutive paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl hlavního textu této příručky je nakonfigurován tak, aby mezi po sobě následujícími odstavci zůstal určitý prostor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select the option to remove space between paragraphs of the same style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vybrat možnost odebrání mezery mezi odstavci stejného stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An option in &lt;f0&gt;Tools &gt; Options &gt; LibreOffice Writer &gt; Compatibility&lt;/f0&gt; controls whether space above and space below are added together (the default) or if the larger space is the only one that applies.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnost v &lt;f0&gt;Nástroje &gt; Možnosti &gt; LibreOffice Writer &gt; Kompatibilita&lt;/f0&gt; určuje, zda se prostor nad a prostor pod sčítá (výchozí), nebo jestli se použije větší prostor jako jediný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 21, Customizing Writer, for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 21, Přizpůsobení zapisovače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The spacing between paragraphs does not affect the spacing between lines within a paragraph, which is controlled in the &lt;f0&gt;Line spacing&lt;/f0&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezery mezi odstavci neovlivní mezery mezi řádky v odstavci, který je řízen v &lt;f0&gt;Řádkování&lt;/f0&gt; sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select one of the following values:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vybrat jednu z následujících hodnot:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Single&lt;/f0&gt;: the default setting—applies a single line spacing to the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Singl&lt;/f0&gt; : výchozí nastavení - použije na odstavec jeden řádkování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is calculated automatically based on the font size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To se počítá automaticky na základě velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;1.15 lines&lt;/f0&gt;: sets the line spacing to 1.15 lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;1,15 řádků&lt;/f0&gt; : nastaví řádkování na 1,15 řádků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This small increase often improves the appearance of text without using a lot of vertical space.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto malé zvětšení často vylepšuje vzhled textu bez použití velkého svislého prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;1.5 lines&lt;/f0&gt;: sets the line spacing to 1.5 lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;1,5 řádku&lt;/f0&gt; : nastaví řádkování na 1,5 řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Double&lt;/f0&gt;: sets the line spacing to 2 lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Dvojnásobek&lt;/f0&gt; : nastaví řádkování na 2 řádky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Proportional&lt;/f0&gt;: activates the edit box next to the drop-down list where you can enter a percentage value.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Úměrný&lt;/f0&gt; : aktivuje editační pole vedle rozevíracího seznamu, kde můžete zadat procentuální hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>100% means a single line spacing, 200% double line spacing and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>100% znamená jednoduché řádkování, 200% dvojité řádkování atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;At least&lt;/f0&gt;: this choice activates the edit box next to the drop-down list, where you can enter the minimum value (in your selected unit of measurement) to be used for the line spacing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Alespoň&lt;/f0&gt; : tato volba aktivuje editační pole vedle rozevíracího seznamu, kde můžete zadat minimální hodnotu (ve zvolené měrné jednotce), která má být použita pro řádkování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Leading&lt;/f0&gt;: if this is selected, you can control the height of the vertical space between the base lines of two successive lines of text, by entering a value, which is summed with the value of single line spacing, into the edit box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vedoucí&lt;/f0&gt; : je-li vybráno toto, můžete ovládat výšku svislého prostoru mezi základními řádky dvou po sobě následujících řádků textu zadáním hodnoty, která je sečtena hodnotou mezer mezi řádky, do editačního pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Fixed&lt;/f0&gt;: this choice activates the edit box next to the drop-down list, where you can enter the exact value of the line spacing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pevný&lt;/f0&gt; : tato volba aktivuje editační pole vedle rozevíracího seznamu, kde můžete zadat přesnou hodnotu řádkování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using different font sizes in the same paragraph, the line spacing may be uneven.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při použití různých velikostí písma ve stejném odstavci může být řádkování nerovnoměrné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To obtain evenly spaced lines, select &lt;f0&gt;Fixed&lt;/f0&gt; or &lt;f1&gt;At least&lt;/f1&gt; in the drop-down list and a value that is large enough to create a spacing between the lines sufficient to account for the largest font size used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li získat rovnoměrně rozmístěné řádky, vyberte &lt;f0&gt;Pevný&lt;/f0&gt; nebo &lt;f1&gt;Alespoň&lt;/f1&gt; v rozevíracím seznamu a hodnota, která je dostatečně velká, aby vytvořila mezeru mezi řádky dostatečnou k zohlednění největší použité velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The last parameter on this page is &lt;is0/&gt;&lt;f1&gt;Register-true&lt;/f1&gt;&lt;ie2/&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poslední parametr na této stránce je &lt;is0/&gt;&lt;f1&gt; Registrovat-pravda &lt;/f1&gt;&lt;ie2/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a typography term used in printing; it refers to the congruent imprint of the lines within a type area on the front and the back side of book pages, newspaper pages, and magazine pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je typografický termín používaný v tisku; odkazuje na kongruentní otisk řádků v oblasti typu na přední a zadní straně stránek knih, novin a stránek časopisů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The register-true feature make these pages easier to read by preventing gray shadows from appearing through between the lines of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce true-register usnadňuje čtení těchto stránek tím, že brání šedým stínům v zobrazování mezi řádky textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The register-true term also refers to lines in adjacent text columns that are of the same height.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Termín true-register také odkazuje na řádky v sousedních textových sloupcích, které mají stejnou výšku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you define a paragraph, paragraph style, or page style as register-true, the base lines of the affected characters are aligned to an invisible vertical page grid, regardless of font size or of the presence of graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když definujete odstavec, styl odstavce nebo styl stránky jako skutečný registr, základní čáry ovlivněných znaků se zarovnají k neviditelné vertikální mřížce stránky, bez ohledu na velikost písma nebo přítomnost grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This aligns the baseline of each line of text to a vertical document grid, so that each line is the same height.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se vyrovná účaří každého řádku textu se svislou mřížkou dokumentu, takže každý řádek bude mít stejnou výšku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this feature, you must first activate the Register-true option for the current page style (refer to “&lt;bf0&gt;General settings for the page style&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít tuto funkci, musíte nejprve aktivovat možnost Register-true pro aktuální styl stránky (viz „ &lt;bf0&gt;Obecná nastavení pro styl stránky&lt;/bf0&gt; “ na stránce &lt;bf1&gt;21&lt;/bf1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then the Reference style and all the styles hierarchically dependent on it will have the Activate Register-True box selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pak bude mít referenční styl a všechny na něm hierarchicky závislé styly zaškrtnuté políčko Aktivovat registraci - Pravda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you also want to activate the vertical grid for other styles (or not apply it to styles dependent on the reference style), you can specify that here.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete také aktivovat svislou mřížku pro jiné styly (nebo ji nepoužít na styly závislé na referenčním stylu), můžete to zde určit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Alignment&lt;/f0&gt; tab to modify the horizontal alignment of the text, choosing between Left, Right, Center, and Justified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Zarovnání&lt;/f0&gt; karta upravte vodorovné zarovnání textu výběrem z možností Vlevo, Vpravo, Na střed a Zarovnáno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The results of the selection are shown in a preview window on the right-hand side of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výsledky výběru se zobrazí v okně náhledu na pravé straně stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When selecting Justified alignment, you can also decide how Writer should treat the last line of the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při výběru Zarovnané zarovnání můžete také rozhodnout, jak má aplikace Writer zacházet s posledním řádkem odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, Writer aligns the last line to the left (Start), but you can choose to align it to the center or to justify it (meaning that the words on the last line will be spaced in order to occupy it fully).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení Writer zarovná poslední řádek doleva (Start), ale můžete se rozhodnout jej zarovnat do středu nebo jej zarovnat (což znamená, že slova na posledním řádku budou rozmístěna, aby jej plně obsadila).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have selected to justify the last line and select the &lt;f0&gt;Expand single word&lt;/f0&gt; option, then when the last line of a justified paragraph consists of a single word, this word is stretched by inserting spaces between characters so that it occupies the full length of the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste zvolili zarovnání posledního řádku a vyberte &lt;f0&gt;Rozbalit jedno slovo&lt;/f0&gt; Pokud se poslední řádek zarovnaného odstavce skládá z jednoho slova, toto slovo se roztáhne vložením mezer mezi znaky tak, aby zabíralo celou délku řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The alignment page is also used to control the Text to Text vertical alignment, useful when you have mixed font sizes on the same row.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stránka zarovnání se také používá k ovládání svislého zarovnání textu na text, což je užitečné, pokud máte na stejném řádku smíšené velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose the element of the fonts on the line that will be aligned between Automatic, Base line, Top, Middle, Bottom.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte prvek písem na řádku, který bude zarovnán mezi Automatický, Základní řádek, Horní, Střední, Dolní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to Figure &lt;t0&gt;5&lt;/t0&gt;&lt;s1/&gt;for a visual representation of these reference points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz obrázek &lt;t0&gt;5 &lt;/t0&gt;&lt;s1/&gt; pro vizuální znázornění těchto referenčních bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Text to text vertical alignment: Base line, Top, Middle, Bottom</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;5&lt;/seq0&gt; : Svislé zarovnání textu na text: Základní čára, Horní, Střední, Dolní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text flow&lt;ie0/&gt; options for paragraph styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tok textu &lt;ie0/&gt; možnosti pro odstavcové styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Text Flow&lt;/f0&gt; tab (Figure &lt;t1&gt;6&lt;/t1&gt;), has three parts: Hyphenation, Breaks, and Options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Tok textu&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;6&lt;/t1&gt; ), má tři části: Dělení slov, Přestávky a Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With &lt;f0&gt;Automatically&lt;/f0&gt; selected under &lt;f1&gt;Hyphenation&lt;/f1&gt;, three parameters are available:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>S &lt;f0&gt;Automaticky&lt;/f0&gt; vybráno pod &lt;f1&gt;Dělení slov&lt;/f1&gt; , jsou k dispozici tři parametry:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Characters at line end&lt;/f0&gt;: controls the minimum number of characters to be left on a line before inserting a hyphen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Znaky na konci řádku&lt;/f0&gt; : řídí minimální počet znaků, které mají být ponechány na řádku před vložením pomlčky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Characters at line begin&lt;/f0&gt;: controls the minimum number of characters that can be placed at the beginning of a new line following a hyphen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Znaky na řádku začínají&lt;/f0&gt; : řídí minimální počet znaků, které lze umístit na začátek nového řádku za pomlčkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Maximum number of consecutive hyphens&lt;/f0&gt;: controls the number of consecutive lines that terminate with a hyphen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Maximální počet po sobě následujících pomlček&lt;/f0&gt; : řídí počet po sobě jdoucích řádků, které končí pomlčkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The typographical standard is 2.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typografický standard je 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: The options on the Text Flow tab of the Paragraph Style dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;6&lt;/seq0&gt; : Možnosti na kartě Tok textu v dialogovém okně Styl odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Breaks&lt;/f0&gt; section, you can require a paragraph to start on a new page or column, as well as specify the position of the break, the style of the new page, and the new page number.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Přestávky&lt;/f0&gt; části, můžete požadovat, aby odstavec začínal na nové stránce nebo sloupci, a také určit polohu zalomení, styl nové stránky a nové číslo stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A typical use for this option is to ensure that the first page of a new chapter always starts on a new (usually right-hand) page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typickým použitím této možnosti je zajistit, aby první stránka nové kapitoly vždy začínala na nové (obvykle pravé) stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To always start a new page with a particular style (useful for starting chapters on a new page), choose the following settings:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vždy zahájit novou stránku s určitým stylem (užitečné pro zahájení kapitol na nové stránce), zvolte následující nastavení:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Breaks&lt;/f0&gt; section, select &lt;f1&gt;Insert&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Přestávky&lt;/f0&gt; sekci, vyberte &lt;f1&gt;Vložit&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that &lt;f2&gt;Type&lt;/f2&gt; is set to &lt;f3&gt;Page&lt;/f3&gt; and &lt;f4&gt;Position&lt;/f4&gt; is set to &lt;f5&gt;Before&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistit se, že &lt;f2&gt;Typ&lt;/f2&gt; je nastaven na &lt;f3&gt;Strana&lt;/f3&gt; a &lt;f4&gt;Pozice&lt;/f4&gt; je nastaven na &lt;f5&gt;Před&lt;/f5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;With Page Style&lt;/f0&gt; and choose the page style from the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Se stylem stránky&lt;/f0&gt; a vyberte styl stránky ze seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To continue page numbering from the previous chapter, leave &lt;f0&gt;Page number&lt;/f0&gt; set at 0.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li pokračovat v číslování stránek z předchozí kapitoly, odejděte &lt;f0&gt;Číslo stránky&lt;/f0&gt; nastavena na 0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To restart each chapter’s page numbering at 1, set Page number to 1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li restartovat číslování stránek každé kapitoly na 1, nastavte číslo stránky na 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want the first page of a new chapter to always start on a right page, make sure that the page style for the first chapter page is set for the right page only by making this selection in the Layout settings field on the &lt;f0&gt;Page&lt;/f0&gt; tab of the Page Style dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete, aby první stránka nové kapitoly vždy začínala na správné stránce, ujistěte se, že je styl stránky pro první stránku kapitoly nastaven na správnou stránku pouze provedením této volby v poli Nastavení rozložení na &lt;f0&gt;Strana&lt;/f0&gt; záložka dialogového okna Styl stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Options&lt;/f0&gt; section of the &lt;f1&gt;Text Flow&lt;/f1&gt; tab provides settings to control what happens when a paragraph does not fit on the bottom of a page:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Možnosti&lt;/f0&gt; část &lt;f1&gt;Tok textu&lt;/f1&gt; Záložka poskytuje nastavení pro řízení toho, co se stane, když se odstavec nevejde do spodní části stránky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Do not split paragraph&lt;/f0&gt;: If a paragraph does not fit on the bottom of one page, the entire paragraph moves to the top of the next page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nerozdělujte odstavec&lt;/f0&gt; : Pokud se odstavec nevejde na spodní část jedné stránky, přesune se celý odstavec na začátek další stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This could cause a large blank space at the bottom on the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To by mohlo způsobit velké prázdné místo v dolní části stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Keep with next paragraph&lt;/f0&gt;: Use for headings or the lead-in sentence to a list, to ensure that it is not the last paragraph on a page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pokračujte dalším odstavcem&lt;/f0&gt; : Použijte pro nadpisy nebo úvodní větu do seznamu, abyste se ujistili, že nejde o poslední odstavec na stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Orphan control&lt;/f0&gt; and &lt;f1&gt;Widow control&lt;/f1&gt;: Widows and orphans are typographic terms.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ovládání sirotka&lt;/f0&gt; a &lt;f1&gt;Ovládání vdovy&lt;/f1&gt; : Vdovy a sirotci jsou typografické výrazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An orphan is the first line of a paragraph alone at the bottom of a page or column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sirotek je první řádek odstavce samostatně ve spodní části stránky nebo sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A widow is the last line of a paragraph that appears alone at the top of the next page or column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vdova je poslední řádek odstavce, který se zobrazí samostatně v horní části další stránky nebo sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use these options to allow paragraphs to split across pages or columns but require at least two or more lines to remain together at the bottom or top of a page or column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí těchto možností můžete odstavcům umožnit rozdělit se na stránky nebo sloupce, ale vyžadují, aby alespoň dva nebo více řádků zůstaly pohromadě v dolní nebo horní části stránky nebo sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can specify how many lines must remain together.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete určit, kolik řádků musí zůstat pohromadě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font options&lt;ie0/&gt; for the paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti písma &lt;ie0/&gt; pro styl odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Three tabs of the Paragraph Style dialog are dedicated to settings controlling the appearance of the typeface: the &lt;f0&gt;Font&lt;/f0&gt;, &lt;f1&gt;Font Effects&lt;/f1&gt;, and &lt;f2&gt;Position&lt;/f2&gt; pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení ovládající vzhled písma jsou vyhrazena tři karty dialogového okna Styl odstavce: &lt;f0&gt;Písmo&lt;/f0&gt; , &lt;f1&gt;Efekty písma&lt;/f1&gt; , a &lt;f2&gt;Pozice&lt;/f2&gt; stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The use of the first two tabs is straightforward.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití prvních dvou karet je jednoduché.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many of the options used when creating a character style are discussed in “&lt;bf3&gt;Creating a new character style&lt;/bf3&gt;” on page &lt;bf4&gt;19&lt;/bf4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mnoho možností použitých při vytváření stylu znaků je popsáno v části „ &lt;bf3&gt;Vytvoření nového stylu znaků&lt;/bf3&gt; “ na stránce &lt;bf4&gt;19&lt;/bf4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options that can be used when creating a paragraph style are described here.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde jsou popsány možnosti, které lze použít při vytváření odstavcového stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>font size, relative</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>relativní velikost písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specifying a &lt;is0/&gt;&lt;is1/&gt;&lt;i2/&gt;relative font size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Upřesnění a &lt;is0/&gt;&lt;is1/&gt;&lt;i2/&gt; relativní velikost písma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are creating a style based on another style (linked style), you can specify a font size relative to that other style either as a percentage or as a plus or minus point value (–2pt or +5pt).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vytváříte styl založený na jiném stylu (propojený styl), můžete určit velikost písma vzhledem k tomuto jinému stylu buď v procentech nebo jako plusová nebo minusová hodnota bodu (–2pt nebo + 5pt).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Relative font sizes are commonly used for Web pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro webové stránky se běžně používají relativní velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the paragraph style Heading 1 is based on the paragraph style Heading.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například nadpis odstavcového stylu je založen na nadpisu odstavcového stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The font size of the paragraph style Heading is 14pt, and the font size of paragraph style Heading 1 is specified as 130%.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velikost písma nadpisu odstavcového stylu je 14pt a velikost písma nadpisu odstavcového stylu je určena jako 130%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, the resultant font size of text in a paragraph formatted with the Heading 1 paragraph style is 14pt times 130% = 18.2pt.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výsledná velikost písma textu v odstavci formátovaném stylem odstavce Nadpis 1 je tedy 14 bodů krát 130% = 18,2 bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To specify a percentage font size: in the Paragraph Style dialog, select the &lt;f0&gt;Font&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li určit procentuální velikost písma: v dialogovém okně Styl odstavce vyberte ikonu &lt;f0&gt;Písmo&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Size box, enter the percentage amount followed by the symbol % (see Figure &lt;t1&gt;7&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do pole Velikost zadejte procentní částku následovanou symbolem% (viz obrázek &lt;t1&gt;7&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly, you can enter a plus or minus sign followed by the number of points to be added or subtracted from the base font size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podobně můžete zadat znaménko plus nebo minus následované počtem bodů, které se mají přidat nebo odečíst od základní velikosti písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change from a relative font size back to an absolute font size, enter the desired font size in a specific measurement, such as points (denoted by the letters &lt;f0&gt;pt&lt;/f0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit relativní velikost písma zpět na absolutní velikost písma, zadejte požadovanou velikost písma v konkrétním měření, například v bodech (označených písmeny &lt;f0&gt;pt&lt;/f0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is also possible to use a percentage font size for character styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U znakových stylů je také možné použít procentní velikost písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Selecting a type size based on a percentage</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;7&lt;/seq0&gt; : Výběr velikosti typu na základě procenta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The language selected for a document (on &lt;f0&gt;Tools &gt; Options &gt; Language Settings &gt; Languages&lt;/f0&gt;) determines the dictionary used for spell checking, thesaurus, hyphenation, the decimal and thousands delimiter used, and the default currency format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jazyk vybraný pro dokument (dne &lt;f0&gt;Nástroje &gt; Možnosti &gt; Nastavení jazyka &gt; Jazyky&lt;/f0&gt; ) určuje slovník používaný pro kontrolu pravopisu, tezaurus, dělení slov, použitý oddělovač desetinných míst a tisíců a výchozí formát měny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can only use a language whose dictionary is installed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete použít pouze jazyk, jehož slovník je nainstalován.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Within the document, you can apply a separate language to any paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V dokumentu můžete použít samostatný jazyk na jakýkoli styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This setting has priority over the language of the whole document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto nastavení má přednost před jazykem celého dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Font&lt;/f0&gt; page of the Paragraph Style dialog, languages with installed dictionaries are marked in the Language list by a small icon (Figure &lt;t1&gt;8&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Písmo&lt;/f0&gt; Na stránce dialogu Styl odstavce jsou jazyky s nainstalovanými slovníky v seznamu jazyků označeny malou ikonou (obrázek &lt;t1&gt;8&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checking spelling, Writer will use the correct dictionary for paragraphs with this style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při kontrole pravopisu použije Writer správný slovník pro odstavce s tímto stylem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you write documents in multiple languages, you can use the linked styles to create two paragraph styles that differ only in the language option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud píšete dokumenty ve více jazycích, můžete pomocí propojených stylů vytvořit dva odstavcové styly, které se liší pouze v možnosti jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you then want to change some of the other properties of the paragraph style, all you need do is to change the parent style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud pak chcete změnit některé z dalších vlastností odstavcového stylu, stačí změnit nadřazený styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert occasional words in a different language and avoid their being picked by mistake with the spelling checker, it is more convenient to use a character style, as discussed in “&lt;bf0&gt;Creating a new character style&lt;/bf0&gt;” on page &lt;bf1&gt;19&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit příležitostná slova v jiném jazyce a vyhnout se jejich omylu při kontrole pravopisu, je vhodnější použít znakový styl, jak je popsáno v „ &lt;bf0&gt;Vytvoření nového stylu znaků&lt;/bf0&gt; “ na stránce &lt;bf1&gt;19&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The selection [None] after &lt;f0&gt;Language&lt;/f0&gt; is useful when a paragraph includes text you don’t want checked, like URLs and programming code.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr [Žádný] po &lt;f0&gt;Jazyk&lt;/f0&gt; je užitečné, když odstavec obsahuje text, který nechcete zaškrtnout, například adresy URL a programovací kód.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Selecting a language for a paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;8&lt;/seq0&gt; : Výběr jazyka pro styl odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poziční stránka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>paragraph styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>styly odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options for &lt;i0/&gt;positioning text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti pro &lt;i0/&gt; umístění textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Position&lt;/f0&gt; tab of the Paragraph Style dialog collects all the options that affect the position of the text on the screen or printed page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Pozice&lt;/f0&gt; karta dialogového okna Styl odstavce shromažďuje všechny možnosti, které ovlivňují umístění textu na obrazovce nebo vytištěné stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: The Position tab of the Paragraph Style dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;9&lt;/seq0&gt; : Záložka Poloha v dialogu Styl odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Position&lt;/f0&gt; section to control the appearance of superscripts and subscripts (characters above or below the normal line of type, as in H2O).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Pozice&lt;/f0&gt; sekce k ovládání vzhledu horních a dolních indexů (znaky nad nebo pod běžným řádkem typu, jako v H2O).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you will normally apply superscript and subscripts to groups of characters rather than to entire paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Normální horní a dolní index však obvykle použijete spíše na skupiny znaků než na celé odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Therefore, it is strongly recommended to change these parameters only when defining a character style and, instead, leave the default settings for the paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proto se důrazně doporučuje měnit tyto parametry pouze při definování znakového stylu a místo toho ponechat výchozí nastavení pro odstavcové styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The second section of the &lt;f0&gt;Position&lt;/f0&gt; tab controls the rotation of the paragraph area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Druhá část &lt;f0&gt;Pozice&lt;/f0&gt; karta řídí otáčení oblasti odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Two common uses for rotated paragraphs are to put portrait headers and footers on a landscape page and to fit headings above narrow table columns (as shown in Figure &lt;t1&gt;10&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvěma běžnými způsoby použití otočených odstavců je umístit záhlaví a zápatí portrétu na stránku na šířku a umístit nadpisy nad úzké sloupce tabulky (jak je znázorněno na obrázku) &lt;t1&gt;10&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rotated table headings are usually more readable if they are angled, not vertical.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otočené záhlaví tabulky jsou obvykle čitelnější, jsou-li šikmé, nikoli svislé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To produce angled text, you need to create a text object from the Drawing toolbar and rotate it to any angle you wish.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit šikmý text, musíte vytvořit textový objekt z panelu nástrojů Kreslení a otočit jej do libovolného úhlu, který si přejete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 11, Images and Graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz Kapitola 11, Obrázky a grafika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: A table with rotated headings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;10&lt;/seq0&gt; : Stůl s otočenými záhlavími</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Scale width box controls the percentage of the font width by which to compress or stretch the rotated text horizontally; that is, from the first character to the last.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole Šířka měřítka určuje procento šířky písma, o které se má vodorovně komprimovat nebo natáhnout otočený text; tj. od prvního znaku po poslední.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 6, Formatting Pages: Advanced, describes how to create portrait headers and footers on landscape pages by rotating characters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 6, Formátování stránek: Pokročilé, popisuje, jak vytvářet záhlaví a zápatí portrétu na stránkách na šířku otáčením znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can achieve the same effect by defining a separate header or footer paragraph style specifically for landscape pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejného efektu můžete dosáhnout definováním samostatného stylu odstavce záhlaví nebo zápatí speciálně pro stránky na šířku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rotating text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otáčení textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;i0/&gt;Rotating the text in a paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad: &lt;i0/&gt; Otočení textu ve stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As an example, we will apply rotated table headings to a pre-existing table.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jako příklad použijeme otočené záhlaví tabulky na již existující tabulku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nový styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name it &lt;f0&gt;Table Heading Rotated&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pojmenuj to &lt;f0&gt;Nadpis tabulky otočený&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Position&lt;/f0&gt; tab of the Paragraph Style dialog, in the &lt;f1&gt;Rotation / scaling&lt;/f1&gt; section, select 90 degrees.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Pozice&lt;/f0&gt; na kartě dialogového okna Styl odstavce na kartě &lt;f1&gt;Rotace / změna měřítka&lt;/f1&gt; části vyberte 90 stupňů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f2&gt;OK&lt;/f2&gt; to save the new style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f2&gt;OK&lt;/f2&gt; uložit nový styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the heading row of the table and apply the new style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte řádek záhlaví tabulky a použijte nový styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any text in the cells of the heading row is now rotated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Libovolný text v buňkách řádku záhlaví je nyní otočen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the headings are aligned to the top of the cells, you may want to change the alignment to the bottom of the cells, as shown in Figure &lt;t0&gt;10&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou záhlaví zarovnána k horní části buněk, možná budete chtít změnit zarovnání ke spodní části buněk, jak je znázorněno na obrázku &lt;t0&gt;10&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, click the &lt;f1&gt;Bottom&lt;/f1&gt; icon on the Table toolbar or select &lt;f2&gt;Format &gt; Alignment &gt; Bottom&lt;/f2&gt; from the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li to provést, klikněte na ikonu &lt;f1&gt;Dno&lt;/f1&gt; ikonu na panelu nástrojů Tabulka nebo vyberte &lt;f2&gt;Formát &gt; Zarovnání &gt; Dolní&lt;/f2&gt; z panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Spacing&lt;/f0&gt; section of the &lt;f1&gt;Position&lt;/f1&gt; tab to control the spacing between individual characters in the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Vzdálenost&lt;/f0&gt; část &lt;f1&gt;Pozice&lt;/f1&gt; karta pro ovládání mezer mezi jednotlivými znaky v odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When selecting an option other than default in the drop-down menu, use the edit box to enter the value in points by which you want to expand or condense the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při výběru jiné než výchozí možnosti v rozevírací nabídce použijte editační pole k zadání hodnoty v bodech, o které chcete text rozšířit nebo zkondenzovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Pair kerning&lt;/f0&gt; option (selected by default) increases or decreases the amount of space between certain pairs of letters to improve the overall appearance of the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Vyrovnání párů&lt;/f0&gt; Možnost (ve výchozím nastavení vybrána) zvětší nebo zmenší mezeru mezi určitými dvojicemi písmen, aby se zlepšil celkový vzhled textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kerning automatically adjusts the character spacing for specific letter combinations.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyrovnání párů automaticky upravuje mezery mezi znaky pro konkrétní kombinace písmen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kerning is only available for certain font types and, for printed documents, only works if your printer supports it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyrovnání párů je k dispozici pouze pro určité typy písem a u tištěných dokumentů funguje pouze tehdy, pokud to vaše tiskárna podporuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Kerning disabled (left) and enabled (right)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;11&lt;/seq0&gt; : Vyrovnání párů deaktivováno (vlevo) a povoleno (vpravo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Controlling &lt;is0/&gt;&lt;is1/&gt;tab stops</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ovládání &lt;is0/&gt;&lt;is1/&gt; zarážky tabulátoru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although borderless tables are generally considered a much better solution to space out material across a page, in some situations tabs are sufficient to do what you need, with the added advantages of being simpler to manage and quicker to apply.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>I když jsou tabulky bez okrajů obecně považovány za mnohem lepší řešení pro rozmístění materiálu napříč stránkou, v některých situacích jsou karty dostatečné k tomu, co potřebujete, s dalšími výhodami spočívajícími v jednodušší správě a rychlejší aplikaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to use tabs, and you will be sending a document to other people, do not use the default tab stops.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud potřebujete použít karty a budete odesílat dokument jiným lidem, nepoužívejte výchozí zarážky karet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the recipients of the document have defined default tab stops that are not the same as the ones you are using, the paragraph may look very different on their machines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud mají příjemci dokumentu definované výchozí zarážky tabulátoru, které nejsou stejné jako ty, které používáte, odstavec může na jejich počítačích vypadat velmi odlišně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead, define the tab stops explicitly in the paragraph or the paragraph style; then you can be sure that everyone will see the same layout.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Místo toho definujte zarážky tabulátoru explicitně v odstavci nebo stylu odstavce; pak si můžete být jisti, že každý uvidí stejné rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To define tab stops in your paragraph style, use the &lt;f0&gt;Tabs&lt;/f0&gt; page, shown in Figure &lt;t1&gt;12&lt;/t1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li definovat zarážky tabulátoru ve stylu odstavce, použijte &lt;f0&gt;Záložky&lt;/f0&gt; stránka zobrazená na obrázku &lt;t1&gt;12&lt;/t1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you can choose the type of tab: Left, Right, Centered, or Decimal; the character to be used as a decimal point; and the Fill Character—the characters that appear between the end of the text before the tab and the beginning of the text after the tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde můžete vybrat typ karty: Levá, Pravá, Na střed nebo Desetinná; znak, který má být použit jako desetinná čárka; a Vyplnit znak - znaky, které se objevují mezi koncem textu před záložkou a začátkem textu za záložkou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also create a custom fill character by entering it in the corresponding box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také vytvořit vlastní znak výplně zadáním do příslušného pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Common use of a fill character is adding dots between a heading and a page number in a table of contents or underscore character when creating a form to fill in.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Běžným používáním znaku výplně je přidávání teček mezi nadpis a číslo stránky do obsahu nebo podtržítko při vytváření formuláře k vyplnění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Specifying tab stops for a paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;12&lt;/seq0&gt; : Určení zarážek tabulátoru pro styl odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a new tab stop, specify its position relative to the left margin, the type of tab, and the fill character and click the New button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit novou zarážku tabulátoru, určete její polohu vzhledem k levému okraji, typ tabulátoru a znak výplně a klikněte na tlačítko Nový.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new tab stop is then listed in the Position box on the left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nová zarážka tabulátoru je poté uvedena v poli Poloha nalevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unfortunately, the only way to modify the position of a tab stop is to create a new one in the desired position and delete the old one using the buttons on the right-hand side of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jediným způsobem, jak změnit polohu zarážky tabulátoru, je bohužel vytvořit nový na požadované pozici a odstranit starý pomocí tlačítek na pravé straně stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is not possible to define tabs that exceed the page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Není možné definovat karty, které přesahují okraj stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the rare cases where that may be needed, use a borderless table instead.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výjimečných případech, kdy to může být zapotřebí, použijte místo toho tabulku bez okrajů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Outline &amp; Numbering&lt;ie0/&gt; tab</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přehled a číslování &lt;ie0/&gt; záložka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Outline &amp; Numbering&lt;/f0&gt; tab to assign an outline level to any paragraph style, as described in “Assigning outline levels to other styles” in Chapter 8, Introduction to Styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Přehled a číslování&lt;/f0&gt; Záložka přiřazení úrovně obrysu libovolnému stylu odstavce, jak je popsáno v části „Přiřazení úrovní obrysu jiným stylům“ v kapitole 8, Úvod do stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This feature enables you to create a table of contents that includes those paragraphs along with the headings using styles listed in &lt;f1&gt;Tools &gt; Chapter Numbering&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato funkce umožňuje vytvořit obsah obsahující tyto odstavce spolu s nadpisy pomocí stylů uvedených v seznamu &lt;f1&gt;Nástroje &gt; Číslování kapitol&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use this tab to associate a paragraph style with a list style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na této kartě můžete také přidružit styl odstavce ke stylu seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to Chapter 12, Lists: Tips and Tricks, for additional information, as well as an example.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace a příklad naleznete v kapitole 12, Seznamy: Tipy a triky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting up a &lt;is0/&gt;drop cap</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení a &lt;is0/&gt; víčko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want your paragraph to use drop caps (usually this is suitable for a first paragraph style), then you can predefine the properties in the &lt;f0&gt;Drop Caps&lt;/f0&gt; tab of the Paragraph Style dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete, aby váš odstavec používal kapátka (obvykle je to vhodné pro styl prvního odstavce), můžete předdefinovat vlastnosti v &lt;f0&gt;Drop Caps&lt;/f0&gt; záložka dialogového okna Styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f1&gt;Display drop caps&lt;/f1&gt; option to enable the other choices: the number of lines occupied, the number of characters to enlarge (if you want the whole first word, check the corresponding box), and the space between the drop caps and the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f1&gt;Zobrazit kapátka&lt;/f1&gt; možnost povolit další možnosti: počet obsazených řádků, počet znaků pro zvětšení (pokud chcete celé první slovo, zaškrtněte odpovídající políčko) a mezera mezi přetržením a textem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Options for adding a drop cap to the paragraph style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;13&lt;/seq0&gt; : Možnosti přidání kapátka do stylu odstavce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drop caps use the same font and have the same properties as the rest of the paragraph; however, you can easily modify their appearance by creating a specific character style and using it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložená písmena používají stejné písmo a mají stejné vlastnosti jako zbytek odstavce; jejich vzhled však můžete snadno upravit vytvořením konkrétního znakového stylu a jeho použitím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you may want the drop caps to be of a different color or apply an outline effect.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete například chtít, aby kapátka měla jinou barvu nebo mohla použít efekt obrysu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the character style you want to use in the corresponding drop-down menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V odpovídající rozbalovací nabídce vyberte styl znaků, který chcete použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding a background color or graphic to a paragraph is a good way to make it stand out without having to insert a frame.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidání barvy pozadí nebo grafiky do odstavce je dobrý způsob, jak vyniknout, aniž byste museli vložit rámeček.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can customize the background using the &lt;f0&gt;Area&lt;/f0&gt; tab of the Paragraph Style dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozadí můžete upravit pomocí &lt;f0&gt;Plocha&lt;/f0&gt; záložka dialogového okna Styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The choices are described in “Defining borders and backgrounds” in Chapter 6, Formatting Pages: Advanced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti jsou popsány v části „Definování hranic a pozadí“ v kapitole 6, Formátování stránek: Pokročilé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Types of fill for paragraph backgrounds</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;14&lt;/seq0&gt; : Typy výplně pro pozadí odstavců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may want to pay attention to the following points when working with the &lt;f0&gt;Area&lt;/f0&gt; tab:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možná budete chtít při práci s. Věnovat pozornost následujícím bodům &lt;f0&gt;Plocha&lt;/f0&gt; záložka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not find the desired color in the list of predefined ones, you can define your own as described in Chapter 21, Customizing Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud v seznamu předdefinovaných nenajdete požadovanou barvu, můžete definovat svoji vlastní, jak je popsáno v kapitole 21, Přizpůsobení zapisovače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use a bitmap, hatching, pattern, or gradient instead of a solid color as background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Místo plné barvy můžete jako pozadí použít bitmapu, šrafování, vzor nebo přechod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Different backgrounds can be selected for the paragraph area and for the text in the paragraph.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro oblast odstavce a pro text v odstavci lze vybrat různá pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Highlighting&lt;/f0&gt; page for the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Zvýraznění&lt;/f0&gt; stránka pro text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;t1&gt;15&lt;/t1&gt;&lt;s2/&gt;shows the difference.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;t1&gt;15 &lt;/t1&gt;&lt;s2/&gt; ukazuje rozdíl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The area treatment is only applied to the paragraph area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úprava oblasti se použije pouze na oblast odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have defined an indented paragraph, the space between the paragraph and the margin does not have the paragraph’s background color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste definovali odsazený odstavec, mezera mezi odstavcem a okrajem nemá barvu pozadí odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Different Area and Highlighting colors</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;15&lt;/seq0&gt; : Různé barvy a barvy zvýraznění</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the &lt;f0&gt;Transparency&lt;/f0&gt; tab, you can choose the transparency options for the selected background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na &lt;f0&gt;Průhlednost&lt;/f0&gt; Na kartě můžete vybrat možnosti průhlednosti pro vybrané pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Values range from 0% (fully opaque) to +100% (fully transparent).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hodnoty se pohybují od 0% (zcela neprůhledné) do + 100% (zcela průhledné).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Borders are often used to set off paragraphs from the text without using a frame, or to separate header and footer areas from the main text area (such as in this guide), and to provide decorative elements in some heading styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Okraje se často používají k odsazení odstavců z textu bez použití rámečku nebo k oddělení oblastí záhlaví a zápatí od hlavní textové oblasti (například v této příručce) ak zajištění dekorativních prvků v některých stylech záhlaví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consider the following points:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvažte následující body:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Watch out for the effects that the spacing between borders and paragraph area produces on indentations and tabulations.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dávejte pozor na efekty, které vytváří mezera mezi okraji a oblastí odstavce na odsazeních a tabulkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want the border to be drawn around multiple paragraphs, leave the &lt;f0&gt;Merge with next paragraph&lt;/f0&gt; option at the bottom of the page selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete, aby ohraničení bylo nakresleno kolem více odstavců, ponechte &lt;f0&gt;Sloučit s dalším odstavcem&lt;/f0&gt; ve spodní části vybrané stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Often, white space can have the same effect.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Prázdný prostor může mít často stejný účinek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 4, Formatting Text, for more about the &lt;f0&gt;Borders&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kapitole 4, Formátování textu, najdete další informace o &lt;f0&gt;Hranice&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Making a paragraph style conditional means it changes its formatting depending on where it is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podmíněný styl odstavce znamená, že změní jeho formátování v závislosti na tom, kde je použit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you may want the style MyTextBody to be black by default but turn white when inside a frame with a blue background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například můžete chtít, aby styl MyTextBody byl ve výchozím nastavení černý, ale v rámečku s modrým pozadím zbělel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Probably the most common use for conditional formatting is with single-style outlining.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravděpodobně nejběžnější použití pro podmíněné formátování je obrys jednoho stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Single-style outlining is a type of outline numbering designed with a Numbering List Style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Single-outlining je typ číslování obrysů navržený pomocí stylu seznamu číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Instead of using different styles for the various outline levels, it changes the number formatting when you press the &lt;f0&gt;Tab&lt;/f0&gt; key to create a subordinate heading.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Namísto použití různých stylů pro různé úrovně osnovy změní formátování čísla, když stisknete &lt;f0&gt;Tab&lt;/f0&gt; klíč k vytvoření podřízeného záhlaví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The only trouble with single-style outlining is that all levels look the same.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jediným problémem s obrysem jednoho stylu je, že všechny úrovně vypadají stejně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is where a conditional paragraph style comes in handy.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde se hodí styl podmíněného odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assign the paragraph style to an outline numbering style in the &lt;f0&gt;Outline &amp; Numbering&lt;/f0&gt; tab and then open the &lt;f1&gt;Condition&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přiřaďte styl odstavce stylu číslování obrysů v souboru &lt;f0&gt;Přehled a číslování&lt;/f0&gt; kartu a poté otevřete &lt;f1&gt;Stav&lt;/f1&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There, you can assign the levels of the outline numbering style to other paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zde můžete přiřadit úrovně stylu číslování obrysů ostatním stylům odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then, when you press the &lt;f2&gt;Tab&lt;/f2&gt; key while using the paragraph style, each level of the outline takes on different formatting, making single-style outlining even more convenient than it is on its own.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté, když stisknete &lt;f2&gt;Tab&lt;/f2&gt; Při používání odstavcového stylu každá úroveň obrysu přebírá jiné formátování, takže obrys jednoho stylu je ještě pohodlnější, než je sám o sobě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create a conditional style, you are saying “in this condition make this style look like that other style”.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když vytváříte podmíněný styl, říkáte „za tohoto stavu bude tento styl vypadat jako ten druhý styl“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, “When typing into a footer, make this style look like the my_footer paragraph style; when typing into a table, make this style look like the table_text paragraph style”.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například: „Při psaní do zápatí bude tento styl vypadat jako styl odstavce my_footer; při psaní do tabulky bude tento styl vypadat jako styl odstavce table_text “.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to setting the normal (unconditional) properties of the style, you need to define which other style it will look like in different situations.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě nastavení normálních (bezpodmínečných) vlastností stylu musíte definovat, jaký další styl bude vypadat v různých situacích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You do this on the Condition tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To provedete na kartě Podmínka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Predefined styles (other than Text body) such as Default, Heading 1, and Heading 2 cannot be set to be conditional.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Předdefinované styly (jiné než tělo textu), například Výchozí, Nadpis 1 a Nadpis 2, nelze nastavit jako podmíněné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to create a new style and make it conditional, you have to do it while the Paragraph Style dialog is still open for the first time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete vytvořit nový styl a vytvořit jej podmíněný, musíte to udělat, když je dialogové okno Styl odstavce stále otevřené poprvé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After the dialog closes, the &lt;f0&gt;Condition&lt;/f0&gt; tab no longer appears in the dialog when it is reopened.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po zavření dialogu se zobrazí &lt;f0&gt;Stav&lt;/f0&gt; Po opětovném otevření se v dialogu již nezobrazuje karta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Condition tab for paragraph styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;16&lt;/seq0&gt; : Karta Podmínka pro odstavcové styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To set up a conditional paragraph style:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení podmíněného odstavcového stylu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define a new paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Definujte nový styl odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select all the paragraph properties for the style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte všechny vlastnosti odstavce pro styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Do not click OK&lt;/f0&gt;!</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Neklikejte na OK&lt;/f0&gt; !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Condition&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu &lt;f0&gt;Stav&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Conditional Style&lt;/f0&gt; option.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f0&gt;Podmíněný styl&lt;/f0&gt; volba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the first condition in the &lt;f0&gt;Context&lt;/f0&gt; list (left side of the dialog) and select the style you want for this condition in the &lt;f1&gt;Paragraph Styles&lt;/f1&gt; list on the right-hand side.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte první podmínku v &lt;f0&gt;Kontext&lt;/f0&gt; seznamu (levá strana dialogu) a vyberte požadovaný styl pro tuto podmínku v seznamu &lt;f1&gt;Styly odstavců&lt;/f1&gt; seznam na pravé straně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Apply&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na &lt;f0&gt;Aplikovat&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The name of the paragraph style appears in the middle list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název odstavcového stylu se objeví ve středním seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeat steps 5 and 6 for each condition you want to have linked to a different style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opakujte kroky 5 a 6 pro každou podmínku, kterou chcete propojit s jiným stylem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the style is selected, you will see that the formatting of your text depends on the context.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je vybrán styl, uvidíte, že formátování textu závisí na kontextu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character styles provide exceptions to the formatting in a paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly znaků poskytují výjimky z formátování v odstavcovém stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are applied to groups of characters, rather than whole paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používají se spíše na celé skupiny znaků než na celé odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are mainly used when you want to change the appearance or attributes of parts of a paragraph without affecting other parts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používají se hlavně tehdy, když chcete změnit vzhled nebo atributy částí odstavce bez ovlivnění ostatních částí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Examples of effects that can be obtained by means of character styles are &lt;f0&gt;bold&lt;/f0&gt; or &lt;f1&gt;italic&lt;/f1&gt; typeface or colored words.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklady efektů, které lze získat pomocí znakových stylů, jsou &lt;f0&gt;tučně&lt;/f0&gt; nebo &lt;f1&gt;kurzíva&lt;/f1&gt; písma nebo barevná slova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other ways of using character styles are described elsewhere in this book.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další způsoby použití znakových stylů jsou popsány jinde v této knize.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These uses include making chapter numbers, page numbers, or list numbers larger than the surrounding text and formatting hyperlinks.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezi tato použití patří vytváření čísel kapitol, čísel stránek nebo čísel seznamů větších než okolní text a formátování hypertextových odkazů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When inserting words in different language or words you do not want the spelling checker to detect as mistakes, you can define the language (if any) to be applied in the character style’s properties.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vkládání slov v jiném jazyce nebo slovech, která nechcete, aby kontrola pravopisu detekovala jako chyby, můžete definovat jazyk (pokud existuje), který se má použít ve vlastnostech znakového stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section illustrates the use of the Character Styles dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato část ilustruje použití dialogu Styly znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The pages used to configure the style are described in the previous section on paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stránky použité ke konfiguraci stylu jsou popsány v předchozí části o odstavcových stylech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Organizer&lt;/f0&gt; tab to set up the hierarchical level of the new character style (if needed) and to give it a name.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Organizátor&lt;/f0&gt; karta pro nastavení hierarchické úrovně nového stylu znaků (v případě potřeby) a pro pojmenování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Font&lt;/f0&gt; tab to determine the font, style, and size for the new character style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Písmo&lt;/f0&gt; karta k určení písma, stylu a velikosti nového stylu znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with paragraph styles, you can specify the font size as a percentage or as an absolute value.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako u odstavcových stylů můžete určit velikost písma v procentech nebo jako absolutní hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also specify the language of the text to which a certain character style is applied, so you can insert words in a different language and have them spell checked using the correct dictionary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také určit jazyk textu, na který se použije určitý styl znaků, takže můžete vkládat slova v jiném jazyce a nechat je zkontrolovat pravopis pomocí správného slovníku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Font Effects&lt;/f0&gt; tab to set up attributes such as font color, underlining, relief, or other effects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Efekty písma&lt;/f0&gt; karta slouží k nastavení atributů, jako je barva písma, podtržení, reliéf nebo jiné efekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you frequently use hidden text, for example, it is convenient to define a character style where the &lt;f1&gt;Hidden&lt;/f1&gt; option is marked.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud například často používáte skrytý text, je vhodné definovat styl znaků, kde &lt;f1&gt;Skrytý&lt;/f1&gt; možnost je označena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Relief effects may be appropriate for a drop cap or to give more emphasis to the chapter number or other parts of the title.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Efekty reliéfu mohou být vhodné pro kapátko nebo pro větší důraz na číslo kapitoly nebo jiné části titulu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Highlighting&lt;/f0&gt; tab to apply a colored background to the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Zvýraznění&lt;/f0&gt; karta pro použití barevného pozadí na text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This yields the same effect as using the &lt;f1&gt;Highlighting&lt;/f1&gt; tool on the Standard toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To přináší stejný účinek jako při použití &lt;f1&gt;Zvýraznění&lt;/f1&gt; nástroj na panelu nástrojů Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Borders&lt;/f0&gt; tab to apply a border and a shadow to the text, if so desired.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Hranice&lt;/f0&gt; Pokud chcete, můžete na text použít ohraničení a stín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Position&lt;/f0&gt; tab to create a subscript in case you are not satisfied with the default one or even a sub-subscript which may be useful for certain scientific publications.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Pozice&lt;/f0&gt; záložka pro vytvoření dolního indexu v případě, že nejste spokojeni s výchozím nebo dokonce s dolním dolním indexem, který může být užitečný pro určité vědecké publikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the same page, you can create rotated, condensed, or expanded text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na stejné stránce můžete vytvořit otočený, zhuštěný nebo rozšířený text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When rotating a group of characters, you also need to specify whether the rotated text should fit in the line or if, instead, it is allowed to expand above and below the line.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při otáčení skupiny znaků musíte také určit, zda by se otočený text měl vejít na řádek, nebo zda je místo toho povoleno rozbalení nad a pod řádkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This property only becomes active for character styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato vlastnost se stane aktivní pouze pro styly znaků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frames are often used as containers for text or graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rámečky se často používají jako kontejnery pro text nebo grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To provide consistency in the appearance of frames used for similar purposes, it is a good idea to define styles for frames.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro zajištění konzistence vzhledu rámů používaných pro podobné účely je vhodné definovat styly pro rámce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you might want photographs to be enclosed in a frame with a drop-shadowed border, line drawings in a frame with a plain border, marginal notes in a frame without a border but with a shaded background, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete například chtít, aby byly fotografie uzavřeny v rámečku s rámečkem se stínem, čárové kresby v rámečku s jednoduchým rámečkem, okrajové poznámky v rámečku bez rámečku, ale se stínovaným pozadím atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writer provides several predefined frame styles, which you can modify as needed, and you can define new frame styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Writer poskytuje několik předdefinovaných stylů rámců, které můžete podle potřeby upravit a můžete definovat nové styly rámců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The technique for defining and applying frame styles is similar to that for other styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Technika pro definování a použití stylů rámce je podobná jako u jiných stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is considerable overlap between the uses of frames and sections for some page layout purposes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití rámů a sekcí pro některé účely rozvržení stránky se značně překrývá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may find it useful to take a look at Chapter 6, Formatting Pages: Advanced, for information about the use of frames and sections.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Může se vám hodit podívat se do kapitoly 6, Formátování stránek: Pokročilé, kde najdete informace o použití rámů a sekcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When an object is added to Writer, it is automatically enclosed in a frame of a predetermined type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je objekt přidán do Writeru, je automaticky uzavřen v rámci předem určeného typu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The frame sets how the object is placed on the page, as well as how it interacts with other elements in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rámec nastavuje, jak je objekt umístěn na stránku, a také to, jak interaguje s ostatními prvky v dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can edit the frame by modifying the frame style it uses or by using a manual override when a frame is added to the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rámeček můžete upravit úpravou stylu rámečku, který používá, nebo použitím ručního přepsání, když je rámeček přidán do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Because frames and objects are used together, it is sometimes easy to forget they are separate elements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Protože rámy a objekty jsou používány společně, je někdy snadné zapomenout, že jde o samostatné prvky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some cases, such as charts, you can edit the frame and object separately.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V některých případech, například v grafech, můžete upravit rámeček a objekt samostatně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike other elements that use styles, frames can be defined only partly by their style because their use can vary so much.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rozdíl od jiných prvků, které používají styly, mohou být rámečky definovány jen částečně svým stylem, protože jejich použití se může tolik lišit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several elements of frames, such as the anchor and protected elements, need to be defined manually for individual frames.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Několik prvků rámů, například kotva a chráněné prvky, je třeba pro jednotlivé rámy definovat ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can format a frame manually when you select &lt;f0&gt;Insert &gt; Frame&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když vyberete, můžete rámeček naformátovat ručně &lt;f0&gt;Vložit &gt; Rámeček&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog that opens contains all the settings available when frame styles are set up, as well as some that are only available when the frame is inserted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se dialogové okno, které obsahuje všechna nastavení, která jsou k dispozici při nastavení stylů rámečku, a některá nastavení, která jsou k dispozici pouze po vložení rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are using a mix of graphics, you may want to define two related styles, one with a border line for graphics with white backgrounds and one without a border for all other backgrounds.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud používáte kombinaci grafiky, můžete definovat dva související styly, jeden s hraniční čárou pro grafiku s bílým pozadím a druhý bez ohraničení pro všechna ostatní pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You also may want to design one or more frames for text only.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také chtít navrhnout jeden nebo více rámečků pouze pro text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Otherwise, the default frame styles (listed in Table &lt;t0&gt;1&lt;/t0&gt;) cover most users’ needs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jinak budou výchozí styly rámců (uvedeny v tabulce &lt;t0&gt;1&lt;/t0&gt; ) pokrývá potřeby většiny uživatelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The only significant addition that you might need is one or more styles for text frames.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jediným významným doplňkem, který možná budete potřebovat, je jeden nebo více stylů pro textové rámečky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table &lt;seq0&gt;1&lt;/seq0&gt;: Various frame styles and their uses</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stůl &lt;seq0&gt;1&lt;/seq0&gt; : Různé styly rámů a jejich použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comments and Use</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Komentáře a použití</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The frame style used for formulas.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl rámečku použitý pro vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default includes &lt;f0&gt;AutoSize&lt;/f0&gt;, which adjusts the size of the frame to the formula.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení zahrnuje &lt;f0&gt;Automatická velikost&lt;/f0&gt; , který upravuje velikost rámečku podle vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default frame style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí styl rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default frame style for graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí styl rámečku pro grafiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The defaults include &lt;f0&gt;AutoSize&lt;/f0&gt; to fit the graphic, no text wrap, and a thin border around the frame.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení zahrnují &lt;f0&gt;Automatická velikost&lt;/f0&gt; aby se vešel na obrázek, bez zalomení textu a tenký okraj kolem rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These are reasonable defaults, except for the border.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedná se o rozumná výchozí nastavení, s výjimkou ohraničení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unless the background of the graphic is white and the document’s background also is white, the border usually is unnecessary.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud pozadí grafiky není bílé a pozadí dokumentu je také bílé, je ohraničení obvykle zbytečné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default frame style for use with &lt;f0&gt;File &gt; New &gt; Labels&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí styl rámečku pro použití s &lt;f0&gt;Soubor &gt; Nové &gt; Štítky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It seems to be used by LibreOffice automatically and is not intended for users at all.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zdá se, že je používán LibreOffice automaticky a není vůbec určen pro uživatele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Marginalia</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Okrajové poznámky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A frame style for placing a frame beside the left margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl rámečku pro umístění rámečku vedle levého okraje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As the name suggests, the Marginalia style is intended for comments added in the margin of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jak název napovídá, styl Marginalia je určen pro komentáře přidané na okraj textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The style also is useful for creating sideheads—headings against the left margin, which often are used in technical documentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento styl je také užitečný pro vytváření bočních hlav - hlaviček proti levému okraji, které se často používají v technické dokumentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OLE</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>OLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default frame style for OLE objects and floating frames.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí styl rámečku pro objekty OLE a plovoucí rámečky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default places the frame at the top and center of a body of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení je rámeček umístěn nahoře a uprostřed textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Watermark</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vodoznak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default frame style for a watermark, a graphic placed as the background to a body of text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí styl rámečku pro vodoznak, grafika umístěná jako pozadí textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default is a &lt;f0&gt;Through&lt;/f0&gt; wrap, with text passing over the frame and anything in it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí hodnota je a &lt;f0&gt;Přes&lt;/f0&gt; obtékání, text procházející přes rámeček a cokoli v něm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The graphic should be faint enough that text still is readable over top of it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Grafika by měla být dostatečně slabá, aby byl text stále čitelný i přes její horní část.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can access frame settings by selecting &lt;f0&gt;New&lt;/f0&gt; or &lt;f1&gt;Modify&lt;/f1&gt; in the Styles deck for a frame style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K nastavení rámce můžete přistupovat výběrem &lt;f0&gt;Nový&lt;/f0&gt; nebo &lt;f1&gt;Upravit&lt;/f1&gt; v balíčku Styly pro styl rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Type&lt;/f0&gt; tab: sets the size and position of the frame.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Typ&lt;/f0&gt; tab: nastavuje velikost a polohu rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the most useful options here is &lt;f1&gt;AutoSize&lt;/f1&gt;, which automatically adjusts the frame to the object it contains.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednou z nejužitečnějších možností je zde &lt;f1&gt;Automatická velikost&lt;/f1&gt; , který automaticky upraví rámeček na objekt, který obsahuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the frame style is used automatically, then this option should be selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se styl rámečku použije automaticky, měla by být vybrána tato možnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Options&lt;/f0&gt; tab: sets whether the contents of the frame are printed and able to be edited in a read-only document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Možnosti&lt;/f0&gt; karta: nastavuje, zda je obsah rámečku vytištěn a lze jej upravovat v dokumentu jen pro čtení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page also sets the text direction, which is useful if you are using the frame for contents in a language that uses right-to-left text direction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato stránka také nastavuje směr textu, což je užitečné, pokud používáte rámeček pro obsah v jazyce, který používá směr textu zprava doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Wrap&lt;/f0&gt; tab: sets how text is positioned in relation to the frame and how close text comes to a frame.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zabalit&lt;/f0&gt; karta: nastavuje, jak je text umístěn ve vztahu k rámečku a jak blízko se text dostane k rámečku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want the frame contents to stand out from the paragraphs around it, set the wrap to &lt;f1&gt;None&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete, aby obsah rámečku vyčníval z odstavců kolem, nastavte zalamování na &lt;f1&gt;Žádný&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This probably is the single most important page for frames.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto je pravděpodobně nejdůležitější stránka pro snímky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt; tab: sets the background color, bitmap, hatching, gradient, or pattern.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Plocha&lt;/f0&gt; karta: nastavuje barvu pozadí, bitmapu, šrafování, přechod nebo vzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page is useful mostly for text frames in complex page layouts, in which a text frame has an appearance different from the general background of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato stránka je užitečná hlavně pro textové rámečky ve složitých rozvrženích stránek, ve kterých má textový rámeček odlišný vzhled od obecného pozadí stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt; tab: sets the transparency options for the selected background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Průhlednost&lt;/f0&gt; karta: nastavuje možnosti průhlednosti pro vybrané pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Values can range from 0% (fully opaque) to +100% (fully transparent).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hodnoty se mohou pohybovat od 0% (zcela neprůhledné) do + 100% (zcela průhledné).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Borders&lt;/f0&gt; page: sets the attribute for a line around the frame, if any.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Hranice&lt;/f0&gt; stránka: nastavuje atribut pro čáru kolem rámečku, pokud existuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Columns&lt;/f0&gt; tab: this page can be ignored unless the frame is being used for text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Sloupce&lt;/f0&gt; karta: tuto stránku lze ignorovat, pokud se rámec nepoužívá pro text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The page is the same as is used to set up a page style, as described in Chapter 6, Formatting Pages: Advanced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stránka je stejná, jaká se používá k nastavení stylu stránky, jak je popsáno v kapitole 6, Formátování stránek: Pokročilé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Macro&lt;/f0&gt; tab: sets a macro to use with the frame in order to trigger an action when the user interacts with the frame.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Makro&lt;/f0&gt; karta: nastaví makro, které se má použít s rámečkem, aby spustilo akci při interakci uživatele s rámečkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These options are useful for an on-line Writer or HTML document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto možnosti jsou užitečné pro online Writer nebo HTML dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page styles control page properties (margins, page size, header and footer, among others).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly stránky řídí vlastnosti stránky (mimo jiné okraje, velikost stránky, záhlaví a zápatí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, unlike paragraphs, which can have directly applied properties, pages can not have directly applied properties.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rozdíl od odstavců, které mohou mít přímo aplikované vlastnosti, však stránky nemohou mít přímo aplikované vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section describes how to create a new page style, explains the meaning of some of the options in the Page style dialog, and illustrates their usage.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato část popisuje, jak vytvořit nový styl stránky, vysvětluje význam některých možností v dialogu Styl stránky a ilustruje jejich použití.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a new page style, open the Styles deck and click the &lt;f0&gt;Page Styles&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vytvořit nový styl stránky, otevřete balíček stylů a klikněte na ikonu &lt;f0&gt;Styly stránek&lt;/f0&gt; ikona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click anywhere in the window and select &lt;f1&gt;New&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem kdekoli v okně a vyberte &lt;f1&gt;Nový&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Page Style dialog contains nine tabs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog Styl stránky obsahuje devět karet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Organizer&lt;/f0&gt; tab is described on page &lt;bf1&gt;5&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Organizátor&lt;/f0&gt; karta je popsána na straně &lt;bf1&gt;5&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Page&lt;/f0&gt; tab of the Page Style dialog is where you can control the general settings of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Strana&lt;/f0&gt; Na kartě dialogového okna Styl stránky můžete ovládat obecná nastavení stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab consists of three sections, plus a preview area in the top right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Karta se skládá ze tří částí a oblasti náhledu vpravo nahoře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Paper format&lt;/f0&gt; section, you can specify the size of the paper, choosing from one of the many predefined formats.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Papírový formát&lt;/f0&gt; části můžete určit velikost papíru výběrem z jednoho z mnoha předdefinovaných formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f1&gt;User&lt;/f1&gt; to define your own paper size using the &lt;f2&gt;Width&lt;/f2&gt; and &lt;f3&gt;Height&lt;/f3&gt; fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat &lt;f1&gt;Uživatel&lt;/f1&gt; definovat vlastní velikost papíru pomocí &lt;f2&gt;Šířka&lt;/f2&gt; a &lt;f3&gt;Výška&lt;/f3&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the orientation of the paper: &lt;f4&gt;Portrait&lt;/f4&gt; or &lt;f5&gt;Landscape&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte orientaci papíru: &lt;f4&gt;Portrét&lt;/f4&gt; nebo &lt;f5&gt;Krajina&lt;/f5&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your printer has more than one tray, you can specify the tray from which to print pages in the new page style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud má vaše tiskárna více než jeden zásobník, můžete určit zásobník, ze kterého se budou tisknout stránky v novém stylu stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: The Page tab for the Page Style dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;17&lt;/seq0&gt; : Karta Stránka v dialogovém okně Styl stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Margins&lt;/f0&gt; section, specify the size of the margins in your preferred unit of measurement.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Okraje&lt;/f0&gt; V části zadejte velikost okrajů ve vaší preferované měrné jednotce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you select &lt;f1&gt;Mirrored&lt;/f1&gt; for Page layout in the &lt;f2&gt;Layout settings&lt;/f2&gt; section, then the names of the margins change from Left and Right to Inner and Outer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vyberete &lt;f1&gt;Zrcadlo&lt;/f1&gt; pro rozložení stránky v &lt;f2&gt;Nastavení rozložení&lt;/f2&gt; části, pak se názvy okrajů změní z levého a pravého na vnitřní a vnější.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Layout settings&lt;/f0&gt; section, choose the desired Page layout from the four available options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Nastavení rozložení&lt;/f0&gt; části, vyberte požadované rozložení stránky ze čtyř dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Decide whether the page style being defined applies to both left and right pages (default), or applies to right or left only.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozhodněte, zda se definovaný styl stránky vztahuje na levou i pravou stránku (výchozí), nebo pouze na pravou nebo levou stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you plan to bind the printed pages using this style like a book, select a mirrored layout.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud plánujete vázat tištěné stránky pomocí tohoto stylu jako knihu, vyberte zrcadlené rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Format&lt;/f0&gt; drop-down list to determine the page numbering style to apply to this page style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Formát&lt;/f0&gt; rozevírací seznam k určení stylu číslování stránek, který se použije na tento styl stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A common practice in page layouts is to have asymmetrical page margins—both for left and right margins and for top and bottom margins.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Běžnou praxí v rozvržení stránky je mít asymetrické okraje stránky - jak pro levý, tak pro pravý okraj a pro horní a dolní okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most common scheme follows these two general rules for printed page layouts: (a) The outer margin (right margin on a right-hand page) would be wider than an inner margin (left margin on a right-hand page); (b) The bottom margin would be larger than a top margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejběžnější schéma se řídí těmito dvěma obecnými pravidly pro rozložení tištěných stránek: (a) Vnější okraj (pravý okraj na pravé straně) by byl širší než vnitřní okraj (levý okraj na pravé straně); (b) Dolní okraj by byl větší než horní okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The rationale for an asymmetrical page layout is allowing more space for readers to place their hands while holding the books or other printed documents.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odůvodnění asymetrického rozvržení stránky poskytuje větší prostor pro čtenáře, aby mohli položit ruce, zatímco drží knihy nebo jiné tištěné dokumenty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;S&lt;/a0&gt;ee Bruce Byfield’s book, &lt;f1&gt;Designing with LibreOffice&lt;/f1&gt;, for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;S&lt;/a0&gt; Kniha ee Bruce Byfielda, &lt;f1&gt;Navrhování s LibreOffice&lt;/f1&gt; , Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can download a PDF free from &lt;a2&gt;http://designingwithlibreoffice.com&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete si stáhnout PDF zdarma z &lt;a2&gt;http://designingwithlibreoffice.com&lt;/a2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want the first page of a new chapter to always start on a right page, make sure that the page style for the first chapter page is set for the right page only by making this selection in the &lt;f0&gt;Layout settings&lt;/f0&gt; field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete, aby první stránka nové kapitoly vždy začínala na správné stránce, ujistěte se, že styl stránky pro první stránku kapitoly je nastaven na správnou stránku pouze provedením tohoto výběru v &lt;f0&gt;Nastavení rozložení&lt;/f0&gt; pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The typical procedure for the rest of a chapter is to define a single “mirrored” page style for both left and right pages.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typickým postupem pro zbytek kapitoly je definování jediného „zrcadleného“ stylu stránky pro levou i pravou stránku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A mirrored page can have different headers and footers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zrcadlená stránka může mít různé záhlaví a zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If done this way, every chapter will use two page styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud to uděláte tímto způsobem, bude každá kapitola používat dva styly stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose to define separate page styles for left and right pages, if you want the pages to be very different in appearance (for example, different margins or headers and footers only on right pages but not on left pages; imagine a book with a full-page photograph on the left pages and text on the right pages).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete se rozhodnout definovat samostatné styly stránek pro levou a pravou stránku, pokud chcete, aby stránky vypadaly velmi odlišně (například různé okraje nebo záhlaví a zápatí pouze na pravých stránkách, ale ne na levých stránkách; představte si knihu s celostránková fotografie na levé straně a text na pravé straně).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In that case, make sure that the Next Style field for the first page style is set for a left-only page, which, in turn, is set to be followed by a right-only page style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V takovém případě se ujistěte, že pole Další styl pro styl první stránky je nastaveno pro stránku pouze vlevo, za kterou bude následovat styl stránky pouze vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If done this way, every chapter will use three page styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud to uděláte tímto způsobem, bude každá kapitola používat tři styly stránek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A hypothetical case might have these page style names: First page, Left, and Right.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hypotetický případ může mít tyto názvy stylů stránek: První stránka, Vlevo a Vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you check the &lt;f0&gt;Register-true&lt;/f0&gt; box, Writer will create an invisible vertical grid on the page with a spacing between grid points that depends on the selected Reference Style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud zaškrtnete &lt;f0&gt;Registrovat-pravda&lt;/f0&gt; rámeček, Writer vytvoří na stránce neviditelnou svislou mřížku s mezerou mezi body mřížky, která závisí na vybraném referenčním stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The vertical grid makes sure that text printed on adjacent columns, opposite pages, or even both sides of the same sheet of paper, is aligned—making it easier to read as well as being more pleasant to see.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Svislá mřížka zajišťuje, že text vytištěný na sousedních sloupcích, protilehlých stránkách nebo dokonce na obou stranách stejného listu papíru je zarovnaný - usnadňuje čtení i příjemnější zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Area&lt;/f0&gt; and &lt;f1&gt;Border&lt;/f1&gt; tabs are described in detail in Chapter 6, Formatting Pages: Advanced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Plocha&lt;/f0&gt; a &lt;f1&gt;okraj&lt;/f1&gt; karty jsou podrobně popsány v kapitole 6, Formátování stránek: Pokročilé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f2&gt;Area&lt;/f2&gt; tab to apply a background (covers the entire page, including the margins) or the &lt;f3&gt;Border&lt;/f3&gt; tab to draw a border around the text area of the page (inside the margins).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f2&gt;Plocha&lt;/f2&gt; karta pro použití pozadí (pokrývá celou stránku, včetně okrajů) nebo &lt;f3&gt;okraj&lt;/f3&gt; kartu nakreslete ohraničení kolem textové oblasti stránky (uvnitř okrajů).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also add a shadow to the text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do textové oblasti můžete také přidat stín.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can associate a different header or footer with each page style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ke každému stylu stránky můžete přiřadit jinou hlavičku nebo zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This property makes it easy to have different headers on left and right pages, to avoid headers on pages at the start of a new chapter, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato vlastnost usnadňuje mít různé záhlaví na levé a pravé stránce, vyhnout se záhlaví na stránkách na začátku nové kapitoly atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also have a different header or footer on the same page style where it is used for the first page of a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete mít také jiné záhlaví nebo zápatí na stejném stylu stránky, kde se používá pro první stránku dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can specify a different header for left or right pages even if you use a single style for both.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro levou nebo pravou stránku můžete zadat jinou hlavičku, i když pro oba použijete jeden styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is not available on the predefined &lt;f0&gt;Left&lt;/f0&gt; and &lt;f1&gt;Right&lt;/f1&gt; page styles or on any other page style defined to be a left or right page only.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost není k dispozici u předdefinovaných &lt;f0&gt;Vlevo, odjet&lt;/f0&gt; a &lt;f1&gt;Že jo&lt;/f1&gt; styly stránek nebo na jakémkoli jiném stylu stránky definovaném pouze jako levá nebo pravá stránka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Header&lt;/f0&gt; and &lt;f1&gt;Footer&lt;/f1&gt; tabs are described in detail in Chapter 5, Formatting Pages: Basics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Záhlaví&lt;/f0&gt; a &lt;f1&gt;Zápatí&lt;/f1&gt; karty jsou podrobně popsány v kapitole 5, Formátování stránek: Základy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Different content on left and right pages</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;18&lt;/seq0&gt; : Odlišný obsah na levé a pravé stránce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Columns&lt;/f0&gt; tab to create the column layout for the page style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Sloupce&lt;/f0&gt; karta pro vytvoření rozložení sloupce pro styl stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It has three sections: &lt;f1&gt;Settings&lt;/f1&gt;, &lt;f2&gt;Width and Spacing&lt;/f2&gt;, and &lt;f3&gt;Separator Line&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Má tři sekce: &lt;f1&gt;Nastavení&lt;/f1&gt; , &lt;f2&gt;Šířka a rozteč&lt;/f2&gt; , a &lt;f3&gt;Oddělovací linka&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose the desired number of columns.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný počet sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you select more than one column, the &lt;f4&gt;Width and Spacing&lt;/f4&gt; section and the &lt;f5&gt;Separator LIne&lt;/f5&gt; section become active.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vyberete více než jeden sloupec, &lt;f4&gt;Šířka a rozteč&lt;/f4&gt; sekce a &lt;f5&gt;Separator LIne&lt;/f5&gt; sekce aktivní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use the predefined settings (equally spaced columns) or deselect the &lt;f6&gt;AutoWidth&lt;/f6&gt; option and enter the parameters manually.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete použít předdefinované nastavení (stejně rozložené sloupce) nebo zrušit výběr &lt;f6&gt;AutoWidth&lt;/f6&gt; možnost a zadejte parametry ručně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you work with multiple columns per page, you can also fine tune the position and size of a separator line between the columns.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když pracujete s více sloupci na stránce, můžete také doladit polohu a velikost oddělovací čáry mezi sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Footnote&lt;/f0&gt; tab to adjust the appearance of the footnotes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Poznámka pod čarou&lt;/f0&gt; záložka pro úpravu vzhledu poznámek pod čarou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 5, Formatting Pages: Basics, for details.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobnosti najdete v kapitole 5, Formátování stránek: Základní informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List styles (also called numbering styles) work together with paragraph styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly seznamu (nazývané také číslovací styly) spolupracují se styly odstavců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They define indentation, alignment, and the numbering or bullet characters used for list items.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Definují odsazení, zarovnání a číslování nebo znaky odrážek použité pro položky seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define many list styles, from simple bulleted lists to complex multi-level (nested) lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete definovat mnoho stylů seznamů, od jednoduchých seznamů s odrážkami až po složité víceúrovňové (vnořené) seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with other styles, the main reasons for using list styles are consistency and speeding up your work.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako u jiných stylů je hlavním důvodem pro použití stylů seznamu konzistence a zrychlení práce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although you can create simple lists quickly by clicking the &lt;f0&gt;Toggle Numbered List&lt;/f0&gt; or &lt;f1&gt;Toggle Bulleted List&lt;/f1&gt; icons on the Formatting toolbar, and create quite complex nested lists using the icons on the Bullets and Numbering toolbar, the appearance of the resulting lists may not be what you want, and you might want to have more than one style of list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednoduché seznamy můžete vytvořit rychle kliknutím na ikonu &lt;f0&gt;Přepnout číslovaný seznam&lt;/f0&gt; nebo &lt;f1&gt;Přepnout seznam s odrážkami&lt;/f1&gt; ikony na panelu nástrojů Formát a pomocí ikon na panelu nástrojů Odrážky a číslování vytvářejte docela složité vnořené seznamy, vzhled výsledných seznamů nemusí být takový, jaký chcete, a možná budete chtít mít více než jeden styl seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can use the Bullets and Numbering choice on the Format menu to manually format the appearance of some or all of the lists, but if you later need to change their appearance, you will have a lot of manual work to do.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí volby Odrážky a číslování v nabídce Formát můžete ručně naformátovat vzhled některých nebo všech seznamů, ale pokud budete později muset změnit jejich vzhled, bude vás čekat spousta manuální práce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 12, Lists: Tips and Tricks, for details on how list styles and paragraph styles work together.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V kapitole 12, Seznamy: Tipy a triky, najdete podrobnosti o tom, jak styly seznamu a odstavcové styly spolupracují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice uses the terms “numbering style” and “list style” inconsistently, but they are the same thing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice používá termíny „styl číslování“ a „styl seznamu“ nekonzistentně, ale jsou to totéž.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the tooltip in the Styles deck says List Styles, but its style dialog says Numbering Style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například v popisku na paletě Styly se zobrazuje Seznam stylů, ale jeho dialogové okno stylu říká Styl číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog to create a new list style includes six tabs in addition to the usual &lt;f0&gt;Organizer&lt;/f0&gt; tab discussed on page &lt;bf1&gt;5&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog pro vytvoření nového stylu seznamu obsahuje kromě obvyklých také šest karet &lt;f0&gt;Organizátor&lt;/f0&gt; karta diskutována na stránce &lt;bf1&gt;5&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f0&gt;Bullets&lt;/f0&gt;, &lt;f1&gt;Numbering Style&lt;/f1&gt;, and &lt;f2&gt;Image&lt;/f2&gt; tabs contain predefined formatting for list item symbols (bullets or numbers).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f0&gt;Kulky&lt;/f0&gt; , &lt;f1&gt;Styl číslování&lt;/f1&gt; , a &lt;f2&gt;obraz&lt;/f2&gt; karty obsahují předdefinované formátování symbolů položek seznamu (odrážky nebo čísla).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use one of them for your style, click the image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít jeden z nich pro svůj styl, klikněte na obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A thick border indicates the selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tlusté ohraničení označuje výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The bullets on the &lt;f3&gt;Bullets&lt;/f3&gt; tab are font characters; those on the &lt;f4&gt;Image&lt;/f4&gt; tab are graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kulky na &lt;f3&gt;Kulky&lt;/f3&gt; karta jsou znaky písma; ti na &lt;f4&gt;obraz&lt;/f4&gt; záložka jsou grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Outline&lt;/f0&gt; tab to select from eight predefined nested lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Obrys&lt;/f0&gt; záložka pro výběr z osmi předdefinovaných vnořených seznamů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also select one and use it as a starting point for your own style, customizing the list using the &lt;f1&gt;Position&lt;/f1&gt; tab and the &lt;f2&gt;Customize&lt;/f2&gt; tab, as described below.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také vybrat jeden a použít jej jako výchozí bod pro svůj vlastní styl, přizpůsobit seznam pomocí &lt;f1&gt;Pozice&lt;/f1&gt; karta a &lt;f2&gt;Přizpůsobit&lt;/f2&gt; záložka, jak je popsáno níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Position&lt;/f0&gt; tab (Figure &lt;t1&gt;19&lt;/t1&gt;) to fine tune the indentation and spacing of the list item symbol and the text of the list item.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Pozice&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;19&lt;/t1&gt; ) k jemnému doladění odsazení a řádkování symbolu položky seznamu a textu položky seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This tab is particularly effective when used in combination with the &lt;f2&gt;Customize&lt;/f2&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato záložka je obzvláště účinná při použití v kombinaci s &lt;f2&gt;Přizpůsobit&lt;/f2&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can adjust the following settings for each individual level or all levels at once (to make them all the same).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující nastavení můžete upravit pro každou jednotlivou úroveň nebo všechny úrovně najednou (aby byla stejná).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is generally easier to adjust the settings in the order given below, instead of the order on the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obecně je jednodušší upravit nastavení v pořadí uvedeném níže, místo pořadí v dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That is, start from the overall indentation for the list elements, then fix the position of the symbols, and finally adjust the alignment of the symbols.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To znamená, že začněte od celkového odsazení pro prvky seznamu, poté opravte polohu symbolů a nakonec upravte zarovnání symbolů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Numbering followed by&lt;/f0&gt;: the character to follow the numbering symbol (plus any characters—for example a punctuation mark—chosen on the &lt;f1&gt;Customize&lt;/f1&gt; tab to appear after the number).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Za číslováním následuje&lt;/f0&gt; : znak, který má následovat za číslovacím symbolem (plus jakékoli znaky - například interpunkční znaménko - vybrané na &lt;f1&gt;Přizpůsobit&lt;/f1&gt; záložka, která se zobrazí za číslem).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose between a tab stop, a space, or nothing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte si mezi zarážkou tabulátoru, mezerou nebo ničím.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you select the tab stop, you can specify the position of the tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vyberete zarážku tabulátoru, můžete určit pozici tabulátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Indent at&lt;/f0&gt;: how much space is reserved for the numbering symbol, measured from the left page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Odsadit na&lt;/f0&gt; : kolik místa je vyhrazeno pro symbol číslování, měřeno od levého okraje stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The alignment of the first line of the list is also affected by any tab you may have set to follow the numbering.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zarovnání prvního řádku seznamu je také ovlivněno jakoukoli kartou, kterou jste nastavili, aby sledovala číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Aligned at&lt;/f0&gt;: the position of the numbering symbol, measured from the left margin of the page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnáno na&lt;/f0&gt; : poloha číslovacího symbolu měřená od levého okraje stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Numbering alignment&lt;/f0&gt;: how the numbering (including any text before or after as set in the &lt;f1&gt;Customize&lt;/f1&gt; tab) will be aligned.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnání číslování&lt;/f0&gt; : jak číslování (včetně jakéhokoli textu před nebo po, jak je nastaveno v &lt;f1&gt;Přizpůsobit&lt;/f1&gt; karta) bude zarovnána.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Aligned at&lt;/f2&gt; value determines the symbol alignment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The &lt;f2&gt;Zarovnáno na&lt;/f2&gt; hodnota určuje zarovnání symbolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In most circumstances, setting the &lt;f0&gt;Numbering followed by&lt;/f0&gt; distance to be equal to the &lt;f1&gt;Indent at&lt;/f1&gt; distance works well.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve většině případů nastavení &lt;f0&gt;Za číslováním následuje&lt;/f0&gt; vzdálenost se rovná &lt;f1&gt;Odsadit na&lt;/f1&gt; vzdálenost funguje dobře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Figure &lt;t2&gt;20&lt;/t2&gt;&lt;s3/&gt;for a graphic representation of the effects of the above parameters.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz obrázek &lt;t2&gt;20 &lt;/t2&gt;&lt;s3/&gt; pro grafické znázornění účinků výše uvedených parametrů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Position settings for a List style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;19&lt;/seq0&gt; : Nastavení polohy pro styl seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To fully appreciate how the Numbering alignment works, try to create a numbered list with more than ten elements and make sure that enough room has been made for numbers with two or more digits.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Abyste plně ocenili, jak funguje zarovnání číslování, zkuste vytvořit číslovaný seznam s více než deseti prvky a ujistěte se, že byl vytvořen dostatek místa pro čísla se dvěma nebo více číslicemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may also wish to right-align numbers 10 or greater, as in Figure &lt;t0&gt;20&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také chtít zarovnat doprava čísla 10 nebo vyšší, jako na obrázku &lt;t0&gt;20&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: A numbered list of CD tracks highlighting the various elements</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;20&lt;/seq0&gt; : Číslovaný seznam stop CD zvýrazňující různé prvky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Customize&lt;/f0&gt; tab (Figure &lt;t1&gt;21&lt;/t1&gt;) to define the style of the outline levels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte &lt;f0&gt;Přizpůsobit&lt;/f0&gt; záložka (Obrázek &lt;t1&gt;21&lt;/t1&gt; ) k definování stylu úrovní obrysu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options available on this tab depend on the type of marker selected for the list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti dostupné na této kartě závisí na typu značky vybrané pro seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First, on the left side, select the level you want to modify.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejprve na levé straně vyberte úroveň, kterou chcete upravit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify all ten levels at once, select 1 – 10 as the level.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li upravit všech deset úrovní najednou, vyberte úroveň 1 - 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you started from a predefined outline, some of the levels will already have settings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste začali z předdefinovaného obrysu, některé úrovně již budou mít nastavení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: The Customize tab for a list style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava &lt;seq0&gt;21&lt;/seq0&gt; : Karta Přizpůsobit pro styl seznamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the numbering style selected in the &lt;f0&gt;Number&lt;/f0&gt; box (bullet, graphic, numbering), some of the following options become available on the tab (not all are shown in the illustration):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na stylu číslování vybraném v souboru &lt;f0&gt;Číslo&lt;/f0&gt; pole (odrážka, grafika, číslování), na kartě budou k dispozici některé z následujících možností (ne všechny jsou zobrazeny na obrázku):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Show sublevels:&lt;/f0&gt; The number of previous levels to include in the numbering style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zobrazit podúrovně:&lt;/f0&gt; Počet předchozích úrovní, které mají být zahrnuty do stylu číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you enter "2" and the previous level uses the "A, B, C..." numbering style, the numbering scheme for the current level becomes: "A.1".</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud například zadáte „2“ a předchozí úroveň používá styl číslování „A, B, C ...“, schéma číslování pro aktuální úroveň bude: „A.1“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Before:&lt;/f0&gt; any text to appear before the number (for example, Step).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Před:&lt;/f0&gt; jakýkoli text, který se zobrazí před číslem (například Krok).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;After:&lt;/f0&gt; any text to appear after the number (for example, a punctuation mark).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Po:&lt;/f0&gt; jakýkoli text, který se zobrazí za číslem (například interpunkční znaménko).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Start at:&lt;/f0&gt; the first value of the list (for example, to start the list at 4 instead of 1).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Začátek v:&lt;/f0&gt; první hodnota seznamu (například pro spuštění seznamu na 4 místo 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Character Style:&lt;/f0&gt; the style to be used for the number or bullet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styl postavy:&lt;/f0&gt; styl, který má být použit pro číslo nebo odrážku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character&lt;f0&gt; Select &lt;/f0&gt;button: click to select the character for the bullet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Charakter &lt;f0&gt;Vybrat&lt;/f0&gt; tlačítko: kliknutím vyberte znak pro odrážku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Graphics &lt;f0&gt;Select &lt;/f0&gt;button: opens a list of available graphics (Gallery) or allows the selection of a file on the hard disk to be used as the list marker.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Grafika &lt;f0&gt;Vybrat&lt;/f0&gt; Tlačítko: otevírá seznam dostupné grafiky (Galerie) nebo umožňuje použít jako značku seznamu výběr souboru na pevném disku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Width&lt;/f0&gt; and &lt;f1&gt;Height&lt;/f1&gt;: the dimensions of the graphic marker.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Šířka&lt;/f0&gt; a &lt;f1&gt;Výška&lt;/f1&gt; : rozměry grafické značky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Keep ratio&lt;/f0&gt; option: fixes the ratio between the width and the height of the graphic marker.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Udržujte poměr&lt;/f0&gt; možnost: opraví poměr mezi šířkou a výškou grafické značky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Alignment:&lt;/f0&gt; the alignment of the graphic object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zarovnání:&lt;/f0&gt; zarovnání grafického objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The right-hand side of the dialog shows a preview of the modifications made.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravá strana dialogu zobrazuje náhled provedených úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you choose the &lt;f0&gt;Linked graphics&lt;/f0&gt; option in the &lt;f1&gt;Number&lt;/f1&gt; list, the graphic object is linked rather than embedded in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud zvolíte &lt;f0&gt;Propojená grafika&lt;/f0&gt; možnost v &lt;f1&gt;Číslo&lt;/f1&gt; seznamu je grafický objekt spíše propojen než vložen do dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The bullet will not be displayed when the document is opened on a different computer (unless the same graphic file is located in the same location on both computers) or if the graphic file used is moved to a different location on the computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odrážka se nezobrazí, když je dokument otevřen v jiném počítači (pokud není stejný grafický soubor umístěn ve stejném umístění v obou počítačích) nebo pokud je použitý grafický soubor přesunut do jiného umístění v počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To revert to the default values, click the Reset button in the bottom right corner.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li se vrátit k výchozím hodnotám, klikněte na tlačítko Obnovit v pravém dolním rohu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Finally, if you wish to use consecutive numbers regardless of the outline level, select the Consecutive numbering box at the bottom of the tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nakonec, pokud chcete použít po sobě jdoucí čísla bez ohledu na úroveň osnovy, zaškrtněte políčko Po sobě jdoucí číslování ve spodní části karty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this example, we will create a numbered list that is used to number the songs on a CD.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V tomto příkladu vytvoříme očíslovaný seznam, který se používá k číslování skladeb na CD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The numbers are right-aligned, and some space is left between the number and the title of the track.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čísla jsou zarovnána doprava a mezi číslem a názvem stopy je ponechána mezera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As we want to reuse the same numbered list for other CDs, we will define a new list style and then apply it to the tracks list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Protože chceme znovu použít stejný očíslovaný seznam pro další CD, definujeme nový styl seznamu a poté ho použijeme na seznam stop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As for the previous example, start by clicking the &lt;f0&gt;List Styles&lt;/f0&gt; icon (fifth from the left) on the Styles deck.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako v předchozím příkladu začněte kliknutím na &lt;f0&gt;Seznam stylů&lt;/f0&gt; ikona (pátá zleva) na balíčku stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then right-click anywhere in the list box and choose &lt;f1&gt;New&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poté klepněte pravým tlačítkem kamkoli do seznamu a vyberte &lt;f1&gt;Nový&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Numbering style dialog is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazí se dialogové okno Styl číslování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the CDTracks style, we need to customize fields in the &lt;f0&gt;Organizer&lt;/f0&gt;, &lt;f1&gt;Options&lt;/f1&gt;, and &lt;f2&gt;Position&lt;/f2&gt; tabs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro styl CDTracks musíme upravit pole v &lt;f0&gt;Organizátor&lt;/f0&gt; , &lt;f1&gt;Možnosti&lt;/f1&gt; , a &lt;f2&gt;Pozice&lt;/f2&gt; záložky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Style fields</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pole stylu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter CDTrack</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte CDTrack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kategorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom styles will be OK for us.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vlastní styly pro nás budou v pořádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modify the options of the &lt;f0&gt;Customize&lt;/f0&gt; tab as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Upravte možnosti &lt;f0&gt;Přizpůsobit&lt;/f0&gt; záložka takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Level&lt;/f0&gt; box, choose 1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Úroveň&lt;/f0&gt; pole, vyberte 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Number&lt;/f0&gt; list, choose 1, 2, 3,....</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V &lt;f0&gt;Číslo&lt;/f0&gt; seznamu, vyberte 1, 2, 3, ....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave the &lt;f0&gt;Before&lt;/f0&gt; and &lt;f1&gt;After&lt;/f1&gt; boxes empty.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opustit &lt;f0&gt;Před&lt;/f0&gt; a &lt;f1&gt;Po&lt;/f1&gt; pole prázdná.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leave the &lt;f0&gt;Character style&lt;/f0&gt; field as &lt;f1&gt;None&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Opustit &lt;f0&gt;Styl postavy&lt;/f0&gt; pole jako &lt;f1&gt;Žádný&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Show sublevels&lt;/f0&gt; should be grayed out.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zobrazit podúrovně&lt;/f0&gt; by měl být šedý.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure &lt;f0&gt;Start&lt;/f0&gt; at is set to &lt;f1&gt;1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujisti se &lt;f0&gt;Start&lt;/f0&gt; at je nastaven na &lt;f1&gt;1&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do &lt;f0&gt;not&lt;/f0&gt; select &lt;f1&gt;Consecutive numbering&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dělat &lt;f0&gt;ne&lt;/f0&gt; vybrat &lt;f1&gt;Postupné číslování&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As discussed above, the numbered list will adopt the settings of the underlying paragraph style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jak bylo uvedeno výše, číslovaný seznam přijme nastavení základního stylu odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to use a special font, size or color for the numbering, you can create a character style and apply it in the &lt;f0&gt;Customize&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete pro číslování použít speciální písmo, velikost nebo barvu, můžete vytvořit znakový styl a použít jej v &lt;f0&gt;Přizpůsobit&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want the word Track to appear before the number, add it to the &lt;f0&gt;Before&lt;/f0&gt; field on the &lt;f1&gt;Customize&lt;/f1&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete, aby se před číslem objevilo slovo Track, přidejte jej do &lt;f0&gt;Před&lt;/f0&gt; pole na &lt;f1&gt;Přizpůsobit&lt;/f1&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not forget to add a space character to separate the word from the number.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nezapomeňte přidat mezeru, abyste oddělili slovo od čísla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set up the final parameters of the CDTracks list style on the &lt;f0&gt;Position&lt;/f0&gt; tab.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavte konečné parametry stylu seznamu CDTracks na &lt;f0&gt;Pozice&lt;/f0&gt; záložka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For &lt;f0&gt;Numbering followed by&lt;/f0&gt;, choose &lt;f1&gt;Tab stop&lt;/f1&gt; and set it at &lt;f2&gt;4.0cm&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f0&gt;Za číslováním následuje&lt;/f0&gt; , Vybrat &lt;f1&gt;Zastavení tabulátoru&lt;/f1&gt; a nastavit to na &lt;f2&gt;4,0 cm&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For &lt;f0&gt;Numbering alignment&lt;/f0&gt;, choose &lt;f1&gt;Right&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f0&gt;Zarovnání číslování&lt;/f0&gt; , Vybrat &lt;f1&gt;Že jo&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For &lt;f0&gt;Aligned at&lt;/f0&gt;, choose &lt;f1&gt;1.5cm&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f0&gt;Zarovnáno na&lt;/f0&gt; , Vybrat &lt;f1&gt;1,5 cm&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(this refers to the alignment of the numbers)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(to se týká zarovnání čísel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For &lt;f0&gt;Indent at&lt;/f0&gt;, choose &lt;f1&gt;4.0cm&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro &lt;f0&gt;Odsadit na&lt;/f0&gt; , Vybrat &lt;f1&gt;4,0 cm&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(This sets the indentation of the whole list.) Click &lt;f2&gt;OK&lt;/f2&gt; to finish.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>(Tím se nastaví odsazení celého seznamu.) Klepněte na &lt;f2&gt;OK&lt;/f2&gt; dokončit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Now that the list style is available, it can be quickly applied to any list in the document:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nyní, když je styl seznamu k dispozici, lze jej rychle použít na libovolný seznam v dokumentu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are starting a new list, before pressing &lt;f0&gt;Enter&lt;/f0&gt; to start a new line, double-click the desired list style name in the Styles deck.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud začínáte nový seznam, před stisknutím &lt;f0&gt;Enter&lt;/f0&gt; Chcete-li zahájit nový řádek, poklepejte na požadovaný název stylu seznamu v sadě stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you already have a list, select it and then double-click the desired list style name in the Styles deck.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud již máte seznam, vyberte jej a potom poklepejte na název požadovaného stylu seznamu v sadě stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remember that applying a list style does not affect the characteristics of the underlying paragraph; therefore you may want to check if you are satisfied with the paragraph style before applying the list style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pamatujte, že použití stylu seznamu nemá vliv na vlastnosti podkladového odstavce; proto možná budete chtít před použitím stylu seznamu zkontrolovat, zda jste spokojeni se stylem odstavce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have more than one list in a document, the second and subsequent lists with the same style continue their numbering from the previous list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud máte v dokumentu více než jeden seznam, pokračuje druhý a následující seznam se stejným stylem v číslování z předchozího seznamu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To restart at 1, place the cursor anywhere in the paragraph you want numbered 1, right-click, and choose &lt;f0&gt;Restart numbering&lt;/f0&gt; in the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li restartovat v 1, umístěte kurzor kamkoli do odstavce, který chcete označit číslem 1, klepněte pravým tlačítkem a vyberte &lt;f0&gt;Restartujte číslování&lt;/f0&gt; v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To stop using numbering, click the &lt;f0&gt;Toggle Numbered List&lt;/f0&gt; icon on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přestat používat číslování, klikněte na ikonu &lt;f0&gt;Přepnout číslovaný seznam&lt;/f0&gt; ikona na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The final result is illustrated in Figure &lt;t1&gt;20&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;25&lt;/t3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Konečný výsledek je znázorněn na obrázku &lt;t1&gt;20 &lt;/t1&gt;&lt;s2/&gt; na stránce &lt;t3&gt;25&lt;/t3&gt; .</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
