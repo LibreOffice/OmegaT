@@ -1,0 +1,4206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Template to be used for creating chapters for LibreOffice 6 serties user guides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablona, která se má použít k vytváření kapitol pro uživatelské příručky k sérii LibreOffice 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on a template originally created by Peter Schofield.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě šablony původně vytvořené Peterem Schofieldem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master Slides, Styles and Templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní snímky, styly a šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Working with templates&lt;/t0&gt; | &lt;t1&gt;31&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Práce se šablonami&lt;/t0&gt; |&lt;t1&gt; 31&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Master Slides, Styles and Templates&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;16&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; Hlavní snímky, styly a šablony&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Master Slides, Styles and Templates&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Hlavní snímky, styly a šablony&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; 3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Master Slides, Styles and Templates&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;4&lt;/t0&gt; |&lt;t1&gt; Hlavní snímky, styly a šablony&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To this edition of the &lt;ud0&gt;Impress Guide&lt;/ud0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K tomuto vydání&lt;ud0&gt; Průvodce Impress&lt;/ud0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To previous editions of the &lt;ud0&gt;Impress Guide&lt;/ud0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K předchozím vydáním&lt;ud0&gt; Průvodce Impress&lt;/ud0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dimona Delvere</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dimona Delvere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elliot Turner</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elliot Turner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Low Song Chuan</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Low Song Chuan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechno odeslané na seznam adresátů, včetně vaší e-mailové adresy a jakýchkoli dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nelze jej smazat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;January&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno&lt;t0&gt; leden&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2021&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.0&lt;/ud3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice&lt;ud3&gt; 7.0&lt;/ud3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table below gives some common substitutions for the instructions in this document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Níže uvedená tabulka uvádí některé běžné náhrady za pokyny v tomto dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt; &lt;s1/&gt;(Command)</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;⌘&lt;/f0&gt;&lt;s1/&gt; (Příkaz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Designing a presentation</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Návrh prezentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What are master slides?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Co jsou hlavní snímky?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with master slides</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce s předlohami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating master slides</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření hlavních snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Applying master slides</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití vzorových snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing master slides</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy hlavních snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting and applying backgrounds</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr a použití pozadí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using slide setup</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používání nastavení snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using background style</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí stylu pozadí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding images</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidávání obrázků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default text areas</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí textové oblasti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position and size</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poloha a velikost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background, border and alignment</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozadí, ohraničení a zarovnání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding text and fields</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidávání textu a polí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default footer sections</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí sekce zápatí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Header and Footer dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog Záhlaví a zápatí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom footer sections</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vlastní sekce zápatí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manual fields</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ruční pole</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Presentation styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly prezentace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawing styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly kreslení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Accessing styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přístup ke stylům</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly úprav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dialog formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování dialogu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vlastní styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linked styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Propojené styly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Assigning styles keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přiřazení stylů klávesové zkratky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Working with templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Práce se šablonami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Templates supplied with LibreOffice</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablony dodávané s LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Templates from other sources</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablony z jiných zdrojů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting default template</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení výchozí šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing default template</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna výchozí šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resetting default template</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obnovení výchozí šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Creating templat&lt;/a0&gt;&lt;a1&gt;e categories&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Vytváření šablon&lt;/a0&gt;&lt;a1&gt; e kategorie&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Deleting templat&lt;/a0&gt;&lt;a1&gt;e categories&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Mazání šablony&lt;/a0&gt;&lt;a1&gt; e kategorie&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pohyblivé šablony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mazání šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Importing templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Import šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exporting templates</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Export šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to careful planning of the content, as discussed in Chapter 1 Introducing Impress, you need to plan the appearance of the presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě pečlivého plánování obsahu, jak je popsáno v kapitole 1 Představujeme Impress, musíte naplánovat vzhled prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is best to do this after you have developed an outline, because the outline will determine some of the requirements for the appearance of the slides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejlepší je to udělat poté, co jste vytvořili obrys, protože obrys určí některé požadavky na vzhled snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What color combinations (background and text) will look good and also be easy for your audience to read?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jaké barevné kombinace (pozadí a text) budou vypadat dobře a budou také snadno čitelné pro vaše publikum?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Would an image help your audience understand the contents better?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomohl by obrázek vašemu publiku lépe porozumět obsahu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want particular text and image to appear on all the slides?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete, aby se na všech snímcích zobrazoval konkrétní text a obrázek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example a company name and logo.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například název společnosti a logo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Would the audience benefit from having the slides numbered so that they can quickly refer to one of them?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Prospělo by publiku, že by byly snímky očíslovány, aby se na jeden z nich mohly rychle odvolat?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want a background graphic or gradient?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete grafiku na pozadí nebo přechod?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If so, you need to pick something that does not interfere or clash with content such as the colors used in charts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je to tak, musíte vybrat něco, co neruší a nebrání se obsahu, jako jsou barvy použité v grafech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Will you need one or more master slide?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Budete potřebovat jeden nebo více předloh?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Will one slide design suit all of the presentation content?</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Bude jeden design snímku vyhovovat veškerému obsahu prezentace?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change the appearance of slides as you develop the presentation, but planning ahead will save you time in the long run.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vývoji prezentace můžete změnit vzhled snímků, ale plánování dopředu vám z dlouhodobého hlediska ušetří čas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is similar to a page style in LibreOffice Writer as it controls the basic formatting of all slides based on it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je podobný stylu stránky v LibreOffice Writer, protože řídí základní formátování všech snímků na něm založených.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A presentation can have more than one master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Prezentace může mít více než jeden hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice uses three terms for one concept: master slide, slide master, and master page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice používá tři pojmy pro jeden koncept: hlavní snímek, hlavní snímek a hlavní stránka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All refer to a slide which is used to create other slides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny odkazují na snímek, který se používá k vytvoření dalších snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This user guide uses the term master slide, except when describing the user interface.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato uživatelská příručka používá termín hlavní snímek, s výjimkou popisu uživatelského rozhraní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A master slide has a defined set of characteristics, including the background color, graphic, or gradient.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní snímek má definovanou sadu charakteristik, včetně barvy pozadí, grafiky nebo přechodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also can include objects (for example, logos, decorative lines) in the background; headers and footers; placement and size of text frames; and text formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Může také zahrnovat pozadí (například loga, ozdobné čáry); záhlaví a zápatí; umístění a velikost textových rámečků; a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The styles of any new slide you create are inherited from the master slide from which it was created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly všech nových snímků, které vytvoříte, se dědí z hlavního snímku, ze kterého byl vytvořen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In other words, the styles of the master slide are available and applied to all slides created from that master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jinými slovy, styly hlavního snímku jsou k dispozici a aplikují se na všechny snímky vytvořené z tohoto hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing a style in a master slide results in changes to all the slides based on that master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna stylu v hlavním snímku má za následek změny všech snímků na základě tohoto hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is, however, possible to modify each individual slide without affecting the master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je však možné upravit každý jednotlivý snímek bez ovlivnění hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is highly recommended to use the master slides whenever possible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Důrazně doporučujeme používat hlavní snímky, kdykoli je to možné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, there are occasions where manual changes are needed for a particular slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Existují však příležitosti, kdy jsou pro konkrétní snímek nutné ruční změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0/&gt;For example, you could edit an individual slide to enlarge the chart area when the text and chart layout is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;s0/&gt;Můžete například upravit jednotlivý snímek a zvětšit tak plochu grafu, když se použije rozložení textu a grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Master slides have two types of styles associated with them: presentation styles and drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K hlavním snímkům jsou přidruženy dva typy stylů: prezentační styly a styly kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The presentation styles can be modified, but new presentation styles cannot be created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly prezentace lze upravit, ale nelze vytvořit nové styly prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For drawing styles, you can modify the styles and also create new drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U stylů kreslení můžete styly upravit a také vytvořit nové styly kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see “&lt;bf0&gt;Working with styles&lt;/bf0&gt;” on page &lt;bf1&gt;21&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace naleznete v části „&lt;bf0&gt; Práce se styly&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 21&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These master slides are shown in the &lt;f0&gt;Master Slides&lt;/f0&gt; deck of the Sidebar (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto hlavní snímky jsou zobrazeny v&lt;f0&gt; Hlavní snímky&lt;/f0&gt; paluba postranního panelu (obrázek&lt;t1&gt; 1&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This deck has three sections: &lt;f2&gt;Used in This Presentation&lt;/f2&gt;, &lt;f3&gt;Recently Used&lt;/f3&gt;, and &lt;f4&gt;Available for Use&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento balíček má tři sekce:&lt;f2&gt; Používá se v této prezentaci&lt;/f2&gt; ,&lt;f3&gt; Nedávno použité&lt;/f3&gt; , a&lt;f4&gt; K dispozici pro použití&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the expand marker next to the name of a section to expand it and show thumbnails of the master slides, or click the collapse marker to collapse the section to hide the thumbnails.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na značku rozbalení vedle názvu sekce ji rozbalíte a zobrazíte miniatury hlavních snímků, nebo kliknutím na značku sbalení sbalíte sekci a skryjete miniatury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each of the master slides shown in the &lt;f0&gt;Available for Use&lt;/f0&gt; section is from a template of the same name.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Každý z hlavních snímků zobrazených v&lt;f0&gt; K dispozici pro použití&lt;/f0&gt; sekce je ze šablony se stejným názvem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These presentation templates are included when install LibreOffice on your computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto prezentační šablony jsou zahrnuty při instalaci LibreOffice do počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;Working with templates&lt;/bf1&gt;” on page &lt;bf2&gt;26&lt;/bf2&gt;&lt;s3/&gt;for more information about templates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf1&gt; Práce se šablonami&lt;/bf1&gt; “ na stránce&lt;bf2&gt; 26&lt;/bf2&gt;&lt;s3/&gt; Další informace o šablonách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have decided to create a new presentation without using one of the templates available (see Chapter 1 Introducing Impress for more information), then a default master slide is available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste se rozhodli vytvořit novou prezentaci bez použití jedné z dostupných šablon (další informace viz Kapitola 1 Představení Impressu), je k dispozici výchozí hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This default master slide is a good starting point for creating master slides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento výchozí hlavní snímek je dobrým výchozím bodem pro vytváření hlavních snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of the default master slide is shown in Figure &lt;t0&gt;2&lt;/t0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad výchozího hlavního snímku je uveden na obrázku&lt;t0&gt; 2&lt;/t0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Master Slides deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 1&lt;/seq0&gt; : Master Slides deck na postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Default master slide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 2&lt;/seq0&gt; : Výchozí hlavní snímek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Master View toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 3&lt;/seq0&gt; : Panel nástrojů Master View</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Rename Slide dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 4&lt;/seq0&gt; : Přejmenovat diapozitiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating a new master slide is carried out when Impress is in &lt;f0&gt;Master View&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvoření nového hlavního snímku se provádí, když je Impress uvnitř&lt;f0&gt; Hlavní pohled&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the main menu bar to open &lt;f1&gt;Master View&lt;/f1&gt; in the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Hlavní snímek&lt;/f0&gt; na liště hlavní nabídky&lt;f1&gt; Hlavní pohled&lt;/f1&gt; v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f2&gt;Master View&lt;/f2&gt; toolbar also opens (Figure &lt;t3&gt;3&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The&lt;f2&gt; Hlavní pohled&lt;/f2&gt; také se otevře panel nástrojů (obr&lt;t3&gt; 3&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the &lt;f4&gt;Master View&lt;/f4&gt; toolbar does not open, go to &lt;f5&gt;View &gt; Toolbars&lt;/f5&gt; on the main menu bar and select &lt;f6&gt;Master View&lt;/f6&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud&lt;f4&gt; Hlavní pohled&lt;/f4&gt; panel nástrojů se neotevře, přejděte na&lt;f5&gt; Zobrazit &gt; Panely nástrojů&lt;/f5&gt; na liště hlavní nabídky a vyberte&lt;f6&gt; Hlavní pohled&lt;/f6&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new master slide using one of the following methods and a new master slide appears in the Slides Pane:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nový hlavní snímek pomocí jedné z následujících metod a v podokně snímků se objeví nový hlavní snímek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;New Master&lt;/f0&gt; icon in the &lt;f1&gt;Master View&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Nový pán&lt;/f0&gt; ikona v&lt;f1&gt; Hlavní pohled&lt;/f1&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on a master slide in the Slides Pane and select &lt;f0&gt;New Master&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na hlavní snímek v panelu Prezentace a vyberte&lt;f0&gt; Nový pán&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Slide &gt; New Master&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Snímek &gt; Nový mistr&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rename the new master slide using one of the following methods and open the &lt;f0&gt;Rename Slide&lt;/f0&gt; dialog (Figure &lt;t1&gt;4&lt;/t1&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejmenujte nový hlavní snímek pomocí jedné z následujících metod a otevřete&lt;f0&gt; Přejmenovat snímek&lt;/f0&gt; dialogové okno (obr&lt;t1&gt; 4&lt;/t1&gt; ):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Rename Master&lt;/f0&gt; icon in the &lt;f1&gt;Master View&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Přejmenovat mistra&lt;/f0&gt; ikona v&lt;f1&gt; Hlavní pohled&lt;/f1&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the new master slide in the Slides Pane and select &lt;f0&gt;Rename Master&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na nový hlavní snímek v podokně snímků a vyberte&lt;f0&gt; Přejmenovat mistra&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a memorable name for your new master slide in the &lt;f0&gt;Name&lt;/f0&gt; text box, then click on &lt;f1&gt;OK&lt;/f1&gt; to save your changes and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte nezapomenutelný název nového hlavního snímku do složky&lt;f0&gt; název&lt;/f0&gt; textové pole a poté klikněte na&lt;f1&gt; OK&lt;/f1&gt; uložit změny a zavřít dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure your new master slide is selected in the Slides Pane and add all the text, graphics and master elements that you want to use for your new master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je v podokně snímků vybrán váš nový hlavní snímek, a přidejte veškerý text, grafiku a hlavní prvky, které chcete pro nový hlavní snímek použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The chapters in this user guide give you more information on adding, editing, formatting and managing the different types of objects on your master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitoly v této uživatelské příručce vám poskytnou více informací o přidávání, úpravách, formátování a správě různých typů objektů na hlavním snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When finished creating your new master slide, use one of the following methods to return to &lt;f0&gt;Normal View&lt;/f0&gt;:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení vytváření nového hlavního snímku se k návratu použijte jednu z následujících metod&lt;f0&gt; Normální zobrazení&lt;/f0&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the &lt;f1&gt;Master View&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Zavřete hlavní pohled&lt;/f0&gt; na&lt;f1&gt; Hlavní pohled&lt;/f1&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Normal&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Normální&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To apply a master slide to all slides or selected slides in your presentation:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup použití hlavního snímku na všechny snímky nebo vybrané snímky v prezentaci:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Master Slides&lt;/f0&gt; icon to open the &lt;f1&gt;Master Slides&lt;/f1&gt; deck on the Sidebar (Figure &lt;t2&gt;1&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;6&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Hlavní snímky&lt;/f0&gt; ikona pro otevření&lt;f1&gt; Hlavní snímky&lt;/f1&gt; paluba na bočním panelu (obrázek&lt;t2&gt; 1&lt;/t2&gt;&lt;s3/&gt; na stránce&lt;t4&gt; 6&lt;/t4&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the master slide you want to use in the &lt;f0&gt;Used in This Presentation&lt;/f0&gt; section in the &lt;f1&gt;Master Slides&lt;/f1&gt; deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na hlavní snímek, který chcete použít v&lt;f0&gt; Používá se v této prezentaci&lt;/f0&gt; část v&lt;f1&gt; Hlavní snímky&lt;/f1&gt; balíček na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Apply to All Slides&lt;/f0&gt; or &lt;f1&gt;Apply to Selected Slides &lt;/f1&gt;from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Použít na všechny snímky&lt;/f0&gt; nebo&lt;f1&gt; Použít na vybrané snímky&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In a presentation, you may need to mix multiple master slides that may belong to different templates (for more information, see “&lt;bf0&gt;Working with templates&lt;/bf0&gt;” on page &lt;bf1&gt;26&lt;/bf1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V prezentaci možná budete muset smíchat více vzorových snímků, které mohou patřit do různých šablon (další informace viz „&lt;bf0&gt; Práce se šablonami&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 26&lt;/bf1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you may want a completely different layout for the first slide of the presentation, or want to add a slide from a different presentation to your current presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete například chtít úplně jiné rozvržení pro první snímek prezentace nebo chcete do aktuální prezentace přidat snímek z jiné prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the slide or slides in the Slides Pane where you want to change the master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte snímek nebo snímky v podokně snímků, kde chcete změnit hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Available Master Slides dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 5&lt;/seq0&gt; : Dostupné dialogové okno Hlavní snímky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Load Master Slide dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 6&lt;/seq0&gt; : Dialog Načíst hlavní snímek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Slide &gt; Change Slide Master&lt;/f0&gt; on the main menu bar to open the &lt;f1&gt;Available Master Slides&lt;/f1&gt; dialog (Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Snímek &gt; Změnit předlohu snímků&lt;/f0&gt; na liště hlavní nabídky otevřete&lt;f1&gt; K dispozici hlavní snímky&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 5&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add master slides, click on &lt;f0&gt;Load&lt;/f0&gt; to open the &lt;f1&gt;Load Master Slide&lt;/f1&gt; dialog (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat hlavní snímky, klikněte na&lt;f0&gt; Zatížení&lt;/f0&gt; otevřít&lt;f1&gt; Načíst hlavní snímek&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 6&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Load Master Slide&lt;/f0&gt; dialog, select the template category and the template from which to load the master slide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V&lt;f0&gt; Načíst hlavní snímek&lt;/f0&gt; V dialogovém okně vyberte kategorii šablony a šablonu, ze které se má načíst hlavní snímek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the &lt;f1&gt;Load Master Slide&lt;/f1&gt; dialog and the master slides from the selected template appear in the &lt;f2&gt;Available Master Slides&lt;/f2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; zavřít&lt;f1&gt; Načíst hlavní snímek&lt;/f1&gt; V dialogovém okně se zobrazí dialogové okno a hlavní snímky z vybrané šablony&lt;f2&gt; K dispozici hlavní snímky&lt;/f2&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the master slide you want to use in &lt;f0&gt;Select a Slide Design&lt;/f0&gt; box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte hlavní snímek, ve kterém chcete použít&lt;f0&gt; Vyberte snímek&lt;/f0&gt; krabice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To apply the selected master slide to all slides in your presentation, select the &lt;f0&gt;Exchange background page&lt;/f0&gt; check box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybraný hlavní snímek použít na všechny snímky v prezentaci, vyberte ikonu&lt;f0&gt; Výměna pozadí&lt;/f0&gt; zaškrtávací políčko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To apply the slide design to the selected slides only, deselect the &lt;f0&gt;Exchange background page&lt;/f0&gt; check box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li použít design snímku pouze na vybrané snímky, zrušte výběr&lt;f0&gt; Výměna pozadí&lt;/f0&gt; zaškrtávací políčko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to apply your selection to the slides and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; použít výběr na snímky a zavřít dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following items can be changed on a master slide:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na hlavním snímku lze změnit následující položky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background (color, gradient, hatching, or bitmap).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozadí (barva, přechod, šrafování nebo bitmapa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Selecting and applying backgrounds&lt;/bf0&gt;” on page &lt;bf1&gt;11&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf0&gt; Výběr a použití pozadí&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 11&lt;/bf1&gt;&lt;s2/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background objects (for example, adding a logo or decorative graphics), See “&lt;bf0&gt;Adding images&lt;/bf0&gt;” on page &lt;bf1&gt;12&lt;/bf1&gt;, Chapter 4 Adding and Formatting Pictures, Chapter 5 Managing Graphic Objects, and Chapter 6 Formatting Graphic Objects for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekty na pozadí (například přidání loga nebo dekorativní grafiky), viz „&lt;bf0&gt; Přidávání obrázků&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 12&lt;/bf1&gt; , Kapitola 4 Přidávání a formátování obrázků, Kapitola 5 Správa grafických objektů a Kapitola 6 Formátování grafických objektů, kde najdete další informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text attributes for the main text area and notes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Atributy textu pro hlavní textovou oblast a poznámky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Adding text and fields&lt;/bf0&gt;” on page &lt;bf1&gt;18&lt;/bf1&gt;&lt;s2/&gt;and Chapter 3 Adding and Formatting Text for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf0&gt; Přidávání textu a polí&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 18&lt;/bf1&gt;&lt;s2/&gt; a Kapitola 3 Přidávání a formátování textu, kde najdete další informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Size, placement, and contents of header and footer elements to appear on every slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velikost, umístění a obsah prvků záhlaví a zápatí, které se zobrazí na každém snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Size and placement of default frames for slide titles and content.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Velikost a umístění výchozích rámečků pro názvy snímků a obsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Default text areas&lt;/bf0&gt;” on page &lt;bf1&gt;13&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf0&gt; Výchozí textové oblasti&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 13&lt;/bf1&gt;&lt;s2/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing a master slide is as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy hlavního snímku jsou následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; from the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Zobrazit &gt; Hlavní snímek&lt;/f0&gt; z hlavního panelu nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This also opens the &lt;f1&gt;Master View&lt;/f1&gt; toolbar (Figure &lt;t2&gt;3&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;7&lt;/t4&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se také otevře&lt;f1&gt; Hlavní pohled&lt;/f1&gt; panel nástrojů (obrázek&lt;t2&gt; 3&lt;/t2&gt;&lt;s3/&gt; na stránce&lt;t4&gt; 7&lt;/t4&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a master slide you want to edit in the Slides Pane so that it appears in the Workspace (Figure &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V podokně snímků vyberte hlavní snímek, který chcete upravit, aby se zobrazil v pracovním prostoru (obrázek&lt;t0&gt; 7&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Slide &gt; Properties&lt;/f0&gt; on the main menu bar or right-click in the Workspace and select &lt;f1&gt;Properties&lt;/f1&gt; from the context menu to open the &lt;f2&gt;Slide Setup&lt;/f2&gt; dialog (Figure &lt;t3&gt;8&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Snímek &gt; Vlastnosti&lt;/f0&gt; na liště hlavní nabídky nebo klikněte pravým tlačítkem do pracovního prostoru a vyberte&lt;f1&gt; Vlastnosti&lt;/f1&gt; z kontextové nabídky otevřete&lt;f2&gt; Nastavení snímku&lt;/f2&gt; dialogové okno (obr&lt;t3&gt; 8&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various options in the &lt;f0&gt;Slide&lt;/f0&gt;, &lt;f1&gt;Background&lt;/f1&gt; and &lt;f2&gt;Transparency&lt;/f2&gt; pages in the &lt;f3&gt;Slide Setup&lt;/f3&gt; dialog to make changes to the format of your master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte různé možnosti v&lt;f0&gt; Skluzavka&lt;/f0&gt; ,&lt;f1&gt; Pozadí&lt;/f1&gt; a&lt;f2&gt; Průhlednost&lt;/f2&gt; stránky v&lt;f3&gt; Nastavení snímku&lt;/f3&gt; v dialogovém okně proveďte změny ve formátu hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the &lt;f1&gt;Slide Setup&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; uložit změny a zavřít&lt;f1&gt; Nastavení snímku&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an object on the master slide, then right-click on the object to open a context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt na hlavním snímku a poté klepnutím pravým tlačítkem na objekt otevřete místní nabídku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Master slide view</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 7&lt;/seq0&gt; : Hlavní zobrazení snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Slide Setup dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 8&lt;/seq0&gt; : Dialog Nastavení snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select one of the options from the context menu to edit the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte jednu z možností z místní nabídky a upravte objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting an option may open another context menu, a dialog, an application or file browser window so you can make the necessary changes to your selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběrem možnosti můžete otevřít další kontextové menu, dialogové okno, okno aplikace nebo prohlížeče souborů, abyste mohli ve vybraném objektu provést potřebné změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Close Master View&lt;/f0&gt; on the &lt;f1&gt;Master View&lt;/f1&gt; toolbar (Figure &lt;t2&gt;3&lt;/t2&gt;&lt;s3/&gt;on page &lt;t4&gt;7&lt;/t4&gt;) or go to &lt;f5&gt;View &gt; Normal&lt;/f5&gt; on the main menu bar to exit from editing master slides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Zavřete hlavní pohled&lt;/f0&gt; na&lt;f1&gt; Hlavní pohled&lt;/f1&gt; panel nástrojů (obrázek&lt;t2&gt; 3&lt;/t2&gt;&lt;s3/&gt; na stránce&lt;t4&gt; 7&lt;/t4&gt; ) nebo přejděte na&lt;f5&gt; Zobrazit &gt; Normální&lt;/f5&gt; na liště hlavní nabídky ukončíte úpravy hlavních snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any changes made to a master slide when in &lt;f0&gt;Master Slide&lt;/f0&gt; view will appear on all slides using the same master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré změny provedené na hlavním snímku, když jsou v něm&lt;f0&gt; Master Slide&lt;/f0&gt; zobrazení se zobrazí na všech snímcích pomocí stejného hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Always make sure you close &lt;f1&gt;Master Slide&lt;/f1&gt; view and return to &lt;f2&gt;Normal&lt;/f2&gt; view before working on any of the presentation slides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vždy se ujistěte, že jste blízko&lt;f1&gt; Master Slide&lt;/f1&gt; zobrazit a vrátit se do&lt;f2&gt; Normální&lt;/f2&gt; zobrazit před prací na kterémkoli z prezentačních snímků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any changes made to any object on a slide in &lt;f0&gt;Normal&lt;/f0&gt; view (for example, changes to bullet point style, color of the title area, and so on) will not be overridden by subsequent changes made to the master slide used for that slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré změny provedené v jakémkoli objektu na snímku&lt;f0&gt; Normální&lt;/f0&gt; zobrazení (například změny stylu odrážek, barvy oblasti nadpisu atd.) nebudou přepsány následnými změnami provedenými v hlavním snímku použitém pro tento snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, where it is desirable to revert the formatting of a manually formatted object on a slide to the style defined in the master slide, select the object on the slide and use one of the following methods to change the formatting:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je však žádoucí vrátit formátování ručně formátovaného objektu na snímku na styl definovaný v hlavním snímku, vyberte objekt na snímku a změňte formátování jednou z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Vymazat přímé formátování&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on an object and select &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na objekt a vyberte&lt;f0&gt; Vymazat přímé formátování&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the contents of a slide, you may want to apply a different layout.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na obsahu snímku možná budete chtít použít jiné rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The title and text boxes inherit the properties of a master slide, but if you have changed the position of these text boxes in the master slide, the layout may appear corrupted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nadpis a textová pole dědí vlastnosti hlavního snímku, ale pokud jste změnili umístění těchto textových polí v hlavním snímku, může se rozvržení zdát poškozené.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may need to re-position some of the layout elements manually on a slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možná budete muset některé prvky rozvržení přemístit ručně na snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Backgrounds can be applied to a number of elements in Impress (for example: slide, default text area, image and so on).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pozadí lze aplikovat na řadu prvků v aplikaci Impress (například: snímek, výchozí textová oblast, obrázek atd.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The procedure is similar when applying a background to a slide or an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup je obdobný při aplikaci pozadí na snímek nebo objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Zobrazit &gt; Hlavní snímek&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a master slide you want to edit in the Slides Pane so that it appears in the Workspace (Figure &lt;t0&gt;7&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;10&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V podokně snímků vyberte hlavní snímek, který chcete upravit, aby se zobrazil v pracovním prostoru (obrázek&lt;t0&gt; 7&lt;/t0&gt;&lt;s1/&gt; na stránce&lt;t2&gt; 10&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Slide &gt; Properties&lt;/f0&gt; on the main menu bar or right-click in the Workspace and select &lt;f1&gt;Properties&lt;/f1&gt; from the context menu to open the &lt;f2&gt;Slide Setup&lt;/f2&gt; dialog (Figure &lt;t3&gt;8&lt;/t3&gt;&lt;s4/&gt;on page &lt;t5&gt;10&lt;/t5&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Snímek &gt; Vlastnosti&lt;/f0&gt; na liště hlavní nabídky nebo klikněte pravým tlačítkem do pracovního prostoru a vyberte&lt;f1&gt; Vlastnosti&lt;/f1&gt; z kontextové nabídky otevřete&lt;f2&gt; Nastavení snímku&lt;/f2&gt; dialogové okno (obr&lt;t3&gt; 8&lt;/t3&gt;&lt;s4/&gt; na stránce&lt;t5&gt; 10&lt;/t5&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Background&lt;/f0&gt; tab to open the &lt;f1&gt;Background&lt;/f1&gt; page (Figure &lt;t2&gt;9&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Pozadí&lt;/f0&gt; kartu otevřete&lt;f1&gt; Pozadí&lt;/f1&gt; stránka (Obrázek&lt;t2&gt; 9&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the type of background required from &lt;f0&gt;Color&lt;/f0&gt;, &lt;f1&gt;Gradient&lt;/f1&gt;, &lt;f2&gt;Bitmap&lt;/f2&gt;, &lt;f3&gt;Pattern&lt;/f3&gt; and &lt;f4&gt;Hatch&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný typ pozadí&lt;f0&gt; Barva&lt;/f0&gt; ,&lt;f1&gt; Spád&lt;/f1&gt; ,&lt;f2&gt; Rastrový obrázek&lt;/f2&gt; ,&lt;f3&gt; Vzor&lt;/f3&gt; a&lt;f4&gt; Poklop&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 6 Formatting Graphic Objects for more information on how to use the options available for each type of background selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o tom, jak používat možnosti dostupné pro každý vybraný typ pozadí, najdete v kapitole 6 Formátování grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When satisfied with your background, click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the &lt;f1&gt;Slide Setup&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste spokojeni se svým pozadím, klikněte na&lt;f0&gt; OK&lt;/f0&gt; uložit změny a zavřít&lt;f1&gt; Nastavení snímku&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Background page in Slide Setup dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 9&lt;/seq0&gt; : Stránka na pozadí v dialogovém okně Nastavení snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Styles&lt;/f0&gt; icon on the Sidebar to open the &lt;f1&gt;Styles&lt;/f1&gt; deck.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Styly&lt;/f0&gt; ikonu na bočním panelu otevřete ikonu&lt;f1&gt; Styly&lt;/f1&gt; paluba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Presentation Styles&lt;/f0&gt; icon on the &lt;f1&gt;Styles&lt;/f1&gt; deck to open the &lt;f2&gt;Presentation Styles&lt;/f2&gt; list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Styly prezentace&lt;/f0&gt; ikona na&lt;f1&gt; Styly&lt;/f1&gt; paluba k otevření&lt;f2&gt; Styly prezentace&lt;/f2&gt; seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on &lt;f0&gt;Background&lt;/f0&gt; style and select &lt;f1&gt;Modify&lt;/f1&gt; from the context menu to open the &lt;f2&gt;Background&lt;/f2&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na&lt;f0&gt; Pozadí&lt;/f0&gt; styl a vyberte&lt;f1&gt; Upravit&lt;/f1&gt; z kontextové nabídky otevřete&lt;f2&gt; Pozadí&lt;/f2&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog has one tab (&lt;f3&gt;Area&lt;/f3&gt;) and offers the same options as the &lt;f4&gt;Background&lt;/f4&gt; page in the &lt;f5&gt;Slide Setup&lt;/f5&gt; dialog (Figure &lt;t6&gt;9&lt;/t6&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento dialog má jednu záložku (&lt;f3&gt; Plocha&lt;/f3&gt; ) a nabízí stejné možnosti jako&lt;f4&gt; Pozadí&lt;/f4&gt; stránka v&lt;f5&gt; Nastavení snímku&lt;/f5&gt; dialogové okno (obr&lt;t6&gt; 9&lt;/t6&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When satisfied with your background, click &lt;f0&gt;OK&lt;/f0&gt; to save your changes and close the &lt;f1&gt;Background&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste spokojeni se svým pozadím, klikněte na&lt;f0&gt; OK&lt;/f0&gt; uložit změny a zavřít&lt;f1&gt; Pozadí&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create custom fills to each type of background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro každý typ pozadí můžete vytvořit vlastní výplně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 6 Formatting Graphic Objects for more information on creating custom fills for each type of background.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vytváření vlastních výplní pro každý typ pozadí najdete v kapitole 6 Formátování grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you want the same image to appear on every slide of your presentation, the easiest and quickest solution is to use the master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete, aby se stejný obrázek objevil na každém snímku prezentace, nejjednodušším a nejrychlejším řešením je použít hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It saves time while creating the presentation allowing you to modify or reposition the image on all slides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šetří čas při vytváření prezentace a umožňuje upravit nebo přemístit obrázek na všech snímcích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the same image is added to each slide manually, modification and repositioning have to be performed on each individual slide in the presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je ke každému snímku přidán stejný obrázek ručně, je třeba provést úpravy a přemístění na každém jednotlivém snímku v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to images, you can add a number of other objects in the background, for example decorative lines, text, and shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kromě obrázků můžete na pozadí přidat řadu dalších objektů, například dekorativní čáry, text a tvary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice supports a large number of image and graphic formats.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice podporuje velké množství obrazových a grafických formátů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on working with images, see Chapter 4 Adding and Formatting Pictures, Chapter 5, Managing Graphic Objects and Chapter 6, Formatting Graphic Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o práci s obrázky najdete v kapitolách 4 Přidávání a formátování obrázků, Kapitola 5, Správa grafických objektů a Kapitola 6, Formátování grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, one of the most common actions in preparing a presentation is to add an image to the master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jednou z nejběžnějších akcí při přípravě prezentace je například přidání obrázku na hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert an image already available on the computer, follow these steps:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit obrázek, který je již v počítači k dispozici, postupujte takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the main menu bar to open master view in the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Zobrazit &gt; Hlavní snímek&lt;/f0&gt; na liště hlavní nabídky pro otevření hlavního pohledu v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the master slide where you want to add an image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte hlavní snímek, kam chcete přidat obrázek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Insert &gt; Image…&lt;/f0&gt; on the main menu bar to open the file browser.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Vložit &gt; Obrázek…&lt;/f0&gt; na liště hlavní nabídky otevřete prohlížeč souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the directory where your image is located and select it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do adresáře, kde se nachází váš obrázek, a vyberte jej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Open&lt;/f0&gt; and the image is placed into your master slide and the file browser closes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; otevřeno&lt;/f0&gt; a obrázek se vloží do hlavního snímku a prohlížeč souborů se zavře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, modify and/or reposition the image on your master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je-li to nutné, upravte nebo přemístěte obraz na hlavním snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the image and select &lt;f0&gt;Arrange &gt; Send to Back&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na obrázek a vyberte&lt;f0&gt; Uspořádat &gt; Odeslat dozadu&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This moves the image to the background so that any information you add to the slide when creating a presentation appears over the background image.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se obrázek přesune na pozadí, takže veškeré informace, které na snímek při vytváření prezentace přidáte, se zobrazí přes obrázek na pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice offers the option to insert an image as a link to the file rather than embedding it in your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice nabízí možnost vložit obrázek jako odkaz na soubor, místo aby jej vložil do vaší prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is only useful when a presentation is not intended for distribution onto other computers and it will remain in the same computer and directory structure.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To je užitečné pouze v případě, že prezentace není určena k distribuci do jiných počítačů a zůstane ve stejné struktuře počítače a adresáře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, it could be created on a notebook computer, which is then used to give the presentation to a group of clients.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mohlo by to být například vytvořeno na notebooku, který se pak použije k předání prezentace skupině klientů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if the presentation file is to be distributed onto other computers, the image must be embedded to avoid the “missing image” syndrome when the presentation is given using a different computer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud však má být soubor prezentace distribuován do jiných počítačů, musí být obraz vložen, aby se zabránilo syndromu „chybějícího obrazu“, když je prezentace poskytována na jiném počítači.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a master slide is opened for editing, it contains five default text areas, as shown in Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;7&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je hlavní snímek otevřen pro úpravy, obsahuje pět výchozích textových oblastí, jak je znázorněno na obrázku&lt;t0&gt; 2&lt;/t0&gt;&lt;s1/&gt; na stránce&lt;t2&gt; 7&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Title area for AutoLayouts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblast nadpisu pro automatické rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Object area for AutoLayouts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblast objektu pro automatické rozložení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Date area</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblast data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Footer area</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblast zápatí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide number area</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblast čísla snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click with the left mouse button on any of these areas to display the selection handles around the default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepnutím levým tlačítkem myši na kteroukoli z těchto oblastí zobrazíte úchyty výběru kolem výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use these selection handles to modify the size and position of a default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí těchto úchytů pro výběr můžete upravit velikost a pozici výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly change the position of a default text area:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rychlá změna polohy výchozí textové oblasti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the default text area you want to reposition so that the selection handles are visible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte výchozí textovou oblast, kterou chcete přemístit, aby byly viditelné úchyty výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the cursor toward the border of the default text area, not on a selection handle, and the cursor changes shape.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesuňte kurzor k okraji výchozí textové oblasti, nikoli na úchyt výběru, a kurzor změní tvar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cursor shape is dependent on your computer setup (normally a clenched hand).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tvar kurzoru závisí na nastavení vašeho počítače (obvykle zaťatá ruka).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the left mouse button and drag the default text are to the desired position, then release the left mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte levým tlačítkem myši a přetáhněte výchozí text do požadované polohy, poté uvolněte levé tlačítko myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To quickly change the shape and/or size of a default text area:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rychlá změna tvaru a / nebo velikosti výchozí textové oblasti:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position the cursor over a left or right selection handle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor na levý nebo pravý úchyt výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the left mouse button and drag the left or right selection handle to change the width of the default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím levého tlačítka myši a přetažením levého nebo pravého úchytu výběru změníte šířku výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position the cursor over a top or bottom selection handle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor na horní nebo dolní úchyt výběru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the left mouse button and drag the top or bottom selection handle to change the height of the default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na levé tlačítko myši a tažením za horní nebo dolní úchyt výběru změňte výšku výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position the cursor over a corner selection handle.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor na úchyt pro výběr rohu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the left mouse button and drag the corner selection handle to change both the height and width of the default text area at the same time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím levého tlačítka myši a tažením za rohovou rukojeť výběru změníte současně výšku i šířku výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the left mouse button when the default text area is the required width or height.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uvolněte levé tlačítko myši, když je výchozí textovou oblastí požadovaná šířka nebo výška.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shape of the mouse cursor usually changes shape when positioned over a selection handle giving a clear visual indication of how it will affect the shape of the default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tvar kurzoru myši obvykle mění tvar, když je umístěn nad popisovačem výběru, což poskytuje jasnou vizuální indikaci toho, jak to ovlivní tvar výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep the &lt;f0&gt;Shift&lt;/f0&gt; key pressed while dragging a selection handle to maintain the ratio between the width and height dimensions of the default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ponechat&lt;f0&gt; Posun&lt;/f0&gt; stisknutím klávesy při tažení úchytu výběru zachováte poměr mezi šířkou a výškou rozměrů výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To accurately control the shape, size and position of a default text area, it is recommended to use the &lt;f0&gt;Position and Size&lt;/f0&gt; dialog or the &lt;f1&gt;Position and Size&lt;/f1&gt; section in the &lt;f2&gt;Properties&lt;/f2&gt; deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro přesnou kontrolu tvaru, velikosti a polohy výchozí textové oblasti se doporučuje použít&lt;f0&gt; Poloha a velikost&lt;/f0&gt; dialog nebo&lt;f1&gt; Poloha a velikost&lt;/f1&gt; část v&lt;f2&gt; Vlastnosti&lt;/f2&gt; balíček na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the default text area by clicking on its border.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte výchozí textovou oblast kliknutím na její okraj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to access the options available for the position and size of a default text area:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K přístupu k dostupným možnostem pro umístění a velikost výchozí textové oblasti použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Object and Shape &gt; Position and Size&lt;/f0&gt; on the main menu bar to open the &lt;f1&gt;Position and Size&lt;/f1&gt; dialog (Figure &lt;t2&gt;10&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Objekt a tvar &gt; Poloha a velikost&lt;/f0&gt; na liště hlavní nabídky otevřete&lt;f1&gt; Poloha a velikost&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 10&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;F4&lt;/f0&gt; to open the &lt;f1&gt;Position and Size&lt;/f1&gt; dialog (Figure &lt;t2&gt;10&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku&lt;f0&gt; F4&lt;/f0&gt; otevřít&lt;f1&gt; Poloha a velikost&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 10&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the border of the default text area and select &lt;f0&gt;Position and Size&lt;/f0&gt; from the context menu to open the &lt;f1&gt;Position and Size&lt;/f1&gt; dialog (Figure &lt;t2&gt;10&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na okraj výchozí textové oblasti a vyberte&lt;f0&gt; Poloha a velikost&lt;/f0&gt; z kontextové nabídky otevřete&lt;f1&gt; Poloha a velikost&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 10&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Properties&lt;/f0&gt; icon on the Sidebar and open the &lt;f1&gt;Properties&lt;/f1&gt; deck, then open the &lt;f2&gt;Position and Size&lt;/f2&gt; section (Figure &lt;t3&gt;11&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Vlastnosti&lt;/f0&gt; ikonu na bočním panelu a otevřete ikonu&lt;f1&gt; Vlastnosti&lt;/f1&gt; balíček, pak otevřete&lt;f2&gt; Poloha a velikost&lt;/f2&gt; část (Obrázek&lt;t3&gt; 11&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The functions of the &lt;f0&gt;Position and Size&lt;/f0&gt; options are explained fully in the &lt;f1&gt;Draw Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Funkce&lt;f0&gt; Poloha a velikost&lt;/f0&gt; možnosti jsou plně vysvětleny v&lt;f1&gt; Nakreslete průvodce&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only short descriptions of the most important functions are provided in this chapter of the &lt;f2&gt;Impress Guide&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V této kapitole dokumentu je uveden pouze krátký popis nejdůležitějších funkcí&lt;f2&gt; Průvodce Impress&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Position&lt;/f0&gt; to specify the X (horizontal) and Y (vertical) position of the default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití&lt;f0&gt; Pozice&lt;/f0&gt; k určení polohy X (vodorovně) a Y (svisle) výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The values represent the distance of the selected base point and the default position is the top left corner of the slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hodnoty představují vzdálenost vybraného základního bodu a výchozí poloha je levý horní roh snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;f0&gt;Size&lt;/f0&gt; to specify the width and height of the default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití&lt;f0&gt; Velikost&lt;/f0&gt; k určení šířky a výšky výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Position and Size&lt;/f0&gt; dialog only, the &lt;f1&gt;Base point&lt;/f1&gt; section allows you to select a point on the rectangular area that you do not want to move while resizing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V&lt;f0&gt; Poloha a velikost&lt;/f0&gt; pouze dialogové okno&lt;f1&gt; Základní bod&lt;/f1&gt; Sekce umožňuje vybrat bod na obdélníkové ploše, který nechcete při změně velikosti přesunout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default setting of top left corner means that the position of the top left corner of the area will not change after resizing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí nastavení levého horního rohu znamená, že se poloha levého horního rohu oblasti po změně velikosti nezmění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Rotation&lt;/f0&gt; page to rotate the default text area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte&lt;f0&gt; Otáčení&lt;/f0&gt; stránku otočit výchozí textovou oblast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you can place the footer area on the side by rotating each text area by 90 degrees and obtain a more modern-looking layout.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete například umístit oblast zápatí na stranu otočením každé textové oblasti o 90 stupňů a získat modernější rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In general it is preferable to use only right angles for ease of editing, although the program does not impose restrictions on the values that can be used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obecně je pro usnadnění úprav vhodnější používat pouze pravé úhly, i když program neomezuje na hodnoty, které lze použít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;f0&gt;Slant &amp; Corner Radius&lt;/f0&gt; page to add a corner radius to a text box border only if a visible line style has been selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte&lt;f0&gt; Šikmý a rohový poloměr&lt;/f0&gt; stránka pro přidání poloměru rohu k okraji textového pole, pouze pokud byl vybrán viditelný styl čáry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The slant options works are only available for images or shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti šikmých voleb jsou k dispozici pouze pro obrázky nebo tvary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Position and Size dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 10&lt;/seq0&gt; : Dialog Pozice a velikost</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Position and Size section in Properties on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 11&lt;/seq0&gt; : Sekce Pozice a velikost v Vlastnosti na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Area dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 12&lt;/seq0&gt; : Dialogové okno Oblast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Area section in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 13&lt;/seq0&gt; : Oblast v paletě Vlastnosti na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The background, border of default text areas and the alignment of default text areas with other objects on the master slide can be modified.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze upravit pozadí, ohraničení výchozích textových oblastí a zarovnání výchozích textových oblastí s jinými objekty na hlavním snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the type of area fill used for backgrounds in a default text area using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí jedné z následujících metod můžete změnit typ výplně oblasti použitý pro pozadí ve výchozí textové oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 6, Formatting Graphic Objects for more information on changing backgrounds.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o změně pozadí najdete v kapitole 6, Formátování grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Object and Shape &gt; Area&lt;/f0&gt; on the main menu bar to open the &lt;f1&gt;Area&lt;/f1&gt; dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Objekt a tvar &gt; Oblast&lt;/f0&gt; na liště hlavní nabídky otevřete&lt;f1&gt; Plocha&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 12&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options available in this dialog will depend on the type of area fill selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti dostupné v tomto dialogu budou záviset na vybraném typu vyplnění oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the default text area and select &lt;f0&gt;Area&lt;/f0&gt; from the context menu to open the &lt;f1&gt;Area&lt;/f1&gt; dialog (Figure &lt;t2&gt;12&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravým tlačítkem klikněte na výchozí textovou oblast a vyberte&lt;f0&gt; Plocha&lt;/f0&gt; z kontextové nabídky otevřete&lt;f1&gt; Plocha&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 12&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Properties&lt;/f0&gt; icon on the Sidebar and open the &lt;f1&gt;Properties&lt;/f1&gt; deck, then open the &lt;f2&gt;Area&lt;/f2&gt; section (Figure &lt;t3&gt;13&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Vlastnosti&lt;/f0&gt; ikonu na bočním panelu a otevřete ikonu&lt;f1&gt; Vlastnosti&lt;/f1&gt; balíček, pak otevřete&lt;f2&gt; Plocha&lt;/f2&gt; část (Obrázek&lt;t3&gt; 13&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options available in this section will depend on the type of area fill selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti dostupné v této části budou záviset na vybraném typu vyplnění oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Line section in Properties deck on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 15&lt;/seq0&gt; : Řádek v paletě Vlastnosti na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the type of line used for borders in a default text area using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změňte typ čáry použité pro ohraničení ve výchozí textové oblasti pomocí jedné z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 6 Formatting Graphic Objects for more information on changing borders.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o změně okrajů najdete v kapitole 6 Formátování grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Object and Shape &gt; Line&lt;/f0&gt; on the main menu bar to open the &lt;f1&gt;Line&lt;/f1&gt; dialog (Figure &lt;t2&gt;14&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Objekt a tvar &gt; Čára&lt;/f0&gt; na liště hlavní nabídky otevřete&lt;f1&gt; Čára&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 14&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options available in this dialog will depend on the type of line selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti dostupné v tomto dialogu budou záviset na typu vybraného řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the object and select &lt;f0&gt;Line&lt;/f0&gt; from the context menu to open the &lt;f1&gt;Line&lt;/f1&gt; dialog (Figure &lt;t2&gt;14&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na objekt a vyberte&lt;f0&gt; Čára&lt;/f0&gt; z kontextové nabídky otevřete&lt;f1&gt; Čára&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 14&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Properties&lt;/f0&gt; icon on the Sidebar and open the &lt;f1&gt;Properties&lt;/f1&gt; deck, then open the &lt;f2&gt;Line&lt;/f2&gt; section (Figure &lt;t3&gt;15&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Vlastnosti&lt;/f0&gt; ikonu na bočním panelu a otevřete ikonu&lt;f1&gt; Vlastnosti&lt;/f1&gt; balíček, pak otevřete&lt;f2&gt; Čára&lt;/f2&gt; část (Obrázek&lt;t3&gt; 15&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The options available in this section will depend on the type of line selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti dostupné v této části budou záviset na typu vybrané linky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the alignment of default text area in relation to its position on a master slide or the alignment between a default text area and other objects on a master slide using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změňte zarovnání výchozí textové oblasti ve vztahu k její poloze na hlavním snímku nebo zarovnání mezi výchozí textovou oblastí a jinými objekty na hlavním snímku pomocí jedné z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 5 Managing Graphic Objects for more information on changing alignment of default text areas.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o změně zarovnání výchozích textových oblastí najdete v kapitole 5 Správa grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Align&lt;/f0&gt; on the main menu bar and select the type of alignment from the options available in the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Zarovnat&lt;/f0&gt; na liště hlavní nabídky a vyberte typ zarovnání z možností dostupných v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the object and select &lt;f0&gt;Align&lt;/f0&gt; from the context menu, then select the type of alignment from the options available in the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na objekt a vyberte&lt;f0&gt; Zarovnat&lt;/f0&gt; z místní nabídky a poté vyberte typ zarovnání z možností dostupných v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle to the right of the &lt;f0&gt;Align&lt;/f0&gt; icon on the &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar and select the type of alignment from the options available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na malý trojúhelník napravo od&lt;f0&gt; Zarovnat&lt;/f0&gt; ikona na&lt;f1&gt; Čára a plnění&lt;/f1&gt; panelu nástrojů a vyberte typ zarovnání z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Arrange the position of an object on a slide in relation to other objects on a slide using one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uspořádejte polohu objektu na snímku ve vztahu k ostatním objektům na snímku pomocí jedné z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 5 Managing Graphic Objects for more information on changing position of default text areas in relation to other objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o změně polohy výchozích textových oblastí ve vztahu k ostatním objektům najdete v kapitole 5 Správa grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Arrange&lt;/f0&gt; on the main menu bar and select the type of arrangement from the options available in the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Uspořádat&lt;/f0&gt; na liště hlavní nabídky a vyberte typ uspořádání z možností dostupných v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the object and select &lt;f0&gt;Arrange&lt;/f0&gt; from the context menu, then select the type of arrangement from the options available in the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na objekt a vyberte&lt;f0&gt; Uspořádat&lt;/f0&gt; z kontextové nabídky, poté vyberte typ uspořádání z možností dostupných v kontextové nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the required arrangement icon on the left of the &lt;f0&gt;Line and Filling&lt;/f0&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu požadovaného uspořádání na levé straně&lt;f0&gt; Čára a plnění&lt;/f0&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding text and fields to a master slide allows you to place information that you want to appear on all the slides in your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidání textu a polí na hlavní snímek umožňuje umístit informace, které se mají zobrazit na všechny snímky v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example a presentation title, company name and logo, date and slide number.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například název prezentace, název a logo společnosti, datum a číslo snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on adding and formatting text and fields, see Chapter 3 Adding and Formatting Text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o přidávání a formátování textu a polí najdete v kapitole 3 Přidávání a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text objects can be placed anywhere on the master page so that it appears on every slide in your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textové objekty lze umístit kdekoli na stránce předlohy tak, aby se zobrazovaly na každém snímku vaší prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text objects can also be placed in the footer if you do not want to use the default fields in the footer of your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textové objekty lze také umístit do zápatí, pokud nechcete použít výchozí pole v zápatí prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Master Slide&lt;/f0&gt; on the main menu bar to open the master slide view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Hlavní snímek&lt;/f0&gt; na liště hlavní nabídky otevřete hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the master slide where you want to add a text object so that it appears in the Workspace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte hlavní snímek, kam chcete přidat textový objekt tak, aby se zobrazil v pracovním prostoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Insert Text Box&lt;/f0&gt; icon on the &lt;f1&gt;Standard&lt;/f1&gt; or &lt;f2&gt;Drawing&lt;/f2&gt; toolbar, go to &lt;f3&gt;Insert &gt; Text Box&lt;/f3&gt; on the main menu bar, or press the &lt;f4&gt;F2&lt;/f4&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Vložte textové pole&lt;/f0&gt; ikona na&lt;f1&gt; Standard&lt;/f1&gt; nebo&lt;f2&gt; Výkres&lt;/f2&gt; panel nástrojů, přejděte na&lt;f3&gt; Vložit &gt; Textové pole&lt;/f3&gt; na liště hlavní nabídky nebo stiskněte&lt;f4&gt; F2&lt;/f4&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;f5&gt;Text Formatting&lt;/f5&gt; toolbar (Figure &lt;t6&gt;16&lt;/t6&gt;) automatically opens replacing the &lt;f7&gt;Line and Filling&lt;/f7&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>The&lt;f5&gt; Formátování textu&lt;/f5&gt; panel nástrojů (obrázek&lt;t6&gt; 16&lt;/t6&gt; ) se automaticky otevře a nahradí&lt;f7&gt; Čára a plnění&lt;/f7&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click once on the master slide so that a text object is created and there is a flashing cursor inside the text object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedním kliknutím na hlavní snímek vytvoříte textový objekt a uvnitř textového objektu bude blikající kurzor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type or paste your text into the text object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte nebo vložte text do textového objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Text Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 16&lt;/seq0&gt; : Panel nástrojů Formátování textu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Header and footer dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 17&lt;/seq0&gt; : Dialog záhlaví a zápatí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format the text after placing it on your master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po umístění na hlavní snímek text naformátujte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3 Adding and Formatting Text for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 3 Přidávání a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click outside the text object to close the &lt;f0&gt;Text Formatting&lt;/f0&gt; toolbar and reopen the &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím mimo textový objekt zavřete&lt;f0&gt; Formátování textu&lt;/f0&gt; panel nástrojů a znovu otevřete soubor&lt;f1&gt; Čára a plnění&lt;/f1&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Close Master&lt;/f0&gt; View on the &lt;f1&gt;Master View&lt;/f1&gt; toolbar or go to &lt;f2&gt;View &gt; Normal&lt;/f2&gt; on the main menu bar when you have completed adding and formatting text to your master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Zavřete mistře&lt;/f0&gt; Zobrazit na&lt;f1&gt; Hlavní pohled&lt;/f1&gt; panel nástrojů nebo přejděte na&lt;f2&gt; Zobrazit &gt; Normální&lt;/f2&gt; po dokončení přidání a formátování textu na hlavní snímek na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the footer used in a slide consists of three sections (Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;7&lt;/t2&gt;) with each section containing a default field as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení se zápatí použité na snímku skládá ze tří částí (obrázek&lt;t0&gt; 2&lt;/t0&gt;&lt;s1/&gt; na stránce&lt;t2&gt; 7&lt;/t2&gt; ), přičemž každá část obsahuje výchozí pole takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left section – date and time and is labelled &lt;f0&gt;Date Area&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Levá část - datum a čas a je označena&lt;f0&gt; Oblast data&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Field name is &lt;f1&gt;&lt;date/time&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název pole je&lt;f1&gt;&lt;date/time&gt;&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Center section – footer text and is labelled &lt;f0&gt;Footer Area&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Střední část - text zápatí a je označen štítkem&lt;f0&gt; Oblast zápatí&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Field name is &lt;f1&gt;&lt;footer&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název pole je&lt;f1&gt;&lt;footer&gt;&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section could be the presentation title, file name and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V této části může být název prezentace, název souboru atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right section – slide number and is labelled &lt;f0&gt;Slide Number Area&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pravá část - číslo snímku a je označena&lt;f0&gt; Oblast čísel snímků&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Field name is &lt;f1&gt;&lt;number&gt;&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název pole je&lt;f1&gt;&lt;number&gt;&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default footer fields are set up as follows using the &lt;f0&gt;Header and Footer&lt;/f0&gt; dialog (Figure &lt;t1&gt;17&lt;/t1&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí pole zápatí jsou nastavena následujícím způsobem pomocí&lt;f0&gt; Záhlaví a zápatí&lt;/f0&gt; dialogové okno (obr&lt;t1&gt; 17&lt;/t1&gt; ):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Header and Footer&lt;/f0&gt; on the main menu bar to open the &lt;f1&gt;Header and Footer&lt;/f1&gt; dialog (Figure &lt;t2&gt;17&lt;/t2&gt;) and select the &lt;f3&gt;Slides&lt;/f3&gt; tab to open the options available for setting up the footer default fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Záhlaví a zápatí&lt;/f0&gt; na liště hlavní nabídky otevřete&lt;f1&gt; Záhlaví a zápatí&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 17&lt;/t2&gt; ) a vyberte&lt;f3&gt; Snímky&lt;/f3&gt; na kartě otevřete možnosti dostupné pro nastavení výchozích polí zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Date and Time&lt;/f0&gt; for the date and time to appear in the left section of the footer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Datum a čas&lt;/f0&gt; datum a čas se zobrazí v levé části zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a fixed date and time in the left footer section, select &lt;f0&gt;Fixed&lt;/f0&gt; and enter the date you want to use in the &lt;f1&gt;Fixed&lt;/f1&gt; text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro pevné datum a čas v levé zápatí vyberte&lt;f0&gt; Pevný&lt;/f0&gt; a zadejte datum, které chcete použít v&lt;f1&gt; Pevný&lt;/f1&gt; Textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a variable date and time in the left footer section, select &lt;f0&gt;Variable&lt;/f0&gt;, then select the format and language you want to use from the &lt;f1&gt;Format&lt;/f1&gt; and &lt;f2&gt;Language&lt;/f2&gt; drop down lists.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro proměnné datum a čas v levé zápatí vyberte&lt;f0&gt; Variabilní&lt;/f0&gt; , pak vyberte formát a jazyk, který chcete použít z&lt;f1&gt; Formát&lt;/f1&gt; a&lt;f2&gt; Jazyk&lt;/f2&gt; rozevírací seznamy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a variable date and time means that each time the presentation is opened, the date and time are updated.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití proměnného data a času znamená, že při každém otevření prezentace se datum a čas aktualizují.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To place text in the footer center section, select &lt;f0&gt;Footer&lt;/f0&gt; and then type or paste your text into the &lt;f1&gt;Footer text&lt;/f1&gt; input field.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li umístit text do střední části zápatí, vyberte&lt;f0&gt; Zápatí&lt;/f0&gt; a poté zadejte nebo vložte text do&lt;f1&gt; Text zápatí&lt;/f1&gt; vstupní pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To place the slide number in the right section of the footer, select &lt;f0&gt;Slide number&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li umístit číslo snímku do pravé části zápatí, vyberte&lt;f0&gt; Číslo snímku&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not want the footer to appear on the first slide of your presentation, select &lt;f0&gt;Do not show on the first slide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud nechcete, aby se zápatí objevilo na prvním snímku prezentace, vyberte&lt;f0&gt; Nezobrazovat na prvním snímku&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The first slide is normally the title slide of your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>První snímek je obvykle titulní snímek vaší prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Apply&lt;/f0&gt; to save your changes and close the &lt;f1&gt;Header and Footer&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Aplikovat&lt;/f0&gt; uložit změny a zavřít&lt;f1&gt; Záhlaví a zápatí&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To format the text used for the default footer fields, see Chapter 3 Adding and Formatting Text for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o formátování textu použitého pro výchozí pole zápatí najdete v kapitole 3 Přidávání a formátování textu, kde najdete další informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the &lt;f1&gt;Master View&lt;/f1&gt; toolbar or go to &lt;f2&gt;View &gt; Normal&lt;/f2&gt; on the main menu bar when you have completed setting up the default footer fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Zavřete hlavní pohled&lt;/f0&gt; na&lt;f1&gt; Hlavní pohled&lt;/f1&gt; panel nástrojů nebo přejděte na&lt;f2&gt; Zobrazit &gt; Normální&lt;/f2&gt; na liště hlavní nabídky, když dokončíte nastavení výchozích polí zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default sections in a footer can be formatted, resized and repositioned.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí sekce v zápatí lze formátovat, měnit jejich velikost a přemístit je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default fields in a footer section can be replaced with text or manual fields as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí pole v zápatí lze nahradit textovými nebo manuálními poli následovně:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight the default field in the footer section and press the &lt;f0&gt;Delete&lt;/f0&gt; or &lt;f1&gt;Backspace&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvýrazněte výchozí pole v části zápatí a stiskněte&lt;f0&gt; Vymazat&lt;/f0&gt; nebo&lt;f1&gt; Backspace&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A flashing text cursor will appear in the footer section and the &lt;f2&gt;Text Formatting&lt;/f2&gt; toolbar (Figure &lt;t3&gt;16&lt;/t3&gt;&lt;s4/&gt;on page &lt;t5&gt;19&lt;/t5&gt;) automatically opens replacing the &lt;f6&gt;Line and Filling&lt;/f6&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Blikající textový kurzor se objeví v části zápatí a&lt;f2&gt; Formátování textu&lt;/f2&gt; panel nástrojů (obrázek&lt;t3&gt; 16&lt;/t3&gt;&lt;s4/&gt; na stránce&lt;t5&gt; 19&lt;/t5&gt; ) se automaticky otevře a nahradí&lt;f6&gt; Čára a plnění&lt;/f6&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type in your text or insert a manual field into the footer section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte text nebo vložte ruční pole do sekce zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on manual fields, see “&lt;bf0&gt;Manual fields&lt;/bf0&gt;” on page &lt;bf1&gt;20&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o ručních polích naleznete v části „&lt;bf0&gt; Ruční pole&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 20&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format the text or manual field placed in the footer section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Naformátujte textové nebo ruční pole umístěné v zápatí části.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click outside the footer section to close the &lt;f0&gt;Text Formatting&lt;/f0&gt; toolbar and reopen the &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím mimo sekci zápatí zavřete&lt;f0&gt; Formátování textu&lt;/f0&gt; panel nástrojů a znovu otevřete soubor&lt;f1&gt; Čára a plnění&lt;/f1&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the &lt;f1&gt;Master View&lt;/f1&gt; toolbar or go to &lt;f2&gt;View &gt; Normal&lt;/f2&gt; on the main menu bar when you have completed setting up a custom footer section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Zavřete hlavní pohled&lt;/f0&gt; na&lt;f1&gt; Hlavní pohled&lt;/f1&gt; panel nástrojů nebo přejděte na&lt;f2&gt; Zobrazit &gt; Normální&lt;/f2&gt; po dokončení nastavení vlastní sekce zápatí na panelu hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manual fields, for example date or page number (slide number), can be added as text objects on a master slide or replace one of the default footer fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ruční pole, například datum nebo číslo stránky (číslo snímku), lze přidat jako textové objekty na hlavní snímek nebo nahradit jedno z výchozích polí zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Date (variable) – updates automatically when you open the presentation again.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Datum (proměnná) - aktualizuje se automaticky při opětovném otevření prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Time (variable) – updates automatically when you open the presentation again and each time you open a slide more than once during a presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Čas (proměnná) - aktualizuje se automaticky, když znovu otevřete prezentaci a pokaždé, když během prezentace otevřete snímek více než jednou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Author – first and last names listed in the LibreOffice user data.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Autor - jméno a příjmení uvedené v uživatelských datech LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide Title</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název snímku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide Count</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Počet snímků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To place a field on your master slide:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup umístění pole na hlavní snímek:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click anywhere on the master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte kamkoli na hlavní snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Field&lt;/f0&gt; on the main menu bar and select the required field from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Pole&lt;/f0&gt; na liště hlavní nabídky a vyberte požadované pole z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default the field is placed in the center of the master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení je pole umístěno ve středu hlavního snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reposition the field text box to the desired position on your master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přemístěte textové pole pole do požadované polohy na hlavním snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To format the text used in a field, see Chapter 3 Adding and Formatting Text for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o formátování textu použitého v poli najdete v kapitole 3 Přidávání a formátování textu, kde najdete další informace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the &lt;f1&gt;Master View&lt;/f1&gt; toolbar or go to &lt;f2&gt;View &gt; Normal&lt;/f2&gt; on the main menu bar when you have completed setting up the manual fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Zavřete hlavní pohled&lt;/f0&gt; na&lt;f1&gt; Hlavní pohled&lt;/f1&gt; panel nástrojů nebo přejděte na&lt;f2&gt; Zobrazit &gt; Normální&lt;/f2&gt; po dokončení nastavení polí v ručním menu na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To replace a default footer field on your master slide:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li nahradit výchozí pole zápatí na hlavním snímku:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight all of the characters used in the default field you want to replace in the footer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvýrazněte všechny znaky použité ve výchozím poli, které chcete v zápatí nahradit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Close Master View&lt;/f0&gt; on the &lt;f1&gt;Master View&lt;/f1&gt; toolbar or go to &lt;f2&gt;View &gt; Normal&lt;/f2&gt; on the main menu bar when you have completed replacing the default footer fields.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Zavřete hlavní pohled&lt;/f0&gt; na&lt;f1&gt; Hlavní pohled&lt;/f1&gt; panel nástrojů nebo přejděte na&lt;f2&gt; Zobrazit &gt; Normální&lt;/f2&gt; na liště hlavní nabídky, když dokončíte výměnu výchozích polí zápatí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the number format (1, 2, 3 or a, b, c or i, ii, iii, and so on) for the slide number, go to &lt;f0&gt;Slide &gt; Properties&lt;/f0&gt; on the main menu bar and select in &lt;f1&gt;Layout Settings&lt;/f1&gt; the type of number to use from the &lt;f2&gt;Slide number:&lt;/f2&gt; drop down list..</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit formát čísla (1, 2, 3 nebo a, b, c nebo i, ii, iii atd.) Pro číslo snímku, přejděte na&lt;f0&gt; Snímek &gt; Vlastnosti&lt;/f0&gt; na liště hlavní nabídky a vyberte v&lt;f1&gt; Nastavení rozvržení&lt;/f1&gt; typ čísla, které se má použít z&lt;f2&gt; Číslo snímku:&lt;/f2&gt; rozbalovací seznam..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the author information, go to &lt;f0&gt;Tools &gt; Options &gt; LibreOffice &gt; User Data&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit informace o autorovi, přejděte na&lt;f0&gt; Nástroje &gt; Možnosti &gt; LibreOffice &gt; Uživatelská data&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A style is a set of formats that you can apply to selected elements such as slides, text, lists, frames, borders, lines and area fills in a presentation to quickly set or change their appearance.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl je sada formátů, které můžete použít na vybrané prvky, jako jsou snímky, text, seznamy, rámečky, ohraničení, čáry a plošné výplně v prezentaci, abyste mohli rychle nastavit nebo změnit jejich vzhled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Applying a style means applying a group of formats at the same time providing a consistent look to your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití stylu znamená použití skupiny formátů současně a zajištění konzistentního vzhledu vaší prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, to manually change an attribute on the same object type on every slide in your presentation is time consuming and prone to errors.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například ruční změna atributu na stejném typu objektu na každém snímku v prezentaci je časově náročná a náchylná k chybám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using styles reduces time and provides greater accuracy.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používání stylů zkracuje čas a poskytuje vyšší přesnost.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress has two types of styles available for formatting text and graphic objects – presentation styles and drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Impress má k dispozici dva typy stylů pro formátování textových a grafických objektů - prezentační styly a styly kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For information on formatting text, see Chapter 3 Adding and Formatting.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o formátování textu najdete v kapitole 3 Přidávání a formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For information on formatting graphic objects, see Chapter 6 Formatting Graphic Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o formátování grafických objektů naleznete v kapitole 6 Formátování grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More information on styles used in LibreOffice can be found in the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Více informací o stylech používaných v LibreOffice najdete v&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The presence of text and title styles both in the presentation and drawing styles may seem confusing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přítomnost stylů textu a nadpisů v prezentačních i výkresových stylech se může zdát matoucí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This apparent duplication is because Impress uses special text boxes (auto layout boxes) when adding structured text to slides where presentation styles apply.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato zjevná duplikace je způsobena tím, že aplikace Impress používá speciální textová pole (pole automatického rozložení) při přidávání strukturovaného textu do snímků, kde platí styly prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The title and other text styles in drawing styles can be used on other text boxes you may want to add, or text associated with shapes or lines.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nadpis a další styly textu ve výkresových stylech lze použít v dalších textových polích, která chcete přidat, nebo v textu spojeném s tvary nebo čarami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Presentation styles in Impress are available to give you help when creating a presentation using one of the Impress slide layouts and are divided into four categories.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly prezentace v aplikaci Impress jsou k dispozici, aby vám pomohly při vytváření prezentace pomocí jednoho z rozložení snímků Impress a jsou rozděleny do čtyř kategorií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Background&lt;/f0&gt; and &lt;f1&gt;Background objects&lt;/f1&gt; – are used to format objects on the default master slide such as icons, decorative lines, and shapes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozadí&lt;/f0&gt; a&lt;f1&gt; Objekty na pozadí&lt;/f1&gt; - slouží k formátování objektů na výchozím hlavním snímku, jako jsou ikony, ozdobné čáry a tvary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Notes&lt;/f0&gt; – formats the text used in presentation notes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Poznámky&lt;/f0&gt; - formátuje text použitý v poznámkách k prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Outline 1 thru Outline 9&lt;/f0&gt; – are used for the different levels of the outline to which they belong.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Obrys 1 až Obrys 9&lt;/f0&gt; - se používají pro různé úrovně obrysu, ke kterému patří.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, Outline 2 is used for the sub-points of Outline 1, Outline 3 is used for the sub-points of Outline 2 and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například obrys 2 se používá pro dílčí body obrysu 1, obrys 3 se používá pro dílčí body obrysu 2 atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Subtitle and Title&lt;/f0&gt; – formats the text used for any titles or subtitles used on slides.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Podnadpis a název&lt;/f0&gt; - formátuje text použitý pro všechny tituly nebo titulky použité na diapozitivech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As with the Heading styles in Writer, the Outline styles in Impress are hierarchically linked.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Stejně jako u stylů nadpisů ve Writeru jsou styly Outline v Impressu hierarchicky propojeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, a change to an attribute in the Outline 1 style will cascade through all the other styles for Outline levels.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například změna atributu ve stylu Outline 1 bude kaskádově procházet všemi ostatními styly pro úrovně Outline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default master slide and slide layouts in Impress use auto layout boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výchozí hlavní snímek a rozložení snímků v aplikaci Impress používají pole automatického rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Presentation styles can only be used within these auto layout boxes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly prezentace lze použít pouze v těchto polích automatického rozložení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of text using these presentation styles is shown in Figure &lt;t0&gt;2&lt;/t0&gt;&lt;s1/&gt;on page &lt;t2&gt;7&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Příklad textu používajícího tyto styly prezentace je uveden na obrázku&lt;t0&gt; 2&lt;/t0&gt;&lt;s1/&gt; na stránce&lt;t2&gt; 7&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any text added to a slide using the text tools available is automatically placed in a standard text box and allocated the &lt;f0&gt;Default Drawing Style&lt;/f0&gt; from &lt;f1&gt;Drawing Styles&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakýkoli text přidaný na snímek pomocí dostupných textových nástrojů je automaticky umístěn do standardního textového pole a přidělen&lt;f0&gt; Výchozí styl kreslení&lt;/f0&gt; z&lt;f1&gt; Kreslení stylů&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on formatting text, see Chapter 3 Adding and Formatting Text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o formátování textu najdete v kapitole 3 Přidávání a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Presentation styles cannot be created or deleted, but can be formatted, modified or updated to your requirements.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly prezentace nelze vytvářet ani mazat, ale lze je formátovat, upravovat nebo aktualizovat podle vašich požadavků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, you cannot change the presentation style used for an object with another presentation style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl prezentace použitý pro objekt také nemůžete změnit jiným stylem prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, text with Outline 2 style cannot be changed to Outline 3 style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například text se stylem osnovy 2 nelze změnit na styl osnovy 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing outline levels is done in normal view using the &lt;f0&gt;Tab&lt;/f0&gt; key or &lt;f1&gt;Shift+Tab&lt;/f1&gt; key combination or the &lt;f2&gt;Promote&lt;/f2&gt; and &lt;f3&gt;Demote&lt;/f3&gt; tools on the &lt;f4&gt;Outline&lt;/f4&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna úrovní obrysu se provádí v normálním zobrazení pomocí&lt;f0&gt; Tab&lt;/f0&gt; klíč nebo&lt;f1&gt; Shift + Tab&lt;/f1&gt; kombinace kláves nebo&lt;f2&gt; Podporovat&lt;/f2&gt; a&lt;f3&gt; Degradovat&lt;/f3&gt; nástroje na&lt;f4&gt; Obrys&lt;/f4&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawing styles in Impress define the characteristics of graphic objects (including text objects) that you place on a slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výkresové styly v aplikaci Impress definují vlastnosti grafických objektů (včetně textových objektů), které umístíte na snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These styles include attributes for line, area, shadowing, transparency, text, connectors and dimensioning.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mezi tyto styly patří atributy pro čáru, plochu, stínování, průhlednost, text, spojnice a kótování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you need to create organization charts in your presentation, you will probably want all of the objects to have a consistent appearance, such as line style, font type, shadow, and so on.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud například potřebujete v prezentaci vytvořit organizační diagramy, pravděpodobně budete chtít, aby všechny objekty měly konzistentní vzhled, například styl čáry, typ písma, stín atd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to achieve this result with the minimum effort is to use a drawing style for the objects and apply it to each object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nejjednodušší způsob, jak dosáhnout tohoto výsledku s minimálním úsilím, je použít styl kreslení pro objekty a použít jej na každý objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The major benefit is that if you decide to change, say, the background color of objects, all you need to do is modify the style rather than each individual object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní výhodou je, že pokud se rozhodnete změnit, řekněme, barvu pozadí objektů, vše, co musíte udělat, je upravit styl, nikoli každý jednotlivý objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawing styles included with Impress cannot be deleted, but you can format, modify and update drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výkresové styly zahrnuté v aplikaci Impress nelze odstranit, ale můžete je formátovat, upravovat a aktualizovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also create new or custom styles, see “&lt;bf0&gt;Custom styles&lt;/bf0&gt;” on page &lt;bf1&gt;25&lt;/bf1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete také vytvořit nové nebo vlastní styly, viz „&lt;bf0&gt; Vlastní styly&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 25&lt;/bf1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any custom style created is only available in the presentation where it was created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Libovolný vytvořený vlastní styl je k dispozici pouze v prezentaci, kde byl vytvořen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to access or modify styles available in Impress:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K přístupu nebo úpravě stylů dostupných v aplikaci Impress použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;F11&lt;/f0&gt; (Windows and Linux) or &lt;f1&gt;⌘+T&lt;/f1&gt; (macOS).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku&lt;f0&gt; F11&lt;/f0&gt; (Windows a Linux) nebo&lt;f1&gt; ⌘ + T.&lt;/f1&gt; (Operační Systém Mac).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Styles&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Styly&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Show the Styles Sidebar&lt;/f0&gt; icon on the &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Zobrazit postranní panel Styly&lt;/f0&gt; ikona na&lt;f1&gt; Čára a plnění&lt;/f1&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting presentation and drawing styles can be carried out in either &lt;f0&gt;Normal&lt;/f0&gt; view or &lt;f1&gt;Master Slide&lt;/f1&gt; view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování prezentačních a výkresových stylů lze provádět v obou&lt;f0&gt; Normální&lt;/f0&gt; zobrazit nebo&lt;f1&gt; Master Slide&lt;/f1&gt; Pohled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formatting options are available in dialogs for each style or using &lt;f2&gt;Format&lt;/f2&gt; in the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti formátování jsou k dispozici v dialogových oknech pro každý styl nebo použití&lt;f2&gt; Formát&lt;/f2&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on formatting text and objects, see Chapter 3 Adding and Formatting Text and Chapter 6 Formatting Graphic Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o formátování textu a objektů najdete v kapitole 3 Přidávání a formátování textu a Kapitola 6 Formátování grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Example dialog for formatting styles</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 18&lt;/seq0&gt; : Ukázkový dialog pro formátování stylů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an object on a slide or master slide and its style is highlighted in the &lt;f0&gt;Styles&lt;/f0&gt; deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte objekt na snímku nebo hlavním snímku a jeho styl je zvýrazněn v&lt;f0&gt; Styly&lt;/f0&gt; balíček na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Styles &gt; Edit Style&lt;/f0&gt; on the main menu bar to open the formatting dialog for the selected style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Styly &gt; Upravit styl&lt;/f0&gt; na liště hlavní nabídky otevřete dialogové okno formátování pro vybraný styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example dialog for &lt;f1&gt;Outline 1&lt;/f1&gt; style is shown in Figure &lt;t2&gt;18&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ukázkový dialog pro&lt;f1&gt; Obrys 1&lt;/f1&gt; styl je znázorněn na obrázku&lt;t2&gt; 18&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various options available in the tabbed pages of the dialog to format the style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K formátování stylu použijte různé možnosti dostupné na záložkách v dialogovém okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your formatting changes and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; uložte změny formátování a zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking &lt;f0&gt;Reset&lt;/f0&gt; before clicking &lt;f1&gt;OK&lt;/f1&gt; removes all formatting changes you have made in the style formatting dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikání&lt;f0&gt; Resetovat&lt;/f0&gt; před kliknutím&lt;f1&gt; OK&lt;/f1&gt; odstraní všechny změny formátování, které jste provedli v dialogu formátování stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the main menu bar to open a drop down menu with various formatting options available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát&lt;/f0&gt; na liště hlavní nabídky otevřete rozevírací nabídku s různými dostupnými možnostmi formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the object selected, some formatting options will not be available and are greyed out.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na vybraném objektu nebudou některé možnosti formátování k dispozici a budou šedé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a formatting option from the drop down menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V rozevírací nabídce vyberte možnost formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the option selected, another drop down menu may open giving further formatting options or a formatting dialog will open.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na vybrané možnosti se může otevřít další rozevírací nabídka s dalšími možnostmi formátování nebo se otevře dialogové okno formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;Styles&lt;/f0&gt; deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevři&lt;f0&gt; Styly&lt;/f0&gt; balíček na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;f1&gt;&lt;bf2&gt;Accessing styles&lt;/bf2&gt;&lt;/f1&gt;” on page &lt;bf3&gt;23&lt;/bf3&gt;&lt;s4/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;f1&gt;&lt;bf2&gt; Přístup ke stylům&lt;/bf2&gt;&lt;/f1&gt; “ na stránce&lt;bf3&gt; 23&lt;/bf3&gt;&lt;s4/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Presentation Styles&lt;/f0&gt; icon or &lt;f1&gt;Drawing Styles&lt;/f1&gt; icon at the top left of the &lt;f2&gt;Styles&lt;/f2&gt; deck to open the list of presentation or drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Styly prezentace&lt;/f0&gt; ikona nebo&lt;f1&gt; Kreslení stylů&lt;/f1&gt; ikona vlevo nahoře na&lt;f2&gt; Styly&lt;/f2&gt; balíček pro otevření seznamu stylů prezentace nebo kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the style you want to modify and select &lt;f0&gt;Modify&lt;/f0&gt; from the context menu to open the formatting dialog for the style selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na styl, který chcete upravit, a vyberte jej&lt;f0&gt; Upravit&lt;/f0&gt; z kontextové nabídky otevřete dialogové okno formátování pro vybraný styl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make the necessary changes to the selected presentation or drawing style using the various options available in the dialog that has opened.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proveďte nezbytné změny ve vybrané prezentaci nebo stylu kreslení pomocí různých možností dostupných v dialogovém okně, které se otevřelo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating a presentation or drawing style is similar to modifying, but you make format changes to the text or object first.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aktualizace stylu prezentace nebo výkresu je podobná úpravě, ale nejdříve provedete změny formátu textu nebo objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating styles can only be carried out in &lt;f0&gt;Normal&lt;/f0&gt; view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aktualizaci stylů lze provádět pouze v&lt;f0&gt; Normální&lt;/f0&gt; Pohled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the text or object on your slide in &lt;f0&gt;Normal&lt;/f0&gt; view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte text nebo objekt na snímku&lt;f0&gt; Normální&lt;/f0&gt; Pohled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various tools on the &lt;f0&gt;Text Formatting&lt;/f0&gt; toolbar, &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar, or the options in &lt;f2&gt;Format&lt;/f2&gt; on the main menu bar to format the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte různé nástroje na&lt;f0&gt; Formátování textu&lt;/f0&gt; Panel nástrojů,&lt;f1&gt; Čára a plnění&lt;/f1&gt; panel nástrojů nebo možnosti v&lt;f2&gt; Formát&lt;/f2&gt; na liště hlavní nabídky pro formátování vybraného objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;Accessing styles&lt;/bf1&gt;” on page &lt;bf2&gt;23&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf1&gt; Přístup ke stylům&lt;/bf1&gt; “ na stránce&lt;bf2&gt; 23&lt;/bf2&gt;&lt;s3/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Presentation Styles&lt;/f0&gt; icon or &lt;f1&gt;Drawing Styles&lt;/f1&gt; icon at the top left of the &lt;f2&gt;Styles&lt;/f2&gt; deck to open the list of styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Styly prezentace&lt;/f0&gt; ikona nebo&lt;f1&gt; Kreslení stylů&lt;/f1&gt; ikona vlevo nahoře na&lt;f2&gt; Styly&lt;/f2&gt; balíček pro otevření seznamu stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The style used for the selected object will be highlighted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styl použitý pro vybraný objekt bude zvýrazněn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Update Style&lt;/f0&gt; icon at the top right of the &lt;f1&gt;Styles&lt;/f1&gt; deck and the style is updated to include the formatting changes you have made to the selected object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Aktualizovat styl&lt;/f0&gt; ikona v pravém horním rohu&lt;f1&gt; Styly&lt;/f1&gt; balíček a styl se aktualizuje tak, aby zahrnoval změny formátování, které jste provedli ve vybraném objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Create Style dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 19&lt;/seq0&gt; : Dialog Vytvořit styl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot create custom presentation styles in Impress, but you can create custom drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Impress nemůžete vytvářet vlastní styly prezentace, ale můžete vytvořit vlastní styly kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These custom drawing styles are only available for the presentation that you are creating.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto vlastní styly kreslení jsou k dispozici pouze pro prezentaci, kterou vytváříte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create or select the object on your slide you want to use for creating a new drawing style.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte nebo vyberte objekt na snímku, který chcete použít pro vytvoření nového stylu kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Format the object to your requirements using the various formatting options available in the &lt;f0&gt;Text Formatting&lt;/f0&gt; toolbar, &lt;f1&gt;Line and Filling&lt;/f1&gt; toolbar, or the options in &lt;f2&gt;Format&lt;/f2&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Naformátujte objekt podle svých požadavků pomocí různých možností formátování dostupných v&lt;f0&gt; Formátování textu&lt;/f0&gt; Panel nástrojů,&lt;f1&gt; Čára a plnění&lt;/f1&gt; panel nástrojů nebo možnosti v&lt;f2&gt; Formát&lt;/f2&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Drawing Styles&lt;/f0&gt; icon at the top left of the &lt;f1&gt;Styles&lt;/f1&gt; deck to open the list of drawing styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Kreslení stylů&lt;/f0&gt; ikona vlevo nahoře na&lt;f1&gt; Styly&lt;/f1&gt; paluba pro otevření seznamu stylů kreslení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;New Style from Selection&lt;/f0&gt; icon at the top right of the &lt;f1&gt;Styles&lt;/f1&gt; deck and the &lt;f2&gt;Create Style&lt;/f2&gt; dialog opens (Figure &lt;t3&gt;19&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Nový styl z výběru&lt;/f0&gt; ikona v pravém horním rohu&lt;f1&gt; Styly&lt;/f1&gt; paluba a&lt;f2&gt; Vytvořit styl&lt;/f2&gt; Otevře se dialogové okno (Obrázek&lt;t3&gt; 19&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a name for your custom style in the &lt;f0&gt;Style Name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do pole zadejte název svého vlastního stylu&lt;f0&gt; Název stylu&lt;/f0&gt; Textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the &lt;f1&gt;Create Style&lt;/f1&gt; dialog closes and the custom style is created and appears in the drawing styles list in the &lt;f2&gt;Styles&lt;/f2&gt; deck on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; zavřít&lt;f1&gt; Vytvořit styl&lt;/f1&gt; dialogové okno se zavře a vytvoří se vlastní styl, který se zobrazí v seznamu stylů výkresu v seznamu&lt;f2&gt; Styly&lt;/f2&gt; balíček na bočním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direct formatting overrides any formatting applied to an object when a style is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přímé formátování přepíše jakékoli formátování použité na objekt při použití stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot remove direct formatting from an object by applying a style to it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přímé formátování z objektu nemůžete odstranit použitím stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove any direct formatting, select the object so that the selection handles are visible, then use one of the following methods to clear any direct formatting:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odebrat jakékoli přímé formátování, vyberte objekt tak, aby byly viditelné úchyty výběru, a potom zrušte jakékoli přímé formátování pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click and select &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem a vyberte&lt;f0&gt; Vymazat přímé formátování&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+Shift+M&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku&lt;f0&gt; Ctrl + Shift + M&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Clear Direct Formatting&lt;/f0&gt; in the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Vymazat přímé formátování&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the object is a text object, highlight all of the text and then click on the &lt;f0&gt;Clear Direct Formatting&lt;/f0&gt; icon on the &lt;f1&gt;Text Formatting&lt;/f1&gt; toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je objekt textovým objektem, zvýrazněte celý text a poté klikněte na ikonu&lt;f0&gt; Vymazat přímé formátování&lt;/f0&gt; ikona na&lt;f1&gt; Formátování textu&lt;/f1&gt; Panel nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress styles support inheritance which allows a style to be linked to another (parent) style so that it inherits all the formatting settings of the parent.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly Impress podporují dědičnost, která umožňuje propojení stylu s jiným (nadřazeným) stylem, takže zdědí všechna nastavení formátování nadřazeného.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This inheritance creates families of styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto dědictví vytváří rodiny stylů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you require multiple boxes that differ in color, but are otherwise identically formatted, the best way to proceed is to define a style for the box including borders, area fill, font, and so on and a number of styles that are hierarchically dependent which differ only in the fill color attribute.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například pokud požadujete více rámečků, které se liší barvou, ale jsou jinak identicky formátovány, nejlepší způsob, jak postupovat, je definovat styl rámečku včetně okrajů, výplně oblasti, písma atd. A řadu stylů hierarchicky závislé, které se liší pouze v atributu barvy výplně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need to change the font size or the thickness of the border, you only have to change the parent style and all the other styles will change accordingly.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud potřebujete změnit velikost písma nebo tloušťku ohraničení, musíte změnit pouze nadřazený styl a podle toho se změní i všechny ostatní styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice provides a set of predefined keyboard shortcuts which allow you to quickly apply styles while working with a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice poskytuje sadu předdefinovaných klávesových zkratek, které vám umožňují rychle používat styly při práci s dokumentem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can redefine these shortcuts or define your own, as described in Appendix A Keyboard Shortcuts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto klávesové zkratky můžete předefinovat nebo definovat vlastní, jak je popsáno v příloze A Klávesové zkratky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A template is a special type of presentation that you use as a basis to create your presentations.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablona je speciální typ prezentace, který používáte jako základ pro vytváření svých prezentací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, you can create a template for business presentations so that any new presentations has your company logo, name and information on the first slide and the remaining slides in your presentation only show the company logo and name.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete například vytvořit šablonu pro obchodní prezentace, aby všechny nové prezentace obsahovaly logo vaší společnosti, název a informace na prvním snímku a zbývající snímky v prezentaci zobrazovaly pouze logo a název společnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Templates can contain anything that presentations can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablony mohou obsahovat vše, co mohou prezentace obsahovat, například text, grafiku, sadu stylů a informace o konkrétním nastavení uživatele, jako jsou měrné jednotky, jazyk, výchozí tiskárna a přizpůsobení panelu nástrojů a nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All document types created using LibreOffice are based on templates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny typy dokumentů vytvořené pomocí LibreOffice jsou založeny na šablonách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not specify a template when you start a new document, then the default template for that type of document is used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud neurčíte šablonu při spuštění nového dokumentu, použije se výchozí šablona pro tento typ dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This default template can be changed, see “&lt;bf0&gt;Setting default template&lt;/bf0&gt;” on page &lt;bf1&gt;28&lt;/bf1&gt;&lt;s2/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto výchozí šablonu lze změnit, viz „&lt;bf0&gt; Nastavení výchozí šablony&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 28&lt;/bf1&gt;&lt;s2/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Select a Template dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 20&lt;/seq0&gt; : Vyberte dialog Šablona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, Impress is a little different from other LibreOffice components, in that it starts with the &lt;f0&gt;Select a Template&lt;/f0&gt; dialog (Figure &lt;t1&gt;20&lt;/t1&gt;), unless you have decided to turn off this dialog in LibreOffice options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Impress se však trochu liší od ostatních komponent LibreOffice v tom, že začíná na&lt;f0&gt; Vyberte šablonu&lt;/f0&gt; dialogové okno (obr&lt;t1&gt; 20&lt;/t1&gt; ), pokud jste se nerozhodli tento dialog vypnout v možnostech LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create a presentation, if the template dialog is active, it opens offering several choices for templates as a starting point for your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Je-li při vytváření prezentace aktivní dialogové okno šablony, otevře se nabídka několika možností pro šablony jako výchozí bod pro vaši prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have turned off the &lt;f0&gt;Select a Template&lt;/f0&gt; dialog, when you create a new presentation, LibreOffice uses the LibreOffice default template for presentations.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste vypnuli&lt;f0&gt; Vyberte šablonu&lt;/f0&gt; Když vytvoříte novou prezentaci, použije LibreOffice pro prezentace výchozí šablonu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have defined your own default template, LibreOffice uses your default template when you create a presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste definovali vlastní výchozí šablonu, použije LibreOffice při vytváření prezentace vaši výchozí šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on templates and how to use them, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o šablonách a jejich použití najdete v části&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress comes with a set of predefined templates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Impress přichází se sadou předdefinovaných šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These templates only contain backgrounds and background objects providing you with a starting point to create your own presentations or presentation templates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto šablony obsahují pouze pozadí a objekty pozadí, které vám poskytnou výchozí bod pro vytváření vlastních prezentací nebo prezentačních šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any templates that you create will be located in the &lt;f0&gt;My Templates&lt;/f0&gt; folder after you have saved your presentation as a template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Veškeré šablony, které vytvoříte, budou umístěny v&lt;f0&gt; Moje šablony&lt;/f0&gt; po uložení prezentace jako šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your templates will appear in the LibreOffice startup window and the &lt;f1&gt;Select a Template&lt;/f1&gt; dialog the next time you start LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vaše šablony se objeví v spouštěcím okně LibreOffice a v&lt;f1&gt; Vyberte šablonu&lt;/f1&gt; při příštím spuštění LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to create a new presentation using a template:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K vytvoření nové prezentace pomocí šablony použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Templates&lt;/f0&gt; in LibreOffice start up window, then click on the small down arrow▼ and select &lt;f1&gt;Impress Templates&lt;/f1&gt; from the context menu to display the available templates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Šablony&lt;/f0&gt; v úvodním okně LibreOffice klikněte na malou šipku dolů ▼ a vyberte&lt;f1&gt; Dojem šablony&lt;/f1&gt; z kontextové nabídky zobrazíte dostupné šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a template and a new presentation opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte šablonu a otevře se nová prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; New &gt; Templates&lt;/f0&gt; on the main menu bar to open the &lt;f1&gt;Select a Template&lt;/f1&gt; dialog (Figure &lt;t2&gt;20&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Soubor &gt; Nové &gt; Šablony&lt;/f0&gt; na liště hlavní nabídky otevřete&lt;f1&gt; Vyberte šablonu&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 20&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a template and click &lt;f3&gt;OK&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte šablonu a klikněte&lt;f3&gt; OK&lt;/f3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog closes and a new presentation opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog se zavře a otevře se nová prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Shift+Ctrl+N&lt;/f0&gt; to open the &lt;f1&gt;Select a Template&lt;/f1&gt; dialog (Figure &lt;t2&gt;20&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku&lt;f0&gt; Shift + Ctrl + N&lt;/f0&gt; otevřít&lt;f1&gt; Vyberte šablonu&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 20&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Select a Template&lt;/f0&gt; dialog you can set filters for document type and template category using the options available in the drop down lists at the top of the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V&lt;f0&gt; Vyberte šablonu&lt;/f0&gt; V dialogu můžete nastavit filtry pro typ dokumentu a kategorii šablony pomocí možností dostupných v rozevíracích seznamech v horní části dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting these filters reduces the number of available templates displayed for you to select from.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení těchto filtrů snižuje počet dostupných šablon zobrazených pro výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On other websites you may find collections of templates that have been created using open document format (.OTP file extension) that Impress uses as its default format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na jiných webových stránkách najdete sbírky šablon, které byly vytvořeny ve formátu otevřeného dokumentu (přípona souboru .OTP), který Impress používá jako výchozí formát.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any templates imported in the LibreOffice startup window and the &lt;f0&gt;Select a Template&lt;/f0&gt; dialog the next time you start LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakékoli šablony importované do spouštěcího okna LibreOffice a&lt;f0&gt; Vyberte šablonu&lt;/f0&gt; při příštím spuštění LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of these templates are free of charge; others are available for a fee.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některé z těchto šablon jsou zdarma; ostatní jsou k dispozici za poplatek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To import individual templates, see “&lt;bf0&gt;Importing templates&lt;/bf0&gt;” on page &lt;bf1&gt;31&lt;/bf1&gt;&lt;s2/&gt;for more information .</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o importu jednotlivých šablon naleznete v části „&lt;bf0&gt; Import šablon&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 31&lt;/bf1&gt;&lt;s2/&gt; Pro více informací .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a template and save it to a template folder as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytvořte šablonu a uložte ji do složky šablony následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the presentation that you want to use for a template, or open a template that you want to use as a basis for your template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete prezentaci, kterou chcete použít pro šablonu, nebo otevřete šablonu, kterou chcete použít jako základ pro svou šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;21&lt;/seq0&gt;: Save As Template dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 21&lt;/seq0&gt; : Dialog Uložit jako šablonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add and format content and styles to your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidejte a naformátujte obsah a styly do prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Templates &gt; Save As Template&lt;/f0&gt; on the main menu bar to open the &lt;f1&gt;Save as Template&lt;/f1&gt; dialog (Figure &lt;t2&gt;21&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Soubor &gt; Šablony &gt; Uložit jako šablonu&lt;/f0&gt; na liště hlavní nabídky otevřete&lt;f1&gt; Uložit jako šablonu&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 21&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a name for the new template in the &lt;f0&gt;Template Name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do pole zadejte název nové šablony&lt;f0&gt; Název šablony&lt;/f0&gt; Textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a destination folder for the new template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte cílovou složku pro novou šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If required, select the option &lt;f0&gt;Set as default template&lt;/f0&gt; to use as the default template the next time you open LibreOffice and do not select a template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby vyberte možnost&lt;f0&gt; Nastavit jako výchozí šablonu&lt;/f0&gt; použít jako výchozí šablonu při příštím otevření LibreOffice a nevybírání šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;Setting default template&lt;/bf1&gt;” on page &lt;bf2&gt;28&lt;/bf2&gt;&lt;s3/&gt;for more information on default template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf1&gt; Nastavení výchozí šablony&lt;/bf1&gt; “ na stránce&lt;bf2&gt; 28&lt;/bf2&gt;&lt;s3/&gt; pro více informací o výchozí šabloně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Save&lt;/f0&gt; to save your template and close the &lt;f1&gt;Save as Template&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Uložit&lt;/f0&gt; pro uložení šablony a zavření&lt;f1&gt; Uložit jako šablonu&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your templates will appear in the LibreOffice startup window and the &lt;f2&gt;Select a Template&lt;/f2&gt; dialog the next time you start LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vaše šablony se objeví v spouštěcím okně LibreOffice a v&lt;f2&gt; Vyberte šablonu&lt;/f2&gt; při příštím spuštění LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you create a new presentation and do not select a template, LibreOffice creates the presentation from the default Impress template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vytvoříte novou prezentaci a nevyberete šablonu, vytvoří LibreOffice prezentaci z výchozí šablony Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is normally a blank template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obvykle se jedná o prázdnou šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you can set any presentation template to be the default template, even a template that you have created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete však nastavit libovolnou prezentační šablonu jako výchozí šablonu, dokonce i šablonu, kterou jste vytvořili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template has to be located in a folder displayed in the &lt;f0&gt;Save as Template&lt;/f0&gt; dialog so that LibreOffice can find it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablona musí být umístěna ve složce zobrazené v souboru&lt;f0&gt; Uložit jako šablonu&lt;/f0&gt; dialog, aby jej LibreOffice mohl najít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always reset to the default template back to the LibreOffice default template later if you choose.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Později můžete obnovit výchozí šablonu zpět na výchozí šablonu LibreOffice, pokud se rozhodnete.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to open the &lt;f0&gt;Select a Template&lt;/f0&gt; dialog (Figure &lt;t1&gt;20&lt;/t1&gt;&lt;s2/&gt;on page &lt;t3&gt;26&lt;/t3&gt;):</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K otevření souboru použijte jednu z následujících metod&lt;f0&gt; Vyberte šablonu&lt;/f0&gt; dialogové okno (obr&lt;t1&gt; 20&lt;/t1&gt;&lt;s2/&gt; na stránce&lt;t3&gt; 26&lt;/t3&gt; ):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; New &gt; Templates&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Soubor &gt; Nové &gt; Šablony&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Templates &gt; Manage Templates&lt;/f0&gt; on the main menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Soubor &gt; Šablony &gt; Správa šablon&lt;/f0&gt; na liště hlavní nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the template you want to use as the default LibreOffice presentation template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte šablonu, kterou chcete použít jako výchozí prezentační šablonu LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click on the selected template and select &lt;f0&gt;Set as Default&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na vybranou šablonu a vyberte&lt;f0&gt; Nastavit jako výchozí&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Open&lt;/f0&gt; and a new presentation opens using the new default template and sets the default presentation template in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; otevřeno&lt;/f0&gt; a otevře se nová prezentace pomocí nové výchozí šablony a nastaví výchozí prezentační šablonu v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next time that you create a new presentation and do not select a template, the presentation will be created using the new default presentation template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Až příště vytvoříte novou prezentaci a nevyberete šablonu, prezentace se vytvoří pomocí nové výchozí šablony prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reset the default presentation template back to the original LibreOffice default template for presentations:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obnovení výchozí prezentační šablony zpět na původní výchozí šablonu LibreOffice pro prezentace:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Settings&lt;/f0&gt; icon and select &lt;f1&gt;Reset Default Template &gt; Presentation&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Nastavení&lt;/f0&gt; ikona a vyberte&lt;f1&gt; Obnovit výchozí šablonu &gt; Prezentace&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The next time that you create a new presentation and do not select a template, the presentation will be created using the default LibreOffice template for presentations.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Až příště vytvoříte novou prezentaci a nevyberete šablonu, bude prezentace vytvořena pomocí výchozí šablony LibreOffice pro prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can edit template styles and content and reapply the template styles to presentations that were created from that template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete upravit styly a obsah šablony a znovu použít styly šablony na prezentace, které byly vytvořeny z této šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternatively, click on &lt;f0&gt;Templates&lt;/f0&gt; in LibreOffice start up window, then click on the small down arrow▼ and select &lt;f1&gt;Impress Templates&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Případně klikněte na&lt;f0&gt; Šablony&lt;/f0&gt; v úvodním okně LibreOffice klikněte na malou šipku dolů ▼ a vyberte&lt;f1&gt; Dojem šablony&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click on the template you want to edit and select &lt;f0&gt;Edit&lt;/f0&gt; from the context menu and the template will open in Impress.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na šablonu, kterou chcete upravit, a vyberte ji&lt;f0&gt; Upravit&lt;/f0&gt; z kontextové nabídky a šablona se otevře v aplikaci Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Carry out your editing updates of any styles, text and/or objects on the selected template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Proveďte úpravy úprav všech stylů, textu nebo objektů ve vybrané šabloně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;File &gt; Save&lt;/f0&gt; on the main menu bar or use the keyboard shortcut &lt;f1&gt;Ctrl+S&lt;/f1&gt; to save your changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Soubor &gt; Uložit&lt;/f0&gt; na liště hlavní nabídky nebo použijte klávesovou zkratku&lt;f1&gt; Ctrl + S&lt;/f1&gt; uložit změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Close the template or create a presentation using the edited template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zavřete šablonu nebo vytvořte prezentaci pomocí upravené šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any presentation created from the template before editing can be updated to show the changed template settings the next time you open the presentation after template editing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakoukoli prezentaci vytvořenou ze šablony před úpravou lze aktualizovat, aby se změněné nastavení šablony zobrazilo při příštím otevření prezentace po úpravě šablony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A confirmation dialog opens asking if you want to use the updated styles or keep the old styles.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevře se potvrzovací dialog s dotazem, zda chcete použít aktualizované styly nebo zachovat staré styly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If select to the keep the old styles, then the presentation will continue to use the old styles without any confirmation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud vyberete zachovat staré styly, bude prezentace nadále používat staré styly bez jakéhokoli potvrzení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice can only use templates that are in LibreOffice template folders (categories).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice může používat pouze šablony, které jsou ve složkách šablon (kategorií) LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create new LibreOffice template folders or categories and use them to organize your templates.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete vytvořit nové složky nebo kategorie šablon LibreOffice a použít je k uspořádání šablon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, separate template categories for different projects or clients.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například samostatné kategorie šablon pro různé projekty nebo klienty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of LibreOffice template folders varies with your computer operating system.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístění složek šablon LibreOffice se liší podle operačního systému vašeho počítače.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating template categories</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vytváření kategorií šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click on the &lt;f0&gt;Settings&lt;/f0&gt; icon and select &lt;f1&gt;New Category&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na ikonu&lt;f0&gt; Nastavení&lt;/f0&gt; ikona a vyberte&lt;f1&gt; Nová kategorie&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a category name in &lt;f0&gt;Enter category name&lt;/f0&gt; text box that has opened (Figure &lt;t1&gt;22&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte název kategorie do&lt;f0&gt; Zadejte název kategorie&lt;/f0&gt; otevřené textové pole (obrázek&lt;t1&gt; 22&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save your new category and the category will appear in the drop down list for categories filter at the top of the &lt;f1&gt;Select a Template&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; pro uložení nové kategorie a kategorie se zobrazí v rozevíracím seznamu pro filtr kategorií v horní části&lt;f1&gt; Vyberte šablonu&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting template categories</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mazání kategorií šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot delete the template categories supplied with LibreOffice or installed using the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nelze odstranit kategorie šablon dodávané s LibreOffice nebo nainstalované pomocí Správce rozšíření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can only delete categories that you have created.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete smazat pouze kategorie, které jste vytvořili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click on the &lt;f0&gt;Settings&lt;/f0&gt; icon and select &lt;f1&gt;Delete Category&lt;/f1&gt; from the context menu to open the &lt;f2&gt;Delete Category&lt;/f2&gt; dialog (Figure &lt;t3&gt;23&lt;/t3&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na ikonu&lt;f0&gt; Nastavení&lt;/f0&gt; ikona a vyberte&lt;f1&gt; Smazat kategorii&lt;/f1&gt; z kontextové nabídky otevřete&lt;f2&gt; Smazat kategorii&lt;/f2&gt; dialogové okno (obr&lt;t3&gt; 23&lt;/t3&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the category you want to delete.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte kategorii, kterou chcete odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to delete the category and confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; pro smazání kategorie a potvrzení smazání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;22&lt;/seq0&gt;: Creating new category</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 22&lt;/seq0&gt; : Vytváření nové kategorie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;23&lt;/seq0&gt;: Deleting categories</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 23&lt;/seq0&gt; : Mazání kategorií</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;24&lt;/seq0&gt;: Selecting template categories</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 24&lt;/seq0&gt; : Výběr kategorií šablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move a template from one category to another category:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesunutí šablony z jedné kategorie do jiné kategorie:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the template you want to move and click on the &lt;f0&gt;Move&lt;/f0&gt; icon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte šablonu, kterou chcete přesunout, a klikněte na ikonu&lt;f0&gt; Hýbat se&lt;/f0&gt; ikona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a category from the dis[played list or select &lt;f0&gt;Create a New Category&lt;/f0&gt; in the &lt;f1&gt;Select Category&lt;/f1&gt; dialog (Figure &lt;t2&gt;24&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte kategorii ze zobrazeného seznamu nebo vyberte&lt;f0&gt; Vytvořte novou kategorii&lt;/f0&gt; v&lt;f1&gt; Vyberte kategorii&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 24&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to move the template to its new category and close the &lt;f1&gt;Select Category&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; přesunete šablonu do nové kategorie a zavřete&lt;f1&gt; Vyberte kategorii&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You cannot delete the templates supplied with LibreOffice or installed using the Extension Manager.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nelze odstranit šablony dodané s LibreOffice nebo nainstalované pomocí Správce rozšíření.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click on the template you want to delete and select &lt;f0&gt;Delete&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na šablonu, kterou chcete odstranit, a vyberte ji&lt;f0&gt; Vymazat&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Yes&lt;/f0&gt; to confirm the deletion.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Ano&lt;/f0&gt; potvrďte odstranění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the template that you want to use is in a different location on your computer, you must import it into a LibreOffice template folder for LibreOffice to recognize the template.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je šablona, kterou chcete použít, v jiném umístění v počítači, musíte ji importovat do složky šablony LibreOffice, aby ji LibreOffice rozpoznala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the &lt;f0&gt;Import&lt;/f0&gt; icon and the &lt;f1&gt;Select Category&lt;/f1&gt; dialog (Figure &lt;t2&gt;24&lt;/t2&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Import&lt;/f0&gt; ikona a ikona&lt;f1&gt; Vyberte kategorii&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 24&lt;/t2&gt; ) se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the file browser window that opens, navigate to the folder where your template is located on your computer that you want to import.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V okně prohlížeče souborů, které se otevře, přejděte do složky, ve které je umístěna vaše šablona v počítači, kterou chcete importovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the template you want to export.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte šablonu, kterou chcete exportovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the &lt;f0&gt;Export&lt;/f0&gt; icon and a file browser window opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na ikonu&lt;f0&gt; Vývozní&lt;/f0&gt; ikona a otevře se okno prohlížeče souborů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the folder where you want to export the template and click on &lt;f0&gt;Select&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do složky, kam chcete šablonu exportovat, a klikněte na&lt;f0&gt; Vybrat&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template is exported and the file browser window closes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šablona se exportuje a okno prohlížeče souborů se zavře.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
