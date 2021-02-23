@@ -1,0 +1,2982 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 7, Spreadsheets, Charts, and Other Objects&lt;segment 39020 ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 7, Tabulky, grafy a další objekty&lt;segment 39020 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Drawings, text files, HTML files and other objects&lt;/t0&gt; | &lt;t1&gt;23&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Výkresy, textové soubory, soubory HTML a další objekty&lt;/t0&gt; |&lt;t1&gt; 23&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;18&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 7, Spreadsheets, Charts, and Other Objects&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;18&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; Kapitola 7, Tabulky, grafy a další objekty&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 7, Spreadsheets, Charts, and Other Objects&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 7, Tabulky, grafy a další objekty&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; 3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;4&lt;/t0&gt;| &lt;t1&gt;Chapter 7, Spreadsheets, Charts, and Other Objects&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;4&lt;/t0&gt; |&lt;t1&gt; Kapitola 7, Tabulky, grafy a další objekty&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OLE, Spreadsheets, Charts, and Other Objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>OLE, tabulky, grafy a další objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is Copyright © 2021 by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Autorská práva na tento dokument je © 2021 dokumentačním týmem LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To this edition.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K tomuto vydání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Samantha Hamilton</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Samantha Hamiltonová</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To previous editions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do předchozích vydání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elliot Turner</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elliot Turner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechno zaslané na seznam adresátů, včetně vaší e-mailové adresy a jakýchkoli dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nelze jej smazat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published February 2021.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno v únoru 2021.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice 7.0.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice 7.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table below gives some common substitutions for the instructions in this document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Níže uvedená tabulka uvádí některé běžné náhrady za pokyny v tomto dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobný seznam najdete v nápovědě aplikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Styles deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete balíček Styly v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OLE objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Objekty OLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting new OLE objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání nových objektů OLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting OLE objects from files</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání objektů OLE ze souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Resizing and moving &lt;/a0&gt;&lt;a1&gt;OLE objects&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Změna velikosti a přesun&lt;/a0&gt;&lt;a1&gt; Objekty OLE&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing spreadsheets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Úpravy tabulek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting cells, rows, or columns</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání buněk, řádků nebo sloupců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Deleting&lt;/a0&gt;&lt;a1&gt; cells, rows, or columns</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;a0&gt;Mazání&lt;/a0&gt;&lt;a1&gt; buňky, řádky nebo sloupce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Sheet dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog Vložit list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moving or copying sheets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesouvání nebo kopírování listů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cell data formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování dat buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Row formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování řádků</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Column formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Formátování sloupců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting charts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání grafů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chart Type dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dialog Typ grafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sidebar Chart Type</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typ grafu postranního panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chart and chart elements formatting</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Graf a formátování prvků grafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting audio or video</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vkládání zvuku nebo videa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a file browser</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí prohlížeče souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawings, text files, HTML files and other objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výkresy, textové soubory, soubory HTML a další objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Object Linking and Embedding (OLE) is a software technology that allows linking and embedding of the following types of files into an Impress presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Propojování a vkládání objektů (OLE) je softwarová technologie, která umožňuje propojení a vkládání následujících typů souborů do prezentace Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice spreadsheets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tabulky LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice charts</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice grafy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice drawings</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>LibreOffice kresby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice formulas</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzorce LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LibreOffice text</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Text LibreOffice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The major benefit of using OLE objects is that it provides a quick and easy method of editing the object using tools from the software used to create the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Hlavní výhodou použití objektů OLE je, že poskytuje rychlou a snadnou metodu úpravy objektu pomocí nástrojů ze softwaru použitého k vytvoření objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These file types can all be created using LibreOffice and OLE objects can be created from new or from an existing file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechny tyto typy souborů lze vytvořit pomocí LibreOffice a objekty OLE lze vytvořit z nového nebo z existujícího souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you insert a new OLE object into your presentation, it is only available in your presentation and can only be edited using Impress.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když do prezentace vložíte nový objekt OLE, je k dispozici pouze v prezentaci a lze jej upravovat pouze pomocí aplikace Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the slide where you want to insert an OLE object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte snímek, kam chcete vložit objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object&lt;/f0&gt; on the Menu bar to open the Insert OLE Object dialog (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Objekt &gt; Objekt OLE&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Vložit objekt OLE (obrázek&lt;t1&gt; 1&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Create new&lt;/f0&gt; and then select the type of OLE object you want to create.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Vytvořit nový&lt;/f0&gt; a poté vyberte typ objektu OLE, který chcete vytvořit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; and a new OLE object is inserted in the center of the slide in edit mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; a nový objekt OLE je vložen do středu snímku v režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The toolbars displayed change providing the necessary tools for you to create a new OLE object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazené panely nástrojů se mění a poskytují nástroje potřebné k vytvoření nového objektu OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For computers operating Windows, an additional option of &lt;f0&gt;Further objects&lt;/f0&gt; is available in the &lt;f1&gt;Object Type&lt;/f1&gt; list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>U počítačů se systémem Windows je další možností&lt;f0&gt; Další objekty&lt;/f0&gt; je k dispozici v&lt;f1&gt; Typ objektu&lt;/f1&gt; seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clicking on &lt;f2&gt;Further objects&lt;/f2&gt; opens an Insert Object dialog (Figure &lt;t3&gt;2&lt;/t3&gt;) allowing you to create an OLE object using other software that is compatible with OLE and LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na&lt;f2&gt; Další objekty&lt;/f2&gt; otevře dialogové okno Vložit objekt (obrázek&lt;t3&gt; 2&lt;/t3&gt; ), který vám umožní vytvořit objekt OLE pomocí jiného softwaru, který je kompatibilní s OLE a LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is available for new OLE objects and OLE objects from a file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost je k dispozici pro nové objekty OLE a objekty OLE ze souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Insert OLE Object dialog for new objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 1&lt;/seq0&gt; : Dialog Vložit objekt OLE pro nové objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Insert Object dialog for Windows OS</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 2&lt;/seq0&gt; : Dialog Vložit objekt pro OS Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Insert OLE Object dialog from file</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 3&lt;/seq0&gt; : Vložit dialogový objekt OLE ze souboru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert a file into your presentation as an OLE object:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postup vložení souboru do prezentace jako objektu OLE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object&lt;/f0&gt; on the Menu bar to open the &lt;f1&gt;Insert OLE Object&lt;/f1&gt; dialog (Figure &lt;t2&gt;1&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Objekt &gt; Objekt OLE&lt;/f0&gt; na liště nabídek otevřete&lt;f1&gt; Vložte objekt OLE&lt;/f1&gt; dialogové okno (obr&lt;t2&gt; 1&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Create from file&lt;/f0&gt; and the dialog changes to a file search dialog (Figure &lt;t1&gt;3&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Vytvořit ze souboru&lt;/f0&gt; a dialog se změní na dialogové okno pro vyhledávání souborů (obrázek&lt;t1&gt; 3&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Search&lt;/f0&gt; and a file open dialog is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Vyhledávání&lt;/f0&gt; a zobrazí se dialogové okno pro otevření souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Locate the file required and click &lt;f0&gt;Open&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyhledejte požadovaný soubor a klikněte na&lt;f0&gt; Otevřeno&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filename appears in the &lt;f1&gt;File&lt;/f1&gt; text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Název souboru se objeví v souboru&lt;f1&gt; Soubor&lt;/f1&gt; Textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert the OLE object using one of the following methods to insert the OLE object in the center of the slide in edit mode:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte objekt OLE pomocí jedné z následujících metod pro vložení objektu OLE do středu snímku v režimu úprav:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Link to file&lt;/f0&gt;, then click &lt;f1&gt;OK&lt;/f1&gt; to insert the OLE object with a link to the original file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Odkaz na soubor&lt;/f0&gt; , poté klikněte na&lt;f1&gt; OK&lt;/f1&gt; vložit objekt OLE s odkazem na původní soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Display as icon&lt;/f0&gt;, then click &lt;f1&gt;OK &lt;/f1&gt;to insert the OLE object as an icon.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Zobrazit jako ikonu&lt;/f0&gt; , poté klikněte na&lt;f1&gt; OK&lt;/f1&gt; vložit objekt OLE jako ikonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the icon is clicked on, the OLE object opens in a new window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po kliknutí na ikonu se objekt OLE otevře v novém okně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When inserting an existing file into a slide as an OLE object, by default, any changes made to the original file after insertion do not affect the copy of the file inserted into a presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vkládání existujícího souboru do snímku jako objektu OLE ve výchozím nastavení žádné změny provedené v původním souboru po vložení neovlivní kopii souboru vloženého do prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, changes to the file copy in a presentation do not change the original file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změny kopie souboru v prezentaci také nezmění původní soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want any changes made to the file, either in the original or in your presentation, to appear in both versions you have to link the original file with your presentation when it is inserted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete, aby se změny provedené v souboru, ať už v originálu, nebo v prezentaci, objevily v obou verzích, musíte po vložení propojit původní soubor s prezentací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on the OLE object to open it in edit mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poklepáním na objekt OLE jej otevřete v režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The toolbars in Impress will change to provide the tools necessary to edit the OLE object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panely nástrojů v aplikaci Impress se změní, aby poskytly nástroje potřebné k úpravám objektu OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When finished editing the OLE object, click anywhere outside the OLE object to cancel editing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení úprav objektu OLE zrušte úpravy kliknutím kdekoli mimo objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save the presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Uložit prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resizing and moving OLE objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna velikosti a přesunutí objektů OLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resizing and moving OLE objects is exactly the same as resizing and moving graphic objects in Impress.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Změna velikosti a přesunutí objektů OLE je přesně stejná jako změna velikosti a přesunutí grafických objektů v aplikaci Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information, see Chapter 5, Managing Graphic Objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 5, Správa grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When resizing or moving a spreadsheet on slides, ignore any horizontal and vertical scroll bars, and the first row and first column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při změně velikosti nebo přesunu tabulky na snímky ignorujte vodorovné a svislé posuvníky a první řádek a první sloupec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The the first row and first column are easily recognizable because of their light background color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>První řádek a první sloupec jsou snadno rozpoznatelné díky své světlé barvě pozadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are only used for spreadsheet editing purposes and will not be included in the spreadsheet that appears as an OLE object on the slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Používají se pouze pro účely úpravy tabulek a nebudou zahrnuty do tabulky, která se na snímku zobrazí jako objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not double click on a spreadsheet OLE object when editing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při úpravách dvakrát neklikejte na objekt OLE tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double clicking opens the OLE object editing mode for spreadsheets.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dvojitým kliknutím se otevře režim úprav objektů OLE pro tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To include a spreadsheet in an Impress slide, you can either insert an existing spreadsheet file or insert a new spreadsheet as an OLE object (see “&lt;bf0&gt;OLE objects&lt;/bf0&gt;” on page &lt;bf1&gt;5&lt;/bf1&gt;&lt;s2/&gt;for more information).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li do snímku Impress zahrnout tabulku, můžete buď vložit existující soubor tabulky, nebo vložit novou tabulku jako objekt OLE (viz „&lt;bf0&gt; Objekty OLE&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 5&lt;/bf1&gt;&lt;s2/&gt; Pro více informací).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on spreadsheets, see the&lt;f3&gt; Calc Guide&lt;/f3&gt; and the &lt;f4&gt;Getting Started Guide&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o tabulkách najdete v části&lt;f3&gt; Průvodce Calc&lt;/f3&gt; a&lt;f4&gt; Průvodce Začínáme&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embedding a spreadsheet into Impress includes most of the functionality of a Calc spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložení tabulky do aplikace Impress zahrnuje většinu funkcí tabulky Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress is capable of using Calc functions to carry out calculations and data analysis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Impress je schopen používat funkce Calc k provádění výpočtů a analýzy dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if you plan to use complex data or formulas, it is recommended to perform those operations in a separate Calc spreadsheet first, then embed into Impress the spreadsheet with the results.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud však plánujete použít složitá data nebo vzorce, doporučujeme provést tyto operace nejprve v samostatné tabulce Calc, až poté vložit do tabulky Impress s výsledky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may be tempted to use spreadsheets in Impress for creating tables or presenting data in a tabular format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Můžete být v pokušení použít tabulky v aplikaci Impress k vytváření tabulek nebo prezentaci dat v tabulkovém formátu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, inserting a table into Impress is often more suitable and faster, depending on the complexity of your data.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložení tabulky do Impressu je však často vhodnější a rychlejší, v závislosti na složitosti vašich dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 3, Adding and Formatting Text for more information on inserting and formatting tables.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o vkládání a formátování tabulek najdete v kapitole 3, Přidávání a formátování textu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entire spreadsheet is inserted into a slide as an OLE object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Celá tabulka je vložena do snímku jako objekt OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the spreadsheet contains more than one sheet and the one required is not visible, double-click the spreadsheet and then select a different sheet from the sheet tab row at the bottom.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tabulka obsahuje více než jeden list a ten požadovaný není viditelný, poklepejte na tabulku a poté vyberte jiný list z řádku karty listu dole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf0&gt;Editing OLE objects&lt;/bf0&gt;” on page &lt;bf1&gt;7&lt;/bf1&gt;&lt;s2/&gt;for more information on editing a spreadsheet as an OLE object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf0&gt; Úpravy objektů OLE&lt;/bf0&gt; “ na stránce&lt;bf1&gt; 7&lt;/bf1&gt;&lt;s2/&gt; Další informace o úpravách tabulky jako objektu OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Example OLE spreadsheet in editing mode</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 4&lt;/seq0&gt; : Příklad tabulky OLE v režimu úprav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Formatting toolbar for spreadsheets</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 5&lt;/seq0&gt; : Panel nástrojů formátování pro tabulky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a spreadsheet is inserted into a slide, it is in edit mode ready for inserting or modifying data or modifying the format (Figure &lt;t0&gt;4&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je tabulka vložena do snímku, je v režimu úprav připravena k vložení nebo úpravě dat nebo úpravě formátu (obrázek&lt;t0&gt; 4&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following also happens to provide and functions for spreadsheets:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K zajištění a funkcím tabulek se také stane následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calc formula toolbar replaces the Line and Filling bar as shown in Figure &lt;t0&gt;4&lt;/t0&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Calc formula nahradí čáru a výplň, jak je znázorněno na obrázku&lt;t0&gt; 4&lt;/t0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Formatting toolbar (Figure &lt;t0&gt;5&lt;/t0&gt;) for spreadsheets opens providing tools required for basic formatting of a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Formátování (Obrázek&lt;t0&gt; 5&lt;/t0&gt; ) pro tabulky se otevře a poskytuje nástroje potřebné pro základní formátování tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Menu bar changes to provide spreadsheet formatting options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lišta nabídky se mění a poskytuje možnosti formátování tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Calc formula bar contains the following from left to right:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lišta vzorců Calc obsahuje následující zleva doprava:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active cell reference or the name of a selected range of cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Aktivní odkaz na buňku nebo název vybraného rozsahu buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Function Wizard tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroj Průvodce funkcí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Function tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte funkční nástroj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Formula tool.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nástroj pro vzorce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An edit box to enter or review the displayed contents of the active cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Editační pole pro vstup nebo kontrolu zobrazeného obsahu aktivní buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the small triangle ▼ to the right of the edit box to expand, if necessary, the edit box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na malý trojúhelník ▼ napravo od editačního pole rozbalte v případě potřeby editační pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, when an embedded spreadsheet is opened, the active cell is A1.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ve výchozím nastavení je při otevření vložené tabulky aktivní buňka A1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move around the spreadsheet to select a cell to make it active, you can use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li se v tabulce pohybovat a vybrat buňku, aby byla aktivní, můžete použít jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keyboard arrow keys.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klávesy se šipkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Position the cursor in a cell and click.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Umístěte kurzor do buňky a klikněte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Enter&lt;/f0&gt; key to move one cell down and &lt;f1&gt;Shift+Enter&lt;/f1&gt; key combination to move one cell up.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Enter&lt;/f0&gt; klíč k přesunutí o jednu buňku dolů a&lt;f1&gt; Shift + Enter&lt;/f1&gt; kombinace kláves pro posun o jednu buňku nahoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tab&lt;/f0&gt; key to move one cell to the right and &lt;f1&gt;Shift+Tab&lt;/f1&gt; key combination to move one cell to the left.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tab&lt;/f0&gt; klíč k přesunutí jedné buňky doprava a&lt;f1&gt; Shift + Tab&lt;/f1&gt; kombinace kláves pro přesun o jednu buňku doleva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other keyboard shortcuts are available to navigate around a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K procházení tabulky jsou k dispozici další klávesové zkratky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refer to &lt;f0&gt;Getting Started Guide&lt;/f0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odkazují na&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cell reference or coordinates for the active cell is displayed at the left hand end of the Calc editing toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odkaz na buňku nebo souřadnice aktivní buňky se zobrazí na levém konci panelu nástrojů pro úpravy aplikace Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data input is also displayed in the edit box on the Calc formula toolbar making the data entry easier to read.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadání dat se také zobrazí v editačním poli na panelu nástrojů vzorce Calc, což usnadňuje čtení dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various tools and options on the Menu bar to enter data, formula, function, text, or date into a cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí různých nástrojů a možností na panelu nabídek můžete do buňky zadat data, vzorec, funkci, text nebo datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To confirm data input into a cell select a different cell with the cursor, or use the &lt;f0&gt;Enter&lt;/f0&gt; key, &lt;f1&gt;Shift+Enter&lt;/f1&gt; key combination, &lt;f2&gt;Tab&lt;/f2&gt; key, or &lt;f3&gt;Shift+Tab&lt;/f3&gt; key combination.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li potvrdit zadání dat do buňky, vyberte jinou buňku kurzorem nebo použijte&lt;f0&gt; Enter&lt;/f0&gt; klíč,&lt;f1&gt; Shift + Enter&lt;/f1&gt; kombinace kláves,&lt;f2&gt; Tab&lt;/f2&gt; klíč, nebo&lt;f3&gt; Shift + Tab&lt;/f3&gt; kombinace kláves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes it is useful to treat numbers as text (for example, telephone numbers) and to prevent Impress from removing the leading zeros or right align them in a cell.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Někdy je užitečné zacházet s čísly jako s textem (například s telefonními čísly) a zabránit Impressu v odstranění úvodních nul nebo zarovnání doprava v buňce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To force Impress to treat numbers as text, type a single quotation mark (') before entering the number.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přinutit Impress, aby s čísly zacházel jako s textem, zadejte před zadáním čísla jednoduchou uvozovku (').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight the required number of cells to be merged.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zvýrazněte požadovaný počet buněk, které mají být sloučeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge the highlighted cells using one of the following methods to open the Merge Cells dialog (Figure &lt;t0&gt;6&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloučením zvýrazněných buněk pomocí jedné z následujících metod otevřete dialogové okno Sloučit buňky (Obrázek&lt;t0&gt; 6&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Merge Cells &gt; Merge and Center Cells&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Sloučit buňky &gt; Sloučit a vycentrovat buňky&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Merge Cells &gt;&lt;/f0&gt; &lt;f1&gt;Merge Cells&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Sloučit buňky &gt;&lt;/f0&gt;&lt;f1&gt; Spojit buňky&lt;/f1&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected cells and select &lt;f0&gt;Merge Cells&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na vybrané buňky a vyberte&lt;f0&gt; Spojit buňky&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an option, click &lt;f0&gt;OK&lt;/f0&gt; to merge the cells and close the Merge Cells dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte možnost, klikněte na&lt;f0&gt; OK&lt;/f0&gt; sloučit buňky a zavřít dialogové okno Sloučit buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only multiple cells that have been merged can be split into separate cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pouze několik buněk, které byly sloučeny, lze rozdělit do samostatných buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a cell that was merged from multiple cells.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte buňku, která byla sloučena z více buněk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Merge Cells dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 6&lt;/seq0&gt; : Dialog Sloučit buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Split the merged cell into separate cells using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozdělte sloučenou buňku do samostatných buněk pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Merge Cells &gt; Split Cells&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Sloučit buňky &gt; Rozdělit buňky&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the cell and select &lt;f0&gt;Split Cells&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na buňku a vyberte&lt;f0&gt; Rozdělit buňky&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the same number of cells, rows, or columns on the embedded spreadsheet that you want to insert.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte stejný počet buněk, řádků nebo sloupců ve vložené tabulce, kterou chcete vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert cells using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte buňky pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Insert Cells&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; List &gt; Vložit buňky&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected cells and select &lt;f0&gt;Insert...&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na vybrané buňky a vyberte&lt;f0&gt; Vložit...&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Inserting cells opens the Insert Cells dialog (Figure &lt;t0&gt;7&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložením buněk se otevře dialogové okno Vložit buňky (obrázek&lt;t0&gt; 7&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select an insert option, then click &lt;f1&gt;OK&lt;/f1&gt; to insert the cells and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte možnost vložení a klikněte na&lt;f1&gt; OK&lt;/f1&gt; vložte buňky a zavřete dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert rows using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte řádky pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Insert Rows &gt; Rows Above&lt;/f0&gt; or &lt;f1&gt;Sheet &gt; Insert Rows &gt; Rows Below&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; List &gt; Vložit řádky &gt; Řádky výše&lt;/f0&gt; nebo&lt;f1&gt; List &gt; Vložit řádky &gt; Řádky níže&lt;/f1&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected rows and select &lt;f0&gt;Insert Rows Above&lt;/f0&gt; or &lt;f1&gt;Insert Rows Below &lt;/f1&gt;from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na vybrané řádky a vyberte&lt;f0&gt; Vložte řádky výše&lt;/f0&gt; nebo&lt;f1&gt; Níže vložte řádky&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert columns using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložení sloupců pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Insert Columns &gt; Columns Before&lt;/f0&gt; or &lt;f1&gt;Sheet &gt; Insert Columns &gt; Columns After&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; List &gt; Vložit sloupce &gt; Sloupce před&lt;/f0&gt; nebo&lt;f1&gt; List &gt; Vložit sloupce &gt; Sloupce po&lt;/f1&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected rows and select &lt;f0&gt;Insert Columns Before&lt;/f0&gt; or &lt;f1&gt;Insert Columns After&lt;/f1&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na vybrané řádky a vyberte&lt;f0&gt; Vložit sloupce dříve&lt;/f0&gt; nebo&lt;f1&gt; Vložit sloupce za&lt;/f1&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Insert Cells dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 7&lt;/seq0&gt; : Dialog Vložit buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Delete Cells dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 8&lt;/seq0&gt; : Dialog Odstranit buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting cells, rows, or columns</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Mazání buněk, řádků nebo sloupců</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the same number of cells, rows, or columns on the embedded spreadsheet that you want to delete.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte stejný počet buněk, řádků nebo sloupců ve vložené tabulce, kterou chcete odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete cells using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstraňte buňky pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Delete Cells&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; List &gt; Odstranit buňky&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected cells and select &lt;f0&gt;Delete...&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na vybrané buňky a vyberte&lt;f0&gt; Vymazat...&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting cells opens the Delete Cells dialog (Figure &lt;t0&gt;8&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranění buněk otevře dialogové okno Odstranit buňky (obrázek&lt;t0&gt; 8&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a delete option, then click &lt;f1&gt;OK&lt;/f1&gt; to delete the cells and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte možnost odstranění a klikněte na&lt;f1&gt; OK&lt;/f1&gt; odstranit buňky a zavřít dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete rows using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstranit řádky pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Delete Rows&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; List &gt; Odstranit řádky&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected rows and select &lt;f0&gt;Delete... &lt;/f0&gt;from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na vybrané řádky a vyberte&lt;f0&gt; Vymazat...&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete columns using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Odstraňte sloupce pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Delete Columns&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; List &gt; Odstranit sloupce&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the selected columns and select &lt;f0&gt;Delete Columns&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na vybrané sloupce a vyberte&lt;f0&gt; Odstranit sloupce&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on the embedded spreadsheet to open in edit mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poklepáním na vloženou tabulku otevřete v režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a sheet using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte list pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the plus sign to the left of the sheet names.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na znaménko plus nalevo od názvů listů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the sheet names and select &lt;f0&gt;Insert &gt; Sheet&lt;/f0&gt; from the context menu and the Insert Sheet dialog (Figure &lt;t1&gt;9&lt;/t1&gt;) opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na názvy listů a vyberte&lt;f0&gt; Vložit &gt; List&lt;/f0&gt; z kontextové nabídky a dialogu Vložit list (Obrázek&lt;t1&gt; 9&lt;/t1&gt; ) se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Sheet &gt; Insert Sheet&lt;/f0&gt; on the Menu bar to open the Insert Sheet dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; List &gt; Vložit list&lt;/f0&gt; na panelu nabídek otevřete dialogové okno Vložit list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When finished editing the embedded spreadsheet, click anywhere outside the border to cancel edit mode and save the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení úprav vložené tabulky klikněte kdekoli mimo ohraničení, abyste zrušili režim úprav a uložili změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are multiple sheets in an embedded spreadsheet, only the active sheet is shown on the slide after exiting edit mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je ve vložené tabulce více listů, po ukončení režimu úprav se na snímku zobrazí pouze aktivní list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Insert Sheet dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 9&lt;/seq0&gt; : Dialog Vložit list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Insert Sheet dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Vložit list.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;Position&lt;/f0&gt; for the new sheet in the spreadsheet – &lt;f1&gt;Before current sheet&lt;/f1&gt; or &lt;f2&gt;After current sheet&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Pozice&lt;/f0&gt; pro nový list v tabulce -&lt;f1&gt; Před aktuálním listem&lt;/f1&gt; nebo&lt;f2&gt; Po aktuálním listu&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a new sheet as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte nový list následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;New sheet&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Nový list&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;No.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Ne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>of sheets&lt;/f0&gt; to be inserted in the text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>listů&lt;/f0&gt; do textového pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Name&lt;/f0&gt; text box, enter a name for the new sheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V&lt;f0&gt; název&lt;/f0&gt; do textového pole zadejte název nového listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is not available if inserting multiple sheets.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost není k dispozici, pokud vkládáte více listů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a sheet from a file as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vložte list ze souboru následujícím způsobem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;From file&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Ze souboru&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Browse&lt;/f0&gt; to open an &lt;f1&gt;Insert&lt;/f1&gt; dialog and navigate to the file location.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Procházet&lt;/f0&gt; otevřít&lt;f1&gt; Vložit&lt;/f1&gt; dialogové okno a přejděte do umístění souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary click on &lt;f0&gt;Link&lt;/f0&gt; to create a link to the original file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby klikněte na&lt;f0&gt; Odkaz&lt;/f0&gt; vytvořit odkaz na původní soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the file and click on &lt;f0&gt;Open&lt;/f0&gt; and the sheet names in the file appear in the preview box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte soubor a klikněte na&lt;f0&gt; Otevřeno&lt;/f0&gt; a názvy listů v souboru se zobrazí v poli náhledu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the sheet you want to insert.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte list, který chcete vložit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the dialog and insert the sheet into the embedded spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; zavřete dialogové okno a vložte list do vložené tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When finished editing an embedded spreadsheet, click anywhere outside the border to cancel edit mode and save the changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Po dokončení úprav vložené tabulky klikněte kdekoli mimo ohraničení, abyste zrušili režim úprav a uložili změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the sheet you want to rename.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte list, který chcete přejmenovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the sheet tab and select &lt;f0&gt;Rename Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &gt; Rename Sheet&lt;/f1&gt; on the Menu bar to open the Rename Sheet dialog (Figure &lt;t2&gt;10&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na kartu listu a vyberte&lt;f0&gt; Přejmenovat list&lt;/f0&gt; z kontextové nabídky nebo přejděte na&lt;f1&gt; List &gt; Přejmenovat list&lt;/f1&gt; na panelu nabídek otevřete dialogové okno Přejmenovat list (Obrázek&lt;t2&gt; 10&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a new name for the sheet in the &lt;f0&gt;Name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do pole zadejte nový název listu&lt;f0&gt; název&lt;/f0&gt; Textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the name change and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; pro uložení změny názvu a zavření dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the sheet you want to move or copy.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte list, který chcete přesunout nebo zkopírovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;10&lt;/seq0&gt;: Rename Sheet dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 10&lt;/seq0&gt; : Přejmenovat dialogové okno List</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;11&lt;/seq0&gt;: Move/Copy Sheet dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 11&lt;/seq0&gt; : Dialog Přesunout / Kopírovat list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the sheet tab and select &lt;f0&gt;Move or Copy Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &gt; Move or Copy Sheet&lt;/f1&gt; on the Menu bar to open the Move/Copy Sheet dialog (Figure &lt;t2&gt;11&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na kartu listu a vyberte&lt;f0&gt; Přesunout nebo zkopírovat list&lt;/f0&gt; z kontextové nabídky nebo přejděte na&lt;f1&gt; List &gt; Přesunout nebo zkopírovat list&lt;/f1&gt; na panelu nabídek otevřete dialogové okno Přesunout / kopírovat list (obrázek&lt;t2&gt; 11&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move or copy a sheet to another position within the OLE spreadsheet in the same presentation is as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesunutí nebo kopírování listu na jiné místo v tabulce OLE ve stejné prezentaci je následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the option &lt;f0&gt;Move&lt;/f0&gt; or &lt;f1&gt;Copy&lt;/f1&gt; in &lt;f2&gt;Action&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte možnost&lt;f0&gt; Přestěhovat se&lt;/f0&gt; nebo&lt;f1&gt; kopírovat&lt;/f1&gt; v&lt;f2&gt; Akce&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the &lt;f0&gt;Location&lt;/f0&gt; in the &lt;f1&gt;To document&lt;/f1&gt; drop down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; Umístění&lt;/f0&gt; v&lt;f1&gt; Dokumentovat&lt;/f1&gt; rozbalovací seznam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Impress, the presentation is named &lt;f2&gt;Untitled 1 (current document).&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Impress je prezentace pojmenována&lt;f2&gt; Bez názvu 1 (aktuální dokument).&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the position within the spreadsheet from the available list in &lt;f0&gt;Insert before&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte pozici v tabulce z dostupného seznamu v&lt;f0&gt; Vložte před&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, enter a new name for the sheet in the &lt;f0&gt;New name&lt;/f0&gt; text box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby zadejte nový název listu do pole&lt;f0&gt; Nové jméno&lt;/f0&gt; Textové pole.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to move or copy the sheet and close the dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; přesunout nebo zkopírovat list a zavřít dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move or copy a sheet to another document containing a spreadsheet is as follows:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přesunutí nebo kopírování listu do jiného dokumentu obsahujícího tabulku je následující:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the spreadsheet in the target document is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je v cílovém dokumentu vybrána tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In Impress, the document is named &lt;f2&gt;Untitled 1 (current document)&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V aplikaci Impress je dokument pojmenován&lt;f2&gt; Bez názvu 1 (aktuální dokument)&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the document is a Calc spreadsheet, the filename of the Calc spreadsheet is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je dokumentem tabulka Calc, zobrazí se název souboru tabulky Calc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To move the sheet with a mouse within the embedded spreadsheet, click on the sheet tab and drag it to a new position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li list přesunout myší ve vložené tabulce, klikněte na kartu listu a přetáhněte ji na nové místo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the sheet you want to delete.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte list, který chcete odstranit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the sheet tab and select &lt;f0&gt;Delete Sheet&lt;/f0&gt; from the context menu, or go to &lt;f1&gt;Sheet &gt; Delete Sheet&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na kartu listu a vyberte&lt;f0&gt; Odstranit list&lt;/f0&gt; z kontextové nabídky nebo přejděte na&lt;f1&gt; List &gt; Odstranit list&lt;/f1&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Yes&lt;/f0&gt; to confirm the deletion of the sheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Ano&lt;/f0&gt; pro potvrzení odstranění listu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For presentation purposes, it may be necessary to change the formatting of a spreadsheet to match the style used in the presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro účely prezentace může být nutné změnit formátování tabulky tak, aby odpovídalo stylu použitému v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on an embedded spreadsheet, you can also access any styles created in Calc and use them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při práci na vložené tabulce můžete také přistupovat ke všem stylům vytvořeným v aplikaci Calc a používat je.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if you are going to use styles, it is recommended to create specific styles for embedded spreadsheets, as Calc styles maybe unsuitable when working in Impress.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud se však chystáte používat styly, doporučuje se vytvořit specifické styly pro vložené tabulky, protože styly Calc mohou být při práci v aplikaci Impress nevhodné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a cell or a range of cells in an embedded spreadsheet using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte buňku nebo oblast buněk ve vložené tabulce pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click in a cell to select it.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím vyberte buňku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select the whole sheet, click on the blank cell at the top left corner between the row and column headers.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat celý list, klikněte na prázdnou buňku v levém horním rohu mezi záhlavími řádků a sloupců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select the whole sheet, use the keyboard shortcut &lt;f0&gt;Ctrl+A&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat celý list, použijte klávesovou zkratku&lt;f0&gt; Ctrl + A&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select a column, click on the column header at the top of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat sloupec, klikněte na záhlaví sloupce v horní části tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To select a row, click on the row header on the left hand side of the spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vybrat řádek, klikněte na záhlaví řádku na levé straně tabulky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Format Cells dialog (Figure &lt;t0&gt;12&lt;/t0&gt;) using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Formátovat buňky (obrázek&lt;t0&gt; 12&lt;/t0&gt; ) pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on a cell and select &lt;f0&gt;Format Cells&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na buňku a vyberte&lt;f0&gt; Formátovat buňky&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format &gt; Cells&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát &gt; Buňky&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the keyboard shortcut &lt;f0&gt;Ctrl+1&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte klávesovou zkratku&lt;f0&gt; Ctrl + 1&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various pages in the &lt;f0&gt;Format Cells&lt;/f0&gt; dialog to the cell data so that it matches the style of your presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použijte různé stránky v&lt;f0&gt; Formátovat buňky&lt;/f0&gt; dialogové okno s daty buňky tak, aby odpovídalo stylu vaší prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the &lt;f1&gt;Format Cells&lt;/f1&gt; dialog and save your changes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; zavřít&lt;f1&gt; Formátovat buňky&lt;/f1&gt; a uložte provedené změny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you are satisfied with the formatting changes, click outside the spreadsheet area to save your changes and cancel editing mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jste se změnami formátování spokojeni, kliknutím mimo oblast tabulky uložte změny a zrušte režim úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a row by clicking in the row header.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte řádek kliknutím do záhlaví řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjust the row height using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Upravte výšku řádku pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click in the row header and select &lt;f0&gt;Row Height&lt;/f0&gt; from the context menu and set the row height in the &lt;f1&gt;Height&lt;/f1&gt; text in the Row Height dialog that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem do záhlaví řádku a vyberte&lt;f0&gt; Výška řádku&lt;/f0&gt; z místní nabídky a nastavte výšku řádku v&lt;f1&gt; Výška&lt;/f1&gt; text v dialogovém okně Výška řádku, které se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click in the row header and select &lt;f0&gt;Row Height&lt;/f0&gt; from the context menu and select the &lt;f1&gt;Default value&lt;/f1&gt; for row height in the Row Height dialog that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem do záhlaví řádku a vyberte&lt;f0&gt; Výška řádku&lt;/f0&gt; z místní nabídky a vyberte&lt;f1&gt; Výchozí hodnota&lt;/f1&gt; pro výšku řádku v dialogu Výška řádku, který se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;12&lt;/seq0&gt;: Format Cells dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 12&lt;/seq0&gt; : Dialog Formátovat buňky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click in the row header and select &lt;f0&gt;Optimal Height&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem do záhlaví řádku a vyberte&lt;f0&gt; Optimální výška&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter an optimal height in the &lt;f1&gt;Add&lt;/f1&gt; text box or select the &lt;f2&gt;Default value&lt;/f2&gt; in the Optimal Row Height dialog that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte optimální výšku do&lt;f1&gt; Přidat&lt;/f1&gt; textové pole nebo vyberte&lt;f2&gt; Výchozí hodnota&lt;/f2&gt; v dialogovém okně Optimální výška řádku, které se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The optimal row height depends on the font size of the largest character in a row.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Optimální výška řádku závisí na velikosti písma největšího znaku v řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hover the cursor over the bottom border in the row header until it changes shape, then click and drag the border to increase or decrease the row height.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podržte kurzor nad dolním okrajem v záhlaví řádku, dokud nezmění tvar, poté kliknutím a přetažením ohraničení zvětšete nebo zmenšete výšku řádku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a column by clicking in the column header.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte sloupec kliknutím do záhlaví sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adjust the column width using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Šířku sloupce upravte jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click in the column header and select &lt;f0&gt;Column Width&lt;/f0&gt; from the context menu and set the column width in the &lt;f1&gt;Width&lt;/f1&gt; text box in the Column Width dialog that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem do záhlaví sloupce a vyberte&lt;f0&gt; Šířka sloupce&lt;/f0&gt; z místní nabídky a nastavte šířku sloupce v&lt;f1&gt; Šířka&lt;/f1&gt; textové pole v dialogovém okně Šířka sloupce, které se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click in the column header and select &lt;f0&gt;Column Width&lt;/f0&gt; from the context menu and select the &lt;f1&gt;Default value&lt;/f1&gt; for column width in the Column Width dialog that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem do záhlaví sloupce a vyberte&lt;f0&gt; Šířka sloupce&lt;/f0&gt; z místní nabídky a vyberte&lt;f1&gt; Výchozí hodnota&lt;/f1&gt; pro šířku sloupce v dialogu Šířka sloupce, který se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right click in the column header and select &lt;f0&gt;Optimal Width&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem do záhlaví sloupce a vyberte&lt;f0&gt; Optimální šířka&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter an optimal width in the &lt;f1&gt;Add&lt;/f1&gt; text box or select the &lt;f2&gt;Default value&lt;/f2&gt; in the Optimal Column Width dialog that opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte optimální šířku do&lt;f1&gt; Přidat&lt;/f1&gt; textové pole nebo vyberte&lt;f2&gt; Výchozí hodnota&lt;/f2&gt; v dialogovém okně Optimální šířka sloupce, které se otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The optimal column width depends on the longest entry within a column.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Optimální šířka sloupce závisí na nejdelší položce ve sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hover the cursor over the left or right border in the column header until it changes shape, then click and drag the border to increase or decrease the column width.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Najeďte kurzorem na levý nebo pravý okraj v záhlaví sloupce, dokud nezmění tvar, poté kliknutím a přetažením ohraničení zvětšete nebo zmenšete šířku sloupce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;13&lt;/seq0&gt;: Calc Styles deck in Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 13&lt;/seq0&gt; : Balíček Calc Styles v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using styles in an embedded spreadsheet and the spreadsheet is in edit mode, Impress displays the available styles for a spreadsheet in the Styles deck on the Sidebar (Figure &lt;t0&gt;13&lt;/t0&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když používáte styly ve vložené tabulce a tabulka je v režimu úprav, Impress zobrazí dostupné styly pro tabulku na panelu Styly na postranním panelu (obrázek&lt;t0&gt; 13&lt;/t0&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Styles used in an embedded spreadsheet are similar to paragraph styles used in LibreOffice Writer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Styly použité ve vložené tabulce jsou podobné stylům odstavců použitým v LibreOffice Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the data in a cell or cells in the embedded spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte data v buňce nebo buňkách ve vložené tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Styles&lt;/f0&gt; to open the Styles deck in the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Styly&lt;/f0&gt; otevřete balíček Styly v postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click on a style to apply that style to the cell data.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Poklepáním na styl použijete tento styl na data buňky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A chart is a graphical interpretation of information that is contained in a spreadsheet.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Graf je grafická interpretace informací obsažených v tabulce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More information about charts and the use of charts, see the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o grafech a použití grafů najdete v části&lt;f0&gt; Průvodce Calc&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;14&lt;/seq0&gt;: Example chart in editing mode</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 14&lt;/seq0&gt; : Příklad grafu v režimu úprav</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;15&lt;/seq0&gt;: Chart Formatting toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 15&lt;/seq0&gt; : Panel nástrojů Formátování grafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;16&lt;/seq0&gt;: Chart Type dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 16&lt;/seq0&gt; : Dialog Typ grafu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the slide where you want to insert a chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte snímek, kam chcete vložit graf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use one of the following methods to insert a chart:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K vložení grafu použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Object &gt; OLE Object&lt;/f0&gt; on the Menu bar to insert a chart as an OLE object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Objekt &gt; Objekt OLE&lt;/f0&gt; na panelu nabídek pro vložení grafu jako objektu OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See “&lt;bf1&gt;OLE objects&lt;/bf1&gt;” on page &lt;bf2&gt;5&lt;/bf2&gt; for more information on inserting a chart as an OLE object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Viz „&lt;bf1&gt; Objekty OLE&lt;/bf1&gt; “ na stránce&lt;bf2&gt; 5&lt;/bf2&gt; Další informace o vložení grafu jako objektu OLE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Chart&lt;/f0&gt; on the Menu bar and an example chart is inserted in the center of the slide in editing mode (Figure &lt;t1&gt;14&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Graf&lt;/f0&gt; na liště nabídek a uprostřed grafu se v režimu úprav vloží ukázkový graf (obrázek&lt;t1&gt; 14&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Chart&lt;/f0&gt; on the Standard toolbar and an example chart is inserted in the center of the slide in editing mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Schéma&lt;/f0&gt; na panelu nástrojů Standardní a vzorový graf se vloží do středu snímku v režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, click outside the chart area to cancel editing mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V případě potřeby zrušte režim úprav kliknutím mimo oblast grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When a chart is in editing mode, the Formatting toolbar (Figure &lt;t0&gt;15&lt;/t0&gt;) for charts automatically opens replacing the Line and Filling and Standard toolbars.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Když je graf v režimu úprav, panel nástrojů Formátování (obrázek&lt;t0&gt; 15&lt;/t0&gt; ) pro grafy se automaticky otevře a nahradí panely nástrojů Čára a Plnění a Standardní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress contains several examples of chart types that will help you convey your message to your audience.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Impress obsahuje několik příkladů typů grafů, které vám pomohou sdělit vaši zprávu vašemu publiku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a chart type using the Chart Type dialog (Figure &lt;t0&gt;16&lt;/t0&gt;) or the Chart Type section in the Properties deck on the Sidebar (Figure &lt;t1&gt;17&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typ grafu můžete vybrat pomocí dialogu Typ grafu (Obrázek&lt;t0&gt; 16&lt;/t0&gt; ) nebo část Typ grafu na panelu Vlastnosti na bočním panelu (Obrázek&lt;t1&gt; 17&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;17&lt;/seq0&gt;: Chart Type section in Properties on Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 17&lt;/seq0&gt; : Část Typ grafu v Vlastnosti na bočním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure the chart is selected and is in editing mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ujistěte se, že je graf vybrán a je v režimu úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The chart has a border and selection handles when in editing mode.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V režimu úprav má graf ohraničení a úchyty pro výběr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Chart Type dialog using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Typ grafu pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;Chart Type&lt;/f0&gt; on the Formatting toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; Typ grafu&lt;/f0&gt; na panelu nástrojů Formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a chart type from the left-hand preview box and the chart examples on the right change.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte typ grafu z levého pole náhledu a příklady grafu vpravo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, the available options for chart types change to match the chart type.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Dostupné možnosti pro typy grafů se také mění tak, aby odpovídaly typu grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a chart example from the right-hand preview box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V pravém okně náhledu vyberte příklad grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the options required for the chart type selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte možnosti požadované pro vybraný typ grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to close the Chart Type dialog and return to the edit window.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; zavřete dialog Typ grafu a vrátíte se do editačního okna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue to format the chart, add data to the chart, or click outside the chart to return to normal view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokračujte ve formátování grafu, přidávání dat do grafu nebo kliknutím mimo graf se vraťte do normálního zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Properties&lt;/f0&gt; on the Sidebar to open the Properties deck.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Vlastnosti&lt;/f0&gt; na bočním panelu otevřete balíček Vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the downward pointing arrow ˅ on the left of title bar for the &lt;f0&gt;Chart Type&lt;/f0&gt; section.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na šipku směřující dolů ˅ vlevo od záhlaví pro ikonu&lt;f0&gt; Typ grafu&lt;/f0&gt; sekce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the chart type from the drop down list.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Z rozevíracího seznamu vyberte typ grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a chart example from the preview box.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte příklad grafu z pole náhledu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the chart elements required for the chart type from the &lt;f0&gt;Elements&lt;/f0&gt; section on the Sidebar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte prvky grafu požadované pro typ grafu z&lt;f0&gt; Elementy&lt;/f0&gt; sekce na postranním panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following summary of available chart types will help you to choose a type suitable for the data being used to create the chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Následující přehled dostupných typů grafů vám pomůže vybrat typ vhodný pro data použitá k vytvoření grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Column, bar, pie and area charts are available as 2D or 3D types.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Sloupcové, pruhové, výsečové a plošné grafy jsou k dispozici jako 2D nebo 3D typy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on charts, see the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o grafech najdete v části&lt;f0&gt; Průvodce Calc&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Column&lt;/f0&gt; – displays data that shows trends over time.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Sloupec&lt;/f0&gt; - zobrazuje data, která ukazují trendy v čase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chart is the default chart type used when a chart is inserted into a slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento graf je výchozí typ grafu používaný při vložení grafu do snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is a large time series as data, it is recommended to use a line chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud existuje velká časová řada jako data, doporučuje se použít spojnicový graf.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bar&lt;/f0&gt; – give an immediate visual impact for data comparison where time is not important, for example comparing the popularity of products in a marketplace.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Bar&lt;/f0&gt; - poskytnout okamžitý vizuální dopad pro srovnání dat, kde není důležitý čas, například porovnání popularity produktů na trhu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Pie&lt;/f0&gt; – give a comparison of proportions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Koláč&lt;/f0&gt; - porovnejte proporce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, when comparing what different departments spent on different items or what different departments actually spent overall.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například při porovnávání toho, co různá oddělení utratila za různé položky nebo co různá oddělení skutečně utratila celkově.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Area&lt;/f0&gt; – are versions of line or column charts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Plocha&lt;/f0&gt; - jsou verze spojnicových nebo sloupcových grafů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are useful when emphasis of volume change is required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jsou užitečné, když je vyžadován důraz na změnu hlasitosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Area charts have a greater visual impact than a line chart, but the type of data used does make a difference to the visual impact.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Plošné grafy mají větší vizuální dopad než spojnicový graf, ale typ použitých dat má vliv na vizuální dopad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Line&lt;/f0&gt; – are time series with progression.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Čára&lt;/f0&gt; - jsou časové řady s progresí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ideal for raw data and useful for charts with data showing trends or changes over time where an emphasis in continuity is required.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ideální pro nezpracovaná data a užitečné pro grafy s daty zobrazujícími trendy nebo změny v čase, kde je vyžadován důraz na kontinuitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3D lines confuse the viewer, so just using a thicker line gives a better visual impact.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>3D čáry diváka zmást, takže pouhým použitím silnější čáry získáte lepší vizuální dopad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;XY (Scatter)&lt;/f0&gt; – are great for visualizing data that have not been analyzed fully and may be best for data where have a constant value for comparison.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;XY (bodový)&lt;/f0&gt; - jsou skvělé pro vizualizaci dat, která nebyla plně analyzována, a mohou být nejlepší pro data, která mají pro srovnání konstantní hodnotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example weather data, reactions under different acidity levels, conditions at altitude, or any data which matches two numeric series.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Například údaje o počasí, reakce při různých úrovních kyselosti, podmínky ve výšce nebo jakákoli data, která odpovídají dvěma číselným řadám.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Bubble&lt;/f0&gt; – are used to represent three variables.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Bublina&lt;/f0&gt; - slouží k reprezentaci tří proměnných.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Net&lt;/f0&gt; – are similar to polar or radar graphs and are useful for comparing data not in time series, but show different circumstances, such as variables in a scientific experiment.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Síť&lt;/f0&gt; - jsou podobné polárním nebo radarovým grafům a jsou užitečné pro srovnání dat, která nejsou v časových řadách, ale ukazují různé okolnosti, například proměnné ve vědeckém experimentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Stock&lt;/f0&gt; – are specialized column graphs specifically used for stocks and shares.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Skladem&lt;/f0&gt; - jsou specializované sloupcové grafy speciálně používané pro akcie a akcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>choose traditional lines, candlestick, and two-column charts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>vyberte tradiční řádky, svícen a grafy se dvěma sloupci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The data required for these charts is specialized with a series for opening price, closing price, and high and low prices.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Data požadovaná pro tyto grafy se specializují na řadu pro otevírací cenu, uzavírací cenu a vysoké a nízké ceny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;18&lt;/seq0&gt;: Data Table dialog</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 18&lt;/seq0&gt; : Dialog Tabulka dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Column and line&lt;/f0&gt; – are a combination of two other chart types.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Sloupec a čára&lt;/f0&gt; - jsou kombinací dvou dalších typů grafů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Data Table dialog (Figure &lt;t0&gt;18&lt;/t0&gt;) using one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete dialogové okno Tabulka dat (obrázek&lt;t0&gt; 18&lt;/t0&gt; ) pomocí jedné z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Data Table&lt;/f0&gt; on the Formatting toolbar for charts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Datová tabulka&lt;/f0&gt; na panelu nástrojů Formát pro grafy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Data Table&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Tabulka dat&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the chart and select &lt;f0&gt;Data Table&lt;/f0&gt; from the context menu..</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na graf a vyberte&lt;f0&gt; Datová tabulka&lt;/f0&gt; z kontextového menu ..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Type or paste information into the cells to enter data into the Data Table dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte nebo vložte informace do buněk a zadejte data do dialogového okna Datová tabulka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the tools in the top left corner of the Data Table dialog to insert, delete or reposition rows or columns (series).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pomocí nástrojů v levém horním rohu dialogového okna Datová tabulka můžete vkládat, mazat nebo přesouvat řádky nebo sloupce (řady).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;f0&gt;Close&lt;/f0&gt; to save the changes and close the Data Table dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na&lt;f0&gt; Zavřít&lt;/f0&gt; uložit změny a zavřít dialogové okno Tabulka dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click outside the chart to return to normal view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím mimo graf se vrátíte do normálního zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To insert, delete or reposition a column, use the tools &lt;f0&gt;Insert Series&lt;/f0&gt;, &lt;f1&gt;Delete Series&lt;/f1&gt;, &lt;f2&gt;Move Series Left&lt;/f2&gt;, and &lt;f3&gt;Move Series Right&lt;/f3&gt; in the Data Table dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li vložit, odstranit nebo přemístit sloupec, použijte nástroje&lt;f0&gt; Vložte řadu&lt;/f0&gt; ,&lt;f1&gt; Odstranit sérii&lt;/f1&gt; ,&lt;f2&gt; Přesuňte sérii doleva&lt;/f2&gt; , a&lt;f3&gt; Posuňte sérii doprava&lt;/f3&gt; v dialogovém okně Tabulka dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add an element to the chart use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li přidat prvek do grafu, použijte jednu z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert&lt;/f0&gt; on the Menu bar and select, from the submenu, an element to add to the chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit&lt;/f0&gt; na liště nabídek a z podnabídky vyberte prvek, který chcete přidat do grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the chart and select an element from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na graf a vyberte prvek z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the chart wall and select an element from the context menu</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte pravým tlačítkem na zeď grafu a vyberte prvek z kontextové nabídky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on an element and select an element from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na prvek a vyberte prvek z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;Elements&lt;/f0&gt; section in the Properties deck on the Sidebar (Figure &lt;t1&gt;17&lt;/t1&gt; page &lt;t2&gt;18&lt;/t2&gt;) and select elements from the options available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevři&lt;f0&gt; Elementy&lt;/f0&gt; sekce na panelu Vlastnosti na bočním panelu (obrázek&lt;t1&gt; 17&lt;/t1&gt; strana&lt;t2&gt; 18&lt;/t2&gt; ) a vyberte prvky z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the method selected to add an element will affect what type of element you can add to the chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na zvolené metodě přidání prvku bude mít vliv na to, jaký typ prvku můžete přidat do grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, when adding some elements to the chart, a dialog may open with more options to select for the element being added.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při přidávání některých prvků do grafu se také může otevřít dialog s dalšími možnostmi výběru pro přidávaný prvek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To remove an element from a chart use one of the following methods:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li odebrat prvek z grafu, použijte jednu z následujících metod:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on the chart element you want to remove and select the delete option from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na prvek grafu, který chcete odebrat, a vyberte možnost odstranění z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The type of element selected for removal changes the delete options in the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Typ prvku vybraného k odebrání změní možnosti odstranění v místní nabídce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a chart element and press the delete or backspace key to remove it from the chart.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte prvek grafu a stisknutím klávesy Delete nebo Backspace jej z grafu odeberte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;Elements&lt;/f0&gt; section in the Properties deck on the Sidebar and deselect the element.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevři&lt;f0&gt; Elementy&lt;/f0&gt; v paletě Vlastnosti na bočním panelu a zrušte výběr prvku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To format an element on the chart use one of the following methods.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K formátování prvku v grafu použijte jednu z následujících metod.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Format&lt;/f0&gt; on the Menu bar and select an element you want to format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Formát&lt;/f0&gt; na liště nabídek a vyberte prvek, který chcete formátovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-click on an element and select &lt;f0&gt;Format XXXX&lt;/f0&gt; from the context menu.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte pravým tlačítkem na prvek a vyberte&lt;f0&gt; Formát XXXX&lt;/f0&gt; z kontextové nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The format option changes depending on which chart element has been selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnost formátu se mění v závislosti na tom, který prvek grafu byl vybrán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, select the chart wall and the format option is called &lt;f1&gt;Format Chart Wall&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte například stěnu grafu a zavolá se možnost formátu&lt;f1&gt; Formátovat zeď grafu&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various tools on the Formatting toolbar for charts (Figure &lt;t0&gt;16&lt;/t0&gt; on page &lt;t1&gt;17&lt;/t1&gt;) to format a chart element.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pro grafy použijte různé nástroje na panelu nástrojů Formátování (obrázek&lt;t0&gt; 16&lt;/t0&gt; na stránce&lt;t1&gt; 17&lt;/t1&gt; ) pro formátování prvku grafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting an element opens a formatting dialog specific for the element selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Výběr prvku otevře dialogové okno formátování specifické pro vybraný prvek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the various options in the formatting dialog to format the element.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K formátování prvku použijte různé možnosti v dialogovém okně formátování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on formatting a chart, chart elements, and formatting options available, see the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o formátování grafu, prvcích grafu a dostupných možnostech formátování najdete v části&lt;f0&gt; Průvodce Calc&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A chart and its chart elements can be resized and moved just like all other objects on a slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Graf a jeho prvky grafu lze měnit a přesouvat stejně jako všechny ostatní objekty na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on resizing and moving a chart, see Chapter 5, Managing Graphic Objects and the &lt;f0&gt;Calc Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o změně velikosti a přesunutí grafu najdete v kapitole 5, Správa grafických objektů a v části&lt;f0&gt; Průvodce Calc&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Audio or Video&lt;/f0&gt; on the Menu bar and a file browser for Insert Audio or Video opens (Figure &lt;t1&gt;19&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Zvuk nebo Video&lt;/f0&gt; na liště nabídek a otevře se prohlížeč souborů pro vložení zvuku nebo videa (obrázek&lt;t1&gt; 19&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Navigate to the folder where the audio or video file is located.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte do složky, kde je umístěn zvukový nebo video soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the audio and video files that are compatible with Impress will be highlighted in the file browser.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V prohlížeči souborů budou zvýrazněny pouze zvukové a video soubory kompatibilní s Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the compatible audio or video file required and click &lt;f0&gt;Open&lt;/f0&gt; to embed the file in the center of the slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte požadovaný kompatibilní zvukový nebo video soubor a klikněte na&lt;f0&gt; Otevřeno&lt;/f0&gt; pro vložení souboru do středu snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Media Playback toolbar (Figure &lt;t1&gt;20&lt;/t1&gt;) automatically opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Přehrávání médií (Obrázek&lt;t1&gt; 20&lt;/t1&gt; ) se automaticky otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reposition and/or resize the audio or video file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přemístěte a / nebo změňte velikost zvukového nebo video souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 5, Managing Graphic Objects for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace najdete v kapitole 5, Správa grafických objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;19&lt;/seq0&gt;: Insert Audio or Video file browser</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 19&lt;/seq0&gt; : Vložte prohlížeč zvukových nebo video souborů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;20&lt;/seq0&gt;: Media Playback toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 20&lt;/seq0&gt; : Panel nástrojů Přehrávání médií</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the Gallery deck is not already open, use one of the following methods to open the Gallery deck:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud balíček Galerie ještě není otevřený, otevřete balíček Galerie jedním z následujících způsobů:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Sidebar&lt;/f0&gt; on the Menu bar to open the Sidebar and select &lt;f1&gt;Gallery&lt;/f1&gt; from the options available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Postranní panel&lt;/f0&gt; na liště nabídek otevřete postranní panel a vyberte&lt;f1&gt; Galerie&lt;/f1&gt; z dostupných možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;View &gt; Gallery&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Zobrazit &gt; Galerie&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse to a theme containing media files, for example &lt;f0&gt;Sounds&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte například na téma obsahující mediální soubory&lt;f0&gt; Zvuky&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on the audio or video option required and drag it onto the slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na požadovanou možnost zvuku nebo videa a přetáhněte ji na snímek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Media Playback toolbar automatically opens.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Přehrávání médií se automaticky otevře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Media Playback toolbar automatically opens when an audio or video file is selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Přehrávání médií se automaticky otevře, když je vybrán zvukový nebo video soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Media Playback toolbar contains the following tools from left to right:</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Panel nástrojů Přehrávání médií obsahuje následující nástroje zleva doprava:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Insert Audio or Video&lt;/f0&gt; – opens the &lt;f1&gt;Insert Audio or Video&lt;/f1&gt; file browser where you can select a media file for insertion into a slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vložte audio nebo video&lt;/f0&gt; - otevře&lt;f1&gt; Vložte audio nebo video&lt;/f1&gt; prohlížeč souborů, kde můžete vybrat mediální soubor pro vložení do snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Play&lt;/f0&gt; – plays the media playback.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Hrát si&lt;/f0&gt; - přehrává přehrávání médií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Pause&lt;/f0&gt; – pauses the playing of the media.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pauza&lt;/f0&gt; - pozastaví přehrávání médií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Stop&lt;/f0&gt; – stops the playing of media.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stop&lt;/f0&gt; - zastaví přehrávání médií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Repeat&lt;/f0&gt; – if selected, repeats the playing of the media until the tool is deselected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Opakovat&lt;/f0&gt; - pokud je vybráno, opakuje přehrávání média, dokud není zrušen výběr nástroje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Position&lt;/f0&gt; – selects the position of where to start playing from within the media file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pozice&lt;/f0&gt; - vybere pozici, kde se má zahájit přehrávání z mediálního souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Mute&lt;/f0&gt; – suppresses the volume of a media file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Ztlumit&lt;/f0&gt; - potlačí hlasitost mediálního souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Media Path&lt;/f0&gt; – indicates where the media file is stored on a computer</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Mediální cesta&lt;/f0&gt; - označuje, kde je mediální soubor uložen v počítači</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; Object &gt; Formula&lt;/f0&gt; on the Menu bar to create a formula in a slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Objekt &gt; Vzorec&lt;/f0&gt; na panelu nabídek a vytvořte vzorec na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A formula can also be inserted as an OLE object; see “&lt;bf1&gt;OLE objects&lt;/bf1&gt;” on page &lt;bf2&gt;5&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzorec lze také vložit jako objekt OLE; viz „&lt;bf1&gt; Objekty OLE&lt;/bf1&gt; “ na stránce&lt;bf2&gt; 5&lt;/bf2&gt;&lt;s3/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When editing a formula, the Math menu becomes available allowing you to create or edit a formula.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při úpravách vzorce je k dispozici nabídka Matematika, která umožňuje vytvořit nebo upravit vzorec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For information on how to create formulas, see the &lt;f0&gt;Math Guide&lt;/f0&gt; or the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Informace o tom, jak vytvářet vzorce, najdete v části&lt;f0&gt; Matematický průvodce&lt;/f0&gt; nebo&lt;f1&gt; Průvodce Začínáme&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When creating formulas, care should be taken about font sizes used to make sure they are similar in size to the font size used in the presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při vytváření vzorců je třeba dávat pozor na použité velikosti písma, abyste se ujistili, že mají podobnou velikost jako velikost písma použitá v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change font attributes of a formula, go to &lt;f0&gt;Format &gt; Font Size&lt;/f0&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit atributy písma vzorce, přejděte na&lt;f0&gt; Formát &gt; Velikost písma&lt;/f0&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change font type, go to &lt;f1&gt;Format &gt; Fonts&lt;/f1&gt; on the Menu bar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li změnit typ písma, přejděte na&lt;f1&gt; Formát &gt; Písma&lt;/f1&gt; na liště nabídek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike formulas in Writer, a formula in Impress is treated as an object and will not be automatically aligned with the rest of the objects on the slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na rozdíl od vzorců v aplikaci Writer je vzorec v aplikaci Impress považován za objekt a nebude automaticky zarovnán se zbytkem objektů na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The formula can be moved around like other objects in Impress, but cannot be resized.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vzorec lze přesouvat jako ostatní objekty v aplikaci Impress, ale nelze jej změnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can insert into a presentation drawings, text files, HTML files and other objects, but only objects that are compatible for insertion into an Impress presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do prezentace můžete vložit výkresy, textové soubory, soubory HTML a další objekty, ale pouze objekty, které jsou kompatibilní s vložením do prezentace Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Insert &gt; File&lt;/f0&gt; on the Menu bar to open a file selection dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Vložit &gt; Soubor&lt;/f0&gt; na panelu nabídek otevřete dialogové okno pro výběr souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only files compatible with Impress will be available for selection.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K výběru budou k dispozici pouze soubory kompatibilní s Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drawings, text files, HTML files and other objects can also be inserted as OLE objects; see “&lt;bf1&gt;OLE objects&lt;/bf1&gt;” on page &lt;bf2&gt;5&lt;/bf2&gt;&lt;s3/&gt;for more information.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kresby, textové soubory, soubory HTML a další objekty lze také vložit jako objekty OLE; viz „&lt;bf1&gt; Objekty OLE&lt;/bf1&gt; “ na stránce&lt;bf2&gt; 5&lt;/bf2&gt;&lt;s3/&gt; Pro více informací.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

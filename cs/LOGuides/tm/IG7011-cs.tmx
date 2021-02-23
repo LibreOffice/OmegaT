@@ -1,0 +1,1678 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" segtype="sentence" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv lang="en">
+        <seg>Chapter 11, Setting Up and Customizing Impress&lt;segment 40929 ¶&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kapitola 11, Nastavení a přizpůsobení dojmu&lt;segment 40929 ¶&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Adding extensions&lt;/t0&gt; | &lt;t1&gt;13&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Přidávání rozšíření&lt;/t0&gt; |&lt;t1&gt; 13&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;12&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;Chapter 11, Setting Up and Customizing Impress&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;12&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; Kapitola 11, Nastavení a přizpůsobení dojmu&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;Chapter 11, Setting Up and Customizing Impress&lt;/t0&gt;&lt;s1/&gt;| &lt;t2&gt;3&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;Kapitola 11, Nastavení a přizpůsobení dojmu&lt;/t0&gt;&lt;s1/&gt; |&lt;t2&gt; 3&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;t0&gt;0&lt;/t0&gt;| &lt;t1&gt;Chapter 11, Setting Up and Customizing Impress&lt;/t1&gt;</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;t0&gt;0&lt;/t0&gt; |&lt;t1&gt; Kapitola 11, Nastavení a přizpůsobení dojmu&lt;/t1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress Guide</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Průvodce Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting Up and Customizing Impress</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nastavení a přizpůsobení dojmu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is Copyright © 2021 by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Autorská práva na tento dokument je © 2021 dokumentačním týmem LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To this edition.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>K tomuto vydání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To previous editions.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Do předchozích vydání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Elliot Turner</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Elliot Turner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Everything sent to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Všechno zaslané na seznam adresátů, včetně vaší e-mailové adresy a jakýchkoli dalších osobních údajů, které jsou ve zprávě napsány, je veřejně archivováno a nelze jej smazat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Published &lt;t0&gt;February&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt;2021&lt;/t2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Publikováno&lt;t0&gt; Únor&lt;/t0&gt;&lt;s1/&gt;&lt;t2&gt; 2021&lt;/t2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on LibreOffice &lt;ud3&gt;7.0&lt;/ud3&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Na základě LibreOffice&lt;ud3&gt; 7.0&lt;/ud3&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table below gives some common substitutions for the instructions in this document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Níže uvedená tabulka uvádí některé běžné náhrady za pokyny v tomto dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a detailed list, see the application Help.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podrobný seznam najdete v nápovědě aplikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the Styles deck in the Sidebar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Otevřete balíček Styly v postranním panelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Application Color options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti barev aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti zobrazení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customizing user interface</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přizpůsobení uživatelského rozhraní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Adding extensions</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přidávání rozšíření</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This chapter covers some of the settings in LibreOffice that apply when using Impress, but may also apply to all the other modules in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato kapitola popisuje některá nastavení v LibreOffice, která platí při použití aplikace Impress, ale mohou se vztahovat také na všechny ostatní moduly v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The illustrations in this chapter have been taken from LibreOffice Impress.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ilustrace v této kapitole byly převzaty z LibreOffice Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on setting up and customizing all the modules in LibreOffice, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o nastavení a přizpůsobení všech modulů v LibreOffice najdete v části&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Revert&lt;/f0&gt; has the same effect on all pages in the&lt;f1&gt; Options LibreOffice&lt;/f1&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vrátit zpět&lt;/f0&gt; má stejný účinek na všechny stránky v&lt;f1&gt; Možnosti LibreOffice&lt;/f1&gt; dialog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It resets the options to the values that were in place when you opened LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Obnoví možnosti na hodnoty, které byly na místě, když jste otevřeli LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress uses the first and last name stored in &lt;f0&gt;User Data&lt;/f0&gt; for document properties, optional author field used in slides, and the name associated with any comments that have been made.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Impress používá jméno a příjmení uložené v&lt;f0&gt; Uživatelská data&lt;/f0&gt; u vlastností dokumentu, volitelného pole autora použitého ve snímcích a jména přidruženého k jakýmkoli komentářům, které byly provedeny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the main menu bar to open the Options LibreOffice dialog (Figure &lt;t1&gt;1&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Nástroje &gt; Možnosti&lt;/f0&gt; na liště hlavní nabídky otevřete dialogové okno Možnosti LibreOffice (obrázek&lt;t1&gt; 1&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list on the left-hand side varies depending on which component of LibreOffice is open.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Seznam na levé straně se liší podle toho, která komponenta LibreOffice je otevřená.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the expansion marker ▼ by LibreOffice on the left-hand side and select &lt;f0&gt;User Data&lt;/f0&gt; to open the user data options page for LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klikněte na značku rozšíření ▼ od LibreOffice na levé straně a vyberte&lt;f0&gt; Uživatelská data&lt;/f0&gt; otevřete stránku možností uživatelských dat pro LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter or amend details that you would like to use for document properties.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zadejte nebo upravte podrobnosti, které chcete použít pro vlastnosti dokumentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;f0&gt;OK&lt;/f0&gt; to save the changes and close the Options LibreOffice dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Klepněte na&lt;f0&gt; OK&lt;/f0&gt; uložit změny a zavřít dialogové okno Možnosti LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;1&lt;/seq0&gt;: Options LibreOffice dialog - User Data page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 1&lt;/seq0&gt; : Možnosti Dialog LibreOffice - stránka Údaje o uživateli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;2&lt;/seq0&gt;: Options LibreOffice dialog - Print page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 2&lt;/seq0&gt; : Možnosti Dialog LibreOffice - Tisk stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Print options can be selected and changed using the &lt;f0&gt;Print&lt;/f0&gt; page of the Options LibreOffice dialog (Figure &lt;t1&gt;2&lt;/t1&gt;) or during the printing process.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti tisku lze vybrat a změnit pomocí&lt;f0&gt; Tisk&lt;/f0&gt; stránka dialogu Možnosti LibreOffice (Obrázek&lt;t1&gt; 2&lt;/t1&gt; ) nebo během procesu tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 10, Saving Slide Shows, Printing, E-mailing, and Exporting for more information about the printing of slide shows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o tisku prezentací najdete v kapitole 10, Ukládání prezentací, Tisk, E-mail a Export.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to &lt;f0&gt;Tools &gt; Options&lt;/f0&gt; on the main menu bar to open the Options LibreOffice dialog.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jít do&lt;f0&gt; Nástroje &gt; Možnosti&lt;/f0&gt; na liště hlavní nabídky otevřete dialogové okno Možnosti LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the expansion marker ▼ by LibreOffice on the left-hand side to open a list of subsections and select &lt;f0&gt;Print&lt;/f0&gt; to open the printing options page for LibreOffice (Figure &lt;t1&gt;2&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na značku rozšíření ▼ od LibreOffice na levé straně otevřete seznam podsekcí a vyberte&lt;f0&gt; Tisk&lt;/f0&gt; otevřete stránku s možnostmi tisku pro LibreOffice (obrázek&lt;t1&gt; 2&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the print settings that suit your printer and you most common printing method.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte nastavení tisku, které vyhovuje vaší tiskárně a vaší nejběžnější metodě tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The amount of data sent to the printer can be reduced.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Lze snížit množství dat odeslaných do tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This increases the print speed because the print files are smaller.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tím se zvyšuje rychlost tisku, protože tiskové soubory jsou menší.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also makes it easier for printers with a smaller memory to print.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Také usnadňuje tisk tiskárnám s menší pamětí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, reducing print data can result in slightly lower print quality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Snížení tiskových dat však může mít za následek mírně nižší kvalitu tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Settings for&lt;/f0&gt; – specifies whether the print settings apply to the printer or to a file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Nastavení pro&lt;/f0&gt; - určuje, zda se nastavení tisku vztahuje na tiskárnu nebo na soubor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Printer&lt;/f0&gt; – define options for reducing data while printing directly to a printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tiskárna&lt;/f0&gt; - definujte možnosti pro snížení dat při přímém tisku na tiskárně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Print to file&lt;/f0&gt; – define options for reducing data while printing to a file.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tisk do souboru&lt;/f0&gt; - definovat možnosti pro snížení dat při tisku do souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Convert colors to grayscale&lt;/f0&gt; – specifies that all colors are printed only as grayscale.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Převeďte barvy na stupně šedi&lt;/f0&gt; - určuje, že všechny barvy jsou vytištěny pouze ve stupních šedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Include transparent objects&lt;/f0&gt; – when selected, any reduction in print quality also applies to the transparent areas of objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zahrňte průhledné objekty&lt;/f0&gt; - pokud je vybráno, jakékoli snížení kvality tisku se vztahuje také na průhledné oblasti objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Reduce bitmaps&lt;/f0&gt; – specifies that bitmaps are printed with reduced quality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zmenšit bitmapy&lt;/f0&gt; - určuje, že bitmapy jsou vytištěny ve snížené kvalitě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The resolution can only be reduced and not increased.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozlišení lze pouze snížit a nezvýšit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Resolution&lt;/f0&gt; – specifies the maximum print quality in dpi.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Rozlišení&lt;/f0&gt; - určuje maximální kvalitu tisku v dpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Normal print quality&lt;/f0&gt; – corresponds to a resolution of 200dpi.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Normální kvalita tisku&lt;/f0&gt; - odpovídá rozlišení 200 dpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;High print quality&lt;/f0&gt; – corresponds to a resolution of 300dpi.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vysoká kvalita tisku&lt;/f0&gt; - odpovídá rozlišení 300 dpi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Reduce transparency&lt;/f0&gt; – if selected, any transparent objects will be printed as normal, depending on the selection for the two options.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Snižte průhlednost&lt;/f0&gt; - pokud je vybráno, jakékoli průhledné objekty se vytisknou jako obvykle, v závislosti na výběru těchto dvou možností.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Automatically&lt;/f0&gt; – specifies that any transparencies are only printed if the transparent areas covers less than a quarter of the entire page.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Automaticky&lt;/f0&gt; - určuje, že jakékoli průhledné fólie se vytisknou, pouze pokud průhledné oblasti pokrývají méně než čtvrtinu celé stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;No transparency&lt;/f0&gt; – when selected, transparencies are not printed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Žádná průhlednost&lt;/f0&gt; - pokud je vybráno, fólie se nevytisknou.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transparency cannot be sent directly to a printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Transparentnost nelze odeslat přímo na tiskárnu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The document areas where transparencies are to be visible must therefore always be calculated as bitmaps and sent to the printer.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Oblasti dokumentu, kde mají být průhledné fólie viditelné, musí být proto vždy počítány jako bitmapy a odeslány do tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending on the size of the bitmaps and the print resolution, a large amount of data may result.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V závislosti na velikosti bitmap a rozlišení tisku může dojít k velkému množství dat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Warnings&lt;/f0&gt; – defines which warnings appear before any printing starts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Varování&lt;/f0&gt; - definuje, která varování se objeví před zahájením tisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Paper size&lt;/f0&gt; – select this option if a certain paper size is required for printing a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Velikost papíru&lt;/f0&gt; - tuto možnost vyberte, pokud je pro tisk dokumentu vyžadován určitý formát papíru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the paper size required is not available in the current printer, a warning is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud požadovaný formát papíru není na aktuální tiskárně k dispozici, zobrazí se varování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Paper orientation&lt;/f0&gt; – select this option if a specific page orientation is required for a document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Orientace papíru&lt;/f0&gt; - tuto možnost vyberte, pokud je pro dokument požadována konkrétní orientace stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the format is not available, a warning is displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud formát není k dispozici, zobrazí se varování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Transparency&lt;/f0&gt; – select this option if a warning is required when transparencies are contained in the document.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Průhlednost&lt;/f0&gt; - vyberte tuto možnost, pokud je vyžadováno varování, pokud jsou v dokumentu průhledné fólie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A dialog appears allowing selection if the transparency is to be printed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazí se dialogové okno umožňující výběr, zda se má průhlednost tisknout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Reduce gradient&lt;/f0&gt; – if selected, gradients are printed with reduced quality.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Snižte sklon&lt;/f0&gt; - pokud je tato možnost vybrána, přechody se tisknou ve snížené kvalitě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Gradient stripes&lt;/f0&gt; – specifies the maximum number of gradient stripes for printing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přechodové pruhy&lt;/f0&gt; - určuje maximální počet přechodových pruhů pro tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Intermediate color&lt;/f0&gt; – specifies that gradients are only printed in a single intermediate color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Střední barva&lt;/f0&gt; - určuje, že přechody jsou vytištěny pouze v jedné mezilehlé barvě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View options (Figure &lt;t0&gt;3&lt;/t0&gt;) control how the user interface for LibreOffice appears when creating slide shows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti zobrazení (obrázek&lt;t0&gt; 3&lt;/t0&gt; ) určují, jak se při vytváření prezentací zobrazí uživatelské rozhraní pro LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on customizing the user interface, see the Getting Started Guide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o přizpůsobení uživatelského rozhraní najdete v příručce Začínáme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Icon style – s&lt;/f0&gt;pecifies the icon style for icons in toolbars and dialogs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Styl ikon - s&lt;/f0&gt; určuje styl ikon pro ikony na panelech nástrojů a dialogových oknech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;icon size – s&lt;/f0&gt;ets the icon size to &lt;f1&gt;Automatic&lt;/f1&gt;, &lt;f2&gt;Small&lt;/f2&gt;, &lt;f3&gt;Large&lt;/f3&gt; or &lt;f4&gt;Extra Large&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;velikost ikony - s&lt;/f0&gt; nastaví velikost ikony na&lt;f1&gt; Automatický&lt;/f1&gt; ,&lt;f2&gt; Malý&lt;/f2&gt; ,&lt;f3&gt; Velký&lt;/f3&gt; nebo&lt;f4&gt; Extra velké&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Toolbar&lt;/f0&gt; – specifies the display size of toolbar icons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Panel nástrojů&lt;/f0&gt; - určuje velikost zobrazení ikon na panelu nástrojů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Notebook bar&lt;/f0&gt; – specifies the display size of notebook bar icons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Lišta na notebook&lt;/f0&gt; - určuje velikost zobrazení ikon na panelu poznámkového bloku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Sidebar&lt;/f0&gt; – specifies the display size of sidebar icons.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Postranní panel&lt;/f0&gt; - určuje velikost zobrazení ikon postranního panelu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Visibility&lt;/f0&gt; &lt;s1/&gt;- select from &lt;f2&gt;Automatic&lt;/f2&gt;, &lt;f3&gt;Hide&lt;/f3&gt; or &lt;f4&gt;Show&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Viditelnost&lt;/f0&gt;&lt;s1/&gt; - vyberte z&lt;f2&gt; Automatický&lt;/f2&gt; ,&lt;f3&gt; Skrýt&lt;/f3&gt; nebo&lt;f4&gt; Ukázat&lt;/f4&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f5&gt;Automatic&lt;/f5&gt; displays icons according to system settings and themes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f5&gt;Automatický&lt;/f5&gt; zobrazuje ikony podle nastavení systému a motivů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Shortcuts&lt;/f0&gt; – displays keyboard shortcuts next to the corresponding menu items.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Klávesové zkratky&lt;/f0&gt; - zobrazí klávesové zkratky vedle příslušných položek nabídky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Mouse&lt;/f0&gt; – defines how the mouse cursor is positioned and the action of the middle button, if used.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Myš&lt;/f0&gt; - definuje, jak je umístěn kurzor myši a akce prostředního tlačítka, pokud je použito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Positioning&lt;/f0&gt; – specifies if and how the mouse cursor is positioned in newly opened dialogs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Polohování&lt;/f0&gt; - určuje, zda a jak je kurzor myši umístěn v nově otevřených dialogových oknech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Middle button&lt;/f0&gt; – defines the function of the middle mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Prostřední tlačítko&lt;/f0&gt; - definuje funkci prostředního tlačítka myši.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic scrolling dragging while pressing the middle mouse button shifts the view.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Automatické posouvání tažení při stisknutí prostředního tlačítka myši posune pohled.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f1&gt;Paste clipboard&lt;/f1&gt; pressing the middle mouse button inserts the contents of the clipboard.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f1&gt;Vložte schránku&lt;/f1&gt; stisknutím prostředního tlačítka myši vložíte obsah schránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;3&lt;/seq0&gt;: Options LibreOffice dialog - View page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 3&lt;/seq0&gt; : Možnosti Dialog LibreOffice - Zobrazit stránku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Graphics Output&lt;/f0&gt; – defines how graphics are displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Grafický výstup&lt;/f0&gt; - definuje způsob zobrazení grafiky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Use hardware acceleration&lt;/f0&gt; – directly accesses hardware features of the graphical display adapter to improve the screen display.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Použijte hardwarovou akceleraci&lt;/f0&gt; - přímo přistupuje k hardwarovým funkcím grafického adaptéru pro zlepšení zobrazení na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The support for hardware acceleration is not available for all operating systems and platform distributions of LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podpora hardwarové akcelerace není k dispozici pro všechny operační systémy a distribuce platforem LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Use anti-aliasing&lt;/f0&gt; – when supported, you can enable and disable anti-aliasing of graphics.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Použijte vyhlazování&lt;/f0&gt; - je-li podporováno, můžete povolit a zakázat vyhlazování grafik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With anti-aliasing enabled, the display of most graphical objects looks smoother and with less artifacts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Se zapnutým vyhlazováním vypadá zobrazení většiny grafických objektů plynuleji as menšími artefakty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Font Lists&lt;/f0&gt; – defines how the fonts are displayed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Seznamy písem&lt;/f0&gt; - definuje způsob zobrazení písem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show preview of fonts – displays how a selected font will appear on the user interface.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Zobrazit náhled písem - zobrazuje, jak se vybrané písmo zobrazí v uživatelském rozhraní.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Screen font aliasing&lt;/f0&gt; – when selected, the display of fonts looks smoother and with less artifacts.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Alias písma písma na obrazovce&lt;/f0&gt; - pokud je tato možnost vybrána, zobrazení písem vypadá plynuleji as menšími artefakty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Application colors specify which color is used to display various elements of the user interface in LibreOffice.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Barvy aplikace určují, která barva se použije k zobrazení různých prvků uživatelského rozhraní v LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The only option specific to Impress is the color of the grid points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jedinou možností specifickou pro Impress je barva bodů mřížky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scroll down in the page until you find &lt;f0&gt;Drawing/Presentation&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte dolů na stránce, dokud nenajdete&lt;f0&gt; Kreslení / prezentace&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click the expansion marker ▼ by LibreOffice on the left-hand side to open a list of subsections and select &lt;f0&gt;Application Colors&lt;/f0&gt; to open the color options page for the colors used in LibreOffice (Figure &lt;t1&gt;4&lt;/t1&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kliknutím na značku rozšíření ▼ od LibreOffice na levé straně otevřete seznam podsekcí a vyberte&lt;f0&gt; Barvy aplikace&lt;/f0&gt; otevřete stránku možností barev pro barvy použité v LibreOffice (obrázek&lt;t1&gt; 4&lt;/t1&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scroll down the &lt;f0&gt;Custom Colors&lt;/f0&gt; list until you reach the option for &lt;f1&gt;Drawing/Presentation&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přejděte dolů&lt;f0&gt; Vlastní barvy&lt;/f0&gt; seznamu, dokud nedosáhnete možnosti pro&lt;f1&gt; Kreslení / prezentace&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select from the list of color palettes a color to use for the &lt;f0&gt;Grid&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vyberte ze seznamu barevných palet barvu, kterou chcete použít pro&lt;f0&gt; Mřížka&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you wish to save your color changes as a color scheme, click &lt;f0&gt;Save&lt;/f0&gt; and type a name in the Save scheme dialog, then click &lt;f1&gt;OK&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud si přejete uložit své barevné změny jako barevné schéma, klikněte na&lt;f0&gt; Uložit&lt;/f0&gt; a zadejte název v dialogovém okně Uložit schéma a poté klikněte na&lt;f1&gt; OK&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;4&lt;/seq0&gt;: Options LibreOffice dialog - Application Colors page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 4&lt;/seq0&gt; : Možnosti Dialog LibreOffice - stránka Barvy aplikace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;5&lt;/seq0&gt;: Options LibreOffice Impress dialog - General page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 5&lt;/seq0&gt; : Možnosti Dialog LibreOffice Impress - stránka Obecné</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the &lt;f0&gt;Options LibreOffice&lt;/f0&gt; dialog, click the expansion marker ▼ to the left of &lt;f1&gt;LibreOffice Impress&lt;/f1&gt; on the left-hand side to open a list of subsections available for Impress (Figure &lt;t2&gt;5&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V&lt;f0&gt; Možnosti LibreOffice&lt;/f0&gt; V dialogovém okně klikněte na značku rozšíření ▼ nalevo od&lt;f1&gt; LibreOffice Impress&lt;/f1&gt; na levé straně otevřete seznam podsekcí dostupných pro Impress (obrázek&lt;t2&gt; 5&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;LibreOffice Impress &gt; General&lt;/f0&gt; (Figure &lt;t1&gt;5&lt;/t1&gt;) to specify the general options for slide shows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; LibreOffice Impress &gt; Obecné&lt;/f0&gt; (Postava&lt;t1&gt; 5&lt;/t1&gt; ) k určení obecných možností pro prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New document</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nový dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Start with Template Selection&lt;/f0&gt; – if selected, the Select a Template dialog opens when creating a new presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Začněte výběrem šablony&lt;/f0&gt; - je-li vybráno, při vytváření nové prezentace se otevře dialogové okno Vybrat šablonu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Textové objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Allow quick editing&lt;/f0&gt; – if selected, you can edit text immediately after clicking a text object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Povolit rychlé úpravy&lt;/f0&gt; - pokud je vybráno, můžete text upravovat ihned po kliknutí na textový objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If deselected, you must double-click to edit text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud není vybráno, musíte text upravit poklepáním.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also activate this mode by clicking on &lt;f1&gt;Allow Quick Editing&lt;/f1&gt; in the Options toolbar (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento režim můžete také aktivovat kliknutím na&lt;f1&gt; Povolit rychlé úpravy&lt;/f1&gt; na panelu nástrojů Možnosti (obrázek&lt;t2&gt; 6&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;6&lt;/seq0&gt;: Options toolbar</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 6&lt;/seq0&gt; : Panel nástrojů Možnosti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Only text area selectable&lt;/f0&gt; – specifies whether to select a text frame by clicking the text.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Lze vybrat pouze textovou oblast&lt;/f0&gt; - určuje, zda se má vybrat textový rámeček kliknutím na text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the area of the text frame that is not filled with text, an object behind the text frame can be selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>V oblasti textového rámečku, která není vyplněna textem, lze vybrat objekt za textovým rámečkem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also activate this mode by clicking on &lt;f1&gt;Select Text Area Only&lt;/f1&gt; in the Options toolbar (Figure &lt;t2&gt;6&lt;/t2&gt;).</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento režim můžete také aktivovat kliknutím na&lt;f1&gt; Vyberte pouze textovou oblast&lt;/f1&gt; na panelu nástrojů Možnosti (obrázek&lt;t2&gt; 6&lt;/t2&gt; ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Copy when moving&lt;/f0&gt; – if selected, a copy is created when you move an object while holding down the &lt;f1&gt;Ctrl&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Při pohybu kopírujte&lt;/f0&gt; - je-li vybráno, vytvoří se kopie, když přesunete objekt a současně držíte&lt;f1&gt; Ctrl&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same applies for rotating and resizing an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Totéž platí pro otáčení a změnu velikosti objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original object will remain in its current position and size.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Původní objekt zůstane ve své aktuální poloze a velikosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Use background cache&lt;/f0&gt; – specifies whether to use the cache for displaying objects on the master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Použijte mezipaměť na pozadí&lt;/f0&gt; - určuje, zda se má použít mezipaměť pro zobrazení objektů na hlavním snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This speeds up the display.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To zrychluje displej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deselect this option if you want to display changing contents on the master slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto možnost zrušte, pokud chcete na hlavním snímku zobrazit měnící se obsah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Objects always moveable&lt;/f0&gt; – when selected, it allows you to move an object with &lt;f1&gt;Rotate&lt;/f1&gt; enabled.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Objekty jsou vždy pohyblivé&lt;/f0&gt; - je-li vybráno, umožňuje přesouvat objekt pomocí&lt;f1&gt; Točit se&lt;/f1&gt; povoleno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is not selected, &lt;f2&gt;Rotate&lt;/f2&gt; can only be used to rotate an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tato možnost není vybrána,&lt;f2&gt; Točit se&lt;/f2&gt; lze použít pouze k otočení objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Unit of measurement&lt;/f0&gt; – determines the unit of measurement used in Impress.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Jednotka měření&lt;/f0&gt; - určuje měrnou jednotku použitou v Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tab stops&lt;/f0&gt; – defines the spacing between tab stops.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Tabulátory se zastaví&lt;/f0&gt; - definuje mezeru mezi zarážkami tabulátoru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Enable Presenter Console&lt;/f0&gt; – when selected, opens the &lt;f1&gt;Presenter Console&lt;/f1&gt; for presentations when using multiple displays.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Povolte Presenter Console&lt;/f0&gt; - je-li vybráno, otevře&lt;f1&gt; Konzole pro přednášející&lt;/f1&gt; pro prezentace při použití více displejů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Compatibility&lt;/f0&gt; – these settings are valid for the current presentation only.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Kompatibilita&lt;/f0&gt; - tato nastavení jsou platná pouze pro aktuální prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Use printer metrics for document formatting&lt;/f0&gt; – specifies that printer metrics are applied for printing and also for formatting the display on the screen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;K formátování dokumentů používejte metriky tiskárny&lt;/f0&gt; - určuje, že metriky tiskárny se použijí pro tisk a také pro formátování zobrazení na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is not selected, a printer independent layout will be used for screen display and printing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tato možnost není vybrána, použije se pro zobrazení a tisk na obrazovce nezávislé rozvržení tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you set this option for the current document and then save the document, for example, in an older binary format, this option will not be saved.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud nastavíte tuto možnost pro aktuální dokument a poté dokument uložíte, například ve starším binárním formátu, tato možnost se neuloží.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you later open the file from the older format, this option will be set by default.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud později otevřete soubor ze staršího formátu, bude tato možnost ve výchozím nastavení nastavena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Add spacing between paragraphs and tables&lt;/f0&gt; – specifies that Impress calculates the paragraph spacing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přidejte mezery mezi odstavce a tabulky&lt;/f0&gt; - určuje, že Impress vypočítá mezery mezi odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similar to Microsoft PowerPoint which adds the bottom spacing of a paragraph to the top spacing of the next paragraph to calculate the total spacing between both paragraphs.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Podobně jako Microsoft PowerPoint, který přidává dolní mezery odstavce k horním mezerám následujícího odstavce a vypočítá celkovou mezeru mezi oběma odstavci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress utilizes only the larger of the two spacings.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Impress využívá pouze větší z těchto dvou roztečí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;LibreOffice Impress &gt; View&lt;/f0&gt; (Figure &lt;t1&gt;7&lt;/t1&gt;) to specify the &lt;f2&gt;Display&lt;/f2&gt; options for the available display modes.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; LibreOffice Impress &gt; Zobrazit&lt;/f0&gt; (Postava&lt;t1&gt; 7&lt;/t1&gt; ) k upřesnění&lt;f2&gt; Zobrazit&lt;/f2&gt; možnosti pro dostupné režimy zobrazení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Rulers visible&lt;/f0&gt; – specifies whether to display the rulers at the top and to the left of the work area.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Pravítka viditelná&lt;/f0&gt; - určuje, zda se mají pravítka zobrazit nahoře a nalevo od pracovní oblasti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Helplines when moving&lt;/f0&gt; – specifies whether to display guides when moving an object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Linky pomoci při pohybu&lt;/f0&gt; - určuje, zda se při pohybu objektu mají zobrazit vodítka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress creates dotted guides that extend beyond the box containing the selected object and which cover the entire Workspace, helping you position the object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Impress vytváří tečkovaná vodítka, která přesahují rámeček obsahující vybraný objekt a pokrývají celý pracovní prostor, což vám pomůže umístit objekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also activate this mode by clicking on &lt;f1&gt;Helplines While Moving&lt;/f1&gt; in the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento režim můžete také aktivovat kliknutím na&lt;f1&gt; Linky pomoci při pohybu&lt;/f1&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;7&lt;/seq0&gt;: Options LibreOffice dialog - View page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 7&lt;/seq0&gt; : Možnosti Dialog LibreOffice - Zobrazit stránku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;All control points in Bézier editor&lt;/f0&gt; – displays the control points of all Bézier points if you have previously selected a Bézier curve.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Všechny kontrolní body v editoru Bézier&lt;/f0&gt; - zobrazí kontrolní body všech Bézierových bodů, pokud jste dříve vybrali Bézierovu křivku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is not selected, only the control points of the selected Bézier points will be visible.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tato možnost není vybrána, budou viditelné pouze kontrolní body vybraných Bézierových bodů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Contour of each individual object&lt;/f0&gt; – Impress displays the contour line of each individual object when moving this object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Obrys každého jednotlivého objektu&lt;/f0&gt; - Impress zobrazí při pohybu tohoto objektu obrysovou čáru každého jednotlivého objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option enables you to see if single objects conflict with other objects in the target position.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tato možnost umožňuje zjistit, zda jsou jednotlivé objekty v cílové pozici v konfliktu s jinými objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you do not select this option, Impress displays only a square contour that includes all selected objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tuto možnost nevyberete, zobrazí Impress pouze čtvercový obrys, který zahrnuje všechny vybrané objekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;LibreOffice Impress &gt; Grid&lt;/f0&gt; (Figure &lt;t1&gt;8&lt;/t1&gt;) to specify the grid settings for Impress.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; LibreOffice Impress &gt; Mřížka&lt;/f0&gt; (Postava&lt;t1&gt; 8&lt;/t1&gt; ) k určení nastavení mřížky pro Impress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using a grid helps you determine the exact position of your objects.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Použití mřížky vám pomůže určit přesnou polohu vašich objektů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also set this grid to line up with the snap grid.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tuto mřížku můžete také nastavit tak, aby odpovídala rastrové mřížce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Snap to grid&lt;/f0&gt; – activates the snap function.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přichytit k mřížce&lt;/f0&gt; - aktivuje funkci snap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is selected and you want to move or create individual objects without snapping to the grid, press the &lt;f1&gt;Shift&lt;/f1&gt; key to deactivate &lt;f2&gt;Snap to grid&lt;/f2&gt; whilst moving the individual object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je vybrána tato možnost a chcete přesouvat nebo vytvářet jednotlivé objekty bez přichycení k mřížce, stiskněte&lt;f1&gt; Posun&lt;/f1&gt; deaktivovat&lt;f2&gt; Přichytit k mřížce&lt;/f2&gt; při pohybu jednotlivého objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also activate this mode by clicking on &lt;f3&gt;Snap to Grid&lt;/f3&gt; on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento režim můžete také aktivovat kliknutím na&lt;f3&gt; Přichytit k mřížce&lt;/f3&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Visible grid&lt;/f0&gt; – displays grid points on the screen.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Viditelná mřížka&lt;/f0&gt; - zobrazí body mřížky na obrazovce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These points will not display or print as part of a presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tyto body se nebudou zobrazovat ani tisknout jako součást prezentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal&lt;/f0&gt; – defines the measurement unit for the spacing between grid points on the X‑axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální&lt;/f0&gt; - definuje měrnou jednotku pro rozteč mezi body mřížky na ose X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical&lt;/f0&gt; – defines the measurement unit for the spacing between grid points the Y‑axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální&lt;/f0&gt; - definuje měrnou jednotku pro rozteč mezi body mřížky v ose Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Synchronize axes&lt;/f0&gt; – when selected, the measurement and spacing settings for X and Y axes are synchronized for &lt;f1&gt;Resolution&lt;/f1&gt; and &lt;f2&gt;Subdivision&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Synchronizovat osy&lt;/f0&gt; - je-li vybráno, nastavení měření a roztečí os X a Y se synchronizuje pro&lt;f1&gt; Rozlišení&lt;/f1&gt; a&lt;f2&gt; Pododdělení&lt;/f2&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subdivision</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pododdělení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Horizontal&lt;/f0&gt; – specify the number of intermediate spaces between grid points on the X‑axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Horizontální&lt;/f0&gt; - zadejte počet mezer mezi body mřížky na ose X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Vertical&lt;/f0&gt; – specify the number of intermediate spaces between grid points on the Y‑axis.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Vertikální&lt;/f0&gt; - zadejte počet mezer mezi body mřížky na ose Y.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;8&lt;/seq0&gt;: Options LibreOffice Impress dialog - Grid page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 8&lt;/seq0&gt; : Možnosti Dialog LibreOffice Impress - stránka mřížky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Snap</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Přichytit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To snap lines&lt;/f0&gt; – snaps the edge of an object being dragged to the nearest snap line when you release the mouse.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přichytávání čar&lt;/f0&gt; - po uvolnění myši uchopí okraj objektu, který je přetažen na nejbližší uchopovací čáru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also activate this mode by clicking on &lt;f1&gt;Snap to Snap Lines&lt;/f1&gt; on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento režim můžete také aktivovat kliknutím na&lt;f1&gt; Přichytit k přichycení čar&lt;/f1&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To the page margins&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;– specifies whether to align the contour of the graphic object to the nearest page margin.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Na okraj stránky&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt; - určuje, zda se má kontura grafického objektu zarovnat k nejbližšímu okraji stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The cursor or a contour line of the graphics object must be in the snap range.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kurzor nebo obrysová čára grafického objektu musí být v oblasti uchopení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also activate this mode by clicking on &lt;f2&gt;Snap to Page Margins&lt;/f2&gt; on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento režim můžete také aktivovat kliknutím na&lt;f2&gt; Přichytit k okrajům stránky&lt;/f2&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To object frame&lt;/f0&gt; – specifies whether to align the contour of the graphic object to the border of the nearest graphic object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;K rámu objektu&lt;/f0&gt; - určuje, zda se má kontura grafického objektu zarovnat k hranici nejbližšího grafického objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also activate this mode by clicking on &lt;f1&gt;Snap to Object Border&lt;/f1&gt; on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento režim můžete také aktivovat kliknutím na&lt;f1&gt; Přichytit k hranici objektu&lt;/f1&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;To object points&lt;/f0&gt; – specifies whether to align the contour of the graphic object to the points of the nearest graphic object.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Namítat body&lt;/f0&gt; - určuje, zda se má kontura grafického objektu zarovnat k bodům nejbližšího grafického objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This only applies if the cursor or a contour line of the graphics object is in the snap range.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To platí pouze v případě, že je kurzor nebo obrysová čára grafického objektu v oblasti uchopení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also activate this mode by clicking on &lt;f1&gt;Snap to Object Points&lt;/f1&gt; on the Options toolbar.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Tento režim můžete také aktivovat kliknutím na&lt;f1&gt; Přichytit k objektovým bodům&lt;/f1&gt; na panelu nástrojů Možnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Snap range&lt;/f0&gt; – defines the snap distance between the mouse pointer and the object contour.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Dosah&lt;/f0&gt; - definuje vzdálenost přichytávání mezi ukazatelem myši a obrysem objektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the cursor is nearer than the distance specified, the cursor snaps to a snap point.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud je kurzor blíže než zadaná vzdálenost, kurzor se přichytí k bodu přichycení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Constrain Objects</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Omezit objekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;When creating or moving objects&lt;/f0&gt; – specifies that graphic objects are restricted vertically, horizontally or diagonally (45°) when creating or moving them.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Při vytváření nebo přesouvání objektů&lt;/f0&gt; - určuje, že grafické objekty jsou při jejich vytváření nebo přesunu omezeny svisle, vodorovně nebo úhlopříčně (45 °).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can temporarily deactivate this setting by pressing the &lt;f1&gt;Shift&lt;/f1&gt; key.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Toto nastavení můžete dočasně deaktivovat stisknutím tlačítka&lt;f1&gt; Posun&lt;/f1&gt; klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Extend edges&lt;/f0&gt; – specifies that a square is created based on the longer side of a rectangle when the &lt;f1&gt;Shift&lt;/f1&gt; key is pressed before you release the mouse button.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Prodlužte hrany&lt;/f0&gt; - určuje, že se čtverec vytvoří na základě delší strany obdélníku, když&lt;f1&gt; Posun&lt;/f1&gt; před uvolněním tlačítka myši stisknete klávesu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This also applies to an ellipse where a circle will be created based on the longest diameter of the ellipse.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>To platí také pro elipsu, kde bude vytvořen kruh na základě nejdelšího průměru elipsy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this option is NOT selected, a square or a circle will be created based on the shorter side or diameter.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud tato možnost NENÍ vybrána, vytvoří se čtverec nebo kruh na základě kratší strany nebo průměru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;When rotating&lt;/f0&gt; – specifies that graphic objects can only be rotated within the rotation angle that you selected.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Při otáčení&lt;/f0&gt; - určuje, že grafické objekty lze otáčet pouze v rámci vybraného úhlu otočení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to rotate an object outside the defined angle, press the &lt;f1&gt;Shift&lt;/f1&gt; key when rotating.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud chcete objekt otočit mimo definovaný úhel, stiskněte&lt;f1&gt; Posun&lt;/f1&gt; klíč při otáčení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Release the key when the desired rotation angle is reached.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Jakmile je dosaženo požadovaného úhlu natočení, uvolněte klíč.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Point reduction&lt;/f0&gt; – defines the angle for point reduction.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Redukce bodu&lt;/f0&gt; - definuje úhel pro zmenšení bodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working with polygons, you might find it useful to reduce their editing points.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Při práci s polygony může být užitečné snížit jejich body úprav.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Figure &lt;seq0&gt;9&lt;/seq0&gt;: Options LibreOffice Impress dialog - Print page</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Postava&lt;seq0&gt; 9&lt;/seq0&gt; : Možnosti Dialog LibreOffice Impress - Tisk stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f0&gt;LibreOffice Impress &gt; Print&lt;/f0&gt; (Figure &lt;t1&gt;9&lt;/t1&gt;) to specify print settings for a presentation.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f0&gt; LibreOffice Impress &gt; Tisk&lt;/f0&gt; (Postava&lt;t1&gt; 9&lt;/t1&gt; ) k zadání nastavení tisku pro prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Chapter 10 Saving Slide Shows, Printing, E-mailing, and Exporting for more information about printing and the options available.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o tisku a dostupných možnostech najdete v kapitole 10 Ukládání prezentací, tisk, e-mail a export.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Page Options</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Možnosti stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Default&lt;/f0&gt; – pages are printed at the default setting for printing.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výchozí&lt;/f0&gt; - stránky se tisknou ve výchozím nastavení pro tisk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Fit to page&lt;/f0&gt; – a slide is resized to fit the printed page, while maintaining the relative positions of the objects on the slide.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Přizpůsobit stránce&lt;/f0&gt; - velikost snímku se přizpůsobí vytištěné stránce při zachování relativní polohy objektů na snímku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Tile pages&lt;/f0&gt; – specifies that pages are printed in tiled format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Dlaždice stránky&lt;/f0&gt; - určuje, že stránky budou vytištěny ve formátu dlaždic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the pages or slides are smaller than the paper, several pages or slides will be printed on one page of paper.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Pokud jsou stránky nebo diapozitivy menší než papír, vytiskne se na jednu stránku papíru několik stránek nebo diapozitivů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Brochure&lt;/f0&gt; – elect this option to print the document in brochure format.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Brožura&lt;/f0&gt; - vyberte tuto možnost pro tisk dokumentu ve formátu brožury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &lt;f1&gt;Front&lt;/f1&gt; to print from the front to the back of a brochure.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Vybrat&lt;f1&gt; Přední&lt;/f1&gt; tisk brožury zepředu dozadu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Back to print from the back to the front of a brochure.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Chcete-li tisknout zezadu na přední část brožury, vyberte možnost Zpět.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Paper tray from printer settings&lt;/f0&gt; – when selected, the paper tray used is defined in the printer setup.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Zásobník papíru z nastavení tiskárny&lt;/f0&gt; - je-li vybráno, použitý zásobník papíru je definován v nastavení tiskárny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Page name&lt;/f0&gt; – when selected, the page name is printed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Název stránky&lt;/f0&gt; - je-li vybráno, vytiskne se název stránky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Date&lt;/f0&gt; – when selected, the current date is printed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;datum&lt;/f0&gt; - při výběru se vytiskne aktuální datum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Time&lt;/f0&gt; – when selected, the current time is printed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Čas&lt;/f0&gt; - při výběru se vytiskne aktuální čas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Hidden pages&lt;/f0&gt; – when selected, any hidden pages in the slide show are printed.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Skryté stránky&lt;/f0&gt; - je-li vybráno, vytisknou se všechny skryté stránky v prezentaci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Kvalitní</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Default&lt;/f0&gt; – when selected, the slides are printed in color.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Výchozí&lt;/f0&gt; - při výběru jsou snímky vytištěny barevně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Grayscale&lt;/f0&gt; – when selected, the slides are printed as grayscale.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Stupně šedi&lt;/f0&gt; - při výběru jsou snímky vytištěny ve stupních šedi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;f0&gt;Black &amp; white&lt;/f0&gt; – when selected, the slides are printed in black and white.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>&lt;f0&gt;Černá bílá&lt;/f0&gt; - při výběru jsou snímky vytištěny černobíle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Impress menus, toolbars, and keyboard shortcuts can be customized by adding, deleting, or modifying items in the menus, toolbars, and keyboard shortcuts that are used when you create slides and slide shows.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Nabídky, panely nástrojů a klávesové zkratky Impress lze přizpůsobit přidáním, odstraněním nebo úpravou položek v nabídkách, panelech nástrojů a klávesových zkratkách, které se používají při vytváření snímků a prezentací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on customizing the user interface, see the &lt;f0&gt;Getting Started Guide&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o přizpůsobení uživatelského rozhraní najdete v části&lt;f0&gt; Průvodce Začínáme&lt;/f0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An extension is a package that can be installed into LibreOffice Impress to add a new function.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Rozšíření je balíček, který lze nainstalovat do LibreOffice Impress a přidat novou funkci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although individual extensions can be found in different places, the official LibreOffice extension repository is at &lt;a0&gt;http://extensions.libreoffice.org/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Ačkoli jednotlivá rozšíření lze najít na různých místech, oficiální úložiště rozšíření LibreOffice je na&lt;a0&gt; http://extensions.libreoffice.org/&lt;/a0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some extensions are free of charge; others are available for a fee.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Některá rozšíření jsou zdarma; ostatní jsou k dispozici za poplatek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information on extensions, see the &lt;f1&gt;Getting Started Guide&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs">
+        <seg>Další informace o rozšířeních najdete v&lt;f1&gt; Průvodce Začínáme&lt;/f1&gt; .</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
