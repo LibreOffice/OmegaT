@@ -29,5 +29,10 @@
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
         <external_command></external_command>
+        <repositories>
+        <repository type="git" url="https://github.com/LibreOffice/OmegaT/edit/master/pt-BR/Guias/">
+            <mapping local="/" repository="/"/>
+        </repository>
+    </repositories>
     </project>
 </omegat>
